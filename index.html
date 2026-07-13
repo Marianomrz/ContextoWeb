@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contexto — Noticias con perspectiva</title>
+<meta name="description" content="Cada noticia con su espectro editorial (izquierda-centro-derecha), el enfoque que eligió el medio y el contexto que la nota no siempre cuenta. Sin muro de pago.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Contexto">
+<meta property="og:title" content="Contexto — Noticias con perspectiva">
+<meta property="og:description" content="Cada noticia con su espectro editorial, enfoque y contexto a la vista. Un portal escrito por agentes, con control de calidad y transparencia total.">
+<meta property="og:image" content="assets/og/og-default.png">
+<meta property="og:locale" content="es_MX">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contexto — Noticias con perspectiva">
+<meta name="twitter:description" content="Cada noticia con su espectro editorial, enfoque y contexto a la vista.">
+<meta name="twitter:image" content="assets/og/og-default.png">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Contexto",
+  "description": "Portal de noticias con análisis de sesgo: espectro editorial, enfoque y contexto de cada cobertura.",
+  "inLanguage": "es"
+}
+</script>
+<!--
+  Analytics respetuoso de privacidad (opcional): crea una cuenta en
+  https://plausible.io, agrega tu dominio, y descomenta esta línea
+  reemplazando TU-DOMINIO. Sin cookies, cumple GDPR, coherente con
+  la política de privacidad del portal (actualízala si lo activas).
+<script defer data-domain="TU-DOMINIO" src="https://plausible.io/js/script.js"></script>
+-->
+<!--
+  Verificación de Google Search Console: al registrar el sitio en
+  https://search.google.com/search-console elige "Etiqueta HTML",
+  copia el código que te dé Google y descomenta esta línea.
+  Pasos completos en el README, sección "Vigilancia y salud del portal".
+<meta name="google-site-verification" content="PEGA-AQUI-TU-CODIGO">
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Caveat:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="skiplink-wrap">
+  <a class="skip-link" href="#contenido-principal">Saltar al contenido principal</a>
+</div>
+
+<!-- ============ PORTADA (cortina: la edición se descubre al primer scroll) ============ -->
+<section class="cover" id="portada" aria-label="Portada de la edición">
+  <div class="cover-inner">
+    <p class="cover-kicker">Edición digital · <span id="fecha-portada">—</span></p>
+    <!-- reserva el espacio del título grande en el flujo normal: el título
+         real se vuelve position:fixed por JS para viajar hasta el masthead
+         (ver #coverBrand en app.js/initScrollFX) -->
+    <div class="cover-brand-spacer" aria-hidden="true">Contexto.</div>
+    <h1 class="cover-brand" id="coverBrand">Contexto<span class="cover-dot">.</span></h1>
+    <p class="cover-tagline">cada noticia, con su ángulo a la vista</p>
+    <div class="cover-rule" aria-hidden="true"></div>
+  </div>
+  <a class="cover-hint" href="#contenido-principal">
+    <span>Desliza para abrir la edición</span>
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+  </a>
+</section>
+<div class="cover-spacer" aria-hidden="true"></div>
+
+<div class="edition">
+
+<!-- ============ MASTHEAD ============ -->
+<header class="masthead">
+  <div class="masthead-glow" aria-hidden="true"></div>
+  <div class="masthead-topline">
+    <span id="fecha-hoy">—</span>
+    <span class="topline-sep">·</span>
+    <span>Edición digital</span>
+    <span class="topline-sep">·</span>
+    <span>Sin muro de pago</span>
+  </div>
+  <div class="masthead-main">
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="mainNav" aria-label="Abrir menú">
+      <span></span><span></span><span></span>
+    </button>
+    <h1 class="masthead-title">Contexto</h1>
+    <p class="masthead-tagline">cada noticia, con su ángulo a la vista</p>
+    <button class="theme-toggle" id="themeToggle" aria-label="Cambiar entre tema claro y oscuro" title="Cambiar tema">
+      <svg class="tt-moon" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M20 12.5A8 8 0 1 1 11.5 4a6.5 6.5 0 0 0 8.5 8.5z"/></svg>
+      <svg class="tt-sun" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M4.9 4.9l1.8 1.8M17.3 17.3l1.8 1.8M19.1 4.9l-1.8 1.8M6.7 17.3l-1.8 1.8"/></svg>
+    </button>
+  </div>
+</header>
+
+<nav class="masthead-nav" id="mainNav" aria-label="Secciones">
+  <button class="nav-pill is-active" data-filter="todas">Portada</button>
+  <button class="nav-pill" data-filter="politica">Política</button>
+  <button class="nav-pill" data-filter="economia">Economía</button>
+  <button class="nav-pill" data-filter="tecnologia">Tecnología</button>
+  <button class="nav-pill" data-filter="sociedad">Sociedad</button>
+  <button class="nav-pill" data-filter="internacional">Internacional</button>
+  <button class="nav-pill" data-filter="deportes">Deportes</button>
+  <button class="nav-pill" data-filter="literatura">Literatura</button>
+  <a class="nav-pill nav-pill-ghost" href="revista.html">Revista</a>
+  <a class="nav-pill nav-pill-ghost" href="#como-funciona">Cómo lo medimos</a>
+</nav>
+
+<!-- ============ MAIN ============ -->
+<main id="contenido-principal">
+
+  <!-- Franja explicativa breve -->
+  <section class="intro-strip reveal">
+    <div class="intro-strip-icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 6h16M4 12h10M4 18h7"/></svg>
+    </div>
+    <p>Cada nota lleva un <strong>espectro editorial</strong> (hacia dónde se inclina la cobertura), su <strong>enfoque</strong> (qué ángulo eligió resaltar el medio) y una caja de <strong>contexto</strong> con antecedentes que la nota, por sí sola, no siempre cuenta.</p>
+  </section>
+
+  <!-- Búsqueda instantánea: filtra en cliente, sin llamadas a red -->
+  <section class="search-bar reveal" aria-label="Buscar notas">
+    <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4.3-4.3"/></svg>
+    <input type="search" id="searchInput" class="search-input"
+           placeholder="Buscar por título, etiqueta o fuente…"
+           aria-label="Buscar por título, etiqueta o fuente">
+    <span class="search-count" id="searchCount" hidden aria-live="polite"></span>
+    <kbd class="search-hint" id="searchHint" aria-hidden="true">/</kbd>
+    <button type="button" class="search-clear" id="searchClear" aria-label="Borrar búsqueda" hidden>✕</button>
+  </section>
+
+  <!-- Termómetro del día, se llena por JS -->
+  <section class="thermometer reveal" id="thermometer" aria-live="polite"></section>
+
+  <!-- Feed de noticias, se llena por JS -->
+  <section class="feed" id="feed" aria-live="polite">
+    <!-- las tarjetas de artículo se insertan aquí -->
+  </section>
+
+  <p class="feed-empty" id="feedEmpty" hidden>No hay notas en esta sección todavía. Prueba con otra categoría.</p>
+
+  <!-- Carrusel de descubrimiento: siempre con lo más reciente del portal
+       completo (no respeta el filtro de categoría activo), se llena por JS -->
+  <section class="carousel-section reveal" id="carouselSection" aria-label="Para seguir leyendo" hidden>
+    <div class="carousel-head">
+      <h2>Para seguir leyendo</h2>
+      <span class="carousel-hint">← desliza →</span>
+    </div>
+    <div class="carousel" id="carousel" aria-live="polite"></div>
+  </section>
+
+  <!-- Promoción de la hemeroteca: apartado propio, no un link suelto -->
+  <a class="archive-promo reveal" href="hemeroteca.html">
+    <span class="archive-promo-icon" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="4" width="18" height="4" rx="1"/><path d="M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8"/><path d="M10 12h4"/></svg>
+    </span>
+    <span class="archive-promo-text">
+      <span class="section-eyebrow">Hemeroteca</span>
+      <h2>Todo lo publicado, día por día</h2>
+      <p>Cada nota que ha pasado por Contexto queda en el archivo — vuelve a algo que leíste hace unos días o mira de un vistazo cuánto se ha publicado.</p>
+    </span>
+    <span class="archive-promo-cta">Explorar el archivo
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+    </span>
+  </a>
+
+  <!-- ============ CÓMO FUNCIONA ============ -->
+  <!-- En escritorio la sección se ancla (sticky) mientras los tres pasos se
+       iluminan en secuencia con el scroll; en móvil fluye normal. -->
+  <section class="how-it-works" id="como-funciona">
+    <div class="how-scroll" id="howScroll">
+      <div class="how-sticky">
+        <div class="how-it-works-head reveal">
+          <span class="section-eyebrow">Metodología</span>
+          <h2>Cómo leemos cada noticia antes que tú</h2>
+          <p class="how-it-works-sub">Tres pasos, siempre visibles, nunca escondidos en letra pequeña.</p>
+        </div>
+
+        <div class="how-grid">
+          <article class="how-card">
+            <div class="how-card-num">01</div>
+            <h3>El espectro</h3>
+            <p>Comparamos el lenguaje, las fuentes citadas y el encuadre de la nota contra un panel de referencia de medios ya catalogados. El resultado es una posición en un espectro continuo — no una etiqueta binaria de "sesgado" o "neutral".</p>
+            <div class="how-card-spectrum" aria-hidden="true">
+              <div class="spectrum-track"></div>
+            </div>
+          </article>
+
+          <article class="how-card">
+            <div class="how-card-num">02</div>
+            <h3>El enfoque</h3>
+            <p>Toda nota elige qué resaltar y qué dejar de lado — eso no es un defecto, es edición. Señalamos si el ángulo elegido es económico, humano, de seguridad, institucional, etc., para que sepas qué parte de la historia estás leyendo.</p>
+          </article>
+
+          <article class="how-card">
+            <div class="how-card-num">03</div>
+            <h3>El contexto</h3>
+            <p>Añadimos antecedentes, datos comparables y las posturas de otros actores relevantes que la nota original no siempre incluye — para que la noticia de hoy no llegue desconectada de todo lo que pasó antes.</p>
+          </article>
+        </div>
+      </div>
+    </div>
+
+    <div class="how-disclaimer reveal">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 8v5M12 16h.01"/></svg>
+      <p>Ninguna clasificación de sesgo es perfecta ni definitiva. Es una guía de lectura, hecha por personas y modelos que también tienen puntos ciegos — no un veredicto. Te mostramos siempre el razonamiento para que puedas estar en desacuerdo con él.</p>
+    </div>
+
+    <div class="explore-grid reveal">
+      <div class="explore-card mini-compass" id="miniCompass">
+        <span class="explore-card-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M15 9l-2 5-5 2 2-5z"/></svg>
+        </span>
+        <span class="explore-card-title">Brújula editorial</span>
+        <span class="explore-card-text">Arrastra el punto a donde te ubicas — y compáralo con lo que sueles leer.</span>
+        <div class="mini-slider" id="miniSlider" tabindex="0" role="slider" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" aria-label="Tu posición en el espectro editorial">
+          <div class="mini-slider-dot" id="miniSliderDot"></div>
+        </div>
+        <a class="explore-card-go" id="miniCompassGo" href="brujula.html">Arrastra para probar →</a>
+      </div>
+      <a class="explore-card" href="revista.html">
+        <span class="explore-card-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 4v16M7 8h10M7 8l-3 6a3 3 0 006 0L7 8zM17 8l-3 6a3 3 0 006 0l-3-6z"/></svg>
+        </span>
+        <span class="explore-card-title">Revista jurídica</span>
+        <span class="explore-card-text">Análisis y divulgación del derecho, de distribución gratuita, dictaminados por el mismo consejo editorial.</span>
+      </a>
+      <a class="explore-card" href="glosario.html">
+        <span class="explore-card-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 5a2 2 0 012-2h5v18H6a2 2 0 01-2-2V5zM20 5a2 2 0 00-2-2h-5v18h5a2 2 0 002-2V5z"/></svg>
+        </span>
+        <span class="explore-card-title">Glosario</span>
+        <span class="explore-card-text">Los términos del oficio explicados sin jerga — de "línea editorial" a "encuadre".</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- separador ornamental (guiño de imprenta) -->
+  <div class="ornament reveal" aria-hidden="true">&#x2727; &#x2727; &#x2727;</div>
+
+  <!-- ============ CORREO DEL LECTOR ============ -->
+  <!-- Reseñas reales, moderadas por el consejo editorial antes de publicarse
+       (ver agent/resenas.py). Se cargan desde testimonios.json — el render y
+       el botón de envío viven en app.js (renderLetters / initReviewSubmit).
+       Sin reseñas todavía, se muestra un estado vacío honesto en vez de
+       testimonios de ejemplo. -->
+  <section class="reader-letters" id="correo-del-lector">
+    <div class="letters-head reveal">
+      <span class="section-eyebrow">Correo del lector</span>
+      <h2>Lo que dicen quienes ya leen Contexto</h2>
+      <p class="letters-sub" id="lettersSub">Reseñas reales de lectores, revisadas por el consejo editorial antes de publicarse.</p>
+    </div>
+
+    <div class="letters-grid reveal" id="lettersGrid" aria-live="polite"></div>
+
+    <div class="contact-card reveal">
+      <p><strong>¿Ya lees Contexto?</strong> Cuéntanos qué te parece aquí
+      mismo — tu reseña pasa por el mismo consejo editorial que modera la
+      Revista Jurídica antes de publicarse, con tu nombre tal como quieras
+      que aparezca.</p>
+      <form class="submit-form" id="reviewForm">
+        <div class="form-field">
+          <label for="reviewNombre">Tu nombre (como quieres que aparezca)</label>
+          <input class="form-input" type="text" id="reviewNombre" name="nombre" maxlength="80" required>
+        </div>
+        <div class="form-field">
+          <label for="reviewOcupacion">Ocupación (opcional)</label>
+          <input class="form-input" type="text" id="reviewOcupacion" name="ocupacion" maxlength="80">
+        </div>
+        <div class="form-field">
+          <label for="reviewTexto">Tu reseña</label>
+          <textarea class="form-textarea" id="reviewTexto" name="texto" maxlength="600" required></textarea>
+        </div>
+        <!-- honeypot: ver el mismo patrón en revista.html/blog.js -->
+        <div class="form-honeypot" aria-hidden="true">
+          <label for="reviewWebsite">No llenar este campo</label>
+          <input type="text" id="reviewWebsite" name="website" tabindex="-1" autocomplete="off">
+        </div>
+        <button class="btn-accent" type="submit" id="reviewSubmit">
+          ✉ Dejar mi reseña
+        </button>
+        <p class="submit-form-status" id="reviewFormStatus" hidden></p>
+      </form>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-brand">Contexto</p>
+    <p class="footer-note">Un ejercicio de transparencia editorial. Las notas de este sitio son de ejemplo.</p>
+    <nav class="footer-nav" aria-label="Páginas del sitio">
+      <a href="revista.html">Revista jurídica</a>
+      <a href="hemeroteca.html">Hemeroteca</a>
+      <a href="fuentes.html">Panel de fuentes</a>
+      <a href="brujula.html">Brújula editorial</a>
+      <a href="glosario.html">Glosario</a>
+      <a href="correcciones.html">Correcciones</a>
+      <a href="legal.html">Legal y privacidad</a>
+    </nav>
+  </div>
+</footer>
+
+</div><!-- /.edition -->
+
+<script src="app.js"></script>
+</body>
+</html>

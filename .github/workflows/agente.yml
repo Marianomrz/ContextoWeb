@@ -1,0 +1,146 @@
+name: Agente de noticias — ciclo automático
+
+# El agente corre cada hora, analiza notas nuevas y hace commit del
+# articles.json actualizado. Con GitHub Pages sirviendo el repo, el portal
+# se actualiza solo. La ventana de lectura por feed (25 entradas) es más
+# ancha que el intervalo del cron para no perder notas de fuentes muy
+# activas — ver comentario en fetch_new_entries() (agent/agent.py).
+#
+# Hay un tope duro de gasto diario ($5 por defecto, ver agent/budget.py)
+# compartido por los 4 agentes; al alcanzarlo, el resto de llamadas del día
+# se omiten solas y se retoman al día siguiente.
+#
+# Vigilancia: si un ciclo falla, el último paso abre (o comenta) un Issue
+# automáticamente para que te enteres sin depender del correo. Además, si
+# TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID están configurados como secretos,
+# avisa por Telegram tanto de fallos como de presupuesto cerca del techo —
+# llamada directa a la API de Telegram (gratis, sin pasar por ningún modelo
+# de IA ni por N8N/tu laptop), agregado el 10 jul 2026.
+#
+# Nota: GitHub desactiva los workflows programados tras 60 días sin
+# actividad en el repo; los commits del propio agente la mantienen viva.
+
+on:
+  schedule:
+    - cron: "0 * * * *"      # cada hora en punto (UTC)
+  workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+  issues: write               # para el aviso automático de fallos
+
+# nunca dos ciclos encimados (si uno se alarga, el siguiente espera)
+concurrency:
+  group: agente-contexto
+  cancel-in-progress: false
+
+jobs:
+  ciclo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15       # un ciclo colgado no debe quedarse horas
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt   # versiones fijadas (rev. seguridad 10 jul 2026)
+
+      - name: Ejecutar un ciclo del agente
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INCEPTION_API_KEY: ${{ secrets.INCEPTION_API_KEY }}
+          # Interruptor temporal (ver agent/llm_client.py): "inception" usa
+          # Mercury en vez de Claude, mientras se prueba el pipeline sin
+          # gastar crédito de Anthropic. Para volver a Anthropic: borra esta
+          # línea o ponela en "anthropic" (y carga el secreto
+          # INCEPTION_API_KEY en el repo si todavía no existe).
+          LLM_PROVIDER: inception
+        run: |
+          # URL pública real del sitio para sitemap.xml/robots.txt y las
+          # etiquetas canónicas/OG de build_pages.py. Se toma de la variable
+          # de repo SITE_BASE_URL (Settings → Secrets and variables → Actions
+          # → pestaña Variables — no es secreta, es solo tu dominio público,
+          # p. ej. el que te dio Vercel) si la definiste; si no, cae de vuelta
+          # al cálculo automático de GitHub Pages (github.event.repository no
+          # existe en ejecuciones programadas, por eso se arma con
+          # GITHUB_REPOSITORY_OWNER/GITHUB_REPOSITORY).
+          export SITE_BASE_URL="${{ vars.SITE_BASE_URL }}"
+          if [ -z "$SITE_BASE_URL" ]; then
+            export SITE_BASE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
+          fi
+          python agent/agent.py
+
+      - name: Avisar por Telegram si el presupuesto de hoy se acerca al techo
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            exit 0
+          fi
+          cd agent
+          python3 - <<'PY'
+          import os, urllib.request, urllib.parse
+          import budget
+
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat_id = os.environ["TELEGRAM_CHAT_ID"]
+          if budget.budget_warning_needed("news"):
+              spent = budget.spent_today("news")
+              cap = budget.DAILY_BUDGET_USD["news"]
+              text = (
+                  f"💰 Contexto: la bolsa de NOTICIAS lleva ${spent:.2f} de ${cap:.2f} "
+                  f"hoy (≥80%). Puede frenar publicaciones el resto del día (UTC)."
+              )
+              data = urllib.parse.urlencode({"chat_id": chat_id, "text": text}).encode()
+              urllib.request.urlopen(
+                  f"https://api.telegram.org/bot{token}/sendMessage", data=data
+              )
+          PY
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "agente-contexto"
+          git config user.email "agente@users.noreply.github.com"
+          git add articles.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json articulo sitemap.xml robots.txt revista
+          git diff --cached --quiet || git commit -m "🗞️ Ciclo automático del agente"
+          git push
+
+      - name: Avisar si el ciclo falló (abre o comenta un Issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="⚠ Falló el ciclo automático del agente"
+          run_url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          body="El ciclo del agente falló. Revisa el log: ${run_url}
+
+          Causas comunes: la API de Anthropic no respondió, un feed RSS cambió de URL, o se agotó el crédito de API. El portal sigue en línea con las últimas notas publicadas."
+          existing=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number' || echo "")
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "Volvió a fallar: ${run_url}"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi
+
+      - name: Avisar por Telegram si el ciclo falló
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            run_url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              -d chat_id="${TELEGRAM_CHAT_ID}" \
+              -d text="⚠️ Contexto: falló el ciclo de noticias.
+          Log: ${run_url}" > /dev/null
+          else
+            echo "TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID no configurados — se omite el aviso por Telegram (el Issue de GitHub sigue funcionando)."
+          fi

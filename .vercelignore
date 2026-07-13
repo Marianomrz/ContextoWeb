@@ -1,0 +1,14 @@
+# Contexto en Vercel es un espejo del FRONTEND estático solamente — el
+# backend (agentes, workflows, Docker) no tiene nada que hacer ahí. Agregado
+# el 10 jul 2026 tras un despliegue por "drop to deploy" que subió la
+# carpeta completa (ver revisión de seguridad del mismo día): no se filtró
+# ningún secreto (agent/.env ya lo bloquea Vercel por defecto, verificado),
+# pero sí quedaba descargable el código del backend sin necesidad.
+
+agent/
+.github/
+Dockerfile
+docker-compose.yml
+requirements.txt
+blog/
+resenas/

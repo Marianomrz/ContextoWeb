@@ -1,0 +1,23 @@
+{
+  "name": "Contexto — Noticias con perspectiva",
+  "short_name": "Contexto",
+  "description": "Cada noticia con su espectro editorial, enfoque y contexto a la vista.",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF6EF",
+  "theme_color": "#191612",
+  "icons": [
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

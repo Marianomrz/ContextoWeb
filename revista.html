@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('contexto-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Revista Jurídica — Contexto</title>
+<meta name="description" content="Revista jurídica de distribución gratuita: artículos de análisis y divulgación del derecho, revisados por el consejo editorial automático de Contexto.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Contexto">
+<meta property="og:title" content="Revista Jurídica — Contexto">
+<meta property="og:description" content="Análisis y divulgación del derecho, en abierto y sin costo. Cada artículo pasa por un consejo editorial automático antes de publicarse.">
+<meta property="og:locale" content="es_MX">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="mini-masthead">
+  <a class="mini-masthead-brand" href="index.html">Contexto</a>
+  <span class="mini-masthead-note">revista jurídica · distribución gratuita</span>
+</header>
+
+<main class="page-content">
+  <span class="section-eyebrow">Revista Jurídica</span>
+  <h1>El derecho, en abierto</h1>
+  <p class="page-lede">Artículos de análisis y divulgación jurídica, de
+  <strong>distribución gratuita</strong> y sin muro de pago. Cada texto es
+  obra de su autor y pasa por el consejo editorial automático de Contexto —
+  la misma dupla de agentes que revisa las noticias — que evalúa rigor,
+  claridad, ética y aporte antes de publicar. Lo que no cumple, no se publica.</p>
+
+  <div class="jur-list" id="jurList" aria-live="polite">
+    <p class="feed-empty">Cargando artículos…</p>
+  </div>
+
+  <h2>¿Quieres publicar aquí?</h2>
+  <p>La revista está abierta a colaboraciones. Los artículos se entregan a la
+  redacción y pasan por dictamen editorial automático de doble función:
+  calidad académica (rigor jurídico, estructura, aporte) y moderación de
+  contenido (ética y deontología). El dictamen de cada texto — aprobado o
+  no — queda registrado en la bitácora pública del proyecto.</p>
+
+  <div class="contact-card">
+    <p><strong>Envía tu artículo</strong> aquí mismo: pega el texto completo
+    (Markdown simple funciona: <code># títulos</code>, <code>**negritas**</code>,
+    listas), con tu nombre tal como quieres que aparezca en la firma. Tu envío
+    pasa directo al consejo editorial — recibirás el dictamen aquí, se
+    publique o no.</p>
+    <form class="submit-form" id="jurForm">
+      <div class="form-field">
+        <label for="jurTitulo">Título del artículo</label>
+        <input class="form-input" type="text" id="jurTitulo" name="titulo" maxlength="160" required>
+      </div>
+      <div class="form-field">
+        <label for="jurAutor">Tu nombre (como aparecerá en la firma)</label>
+        <input class="form-input" type="text" id="jurAutor" name="autor" maxlength="80" required>
+      </div>
+      <div class="form-field">
+        <label for="jurCuerpo">Texto del artículo</label>
+        <textarea class="form-textarea" id="jurCuerpo" name="cuerpo" required></textarea>
+      </div>
+      <!-- honeypot: un campo que ningún humano llena (oculto por CSS); si
+           un bot lo rellena, el envío se descarta en blog.js sin llegar a
+           Supabase. No usar autocomplete real para no confundir gestores
+           de contraseñas. -->
+      <div class="form-honeypot" aria-hidden="true">
+        <label for="jurWebsite">No llenar este campo</label>
+        <input type="text" id="jurWebsite" name="website" tabindex="-1" autocomplete="off">
+      </div>
+      <button class="btn-accent" type="submit" id="jurSubmit">
+        ✉ Enviar mi artículo
+      </button>
+      <p class="submit-form-status" id="jurFormStatus" hidden></p>
+    </form>
+  </div>
+
+  <p class="back-home"><a href="index.html">← Volver a la portada</a></p>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-brand">Contexto</p>
+    <p class="footer-note">Un ejercicio de transparencia editorial.</p>
+    <nav class="footer-nav" aria-label="Páginas del sitio">
+      <a href="index.html">Portada</a>
+      <a href="revista.html">Revista jurídica</a>
+      <a href="hemeroteca.html">Hemeroteca</a>
+      <a href="fuentes.html">Panel de fuentes</a>
+      <a href="brujula.html">Brújula editorial</a>
+      <a href="glosario.html">Glosario</a>
+      <a href="correcciones.html">Correcciones</a>
+      <a href="legal.html">Legal y privacidad</a>
+    </nav>
+  </div>
+</footer>
+
+<script src="blog.js"></script>
+</body>
+</html>

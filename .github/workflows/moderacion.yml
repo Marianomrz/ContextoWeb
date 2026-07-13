@@ -1,0 +1,190 @@
+name: Moderación — revista jurídica y reseñas
+
+# Dictamina los borradores de la Revista Jurídica y de reseñas de lectores.
+# Corre con MENOS frecuencia que el agente de noticias (agente.yml, cada 30
+# min) a propósito: al inicio no habrá tantos artículos jurídicos ni reseñas
+# como para justificar revisarlos cada media hora. Sube la frecuencia del
+# cron de abajo cuando el volumen de borradores lo justifique.
+#
+# Ambos scripts son fail-closed: si la API falla, el borrador se queda
+# pendiente (nunca se publica sin dictamen), así que un fallo aquí no
+# arriesga el portal — solo retrasa la publicación hasta el siguiente ciclo.
+#
+# Si TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID están configurados como secretos,
+# este workflow también avisa por Telegram: cuando llegan envíos nuevos
+# pendientes, si el presupuesto de moderación se acerca al techo, y si el
+# ciclo falla. Todo por llamada directa a la API de Telegram (gratis, sin
+# IA de por medio ni depender de N8N/tu laptop) — agregado el 10 jul 2026.
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # cada 3 horas (UTC)
+  workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+  issues: write               # para el aviso automático de fallos
+
+concurrency:
+  group: moderacion-contexto
+  cancel-in-progress: false
+
+jobs:
+  dictamen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt   # versiones fijadas (rev. seguridad 10 jul 2026)
+
+      - name: Avisar por Telegram si hay envíos nuevos pendientes
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$SUPABASE_URL" ] || [ -z "$SUPABASE_SERVICE_ROLE_KEY" ] || \
+             [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Faltan secretos de Supabase o Telegram — se omite este aviso."
+            exit 0
+          fi
+          jur=$(curl -s "${SUPABASE_URL}/rest/v1/jur_submissions?select=id&status=eq.pending" \
+            -H "apikey: ${SUPABASE_SERVICE_ROLE_KEY}" \
+            -H "Authorization: Bearer ${SUPABASE_SERVICE_ROLE_KEY}" \
+            | python3 -c "import json,sys; print(len(json.load(sys.stdin)))")
+          res=$(curl -s "${SUPABASE_URL}/rest/v1/resena_submissions?select=id&status=eq.pending" \
+            -H "apikey: ${SUPABASE_SERVICE_ROLE_KEY}" \
+            -H "Authorization: Bearer ${SUPABASE_SERVICE_ROLE_KEY}" \
+            | python3 -c "import json,sys; print(len(json.load(sys.stdin)))")
+          if [ "${jur:-0}" -gt 0 ] || [ "${res:-0}" -gt 0 ]; then
+            text="📬 Contexto: envíos pendientes de moderar — ${jur:-0} artículo(s) de revista, ${res:-0} reseña(s). Este ciclo los procesa ahora."
+            curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              -d chat_id="${TELEGRAM_CHAT_ID}" -d text="$text" > /dev/null
+          fi
+
+      - name: Calcular URL pública del sitio
+        # juridica.py regenera páginas estáticas al final (build_pages.
+        # build_all(), que lee SITE_BASE_URL del entorno; resenas.py no
+        # genera páginas propias, las reseñas no las necesitan) — sin este
+        # paso, cada ciclo de moderación borraba en silencio el sitemap y
+        # las etiquetas canónicas/OG que agente.yml sí calculaba bien,
+        # porque build_pages.py omite ambos cuando la variable no existe.
+        # Mismo criterio que agente.yml: variable de repo SITE_BASE_URL
+        # (Settings → Secrets and variables → Actions → Variables) si está
+        # definida, si no cae al dominio de GitHub Pages.
+        run: |
+          site_base_url="${{ vars.SITE_BASE_URL }}"
+          if [ -z "$site_base_url" ]; then
+            site_base_url="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
+          fi
+          echo "SITE_BASE_URL=$site_base_url" >> "$GITHUB_ENV"
+
+      - name: Dictaminar envíos de la revista jurídica
+        id: juridica
+        continue-on-error: true   # no debe bloquear el ciclo de reseñas
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INCEPTION_API_KEY: ${{ secrets.INCEPTION_API_KEY }}
+          # Interruptor temporal (ver agent/llm_client.py) — mismo criterio
+          # que agente.yml: quitar o poner en "anthropic" para volver a Claude.
+          LLM_PROVIDER: inception
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python agent/juridica.py   # ya regenera páginas estáticas al final (build_pages.build_all())
+
+      - name: Moderar envíos de reseñas
+        id: resenas
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INCEPTION_API_KEY: ${{ secrets.INCEPTION_API_KEY }}
+          LLM_PROVIDER: inception
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python agent/resenas.py
+
+      - name: Verificar que ambos ciclos corrieron bien
+        if: steps.juridica.outcome == 'failure' || steps.resenas.outcome == 'failure'
+        run: |
+          echo "juridica.py: ${{ steps.juridica.outcome }}"
+          echo "resenas.py: ${{ steps.resenas.outcome }}"
+          exit 1
+
+      - name: Avisar por Telegram si el presupuesto de hoy se acerca al techo
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            exit 0
+          fi
+          cd agent
+          python3 - <<'PY'
+          import os, urllib.request, urllib.parse
+          import budget
+
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat_id = os.environ["TELEGRAM_CHAT_ID"]
+          if budget.budget_warning_needed("moderation"):
+              spent = budget.spent_today("moderation")
+              cap = budget.DAILY_BUDGET_USD["moderation"]
+              text = (
+                  f"💰 Contexto: la bolsa de MODERACIÓN lleva ${spent:.2f} de ${cap:.2f} "
+                  f"hoy (≥80%). Puede retrasar la revista/reseñas el resto del día (UTC)."
+              )
+              data = urllib.parse.urlencode({"chat_id": chat_id, "text": text}).encode()
+              urllib.request.urlopen(
+                  f"https://api.telegram.org/bot{token}/sendMessage", data=data
+              )
+          PY
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "agente-contexto"
+          git config user.email "agente@users.noreply.github.com"
+          git add blog.json revista blog testimonios.json resenas articulo sitemap.xml robots.txt agent/qc_log.json agent/spend_log.json agent/alert_state.json
+          git diff --cached --quiet || git commit -m "⚖️ Ciclo de moderación: revista jurídica y reseñas"
+          git push
+
+      - name: Avisar si el ciclo falló (abre o comenta un Issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="⚠ Falló el ciclo de moderación (revista/reseñas)"
+          run_url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          body="El ciclo de moderación (revista jurídica y/o reseñas) falló. Revisa el log: ${run_url}
+
+          Causas comunes: la API de Anthropic no respondió o se agotó el crédito. Es fail-closed — ningún borrador se publica sin dictamen, así que esto solo retrasa la publicación, no pone en riesgo el portal."
+          existing=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number' || echo "")
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "Volvió a fallar: ${run_url}"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi
+
+      - name: Avisar por Telegram si el ciclo falló
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            run_url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              -d chat_id="${TELEGRAM_CHAT_ID}" \
+              -d text="⚠️ Contexto: falló el ciclo de moderación (revista/reseñas).
+          Log: ${run_url}" > /dev/null
+          else
+            echo "TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID no configurados — se omite el aviso por Telegram (el Issue de GitHub sigue funcionando)."
+          fi

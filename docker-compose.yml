@@ -1,0 +1,47 @@
+# Contexto — Docker para DESARROLLO Y PRUEBAS LOCALES del pipeline.
+# ====================================================================
+# Esto NO reemplaza la producción (sigue siendo GitHub Actions: agente.yml
+# corre cada hora, moderacion.yml cada 3 horas, ninguno depende de que tu
+# compu esté prendida). Este docker-compose es para probar cambios al
+# pipeline completo en tu máquina, con las mismas dependencias siempre,
+# antes de subirlos — ver README, sección "Docker para desarrollo local".
+#
+# Uso:
+#   docker compose run --rm agente        # un ciclo del agente de noticias
+#   docker compose run --rm moderacion    # un ciclo de revista + reseñas
+#   docker compose up portal              # sirve el sitio en localhost:8000
+#
+# Lee las variables de agent/.env (ANTHROPIC_API_KEY / INCEPTION_API_KEY /
+# LLM_PROVIDER, ver agent/llm_client.py) — el mismo archivo que usás con
+# agent/run_local.sh, no hace falta duplicar nada.
+
+services:
+  agente:
+    build: .
+    env_file: agent/.env
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: python agent/agent.py
+
+  moderacion:
+    build: .
+    env_file: agent/.env
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: sh -c "python agent/juridica.py && python agent/resenas.py"
+
+  portal:
+    build: .
+    volumes:
+      - .:/app
+    working_dir: /app
+    ports:
+      # Solo localhost del host, NO 0.0.0.0 (revisión de seguridad 10 jul
+      # 2026): http.server sirve TODO /app, incluido agent/.env — sin el
+      # prefijo 127.0.0.1 cualquiera en tu red local podría bajar
+      # http://<tu-ip>:8000/agent/.env con tus claves. Nunca expongas este
+      # puerto por un túnel (Cloudflare/ngrok); es un servidor de desarrollo.
+      - "127.0.0.1:8000:8000"
+    command: python -m http.server 8000

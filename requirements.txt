@@ -1,0 +1,17 @@
+# Contexto — dependencias del agente (Python).
+# Versiones FIJADAS a propósito (revisión de seguridad 10 jul 2026): sin
+# pinear, un `pip install feedparser requests` podía traer cualquier versión
+# futura, incluida una comprometida o con un cambio que rompa el pipeline.
+# Estas son las versiones probadas, todas sin CVEs abiertos conocidos a esta
+# fecha. Al subir versión, revisa el changelog y vuelve a probar un ciclo.
+#
+# Uso:  pip install -r requirements.txt
+# (los workflows y el Dockerfile ya apuntan a este archivo)
+
+feedparser==6.0.12
+requests==2.32.5
+
+# Transitivas relevantes por seguridad (las trae `requests`; se fijan también
+# para que un `pip install` no las degrade a una versión con CVE):
+urllib3==2.6.3
+certifi==2026.6.17

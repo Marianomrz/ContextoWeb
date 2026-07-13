@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('contexto-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Corrección de errores — Contexto</title>
+<meta name="description" content="Cómo reportar un error en Contexto y qué hacemos cuando nos equivocamos. Política de correcciones del portal.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Contexto">
+<meta property="og:title" content="Corrección de errores — Contexto">
+<meta property="og:description" content="Nos vamos a equivocar. Esto es lo que hacemos cuando pasa.">
+<meta property="og:locale" content="es_MX">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="mini-masthead">
+  <a class="mini-masthead-brand" href="index.html">Contexto</a>
+  <span class="mini-masthead-note">cada noticia, con su ángulo a la vista</span>
+</header>
+
+<main class="page-content">
+  <span class="section-eyebrow">Rendición de cuentas</span>
+  <h1>Corrección de errores</h1>
+  <p class="page-lede">Este portal lo escribe un agente automático y lo revisa otro.
+  Aun con dos filtros, <strong>nos vamos a equivocar</strong>: un dato impreciso, un
+  score de sesgo discutible, un contexto que envejeció mal. Cuando pase, queremos
+  saberlo — y corregirlo a la vista de todos.</p>
+
+  <h2>Qué puedes reportar</h2>
+  <ul class="page-list">
+    <li><strong>Errores de hecho:</strong> datos, fechas, nombres o cifras incorrectas en un resumen o contexto.</li>
+    <li><strong>Desacuerdos con el espectro:</strong> si crees que el score de sesgo de una nota no se sostiene, dinos por qué. El razonamiento siempre está publicado, precisamente para que puedas rebatirlo.</li>
+    <li><strong>Enlaces rotos o notas mal atribuidas.</strong></li>
+    <li><strong>Cualquier texto que parezca copiado de la fuente original</strong> — nuestra regla es resumir con palabras propias, jamás republicar.</li>
+  </ul>
+
+  <h2>Cómo reportarlo</h2>
+  <div class="contact-card">
+    <p>Abre un reporte en el repositorio público del proyecto. GitHub le avisa
+    directamente al editor responsable, <strong>Mariano</strong>, y todo el
+    proceso queda a la vista de cualquiera. Incluye el enlace de la nota y
+    qué encontraste.</p>
+    <!-- TODO: al crear el repositorio en GitHub, reemplazar TU-USUARIO/TU-REPOSITORIO
+         con la ruta real -->
+    <a class="btn-accent" href="https://github.com/TU-USUARIO/TU-REPOSITORIO/issues"
+       rel="noopener noreferrer" target="_blank">
+      ⚑ Reportar en GitHub → Issues
+    </a>
+  </div>
+
+  <h2>Qué hacemos cuando nos equivocamos</h2>
+  <ul class="page-list">
+    <li>Verificamos el reporte contra la fuente original y fuentes adicionales.</li>
+    <li>Si hay error, la nota se corrige o se retira del portal.</li>
+    <li>Los ajustes de fondo (por ejemplo, afinar los criterios del análisis) quedan registrados en el historial público del repositorio — cada cambio es auditable.</li>
+  </ul>
+
+  <p class="back-home"><a href="index.html">← Volver a la portada</a></p>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-brand">Contexto</p>
+    <p class="footer-note">Un ejercicio de transparencia editorial.</p>
+    <nav class="footer-nav" aria-label="Páginas del sitio">
+      <a href="index.html">Portada</a>
+      <a href="revista.html">Revista jurídica</a>
+      <a href="hemeroteca.html">Hemeroteca</a>
+      <a href="fuentes.html">Panel de fuentes</a>
+      <a href="brujula.html">Brújula editorial</a>
+      <a href="glosario.html">Glosario</a>
+      <a href="correcciones.html">Correcciones</a>
+      <a href="legal.html">Legal y privacidad</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>

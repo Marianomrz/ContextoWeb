@@ -1,0 +1,19 @@
+# --- Protección: nunca subir credenciales ---
+.env
+.env.*
+*.key
+*.pem
+*credencial*
+*secret*
+
+# --- Basura del sistema operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vercel
+.env*

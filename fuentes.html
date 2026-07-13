@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('contexto-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel de fuentes — Contexto</title>
+<meta name="description" content="Las fuentes que lee el agente de Contexto, con su perfil, inclinación típica y las razones por las que están en el panel.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Contexto">
+<meta property="og:title" content="Panel de fuentes — Contexto">
+<meta property="og:description" content="Qué fuentes leemos, con qué inclinación, y por qué. Transparencia total del panel.">
+<meta property="og:locale" content="es_MX">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="mini-masthead">
+  <a class="mini-masthead-brand" href="index.html">Contexto</a>
+  <span class="mini-masthead-note">cada noticia, con su ángulo a la vista</span>
+</header>
+
+<main class="page-content">
+  <span class="section-eyebrow">Transparencia</span>
+  <h1>Panel de fuentes</h1>
+  <p class="page-lede">Estas son las fuentes que lee nuestro agente, sin excepción y sin
+  fuentes ocultas. Que un medio tenga línea editorial marcada <strong>no lo
+  descalifica</strong> — al contrario: tener fuentes de distintos puntos del espectro
+  es lo que permite triangular. El espectro de cada nota se encarga de transparentar
+  la inclinación de cada cobertura.</p>
+
+  <h2>Criterios de ingreso al panel</h2>
+  <ul class="page-list">
+    <li>Trayectoria verificable y redacción profesional.</li>
+    <li>Política de correcciones públicas.</li>
+    <li>Autoría identificable en sus notas.</li>
+    <li>Separación razonable entre información y opinión.</li>
+  </ul>
+
+  <div class="table-scroll">
+  <table class="sources-table">
+    <thead>
+      <tr><th>Fuente</th><th>Perfil</th><th>Inclinación típica</th><th>Por qué está en el panel</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>El Economista</td><td>Economía y finanzas MX</td><td><span class="lean lean-center">Centro / pro-mercado</span></td><td>Especialización técnica, datos verificables</td></tr>
+      <tr><td>El Universal</td><td>Diario generalista MX</td><td><span class="lean lean-center">Centro</span></td><td>Uno de los diarios de mayor trayectoria del país</td></tr>
+      <tr><td>Periódico AM (León)</td><td>Local Bajío</td><td><span class="lean lean-center">Centro</span></td><td>Cobertura local que los nacionales no dan</td></tr>
+      <tr><td>Aristegui Noticias</td><td>Investigación</td><td><span class="lean lean-left">Centro-izquierda / crítico del poder</span></td><td>Investigaciones de alto impacto; línea conocida y estable</td></tr>
+      <tr><td>Etcétera</td><td>Medios y rendición de cuentas</td><td><span class="lean lean-left">Centro-izquierda</span></td><td>Crítica de medios y periodismo; trayectoria desde 1988</td></tr>
+      <tr><td>La Jornada</td><td>Diario generalista</td><td><span class="lean lean-left">Izquierda</span></td><td>Contrapeso editorial explícito; útil para triangular</td></tr>
+      <tr><td>Reforma</td><td>Diario generalista</td><td><span class="lean lean-right">Centro-derecha / crítico del oficialismo</span></td><td>Uno de los diarios de mayor trayectoria e investigación del país; contrapeso de La Jornada</td></tr>
+      <tr><td>El Informador (GDL)</td><td>Regional Jalisco</td><td><span class="lean lean-center">Centro</span></td><td>Diario regional centenario, mirada local</td></tr>
+      <tr><td>Infobae México</td><td>Generalista digital</td><td><span class="lean lean-center">Centro</span></td><td>Cobertura amplia de México; gran volumen diario</td></tr>
+      <tr><td>Expansión</td><td>Negocios y economía</td><td><span class="lean lean-center">Centro / pro-mercado</span></td><td>Referencia en cobertura empresarial y de mercados</td></tr>
+      <tr><td>BBC News Mundo</td><td>Internacional</td><td><span class="lean lean-center">Centro</span></td><td>Estatuto de imparcialidad auditado públicamente</td></tr>
+      <tr><td>El País América</td><td>Internacional</td><td><span class="lean lean-left">Centro-izquierda</span></td><td>Referencia iberoamericana con corrección pública de errores</td></tr>
+      <tr><td>DW Español</td><td>Internacional</td><td><span class="lean lean-center">Centro</span></td><td>Medio público alemán con carta editorial independiente</td></tr>
+      <tr><td>France24 Español</td><td>Internacional</td><td><span class="lean lean-center">Centro</span></td><td>Medio público francés, misma familia editorial que DW</td></tr>
+      <tr><td>La Jornada Deportes</td><td>Deportes</td><td><span class="lean lean-left">Ídem cabecera</span></td><td>Feed seccional de La Jornada</td></tr>
+      <tr><td>Infobae Deportes</td><td>Deportes</td><td><span class="lean lean-center">N/A (encuadres, no política)</span></td><td>Cobertura deportiva de alto volumen, incluye competencias internacionales</td></tr>
+      <tr><td>Letras Libres</td><td>Revista cultural</td><td><span class="lean lean-right">Liberal (tradición Paz)</span></td><td>Crítica literaria de primer nivel; línea intelectual explícita</td></tr>
+      <tr><td>La Jornada Cultura</td><td>Cultura</td><td><span class="lean lean-left">Ídem cabecera</span></td><td>Feed seccional de La Jornada</td></tr>
+      <tr><td>Xataka</td><td>Tecnología</td><td><span class="lean lean-center">Centro (foco técnico, no político)</span></td><td>Cubre el hueco real de la categoría "tecnología": no tenía ninguna fuente propia</td></tr>
+      <tr><td>Hipertextual</td><td>Tecnología</td><td><span class="lean lean-center">Centro</span></td><td>Segunda voz en tecnología, para no depender de un solo medio en la categoría</td></tr>
+      <tr><td>El Sol de México</td><td>Generalista, red OEM</td><td><span class="lean lean-center">Centro / institucional</span></td><td>Grupo editorial distinto a los demás del panel (OEM); suma volumen y otra ownership</td></tr>
+    </tbody>
+  </table>
+  </div>
+
+  <h2>Fuentes evaluadas y no incluidas</h2>
+  <p>Agregadores sin autoría clara, portales que viven del clickbait y medios sin
+  política de correcciones. Proceso y SinEmbargo son periodísticamente sólidos,
+  pero sus feeds devuelven error 403 al pedirlos (protección anti-scraping o
+  token requerido).</p>
+
+  <h2>Retiradas del panel (9 jul 2026)</h2>
+  <p>Forbes México (su feed ahora exige un token de autenticación), Latinus (la
+  URL del feed devuelve la página de inicio en HTML, ya no un feed real), NYT
+  en Español (el sitio en español está discontinuado), Animal Político (retiró
+  su RSS) y ESPN Deportes (bloqueo/redirect en bucle). El agente ya no puede
+  leerlas; si algún día vuelven a publicar un feed válido, pueden
+  reincorporarse.</p>
+
+  <p class="back-home"><a href="index.html">← Volver a la portada</a></p>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-brand">Contexto</p>
+    <p class="footer-note">Un ejercicio de transparencia editorial.</p>
+    <nav class="footer-nav" aria-label="Páginas del sitio">
+      <a href="index.html">Portada</a>
+      <a href="revista.html">Revista jurídica</a>
+      <a href="hemeroteca.html">Hemeroteca</a>
+      <a href="fuentes.html">Panel de fuentes</a>
+      <a href="brujula.html">Brújula editorial</a>
+      <a href="glosario.html">Glosario</a>
+      <a href="correcciones.html">Correcciones</a>
+      <a href="legal.html">Legal y privacidad</a>
+    </nav>
+  </div>
+</footer>
+
+</body>
+</html>

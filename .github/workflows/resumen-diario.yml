@@ -1,0 +1,85 @@
+name: Resumen diario — Telegram
+
+# Un mensaje diario por Telegram con lo publicado/rechazado por el QC y el
+# gasto del día en las dos bolsas de presupuesto. Solo LEE archivos que ya
+# generaron agente.yml y moderacion.yml (qc_log.json, spend_log.json) — no
+# llama a ninguna API de pago, es 100% gratis. Corre en su propio horario,
+# desacoplado de los ciclos de publicación (mismo criterio de
+# ARQUITECTURA.md: workflows separados por cadencia).
+
+on:
+  schedule:
+    - cron: "50 23 * * *"    # 23:50 UTC — cerca del cierre del día UTC
+  workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: read
+
+jobs:
+  resumen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Armar y enviar el resumen del día
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "Faltan TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID — se omite el resumen."
+            exit 0
+          fi
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.parse
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat_id = os.environ["TELEGRAM_CHAT_ID"]
+          today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+          def load(path, default):
+              try:
+                  return json.loads(Path(path).read_text(encoding="utf-8"))
+              except (FileNotFoundError, json.JSONDecodeError):
+                  return default
+
+          verdicts = load("agent/qc_log.json", {}).get("verdicts", [])
+          hoy = [v for v in verdicts if str(v.get("at", "")).startswith(today)]
+          counts = {}
+          for v in hoy:
+              k = v.get("kind", "?")
+              counts.setdefault(k, {"aprobados": 0, "rechazados": 0})
+              counts[k]["aprobados" if v.get("approved") else "rechazados"] += 1
+
+          spend = load("agent/spend_log.json", {})
+          spent = spend.get("spent", {}) if spend.get("date") == today else {}
+
+          lineas = [f"📊 Contexto — resumen del {today} (UTC)"]
+          if counts:
+              etiquetas = {
+                  "noticia": "Noticias", "literatura": "Literatura",
+                  "juridica": "Revista jurídica", "resena": "Reseñas",
+              }
+              for kind, c in counts.items():
+                  nombre = etiquetas.get(kind, kind)
+                  lineas.append(f"• {nombre}: {c['aprobados']} publicados, {c['rechazados']} rechazados por QC")
+          else:
+              lineas.append("• Sin actividad de QC registrada hoy.")
+          lineas.append(
+              f"💰 Gasto de hoy — noticias: ${spent.get('news', 0):.2f}, "
+              f"moderación: ${spent.get('moderation', 0):.2f}"
+          )
+
+          text = "\n".join(lineas)
+          data = urllib.parse.urlencode({"chat_id": chat_id, "text": text}).encode()
+          urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=data)
+          PY
