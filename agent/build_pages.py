@@ -25,6 +25,11 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent   # raíz del portal
 ARTICLES_JSON = BASE_DIR / "articles.json"
+# índice permanente de la hemeroteca (agent.py lo alimenta, nunca se
+# recorta) — se usa aquí solo para NO podar la página de una nota que ya
+# salió de articles.json (las MAX_ARTICLES_KEPT vivas) pero sigue en el
+# archivo. Agregado 14 jul 2026 junto con el resto del fix de hemeroteca.
+HEMEROTECA_JSON = BASE_DIR / "hemeroteca.json"
 OUT_DIR = BASE_DIR / "articulo"
 BLOG_JSON = BASE_DIR / "blog.json"
 BLOG_OUT_DIR = BASE_DIR / "revista"
@@ -466,7 +471,22 @@ def build_all():
         current.add(filename)
         (OUT_DIR / filename).write_text(render_article_page(a), encoding="utf-8")
 
-    # poda: páginas de notas que ya no viven en el portal
+    # protege del podado las páginas de notas que ya salieron de las
+    # MAX_ARTICLES_KEPT vivas pero siguen en el índice permanente de la
+    # hemeroteca — sin esto, el permalink de cualquier nota "archivada" se
+    # borraba en el primer ciclo tras salir de la portada, aunque
+    # hemeroteca.js siguiera enlazándolo. No hace falta regenerarlas (ya
+    # se escribieron cuando la nota SÍ estaba en articles.json), solo no
+    # tocarlas.
+    try:
+        archived = json.loads(HEMEROTECA_JSON.read_text(encoding="utf-8"))
+        for a in archived.get("articles", []):
+            if a.get("id"):
+                current.add(f"{a['id']}.html")
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
+    # poda: páginas de notas que ya no viven en el portal NI en la hemeroteca
     removed = 0
     for old in OUT_DIR.glob("*.html"):
         if old.name not in current:

@@ -54,6 +54,14 @@ import llm_client                   # interruptor Anthropic ⇄ Inception Labs/M
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_JSON = BASE_DIR.parent / "articles.json"   # el portal lee este archivo
+# índice PERMANENTE, nunca se trunca (a diferencia de articles.json, que solo
+# guarda las MAX_ARTICLES_KEPT notas vivas de la portada) — lo lee
+# hemeroteca.js. Agregado 14 jul 2026: antes la hemeroteca leía articles.json
+# directo, así que en realidad no era un archivo — cualquier nota que
+# saliera de las MAX_ARTICLES_KEPT desaparecía también de "el archivo
+# completo del portal". Solo guarda los campos que hemeroteca.js necesita
+# (id/title/category/published_at), no el artículo completo.
+HEMEROTECA_JSON = BASE_DIR.parent / "hemeroteca.json"
 STATE_FILE = BASE_DIR / "seen_urls.json"          # deduplicación entre ciclos
 QC_LOG_FILE = BASE_DIR / "qc_log.json"            # bitácora del control de calidad
 
@@ -693,6 +701,28 @@ def run_cycle(api_key):
         new_count += 1
         news_published += 1
         time.sleep(1)  # cortesía con la API
+
+    # actualiza el índice PERMANENTE de la hemeroteca ANTES de recortar
+    # `published` — así una nota entra al archivo en el momento en que se
+    # publica, sin importar cuántos ciclos después salga de las
+    # MAX_ARTICLES_KEPT vivas de la portada. Dedup por id (por si una nota
+    # ya archivada sigue viva y se vuelve a ver aquí) y nunca se recorta.
+    archive = load_json(HEMEROTECA_JSON, {"articles": []}).get("articles", [])
+    archived_ids = {a["id"] for a in archive if a.get("id")}
+    for a in published:
+        if a.get("id") and a["id"] not in archived_ids:
+            archive.append({
+                "id": a["id"],
+                "title": a["title"],
+                "category": a.get("category", ""),
+                "published_at": a.get("published_at", ""),
+            })
+            archived_ids.add(a["id"])
+    archive.sort(key=lambda a: a.get("published_at") or "", reverse=True)
+    save_json(HEMEROTECA_JSON, {
+        "generated_at": datetime.now(tz=timezone.utc).isoformat(),
+        "articles": archive,
+    })
 
     # recorte del archivo y persistencia
     published = published[:MAX_ARTICLES_KEPT]

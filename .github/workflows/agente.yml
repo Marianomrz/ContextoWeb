@@ -115,7 +115,7 @@ jobs:
         run: |
           git config user.name "agente-contexto"
           git config user.email "agente@users.noreply.github.com"
-          git add articles.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json articulo sitemap.xml robots.txt revista
+          git add articles.json hemeroteca.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json articulo sitemap.xml robots.txt revista
           git diff --cached --quiet || git commit -m "🗞️ Ciclo automático del agente"
           git push
 

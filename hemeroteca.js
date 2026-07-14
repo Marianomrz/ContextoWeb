@@ -1,8 +1,16 @@
 /* ==========================================================================
    CONTEXTO — hemeroteca.js
-   Carga articles.json y agrupa todas las notas por día de publicación,
-   más reciente primero. Independiente de app.js (páginas estáticas no
-   cargan ese script). Puro cliente, sin llamadas adicionales.
+   Carga hemeroteca.json (índice PERMANENTE que alimenta agent.py en cada
+   ciclo, nunca se recorta) y agrupa todas las notas por día de
+   publicación, más reciente primero. Independiente de app.js (páginas
+   estáticas no cargan ese script). Puro cliente, sin llamadas adicionales.
+
+   Antes de la corrección del 14 jul 2026, este script leía articles.json
+   directo — pero ese archivo lo trunca agent.py a las MAX_ARTICLES_KEPT
+   notas vivas de la portada, así que la "hemeroteca" en realidad nunca
+   fue un archivo: cualquier nota más vieja que esa ventana desaparecía
+   también de aquí. hemeroteca.json es un índice ligero aparte
+   (id/title/category/published_at) que sí se conserva para siempre.
    ========================================================================== */
 
 (function () {
@@ -87,7 +95,7 @@
     }).join('');
   }
 
-  fetch('articles.json', { cache: 'no-store' })
+  fetch('hemeroteca.json', { cache: 'no-store' })
     .then(r => r.ok ? r.json() : { articles: [] })
     .then(data => render(Array.isArray(data.articles) ? data.articles : []))
     .catch(() => render([]));
