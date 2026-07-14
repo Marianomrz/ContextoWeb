@@ -1,390 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-09T23:31:53.941486+00:00",
-      "title": "México prioriza mecanismo laboral del T-MEC",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "Nota informativa y oportuna, pero limitada por la falta de contraste de fuentes y baja confianza declarada en los datos; requiere verificación adicional antes de publicarse como definitiva.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:32:11.231592+00:00",
-      "title": "Coparmex en Puebla urgió a consolidar primer paradero seguro para autotransportes",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 6,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete tiene buena estructura y objetividad atributiva, pero el error en la fecha de la cifra clave (2026) compromete seriamente la veracidad y debe corregirse antes de publicar.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:32:27.190318+00:00",
-      "title": "Desarrollo de vivienda intraurbana, entre los retos de la zona conurbada de Querétaro",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 8,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es informativo y neutral, pero su dependencia de una sola fuente (IMCO) limita el contraste y la verificabilidad de los datos, lo que reduce su solidez periodística.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:32:41.905381+00:00",
-      "title": "Condusef recibe 12 denuncias por fraude financiero cada minuto",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 8,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es claro y bien estructurado pero adolece de falta de verificación de la cifra central y de fuentes adicionales que equilibren la narrativa institucional.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:32:55.779438+00:00",
-      "title": "Corea del Norte busca \"reforzar\" su fuerza nuclear",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 8,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es informativo pero superficial, con poco contraste de fuentes y detalles verificables; cumple los estándares básicos pero requiere mayor profundidad y atribución explícita.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:33:07.908057+00:00",
-      "title": "WhatsApp prueba recordatorios que avisarán de los próximos cumpleaños de tus contactos",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "Nota correcta y neutral pero superficial, que se beneficiaría de fuentes primarias y de abordar las implicaciones de privacidad que el propio análisis reconoce como ausentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:40:58.602307+00:00",
-      "title": "Gobierno de México reconoce trabajo preventivo de Tamaulipas ante temporada de lluvias; destaca lide",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es transparente sobre su propio sesgo y limitaciones de fuentes, pero la nota original carece de contraste real, lo que limita su valor informativo objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:41:13.331229+00:00",
-      "title": "La familia del mexicano baleado por ICE sigue sin recibir el cuerpo",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es oportuno y transparente sobre su sesgo, pero adolece de falta de contraste con la versión oficial de ICE y de cifras verificables, lo que limita su rigor informativo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:41:27.441544+00:00",
-      "title": "Plan Oriente: Trolebús Ixtapaluca reducirá hasta 45 minutos los traslados de 900 mil personas",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Nota informativa correcta en forma pero débil en balance de fuentes, ya que depende enteramente del discurso gubernamental sin contraste ni datos de costos o plazos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:41:42.806579+00:00",
-      "title": "El aeropuerto de Palm Beach, Florida, adopta el nombre de Donald Trump",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es coherente y oportuno, pero carece de fuentes primarias que confirmen el hecho y de voces que enriquezcan el debate sobre la polémica mencionada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:41:55.596687+00:00",
-      "title": "Sheinbaum anuncia liberación de moscas estériles en Tamaulipas",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es claro y oportuno, pero adolece de falta de contraste con otras fuentes y voces afectadas, lo que limita su profundidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:42:11.812941+00:00",
-      "title": "Arrancan los cuartos de final del Mundial: cómo llegan y qué posibilidades tienen Argentina, España ",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 8,
-        "estructura_piramide": 5
-      },
-      "observacion": "El paquete es coherente y neutral pero carece de precisión factual (año del Mundial, fechas, resultados) y de fuentes adicionales que enriquezcan el contraste informativo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:42:25.412311+00:00",
-      "title": "Expertos del Comce recomiendan definir líneas rojas sobre China en el T-MEC",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es objetivo y bien estructurado, pero su principal debilidad es depender de una sola fuente empresarial sin contraste de otros actores clave como el gobierno mexicano o China.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:42:44.578303+00:00",
-      "title": "Lluvias de junio libraron a Querétaro de la superficie anormalmente seca",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 7,
-        "estructura_piramide": 8
-      },
-      "observacion": "Nota correctamente estructurada y neutral, pero débil en contraste de fuentes al depender de un solo emisor institucional sin voces adicionales que evalúen el impacto práctico del dato.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:42:58.148886+00:00",
-      "title": "*Star, donde los caminos de BUDAYA y Rosas se cruzan",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 8,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete cumple con estándares básicos de objetividad y actualidad, pero carece de contraste de fuentes y verificación más robusta de los datos, lo que limita su solidez informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:43:12.874660+00:00",
-      "title": "\"Yo voy por Morena y por la unidad de la cuarta transformación en Chihuahua\": Cruz",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 8,
-        "estructura_piramide": 3
-      },
-      "observacion": "El paquete carece de identificación básica del actor y de contraste de fuentes, lo que limita su valor informativo pese a ser oportuno y con tono neutral.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:43:27.253106+00:00",
-      "title": "EE.UU. afirma que Israel pronto iniciará retirada gradual de Líbano",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "Paquete aceptable y oportuno, pero limitado por depender de una sola fuente y falta de verificación directa, lo que reduce su solidez informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:43:39.971016+00:00",
-      "title": "Intercambia ciudadanía 11,679 armas de fuego de manera voluntaria y anónima",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete informa un dato relevante pero carece de contraste con fuentes independientes o críticas específicas, apoyándose demasiado en la narrativa oficial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:43:55.101159+00:00",
-      "title": "La retirada gradual de Israel en zonas del Líbano iniciará en próximos días, dice EE.UU.",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es informativo y bien estructurado, pero carece de fuentes directas y de las voces de los actores implicados, lo que limita su verificabilidad y equilibrio.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:44:11.153104+00:00",
-      "title": "El juez Piña ordena localizar “indicios de criminalidad” en las conversaciones de Cospedal con Villa",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Nota bien estructurada y oportuna, pero con desequilibrio de fuentes y falta de contraste que el propio análisis reconoce; se recomienda incluir reacción de la parte afectada antes de publicar.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:44:25.509237+00:00",
-      "title": "Inversión extranjera: más allá de la revisión del T-MEC",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 8,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete es coherente y de tono profesional, pero adolece de falta de fuentes primarias y de verificación de cifras/fechas específicas, lo que limita su solidez informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:44:38.685247+00:00",
-      "title": "Congreso de turismo de naturaleza en Islas Marías apuesta por el turismo consciente",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete es informativo y neutral pero superficial, careciendo de contraste de fuentes y detalles verificables que enriquezcan la cobertura.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:44:50.941140+00:00",
-      "title": "Mueren al menos seis personas en el incendio de Los Gallardos, en Almería",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares básicos de objetividad y actualidad, pero carece de fuentes oficiales y voces adicionales que refuercen la veracidad y el contraste informativo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:45:06.917862+00:00",
-      "title": "Noruega desafía a Inglaterra en el Mundial",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 3.4,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 2,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete tiene una estructura periodística correcta pero se basa en un evento que no ha sucedido (Mundial 2026), lo que compromete gravemente su veracidad y actualidad; no debería publicarse sin verificar la fecha y realidad del partido.",
-      "error": null
-    },
-    {
       "at": "2026-07-09T23:45:25.214570+00:00",
       "title": "Francia noquea a Marruecos y se matricula en la semifinal del Mundial",
       "kind": "noticia",
@@ -3180,6 +2796,390 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para un contraste más amplio.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:00.192125+00:00",
+      "title": "Descubriendo la magia de Shehan Karunatilaka: Los siete lunas de Maali Almeida",
+      "kind": "literatura",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "originalidad_creatividad": 3,
+        "riqueza_estilo": 4,
+        "estructura_narrativa": 5,
+        "voz_autor": 6,
+        "profundidad_tematica": 5
+      },
+      "observacion": "El artículo es una presentación informativa y bien estructurada, pero carece de la creatividad y profundidad estética que caracterizarían a un texto literario de alta calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:05.521219+00:00",
+      "title": "En Japón las empresas han olido un negocio millonario: dejar de fabricar carritos y pañales para beb",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en buen nivel con los estándares de objetividad y actualidad, aunque podría reforzar la verificación de datos y ampliar la variedad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:12.654739+00:00",
+      "title": "Mentir en verso",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta información verificable pero carece de fuentes múltiples y objetividad, aunque es reciente y está estructurado de forma razonable.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:16.748683+00:00",
+      "title": "La gobernadora se asume testigo protegido… y traiciona",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual pero carece de evidencia verificable y de una cobertura balanceada, lo que lo hace inadecuado para una noticia objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:23.632879+00:00",
+      "title": "De política y cosas peores: deplorable conducta",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual y está estructurado adecuadamente, pero carece de fuentes diversas y precisión factual, y muestra una clara parcialidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:29.517702+00:00",
+      "title": "Nueva recomendación",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple parcialmente con los estándares periodísticos: es actual y estructurado, pero la verificación de datos y la diversidad de fuentes son insuficientes para una alta puntuación editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:32.674503+00:00",
+      "title": "Última hora de la actualidad política, en directo | Sumar tacha de “auténtica desproporción” la cond",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo carece de veracidad y de fuentes múltiples, lo que lo coloca por debajo de los estándares de calidad editorial pese a su actualidad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:37.747324+00:00",
+      "title": "Condenan a nueve años de inhabilitación al hermano del presidente español Pedro Sánchez",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque es actual y estructurado adecuadamente; se recomienda rechazar o solicitar corroboración antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:41.541754+00:00",
+      "title": "Hace años que un chef catalán acabó con el debate de la tortilla de patatas de forma radical: invent",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo carece de verificación y de fuentes múltiples, aunque es actual y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:45.233797+00:00",
+      "title": "Portada impresa del 14 de julio de 2026",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y objetividad, pero carece de fuentes diversificadas y verificables, lo que limita su puntuación general.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:49.010626+00:00",
+      "title": "El CEO de Volkswagen admite su principal problema: fabricar le cuesta un 20% más que a sus competido",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actualizado, pero necesita fuentes más robustas y verificables para sus cifras económicas y de empleo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:01:56.104932+00:00",
+      "title": "EN VIVO | Bloqueos, accidentes y manifestaciones hoy martes 14 de julio",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero la ausencia de fuentes múltiples y la falta de evidencia verificable reducen su puntuación editorial global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:00.043890+00:00",
+      "title": "El buscador de Windows 11 recibe su mayor cambio en años: Microsoft por fin añade lo que todo el mun",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es reciente y estructurado adecuadamente, pero carece de fuentes externas y muestra un sesgo favorable que reduce su objetividad y veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:05.608274+00:00",
+      "title": "Ucrania reivindica ataques a refinerías y petroleros rusos: \"116 barcos en 9 días\"",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los requisitos de actualidad y estructura, pero necesita fuentes más variadas y mayor respaldo de datos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:08.734473+00:00",
+      "title": "Tres adolescentes subieron a su taxi y lo asesinaron: así fue el crimen de Flaviano que hoy conmocio",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero necesita fuentes más diversas y mayor rigor en la verificación de afirmaciones para alcanzar altos estándares de objetividad y veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:12.856667+00:00",
+      "title": "Cuál es la calidad del aire en CDMX este 14 de julio",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es reciente y objetivo, aunque necesita mayor variedad y citación de fuentes para reforzar su veracidad y contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:16.959568+00:00",
+      "title": "Francia-España, EN VIVO, por las semifinales del Mundial 2026: hora, TV, formaciones y todo lo que h",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 8,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y estructurado, pero la falta de datos verificables sobre eventos futuros reduce considerablemente su precisión factual.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:21.733352+00:00",
+      "title": "Ella sola mató a 309 enemigos. Luego Stalin la envió a Washington",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad, aunque necesita fuentes más variadas y una precisión mayor en algunos detalles contextuales.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:25.608605+00:00",
+      "title": "¿Qué está pasando en el Metro y Metrobús hoy 14 de julio?",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es objetivo y actual, pero carece de fuentes diversas que enriquezcan la cobertura.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:31.454190+00:00",
+      "title": "Puente denuncia que se pretende “derribar” al Gobierno “ante la incapacidad de hacerlo por las urnas",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero su falta de fuentes múltiples y su tono parcial reducen la calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:34.378968+00:00",
+      "title": "El Gobierno replantea la ley de violencia vicaria machista: será un agravante y no un delito específ",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y estructura, y mantiene una buena objetividad, aunque la falta de fuentes verificables y la dependencia de una sola fuente reducen su puntuación en veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:41.259528+00:00",
+      "title": "El PP considera que la sentencia al hermano de Sánchez “haría caer a un Gobierno” en cualquier otro ",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es reciente pero carece de fuentes múltiples y de equilibrio editorial, limitando su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:45.017028+00:00",
+      "title": "Para agosto, CDMX dará informe sobre medidas para localizar personas",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura, pero necesita mejorar la precisión de datos y la diversidad de fuentes para alcanzar mayor objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T12:02:47.931594+00:00",
+      "title": "SCJN concede suspensión a Samuel García para frenar eventual destitución o inhabilitación",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura equilibrada y con fuentes contrastadas. Se recomienda su publicación con ligera mejora en la diversidad de fuentes.",
       "error": null
     }
   ]
