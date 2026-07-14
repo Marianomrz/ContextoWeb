@@ -22,9 +22,17 @@ on:
     # GitHub Actions se satura justo al inicio de cada hora porque todos
     # los cron "en punto" del mundo disparan a la vez, y algunas corridas
     # se saltan por completo en vez de solo atrasarse. Minuto :22 evita el
-    # pico y de paso no coincide con el :07 de agente.yml, para no competir
-    # entre ellos por los runners del repo.
+    # pico y de paso no coincide con el :07/:37 de agente.yml, para no
+    # competir entre ellos por los runners del repo.
     - cron: "22 */3 * * *"  # cada 3 horas, 22 min después del punto (UTC)
+    # Respaldo (revisión 14 jul 2026, mismo criterio que agente.yml): el
+    # `schedule` de GitHub es "mejor esfuerzo", ni desfasando el minuto hay
+    # garantía de que corra. Este segundo disparo, media hora después,
+    # cubre el caso de que el de las :22 se salte — fail-closed de por sí
+    # (juridica.py/resenas.py nunca publican sin dictamen), así que el
+    # peor caso de un ciclo saltado es demorar la moderación, no un riesgo
+    # de publicar sin revisión.
+    - cron: "52 */3 * * *"  # respaldo, 52 min después del punto (UTC)
   workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
 
 permissions:

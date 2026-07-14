@@ -30,6 +30,15 @@ on:
     # corridas registradas en Actions solo 1 fue "Scheduled" (el resto,
     # manuales). Minuto :07 evita ese pico.
     - cron: "7 * * * *"       # cada hora, 7 min después del punto (UTC)
+    # Respaldo (revisión 14 jul 2026): el `schedule` de GitHub Actions es
+    # "mejor esfuerzo" — ni con el minuto desfasado hay garantía de que
+    # cada tick corra. Este segundo disparo, media hora después, cubre el
+    # caso de que el de las :07 se salte. En el caso normal (el de las :07
+    # sí corrió) este ciclo es barato: fetch_new_entries() ya deduplica
+    # contra seen_urls.json, así que si no hay nada nuevo desde entonces
+    # no llama al LLM, solo lee los feeds RSS. `concurrency` (más abajo)
+    # evita que los dos corran encimados si el primero se alarga.
+    - cron: "37 * * * *"      # respaldo, 37 min después del punto (UTC)
   workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
 
 permissions:
