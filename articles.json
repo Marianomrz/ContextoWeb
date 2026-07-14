@@ -1,6 +1,353 @@
 {
-  "generated_at": "2026-07-14T06:54:37.643286+00:00",
+  "generated_at": "2026-07-14T12:02:48.931805+00:00",
   "articles": [
+    {
+      "id": "bdbf9a6277a6",
+      "title": "SCJN concede suspensión a Samuel García para frenar eventual destitución o inhabilitación",
+      "summary": "La Suprema Corte de Justicia de la Nación concedió una suspensión al gobernador de Nuevo León, Samuel García Sepúlveda, que impide la ejecución de cualquier destitución o inhabilitación mientras se resuelve la controversia constitucional presentada por el Poder Ejecutivo estatal contra el juicio político que lleva el Congreso local.",
+      "category": "politica",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/1407/mexico/scjn-concede-suspension-a-samuel-garcia-para-frenar-eventual-destitucion-o-inhabilitacion/",
+      "published_at": "2026-07-14T11:24:24+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea términos como “presuntas violaciones” y destaca la denuncia de Morena, lo que le otorga un matiz ligeramente favorable al gobierno estatal y a la oposición de izquierda, aunque el tono general es informativo y balanceado.",
+      "focus_analysis": "El medio se centró en el aspecto institucional y jurídico de la decisión de la SCJN, omitiendo la dimensión humana o política de los actores involucrados.",
+      "focus_tags": [
+        "jurídico",
+        "política estatal",
+        "suspensión judicial"
+      ],
+      "context": [
+        {
+          "label": "Procedimiento de juicio político",
+          "text": "En Nuevo León, la Comisión Anticorrupción del Congreso local inició un juicio político contra el gobernador Samuel García Sepúlveda tras una denuncia presentada por el partido Morena, que alegó irregularidades y presuntos desvíos de recursos públicos."
+        },
+        {
+          "label": "Jurisprudencia de la SCJN",
+          "text": "La Suprema Corte de Justicia de la Nación ha concedido suspensiones cautelares en casos de controversias constitucionales para evitar la destitución de funcionarios electos antes de que se dicte una resolución definitiva, preservando la continuidad administrativa."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios como Infobae describieron la medida como una protección al gobernador, mientras que Reforma la presentó como un bloqueo al juicio político, mostrando distintas interpretaciones del mismo hecho."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "0256cf4304db",
+      "title": "El Gobierno replantea la ley de violencia vicaria machista: será un agravante y no un delito específico",
+      "summary": "El Gobierno de España ha anunciado que la norma sobre violencia vicaria machista pasará a ser un agravante penal y no un delito independiente, y que la patria potestad de los padres condenados por violencia de género será retirada de forma obligatoria y automática.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/sociedad/2026-07-14/el-gobierno-replantea-la-ley-de-violencia-vicaria-machista-sera-un-agravante-y-no-un-delito-especifico.html",
+      "published_at": "2026-07-14T11:26:26+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto emplea un lenguaje descriptivo sin adjetivos cargados; la fuente, El País, tiende a una línea editorial de centro‑izquierda, lo que genera un sesgo ligeramente inclinado a la izquierda.",
+      "focus_analysis": "El artículo se centra en la reforma normativa y sus implicaciones legales, omitiendo la perspectiva de las víctimas y la reacción social al cambio.",
+      "focus_tags": [
+        "violencia vicaria",
+        "reforma penal",
+        "poder parental"
+      ],
+      "context": [
+        {
+          "label": "antecedentes legales",
+          "text": "Hasta 2025 la legislación española tipificaba la violencia vicaria como delito autónomo, permitiendo sanciones específicas para quienes ejercen control mediante terceros."
+        },
+        {
+          "label": "comparación internacional",
+          "text": "Países como México y Argentina también han incorporado agravantes por violencia de género en sus códigos penales, aunque no siempre incluyen la pérdida automática de la patria potestad."
+        },
+        {
+          "label": "reacción de la sociedad",
+          "text": "Organizaciones de derechos de la mujer han pedido una reforma más integral, mientras que partidos conservadores la critican por considerarla excesiva."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "529a63634033",
+      "title": "El CEO de Volkswagen admite su principal problema: fabricar le cuesta un 20% más que a sus competidores y le sobran trabajadores",
+      "summary": "Oliver Blume, director ejecutivo del Grupo Volkswagen, reconoció que producir sus vehículos cuesta un 20 % más que la competencia y que la compañía tiene exceso de personal, lo que podría conllevar despidos de hasta 100 000 empleados y cierre de fábricas en Europa.",
+      "category": "economia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/movilidad/derivacion-teorica-cambio-costes-laborales-daria-ajuste-50-000-empleos-volkswagen-no-ve-solucion-facil",
+      "published_at": "2026-07-14T11:38:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar declaraciones del CEO y datos corporativos sin usar lenguaje cargado ni fuentes partidistas, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El medio se centra en el ángulo económico‑industrial, resaltando costes, sobrecapacidad y reestructuración laboral, mientras deja de lado la perspectiva del consumidor y el impacto de los vehículos eléctricos en la competitividad de la empresa.",
+      "focus_tags": [
+        "costos automotrices",
+        "restructuración laboral",
+        "industria automotriz"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del grupo",
+          "text": "Volkswagen es el mayor fabricante de automóviles de Europa y uno de los más grandes del mundo, con una larga historia de liderazgo en el sector, pero ha enfrentado presión por la transición a vehículos eléctricos y regulaciones de emisiones."
+        },
+        {
+          "label": "Importancia del sector automotriz en Alemania",
+          "text": "La industria automovilística alemana emplea a cientos de miles de trabajadores y constituye un pilar de la economía nacional, por lo que los recortes y cierres de plantas generan preocupación social y política."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Der Spiegel también informó sobre la entrevista filtrada del CEO, pero puso mayor énfasis en la posible venta de activos a empresas chinas, mostrando una perspectiva distinta a la de Xataka."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "792a4cd2c9b4",
+      "title": "En Japón las empresas han olido un negocio millonario: dejar de fabricar carritos y pañales para bebés y hacerlo para mascotas",
+      "summary": "Ante la caída histórica de la natalidad en Japón, empresas que antes fabricaban cochecitos y pañales para bebés están reorientando sus líneas de producción hacia productos para mascotas, un segmento que está creciendo rápidamente y representa ya una parte importante de sus ventas.",
+      "category": "economia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/magnet/japon-empresas-han-olido-negocio-millonario-dejar-fabricar-carritos-panales-para-bebes-hacerlo-para-mascotas",
+      "published_at": "2026-07-14T12:00:07+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo mantiene un tono informativo y neutral, usando datos estadísticos y citas de empresas sin emplear lenguaje cargado ni favorecer una posición política.",
+      "focus_analysis": "El medio se centra en el ángulo económico‑empresarial, describiendo cómo las compañías están diversificando sus productos ante la disminución de la demanda infantil, mientras que el impacto social y cultural del descenso demográfico queda menos desarrollado.",
+      "focus_tags": [
+        "economía",
+        "demografía",
+        "mercado de mascotas"
+      ],
+      "context": [
+        {
+          "label": "Demografía japonesa",
+          "text": "Desde 2024 Japón registró 671 200 nacimientos, el nivel más bajo desde que comenzaron las estadísticas en 1899, manteniéndose por debajo de la barrera de los 700 000 nacimientos anuales, lo que representa un desafío para la política de natalidad del país."
+        },
+        {
+          "label": "Crecimiento del mercado de mascotas",
+          "text": "Según la Asociación Japonesa de Alimentos para Mascotas, la población canina alcanzó 6,8 millones y la felina 8,8 millones en 2025, y el mercado de cuidado de mascotas se estima en 5.400 millones de dólares, superando al de productos infantiles."
+        },
+        {
+          "label": "Respuesta empresarial y gubernamental",
+          "text": "Empresas tradicionales como Unicharm y Lucky Industries están reconvirtiendo carritos y pañales para mascotas, mientras el gobierno ha lanzado medidas como guarderías gratuitas para intentar estimular la natalidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "d9eae285f0d4",
+      "title": "CPM amplía base de socios; crece el sector cooperativo",
+      "summary": "Caja Popular Mexicana superó los 4,3 millones de socios, impulsada por la expansión física de sus 501 sucursales y una estrategia digital que ha atraído a jóvenes entre 18 y 35 años, reflejando el crecimiento del sector cooperativo de ahorro y préstamo en México.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/cpm-amplia-base-socios-crece-sector-cooperativo-20260713-823086.html",
+      "published_at": "2026-07-14T05:48:40+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto utiliza un tono mayor y datos de fuentes oficiales (CNBV, la propia cooperativa) sin emplear vocabulario cargado ni seleccionar fuentes que favorezcan una posición política clara, lo que indica una cobertura prácticamente neutral con ligera inclinación pro‑cooperativa.",
+      "focus_analysis": "El medio se centra en el ángulo económico‑institucional, destacando cifras de crecimiento, expansión territorial y digitalización, mientras que se omite el impacto social directo en los usuarios y posibles críticas al modelo cooperativo.",
+      "focus_tags": [
+        "crecimiento cooperativo",
+        "digitalización financiera",
+        "expansión territorial"
+      ],
+      "context": [
+        {
+          "label": "Expansión del sector cooperativo",
+          "text": "Según la CNBV, el número de socios de las Sociedades Cooperativas de Ahorro y Préstamo pasó de 9,5 millones en marzo de 2025 a más de 10 millones en marzo de 2026, indicando una tendencia de crecimiento sostenido a nivel nacional."
+        },
+        {
+          "label": "Adopción de servicios digitales en México",
+          "text": "El uso de aplicaciones móviles y plataformas fintech ha aumentado notablemente en México, con más de 1,7 millones de usuarios activos en apps de instituciones financieras, lo que favorece la captación de clientes jóvenes."
+        },
+        {
+          "label": "Comparación con la banca tradicional",
+          "text": "Mientras los grandes bancos comerciales también han ampliado su presencia digital, las cooperativas como Caja Popular Mexicana han logrado un crecimiento de socios superior al promedio del sector bancario, gracias a su enfoque comunitario y a productos de ahorro y crédito más accesibles."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "7f53bdb160b3",
+      "title": "Piden al INE atender campañas anticipadas",
+      "summary": "Los dirigentes de los partidos Somos México y PAZ, encabezados por Guadalupe Acosta Naranjo y Hugo Eric Flores Cervantes, solicitaron al Instituto Nacional Electoral que impida las campañas anticipadas y la supuesta intromisión del presidente en el proceso electoral, señalando la violencia política y los vínculos entre autoridades y crimen organizado.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/politica/piden-ine-atender-campanas-anticipadas-20260714-823097.html",
+      "published_at": "2026-07-14T06:52:44+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea vocabulario cargado como “intromisión presidencial” y “clientelar”, y se centra en las acusaciones de los partidos de oposición sin presentar respuestas oficiales, lo que le otorga un ligero sesgo a la izquierda.",
+      "focus_analysis": "El medio elige un ángulo institucional‑político, destacando denuncias de campañas ilegales y problemas de seguridad, mientras omite detalles sobre el marco legal electoral o propuestas de solución concreta.",
+      "focus_tags": [
+        "elecciones",
+        "violencia política",
+        "campañas anticipadas"
+      ],
+      "context": [
+        {
+          "label": "Regulación de campañas anticipadas en México",
+          "text": "La Ley General de Instituciones y Procedimientos Electorales prohíbe la difusión de propaganda y la realización de actos de campaña antes del periodo oficial, y el INE ha sancionado a partidos por infringir esta norma en elecciones anteriores."
+        },
+        {
+          "label": "Aumento de la violencia política",
+          "text": "Organizaciones de derechos humanos y observatorios electorales han registrado un incremento de agresiones contra candidatos y funcionarios en los últimos años, lo que ha generado preocupación sobre la seguridad del proceso democrático."
+        },
+        {
+          "label": "Reacciones de otros partidos",
+          "text": "Diversos partidos de oposición, como el PAN y el PRI, también han exigido al INE una mayor vigilancia contra las campañas tempranas, mientras que la bancada del partido gobernante ha defendido la legalidad del calendario electoral vigente."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "a5b01587257d",
+      "title": "México quiere atraer inteligencia artificial sin electricidad suficiente",
+      "summary": "El columnista de El Economista advierte que México busca atraer inversiones en inteligencia artificial pese a que su infraestructura eléctrica y hídrica no está preparada para el consumo que demandan los centros de datos, lo que podría generar apagones y trasladar los costos a los usuarios.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/mexico-quiere-atraer-inteligencia-artificial-electricidad-suficiente-20260714-823100.html",
+      "published_at": "2026-07-14T06:57:07+00:00",
+      "bias_score": 15,
+      "bias_reason": "El texto utiliza un tono crítico hacia la gestión gubernamental y enfatiza los riesgos económicos de la falta de capacidad eléctrica, sin presentar perspectivas favorables al gobierno, lo que indica una ligera inclinación pro‑mercado.",
+      "focus_analysis": "El medio se centra en el ángulo económico‑infraestructura, resaltando la escasez de energía y agua y sus implicaciones para la inversión en IA; se deja de lado el impacto social directo en la población afectada por los cortes de luz.",
+      "focus_tags": [
+        "energia eléctrica",
+        "inteligencia artificial",
+        "inversión tecnológica"
+      ],
+      "context": [
+        {
+          "label": "Datos globales",
+          "text": "Según la Agencia Internacional de la Energía, la demanda eléctrica de los centros de datos mundialmente se duplicará para 2030, impulsada por la expansión de la inteligencia artificial."
+        },
+        {
+          "label": "Situación nacional",
+          "text": "En México, la red eléctrica ha presentado apagones y variaciones de voltaje en varios estados durante el verano de 2026, y la nueva Ley del Sector Eléctrico de 2025 mantiene al Estado como principal generador de energía."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Otros medios, como Expansión, enfocan la repercusión de la IA en la cadena de suministro de dispositivos móviles, señalando una caída en los envíos de smartphones por el aumento del costo de memorias, lo que muestra un ángulo diferente al de El Economista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "660ac527f20e",
+      "title": "Clima en Ciudad de México hoy: el pronóstico para el martes 14 de julio de 2026",
+      "summary": "El Informador indica que el martes 14 de julio de 2026 la Ciudad de México tendrá lluvias ligeras con temperaturas entre 13°C y 24°C y una humedad del 42%.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/clima-en-ciudad-de-mexico-hoy-el-pronostico-para-el-martes-14-de-julio-de-2026-20260714-0002.html",
+      "published_at": "2026-07-14T07:02:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos sin lenguaje cargado ni fuentes opinativas, presentando la información de forma neutral.",
+      "focus_analysis": "El medio se centra en ofrecer el pronóstico climático, omitiendo cualquier análisis económico, social o político relacionado con el clima.",
+      "focus_tags": [
+        "clima",
+        "Ciudad de México",
+        "pronóstico"
+      ],
+      "context": [
+        {
+          "label": "Patrón climático estacional",
+          "text": "En julio, la Ciudad de México suele presentar lluvias moderadas y temperaturas máximas entre 22°C y 24°C, con mínimas nocturnas cercanas a los 13°C."
+        },
+        {
+          "label": "Comparación con otras regiones",
+          "text": "Otros medios como Infobae reportan pronósticos similares para ciudades cercanas, como Ecatepec, reforzando que la zona del Valle de México experimenta patrones de lluvia y temperatura comparables."
+        },
+        {
+          "label": "Importancia de la información meteorológica",
+          "text": "Los pronósticos diarios son relevantes para la planificación de actividades cotidianas, transporte y eventos al aire libre en la capital mexicana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "a155f8f7d0c9",
+      "title": "Clima en Cancún hoy: el pronóstico para el martes 14 de julio de 2026",
+      "summary": "El Informador, portal de noticias de Guadalajara, pronostica el clima en la ciudad turística de Cancún, Quintana Roo, para el martes 14 de julio de 2026.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/clima-en-cancun-hoy-el-pronostico-para-el-martes-14-de-julio-de-2026-20260714-0003.html",
+      "published_at": "2026-07-14T07:02:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a datos meteorológicos y no emplea vocabulario cargado ni cite con opiniones, lo que indica una cobertura neutra sin sesgo político.",
+      "focus_analysis": "El medio se concentra en presentar el pronóstico del tiempo, detallando temperaturas, probabilidad de lluvia y velocidad del viento, sin abordar los posibles efectos económicos o sociales del clima.",
+      "focus_tags": [
+        "clima",
+        "cancún",
+        "pronóstico"
+      ],
+      "context": [
+        {
+          "label": "Clima típico de Cancún en julio",
+          "text": "Cancún, ubicado en la península de Yucatán, suele registrar temperaturas entre 30 y 35 grados y alta humedad en julio, con lluvias ocasionales asociadas a la temporada de huracanes."
+        },
+        {
+          "label": "Importancia del clima para el turismo",
+          "text": "El sector turístico de Cancún constituye una parte esencial de la economía de Quintana Roo, y las condiciones climáticas influyen directamente en la ocupación hotelera y la actividad de los visitantes."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios como Infobae México también publicaron pronósticos locales, enfocándose en ciudades distintas como Ecatepec, lo que evidencia que la cobertura del clima se mantiene factual y sin tono político."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "c6144249c911",
+      "title": "Clima en Monterrey hoy: el pronóstico para el martes 14 de julio de 2026",
+      "summary": "El periódico El Informador de Guadalajara informó que el martes 14 de julio de 2026 Monterrey experimentará lluvias ligeras, con una máxima de 33 °C, una mínima de 24 °C, humedad del 49 % y vientos del sureste a 6 km/h.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/clima-en-monterrey-hoy-el-pronostico-para-el-martes-14-de-julio-de-2026-20260714-0011.html",
+      "published_at": "2026-07-14T07:02:11+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos sin lenguaje cargado ni fuentes con sesgo; no se menciona ninguna perspectiva política, económica ni social.",
+      "focus_analysis": "El medio se centra en el ángulo meteorológico, describiendo temperaturas, probabilidad de lluvia y vientos, sin abordar impactos económicos, sociales o políticos del clima.",
+      "focus_tags": [
+        "clima Monterrey",
+        "pronóstico",
+        "temperatura"
+      ],
+      "context": [
+        {
+          "label": "Clima típico de Monterrey",
+          "text": "Monterrey, ubicada en una zona semiárida del norte de México, suele registrar altas temperaturas en verano y lluvias esporádicas, lo que hace que los pronósticos sean relevantes para la población local."
+        },
+        {
+          "label": "Importancia de los pronósticos",
+          "text": "Los pronósticos del tiempo son esenciales para sectores como la agricultura, el transporte y la planificación de eventos, pues ayudan a anticipar condiciones que pueden afectar la actividad diaria."
+        },
+        {
+          "label": "Cobertura de medios paralelos",
+          "text": "Otros medios, como Infobae México, también publicaron pronósticos para ciudades distintas, como Ecatepec, mostrando que la cobertura meteorológica es una práctica habitual a nivel nacional."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "e688849ef6eb",
       "title": "A 75 años de la hazaña de José Froilán González, el argentino que le dio el primer triunfo a Ferrari en la Fórmula 1",
