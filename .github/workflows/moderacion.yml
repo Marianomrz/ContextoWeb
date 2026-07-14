@@ -152,7 +152,12 @@ jobs:
         run: |
           git config user.name "agente-contexto"
           git config user.email "agente@users.noreply.github.com"
-          git add blog.json revista blog testimonios.json resenas articulo sitemap.xml robots.txt agent/qc_log.json agent/spend_log.json agent/alert_state.json
+          # "resenas" (carpeta de respaldo histórico de .md) se quitó de esta
+          # lista el 13 jul 2026: resenas.py ya no escribe ahí (todo vive en
+          # testimonios.json desde el cambio a Supabase), y la carpeta ni
+          # siquiera existe en el repo — "git add" fallaba con "pathspec
+          # did not match any files" y tumbaba este paso completo.
+          git add blog.json revista blog testimonios.json articulo sitemap.xml robots.txt agent/qc_log.json agent/spend_log.json agent/alert_state.json
           git diff --cached --quiet || git commit -m "⚖️ Ciclo de moderación: revista jurídica y reseñas"
           git push
 
