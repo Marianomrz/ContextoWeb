@@ -73,6 +73,18 @@ MAX_ANALYSIS_ATTEMPTS = MAX_NEW_PER_CYCLE * 4   # techo de análisis por ciclo s
                            # cuando el pool de candidatas es de baja calidad ese día
 MAX_ARTICLES_KEPT = 60     # tope de notas vivas en el portal
 
+# IDs de notas de ejemplo/relleno que quedaron en articles.json desde una
+# etapa temprana de desarrollo (antes de conectar el agente real) y nunca se
+# limpiaron antes de salir a producción — descubierto 14 jul 2026 al ver que
+# hemeroteca.json las archivó como si fueran reales (una incluso atribuye
+# contenido inventado a El Economista vía isBasedOn en su página). Como
+# published nunca borra nada salvo el recorte por MAX_ARTICLES_KEPT, y el
+# conteo real+relleno no lo había superado todavía, seguían vivas. Se filtran
+# aquí cada ciclo (de published Y del archivo permanente) para que se
+# autolimpien de articles.json y hemeroteca.json solas, y build_pages.py las
+# borre de articulo/ y del sitemap en el siguiente build_all().
+EXCLUDED_IDS = {"ejemplo-001", "ejemplo-002", "ejemplo-003", "ejemplo-004", "ejemplo-005"}
+
 # Dos modelos, según volumen y exigencia de cada tarea:
 # - ANALYSIS_MODEL: corre decenas de veces al día (una por nota) — Sonnet 5
 #   da calidad casi de Opus a precio de Sonnet, ideal para el volumen alto.
@@ -626,7 +638,7 @@ def run_cycle(api_key):
         f"máx. {MAX_ANALYSIS_ATTEMPTS} intentos si el QC rechaza)")
 
     portal = load_json(OUTPUT_JSON, {"articles": []})
-    published = portal.get("articles", [])
+    published = [a for a in portal.get("articles", []) if a.get("id") not in EXCLUDED_IDS]
     new_count = 0
     qc_rejected = 0
 
@@ -707,7 +719,8 @@ def run_cycle(api_key):
     # publica, sin importar cuántos ciclos después salga de las
     # MAX_ARTICLES_KEPT vivas de la portada. Dedup por id (por si una nota
     # ya archivada sigue viva y se vuelve a ver aquí) y nunca se recorta.
-    archive = load_json(HEMEROTECA_JSON, {"articles": []}).get("articles", [])
+    archive = [a for a in load_json(HEMEROTECA_JSON, {"articles": []}).get("articles", [])
+               if a.get("id") not in EXCLUDED_IDS]
     archived_ids = {a["id"] for a in archive if a.get("id")}
     for a in published:
         if a.get("id") and a["id"] not in archived_ids:
