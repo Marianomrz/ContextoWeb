@@ -1,6 +1,213 @@
 {
-  "generated_at": "2026-07-14T06:54:37.643286+00:00",
+  "generated_at": "2026-07-14T07:20:31.109013+00:00",
   "articles": [
+    {
+      "id": "d9eae285f0d4",
+      "title": "CPM amplía base de socios; crece el sector cooperativo",
+      "summary": "Caja Popular Mexicana superó los 4,3 millones de socios, impulsada por la expansión física de sus 501 sucursales y una estrategia digital que ha atraído a jóvenes entre 18 y 35 años, reflejando el crecimiento del sector cooperativo de ahorro y préstamo en México.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/cpm-amplia-base-socios-crece-sector-cooperativo-20260713-823086.html",
+      "published_at": "2026-07-14T05:48:40+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto utiliza un tono mayor y datos de fuentes oficiales (CNBV, la propia cooperativa) sin emplear vocabulario cargado ni seleccionar fuentes que favorezcan una posición política clara, lo que indica una cobertura prácticamente neutral con ligera inclinación pro‑cooperativa.",
+      "focus_analysis": "El medio se centra en el ángulo económico‑institucional, destacando cifras de crecimiento, expansión territorial y digitalización, mientras que se omite el impacto social directo en los usuarios y posibles críticas al modelo cooperativo.",
+      "focus_tags": [
+        "crecimiento cooperativo",
+        "digitalización financiera",
+        "expansión territorial"
+      ],
+      "context": [
+        {
+          "label": "Expansión del sector cooperativo",
+          "text": "Según la CNBV, el número de socios de las Sociedades Cooperativas de Ahorro y Préstamo pasó de 9,5 millones en marzo de 2025 a más de 10 millones en marzo de 2026, indicando una tendencia de crecimiento sostenido a nivel nacional."
+        },
+        {
+          "label": "Adopción de servicios digitales en México",
+          "text": "El uso de aplicaciones móviles y plataformas fintech ha aumentado notablemente en México, con más de 1,7 millones de usuarios activos en apps de instituciones financieras, lo que favorece la captación de clientes jóvenes."
+        },
+        {
+          "label": "Comparación con la banca tradicional",
+          "text": "Mientras los grandes bancos comerciales también han ampliado su presencia digital, las cooperativas como Caja Popular Mexicana han logrado un crecimiento de socios superior al promedio del sector bancario, gracias a su enfoque comunitario y a productos de ahorro y crédito más accesibles."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "7f53bdb160b3",
+      "title": "Piden al INE atender campañas anticipadas",
+      "summary": "Los dirigentes de los partidos Somos México y PAZ, encabezados por Guadalupe Acosta Naranjo y Hugo Eric Flores Cervantes, solicitaron al Instituto Nacional Electoral que impida las campañas anticipadas y la supuesta intromisión del presidente en el proceso electoral, señalando la violencia política y los vínculos entre autoridades y crimen organizado.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/politica/piden-ine-atender-campanas-anticipadas-20260714-823097.html",
+      "published_at": "2026-07-14T06:52:44+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea vocabulario cargado como “intromisión presidencial” y “clientelar”, y se centra en las acusaciones de los partidos de oposición sin presentar respuestas oficiales, lo que le otorga un ligero sesgo a la izquierda.",
+      "focus_analysis": "El medio elige un ángulo institucional‑político, destacando denuncias de campañas ilegales y problemas de seguridad, mientras omite detalles sobre el marco legal electoral o propuestas de solución concreta.",
+      "focus_tags": [
+        "elecciones",
+        "violencia política",
+        "campañas anticipadas"
+      ],
+      "context": [
+        {
+          "label": "Regulación de campañas anticipadas en México",
+          "text": "La Ley General de Instituciones y Procedimientos Electorales prohíbe la difusión de propaganda y la realización de actos de campaña antes del periodo oficial, y el INE ha sancionado a partidos por infringir esta norma en elecciones anteriores."
+        },
+        {
+          "label": "Aumento de la violencia política",
+          "text": "Organizaciones de derechos humanos y observatorios electorales han registrado un incremento de agresiones contra candidatos y funcionarios en los últimos años, lo que ha generado preocupación sobre la seguridad del proceso democrático."
+        },
+        {
+          "label": "Reacciones de otros partidos",
+          "text": "Diversos partidos de oposición, como el PAN y el PRI, también han exigido al INE una mayor vigilancia contra las campañas tempranas, mientras que la bancada del partido gobernante ha defendido la legalidad del calendario electoral vigente."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "a5b01587257d",
+      "title": "México quiere atraer inteligencia artificial sin electricidad suficiente",
+      "summary": "El columnista de El Economista advierte que México busca atraer inversiones en inteligencia artificial pese a que su infraestructura eléctrica y hídrica no está preparada para el consumo que demandan los centros de datos, lo que podría generar apagones y trasladar los costos a los usuarios.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/mexico-quiere-atraer-inteligencia-artificial-electricidad-suficiente-20260714-823100.html",
+      "published_at": "2026-07-14T06:57:07+00:00",
+      "bias_score": 15,
+      "bias_reason": "El texto utiliza un tono crítico hacia la gestión gubernamental y enfatiza los riesgos económicos de la falta de capacidad eléctrica, sin presentar perspectivas favorables al gobierno, lo que indica una ligera inclinación pro‑mercado.",
+      "focus_analysis": "El medio se centra en el ángulo económico‑infraestructura, resaltando la escasez de energía y agua y sus implicaciones para la inversión en IA; se deja de lado el impacto social directo en la población afectada por los cortes de luz.",
+      "focus_tags": [
+        "energia eléctrica",
+        "inteligencia artificial",
+        "inversión tecnológica"
+      ],
+      "context": [
+        {
+          "label": "Datos globales",
+          "text": "Según la Agencia Internacional de la Energía, la demanda eléctrica de los centros de datos mundialmente se duplicará para 2030, impulsada por la expansión de la inteligencia artificial."
+        },
+        {
+          "label": "Situación nacional",
+          "text": "En México, la red eléctrica ha presentado apagones y variaciones de voltaje en varios estados durante el verano de 2026, y la nueva Ley del Sector Eléctrico de 2025 mantiene al Estado como principal generador de energía."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Otros medios, como Expansión, enfocan la repercusión de la IA en la cadena de suministro de dispositivos móviles, señalando una caída en los envíos de smartphones por el aumento del costo de memorias, lo que muestra un ángulo diferente al de El Economista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "660ac527f20e",
+      "title": "Clima en Ciudad de México hoy: el pronóstico para el martes 14 de julio de 2026",
+      "summary": "El Informador indica que el martes 14 de julio de 2026 la Ciudad de México tendrá lluvias ligeras con temperaturas entre 13°C y 24°C y una humedad del 42%.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/clima-en-ciudad-de-mexico-hoy-el-pronostico-para-el-martes-14-de-julio-de-2026-20260714-0002.html",
+      "published_at": "2026-07-14T07:02:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos sin lenguaje cargado ni fuentes opinativas, presentando la información de forma neutral.",
+      "focus_analysis": "El medio se centra en ofrecer el pronóstico climático, omitiendo cualquier análisis económico, social o político relacionado con el clima.",
+      "focus_tags": [
+        "clima",
+        "Ciudad de México",
+        "pronóstico"
+      ],
+      "context": [
+        {
+          "label": "Patrón climático estacional",
+          "text": "En julio, la Ciudad de México suele presentar lluvias moderadas y temperaturas máximas entre 22°C y 24°C, con mínimas nocturnas cercanas a los 13°C."
+        },
+        {
+          "label": "Comparación con otras regiones",
+          "text": "Otros medios como Infobae reportan pronósticos similares para ciudades cercanas, como Ecatepec, reforzando que la zona del Valle de México experimenta patrones de lluvia y temperatura comparables."
+        },
+        {
+          "label": "Importancia de la información meteorológica",
+          "text": "Los pronósticos diarios son relevantes para la planificación de actividades cotidianas, transporte y eventos al aire libre en la capital mexicana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "a155f8f7d0c9",
+      "title": "Clima en Cancún hoy: el pronóstico para el martes 14 de julio de 2026",
+      "summary": "El Informador, portal de noticias de Guadalajara, pronostica el clima en la ciudad turística de Cancún, Quintana Roo, para el martes 14 de julio de 2026.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/clima-en-cancun-hoy-el-pronostico-para-el-martes-14-de-julio-de-2026-20260714-0003.html",
+      "published_at": "2026-07-14T07:02:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a datos meteorológicos y no emplea vocabulario cargado ni cite con opiniones, lo que indica una cobertura neutra sin sesgo político.",
+      "focus_analysis": "El medio se concentra en presentar el pronóstico del tiempo, detallando temperaturas, probabilidad de lluvia y velocidad del viento, sin abordar los posibles efectos económicos o sociales del clima.",
+      "focus_tags": [
+        "clima",
+        "cancún",
+        "pronóstico"
+      ],
+      "context": [
+        {
+          "label": "Clima típico de Cancún en julio",
+          "text": "Cancún, ubicado en la península de Yucatán, suele registrar temperaturas entre 30 y 35 grados y alta humedad en julio, con lluvias ocasionales asociadas a la temporada de huracanes."
+        },
+        {
+          "label": "Importancia del clima para el turismo",
+          "text": "El sector turístico de Cancún constituye una parte esencial de la economía de Quintana Roo, y las condiciones climáticas influyen directamente en la ocupación hotelera y la actividad de los visitantes."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios como Infobae México también publicaron pronósticos locales, enfocándose en ciudades distintas como Ecatepec, lo que evidencia que la cobertura del clima se mantiene factual y sin tono político."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "c6144249c911",
+      "title": "Clima en Monterrey hoy: el pronóstico para el martes 14 de julio de 2026",
+      "summary": "El periódico El Informador de Guadalajara informó que el martes 14 de julio de 2026 Monterrey experimentará lluvias ligeras, con una máxima de 33 °C, una mínima de 24 °C, humedad del 49 % y vientos del sureste a 6 km/h.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/clima-en-monterrey-hoy-el-pronostico-para-el-martes-14-de-julio-de-2026-20260714-0011.html",
+      "published_at": "2026-07-14T07:02:11+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos sin lenguaje cargado ni fuentes con sesgo; no se menciona ninguna perspectiva política, económica ni social.",
+      "focus_analysis": "El medio se centra en el ángulo meteorológico, describiendo temperaturas, probabilidad de lluvia y vientos, sin abordar impactos económicos, sociales o políticos del clima.",
+      "focus_tags": [
+        "clima Monterrey",
+        "pronóstico",
+        "temperatura"
+      ],
+      "context": [
+        {
+          "label": "Clima típico de Monterrey",
+          "text": "Monterrey, ubicada en una zona semiárida del norte de México, suele registrar altas temperaturas en verano y lluvias esporádicas, lo que hace que los pronósticos sean relevantes para la población local."
+        },
+        {
+          "label": "Importancia de los pronósticos",
+          "text": "Los pronósticos del tiempo son esenciales para sectores como la agricultura, el transporte y la planificación de eventos, pues ayudan a anticipar condiciones que pueden afectar la actividad diaria."
+        },
+        {
+          "label": "Cobertura de medios paralelos",
+          "text": "Otros medios, como Infobae México, también publicaron pronósticos para ciudades distintas, como Ecatepec, mostrando que la cobertura meteorológica es una práctica habitual a nivel nacional."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "e688849ef6eb",
       "title": "A 75 años de la hazaña de José Froilán González, el argentino que le dio el primer triunfo a Ferrari en la Fórmula 1",

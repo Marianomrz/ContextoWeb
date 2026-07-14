@@ -1,54 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-08T21:01:33.058913+00:00",
-      "title": "Por qué todos deberían ignorar las multas de tránsito",
-      "kind": "juridica",
-      "approved": false,
-      "overall": 2.4,
-      "scores": {
-        "rigor_juridico": 2,
-        "claridad_accesible": 5,
-        "etica_deontologia": 1,
-        "estructura_academica": 2,
-        "pertinencia_aporte": 2
-      },
-      "observacion": "Inapropiado: difamación e incitación a evadir obligaciones legales.",
-      "error": null
-    },
-    {
-      "at": "2026-07-08T21:01:33.059436+00:00",
-      "title": "El juicio de amparo, la herramienta del ciudadano frente al poder",
-      "kind": "juridica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "rigor_juridico": 9,
-        "claridad_accesible": 9,
-        "etica_deontologia": 9,
-        "estructura_academica": 8,
-        "pertinencia_aporte": 8
-      },
-      "observacion": "Divulgación sólida y honesta sobre sus límites.",
-      "error": null
-    },
-    {
-      "at": "2026-07-09T23:31:40.488226+00:00",
-      "title": "Wisława Szymborska: la poeta que hacía preguntas enormes en voz bajita",
-      "kind": "literatura",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 9,
-        "profundidad_tematica": 7
-      },
-      "observacion": "Pieza publicable: datos verificables (Nobel 1996, las 'lecturas no obligatorias', Herbert y Miłosz), sin citas textuales prohibidas y con la voz de la casa bien afinada. Ganaría profundidad si desarrollara con más cuerpo cómo opera esa ironía que promete.",
-      "error": null
-    },
-    {
       "at": "2026-07-09T23:31:53.941486+00:00",
       "title": "México prioriza mecanismo laboral del T-MEC",
       "kind": "noticia",
@@ -2978,6 +2930,256 @@
         "pertinencia_aporte": 0
       },
       "observacion": "Artículo rechazado por contenido ofensivo, falta de rigor académico y violación de la ética editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:19:24.003540+00:00",
+      "title": "Viet Thanh Nguyen y la diáspora vietnamita: una ventana a la memoria del conflicto",
+      "kind": "literatura",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "originalidad_creatividad": 4,
+        "riqueza_estilo": 3,
+        "estructura_narrativa": 5,
+        "voz_autor": 7,
+        "profundidad_tematica": 6
+      },
+      "observacion": "El texto cumple con la función informativa pero carece de originalidad y riqueza estilística, aunque mantiene una voz adecuada y una estructura coherente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:19:29.676540+00:00",
+      "title": "Desean que balanza siga a favor de la Furia",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es oportuno y bien estructurado, pero su fiabilidad se ve comprometida por errores factuales y la falta de fuentes variadas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:19:32.250121+00:00",
+      "title": "Clima en Monterrey hoy: el pronóstico para el martes 14 de julio de 2026",
+      "kind": "noticia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting property name enclosed in double quotes: line 16 column 3 (char 839)"
+    },
+    {
+      "at": "2026-07-14T07:19:37.659194+00:00",
+      "title": "Clima en Cancún hoy: el pronóstico para el martes 14 de julio de 2026",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la veracidad y el contraste de fuentes podrían reforzarse con datos más concretos y fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:19:40.915975+00:00",
+      "title": "Clima en Ciudad de México hoy: el pronóstico para el martes 14 de julio de 2026",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque la diversidad de fuentes podría ampliarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:19:46.303940+00:00",
+      "title": "Las campañas de publicidad que cuentan cómo éramos",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 6
+      },
+      "observacion": "El artículo es actual y objetivo, pero su falta de fuentes múltiples y de evidencia concreta reduce su rigor periodístico.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:19:51.319643+00:00",
+      "title": "SK Hynix está apostando a que el ciclo de la memoria ha muerto. Lo demuestra haciendo justo lo que s",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene errores de hecho y escasa triangulación de fuentes, lo que compromete su veracidad, aunque su presentación es mayormente objetiva y actual.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:19:56.255603+00:00",
+      "title": "Iñárritu lleva a Tom Cruise al borde del abismo",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la pieza es oportuna y está bien estructurada, carece de veracidad y de una cobertura equilibrada, lo que la hace inadecuada para publicación sin una verificación exhaustiva y mayor diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:00.308222+00:00",
+      "title": "La Zabaleta llama a Pedrito a cuidarse de homófobos",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta problemas de precisión y equilibrio de fuentes, aunque es actual y sigue en cierta medida la estructura de pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:05.700947+00:00",
+      "title": "México quiere atraer inteligencia artificial sin electricidad suficiente",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y estructura, muestra fuentes diversas, pero la verificación de datos y la objetividad podrían reforzarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:11.039316+00:00",
+      "title": "Matan a tiros a ciudadano colombiano durante una operación de ICE en Maine",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero la ausencia de pruebas concretas y citas reduce su fiabilidad factual.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:14.239844+00:00",
+      "title": "Morena: ¿el movimiento es Rocha Moya?",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual pero presenta serias deficiencias de veracidad y objetividad, limitando su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:17.976034+00:00",
+      "title": "Las faltas del Inai",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero necesita fuentes más diversas y mayor respaldo verificable para alcanzar una alta calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:21.163924+00:00",
+      "title": "Piden al INE atender campañas anticipadas",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los criterios editoriales, aunque la redacción del resumen muestra cierto sesgo que podría mejorarse para mayor neutralidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:26.361700+00:00",
+      "title": "Sencillito y carismático",
+      "kind": "noticia",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete es reciente pero presenta deficiencias graves de veracidad, diversidad de fuentes y objetividad, lo que compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-14T07:20:30.108847+00:00",
+      "title": "CPM amplía base de socios; crece el sector cooperativo",
+      "kind": "noticia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para un contraste más amplio.",
       "error": null
     }
   ]
