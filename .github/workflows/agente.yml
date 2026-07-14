@@ -22,7 +22,14 @@ name: Agente de noticias — ciclo automático
 
 on:
   schedule:
-    - cron: "0 * * * *"      # cada hora en punto (UTC)
+    # NO usar el minuto :00 (revisión 13 jul 2026): GitHub Actions satura
+    # justo al inicio de cada hora porque TODOS los cron del mundo
+    # configurados "en punto" disparan al mismo instante — en esa
+    # saturación, GitHub no solo atrasa corridas, algunas se saltan por
+    # completo. Confirmado con datos reales: en ~12h con este cron, de las
+    # corridas registradas en Actions solo 1 fue "Scheduled" (el resto,
+    # manuales). Minuto :07 evita ese pico.
+    - cron: "7 * * * *"       # cada hora, 7 min después del punto (UTC)
   workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
 
 permissions:
