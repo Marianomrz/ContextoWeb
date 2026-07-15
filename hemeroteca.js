@@ -41,23 +41,43 @@
     return d.innerHTML.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
   }
 
+  // Todo el sitio agrupa/muestra fechas en hora de Ciudad de México, sin
+  // importar la zona del lector ni la del servidor que generó el dato
+  // (agregado 14 jul 2026 — antes dayKey() usaba toISOString(), que es
+  // SIEMPRE UTC: una nota publicada, por decir, a las 19:00 hora CDMX ya
+  // caía del lado UTC del día siguiente y aparecía agrupada bajo la fecha
+  // equivocada — el bug real detrás de "aparece miércoles siendo aún
+  // martes"). mxDateKey usa el locale en-CA solo como truco: ese locale
+  // formatea como AAAA-MM-DD, que es justo lo que necesitamos, ya
+  // convertido al huso de Ciudad de México por el motor de Intl.
+  function mxDateKey(d) {
+    return new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'America/Mexico_City', year: 'numeric', month: '2-digit', day: '2-digit',
+    }).format(d);
+  }
+
   function dayKey(iso) {
     const d = new Date(iso);
-    return isNaN(d) ? 'sin-fecha' : d.toISOString().slice(0, 10);
+    return isNaN(d) ? 'sin-fecha' : mxDateKey(d);
   }
 
   function dayLabel(key) {
     if (key === 'sin-fecha') return 'Sin fecha';
-    // mediodía UTC evita que el huso horario local recorra la fecha al día anterior
+    // mediodía UTC evita que el huso horario local recorra la fecha al día
+    // anterior al construir el Date; timeZone explícito en el format de
+    // abajo asegura que el nombre del día/mes también salga en hora CDMX.
     const d = new Date(key + 'T12:00:00Z');
     return d.toLocaleDateString('es-MX', {
       weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
+      timeZone: 'America/Mexico_City',
     });
   }
 
   function timeLabel(iso) {
     const d = new Date(iso);
-    return isNaN(d) ? '' : d.toLocaleTimeString('es-MX', { hour: '2-digit', minute: '2-digit' });
+    return isNaN(d) ? '' : d.toLocaleTimeString('es-MX', {
+      hour: '2-digit', minute: '2-digit', timeZone: 'America/Mexico_City',
+    });
   }
 
   function groupByDay(articles) {

@@ -243,20 +243,24 @@ reseñas de lectores ya no corren dentro de `agent.py`; usa
 mano (o espera al cron de `moderacion.yml`). Para ver el resultado, sirve el
 portal como arriba (`python -m http.server 8000`) y recarga el navegador.
 
-**`MAX_NEW_PER_CYCLE` es una meta de publicación, no un tope de análisis**: el
-agente sigue tomando más candidatas del pool de feeds (`fresh`, normalmente
-muy por encima de 6) si el QC va rechazando, hasta publicar esa cantidad —
-nunca baja la vara del QC para forzar el número. El techo real de gasto por
-ciclo lo pone `MAX_ANALYSIS_ATTEMPTS` (4× `MAX_NEW_PER_CYCLE` por defecto):
-si se llega a ese techo sin completar la meta, el ciclo publica lo que
-alcanzó y lo deja explícito en el log — un día de mala calidad en los feeds
-publica menos, no publica peor.
+**`MAX_NEW_PER_CYCLE` es una META MÍNIMA de publicación, no un techo**
+(cambiado 14 jul 2026): el agente procesa TODO el pool de candidatas del
+ciclo (`fresh`), no se detiene al llegar a esta cantidad — si hay más
+candidatas que pasan el QC, se publican todas. Antes sí se detenía al
+llegar a la meta, pero eso tenía un efecto colateral real: `fresh` se
+ordena por fecha across todas las fuentes, así que las categorías de bajo
+volumen (tecnología, internacional) casi nunca llegaban a analizarse dentro
+del techo de intentos que existía — las fuentes de alto volumen (política/
+economía) siempre ocupaban los primeros lugares del pool. El único límite
+real ahora es el presupuesto diario (`budget.can_spend`), igual que en el
+resto del pipeline — nunca se baja la vara del QC para forzar el número: un
+día de mala calidad en los feeds publica menos, no publica peor; un día con
+mucho material bueno publica más de la meta, sin techo artificial.
 
 **Para controlar el gasto de cada corrida**, tenés dos palancas:
-1. `MAX_NEW_PER_CYCLE` en `agent/agent.py` (por defecto 6 notas — cada
-   corrida son, en el peor caso, `MAX_ANALYSIS_ATTEMPTS` notas × 2 llamadas
-   + 1 pieza literaria × 2 llamadas). Bájalo a 2 o 3 mientras pruebas para
-   gastar menos por corrida.
+1. `MAX_NEW_PER_CYCLE` en `agent/agent.py` — ya no limita el gasto (ver
+   arriba), es solo la meta que se reporta en el log. La palanca real de
+   gasto por corrida es el presupuesto diario (punto 2).
 2. `DAILY_BUDGET_USD` en `agent/budget.py` — un dict con **dos bolsas
    independientes**, no un tope compartido: `news` ($4/día por defecto,
    para `agente.yml`) y `moderation` ($1/día, para `moderacion.yml`), suma
@@ -588,12 +592,15 @@ de transparentar la inclinación.
 | **El País América** | Internacional | Centro-izquierda | Referencia iberoamericana con corrección pública de errores |
 | **DW Español** | Internacional | Centro | Medio público alemán con carta editorial independiente |
 | **France24 Español** | Internacional | Centro | Medio público francés, misma familia editorial que DW |
+| **Euronews Español** | Internacional | Centro | Muy alto volumen (varias notas/hora), cobertura geopolítica real — agregada 14 jul 2026 para que "internacional" no dependa de solo 4 fuentes de volumen medio-bajo |
 | **La Jornada Deportes** | Deportes | Ídem cabecera | Feed seccional de La Jornada |
 | **Infobae Deportes** | Deportes | N/A (encuadres, no política) | Cobertura deportiva de alto volumen, incluye competencias internacionales |
 | **Letras Libres** | Revista cultural | Liberal (tradición Paz) | Crítica literaria de primer nivel; su línea intelectual es explícita |
 | **La Jornada Cultura** | Cultura | Ídem cabecera | Feed seccional de La Jornada |
 | **Xataka** | Tecnología | Centro (foco técnico, no político) | Cubre el hueco real de la categoría "tecnologia": no tenía ninguna fuente propia |
 | **Hipertextual** | Tecnología | Centro | Segunda voz en tecnología, para no depender de un solo medio en la categoría |
+| **Genbeta** | Tecnología (software/apps) | Centro | Xataka/Hipertextual mezclan bastante cine/streaming; Genbeta es más estrictamente software e internet — agregada 14 jul 2026 |
+| **WWWhatsnew** | Tecnología (apps/internet) | Centro | Mismo motivo que Genbeta: más peso real a "tecnologia" sin depender de fuentes que mezclan entretenimiento — agregada 14 jul 2026 |
 | **El Sol de México** | Generalista, red OEM | Centro / institucional | Grupo editorial distinto a los demás del panel (OEM); suma volumen y otra ownership |
 
 **Agregadas el 10 jul 2026** (tras encontrar que el pipeline solo aprobaba
@@ -645,8 +652,7 @@ reflexiones. Estas piezas:
 | Agregar/quitar fuentes | Lista `SOURCES` en `agent/agent.py` |
 | Frecuencia del ciclo de noticias | `cron:` en `agente.yml` o `--loop N` |
 | Frecuencia de moderación (revista/reseñas) | `cron:` en `moderacion.yml` (cada 3 h por defecto — subir cuando haya más volumen de borradores) |
-| Cuántas notas publica por ciclo (meta, no tope) | `MAX_NEW_PER_CYCLE` |
-| Techo de intentos si el QC rechaza (costo máximo) | `MAX_ANALYSIS_ATTEMPTS` |
+| Cuántas notas publica por ciclo (meta mínima, sin techo) | `MAX_NEW_PER_CYCLE` |
 | Cuántas notas viven en el portal | `MAX_ARTICLES_KEPT` |
 | Cuántas entradas por feed se leen (no cuesta API) | `parsed.entries[:25]` en `fetch_new_entries()`, `agent/agent.py` |
 | Tope de gasto diario (los 4 agentes) | `DAILY_BUDGET_USD` en `agent/budget.py` |
@@ -686,6 +692,17 @@ reflexiones. Estas piezas:
     solo 2 llamadas al día, así que el modelo más capaz (y más caro,
     $10/$50 por millón de tokens) sale casi gratis en términos absolutos:
     ~$0.06 USD/nota × 1 nota/día ≈ **menos de $2 USD/mes**.
+
+  **Mientras `LLM_PROVIDER=inception` esté activo** (ver `agent/llm_client.py`),
+  ninguno de los dos modelos de arriba se usa realmente: TODA llamada —
+  noticias, QC y la pieza literaria, sin excepción — corre contra Mercury
+  (Inception Labs), con el gasto real en $0 (cuenta nueva trae 10M tokens
+  gratis). Se intentó una excepción el 14 jul 2026 para forzar la pieza
+  literaria por Anthropic, porque Mercury la rechazaba siempre en el
+  control de calidad (0% de aprobación, ver `agent/qc_log.json`) — revertida
+  el mismo día: mientras se use Inception, la prioridad es no gastar nada
+  de crédito de Anthropic, así que el ajuste pendiente es el umbral de
+  calidad o el prompt de escritura de esa pieza, no el proveedor.
 
   Ajusta `MAX_NEW_PER_CYCLE` y la frecuencia del cron para controlar el
   gasto de Sonnet 5, que es la variable que más pesa en el total.

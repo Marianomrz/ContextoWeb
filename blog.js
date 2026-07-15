@@ -34,8 +34,11 @@
 
   function fecha(iso) {
     const d = new Date(iso);
+    // hora de Ciudad de México explícita, sin importar la zona del lector
+    // (mismo criterio que app.js/hemeroteca.js, 14 jul 2026)
     return isNaN(d) ? '' : d.toLocaleDateString('es-MX', {
       day: 'numeric', month: 'long', year: 'numeric',
+      timeZone: 'America/Mexico_City',
     });
   }
 

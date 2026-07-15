@@ -134,7 +134,7 @@
 
 * { box-sizing: border-box; }
 
-html { scroll-behavior: smooth; overflow-x: hidden; }
+html { scroll-behavior: smooth; overflow-x: hidden; overscroll-behavior-x: none; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
@@ -148,7 +148,10 @@ body {
   font-size: 16px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
-  overflow-x: hidden;   /* red de seguridad contra scroll horizontal accidental (celular) */
+  overflow-x: hidden;         /* red de seguridad contra layout más ancho que el viewport */
+  overscroll-behavior-x: none; /* corta el swipe horizontal antes de que el navegador lo
+                                   interprete como "regresar/avanzar" o lo encadene hacia
+                                   la página completa — ver vuelta 18 en 00-INDICE.md */
 }
 
 /* firma visual: hilo espectral sutil en el borde superior */
@@ -496,6 +499,8 @@ button {
   scroll-snap-type: x mandatory;
   padding-bottom: 0.6rem;
   scrollbar-width: thin;
+  overscroll-behavior-x: contain; /* su propio swipe se queda dentro del carrusel,
+                                      nunca se encadena hacia la página completa */
 }
 .carousel::-webkit-scrollbar { height: 6px; }
 .carousel::-webkit-scrollbar-thumb { background: var(--rule-strong); border-radius: 3px; }

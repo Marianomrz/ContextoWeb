@@ -16,6 +16,17 @@
   const SUPABASE_URL = 'https://lgprhvetnkucpttgpwxi.supabase.co';
   const SUPABASE_ANON_KEY = 'sb_publishable_adwmkWFs98Pr13WW9rJ28Q_tLA5HH6j';
 
+  // Todo el sitio muestra/agrupa fechas en hora de Ciudad de México, sin
+  // importar la zona del lector ni la del servidor que generó el dato
+  // (agregado 14 jul 2026 — mismo criterio que hemeroteca.js/blog.js; ver
+  // sus comentarios para el diagnóstico completo). Locale en-CA es solo un
+  // truco: formatea como AAAA-MM-DD, ya convertido al huso de CDMX.
+  function mxDateKey(d) {
+    return new Intl.DateTimeFormat('en-CA', {
+      timeZone: 'America/Mexico_City', year: 'numeric', month: '2-digit', day: '2-digit',
+    }).format(d);
+  }
+
   // marca que hay JS activo: los estados iniciales de los efectos de scroll
   // (elementos ocultos antes de revelarse) solo aplican bajo .js — sin
   // JavaScript todo el contenido es visible desde el primer render
@@ -62,7 +73,9 @@
     const days = Math.round(hrs / 24);
     if (days === 1) return 'ayer';
     if (days < 7) return `hace ${days} días`;
-    return then.toLocaleDateString('es-MX', { day: 'numeric', month: 'short' });
+    return then.toLocaleDateString('es-MX', {
+      day: 'numeric', month: 'short', timeZone: 'America/Mexico_City',
+    });
   }
 
   function esc(str) {
@@ -615,6 +628,7 @@
   function initDate() {
     const texto = new Date().toLocaleDateString('es-MX', {
       weekday: 'long', day: 'numeric', month: 'long', year: 'numeric',
+      timeZone: 'America/Mexico_City',
     });
     const el = $('#fecha-hoy');
     if (el) el.textContent = texto;
@@ -630,8 +644,13 @@
     const newsOnly = all.filter(a => !a.editorial_pick && a.bias_score != null);
     if (!newsOnly.length) { el.innerHTML = ''; return; }
 
-    const today = new Date().toISOString().slice(0, 10);
-    let pool = newsOnly.filter(a => String(a.published_at || '').slice(0, 10) === today);
+    // Antes comparaba con toISOString().slice(0,10) — UTC puro. Entre las
+    // 18:00 y medianoche hora CDMX eso ya cae del lado UTC del día
+    // siguiente, así que el termómetro "de hoy" podía quedarse vacío
+    // (o contar mal) justo esas horas. Arreglado 14 jul 2026: ambos lados
+    // de la comparación, en hora de Ciudad de México.
+    const today = mxDateKey(new Date());
+    let pool = newsOnly.filter(a => a.published_at && mxDateKey(new Date(a.published_at)) === today);
     let scope = 'de hoy';
     if (pool.length < 2) { pool = newsOnly.slice(0, 12); scope = 'más recientes'; }
 

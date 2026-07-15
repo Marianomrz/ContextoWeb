@@ -30,6 +30,7 @@ import time
 import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo  # stdlib desde Python 3.9 — sin dependencia nueva
 
 try:
     import feedparser
@@ -65,13 +66,48 @@ HEMEROTECA_JSON = BASE_DIR.parent / "hemeroteca.json"
 STATE_FILE = BASE_DIR / "seen_urls.json"          # deduplicación entre ciclos
 QC_LOG_FILE = BASE_DIR / "qc_log.json"            # bitácora del control de calidad
 
-MAX_NEW_PER_CYCLE = 6      # cuántas notas debe PUBLICAR el ciclo (el QC puede rechazar
-                           # de más, así que el agente sigue intentando con más candidatas
-                           # del pool hasta llegar a este número o agotar MAX_ANALYSIS_ATTEMPTS)
-MAX_ANALYSIS_ATTEMPTS = MAX_NEW_PER_CYCLE * 4   # techo de análisis por ciclo si el QC
-                           # rechaza varias seguidas — controla el costo máximo de API
-                           # cuando el pool de candidatas es de baja calidad ese día
-MAX_ARTICLES_KEPT = 60     # tope de notas vivas en el portal
+# Huso horario editorial del portal (agregado 14 jul 2026): GitHub Actions
+# corre en UTC y por defecto todo "hoy"/"fecha" en Python se calculaba con
+# datetime.now() sin zona (=UTC ahí) — entre las 18:00 y medianoche hora
+# CDMX eso ya cae del lado UTC del día siguiente. Todo lo que en este
+# archivo signifique "el día de hoy" para un LECTOR (no el reinicio del
+# presupuesto, que sigue en UTC a propósito, ver agent/budget.py) debe
+# calcularse con MX_TZ, nunca con datetime.now() a secas ni con
+# datetime.now(tz=timezone.utc).
+MX_TZ = ZoneInfo("America/Mexico_City")
+
+MESES_ES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
+            "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+
+
+def mx_date_str(dt=None):
+    """Fecha (YYYY-MM-DD) en hora de Ciudad de México, a partir de un
+    datetime aware o (por default) de ahora mismo."""
+    d = (dt or datetime.now(tz=timezone.utc)).astimezone(MX_TZ)
+    return d.strftime("%Y-%m-%d")
+
+MAX_NEW_PER_CYCLE = 6      # META MÍNIMA de notas a publicar por ciclo — no un techo.
+                           # Cambiado 14 jul 2026 a pedido del usuario: antes el ciclo
+                           # se detenía apenas publicaba esta cantidad, aunque el pool
+                           # trajera más candidatas buenas. Eso tenía un efecto
+                           # colateral real: fresh (ver fetch_new_entries) se ordena por
+                           # fecha ACROSS todas las fuentes, así que las categorías de
+                           # bajo volumen (tecnologia, internacional) casi nunca llegaban
+                           # a analizarse — las fuentes de alto volumen (política/
+                           # economía) siempre ocupaban los primeros lugares del pool
+                           # dentro del techo de intentos que existía antes. Ahora
+                           # run_cycle() procesa TODO el pool `fresh` cada ciclo; el
+                           # único límite real es el presupuesto diario
+                           # (budget.can_spend), igual que en el resto del pipeline —
+                           # esta constante solo se usa para el log informativo.
+MAX_ARTICLES_KEPT = 30     # tope de notas vivas en el portal — bajado de 60 el 14 jul
+                           # 2026 a pedido del usuario (la portada se sentía muy larga
+                           # para llegar a la hemeroteca/brújula/etc. al fondo). Nada se
+                           # pierde: lo que sale de aquí sigue para siempre en
+                           # hemeroteca.json, solo deja de mostrarse en la portada. Con
+                           # el techo de publicación por ciclo ya quitado (ver
+                           # MAX_NEW_PER_CYCLE arriba), la portada rota más rápido que
+                           # antes, así que 60 se habría sentido todavía más larga.
 
 # IDs de notas de ejemplo/relleno que quedaron en articles.json desde una
 # etapa temprana de desarrollo (antes de conectar el agente real) y nunca se
@@ -85,17 +121,27 @@ MAX_ARTICLES_KEPT = 60     # tope de notas vivas en el portal
 # borre de articulo/ y del sitemap en el siguiente build_all().
 EXCLUDED_IDS = {"ejemplo-001", "ejemplo-002", "ejemplo-003", "ejemplo-004", "ejemplo-005"}
 
-# Dos modelos, según volumen y exigencia de cada tarea:
+# Dos modelos, según volumen y exigencia de cada tarea (nombres de
+# Anthropic — mientras LLM_PROVIDER=inception esté activo, AMBOS se
+# IGNORAN y todo corre con Mercury, ver nota abajo. Quedan documentados
+# aquí porque son el objetivo real cuando se vuelva a Anthropic):
 # - ANALYSIS_MODEL: corre decenas de veces al día (una por nota) — Sonnet 5
 #   da calidad casi de Opus a precio de Sonnet, ideal para el volumen alto.
 # - LITERATURE_MODEL: corre una sola vez al día (la pieza de mano libre) —
-#   el volumen es mínimo, así que usamos Fable 5, el modelo más capaz,
-#   donde la calidad de la escritura creativa realmente se nota.
+#   el volumen es mínimo, así que se pagaría el modelo más capaz.
 ANALYSIS_MODEL = "claude-sonnet-5"
 LITERATURE_MODEL = "claude-fable-5"
 # Nota: si LLM_PROVIDER=inception (ver agent/llm_client.py), estos dos
-# nombres se IGNORAN y ambas llamadas usan Mercury — es un cambio temporal
-# mientras se prueba el pipeline, ver la explicación en llm_client.py.
+# nombres se IGNORAN y ambas llamadas usan Mercury — es a propósito: el
+# objetivo mientras se prueba el pipeline es $0 de gasto real, punto. Se
+# intentó una excepción el 14 jul 2026 para forzar la pieza literaria por
+# Anthropic (Mercury la rechazaba siempre, 0% de aprobación) — revertida
+# el mismo día a pedido explícito del usuario: mientras se use Inception,
+# TODO pasa por ahí, sin excepciones, aunque eso signifique ajustar el
+# umbral de calidad o el prompt de escritura en vez de cambiar de modelo
+# — ver el diagnóstico real (0% de aprobación, siempre floja en
+# originalidad_creatividad/riqueza_estilo) en agent/qc_log.json y en
+# 00-INDICE.md, vuelta 18-19, antes de tocar cualquiera de los dos.
 
 # Fuentes: feeds RSS públicos. Ajusta o agrega los tuyos (p. ej. el periódico
 # local de tu ciudad). Si un feed cambia de URL, solo edita esta lista.
@@ -133,6 +179,13 @@ SOURCES = [
     {"name": "El País América", "feed": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "default_category": "internacional"},
     {"name": "DW Español",     "feed": "https://rss.dw.com/xml/rss-sp-all",                    "default_category": "internacional"},
     {"name": "France24 Español", "feed": "https://www.france24.com/es/rss",                    "default_category": "internacional"},
+    # Agregada 14 jul 2026: el usuario notó que casi no salían notas de
+    # internacional/tecnología pese a tener fuentes — verificado que el
+    # feed sí respondía (contenido real, del día), la causa real era otra
+    # (ver nota de MAX_NEW_PER_CYCLE más abajo). Euronews España, verificada
+    # con feedparser antes de agregarla: muy alto volumen, actualiza varias
+    # veces por hora, cobertura geopolítica real (no solo notas de agencia).
+    {"name": "Euronews Español", "feed": "https://es.euronews.com/rss?level=theme&name=news",  "default_category": "internacional"},
 
     # --- Deportes ---
     # ESPN Deportes retiró su RSS (bloqueo/redirect en bucle, 9 jul 2026).
@@ -147,6 +200,15 @@ SOURCES = [
     # a pesar de existir en VALID_CATEGORIES — hueco real, no intencional) ---
     {"name": "Xataka",        "feed": "https://www.xataka.com/feedburner.xml", "default_category": "tecnologia"},
     {"name": "Hipertextual",  "feed": "https://hipertextual.com/feed",          "default_category": "tecnologia"},
+    # Agregadas 14 jul 2026: Xataka/Hipertextual mezclan bastante cine/streaming
+    # con tecnología real (el análisis categoriza por CONTENIDO, no por fuente,
+    # así que esas notas de cine legítimamente no caen en "tecnologia" — no era
+    # un bug de categorización). Genbeta y WWWhatsnew son más estrictamente de
+    # software/apps/internet, para darle más peso real a la categoría. Ambas
+    # verificadas con feedparser antes de agregarlas (contenido real, no solo
+    # HTTP 200).
+    {"name": "Genbeta",       "feed": "https://www.genbeta.com/feedburner.xml", "default_category": "tecnologia"},
+    {"name": "WWWhatsnew",    "feed": "https://wwwhatsnew.com/feed/",           "default_category": "tecnologia"},
 
     # --- Más volumen / diversidad editorial (10 jul 2026, ver README →
     # Panel de fuentes para la justificación completa) ---
@@ -458,8 +520,8 @@ def analyze_entry(entry, api_key, pool):
         return None
     # leer la nota completa SOLO ahora (justo antes de gastar la llamada a
     # la API) — no al descubrir el candidato, para no pagar el costo de red
-    # de decenas de fetches por ciclo cuando la mayoría nunca llega a
-    # analizarse (MAX_ANALYSIS_ATTEMPTS limita cuántas sí se analizan)
+    # de fetches que después ni siquiera se llegan a analizar si el
+    # presupuesto se agota a mitad de ciclo (budget.can_spend arriba)
     if "article_text" not in entry:
         entry["article_text"] = fetch_article_text(entry["link"])
         if not entry["article_text"]:
@@ -515,33 +577,74 @@ cualquier país o género), un perfil breve de un autor o autora, una efeméride
 literaria de la fecha, una reflexión sobre un género o movimiento, o una
 conexión entre literatura y la vida cotidiana.
 
-Reglas:
-1. Escribe todo con tus propias palabras. PROHIBIDO reproducir poemas, versos,
-   letras de canciones o pasajes de libros — puedes describir su estilo y
-   temas, nunca citarlos textualmente.
-2. Recomienda solo obras y autores reales que conozcas con certeza. No
+El tema Y el ángulo son enteramente tu decisión — libro, autor, época, país,
+género, la conexión que se te ocurra: no hay tema obligatorio ni ángulo
+prohibido. Lo único que sí importa es CÓMO lo escribes: antes de empezar,
+decide en silencio (no lo muestres en la respuesta) una imagen o metáfora
+concreta que sostenga toda la pieza — constrúyela, no la menciones de paso.
+
+Reglas de escritura — esto es lo que más ha hecho rechazar piezas hasta
+ahora (flojas en originalidad y riqueza de estilo, aunque bien estructuradas
+y correctas), tómalas en serio:
+1. Prohibido abrir con fórmulas gastadas: "X es un autor/a conocido/a
+   por...", "Hoy quiero hablarles de...", "Pocos saben que...", "En el
+   mundo de la literatura...". Abre con la imagen o el detalle concreto que
+   decidiste antes de escribir, no con una presentación genérica.
+2. Cada frase se gana su lugar: nada de relleno ("es interesante notar
+   que...", "sin duda...", "cabe destacar..."). Vocabulario preciso y
+   evocador, no ornamentado por ornamentar.
+3. Usa al menos un recurso retórico real (metáfora, símil, paradoja,
+   yuxtaposición) construido con cuidado, que cargue sentido — no
+   decorativo.
+4. Escribe todo con tus propias palabras. PROHIBIDO reproducir poemas,
+   versos, letras de canciones o pasajes de libros — puedes describir su
+   estilo y temas, nunca citarlos textualmente.
+5. Recomienda solo obras y autores reales que conozcas con certeza. No
    inventes títulos, fechas ni premios.
-3. Varía: si te doy los títulos de piezas recientes, elige algo distinto en
+6. Varía: si te doy los títulos de piezas recientes, elige algo distinto en
    tema, época y geografía.
-4. Tono: cálido, curioso, sin solemnidad. Como quien recomienda un libro a
-   un amigo, no como quien dicta cátedra.
+7. Tono: cálido, curioso, sin solemnidad. Como quien recomienda un libro a
+   un amigo, no como quien dicta cátedra — pero cuidado en cada frase, no
+   informal por descuido.
+
+Vas a pasar por un control de calidad que rechaza piezas de enfoque trillado
+o estilo plano aunque estén bien escritas en lo estructural — la corrección
+no basta, hace falta una perspectiva propia y lenguaje que valga la pena leer.
 
 Responde SOLO con un objeto JSON con estos campos:
-- "title": titular atractivo de la pieza (máx. 90 caracteres)
-- "summary": 2-3 frases que abren la pieza
-- "focus_analysis": 2-3 frases explicando por qué elegiste este tema hoy
+- "title": titular atractivo de la pieza (máx. 90 caracteres) — que refleje
+  tu ángulo, no un titular genérico tipo "Perfil de X"
+- "summary": 2-3 frases que abren la pieza con la imagen central que
+  decidiste — es la parte que más pesa en el control de calidad, no la
+  gastes en contexto genérico
+- "focus_analysis": 2-3 frases explicando por qué elegiste este tema y este
+  ángulo hoy
 - "focus_tags": 2-3 etiquetas cortas (género, época, país...)
-- "context": exactamente 3 objetos {"label", "text"} con rutas para el lector:
-  por dónde empezar con el autor, obras afines, o datos de trasfondo."""
+- "context": exactamente 3 objetos {"label", "text"} con rutas para el
+  lector: por dónde empezar con el autor, obras afines, o datos de
+  trasfondo — cada "text" también va bien escrito, no es una ficha técnica."""
 
 
 def publish_daily_literature(api_key, published):
     """Publica la pieza literaria de mano libre si hoy aún no existe.
     Se detiene sin llamar a la API si ya se agotó el presupuesto diario
     (se reintenta en un ciclo posterior, el mismo día o el siguiente)."""
-    today = datetime.now().strftime("%Y-%m-%d")
+    # "Hoy" en hora de Ciudad de México, no UTC (14 jul 2026): antes
+    # comparaba el prefijo del ISO guardado (siempre UTC) contra
+    # datetime.now() sin zona (UTC en los runners de Actions) — coincidía
+    # casi siempre, pero fallaba justo entre las 18:00 y medianoche hora
+    # CDMX, cuando UTC ya había cruzado al día siguiente.
+    today = mx_date_str()
     for art in published:
-        if art.get("editorial_pick") and str(art.get("published_at", "")).startswith(today):
+        if not (art.get("editorial_pick") and art.get("published_at")):
+            continue
+        try:
+            pub_dt = datetime.fromisoformat(str(art["published_at"]).replace("Z", "+00:00"))
+            if pub_dt.tzinfo is None:
+                pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
+        if mx_date_str(pub_dt) == today:
             return None  # la de hoy ya está publicada
 
     if not budget.can_spend("news"):
@@ -551,8 +654,10 @@ def publish_daily_literature(api_key, published):
     recent_titles = [
         a["title"] for a in published if a.get("editorial_pick")
     ][:15]
+    now_mx = datetime.now(tz=timezone.utc).astimezone(MX_TZ)
+    fecha_hoy = f"{now_mx.day} de {MESES_ES[now_mx.month - 1]} de {now_mx.year}"
     user_prompt = (
-        f"Fecha de hoy: {datetime.now().strftime('%d de %B de %Y')}.\n"
+        f"Fecha de hoy: {fecha_hoy}.\n"
         f"Títulos de tus piezas recientes (elige algo distinto):\n- "
         + ("\n- ".join(recent_titles) if recent_titles else "(ninguna todavía)")
     )
@@ -634,8 +739,9 @@ def run_cycle(api_key):
     qc_log = load_json(QC_LOG_FILE, {"verdicts": []}).get("verdicts", [])
 
     fresh = fetch_new_entries(seen)
-    log(f"Notas nuevas detectadas: {len(fresh)} (meta: publicar {MAX_NEW_PER_CYCLE}, "
-        f"máx. {MAX_ANALYSIS_ATTEMPTS} intentos si el QC rechaza)")
+    log(f"Notas nuevas detectadas: {len(fresh)} (meta mínima: {MAX_NEW_PER_CYCLE} "
+        f"publicadas; sin techo — se procesa todo el pool, el presupuesto diario "
+        f"es el único límite real)")
 
     portal = load_json(OUTPUT_JSON, {"articles": []})
     published = [a for a in portal.get("articles", []) if a.get("id") not in EXCLUDED_IDS]
@@ -658,23 +764,16 @@ def run_cycle(api_key):
             qc_rejected += 1
             log(f"  ✗ QC rechazó la pieza literaria ({qc['overall']}/10): {qc['observacion_global'][:90]}")
 
-    # sigue intentando con más candidatas del pool (no solo las primeras
-    # MAX_NEW_PER_CYCLE) hasta PUBLICAR esa cantidad — el QC puede rechazar
-    # varias seguidas y el pool suele traer de sobra (ver SOURCES). El techo
-    # de intentos evita gasto descontrolado si la calidad del día es mala;
-    # si se llega al techo sin completar la meta, el ciclo publica lo que
-    # alcanzó y lo deja bien claro en el log — nunca se baja la vara del QC
-    # para forzar el número, eso rompería la razón de ser del control de calidad.
+    # Se procesa TODO el pool `fresh` cada ciclo, sin techo de cuántas se
+    # publican ni de cuántas se intentan — MAX_NEW_PER_CYCLE es solo una
+    # meta mínima para el log (ver su comentario arriba). El único límite
+    # real es el presupuesto diario (budget.can_spend), como en el resto
+    # del pipeline. Nunca se baja la vara del QC para forzar un número: un
+    # día de mala calidad simplemente publica menos, y uno con mucho
+    # material bueno publica más de la meta sin que nada lo frene.
     news_published = 0
     attempts = 0
     for entry in fresh:
-        if news_published >= MAX_NEW_PER_CYCLE:
-            break
-        if attempts >= MAX_ANALYSIS_ATTEMPTS:
-            log(f"  ⚠ Techo de {MAX_ANALYSIS_ATTEMPTS} intentos alcanzado sin llegar a las "
-                f"{MAX_NEW_PER_CYCLE} notas ({news_published} publicadas) — el QC rechazó "
-                f"de más este ciclo. Se retoma con el pool restante en el siguiente ciclo.")
-            break
         if not budget.can_spend("news"):
             log(f"  💰 Presupuesto diario de noticias agotado a mitad de ciclo — se detiene "
                 f"el análisis por hoy ({entry['title'][:50]}… y las siguientes "
@@ -713,6 +812,13 @@ def run_cycle(api_key):
         new_count += 1
         news_published += 1
         time.sleep(1)  # cortesía con la API
+
+    if news_published < MAX_NEW_PER_CYCLE:
+        log(f"  ⚠ {news_published} publicadas, por debajo de la meta mínima de "
+            f"{MAX_NEW_PER_CYCLE} — el pool no alcanzó o el QC rechazó de más este "
+            f"ciclo (nunca se baja la vara para forzar el número).")
+    else:
+        log(f"  ✓ {news_published} publicadas este ciclo (meta mínima: {MAX_NEW_PER_CYCLE}).")
 
     # actualiza el índice PERMANENTE de la hemeroteca ANTES de recortar
     # `published` — así una nota entra al archivo en el momento en que se

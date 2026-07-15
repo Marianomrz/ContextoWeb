@@ -22,6 +22,14 @@ import os
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo  # stdlib desde Python 3.9 — sin dependencia nueva
+
+# Fecha visible al lector (la de cada nota, en la ficha de la página) en
+# hora de Ciudad de México, no UTC (14 jul 2026) — mismo criterio que
+# agent.py/frontend. El sitemap.xml (build_sitemap, más abajo) se queda en
+# UTC a propósito: es metadata para buscadores, no algo que lea una
+# persona, no aplica la misma confusión de "qué día es".
+MX_TZ = ZoneInfo("America/Mexico_City")
 
 BASE_DIR = Path(__file__).resolve().parent.parent   # raíz del portal
 ARTICLES_JSON = BASE_DIR / "articles.json"
@@ -196,8 +204,10 @@ def render_article_page(article):
         )
     published = article.get("published_at", "")
     try:
-        pretty_date = datetime.fromisoformat(str(published).replace("Z", "+00:00")) \
-            .strftime("%d·%m·%Y")
+        _pub_dt = datetime.fromisoformat(str(published).replace("Z", "+00:00"))
+        if _pub_dt.tzinfo is None:
+            _pub_dt = _pub_dt.replace(tzinfo=timezone.utc)
+        pretty_date = _pub_dt.astimezone(MX_TZ).strftime("%d·%m·%Y")
     except ValueError:
         pretty_date = ""
 
@@ -323,7 +333,10 @@ def render_blog_page(entry):
                     f'<meta name="twitter:image" content="{SITE_BASE_URL}/assets/og/og-default.png">')
     published = entry.get("published_at", "")
     try:
-        pretty_date = datetime.fromisoformat(str(published).replace("Z", "+00:00")).strftime("%d·%m·%Y")
+        _pub_dt = datetime.fromisoformat(str(published).replace("Z", "+00:00"))
+        if _pub_dt.tzinfo is None:
+            _pub_dt = _pub_dt.replace(tzinfo=timezone.utc)
+        pretty_date = _pub_dt.astimezone(MX_TZ).strftime("%d·%m·%Y")
     except ValueError:
         pretty_date = ""
     areas = "".join(f'<span class="focus-chip">{esc(a)}</span>' for a in entry.get("areas", []))

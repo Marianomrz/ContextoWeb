@@ -64,7 +64,12 @@ def call_llm(system, user_content, api_key, model, max_tokens, effort="medium"):
       "claude-sonnet-5"): se usa tal cual si el proveedor es Anthropic, y
       se IGNORA (se usa Mercury) si el proveedor es Inception — así los
       archivos que llaman a esta función no necesitan saber qué proveedor
-      está activo.
+      está activo. Sin excepciones por tarea a propósito (revisado 14 jul
+      2026): mientras LLM_PROVIDER=inception esté activo, TODA llamada,
+      incluida la pieza literaria, corre contra Mercury — el objetivo es
+      $0 de gasto real mientras se prueba el pipeline. Si la calidad de
+      alguna tarea no alcanza el mínimo del control de calidad, el ajuste
+      es el umbral o el prompt de esa tarea, no una excepción de proveedor.
     """
     if PROVIDER == "inception":
         return _call_inception(system, user_content, api_key, max_tokens)
