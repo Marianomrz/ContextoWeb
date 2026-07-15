@@ -243,24 +243,36 @@ reseñas de lectores ya no corren dentro de `agent.py`; usa
 mano (o espera al cron de `moderacion.yml`). Para ver el resultado, sirve el
 portal como arriba (`python -m http.server 8000`) y recarga el navegador.
 
-**`MAX_NEW_PER_CYCLE` es una META MÍNIMA de publicación, no un techo**
-(cambiado 14 jul 2026): el agente procesa TODO el pool de candidatas del
-ciclo (`fresh`), no se detiene al llegar a esta cantidad — si hay más
-candidatas que pasan el QC, se publican todas. Antes sí se detenía al
-llegar a la meta, pero eso tenía un efecto colateral real: `fresh` se
-ordena por fecha across todas las fuentes, así que las categorías de bajo
-volumen (tecnología, internacional) casi nunca llegaban a analizarse dentro
-del techo de intentos que existía — las fuentes de alto volumen (política/
-economía) siempre ocupaban los primeros lugares del pool. El único límite
-real ahora es el presupuesto diario (`budget.can_spend`), igual que en el
-resto del pipeline — nunca se baja la vara del QC para forzar el número: un
-día de mala calidad en los feeds publica menos, no publica peor; un día con
-mucho material bueno publica más de la meta, sin techo artificial.
+**`MAX_NEW_PER_CYCLE` y `MAX_ANALYSIS_ATTEMPTS` — historia de un techo que
+se quitó y tuvo que regresar (14-15 jul 2026):** el 14 jul se quitó el
+techo de publicación por ciclo porque `fresh` se ordena por fecha across
+todas las fuentes, y las categorías de bajo volumen (tecnología,
+internacional) casi nunca llegaban a analizarse — las de alto volumen
+(política/economía) siempre ocupaban los primeros lugares del pool dentro
+del techo de intentos que existía. Quitar el techo resolvió eso, pero
+rompió algo peor: sin más freno que el presupuesto diario, y con
+`LLM_PROVIDER=inception` (Mercury, gasto real $0) el presupuesto **nunca**
+se agota, así que el ciclo intentaba analizar el pool completo (hasta
+~600 candidatas con 24 fuentes × 25 entradas) y GitHub Actions lo cancelaba
+solo al pasar los 15 minutos de `timeout-minutes` en `agente.yml` — **sin
+publicar ni comitear nada**. Así fallaron 5 ciclos seguidos (confirmado
+revisando el log de Actions: "The job has exceeded the maximum execution
+time of 15m0s") antes de que se detectara y corrigiera el mismo día.
+
+**Arreglo (15 jul 2026):** se repuso el techo doble —
+`MAX_NEW_PER_CYCLE` (6, notas publicadas) y `MAX_ANALYSIS_ATTEMPTS`
+(`MAX_NEW_PER_CYCLE * 5` = 30, candidatas analizadas) — para que el ciclo
+**siempre** termine dentro del tiempo, sin importar el tamaño del pool.
+Para no reintroducir el hueco de tecnología/internacional, se agregó
+`interleave_by_category()`: mezcla `fresh` por categoría (round-robin,
+conservando el orden de más reciente primero dentro de cada una) ANTES de
+aplicar el techo — así cada categoría con material disponible tiene lugar
+cerca del frente, no solo la más frecuente. Nunca se baja la vara del QC
+para forzar el número: un día de mala calidad publica menos, no publica peor.
 
 **Para controlar el gasto de cada corrida**, tenés dos palancas:
-1. `MAX_NEW_PER_CYCLE` en `agent/agent.py` — ya no limita el gasto (ver
-   arriba), es solo la meta que se reporta en el log. La palanca real de
-   gasto por corrida es el presupuesto diario (punto 2).
+1. `MAX_NEW_PER_CYCLE` / `MAX_ANALYSIS_ATTEMPTS` en `agent/agent.py` — el
+   techo real de publicación y de intentos por ciclo (ver arriba).
 2. `DAILY_BUDGET_USD` en `agent/budget.py` — un dict con **dos bolsas
    independientes**, no un tope compartido: `news` ($4/día por defecto,
    para `agente.yml`) y `moderation` ($1/día, para `moderacion.yml`), suma
@@ -652,7 +664,8 @@ reflexiones. Estas piezas:
 | Agregar/quitar fuentes | Lista `SOURCES` en `agent/agent.py` |
 | Frecuencia del ciclo de noticias | `cron:` en `agente.yml` o `--loop N` |
 | Frecuencia de moderación (revista/reseñas) | `cron:` en `moderacion.yml` (cada 3 h por defecto — subir cuando haya más volumen de borradores) |
-| Cuántas notas publica por ciclo (meta mínima, sin techo) | `MAX_NEW_PER_CYCLE` |
+| Cuántas notas publica por ciclo (techo real) | `MAX_NEW_PER_CYCLE` |
+| Cuántas candidatas analiza por ciclo antes de rendirse (freno contra el timeout de Actions) | `MAX_ANALYSIS_ATTEMPTS` |
 | Cuántas notas viven en el portal | `MAX_ARTICLES_KEPT` |
 | Cuántas entradas por feed se leen (no cuesta API) | `parsed.entries[:25]` en `fetch_new_entries()`, `agent/agent.py` |
 | Tope de gasto diario (los 4 agentes) | `DAILY_BUDGET_USD` en `agent/budget.py` |
