@@ -408,6 +408,18 @@
   let currentCategory = 'todas';
   let currentQuery = '';
 
+  // paginación del grid inferior (14 jul 2026): antes renderFeed() volcaba
+  // TODA la lista filtrada de una vez — con 30 notas vivas en portada (ver
+  // MAX_ARTICLES_KEPT en agent.py) el scroll se sentía interminable. La
+  // hero + hasta 3 secundarias siempre se muestran completas; solo el
+  // grid de abajo se corta a GRID_PAGE_SIZE con un botón "Cargar más".
+  // Se reinicia a la primera página cada vez que cambia la categoría o la
+  // búsqueda (abajo, en applyFilter/initSearch) — nunca dentro de
+  // renderFeed(), porque el propio botón "Cargar más" también llama a
+  // renderFeed() y necesita que el contador sobreviva esa llamada.
+  const GRID_PAGE_SIZE = 12;
+  let gridVisibleCount = GRID_PAGE_SIZE;
+
   function matchesQuery(a, q) {
     if (!q) return true;
     const haystack = [
@@ -420,6 +432,7 @@
   // se llama al cambiar de sección (nav) — conserva la búsqueda activa
   function applyFilter(filter) {
     currentCategory = filter;
+    gridVisibleCount = GRID_PAGE_SIZE;
     renderFeed();
   }
 
@@ -455,7 +468,17 @@
         : heroHTML;
     }
     if (rest.length) {
-      html += `<div class="feed-grid">${rest.map((a, i) => renderArticle(a, i + 4, true)).join('')}</div>`;
+      const visibleRest = rest.slice(0, gridVisibleCount);
+      html += `<div class="feed-grid">${visibleRest.map((a, i) => renderArticle(a, i + 4, true)).join('')}</div>`;
+      if (rest.length > gridVisibleCount) {
+        const remaining = rest.length - gridVisibleCount;
+        html += `
+        <div class="feed-load-more">
+          <button type="button" class="btn-load-more" id="loadMoreBtn">
+            Cargar más notas <span class="load-more-count">(${remaining})</span>
+          </button>
+        </div>`;
+      }
     }
     feed.innerHTML = html;
     empty.hidden = list.length > 0;
@@ -464,6 +487,17 @@
       : 'No hay notas en esta sección todavía. Prueba con otra categoría.';
     animateSpectrums();
     applyReactionState();
+
+    // "Cargar más": crece la página y vuelve a pintar — gridVisibleCount no
+    // se reinicia aquí (ver comentario junto a su declaración), así que la
+    // categoría/búsqueda activas se conservan intactas.
+    const loadMoreBtn = $('#loadMoreBtn');
+    if (loadMoreBtn) {
+      loadMoreBtn.addEventListener('click', () => {
+        gridVisibleCount += GRID_PAGE_SIZE;
+        renderFeed();
+      });
+    }
 
     const count = $('#searchCount');
     if (count) {
@@ -490,6 +524,7 @@
 
     input.addEventListener('input', () => {
       currentQuery = input.value;
+      gridVisibleCount = GRID_PAGE_SIZE;
       clearBtn.hidden = currentQuery.length === 0;
       updateHint();
       renderFeed();
@@ -499,6 +534,7 @@
     clearBtn.addEventListener('click', () => {
       input.value = '';
       currentQuery = '';
+      gridVisibleCount = GRID_PAGE_SIZE;
       clearBtn.hidden = true;
       updateHint();
       renderFeed();
@@ -1040,6 +1076,25 @@
     }, { passive: true, capture: true });
   }
 
+  // botón flotante "volver arriba" (14 jul 2026): con la portada-cortina +
+  // feed + herramientas del footer, bajar hasta el pie para navegar de
+  // vuelta al inicio se sentía tedioso. Aparece después de bajar una
+  // pantalla completa, sin rAF (mismo criterio que el resto de los
+  // handlers de scroll de este archivo — robustez por encima de la
+  // suavidad de un throttle a mano).
+  function initBackToTop() {
+    const btn = $('#backToTop');
+    if (!btn) return;
+    function onScroll() {
+      btn.classList.toggle('is-visible', window.scrollY > window.innerHeight);
+    }
+    document.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+    btn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', () => {
     initDate();
     initNav();
@@ -1051,6 +1106,7 @@
     initSpotlight();
     initSearch();
     initReviewSubmit();
+    initBackToTop();
     loadArticles();
     loadLetters();
   });
