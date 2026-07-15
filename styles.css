@@ -1923,7 +1923,13 @@ button {
 .how-scroll { height: auto; }
 
 @media (min-width: 861px) {
-  .how-scroll { height: 190vh; }
+  /* 190vh (valor original) dejaba un tramo de scroll "muerto" muy largo:
+     el contenido pegado (.how-sticky) es más corto que el viewport, así
+     que el usuario veía una franja negra vacía debajo de las 3 tarjetas
+     durante buena parte del scroll — reportado el 14 jul 2026 con una
+     captura real. 130vh conserva el efecto de "las tarjetas se iluminan
+     en secuencia" pero recorta ese tramo vacío a menos de la mitad. */
+  .how-scroll { height: 130vh; }
   .how-sticky { position: sticky; top: 72px; }
 
   /* la atenuación solo se activa cuando el JS agrega .how-seq */
