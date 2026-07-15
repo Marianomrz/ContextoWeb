@@ -1927,10 +1927,24 @@ button {
      el contenido pegado (.how-sticky) es más corto que el viewport, así
      que el usuario veía una franja negra vacía debajo de las 3 tarjetas
      durante buena parte del scroll — reportado el 14 jul 2026 con una
-     captura real. 130vh conserva el efecto de "las tarjetas se iluminan
-     en secuencia" pero recorta ese tramo vacío a menos de la mitad. */
+     captura real. Bajar la altura del contenedor (190vh → 130vh) solo
+     acorta CUÁNTO dura ese tramo, no lo quita: con position:sticky el
+     bloque se pega a top:72px con su alto natural, así que si es más
+     bajo que el viewport, SIEMPRE queda un hueco debajo mientras dura el
+     pin, sin importar la altura del contenedor padre. El arreglo real es
+     centrar el contenido dentro del área fija (min-height + flex) para
+     que el espacio sobrante se reparta arriba/abajo en vez de amontonarse
+     todo abajo — confirmado con una segunda captura que 130vh solo no
+     bastaba. */
   .how-scroll { height: 130vh; }
-  .how-sticky { position: sticky; top: 72px; }
+  .how-sticky {
+    position: sticky;
+    top: 72px;
+    min-height: calc(100vh - 72px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 
   /* la atenuación solo se activa cuando el JS agrega .how-seq */
   .how-seq .how-card {
