@@ -218,6 +218,19 @@ SOURCES = [
     # HTTP 200).
     {"name": "Genbeta",       "feed": "https://www.genbeta.com/feedburner.xml", "default_category": "tecnologia"},
     {"name": "WWWhatsnew",    "feed": "https://wwwhatsnew.com/feed/",           "default_category": "tecnologia"},
+    # Agregadas 15 jul 2026: aun con Genbeta/WWWhatsnew, "tecnologia" seguía
+    # publicando 0 notas — no por falta de análisis (sí se analizaban), sino
+    # porque casi todas fallaban el QC (ver ajuste a "contraste_fuentes" en
+    # quality.py el mismo día) y porque el pool de tecnología seguía muy
+    # inclinado a contenido no técnico. Applesfera (monotemática Apple,
+    # confirmada con XML real: <title>Applesfera</title> y entradas reales)
+    # y El Androide Libre (monotemática Android/móviles, contenido 100%
+    # técnico verificado en su listado — feed vía elespanol.com/rss, el
+    # endpoint /feed directo del sitio redirige a HTML, no sirve) suman dos
+    # fuentes de un solo tema cada una, sin la mezcla de cine/curiosidades
+    # que sí tienen Xataka/Hipertextual.
+    {"name": "Applesfera",       "feed": "https://www.applesfera.com/feedburner.xml",     "default_category": "tecnologia"},
+    {"name": "El Androide Libre", "feed": "https://www.elespanol.com/rss/elandroidelibre", "default_category": "tecnologia"},
 
     # --- Más volumen / diversidad editorial (10 jul 2026, ver README →
     # Panel de fuentes para la justificación completa) ---

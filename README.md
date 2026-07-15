@@ -93,7 +93,7 @@ califica de 0 a 10 en cinco criterios según su tipo:
 | Criterio | Qué evalúa |
 |---|---|
 | Veracidad y precisión | Datos, fechas, nombres y citas exactos y comprobables; sin contradicciones internas |
-| Contraste de fuentes | Información de fuentes confiables y diversas; el paquete muestra distintas caras del tema |
+| Contraste de fuentes | Depende del tipo de hecho (ajustado 15 jul 2026): en temas con partes en conflicto (política, economía, seguridad) exige distintas caras reales; en hechos de una sola cara verificable (producto, resultado deportivo, dato oficial) evalúa confiabilidad y contexto en vez de exigir un "otro lado" que no existe — antes penalizaba injustamente noticias de un solo hecho, comunes en tecnología |
 | Objetividad e imparcialidad | Hechos sin opiniones personales; toda valoración está atribuida |
 | Actualidad | Información reciente y oportuna (notas de más de 7 días se rechazan automáticamente) |
 | Estructura | Pirámide invertida: lo más importante abre el resumen |
@@ -613,6 +613,8 @@ de transparentar la inclinación.
 | **Hipertextual** | Tecnología | Centro | Segunda voz en tecnología, para no depender de un solo medio en la categoría |
 | **Genbeta** | Tecnología (software/apps) | Centro | Xataka/Hipertextual mezclan bastante cine/streaming; Genbeta es más estrictamente software e internet — agregada 14 jul 2026 |
 | **WWWhatsnew** | Tecnología (apps/internet) | Centro | Mismo motivo que Genbeta: más peso real a "tecnologia" sin depender de fuentes que mezclan entretenimiento — agregada 14 jul 2026 |
+| **Applesfera** | Tecnología (Apple) | Centro (foco técnico) | "tecnologia" seguía en 0 publicaciones pese a 4 fuentes previas — el problema no era falta de fuentes sino mezcla de contenido no técnico en Xataka/Hipertextual; Applesfera es cobertura Apple pura — agregada 15 jul 2026 |
+| **El Androide Libre** | Tecnología (Android) | Centro (foco técnico) | Mismo motivo que Applesfera, cubriendo Android en vez de Apple para no duplicar ángulo; feed real en `elespanol.com/rss/elandroidelibre` (la URL directa del sitio redirige a HTML, no sirve) — agregada 15 jul 2026 |
 | **El Sol de México** | Generalista, red OEM | Centro / institucional | Grupo editorial distinto a los demás del panel (OEM); suma volumen y otra ownership |
 
 **Agregadas el 10 jul 2026** (tras encontrar que el pipeline solo aprobaba

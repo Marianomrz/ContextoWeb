@@ -94,10 +94,22 @@ Califica de 0 a 10 cada criterio:
    y comprobables. Castiga contradicciones internas (entre resumen, análisis y
    contexto), cifras sin sustento y afirmaciones presentadas como hecho que no
    se pueden verificar.
-2. "contraste_fuentes": la información debe provenir de fuentes confiables y
-   diversas. El paquete debe mostrar distintas caras del mismo tema: el
-   contexto aporta posturas de otros actores y el análisis señala qué voces
-   faltan.
+2. "contraste_fuentes": la información debe provenir de fuentes confiables y,
+   cuando el tema lo permita, diversas. Este criterio se evalúa distinto
+   según el tipo de hecho — no todo hecho tiene "otro lado" real:
+   - Temas con partes en conflicto o interés legítimo distinto (política,
+     economía, seguridad, sociedad con actores enfrentados): el paquete
+     debe mostrar distintas caras — el contexto aporta posturas de otros
+     actores y el análisis señala qué voces faltan. Aquí sí exige contraste
+     real; no bajes la vara.
+   - Hechos de una sola cara verificable (un producto que se lanza, un
+     resultado deportivo, un dato oficial, un anuncio corporativo): no
+     existe "otro actor" con una versión distinta del hecho en sí. Evalúa
+     en su lugar si la fuente es confiable y si el paquete contextualiza
+     con antecedentes o comparables (versiones previas, la competencia,
+     cifras de referencia) en vez de exigir voces opuestas que no
+     corresponden al tipo de nota. No penalices por la ausencia de un
+     conflicto que no existe.
 3. "objetividad_imparcialidad": los hechos se presentan sin opiniones
    personales; toda valoración está atribuida a alguien. El análisis de sesgo
    describe la cobertura, no toma partido sobre el tema.
