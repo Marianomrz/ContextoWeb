@@ -86,28 +86,37 @@ def mx_date_str(dt=None):
     d = (dt or datetime.now(tz=timezone.utc)).astimezone(MX_TZ)
     return d.strftime("%Y-%m-%d")
 
-MAX_NEW_PER_CYCLE = 6      # META MÍNIMA de notas a publicar por ciclo — no un techo.
-                           # Cambiado 14 jul 2026 a pedido del usuario: antes el ciclo
-                           # se detenía apenas publicaba esta cantidad, aunque el pool
-                           # trajera más candidatas buenas. Eso tenía un efecto
-                           # colateral real: fresh (ver fetch_new_entries) se ordena por
-                           # fecha ACROSS todas las fuentes, así que las categorías de
-                           # bajo volumen (tecnologia, internacional) casi nunca llegaban
-                           # a analizarse — las fuentes de alto volumen (política/
-                           # economía) siempre ocupaban los primeros lugares del pool
-                           # dentro del techo de intentos que existía antes. Ahora
-                           # run_cycle() procesa TODO el pool `fresh` cada ciclo; el
-                           # único límite real es el presupuesto diario
-                           # (budget.can_spend), igual que en el resto del pipeline —
-                           # esta constante solo se usa para el log informativo.
+MAX_NEW_PER_CYCLE = 6      # techo de notas publicadas por ciclo.
+                           # Historial (14 jul 2026): se quitó este techo en la vuelta 21
+                           # porque fresh (ver fetch_new_entries) se ordena por fecha
+                           # ACROSS todas las fuentes, y las categorías de bajo volumen
+                           # (tecnologia, internacional) casi nunca llegaban a analizarse
+                           # — las de alto volumen (política/economía) siempre ocupaban
+                           # los primeros lugares. Quitar el techo "arregló" eso pero
+                           # rompió algo peor: sin más freno que el presupuesto diario, y
+                           # con LLM_PROVIDER=inception (Mercury, gasto real $0), el
+                           # presupuesto NUNCA se agota — así que el ciclo intentaba
+                           # analizar el pool completo (hasta ~600 candidatas con 24
+                           # fuentes × 25 entradas) y GitHub Actions lo cancelaba solo al
+                           # pasar los 15 minutos de timeout-minutes (agente.yml), sin
+                           # publicar ni comitear nada. 5 ciclos seguidos fallaron así el
+                           # 14-15 jul hasta que se detectó revisando el log de Actions.
+                           # Arreglo real (mismo día): se repone el techo (este valor,
+                           # más MAX_ANALYSIS_ATTEMPTS abajo) para que el ciclo SIEMPRE
+                           # termine a tiempo, pero ahora interleave_by_category() mezcla
+                           # fresh por categoría ANTES de aplicar el techo — así todas las
+                           # categorías tienen oportunidad real dentro del límite, sin
+                           # necesidad de quitarlo del todo.
+MAX_ANALYSIS_ATTEMPTS = MAX_NEW_PER_CYCLE * 5  # techo de candidatas ANALIZADAS por
+                           # ciclo (no solo publicadas) — el freno real contra el timeout
+                           # de 15 min. 5x en vez del 4x original: con el pool ya
+                           # mezclado por categoría, vale la pena intentar un poco más
+                           # antes de rendirse.
 MAX_ARTICLES_KEPT = 30     # tope de notas vivas en el portal — bajado de 60 el 14 jul
                            # 2026 a pedido del usuario (la portada se sentía muy larga
                            # para llegar a la hemeroteca/brújula/etc. al fondo). Nada se
                            # pierde: lo que sale de aquí sigue para siempre en
-                           # hemeroteca.json, solo deja de mostrarse en la portada. Con
-                           # el techo de publicación por ciclo ya quitado (ver
-                           # MAX_NEW_PER_CYCLE arriba), la portada rota más rápido que
-                           # antes, así que 60 se habría sentido todavía más larga.
+                           # hemeroteca.json, solo deja de mostrarse en la portada.
 
 # IDs de notas de ejemplo/relleno que quedaron en articles.json desde una
 # etapa temprana de desarrollo (antes de conectar el agente real) y nunca se
@@ -505,6 +514,32 @@ def fetch_new_entries(seen_urls):
     return fresh
 
 
+def interleave_by_category(fresh):
+    """Reordena `fresh` para que el techo de intentos (MAX_ANALYSIS_ATTEMPTS,
+    ver run_cycle) no lo agoten solo las categorías de alto volumen.
+
+    Agregado el 15 jul 2026 junto con la reposición del techo de intentos
+    (ver el historial en MAX_NEW_PER_CYCLE): fetch_new_entries() ordena
+    `fresh` por fecha ACROSS todas las fuentes — política/economía publican
+    mucho más seguido que tecnología/internacional, así que en una lista
+    puramente cronológica esas categorías siempre ganan los primeros N
+    lugares. Este paso agrupa por `default_category` (conservando el orden
+    de más reciente primero DENTRO de cada grupo) y arma la lista final
+    tomando una nota de cada categoría por turno (round-robin) — así, sin
+    importar dónde caiga el techo de intentos, cada categoría con material
+    disponible ya tuvo su lugar cerca del frente, no solo la más frecuente."""
+    by_category = {}
+    for entry in fresh:
+        by_category.setdefault(entry["default_category"], []).append(entry)
+    interleaved = []
+    while any(by_category.values()):
+        for cat in list(by_category.keys()):
+            bucket = by_category[cat]
+            if bucket:
+                interleaved.append(bucket.pop(0))
+    return interleaved
+
+
 # ---------------------------------------------------------------------------
 # PASO 3: ANÁLISIS CON CLAUDE
 # ---------------------------------------------------------------------------
@@ -739,9 +774,9 @@ def run_cycle(api_key):
     qc_log = load_json(QC_LOG_FILE, {"verdicts": []}).get("verdicts", [])
 
     fresh = fetch_new_entries(seen)
-    log(f"Notas nuevas detectadas: {len(fresh)} (meta mínima: {MAX_NEW_PER_CYCLE} "
-        f"publicadas; sin techo — se procesa todo el pool, el presupuesto diario "
-        f"es el único límite real)")
+    fresh = interleave_by_category(fresh)
+    log(f"Notas nuevas detectadas: {len(fresh)} (techo: {MAX_NEW_PER_CYCLE} publicadas "
+        f"/ {MAX_ANALYSIS_ATTEMPTS} intentos por ciclo, mezcladas por categoría)")
 
     portal = load_json(OUTPUT_JSON, {"articles": []})
     published = [a for a in portal.get("articles", []) if a.get("id") not in EXCLUDED_IDS]
@@ -764,16 +799,27 @@ def run_cycle(api_key):
             qc_rejected += 1
             log(f"  ✗ QC rechazó la pieza literaria ({qc['overall']}/10): {qc['observacion_global'][:90]}")
 
-    # Se procesa TODO el pool `fresh` cada ciclo, sin techo de cuántas se
-    # publican ni de cuántas se intentan — MAX_NEW_PER_CYCLE es solo una
-    # meta mínima para el log (ver su comentario arriba). El único límite
-    # real es el presupuesto diario (budget.can_spend), como en el resto
-    # del pipeline. Nunca se baja la vara del QC para forzar un número: un
-    # día de mala calidad simplemente publica menos, y uno con mucho
-    # material bueno publica más de la meta sin que nada lo frene.
+    # Techo doble, repuesto el 15 jul 2026 (ver historial en MAX_NEW_PER_CYCLE
+    # arriba): se detiene al publicar MAX_NEW_PER_CYCLE notas O al intentar
+    # MAX_ANALYSIS_ATTEMPTS, lo que llegue primero — así el ciclo SIEMPRE
+    # termina dentro de los 15 min de timeout-minutes de agente.yml, sin
+    # importar cuán grande sea el pool. `fresh` ya viene mezclado por
+    # categoría (interleave_by_category), así que este techo ya no castiga
+    # a tecnología/internacional como lo hacía el techo original de julio.
+    # Nunca se baja la vara del QC para forzar el número: un día de mala
+    # calidad publica menos, no publica peor.
     news_published = 0
     attempts = 0
     for entry in fresh:
+        if news_published >= MAX_NEW_PER_CYCLE:
+            log(f"  ✓ Meta de {MAX_NEW_PER_CYCLE} notas publicadas alcanzada — se detiene "
+                f"el ciclo (quedan candidatas sin analizar, se retoman el próximo ciclo).")
+            break
+        if attempts >= MAX_ANALYSIS_ATTEMPTS:
+            log(f"  ⏱ Techo de {MAX_ANALYSIS_ATTEMPTS} intentos alcanzado sin llegar a la "
+                f"meta de publicación — se detiene el ciclo para no exceder el timeout "
+                f"de Actions (quedan candidatas sin analizar, se retoman el próximo ciclo).")
+            break
         if not budget.can_spend("news"):
             log(f"  💰 Presupuesto diario de noticias agotado a mitad de ciclo — se detiene "
                 f"el análisis por hoy ({entry['title'][:50]}… y las siguientes "
@@ -814,11 +860,11 @@ def run_cycle(api_key):
         time.sleep(1)  # cortesía con la API
 
     if news_published < MAX_NEW_PER_CYCLE:
-        log(f"  ⚠ {news_published} publicadas, por debajo de la meta mínima de "
-            f"{MAX_NEW_PER_CYCLE} — el pool no alcanzó o el QC rechazó de más este "
-            f"ciclo (nunca se baja la vara para forzar el número).")
+        log(f"  ⚠ {news_published} publicadas, por debajo del techo de "
+            f"{MAX_NEW_PER_CYCLE} — el pool no alcanzó, el QC rechazó de más, o se llegó "
+            f"al techo de intentos este ciclo (nunca se baja la vara para forzar el número).")
     else:
-        log(f"  ✓ {news_published} publicadas este ciclo (meta mínima: {MAX_NEW_PER_CYCLE}).")
+        log(f"  ✓ {news_published} publicadas este ciclo (techo: {MAX_NEW_PER_CYCLE}).")
 
     # actualiza el índice PERMANENTE de la hemeroteca ANTES de recortar
     # `published` — así una nota entra al archivo en el momento en que se
