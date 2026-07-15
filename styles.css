@@ -1923,28 +1923,22 @@ button {
 .how-scroll { height: auto; }
 
 @media (min-width: 861px) {
-  /* 190vh (valor original) dejaba un tramo de scroll "muerto" muy largo:
-     el contenido pegado (.how-sticky) es más corto que el viewport, así
-     que el usuario veía una franja negra vacía debajo de las 3 tarjetas
-     durante buena parte del scroll — reportado el 14 jul 2026 con una
-     captura real. Bajar la altura del contenedor (190vh → 130vh) solo
-     acorta CUÁNTO dura ese tramo, no lo quita: con position:sticky el
-     bloque se pega a top:72px con su alto natural, así que si es más
-     bajo que el viewport, SIEMPRE queda un hueco debajo mientras dura el
-     pin, sin importar la altura del contenedor padre. El arreglo real es
-     centrar el contenido dentro del área fija (min-height + flex) para
-     que el espacio sobrante se reparta arriba/abajo en vez de amontonarse
-     todo abajo — confirmado con una segunda captura que 130vh solo no
-     bastaba. */
-  .how-scroll { height: 130vh; }
-  .how-sticky {
-    position: sticky;
-    top: 72px;
-    min-height: calc(100vh - 72px);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
+  /* Historial (14 jul 2026): esta sección usaba position:sticky con un
+     contenedor artificialmente alto (190vh, luego 130vh) para que las 3
+     tarjetas se "iluminaran" en secuencia mientras el usuario scrolleaba
+     sin que la caja se moviera. Dos intentos de ajustar la altura y luego
+     centrar el contenido (min-height + flex) NO lo arreglaron de raíz:
+     el contenido real (encabezado + 3 tarjetas) mide ~400px, muy por
+     debajo de una pantalla típica (~900px) — con sticky, ese sobrante
+     SIEMPRE se ve como espacio vacío en algún lado mientras dura el pin,
+     sin importar cuánto se ajuste la altura o el centrado. Confirmado
+     midiendo con el navegador en vivo, no solo leyendo el CSS.
+     Arreglo real: quitar el scroll-fijo. La sección ahora fluye normal
+     en todos los tamaños (mismo criterio que ya usan el modo móvil y
+     prefers-reduced-motion, ver abajo) — las tarjetas se revelan con el
+     fade-in normal de `.reveal`, sin efecto de secuencia. */
+  .how-scroll { height: auto; }
+  .how-sticky { position: static; }
 
   /* la atenuación solo se activa cuando el JS agrega .how-seq */
   .how-seq .how-card {
