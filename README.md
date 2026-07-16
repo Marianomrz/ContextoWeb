@@ -10,12 +10,17 @@ analiza cada nota con la API de Claude, y publica el resultado.
 ```
 ├── index.html          Portal (frontend)
 ├── styles.css          Estilos
-├── app.js              Lógica del frontend (render, filtros, búsqueda, dieta informativa)
+├── app.js              Lógica del frontend (render, filtros, búsqueda, dieta informativa, recomendaciones)
 ├── share.js             Botón de compartir (articulo/ y revista/): share nativo o copiar enlace
 ├── articles.json       Base de datos de notas — el agente la escribe
 ├── articulo/           Página estática por nota (las genera build_pages.py)
 ├── hemeroteca.html      Archivo cronológico de todas las notas, agrupadas por día
 ├── hemeroteca.js         Lógica de la hemeroteca (independiente de app.js)
+├── hemeroteca.json       Índice PERMANENTE de todas las notas (nunca se recorta) — incluye bias_score/source_name desde el 16 jul 2026
+├── feed.xml              RSS de las últimas notas (generado por build_pages.py, requiere SITE_BASE_URL)
+├── historico.csv         Descarga CSV del histórico de bias_score por nota (generado por build_pages.py)
+├── metodologia.html      Metodología en números: aprobados/rechazados del QC, en vivo
+├── metodologia.js         Lógica de la página de metodología (lee agent/qc_log.json, independiente de app.js)
 ├── fuentes.html        Panel de fuentes público
 ├── brujula.html        Quiz de autoubicación en el espectro editorial
 ├── compass.js          Lógica de la brújula (independiente de app.js)
@@ -47,14 +52,23 @@ analiza cada nota con la API de Claude, y publica el resultado.
 │   ├── resenas.py        Pipeline de reseñas de lectores (moderación fail-closed)
 │   ├── supabase_client.py  Cliente REST mínimo para leer/actualizar envíos (jurídica + reseñas)
 │   ├── budget.py         Tope de gasto diario compartido por los 4 agentes
-│   ├── build_pages.py   Generador de páginas por artículo + sitemap (sin API)
+│   ├── build_pages.py   Generador de páginas por artículo + sitemap + feed.xml + historico.csv (sin API)
+│   ├── validate_articles.py  Smoke test de articles.json/hemeroteca.json antes de comitear (sin API)
+│   ├── streaks.py         Rachas de categorías en cero ciclos seguidos, para la alerta de Telegram (sin API)
+│   ├── social_post.py     Firma OAuth1 para X + llamadas a la Graph API de Instagram (sin API de IA)
+│   ├── social.py          Orquestador del auto-post: elige la nota, arma el texto, llama a social_post.py
 │   ├── run_local.sh      Corre un ciclo leyendo la clave de agent/.env (modo manual)
 │   ├── seen_urls.json    Memoria de deduplicación (se crea solo)
-│   ├── qc_log.json       Bitácora de veredictos del QC (se crea solo)
-│   └── spend_log.json    Gasto acumulado del día en la API (se crea solo, se reinicia al cambiar el día)
+│   ├── qc_log.json       Bitácora de veredictos del QC, incluye "category" desde el 16 jul 2026 (se crea solo)
+│   ├── spend_log.json    Gasto acumulado del día en la API (se crea solo, se reinicia al cambiar el día)
+│   ├── alert_state.json  Qué avisos de presupuesto ya se mandaron hoy, para no repetirlos (se crea solo)
+│   ├── category_streak.json  Ciclos seguidos que lleva cada categoría sin publicar (se crea solo, NO se reinicia por día)
+│   └── social_posted.json    Ids ya posteados en X/Instagram, para no repetir (se crea solo)
 └── .github/workflows/
     ├── agente.yml      Noticias + literatura: ejecución automática cada hora con GitHub Actions
-    └── moderacion.yml   Revista jurídica + reseñas: cada 3 horas (cadencia propia, menor volumen)
+    ├── moderacion.yml   Revista jurídica + reseñas: cada 3 horas (cadencia propia, menor volumen)
+    ├── resumen-diario.yml  Resumen diario por Telegram (publicados/rechazados por tipo y categoría, gasto del día): 23:50 UTC
+    └── social.yml        Auto-post a X/Instagram de la nota más reciente sin postear: cada 2 horas
 ```
 
 ## Cómo funciona el agente
@@ -288,9 +302,9 @@ para forzar el número: un día de mala calidad publica menos, no publica peor.
 ## Despliegue automático 24/7 (GitHub Actions + Vercel)
 
 Esta carpeta (`01-contexto-portal`) **es la raíz del repositorio** — no subas
-la carpeta maestra `Claude-Trabajos` completa; los tres workflows
-(`agente.yml`, `moderacion.yml`, `resumen-diario.yml`) asumen rutas
-relativas a esta carpeta (`articles.json`, `agent/agent.py`, etc., sin
+la carpeta maestra `Claude-Trabajos` completa; los cuatro workflows
+(`agente.yml`, `moderacion.yml`, `resumen-diario.yml`, `social.yml`) asumen
+rutas relativas a esta carpeta (`articles.json`, `agent/agent.py`, etc., sin
 ningún prefijo).
 
 El dominio público real es **Vercel** (no GitHub Pages — decisión del 12 jul
@@ -311,17 +325,47 @@ archivos que cambiaron; Vercel se encarga de servir esa nueva versión.
    el sitio.
 4. En **Settings → Secrets and variables → Actions** del repo de GitHub,
    carga los secretos que uses (`ANTHROPIC_API_KEY` y/o
-   `INCEPTION_API_KEY`, `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, y
-   opcionalmente `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID`) y, en la pestaña
-   **Variables** (no secreta, es solo texto público), `SITE_BASE_URL` con
-   tu dominio real de Vercel — sin esto, `sitemap.xml` y las etiquetas
-   canónicas/OG caen de vuelta a un dominio de GitHub Pages que no es el
-   que de verdad sirve el sitio.
-5. Listo: `agente.yml` corre cada hora (noticias + literatura) y
-   `moderacion.yml` cada 3 horas (revista jurídica + reseñas), ambos hacen
-   commit; Vercel redespliega solo con cada commit. Los dos workflows
-   comparten el mismo tope de gasto diario (`agent/budget.py` +
-   `agent/spend_log.json`).
+   `INCEPTION_API_KEY`, `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`,
+   opcionalmente `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID`, y opcionalmente
+   las de auto-post a redes — ver "Auto-post a X/Instagram" más abajo) y,
+   en la pestaña **Variables** (no secreta, es solo texto público),
+   `SITE_BASE_URL` con tu dominio real de Vercel — sin esto, `sitemap.xml`,
+   `feed.xml`, `historico.csv` y las etiquetas canónicas/OG caen de vuelta a
+   un dominio de GitHub Pages que no es el que de verdad sirve el sitio.
+5. Listo: `agente.yml` corre cada hora (noticias + literatura),
+   `moderacion.yml` cada 3 horas (revista jurídica + reseñas) y `social.yml`
+   cada 2 horas (auto-post a X/Instagram, se omite solo si no cargaste sus
+   secretos), todos hacen commit; Vercel redespliega solo con cada commit.
+   `agente.yml`/`moderacion.yml` comparten el mismo tope de gasto diario
+   (`agent/budget.py` + `agent/spend_log.json`) — `social.yml` no llama a
+   ningún modelo de IA, no consume ese presupuesto.
+
+### Auto-post a X/Instagram (agregado 16 jul 2026)
+
+`social.yml` publica la nota más reciente que no se haya posteado todavía
+en cada red (una por plataforma por corrida, se pone al día solo en
+corridas sucesivas). Cada red es independiente: si solo
+cargas las claves de una, la otra se omite sin error. Nunca postea piezas
+de mano libre (`editorial_pick`), y el texto siempre sale del resumen que
+ya escribió el agente con sus propias palabras — nunca cita la fuente
+original (misma regla de derechos de autor de todo el proyecto).
+
+- **X (Twitter)**: crea una app en [developer.twitter.com](https://developer.twitter.com),
+  súbele permisos de **lectura y escritura** (Settings → User authentication
+  settings), y genera el **Access Token and Secret** DESPUÉS de subir esos
+  permisos — si ya existían con solo lectura, tienes que regenerarlos o
+  quedan sin permiso de postear. Carga como secretos: `X_API_KEY`,
+  `X_API_SECRET`, `X_ACCESS_TOKEN`, `X_ACCESS_TOKEN_SECRET`. La firma OAuth
+  1.0a se implementa a mano en `agent/social_post.py` (sin librería nueva,
+  verificada contra `oauthlib` durante el desarrollo) porque `POST /2/tweets`
+  no acepta autenticación de solo-app.
+- **Instagram**: necesitas una cuenta de Instagram Business o Creator
+  vinculada a una Página de Facebook, y un token de la Graph API de Meta con
+  permiso `instagram_content_publish` (vía [developers.facebook.com](https://developers.facebook.com)).
+  Carga `IG_USER_ID` (el id numérico de la cuenta de Instagram, no el
+  usuario) y `IG_ACCESS_TOKEN`. Instagram exige imagen — usa el arte OG por
+  categoría que `build_pages.py` ya genera, servido desde `SITE_BASE_URL`
+  (sin esa variable, `social.yml` omite el ciclo completo).
 
 Alternativas: un VPS con `cron` (`*/30 * * * * python /ruta/agent/agent.py`),
 o servicios como Railway/Render con un worker.
@@ -374,6 +418,34 @@ el interruptor `LLM_PROVIDER` de la sección anterior.
   **reales**, moderadas por el consejo editorial antes de publicarse — ver
   la sección siguiente. Sin reseñas todavía, se muestra un estado vacío
   honesto en vez de testimonios de ejemplo.
+- **RSS** (`feed.xml`, agregado 16 jul 2026): las últimas 30 notas, generado
+  por `build_pages.py` en cada ciclo (requiere `SITE_BASE_URL`). Enlazado
+  con autodiscovery en el `<head>` de `index.html` y desde el pie de cada
+  página — cualquier lector RSS lo detecta solo.
+- **Metodología en números** (`metodologia.html` + `metodologia.js`,
+  agregada 16 jul 2026): cuánto aprueba y rechaza el control de calidad,
+  en vivo, por tipo de contenido y por categoría de noticia, más el
+  promedio de cada criterio de la rúbrica. Lee `agent/qc_log.json`
+  directo (ya es público, se sirve como cualquier archivo estático) — sin
+  backend nuevo. Independiente de `app.js`, mismo criterio que
+  `hemeroteca.js`/`compass.js`.
+- **Modo "solo hechos"** (botón en cada tarjeta no compacta y en cada
+  página de nota, agregado 16 jul 2026): oculta el espectro editorial y el
+  análisis, dejando solo el resumen — para quien no quiera la capa
+  editorial esa vez. Por tarjeta, no persiste entre recargas a propósito
+  (es un vistazo puntual, no una preferencia global como el tema).
+- **Descarga del histórico** (`hemeroteca.json` en JSON, `historico.csv` en
+  CSV, enlazados desde `hemeroteca.html`, agregado 16 jul 2026): para quien
+  quiera auditar el espectro editorial del portal con sus propios datos.
+  Incluye `bias_score` y fuente de cada nota desde el 16 de julio de 2026
+  en adelante — las entradas archivadas antes no traen esos dos campos, no
+  se rellenan retroactivamente.
+- **"Recomendado para ti"** (en la portada, debajo del termómetro, agregado
+  16 jul 2026): si tu dieta informativa local (`localStorage`, la misma
+  clave `contexto-dieta` que ya usan la brújula y el aviso pasivo de
+  dieta) muestra ≥60% de tus últimas lecturas inclinadas a un lado, sugiere
+  activamente hasta 3 notas recientes del lado contrario. Sin lecturas
+  suficientes o sin sesgo marcado, la sección no aparece.
 
 ## Revista Jurídica: el blog con consejo editorial automático
 
@@ -557,7 +629,32 @@ Anthropic**, todos son gratis:
   no vuelve a analizar nada, solo lee archivos que los otros dos workflows
   ya generaron. Corre en su propio horario a propósito, desacoplado de los
   ciclos de publicación (mismo criterio que separa `agente.yml` de
-  `moderacion.yml`, ver `ARQUITECTURA.md`).
+  `moderacion.yml`, ver `ARQUITECTURA.md`). **Desde el 16 jul 2026** además
+  desglosa las noticias del día por categoría (política, tecnología,
+  sociedad, etc.), usando el campo `category` que `record_verdict()`
+  empezó a guardar en `qc_log.json` ese mismo día.
+- **Categoría en cero demasiados ciclos seguidos** (`agente.yml`, agregado
+  16 jul 2026): si una categoría de noticias lleva 24 ciclos seguidos
+  (~1 día) sin publicar nada, avisa una sola vez por racha — usa
+  `agent/streaks.py` (mismo patrón que `budget.py`: funciones puras, sin
+  red; el envío real lo hace el paso correspondiente del workflow) y
+  persiste el conteo en `agent/category_streak.json`, que a propósito NO
+  se reinicia por día (a diferencia de `alert_state.json`) porque una
+  racha puede cruzar varios días. El aviso se limpia solo cuando esa
+  categoría vuelve a publicar. Pensado para detectar automáticamente un
+  hueco como el de "tecnología en cero" que motivó el ajuste del QC del
+  mismo día (ver tabla de "Ajustes frecuentes" más abajo).
+
+**1.d Smoke test antes de comitear (agregado 16 jul 2026, sin Telegram
+de por medio).** Antes del `git add`/`commit`, `agente.yml` corre
+`python agent/validate_articles.py` (valida que `articles.json`/
+`hemeroteca.json` sean JSON bien formado y que cada nota traiga los
+campos que `renderArticle()` necesita) y `moderacion.yml` valida que
+`blog.json`/`testimonios.json` parseen. Sin `if:` a propósito: si el
+smoke test falla, el paso de publicar cambios no corre (comportamiento
+por defecto de Actions), así que nada corrupto llega a producción — y
+como es una falla real del job, el aviso de Issue/Telegram del punto 1
+se dispara igual, sin código nuevo.
 
 **2. Google Search Console (hazlo al desplegar).** Es el complemento del
 `sitemap.xml`: te dice si Google indexa tus páginas y con qué búsquedas
@@ -679,6 +776,11 @@ reflexiones. Estas piezas:
 | Umbral de aviso de presupuesto (% del tope diario) | `threshold` en `budget.budget_warning_needed()` (80% por defecto) |
 | Hora del resumen diario de Telegram | `cron:` en `.github/workflows/resumen-diario.yml` (23:50 UTC por defecto) |
 | Proveedor de LLM (Anthropic ↔ Inception/Mercury) | `LLM_PROVIDER` en `agent/.env` (local) o en el `env:` de `agente.yml`/`moderacion.yml` (producción) |
+| Umbral de la alerta de categoría en cero (ciclos seguidos) | `ZERO_STREAK_ALERT_THRESHOLD` en `agent/streaks.py` (24 por defecto) |
+| Cuántas notas trae el RSS | `RSS_MAX_ITEMS` en `agent/build_pages.py` (30 por defecto) |
+| Frecuencia del auto-post a redes | `cron:` en `.github/workflows/social.yml` (cada 2 h por defecto) |
+
+
 
 ## Notas importantes
 

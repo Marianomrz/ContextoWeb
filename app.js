@@ -211,6 +211,53 @@
     diet[sideOf(card.dataset.bias)]++;
     localStorage.setItem(DIET_KEY, JSON.stringify(diet));
     maybeShowDietNudge(diet);
+    renderDietRecommendation(ARTICLES);
+  }
+
+  // "Recomendado para ti" (agregado 16 jul 2026): a diferencia del aviso
+  // pasivo de maybeShowDietNudge() (un toast que se puede cerrar y calla
+  // 7 días), esto es una sugerencia activa y persistente — mientras la
+  // dieta siga inclinada, muestra notas recientes del lado contrario. Usa
+  // la MISMA clave/forma {left,center,right} que ya comparten app.js y
+  // compass.js (ver loadDiet() arriba) — no le agrega campos nuevos, solo
+  // la lee.
+  function renderDietRecommendation(all) {
+    const section = $('#dietRecommend');
+    if (!section) return;
+    const diet = loadDiet();
+    const total = diet.left + diet.center + diet.right;
+    if (total < 5) { section.hidden = true; return; }
+    // el centro no aplica: no hay un "lado opuesto al centro" que recomendar
+    let skewedSide = null, skewedShare = 0;
+    for (const side of ['left', 'right']) {
+      const share = diet[side] / total;
+      if (share >= 0.6 && share > skewedShare) { skewedSide = side; skewedShare = share; }
+    }
+    if (!skewedSide) { section.hidden = true; return; }
+    const opposite = skewedSide === 'left' ? 'right' : 'left';
+    const picks = all
+      .filter(a => !a.editorial_pick && a.bias_score != null && sideOf(a.bias_score) === opposite)
+      .slice()
+      .sort((x, y) => new Date(y.published_at) - new Date(x.published_at))
+      .slice(0, 3);
+    if (!picks.length) { section.hidden = true; return; }
+    const sideLabel = { left: 'la izquierda', right: 'la derecha' };
+    section.hidden = false;
+    section.innerHTML = `
+      <div class="recommend-head">
+        <span class="section-eyebrow">Recomendado para ti</span>
+        <h2>Para triangular tu lectura</h2>
+        <p>El ${Math.round(skewedShare * 100)}% de tus últimas lecturas viene de coberturas
+        inclinadas a ${sideLabel[skewedSide]}. Estas notas recientes miran desde
+        ${sideLabel[opposite]} — no para cambiar de opinión, para completar el cuadro.</p>
+      </div>
+      <div class="recommend-grid">
+        ${picks.map(a => `
+          <a class="mini-card" data-category="${esc(a.category || '')}" href="articulo/${esc(a.id)}.html">
+            <span class="mini-card-kicker">${esc(CATEGORY_LABELS[a.category] || a.category || 'General')}</span>
+            <span class="mini-card-title">${esc(a.title)}</span>
+          </a>`).join('')}
+      </div>`;
   }
 
   function maybeShowDietNudge(diet) {
@@ -330,6 +377,11 @@
         ${reactionsHTML(a.id)}
         <span class="source-name-plain">${isFreePiece ? 'Redacción del agente' : esc(a.source_name || 'Fuente externa')}</span>
       </div>` : `
+      <button class="facts-only-toggle" type="button" aria-pressed="false" title="Ocultar espectro y análisis, mostrar solo el resumen">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg>
+        <span class="facts-only-label">Solo hechos</span>
+      </button>
+
       ${isFreePiece ? `
       <div class="spectrum-block free-piece-block">
         <div class="spectrum-label-row">
@@ -594,6 +646,15 @@
       if (foot) {
         trackReading(foot.closest('.article-card'));
         return; // dejar que el enlace navegue
+      }
+      const factsBtn = e.target.closest('.facts-only-toggle');
+      if (factsBtn) {
+        const card = factsBtn.closest('.article-card');
+        const on = card.classList.toggle('is-facts-only');
+        factsBtn.setAttribute('aria-pressed', String(on));
+        factsBtn.querySelector('.facts-only-label').textContent =
+          on ? 'Ver análisis completo' : 'Solo hechos';
+        return;
       }
       const btn = e.target.closest('.analysis-toggle');
       if (!btn) return;
@@ -900,6 +961,7 @@
       ARTICLES = window.__FALLBACK_ARTICLES__ || [];
     }
     renderThermometer(ARTICLES);
+    renderDietRecommendation(ARTICLES);
     renderCarousel(ARTICLES);
     applyFilter('todas');
   }

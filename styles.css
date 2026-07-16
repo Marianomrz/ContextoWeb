@@ -565,6 +565,38 @@ button {
   color: var(--ink);
 }
 
+/* ==========================================================================
+   "RECOMENDADO PARA TI" (dieta informativa activa, agregada 16 jul 2026)
+   Solo visible cuando la dieta local detecta lectura inclinada — ver
+   renderDietRecommendation() en app.js. Reusa .mini-card del carrusel de
+   arriba, en grid en vez de scroll horizontal (son como mucho 3 tarjetas).
+   ========================================================================== */
+
+.diet-recommend {
+  max-width: var(--maxw-wide);
+  margin: 2rem auto 0;
+  padding: 1.1rem 1.25rem;
+  background: var(--spec-center-soft);
+  border-radius: var(--radius-md);
+}
+.diet-recommend[hidden] { display: none; }
+.recommend-head h2 {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  margin: 0.25rem 0 0.4rem;
+}
+.recommend-head p {
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  line-height: 1.55;
+  margin: 0 0 1rem;
+}
+.recommend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.85rem;
+}
+
 .feed-empty {
   max-width: var(--maxw);
   margin: 2.5rem auto;
@@ -868,6 +900,38 @@ button {
 .analysis-toggle:hover { background: var(--cat-soft); }
 .analysis-toggle svg { flex: none; transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1); }
 .analysis-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
+
+/* --- modo "solo hechos" (agregado 16 jul 2026): oculta el espectro y el
+   análisis plegable de una nota, dejando solo el resumen — para quien no
+   quiera la capa editorial esa vez. Por tarjeta, no persiste entre
+   recargas a propósito (es un vistazo puntual, no una preferencia global
+   como el tema claro/oscuro). */
+.facts-only-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0.9rem 1.5rem 0;
+  padding: 0.3rem 0.65rem;
+  background: transparent;
+  border: 1px solid var(--rule-strong);
+  border-radius: 999px;
+  font-family: var(--font-meta);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-faint);
+  transition: color 0.2s, border-color 0.2s;
+}
+.facts-only-toggle:hover { color: var(--ink); border-color: var(--ink-faint); }
+.facts-only-toggle[aria-pressed="true"] { color: var(--accent); border-color: var(--accent); }
+
+.article-card.is-facts-only .spectrum-block,
+.article-card.is-facts-only .analysis-toggle,
+.article-card.is-facts-only .analysis-wrap,
+.article-card.is-facts-only .article-analysis {
+  display: none;
+}
 
 /* --- tarjetas compactas del grid parejo (índice 4+): solo encabezado +
    una línea de contexto + pie con reacciones y fuente — el espectro, el
@@ -1741,6 +1805,74 @@ button {
   line-height: 1.62;
 }
 .glossary-list dd a { color: var(--accent); }
+
+/* --- metodología en números (agregada 16 jul 2026) --- */
+
+.method-summary {
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 1.25rem 0 0;
+}
+.method-summary a { color: var(--accent); }
+
+.method-section { margin-top: 2rem; }
+
+.method-section-title {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.method-subtitle {
+  font-family: var(--font-meta);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-faint);
+  margin: 1.25rem 0 0.6rem;
+}
+.method-subtitle:first-of-type { margin-top: 0; }
+
+.method-row { margin-top: 0.85rem; }
+.method-row:first-child { margin-top: 0; }
+.method-row-sm { margin-top: 0.6rem; }
+
+.method-row-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75rem;
+  font-size: 0.92rem;
+  color: var(--ink);
+  margin-bottom: 0.3rem;
+}
+.method-row-sm .method-row-label { font-size: 0.85rem; color: var(--ink-soft); }
+
+.method-row-count {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+  white-space: nowrap;
+}
+
+.method-bar-track {
+  height: 8px;
+  border-radius: 5px;
+  background: var(--rule);
+  overflow: hidden;
+}
+.method-bar-track-sm { height: 5px; }
+
+.method-bar-fill {
+  height: 100%;
+  border-radius: 5px;
+  background: var(--accent);
+}
 
 /* --- brújula editorial --- */
 

@@ -91,6 +91,13 @@ jobs:
           fi
           python agent/agent.py
 
+      - name: Smoke test — validar articles.json antes de comitear
+        run: python agent/validate_articles.py
+        # Sin `if:` a propósito: si este paso falla, el paso "Publicar
+        # cambios" de más abajo NO corre (comportamiento por defecto de
+        # Actions), así que un articles.json corrupto nunca llega a
+        # producción. Agregado 16 jul 2026 — ver agent/validate_articles.py.
+
       - name: Avisar por Telegram si el presupuesto de hoy se acerca al techo
         if: always()
         env:
@@ -120,11 +127,45 @@ jobs:
               )
           PY
 
+      - name: Avisar por Telegram si alguna categoría lleva demasiados ciclos en cero
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            exit 0
+          fi
+          cd agent
+          python3 - <<'PY'
+          import os, urllib.request, urllib.parse
+          import streaks
+
+          token = os.environ["TELEGRAM_BOT_TOKEN"]
+          chat_id = os.environ["TELEGRAM_CHAT_ID"]
+          etiquetas = {
+              "politica": "Política", "economia": "Economía",
+              "tecnologia": "Tecnología", "sociedad": "Sociedad",
+              "internacional": "Internacional", "deportes": "Deportes",
+          }
+          for cat, racha in streaks.categories_needing_alert():
+              nombre = etiquetas.get(cat, cat)
+              text = (
+                  f"🔇 Contexto: \"{nombre}\" lleva {racha} ciclos seguidos sin "
+                  f"publicar ninguna nota. Puede ser normal (poco material esa "
+                  f"racha) o una señal de que sus fuentes/QC necesitan revisión."
+              )
+              data = urllib.parse.urlencode({"chat_id": chat_id, "text": text}).encode()
+              urllib.request.urlopen(
+                  f"https://api.telegram.org/bot{token}/sendMessage", data=data
+              )
+          PY
+
       - name: Publicar cambios
         run: |
           git config user.name "agente-contexto"
           git config user.email "agente@users.noreply.github.com"
-          git add articles.json hemeroteca.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json articulo sitemap.xml robots.txt revista
+          git add articles.json hemeroteca.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json agent/category_streak.json articulo sitemap.xml robots.txt revista feed.xml historico.csv
           git diff --cached --quiet || git commit -m "🗞️ Ciclo automático del agente"
           git push
 

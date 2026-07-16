@@ -1,0 +1,91 @@
+name: Auto-post a redes sociales
+
+# Publica la nota más reciente de articles.json que todavía no se haya
+# posteado, en X y/o Instagram — cada una independiente (agent/social.py
+# omite sin error la que no tenga credenciales configuradas). Desacoplado
+# de agente.yml a propósito, mismo criterio que moderacion.yml/
+# resumen-diario.yml: un fallo o retraso aquí nunca debe bloquear ni
+# retrasar la publicación de noticias, que es lo prioritario.
+#
+# Credenciales necesarias (Settings → Secrets and variables → Actions):
+#   X (Twitter): X_API_KEY, X_API_SECRET, X_ACCESS_TOKEN, X_ACCESS_TOKEN_SECRET
+#     — de developer.twitter.com, app con permisos de lectura Y escritura,
+#     "Access Token and Secret" generados DESPUÉS de subir los permisos a
+#     read+write (si ya existían con solo lectura, hay que regenerarlos).
+#   Instagram: IG_USER_ID, IG_ACCESS_TOKEN — requiere cuenta de Instagram
+#     Business o Creator vinculada a una Página de Facebook, un token de
+#     la Graph API con permiso instagram_content_publish, y SITE_BASE_URL
+#     configurada (Instagram necesita una URL de imagen pública real).
+# Sin ninguna de las dos, este workflow corre y no hace nada (log lo dice
+# explícitamente) — no falla el repo por no tenerlas configuradas.
+#
+# Un solo post por plataforma por corrida: si se acumulan varias notas sin
+# postear, se pone al día una por corrida en vez de generar una ráfaga.
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # cada 2 horas, 17 min después del punto (UTC) — no compite con agente.yml (:07/:37) ni moderacion.yml (:22/:52)
+  workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: social-contexto
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Publicar en redes sociales
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+        run: |
+          export SITE_BASE_URL="${{ vars.SITE_BASE_URL }}"
+          if [ -z "$SITE_BASE_URL" ]; then
+            export SITE_BASE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}"
+          fi
+          python agent/social.py
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "agente-contexto"
+          git config user.email "agente@users.noreply.github.com"
+          git add agent/social_posted.json
+          git diff --cached --quiet || git commit -m "📣 Registro de auto-post a redes sociales"
+          git push
+
+      - name: Avisar si el ciclo falló (abre o comenta un Issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="⚠ Falló el auto-post a redes sociales"
+          run_url="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          body="El ciclo de auto-post (X/Instagram) falló. Revisa el log: ${run_url}
+
+          No pone en riesgo el portal ni la publicación de noticias — solo retrasa el post en redes hasta el siguiente ciclo."
+          existing=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number' || echo "")
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "Volvió a fallar: ${run_url}"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi

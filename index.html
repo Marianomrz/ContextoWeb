@@ -18,6 +18,7 @@
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <link rel="manifest" href="manifest.json">
+<link rel="alternate" type="application/rss+xml" title="Contexto" href="feed.xml">
 <meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
 <script type="application/ld+json">
@@ -138,6 +139,13 @@
   <!-- Termómetro del día, se llena por JS -->
   <section class="thermometer reveal" id="thermometer" aria-live="polite"></section>
 
+  <!-- "Recomendado para ti": solo aparece si la dieta informativa local
+       (contexto-dieta en localStorage, ver app.js) detecta que tus últimas
+       lecturas se inclinan fuerte a un lado — sugiere notas recientes del
+       lado contrario. Oculta por defecto, sin lecturas suficientes o sin
+       sesgo marcado no se muestra nada. -->
+  <section class="diet-recommend reveal" id="dietRecommend" aria-live="polite" hidden></section>
+
   <!-- Feed de noticias, se llena por JS -->
   <section class="feed" id="feed" aria-live="polite">
     <!-- las tarjetas de artículo se insertan aquí -->
@@ -238,6 +246,13 @@
         <span class="explore-card-title">Glosario</span>
         <span class="explore-card-text">Los términos del oficio explicados sin jerga — de "línea editorial" a "encuadre".</span>
       </a>
+      <a class="explore-card" href="metodologia.html">
+        <span class="explore-card-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 19h16M7 19V9M12 19V5M17 19v7"/></svg>
+        </span>
+        <span class="explore-card-title">Metodología en números</span>
+        <span class="explore-card-text">Cuánto aprueba y rechaza el control de calidad, en vivo — sin editar los números.</span>
+      </a>
     </div>
   </section>
 
@@ -299,9 +314,11 @@
     <nav class="footer-nav" aria-label="Páginas del sitio">
       <a href="revista.html">Revista jurídica</a>
       <a href="hemeroteca.html">Hemeroteca</a>
+      <a href="feed.xml">RSS</a>
       <a href="fuentes.html">Panel de fuentes</a>
       <a href="brujula.html">Brújula editorial</a>
       <a href="glosario.html">Glosario</a>
+      <a href="metodologia.html">Metodología en números</a>
       <a href="correcciones.html">Correcciones</a>
       <a href="legal.html">Legal y privacidad</a>
     </nav>

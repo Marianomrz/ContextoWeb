@@ -4,12 +4,12 @@
 <meta charset="UTF-8">
 <script>(function(){try{var t=localStorage.getItem('contexto-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Brújula editorial — Contexto</title>
-<meta name="description" content="Ubícate en el mismo espectro izquierda-centro-derecha que usamos para analizar la cobertura, y compáralo con lo que sueles leer en Contexto.">
+<title>Metodología en números — Contexto</title>
+<meta name="description" content="Cuántas notas aprueba o rechaza el control de calidad de Contexto, por tipo y por categoría, y el promedio de cada criterio de la rúbrica — en vivo.">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Contexto">
-<meta property="og:title" content="Brújula editorial — Contexto">
-<meta property="og:description" content="Seis afirmaciones, tu posición en el espectro, y cómo se compara con lo que lees.">
+<meta property="og:title" content="Metodología en números — Contexto">
+<meta property="og:description" content="El control de calidad de Contexto, en vivo: aprobados, rechazados y el promedio de cada criterio.">
 <meta property="og:locale" content="es_MX">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
@@ -28,37 +28,21 @@
   <span class="mini-masthead-note">cada noticia, con su ángulo a la vista</span>
 </header>
 
-<main class="page-content compass-page">
-  <span class="section-eyebrow">Autoubicación</span>
-  <h1>Brújula editorial</h1>
-  <p class="page-lede">Usamos el mismo espectro izquierda-centro-derecha para calificar
-  coberturas de noticias. Aquí lo usamos para ti: responde seis afirmaciones generales
-  y te mostramos dónde caes — y, si has estado leyendo Contexto, cómo se compara con
-  lo que sueles consumir.</p>
+<main class="page-content">
+  <span class="section-eyebrow">Metodología</span>
+  <h1>Metodología en números</h1>
+  <p class="page-lede">Antes de publicarse, cada nota, pieza literaria, artículo de la
+  revista jurídica o reseña pasa por un segundo agente de control de calidad que la
+  califica contra una rúbrica de 5 criterios. Esta página muestra, en vivo, cuánto
+  aprueba y cuánto rechaza — sin editar los números, buenos o malos.</p>
 
-  <p class="compass-privacy">No guardamos tus respuestas en ningún servidor. El cálculo
-  ocurre en tu navegador y se olvida al recargar la página.</p>
+  <div id="methodologyRoot" class="method-root">
+    <p class="feed-empty">Cargando…</p>
+  </div>
 
-  <form id="compassForm" class="compass-form" novalidate>
-    <div id="compassQuestions"></div>
-    <p class="compass-error" id="compassError" hidden>Responde las seis afirmaciones para ver tu resultado.</p>
-    <button type="submit" class="compass-submit">Ver mi resultado</button>
-  </form>
-
-  <section class="compass-result" id="compassResult" hidden aria-live="polite">
-    <h2>Tu posición</h2>
-    <div class="spectrum-track-wrap">
-      <div class="spectrum-track" role="img" id="compassTrackLabel">
-        <div class="spectrum-marker" id="compassMarker" style="left:50%"></div>
-      </div>
-      <div class="spectrum-ticks" aria-hidden="true">
-        <span>Izquierda</span><span>Centro</span><span>Derecha</span>
-      </div>
-    </div>
-    <p class="compass-verdict-text" id="compassVerdictText"></p>
-    <div class="compass-compare" id="compassCompare"></div>
-    <button type="button" class="compass-retry" id="compassRetry">Volver a intentar</button>
-  </section>
+  <p class="page-lede" style="margin-top:2rem; font-size:0.95rem !important;">
+  Ver también: <a href="fuentes.html">Panel de fuentes</a> y
+  <a href="glosario.html">Glosario editorial</a> para los términos usados arriba.</p>
 
   <p class="back-home"><a href="index.html">← Volver a la portada</a></p>
 </main>
@@ -82,6 +66,6 @@
   </div>
 </footer>
 
-<script src="compass.js"></script>
+<script src="metodologia.js"></script>
 </body>
 </html>

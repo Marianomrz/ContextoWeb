@@ -162,6 +162,28 @@ jobs:
               )
           PY
 
+      - name: Smoke test — blog.json y testimonios.json deben ser JSON válido
+        run: |
+          python3 -c "
+          import json, sys
+          for f in ('blog.json', 'testimonios.json'):
+              try:
+                  data = json.loads(open(f, encoding='utf-8').read())
+              except FileNotFoundError:
+                  continue
+              except json.JSONDecodeError as exc:
+                  print(f'✗ {f}: JSON inválido — {exc}')
+                  sys.exit(1)
+              key = 'articles' if f == 'blog.json' else 'testimonios'
+              if not isinstance(data.get(key), list):
+                  print(f'✗ {f}: falta la lista \"{key}\"')
+                  sys.exit(1)
+          print('validate: blog.json y testimonios.json OK')
+          "
+        # Sin `if:` a propósito, mismo criterio que agente.yml: si esto
+        # falla, "Publicar cambios" no corre y nada corrupto llega a
+        # producción. Agregado 16 jul 2026.
+
       - name: Publicar cambios
         run: |
           git config user.name "agente-contexto"
@@ -171,7 +193,7 @@ jobs:
           # testimonios.json desde el cambio a Supabase), y la carpeta ni
           # siquiera existe en el repo — "git add" fallaba con "pathspec
           # did not match any files" y tumbaba este paso completo.
-          git add blog.json revista blog testimonios.json articulo sitemap.xml robots.txt agent/qc_log.json agent/spend_log.json agent/alert_state.json
+          git add blog.json revista blog testimonios.json articulo sitemap.xml robots.txt feed.xml historico.csv agent/qc_log.json agent/spend_log.json agent/alert_state.json
           git diff --cached --quiet || git commit -m "⚖️ Ciclo de moderación: revista jurídica y reseñas"
           git push
 

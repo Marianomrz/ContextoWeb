@@ -16,11 +16,14 @@ No llama a ninguna API: es puro render. Se puede correr solo:
 y agent.py lo invoca automáticamente al final de cada ciclo.
 """
 
+import csv
 import html
+import io
 import json
 import os
 import sys
 from datetime import datetime, timezone
+from email.utils import format_datetime  # stdlib — para fechas RFC 822 del RSS
 from pathlib import Path
 from zoneinfo import ZoneInfo  # stdlib desde Python 3.9 — sin dependencia nueva
 
@@ -42,6 +45,9 @@ OUT_DIR = BASE_DIR / "articulo"
 BLOG_JSON = BASE_DIR / "blog.json"
 BLOG_OUT_DIR = BASE_DIR / "revista"
 SITEMAP_FILE = BASE_DIR / "sitemap.xml"
+RSS_FILE = BASE_DIR / "feed.xml"
+RSS_MAX_ITEMS = 30   # mismo orden de magnitud que MAX_ARTICLES_KEPT — no tiene caso listar más de lo que ya vive en portada
+HISTORICO_CSV_FILE = BASE_DIR / "historico.csv"
 
 # URL pública del sitio (sin diagonal final). En GitHub Actions se calcula
 # sola; en local puedes exportarla o dejarla vacía (se omiten las etiquetas
@@ -61,6 +67,7 @@ CATEGORY_LABELS = {
 STATIC_PAGES = [
     "index.html", "fuentes.html", "brujula.html", "glosario.html",
     "correcciones.html", "legal.html", "revista.html", "hemeroteca.html",
+    "metodologia.html",
 ]
 
 FONTS_URL = ("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;"
@@ -248,6 +255,7 @@ def render_article_page(article):
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
 <link rel="manifest" href="../manifest.json">
+{f'<link rel="alternate" type="application/rss+xml" title="Contexto" href="{SITE_BASE_URL}/feed.xml">' if SITE_BASE_URL else ""}
 <meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -275,6 +283,10 @@ def render_article_page(article):
       <h1 class="article-title">{esc(title)}</h1>
       <p class="article-dek">{esc(summary)}</p>
     </div>
+    <button class="facts-only-toggle" type="button" aria-pressed="false" id="factsOnlyToggle" title="Ocultar espectro y análisis, mostrar solo el resumen">
+      <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg>
+      <span class="facts-only-label">Solo hechos</span>
+    </button>
     {render_spectrum(article)}
     <div class="article-analysis">
       <div class="analysis-col">
@@ -304,9 +316,11 @@ def render_article_page(article):
       <a href="../index.html">Portada</a>
       <a href="../revista.html">Revista jurídica</a>
       <a href="../hemeroteca.html">Hemeroteca</a>
+      {f'<a href="../feed.xml">RSS</a>' if SITE_BASE_URL else ""}
       <a href="../fuentes.html">Panel de fuentes</a>
       <a href="../brujula.html">Brújula editorial</a>
       <a href="../glosario.html">Glosario</a>
+      <a href="../metodologia.html">Metodología en números</a>
       <a href="../correcciones.html">Correcciones</a>
       <a href="../legal.html">Legal y privacidad</a>
     </nav>
@@ -314,6 +328,16 @@ def render_article_page(article):
 </footer>
 
 <script src="../share.js"></script>
+<script>(function(){{
+  var btn = document.getElementById('factsOnlyToggle');
+  if (!btn) return;
+  btn.addEventListener('click', function(){{
+    var card = btn.closest('.article-card');
+    var on = card.classList.toggle('is-facts-only');
+    btn.setAttribute('aria-pressed', String(on));
+    btn.querySelector('.facts-only-label').textContent = on ? 'Ver análisis completo' : 'Solo hechos';
+  }});
+}})();</script>
 </body>
 </html>
 """
@@ -417,7 +441,9 @@ def render_blog_page(entry):
       <a href="../index.html">Portada</a>
       <a href="../revista.html">Revista jurídica</a>
       <a href="../hemeroteca.html">Hemeroteca</a>
+      {f'<a href="../feed.xml">RSS</a>' if SITE_BASE_URL else ""}
       <a href="../fuentes.html">Panel de fuentes</a>
+      <a href="../metodologia.html">Metodología en números</a>
       <a href="../correcciones.html">Correcciones</a>
       <a href="../legal.html">Legal y privacidad</a>
     </nav>
@@ -467,6 +493,79 @@ def build_sitemap(articles, blog_articles=()):
     )
 
 
+def build_rss(articles):
+    """feed.xml — RSS 2.0 con las últimas RSS_MAX_ITEMS notas (no incluye
+    revista jurídica ni reseñas, solo el pipeline principal de noticias/
+    literatura). Igual que el sitemap, requiere SITE_BASE_URL para URLs
+    absolutas — sin ella un lector RSS no puede resolver los enlaces.
+    Agregada 16 jul 2026 a pedido del usuario (descubrimiento de contenido)."""
+    if not SITE_BASE_URL:
+        print("build_pages: SITE_BASE_URL no definida — se omite feed.xml")
+        return
+    # más recientes primero, igual que la portada
+    ordered = sorted(articles, key=lambda a: str(a.get("published_at", "")), reverse=True)
+    items = []
+    for a in ordered[:RSS_MAX_ITEMS]:
+        page_url = f"{SITE_BASE_URL}/articulo/{a['id']}.html"
+        try:
+            pub_dt = datetime.fromisoformat(str(a.get("published_at", "")).replace("Z", "+00:00"))
+            if pub_dt.tzinfo is None:
+                pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+            pub_rfc822 = format_datetime(pub_dt)
+        except ValueError:
+            continue
+        cat_label = CATEGORY_LABELS.get(a.get("category", ""), "General")
+        # description va en CDATA — el resumen es texto plano generado por el
+        # agente (nunca cita textual de la fuente, ver regla de derechos de
+        # autor), pero igual se envuelve en CDATA por si trae comillas/signos.
+        items.append(
+            "  <item>\n"
+            f"    <title>{esc(a.get('title', 'Sin título'))}</title>\n"
+            f"    <link>{esc(page_url)}</link>\n"
+            f"    <guid isPermaLink=\"true\">{esc(page_url)}</guid>\n"
+            f"    <pubDate>{pub_rfc822}</pubDate>\n"
+            f"    <category>{esc(cat_label)}</category>\n"
+            f"    <description><![CDATA[{a.get('summary', '')}]]></description>\n"
+            "  </item>"
+        )
+    RSS_FILE.write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        "<channel>\n"
+        "  <title>Contexto</title>\n"
+        f"  <link>{esc(SITE_BASE_URL)}/</link>\n"
+        "  <description>Noticias con análisis de sesgo editorial: espectro, enfoque y contexto de cada cobertura.</description>\n"
+        "  <language>es-mx</language>\n"
+        f'  <atom:link href="{esc(SITE_BASE_URL)}/feed.xml" rel="self" type="application/rss+xml" />\n'
+        + "\n".join(items) + "\n"
+        "</channel>\n</rss>\n",
+        encoding="utf-8",
+    )
+
+
+def build_historico_csv(archive):
+    """historico.csv — versión descargable del índice PERMANENTE de la
+    hemeroteca (hemeroteca.json), pensada para quien quiera auditar el
+    espectro editorial del propio portal con sus propios datos en vez de
+    solo confiar en la palabra del sitio (pedido del usuario, 16 jul 2026).
+    bias_score/source_name los guarda agent.py desde ese mismo día — entradas
+    archivadas antes quedan con esas dos columnas vacías, no se rellenan
+    retroactivamente (ver comentario en agent.py, run_cycle())."""
+    buf = io.StringIO()
+    writer = csv.writer(buf)
+    writer.writerow(["id", "title", "category", "source_name", "published_at", "bias_score"])
+    for a in archive:
+        writer.writerow([
+            a.get("id", ""),
+            a.get("title", ""),
+            a.get("category", ""),
+            a.get("source_name", ""),
+            a.get("published_at", ""),
+            a.get("bias_score") if a.get("bias_score") is not None else "",
+        ])
+    HISTORICO_CSV_FILE.write_text(buf.getvalue(), encoding="utf-8")
+
+
 def build_all():
     """Genera todas las páginas de artículo, poda las viejas y el sitemap."""
     try:
@@ -491,9 +590,11 @@ def build_all():
     # hemeroteca.js siguiera enlazándolo. No hace falta regenerarlas (ya
     # se escribieron cuando la nota SÍ estaba en articles.json), solo no
     # tocarlas.
+    archived_articles = []
     try:
         archived = json.loads(HEMEROTECA_JSON.read_text(encoding="utf-8"))
-        for a in archived.get("articles", []):
+        archived_articles = archived.get("articles", [])
+        for a in archived_articles:
             if a.get("id"):
                 current.add(f"{a['id']}.html")
     except (FileNotFoundError, json.JSONDecodeError):
@@ -525,6 +626,8 @@ def build_all():
             removed += 1
 
     build_sitemap(articles, blog_articles)
+    build_rss(articles)
+    build_historico_csv(archived_articles)
     print(f"build_pages: {len(current)} páginas de notas + {len(blog_current)} "
           f"de revista generadas, {removed} podadas")
     return len(current)

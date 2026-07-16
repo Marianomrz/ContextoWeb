@@ -46,6 +46,7 @@ from quality import quality_check   # agente 2: control de calidad editorial
 import build_pages                  # genera páginas estáticas por artículo + sitemap
 import budget                       # tope de gasto diario compartido por los 4 agentes
 import llm_client                   # interruptor Anthropic ⇄ Inception Labs/Mercury
+import streaks                      # rachas de categorías en cero, agregado 16 jul 2026
 # Nota: juridica.py y resenas.py YA NO se importan aquí — corren en su
 # propio workflow (moderacion.yml), desacoplados del ciclo de noticias.
 
@@ -764,11 +765,17 @@ def to_iso(entry):
 # ---------------------------------------------------------------------------
 
 def record_verdict(qc_log, article, qc):
-    """Deja constancia de cada veredicto del QC (aprobado o no) en la bitácora."""
+    """Deja constancia de cada veredicto del QC (aprobado o no) en la bitácora.
+    Incluye "category" desde el 16 jul 2026 (politica/economia/tecnologia/…,
+    o "literatura" para la pieza de mano libre) — permite que
+    resumen-diario.yml desglose el reporte diario de Telegram por categoría,
+    no solo por tipo, para detectar un hueco como el de "sociedad"
+    dominando el contenido sin que el usuario tenga que revisarlo a mano."""
     qc_log.append({
         "at": datetime.now(tz=timezone.utc).isoformat(),
         "title": article.get("title", "")[:100],
         "kind": "literatura" if article.get("editorial_pick") else "noticia",
+        "category": article.get("category", ""),
         "approved": qc["approved"],
         "overall": qc["overall"],
         "scores": qc["scores"],
@@ -823,6 +830,7 @@ def run_cycle(api_key):
     # calidad publica menos, no publica peor.
     news_published = 0
     attempts = 0
+    published_categories_this_cycle = set()  # para streaks.update() al final del ciclo
     for entry in fresh:
         if news_published >= MAX_NEW_PER_CYCLE:
             log(f"  ✓ Meta de {MAX_NEW_PER_CYCLE} notas publicadas alcanzada — se detiene "
@@ -870,6 +878,7 @@ def run_cycle(api_key):
         published.insert(0, article)
         new_count += 1
         news_published += 1
+        published_categories_this_cycle.add(article["category"])
         time.sleep(1)  # cortesía con la API
 
     if news_published < MAX_NEW_PER_CYCLE:
@@ -878,6 +887,12 @@ def run_cycle(api_key):
             f"al techo de intentos este ciclo (nunca se baja la vara para forzar el número).")
     else:
         log(f"  ✓ {news_published} publicadas este ciclo (techo: {MAX_NEW_PER_CYCLE}).")
+
+    # Rachas por categoría (agregado 16 jul 2026): categorías que no
+    # publicaron nada este ciclo suman 1 a su racha; avisa por Telegram (vía
+    # el paso correspondiente en agente.yml) si alguna lleva demasiados
+    # ciclos seguidos en cero — ver agent/streaks.py.
+    streaks.update(published_categories_this_cycle)
 
     # actualiza el índice PERMANENTE de la hemeroteca ANTES de recortar
     # `published` — así una nota entra al archivo en el momento en que se
@@ -894,6 +909,16 @@ def run_cycle(api_key):
                 "title": a["title"],
                 "category": a.get("category", ""),
                 "published_at": a.get("published_at", ""),
+                # bias_score/source_name agregados 16 jul 2026 para la
+                # descarga CSV/JSON del histórico (ver build_pages.py,
+                # build_historico_csv) — antes hemeroteca.json guardaba
+                # deliberadamente un esquema reducido; entradas archivadas
+                # ANTES de este cambio simplemente no traen estos dos campos
+                # (quedan None/"" en la exportación, no se rellenan
+                # retroactivamente). Piezas de mano libre no tienen
+                # bias_score real (no hay espectro que medir), queda None.
+                "bias_score": a.get("bias_score") if not a.get("editorial_pick") else None,
+                "source_name": a.get("source_name", ""),
             })
             archived_ids.add(a["id"])
     archive.sort(key=lambda a: a.get("published_at") or "", reverse=True)

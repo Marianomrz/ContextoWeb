@@ -60,6 +60,19 @@ jobs:
               counts.setdefault(k, {"aprobados": 0, "rechazados": 0})
               counts[k]["aprobados" if v.get("approved") else "rechazados"] += 1
 
+          # Desglose de noticias por categoría (agregado 16 jul 2026, tras el
+          # episodio de "sociedad" dominando el contenido sin que se notara
+          # hasta que el usuario lo vio en el sitio) — usa el campo "category"
+          # que record_verdict() empezó a guardar ese mismo día; entradas más
+          # viejas del log simplemente no lo traen y caen en "(sin categoría)".
+          cat_counts = {}
+          for v in hoy:
+              if v.get("kind") != "noticia":
+                  continue
+              cat = v.get("category") or "(sin categoría)"
+              cat_counts.setdefault(cat, {"aprobados": 0, "rechazados": 0})
+              cat_counts[cat]["aprobados" if v.get("approved") else "rechazados"] += 1
+
           spend = load("agent/spend_log.json", {})
           spent = spend.get("spent", {}) if spend.get("date") == today else {}
 
@@ -72,6 +85,16 @@ jobs:
               for kind, c in counts.items():
                   nombre = etiquetas.get(kind, kind)
                   lineas.append(f"• {nombre}: {c['aprobados']} publicados, {c['rechazados']} rechazados por QC")
+              if cat_counts:
+                  cat_labels = {
+                      "politica": "Política", "economia": "Economía",
+                      "tecnologia": "Tecnología", "sociedad": "Sociedad",
+                      "internacional": "Internacional", "deportes": "Deportes",
+                  }
+                  lineas.append("  ↳ Noticias por categoría:")
+                  for cat, c in sorted(cat_counts.items(), key=lambda kv: -kv[1]["aprobados"]):
+                      nombre = cat_labels.get(cat, cat)
+                      lineas.append(f"     · {nombre}: {c['aprobados']} publicadas, {c['rechazados']} rechazadas")
           else:
               lineas.append("• Sin actividad de QC registrada hoy.")
           lineas.append(
