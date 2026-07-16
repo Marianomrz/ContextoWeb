@@ -29,6 +29,7 @@ on:
 
 permissions:
   contents: write
+  issues: write               # para el aviso automático de fallos
 
 concurrency:
   group: social-contexto
@@ -69,7 +70,15 @@ jobs:
         run: |
           git config user.name "agente-contexto"
           git config user.email "agente@users.noreply.github.com"
-          git add agent/social_posted.json
+          # Con `if:` (agregado 16 jul 2026): mientras ninguna red tenga
+          # credenciales configuradas, social.py hace `return` antes de
+          # escribir el archivo (ver run() en agent/social.py) — sin esta
+          # guarda, `git add` fallaba con "pathspec ... did not match any
+          # files" (exit 128) y tumbaba el paso, aunque no hubiera nada
+          # real que publicar.
+          if [ -f agent/social_posted.json ]; then
+            git add agent/social_posted.json
+          fi
           git diff --cached --quiet || git commit -m "📣 Registro de auto-post a redes sociales"
           # Reintento con pull --rebase (agregado 16 jul 2026) — mismo motivo
           # que agente.yml/moderacion.yml: con 4 workflows empujando a `main`,
