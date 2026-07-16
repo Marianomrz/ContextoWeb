@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-16T12:07:57.551799+00:00",
+  "generated_at": "2026-07-16T12:12:02.015445+00:00",
   "articles": [
+    {
+      "id": "26e4781642ee",
+      "title": "Las Afores administran 8.95 billones de pesos y ya superan al crédito de la banca",
+      "summary": "Las diez Afores que operan en México gestionan 8.95 billones de pesos, lo que equivale al 25 % del PIB y supera al crédito total otorgado por los bancos del país, según datos de la Consar.",
+      "category": "economia",
+      "source_name": "Expansión",
+      "source_url": "https://expansion.mx/economia/2026/07/16/las-afores-administran-8-95-billones-de-pesos-y-ya-superan-al-credito-de-la-banca",
+      "published_at": "2026-07-16T11:55:24+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo utiliza un tono mayormente positivo, resaltando el crecimiento de los activos y citando estudios que elogian el aumento del salario mínimo, sin presentar críticas ni perspectivas contrapuestas.",
+      "focus_analysis": "El medio se centra en el aspecto económico‑financiero, destacando la expansión de los recursos de las Afores y su comparación con el crédito bancario, mientras deja de lado el análisis de los efectos sociales o de la suficiencia de las pensiones.",
+      "focus_tags": [
+        "finanzas públicas",
+        "sistema de pensiones",
+        "crecimiento de activos"
+      ],
+      "context": [
+        {
+          "label": "Marco institucional de las Afores",
+          "text": "Las Administradoras de Fondos para el Retiro (Afores) son instituciones financieras mexicanas encargadas de administrar los ahorros para la jubilación de los trabajadores, bajo la supervisión de la Comisión Nacional del Sistema de Ahorro para el Retiro (Consar)."
+        },
+        {
+          "label": "Comparación histórica con el crédito bancario",
+          "text": "Tradicionalmente, el crédito otorgado por los bancos representaba una parte mayor del total de recursos financieros del país, pero en los últimos años la participación de las Afores ha aumentado rápidamente, acercándose y superando al crédito bancario."
+        },
+        {
+          "label": "Política sobre retiros por desempleo",
+          "text": "En 2025 se aprobó una iniciativa para limitar los retiros por desempleo que algunos gestores privados facilitaban mediante falsos registros salariales, con el objetivo de proteger el ahorro de los trabajadores."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "7c42fc0a77e2",
+      "title": "Reflexionan sobre la relación de la CDMX con el agua",
+      "summary": "La Jornada Cultura presenta el libro AMATL, archivo, memoria y agua, una publicación que reúne documentos históricos del Archivo Histórico de la Ciudad de México y la de expertos para analizar la relación cultural y estructural de la capital mexicana con el recurso hídrico.",
+      "category": "sociedad",
+      "source_name": "La Jornada Cultura",
+      "source_url": "https://www.jornada.com.mx/2026/07/16/cultura/a08n1cul?partner=rss",
+      "published_at": "2026-07-16T09:00:11+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto enfatiza la crisis del agua y la necesidad de acción colectiva, usando un lenguaje que resalta la responsabilidad social y la participación ciudadana, típico de una línea editorial de izquierda.",
+      "focus_analysis": "El medio se centra en el ángulo cultural‑histórico del agua en la CDMX, resaltando la memoria documental y la opinión de especialistas, mientras deja de lado detalles técnicos de gestión hídrica o debates políticos concretos.",
+      "focus_tags": [
+        "cultura",
+        "historia del agua",
+        "memoria urbana"
+      ],
+      "context": [
+        {
+          "label": "historia",
+          "text": "El Archivo Histórico de la Ciudad de México conserva documentos sobre gestión del agua desde la época colonial (1524), que revelan cómo se estructuró la infraestructura hidráulica de la capital a lo largo de los siglos."
+        },
+        {
+          "label": "crisis actual",
+          "text": "México reconoce enfrenta una grave escasez de agua, con problemas de sobreexplotación de acuíferos y hundimiento del suelo, lo que ha generado una creciente preocupación pública y académica."
+        },
+        {
+          "label": "institucional",
+          "text": "El proyecto del libro cuenta con el apoyo del Consejo Consultivo del Agua, la Secretaría de Cultura de la CDMX y el Fondo de Agua, reflejando la colaboración entre instituciones culturales y de gestión hídrica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "581766a4932e",
+      "title": "El TJUE avala la ley de amnistía al descartar que contravenga las normas europeas y allana el regreso de Puigdemont",
+      "summary": "El Tribunal de Justicia de la Unión Europea ha dictaminado que la ley de amnistía aprobada por el Gobierno español no vulnera la normativa comunitaria, lo que permite el regreso del político catalán Carles Puigdemont a la zona Schengen.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-07-16/el-tjue-avala-la-ley-de-amnistia-al-descartar-que-contravenga-las-normas-europeas.html",
+      "published_at": "2026-07-16T11:15:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje objetivo y se limita a describir la decisión judicial sin emplear adjetivos cargados ni citar fuentes con sesgo evidente.",
+      "focus_analysis": "El artículo se centra en el aspecto jurídico‑institucional del fallo del TJUE, dejando de lado la reacción política interna y el impacto social de la amnistía sobre la cuestión catalana.",
+      "focus_tags": [
+        "legal",
+        "UE judiciary",
+        "Catalan politics"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "En 2017, el intento de secesión de Cataluña culminó con un referéndum y una declaración unilateral de independencia, que fueron declarados ilegales por el Tribunal Constitucional español."
+        },
+        {
+          "label": "ley de amnistía",
+          "text": "El Gobierno de Pedro Sánchez aprobó en 2024 una ley de amnistía que perdona a los implicados en el proceso independentista catalán, medida que generó polémica tanto en España como en la UE."
+        },
+        {
+          "label": "perspectiva de otros medios",
+          "text": "Otros medios, como DW Español, describieron la normativa como polémica y destacaron que el fallo del TJUE evita que la ley contradiga normas comunitarias sobre terrorismo y finanzas."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "741e6046b48a",
+      "title": "Inverosímil, que la fiscalía no estuviera enterada quién era “El Jando”, señalan expertos",
+      "summary": "Expertos señalan que la Fiscalía General de la República no identificó a tiempo a Mauro Alberto Núñez Ojeda, alias El Jando, piloto que trasladó a Ismael El Mayo Zambada a EE. UU., lo que evidencia debilidades en los procesos de investigación y manejo de datos de la autoridad mexicana.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/inverosimil-que-la-fiscalia-no-estuviera-enterada-quien-era-el-jando-senalan/",
+      "published_at": "2026-07-16T11:21:36+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto utiliza un lenguaje crítico como \"deficiencia e incapacidad\" y \"mala tarjeta de presentación\", y cita solo a expertos que denuncian fallas del gobierno, sin presentar declaraciones oficiales que equilibraran la visión.",
+      "focus_analysis": "El medio se centra en la falla institucional de la Fiscalía y el manejo de datos en un caso de seguridad nacional, dejando de lado el contexto político más amplio o posibles logros de la autoridad.",
+      "focus_tags": [
+        "deficiencias fiscales",
+        "seguridad nacional",
+        "manejo de datos"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del caso",
+          "text": "Mauro Alberto Núñez Ojeda, conocido como El Jando, pilotó el avión que llevó al narcotraficante Ismael El Mayo Zambada a Estados Unidos en julio de 2024, y su identidad fue confirmada meses después de su extradición."
+        },
+        {
+          "label": "Cobertura de Infobae",
+          "text": "Otro medio, Infobae México, presentó una cronología del vuelo y la detención de El Jando, enfocándose en los hechos operativos más que en la crítica a la Fiscalía."
+        },
+        {
+          "label": "Críticas previas a la FGR",
+          "text": "La Fiscalía General de la República ha sido cuestionada en ocasiones anteriores por demoras y fallas en la investigación de casos de alto perfil vinculados al crimen organizado."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "ef90a6bf55c3",
+      "title": "China, te necesitamos: solo los fabricantes chinos de memorias pueden devolver la cordura al mercado del hardware",
+      "summary": "Los fabricantes chinos de memorias CXMT y YMTC se presentan como la única esperanza para estabilizar los precios de DRAM y NAND en el mercado global, tras la escasez provocada por la reorientación de Samsung, SK Hynix y Micron hacia la memoria de alto ancho de banda para IA.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/empresas-y-economia/china-te-necesitamos-solo-fabricantes-chinos-memorias-pueden-devolver-cordura-al-mercado-hardware",
+      "published_at": "2026-07-16T11:45:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo describe datos técnicos y de mercado sin usar lenguaje cargado ni promover una postura política; menciona tanto los problemas de suministro como los riesgos geopolíticos de forma equilibrada.",
+      "focus_analysis": "Se centra en el ángulo tecnológico y económico del suministro de memorias y los precios del hardware, dejando en segundo plano los impactos políticos y de seguridad más amplios.",
+      "focus_tags": [
+        "memoria DRAM",
+        "fabricantes chinos",
+        "precios hardware"
+      ],
+      "context": [
+        {
+          "label": "Dominio del mercado de DRAM",
+          "text": "Samsung, SK Hynix y Micron controlan alrededor del 90 % de la producción mundial de DRAM y han desviado gran parte de su capacidad a la memoria de alto ancho de banda para IA, reduciendo la disponibilidad de módulos DDR4 y DDR5 para consumidores."
+        },
+        {
+          "label": "Crecimiento de CXMT y YMTC",
+          "text": "CXMT alcanzó una cuota global del 7,7 % en DRAM, convirtiéndose en el cuarto mayor fabricante del planeta, mientras que YMTC incrementó su participación en NAND Flash del 8 % al 13 % y planea una nueva planta que también producirá DRAM."
+        },
+        {
+          "label": "Entorno geopolítico y regulatorio",
+          "text": "Las tensiones entre EE. UU. y China, incluidas sanciones y la inclusión de CXMT en una lista del Pentágono, generan incertidumbre sobre la capacidad de los fabricantes chinos para exportar chips sin repercusiones políticas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "71be1dcdedde",
+      "title": "¿Comprar o rentar? La autora de \"Pequeño Cerdo Capitalista\" explica la estrategia para comprar una casa",
+      "summary": "Sofía Macías, autora de \"Pequeño Cerdo Capitalista\", propone el reto \"mi primer metro cuadrado\" para que millennials y centennials mexicanos ahorren de forma estructurada y eventualmente compren una vivienda, combinando ahorro, inversión y, si es necesario, alquiler temporal.",
+      "category": "economia",
+      "source_name": "Expansión",
+      "source_url": "https://expansion.mx/finanzas-personales/2026/07/16/comprar-o-rentar-estrategia-para-ahorrar-para-una-casa",
+      "published_at": "2026-07-16T11:55:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y neutro, sin cargar palabras ni citar fuentes con sesgo político; se centra en consejos financieros y datos del mercado inmobiliario.",
+      "focus_analysis": "El artículo se enfoca en el ángulo económico‑personal, ofreciendo una estrategia de ahorro e inversión para adquirir vivienda; omite el análisis de políticas públicas de vivienda o la crítica a la falta de oferta asequible.",
+      "focus_tags": [
+        "finanzas personales",
+        "vivienda",
+        "millennials"
+      ],
+      "context": [
+        {
+          "label": "Precio de la vivienda en México",
+          "text": "En 2026, el precio promedio de una vivienda en México supera los dos millones de pesos, lo que representa un desafío de asequibilidad para jóvenes con ingresos medios."
+        },
+        {
+          "label": "Programas gubernamentales de vivienda",
+          "text": "Instituciones como el Infonavit ofrecen créditos y subsidios para trabajadores, pero los requisitos de ingreso y la disponibilidad de unidades siguen siendo limitados."
+        },
+        {
+          "label": "Inversión en Fibras y REITs",
+          "text": "Las Fibras, vehículos de inversión colectiva en bienes raíces, se han popularizado como alternativa para invertir en el sector inmobiliario sin comprar una propiedad directamente."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "8f6f2b0735cc",
       "title": "Vicealmirante Farías Laguna pidió que exsecretario de Marina declarara en investigación sobre huachicol fiscal",
@@ -840,216 +1050,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "04a0534db21a",
-      "title": "Recepcionista sufre agresión de huésped en hotel de Santa Fe: cámaras captan el ataque",
-      "summary": "Una recepcionista de 40 años del hotel Park Life Paradox en la colonia Santa Fe de Ciudad de México fue agredida verbal y físicamente por un huésped, mientras que los guardias del establecimiento no intervinieron, lo que ha generado indignación en redes sociales y demandas de justicia por parte de feministas y sindicatos.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/15/recepcionista-sufre-agresion-de-huesped-en-hotel-de-santa-fe-camaras-captan-el-ataque/",
-      "published_at": "2026-07-15T21:26:34+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto utiliza un tono emotivo y condenatorio, destaca la reacción de colectivos feministas y sindicatos, y menciona antecedentes de fraude del agresor, lo que indica una perspectiva progresista y de crítica social más que una presentación neutral de los hechos.",
-      "focus_analysis": "El medio se centra en la violencia de género y la falta de protección institucional, dejando de lado el análisis económico del hotel o la posible responsabilidad legal del establecimiento.",
-      "focus_tags": [
-        "violencia de género",
-        "seguridad hotelera",
-        "derechos laborales"
-      ],
-      "context": [
-        {
-          "label": "Prevalencia de agresiones en el sector hotelero",
-          "text": "En México, los trabajadores del sector hotelero, especialmente mujeres, suelen enfrentar acoso y agresiones por parte de clientes, lo que ha llevado a organizaciones sindicales a exigir mejores protocolos de seguridad."
-        },
-        {
-          "label": "Ubicación y reputación del establecimiento",
-          "text": "El hotel Park Life Paradox está ubicado en la zona de Santa Fe, una de las áreas de mayor desarrollo económico de la Ciudad de México, y ha sido señalado en ocasiones anteriores por problemas de seguridad interna."
-        },
-        {
-          "label": "Cobertura de El Universal",
-          "text": "Otro medio, El Universal, informó de manera más neutra, centrando la noticia en la investigación de la Fiscalía y en el contacto de la policía con la víctima, sin enfatizar la reacción de colectivos feministas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "6b7c469b4946",
-      "title": "Peso mexicano se aprecia frente al dólar ante menores apuestas de alza a tasas de la Fed",
-      "summary": "El peso mexicano se fortaleció frente al dólar el miércoles, tras la publicación de un índice de precios al productor de EE. UU. por debajo de lo esperado, lo que redujo las expectativas de alzas de tasas de la Reserva Federal.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-15-julio-2026-cuanto-cerro-20260715-823394.html",
-      "published_at": "2026-07-15T20:28:53+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo presenta exclusivamente datos de mercado y citas de analistas sin utilizar lenguaje cargado ni inclinarse hacia una postura política, lo que refleja una cobertura neutral.",
-      "focus_analysis": "El medio eligió un ángulo económico, centrado en la reacción del tipo de cambio ante los datos de inflación estadounidenses y la política de la Fed, mientras que el contexto geopolítico quedó poco desarrollado.",
-      "focus_tags": [
-        "tipo de cambio",
-        "inflación EE.UU.",
-        "política monetaria"
-      ],
-      "context": [
-        {
-          "label": "Expectativas de la Fed",
-          "text": "La Reserva Federal de EE. UU. ha mantenido una política de aumento de tasas para combatir la inflación, pero los recientes indicadores de precios al productor y al consumidor han moderado esas expectativas."
-        },
-        {
-          "label": "Tendencias del peso mexicano",
-          "text": "Durante los primeros meses de 2026, el peso mexicano mostró una tendencia de depreciación frente al dólar, impulsada por la percepción de un ciclo de endurecimiento de la política monetaria estadounidense."
-        },
-        {
-          "label": "Tensiones geopolíticas",
-          "text": "Los conflictos entre Estados Unidos e Irán, incluyendo recientes ataques a instalaciones iraníes, generan incertidumbre en los mercados financieros y pueden limitar la apreciación de monedas emergentes como el peso mexicano."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "f36568cb9f52",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 15 de julio: “El Jando” fue el piloto que llevó a El Mayo Zambada a Estados Unidos",
-      "summary": "La Fiscalía General de la República confirmó que \"El Jando\", integrante de la facción de Los Chapitos del Cártel de Sinaloa, fue el piloto que transportó a El Mayo Zambada a Estados Unidos en julio de 2024.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/15/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-15-de-julio-el-jando-fue-el-piloto-que-llevo-a-el-mayo-zambada-a-estados-unidos/",
-      "published_at": "2026-07-15T20:39:36+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar datos oficiales sin usar adjetivos cargados ni presentar una agenda política, manteniendo un tono descriptivo y neutral.",
-      "focus_analysis": "El artículo se centra en el aspecto de seguridad y narcotráfico, describiendo la captura y el papel del piloto; omite análisis sobre las implicaciones políticas o de política pública del caso.",
-      "focus_tags": [
-        "narcotráfico",
-        "seguridad",
-        "cártel de Sinaloa"
-      ],
-      "context": [
-        {
-          "label": "context1",
-          "text": "El Mayo Zambada, cuyo nombre real es Ismael Zambada García, es uno de los líderes más veteranos del Cártel de Sinaloa, responsable de una vasta red de tráfico de drogas que conecta México con Estados Unidos."
-        },
-        {
-          "label": "context2",
-          "text": "La Fiscalía General de la República (FGR) y la Secretaría de Seguridad y Protección Ciudadana (SSPC) suelen publicar comunicados sobre operativos contra el narcotráfico, destacando la cooperación binacional aunque la información a veces se percibe como parte de una estrategia de seguridad nacional."
-        },
-        {
-          "label": "context3",
-          "text": "Otros medios, como El Universal, enfatizan la cronología del caso y la supuesta impunidad del piloto, ofreciendo una perspectiva que cuestiona la efectividad de la persecución judicial en México."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "f798f24ecab8",
-      "title": "Amnistía Internacional denuncia cientos de muertes en cárceles salvadoreñas bajo régimen de excepción",
-      "summary": "Amnistía Internacional denuncia que al menos 470 personas han muerto en cárceles de El Salvador bajo el régimen de excepción impuesto por el presidente Nayib Bukele, señalando posibles crímenes de lesa humanidad.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/amnistia-internacional-denuncia-cientos-muertes-carceles-salvadorenas-regimen-excepcion-20260715-823395.html",
-      "published_at": "2026-07-15T20:29:18+00:00",
-      "bias_score": -45,
-      "bias_reason": "El artículo emplea un lenguaje cargado como \"régimen de excepción\" y \"crímenes de lesa humanidad\", se centra en las denuncias de la ONG y omite la versión oficial, lo que indica una perspectiva crítica hacia el gobierno de Bukele.",
-      "focus_analysis": "El medio eló el ángulo de derechos humanos y abusos estatales, dejando de lado la narrativa de seguridad y la reducción de la violencia que el gobierno atribuye a su política anti‑pandillas.",
-      "focus_tags": [
-        "derechos humanos",
-        "régimen de excepción",
-        "El Salvador"
-      ],
-      "context": [
-        {
-          "label": "Marco legal",
-          "text": "Desde 2022, El Salvador vive bajo un estado de excepción que permite detenciones sin orden judicial, una medida adoptada por el presidente Nayib Bukele para combatir a las pandillas."
-        },
-        {
-          "label": "Situación de derechos humanos",
-          "text": "Organizaciones internacionales como la ONU y Human Rights Watch han señalado un aumento de muertes y torturas en centros de detención de varios países latinoamericanos bajo regímenes de excepción."
-        },
-        {
-          "label": "Postura gubernamental",
-          "text": "El gobierno de Bukele defiende el estado de excepción como esencial para la seguridad y destaca la caída histórica de la violencia y la delincuencia en El Salvador."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "dcebe7400626",
-      "title": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
-      "summary": "Un correo electrónico enviado por error por el abogado de Apple, Gabriel Gross, provocó la ruptura de las negociaciones con OpenAI y precedió a la demanda que Apple presentó acusando a la empresa de IA de robar secretos comerciales de hardware.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/apple/apple-openai-email-error-demanda-secretos/",
-      "published_at": "2026-07-15T20:39:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo expone los hechos de manera descriptiva, sin usar lenguaje emotivo ni favorecer a ninguna de las partes, y se apoya en fuentes como NBC News para relatar el incidente del correo y la demanda.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y legal, describiendo el error de comunicación y la demanda, mientras omite el impacto tecnológico o económico más amplio del conflicto entre Apple y OpenAI.",
-      "focus_tags": [
-        "error de correo",
-        "demanda legal",
-        "Apple-OpenAI"
-      ],
-      "context": [
-        {
-          "label": "historial de protección de IP de Apple",
-          "text": "Apple ha mantenido una política estricta de defensa de sus secretos de hardware, involucrando demandas previas para salvaguardar su propiedad intelectual."
-        },
-        {
-          "label": "perfil de OpenAI",
-          "text": "OpenAI es una empresa líder en inteligencia artificial que ha sido objeto de escrutinio legal por el uso de datos y la posible incorporación de tecnología de terceros."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "Otros medios como WWWhatsnew y Applesfera destacan la magnitud del presunto robo, mencionando a cientos de empleados y usando un tono más sensacionalista respecto al acceso a la red de Apple."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "1ff1490c458a",
-      "title": "Las SUV representan 2 de cada 3 ventas de Honda en México",
-      "summary": "Honda México cerró junio de 2026 con 2,991 vehículos vendidos, de los cuales el 66 % fueron SUV, destacando la CR‑V como el modelo más vendido y el City como el de mayor crecimiento.",
-      "category": "economia",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/autopistas/las-suv-representan-2-de-cada-3-ventas-de-honda-en-mexico/",
-      "published_at": "2026-07-15T20:42:25+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto adopta un tono mayormente positivo, resaltando los crecimientos y el liderazgo de los modelos de Honda sin presentar críticas ni comparaciones con la competencia.",
-      "focus_analysis": "El artículo se centra en los datos de ventas y el desempeño de los modelos SUV de Honda, omitiendo la perspectiva de los consumidores y el impacto ambiental de la creciente demanda de SUV.",
-      "focus_tags": [
-        "ventas de autos",
-        "SUV",
-        "mercado mexicano"
-      ],
-      "context": [
-        {
-          "label": "Tendencia de SUV en México",
-          "text": "En los últimos años, la participación de los SUV en el mercado automotriz mexicano ha aumentado significativamente, superando a los sedanes en varias cuotas de mercado."
-        },
-        {
-          "label": "Posición de Honda frente a la competencia",
-          "text": "Honda México compite con marcas como Toyota y Nissan, que también han registrado fuertes ventas de SUV, aunque Honda ha mantenido una tasa de crecimiento superior al promedio de la industria."
-        },
-        {
-          "label": "Crecimiento del sector automotriz nacional",
-          "text": "La industria automotriz de México creció alrededor del 5 % en la primera mitad de 2026, impulsada por la demanda de vehículos utilitarios y la recuperación post‑pandemia."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
       }
     }
   ]
