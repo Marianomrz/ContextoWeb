@@ -1,230 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-15T20:45:33.838658+00:00",
-      "title": "Trump ya tiene moneda de un dólar con su cara; la emiten pese a que ley lo prohíbe",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, y muestra sesgo, por lo que no cumple los estándares de una noticia objetiva y fiable.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:45:36.545621+00:00",
-      "title": "Esta fue la causa por la que se rompieron las negociaciones entre Apple y OpenAI antes de la demanda",
-      "kind": "noticia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzar la verificación de fuentes para el hecho central.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:45:42.334428+00:00",
-      "title": "Amnistía Internacional denuncia cientos de muertes en cárceles salvadoreñas bajo régimen de excepció",
-      "kind": "noticia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión, actualidad y estructura, aunque podría mejorar la variedad de fuentes para reforzar el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:45:47.010235+00:00",
-      "title": "El acalorado cruce entre Messi y Jude Bellingham en el duelo entre Argentina e Inglaterra por la sem",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo necesita mejorar la precisión factual y la verificación de fuentes, pero mantiene una buena objetividad y estructura, y es muy reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:45:57.060400+00:00",
-      "title": "Sócrates en Silicon Valley",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero carece de contraste de fuentes y de mayor veracidad, además presenta un sesgo editorial evidente.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:45:59.865313+00:00",
-      "title": "El ministro de Defensa de Ucrania, líder de la revolución armamentística, destituido a los siete mes",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita más fuentes verificables y una presentación más equilibrada para alcanzar los estándares de objetividad y veracidad, aunque es actual y estructurado razonablemente.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:46:04.173478+00:00",
-      "title": "Lo detienen, lo presumen como piloto de \"Los Chapitos\" y 6 meses después lo mandan a EU; mira aquí l",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene errores verificables que comprometen su veracidad, pero su estilo y actualidad son adecuados; necesita corrección de datos y fuentes más diversificadas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:46:07.220506+00:00",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 15 de julio: “El Jando” fue el piloto que l",
-      "kind": "noticia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, aunque la falta de fuentes verificables reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:46:11.992292+00:00",
-      "title": "El Departamento de Seguridad Nacional de EE.UU. ignoró dos veces las alertas de la brecha de su red ",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y estructurado adecuadamente, pero carece de pruebas y fuentes contrastadas que respalden sus afirmaciones.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T20:46:16.195540+00:00",
-      "title": "Peso mexicano se aprecia frente al dólar ante menores apuestas de alza a tasas de la Fed",
-      "kind": "noticia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque la ausencia de datos concretos y citas reduce su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T21:33:11.510800+00:00",
-      "title": "Remate en el palo, centro de Messi y cabezazo letal de Lautaro Martínez: el golazo de Argentina para",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 3.6,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 2,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo carece de veracidad y fuentes fiables, lo que lo hace inadecuado para publicación a pesar de una buena estructura.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T21:33:16.745106+00:00",
-      "title": "Recepcionista sufre agresión de huésped en hotel de Santa Fe: cámaras captan el ataque",
-      "kind": "noticia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de un artículo informativo, aunque podría reforzar la verificación de datos y citar fuentes específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T21:33:22.330412+00:00",
-      "title": "Los goles de Gordon, Enzo Fernández y Lautaro en la victoria de Argentina frente a Inglaterra en el ",
-      "kind": "noticia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de verificabilidad de los hechos limita su puntuación en veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-15T21:33:27.401107+00:00",
-      "title": "Muere venezolano bajo custodia del ICE; suman 22 migrantes fallecidos durante 2026",
-      "kind": "noticia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta información reciente y bien estructurada, pero sufre de inconsistencias numéricas y una representación limitada de la posición oficial del ICE, lo que afecta su precisión y equilibrio de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-07-15T21:33:31.392858+00:00",
       "title": "Argentina avanza a la final del Mundial 2026 tras vencer 2-1 a Inglaterra; enfrentará a España",
       "kind": "noticia",
@@ -3309,6 +3085,244 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, contraste y actualidad, ofreciendo una cobertura objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:20:35.415974+00:00",
+      "title": "Asesinan al periodista Josué Martínez ‘El Jaguar’ en Puebla",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, bien contrastada, objetiva y estructurada de manera adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:20:39.589470+00:00",
+      "title": "Compra Carso a TotalEnergies  participación en bloque",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido en objetividad y actualidad, pero ganaría en veracidad y contraste de fuentes al incluir fechas precisas y múltiples referencias.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:20:45.698275+00:00",
+      "title": "Para Felipe Calderón, el populismo en México “va en la misma vía” que Venezuela",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es reciente y estructurado adecuadamente, pero presenta sesgo y escasa diversidad de fuentes, lo que limita su objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:20:48.625940+00:00",
+      "title": "“Estos tipos nunca mueren”: la furia de un grupo de periodistas ingleses en medio de la remontada de",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta una cobertura sensacionalista de un hecho aún no ocurrido, con fuentes limitadas y veracidad cuestionable, aunque cumple con la actualidad y una estructura razonable.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:20:53.991908+00:00",
+      "title": "Starmer dice adiós y abre el paso a Burnham: qué esperar del nuevo gobierno de un incierto Reino Uni",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero adolece de veracidad y falta de contraste de fuentes, lo que compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:20:57.327245+00:00",
+      "title": "La técnica japonesa para secar la ropa en espacios cerrados de una forma más eficiente y rápida",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma clara, objetiva y actual, aunque podría reforzar la verificación de datos y ampliar fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:12.891918+00:00",
+      "title": "Odiar es fácil",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los criterios de calidad, aunque necesita mayor diversidad de fuentes y balance de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:16.059508+00:00",
+      "title": "Trump irá a la final del Mundial",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo no cumple con los estándares de veracidad y contraste de fuentes; requiere corrección o verificación antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:22.498035+00:00",
+      "title": "PAN confía en que Ruffo Appel aclarará señalamientos; cuestiona que la FGR no investigue a gobernado",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero necesita mayor contraste de fuentes y una presentación más equilibrada para cumplir con los estándares de objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:26.352308+00:00",
+      "title": "La Casa de los Famosos México 2026: Masad Altamimi revela su estrategia, desea hacer equipo con Kari",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y muestra suficiente contraste de fuentes para una cobertura equilibrada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:31.514249+00:00",
+      "title": "La confesión de Pablo Giralt sobre el relato del gol que clasificó a Argentina a la final del Mundia",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una noticia de actualidad pero con baja verificabilidad y un sesgo nacionalista evidente; necesita fuentes más sólidas y contraste adicional para cumplir con los estándares de precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:35.702088+00:00",
+      "title": "Ataques de EE.UU. golpean aeropuerto y puentes en Irán",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, contraste y actualidad, presentando la información de forma objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:41.519761+00:00",
+      "title": "Un fallo en la NASA cuestionaba el uso de la informática en 1981. Steve Jobs entró en directo y sólo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 1,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete carece de veracidad y contraste de fuentes, y presenta sesgo evidente; aunque es reciente y sigue una estructura básica de pirámide invertida, no cumple con los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-16T23:21:50.418409+00:00",
+      "title": "“Foreign tongues”, o hay Stones para rato",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial: es actual, bien estructurado, objetivo y proviene de una fuente fiable, pese a la falta de verificación externa de la fecha futura.",
       "error": null
     }
   ]
