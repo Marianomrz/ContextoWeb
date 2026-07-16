@@ -23,6 +23,7 @@
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
 <link rel="manifest" href="../manifest.json">
+<link rel="alternate" type="application/rss+xml" title="Contexto" href="https://01-contexto-portal.vercel.app/feed.xml">
 <meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -50,6 +51,10 @@
       <h1 class="article-title">La crítica literaria desde el Extremo Occidente</h1>
       <p class="article-dek">El artículo de Letras Libres presenta a Christopher Domínguez Michael, destacado crítico literario mexicano, quien impartió una conferencia en el Collège de France sobre la práctica de la crítica en América Latina, resaltando su trayectoria autodidacta y su influencia en el ámbito hispanoamericano.</p>
     </div>
+    <button class="facts-only-toggle" type="button" aria-pressed="false" id="factsOnlyToggle" title="Ocultar espectro y análisis, mostrar solo el resumen">
+      <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M2 12s3.5-7 10-7 10 7 10 7-3.5 7-10 7-10-7-10-7z"/><circle cx="12" cy="12" r="3"/></svg>
+      <span class="facts-only-label">Solo hechos</span>
+    </button>
     
       <div class="spectrum-block">
         <div class="spectrum-label-row">
@@ -98,9 +103,11 @@
       <a href="../index.html">Portada</a>
       <a href="../revista.html">Revista jurídica</a>
       <a href="../hemeroteca.html">Hemeroteca</a>
+      <a href="../feed.xml">RSS</a>
       <a href="../fuentes.html">Panel de fuentes</a>
       <a href="../brujula.html">Brújula editorial</a>
       <a href="../glosario.html">Glosario</a>
+      <a href="../metodologia.html">Metodología en números</a>
       <a href="../correcciones.html">Correcciones</a>
       <a href="../legal.html">Legal y privacidad</a>
     </nav>
@@ -108,5 +115,15 @@
 </footer>
 
 <script src="../share.js"></script>
+<script>(function(){
+  var btn = document.getElementById('factsOnlyToggle');
+  if (!btn) return;
+  btn.addEventListener('click', function(){
+    var card = btn.closest('.article-card');
+    var on = card.classList.toggle('is-facts-only');
+    btn.setAttribute('aria-pressed', String(on));
+    btn.querySelector('.facts-only-label').textContent = on ? 'Ver análisis completo' : 'Solo hechos';
+  });
+})();</script>
 </body>
 </html>
