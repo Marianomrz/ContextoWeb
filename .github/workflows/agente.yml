@@ -165,7 +165,14 @@ jobs:
         run: |
           git config user.name "agente-contexto"
           git config user.email "agente@users.noreply.github.com"
-          git add articles.json hemeroteca.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json agent/category_streak.json articulo sitemap.xml robots.txt revista feed.xml historico.csv
+          # Copia pública de agent/qc_log.json (agregado 16 jul 2026): esa
+          # carpeta está excluida del despliegue en .vercelignore (a
+          # propósito, para no exponer el código del backend), pero
+          # metodologia.js necesita poder leer la bitácora desde el
+          # navegador — por eso se publica esta copia en la raíz, igual
+          # que articles.json/blog.json.
+          cp agent/qc_log.json qc_log.json 2>/dev/null || true
+          git add articles.json hemeroteca.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json agent/category_streak.json qc_log.json articulo sitemap.xml robots.txt revista feed.xml historico.csv
           git diff --cached --quiet || git commit -m "🗞️ Ciclo automático del agente"
           # Reintento con pull --rebase (agregado 16 jul 2026, diagnosticado con
           # el log real de la corrida #24): con 4 workflows empujando a `main`,

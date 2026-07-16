@@ -193,7 +193,12 @@ jobs:
           # testimonios.json desde el cambio a Supabase), y la carpeta ni
           # siquiera existe en el repo — "git add" fallaba con "pathspec
           # did not match any files" y tumbaba este paso completo.
-          git add blog.json revista blog testimonios.json articulo sitemap.xml robots.txt feed.xml historico.csv agent/qc_log.json agent/spend_log.json agent/alert_state.json
+          # Copia pública de agent/qc_log.json (agregado 16 jul 2026) — ver
+          # el comentario largo en agente.yml: .vercelignore excluye toda
+          # la carpeta agent/, pero metodologia.js necesita leer la
+          # bitácora desde el navegador.
+          cp agent/qc_log.json qc_log.json 2>/dev/null || true
+          git add blog.json revista blog testimonios.json articulo sitemap.xml robots.txt feed.xml historico.csv agent/qc_log.json agent/spend_log.json agent/alert_state.json qc_log.json
           git diff --cached --quiet || git commit -m "⚖️ Ciclo de moderación: revista jurídica y reseñas"
           # Reintento con pull --rebase (agregado 16 jul 2026) — mismo motivo
           # que agente.yml: con 4 workflows empujando a `main`, un push que

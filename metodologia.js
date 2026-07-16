@@ -1,11 +1,15 @@
 /* ==========================================================================
    CONTEXTO — metodologia.js
-   Lee agent/qc_log.json (bitácora acotada a las últimas 200 entradas, la
-   misma que ya se comitea en cada ciclo de agente.yml/moderacion.yml) y
-   muestra en vivo cuántas notas/piezas/artículos se aprobaron o rechazaron,
-   por tipo y por categoría, y el promedio de cada criterio de la rúbrica.
+   Lee qc_log.json en la RAÍZ del repo (bitácora acotada a las últimas 200
+   entradas) — copia pública de agent/qc_log.json, publicada ahí porque
+   .vercelignore excluye toda la carpeta agent/ del despliegue (a propósito,
+   ver .vercelignore) y esta página necesita poder leerla desde el
+   navegador. La copia la genera el paso "Publicar cambios" de
+   agente.yml/moderacion.yml (agregado 16 jul 2026 tras detectar que la
+   página siempre mostraba "sin veredictos" en producción).
    Puro cliente, sin llamada nueva a ningún backend — el archivo ya es
-   público (se sirve como cualquier otro archivo estático del repo).
+   público (se sirve como cualquier otro archivo estático del repo, igual
+   que articles.json/blog.json).
    Independiente de app.js, mismo criterio que hemeroteca.js/compass.js.
    Agregada 16 jul 2026 (transparencia del pipeline de control de calidad).
    ========================================================================== */
@@ -134,7 +138,7 @@
     root.innerHTML = html;
   }
 
-  fetch('agent/qc_log.json', { cache: 'no-store' })
+  fetch('qc_log.json', { cache: 'no-store' })
     .then(r => r.ok ? r.json() : { verdicts: [] })
     .then(data => render(Array.isArray(data.verdicts) ? data.verdicts : []))
     .catch(() => render([]));
