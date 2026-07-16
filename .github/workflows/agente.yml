@@ -167,7 +167,28 @@ jobs:
           git config user.email "agente@users.noreply.github.com"
           git add articles.json hemeroteca.json agent/seen_urls.json agent/qc_log.json agent/spend_log.json agent/alert_state.json agent/category_streak.json articulo sitemap.xml robots.txt revista feed.xml historico.csv
           git diff --cached --quiet || git commit -m "🗞️ Ciclo automático del agente"
-          git push
+          # Reintento con pull --rebase (agregado 16 jul 2026, diagnosticado con
+          # el log real de la corrida #24): con 4 workflows empujando a `main`,
+          # dos corridas pueden solaparse — `concurrency` solo serializa
+          # corridas del MISMO workflow, nunca entre workflows distintos (p. ej.
+          # agente.yml vs. moderacion.yml, o incluso dos disparos de agente.yml
+          # si el segundo alcanza a arrancar justo cuando el primero está
+          # terminando). El push del que llega segundo se rechaza
+          # ("! [rejected] ... fetch first") aunque no haya ningún conflicto de
+          # contenido real — antes eso tumbaba el ciclo completo pese a que el
+          # trabajo ya estaba hecho y lo único que faltaba era subirlo.
+          for i in 1 2 3 4 5; do
+            if git push origin main; then
+              break
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "Push rechazado 5 veces seguidas — algo más serio que una carrera normal, se deja fallar el paso."
+              exit 1
+            fi
+            echo "Push rechazado (intento $i/5) — otra corrida empujó primero. Reintentando con pull --rebase…"
+            sleep $(( (RANDOM % 10) + 3 ))
+            git pull --rebase origin main
+          done
 
       - name: Avisar si el ciclo falló (abre o comenta un Issue)
         if: failure()

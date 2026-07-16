@@ -71,7 +71,21 @@ jobs:
           git config user.email "agente@users.noreply.github.com"
           git add agent/social_posted.json
           git diff --cached --quiet || git commit -m "📣 Registro de auto-post a redes sociales"
-          git push
+          # Reintento con pull --rebase (agregado 16 jul 2026) — mismo motivo
+          # que agente.yml/moderacion.yml: con 4 workflows empujando a `main`,
+          # un push que llega segundo se rechaza aunque no haya conflicto real.
+          for i in 1 2 3 4 5; do
+            if git push origin main; then
+              break
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "Push rechazado 5 veces seguidas — se deja fallar el paso."
+              exit 1
+            fi
+            echo "Push rechazado (intento $i/5) — reintentando con pull --rebase…"
+            sleep $(( (RANDOM % 10) + 3 ))
+            git pull --rebase origin main
+          done
 
       - name: Avisar si el ciclo falló (abre o comenta un Issue)
         if: failure()

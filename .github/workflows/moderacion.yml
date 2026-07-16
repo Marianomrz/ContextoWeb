@@ -195,7 +195,23 @@ jobs:
           # did not match any files" y tumbaba este paso completo.
           git add blog.json revista blog testimonios.json articulo sitemap.xml robots.txt feed.xml historico.csv agent/qc_log.json agent/spend_log.json agent/alert_state.json
           git diff --cached --quiet || git commit -m "⚖️ Ciclo de moderación: revista jurídica y reseñas"
-          git push
+          # Reintento con pull --rebase (agregado 16 jul 2026) — mismo motivo
+          # que agente.yml: con 4 workflows empujando a `main`, un push que
+          # llega segundo se rechaza aunque no haya conflicto real de
+          # contenido. Ver el comentario largo en agente.yml para el
+          # diagnóstico completo (corrida real #24 de ese workflow).
+          for i in 1 2 3 4 5; do
+            if git push origin main; then
+              break
+            fi
+            if [ "$i" -eq 5 ]; then
+              echo "Push rechazado 5 veces seguidas — se deja fallar el paso."
+              exit 1
+            fi
+            echo "Push rechazado (intento $i/5) — reintentando con pull --rebase…"
+            sleep $(( (RANDOM % 10) + 3 ))
+            git pull --rebase origin main
+          done
 
       - name: Avisar si el ciclo falló (abre o comenta un Issue)
         if: failure()
