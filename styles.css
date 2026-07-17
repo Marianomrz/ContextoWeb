@@ -2119,7 +2119,17 @@ button {
   place-items: center;
   text-align: center;
   padding: 2rem 1.25rem 5rem;
-  overflow: hidden;
+  /* overflow: clip (no "hidden") a propósito, agregado 17 jul 2026: los
+     blobs decorativos de .cover::before/::after miden 900px/620px de
+     ancho — muy por encima de cualquier celular. "hidden" técnicamente
+     crea un contenedor de scroll (siempre en 0,0, pero un contenedor al
+     fin); en algunas versiones de iOS Safari eso no basta para evitar que
+     el gesto de pan horizontal del usuario recorra ese ancho de más,
+     aunque nunca se vea un scrollbar — confirmado con video real de un
+     iPhone mostrando la portada corrida a la izquierda con una franja en
+     blanco enorme a la derecha. "clip" no crea contenedor de scroll: cero
+     ambigüedad, cero overflow que recorrer.  */
+  overflow: clip;
   isolation: isolate;
   background: radial-gradient(ellipse at top, #0a0a0f 0%, #050506 55%, #020203 100%);
 }
@@ -2321,6 +2331,14 @@ button {
   .js .cover-brand { position: static; }
   .js .cover-brand-spacer { display: none; }
   .js .masthead-title { transform: none; opacity: 1; }
+
+  /* Blobs decorativos más chicos (agregado 17 jul 2026, ver el comentario
+     de "overflow: clip" en .cover más arriba — este es el complemento: aun
+     con la contención arreglada, no hace sentido pintar un blur de 900px
+     en una pantalla de ~390px, cuesta GPU de más sin aportar nada visible
+     distinto a una versión más chica). */
+  .cover::before { width: 480px; height: 480px; margin-left: -240px; }
+  .cover::after { width: 340px; height: 340px; }
 }
 
 /* ==========================================================================
