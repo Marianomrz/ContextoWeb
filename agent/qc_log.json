@@ -1,221 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-16T20:35:43.535571+00:00",
-      "title": "El particular posteo de Messi que enciende la ilusión de Argentina en el Mundial: ¿cábala o increíbl",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero la falta de fuentes verificables para varios detalles reduce su puntuación de veracidad, aunque en conjunto mantiene una buena calidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:35:47.755075+00:00",
-      "title": "Amazon México: Cámara de vigilancia Tapo TP-Link TC70 con Wi-Fi en menos de 400 pesos; aprovecha el ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la verificación de cifras y aportar fuentes más explícitas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:35:54.479601+00:00",
-      "title": "Estados Unidos lanza una nueva serie de ataques contra Irán",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra buena estructura y actualidad, pero falla gravemente en la veracidad y la diversidad de fuentes, lo que compromete su idoneidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:35:59.262309+00:00",
-      "title": "EU modificará la normativa sobre visas para estudiantes extranjeros y periodistas",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actual, pero la falta de fuentes contrastantes limita su profundidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:37:36.479014+00:00",
-      "title": "¿Miente la DEA o miente Sheinbaum?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-07-16T20:37:40.887557+00:00",
-      "title": "Esta nueva app para iPhone convierte tu carrete de fotos en vídeos para TikTok",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información clara, actual y objetiva; sólo se sugiere añadir fuentes verificables para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:37:45.917004+00:00",
-      "title": "¿Quién es Masad Altamimi, noveno habitante de La casa de los famosos México?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere reforzar la verificación de cifras como el número de seguidores.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:40:31.934970+00:00",
-      "title": "La final del Mundial entre Argentina y España en Nueva York bate récords: el partido más caro de la ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero la falta de fuentes verificables y de contraste real de fuentes reduce su puntuación en veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:40:35.441153+00:00",
-      "title": "HRW exige a la FIFA guardar minuto de silencio en la final del Mundial por muerte de dos migrantes p",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero carece de verificación de hechos y de fuentes contrastadas, además de presentar un sesgo evidente; necesita corroboración y mayor neutralidad antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:40:39.442212+00:00",
-      "title": "7.600 hectáreas quemadas y un millar de evacuados: el balance de un incendio sin control que abre es",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y apto para publicación, aunque beneficiaría de referencias explícitas que respalden los números presentados.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:40:44.217137+00:00",
-      "title": "Infectólogo Alejandro Macías advierte sobre brote de ciclosporiasis que podría llegar a México",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste de fuentes, objetividad, actualidad y estructura, apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:40:49.087915+00:00",
-      "title": "Eli Lilly concentra 50% de su inversión en investigación clínica en obesidad y diabetes en México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido, con buena objetividad y actualidad, aunque le falta mayor respaldo de fuentes para los datos estadísticos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T20:42:24.869878+00:00",
-      "title": "Alemania devolverá a familia judía un busto de Picasso expoliado por el nazismo",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, pero necesita mayor diversidad de fuentes para reforzar la credibilidad y el contraste de perspectivas.",
-      "error": null
-    },
-    {
       "at": "2026-07-16T20:42:29.966940+00:00",
       "title": "Sonrisas y relajación: las imágenes de la primera práctica de Argentina tras llegar a la final del M",
       "kind": "noticia",
@@ -3386,6 +3171,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere reforzar la verificación de cifras y ampliar la gama de fuentes para mayor profundidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:20:37.190473+00:00",
+      "title": "México tiene la oportunidad de capitalizar la imagen de buen anfitrión en grandes eventos: Deloitte",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual, pero en general cumple con los estándares de objetividad, actualidad y estructura.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:20:41.902972+00:00",
+      "title": "Trump cuestiona la integridad del sistema electoral; promete divulgar documentos sobre presunta inje",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría mejorar la evidencia directa y ampliar la variedad de fuentes para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:20:47.339108+00:00",
+      "title": "Somos México y PAN reaccionan a arresto de Ernesto 'N'; exigen su liberación inmediata",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura de pirámide invertida, pero presenta deficiencias en veracidad, contraste de fuentes y objetividad, lo que reduce su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:20:53.900533+00:00",
+      "title": "OnePlus cierra operaciones en EE.UU. y Europa esta semana: el fin de una marca que quería ser la cám",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma clara, reciente y equilibrada, pese a la falta de citas directas verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:20:59.504151+00:00",
+      "title": "Irán amenaza con \"destruir todo lo que estaba intacto\" si EE. UU. ataca infraestructura iraní",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares editoriales, aunque podría reforzar la verificación con citas específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:06.958702+00:00",
+      "title": "Juan Manuel Vázquez: El último de la banca",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual y en gran medida veraz, pero muestra sesgo evidente y falta de fuentes contrastantes, lo que reduce su objetividad y robustez informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:11.451269+00:00",
+      "title": "Aprueban 145 millones de pesos para obras hidráulicas en Morelos",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, ofreciendo una noticia clara y actual basada en una fuente confiable.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:17.428956+00:00",
+      "title": "Carso compra parte de TotalEnergies para explorar Golfo de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, contrastada, objetiva y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:23.938334+00:00",
+      "title": "Julián Quiñones, Gil Mora y Raúl Jiménez son homenajeados en mural de Ensenada tras el Mundial 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta información reciente pero con baja veracidad y escaso contraste de fuentes; necesita mayor corroboración y fuentes múltiples para cumplir con los estándares de calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:28.901090+00:00",
+      "title": "Apple Intelligence llega a China con aprobación regulatoria: Baidu y Alibaba serán los modelos detrá",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "La nota es actual y objetiva, pero la falta de fuentes verificables y de contraste de voces reduce su calidad periodística.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:33.940049+00:00",
+      "title": "Niños palestinos piden a la FIFA salvar la única cancha de fútbol de su aldea",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "La pieza es o y está bien estructurada, pero necesita fuentes más equilibradas y reducir el lenguaje sesgado para alcanzar la objetividad requerida.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:38.797725+00:00",
+      "title": "Atlante regresa a la Liga Mx tras 12 años",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero su falta de verificación y de fuentes múltiples compromete la fiabilidad y el equilibrio editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T02:21:41.900094+00:00",
+      "title": "Xi Jinping presentará la visión de China sobre el desarrollo y la regulación de la IA",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura precisa, equilibrada y oportuna del tema.",
       "error": null
     }
   ]
