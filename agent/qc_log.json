@@ -1,221 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T13:41:21.606877+00:00",
-      "title": "España va a encadenar tres olas de calor en seis semanas. AEMET lo tiene claro: ya no es una ola, es",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ':' delimiter: line 10 column 172 (char 352)"
-    },
-    {
-      "at": "2026-07-17T13:41:26.869400+00:00",
-      "title": "Ortega Smith se despide con reproches de Abascal y pasa al Grupo Mixto del Congreso",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con la mayoría de los criterios de calidad, aunque carece de fuentes contrastantes que enriquecerían la cobertura del conflicto interno de Vox.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:41:30.079852+00:00",
-      "title": "Los influencers Dominik Armenta y Alfredo Valenzuela cumplen apuesta “solo para adultos” tras elimin",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es objetivo y actual, pero carece de verificación y fuentes múltiples, lo que afecta su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:41:34.230028+00:00",
-      "title": "Panini y el capitalismo social del Mundial",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es razonablemente útil y actual, aunque necesita fuentes más diversas y verificables para reforzar su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:41:37.762652+00:00",
-      "title": "La mañanera de Sheinbaum, 17 de julio, minuto a minuto",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado adecuadamente, pero la falta de verificación de datos específicos y la ausencia de fuentes contrastantes reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:41:43.270818+00:00",
-      "title": "Si la pregunta es si algo puede caldear la final del Mundial, la respuesta es sí: cánticos argentino",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es informativo y está estructurado adecuadamente, pero la falta de fuentes verificables y la dependencia de un medio no especializado en política reducen su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:41:48.240800+00:00",
-      "title": "¿Es Messi mejor que Maradona y Pelé? Los argumentos que sitúan al jugador en la cima del fútbol",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 8,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta información no verificable sobre un evento futuro y le falta contraste de fuentes en un tema polémico, aunque mantiene una estructura clara y tono objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:41:51.650671+00:00",
-      "title": "Oficial: Lista completa de confirmados para ‘La Casa de los Famosos México’ 2026",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la falta de precisión en la temporada/año y la escasa diversidad de fuentes reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:41:54.162593+00:00",
-      "title": "Baréin, Kuwait y Catar aseguran haber sido blanco de ataques iraníes",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando una información veraz, reciente y estructurada de forma clara y objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:42:00.691289+00:00",
-      "title": "Mundial 2026 dejaría una derrama de 2,543 mdd en México: Deloitte",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando datos precisos, fuentes contrastadas y una estructura clara.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:00:34.977365+00:00",
-      "title": "Pequeños destellos: la magia de Lydia Davis y la ficción breve",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza interesante y bien estructurada, lista para publicación con pequeñas mejoras estilísticas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:00:39.111716+00:00",
-      "title": "¿Qué es el efecto Jevons?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una pieza informativa, bien estructurada y basada en fuentes fiables.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:00:42.812813+00:00",
-      "title": "Taco Bell retira lechuga de México de sus restaurantes en EU;  brote de \"diarrea explosiva\" está rel",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, entregando una noticia veraz, bien contrastada y estructurada de manera clara y objetiva.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T14:00:49.604157+00:00",
       "title": "México enfrenta un nuevo panorama global: diversificar sus alianzas con EEUU y países asiáticos será",
       "kind": "noticia",
@@ -3388,6 +3173,221 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con la mayoría de los estándares de calidad, aunque la objetividad podría mejorarse incorporando más voces críticas directamente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:20:37.101922+00:00",
+      "title": "Cuando el recuerdo se cuece: literatura y exilio en la mesa",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.0,
+      "scores": {
+        "originalidad_creatividad": 6,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 5,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "En general es una pieza atractiva y bien escrita, aunque la inclusión de obras aparentemente ficticias debilita su originalidad y cohesión estructural.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:20:41.076477+00:00",
+      "title": "Cortazar: Frustran robo de camión con puercos y desatan balacera en la Panamericana",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura y actualidad, pero necesita fuentes más variadas y verificables para reforzar la veracidad y el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:20:47.029907+00:00",
+      "title": "\"A veces no sé cómo ayudarle\": Marc Cucurella, el jugador de la selección española al que el diagnós",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado en estilo y actualidad, pero la falta de verificación de algunos datos clave afecta su precisión global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:20:53.915895+00:00",
+      "title": "La SEP destaca avances clave en educación e inclusión en el ciclo 2025-2026",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero la ausencia de fuentes contrastantes y de evidencia explícita limita su veracidad y equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:20:58.429335+00:00",
+      "title": "La AFA busca fortalecer su posicionamiento de marca con varios eventos en Nueva York en la previa de",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene datos inexactos y falta de fuentes verificadas, pese a una buena estructura y actualidad; necesita mayor rigor factual y equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:21:02.181700+00:00",
+      "title": "Luce Nueva York sin humo a dos días de la Final",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzar la verificación con citas específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:21:08.848566+00:00",
+      "title": "Fortnite lanza personajes de IA con los que puedes hablar en tiempo real: el 30 de julio sale de exp",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es claro y objetivo, pero la falta de fuentes confiables y la ausencia de contraste de voces reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:21:13.694206+00:00",
+      "title": "Empresario que agredió a recepcionista en Santa Fe estaría ligado a Los Chapitos: aparece en narcovo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente pero presenta escasa variedad de fuentes y falta de objetividad, reduciendo su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:21:18.469350+00:00",
+      "title": "Miles manifiestan en Kiev contra la destitución del ministro de Defensa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 16 column 188 (char 1060)"
+    },
+    {
+      "at": "2026-07-17T20:21:24.525107+00:00",
+      "title": "PlayStation finalmente cobrará en pesos mexicanos tras polémica con Profeco",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presenta la información de forma clara y objetiva, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:21:29.991340+00:00",
+      "title": "Morena defiende detención de Ruffo Appel y rechaza que exista persecución política",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando datos verificables, fuentes contrastadas y un estilo objetivo que respeta la pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:21:36.637874+00:00",
+      "title": "¿Qué acelera realmente el envejecimiento? La ciencia señala al estrés emocional como un enemigo de l",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es objetivo, actual y estructurado correctamente, pero necesita fuentes más concretas y una mayor diversidad de perspectivas para fortalecer su veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:21:40.711445+00:00",
+      "title": "Entregar domicilios en 10 minutos: la difícil realidad de los repartidores en India",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión con datos concretos y ampliar la perspectiva de las empresas y consumidores.",
       "error": null
     }
   ]
