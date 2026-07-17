@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T14:00:49.604157+00:00",
-      "title": "México enfrenta un nuevo panorama global: diversificar sus alianzas con EEUU y países asiáticos será",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, aunque podría reforzarse con citas específicas y fuentes primarias para elevar la veracidad y el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:00:55.509084+00:00",
-      "title": "Reino Unido: Andy Burnham es elegido líder del Partido Laborista y  queda a puertas de convertirse e",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad, lo que compromete su calidad editorial, pese a cumplir con los demás criterios.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:01:00.608015+00:00",
-      "title": "He probado los auriculares abiertos que, una vez que los pruebas, no te los quieres quitar: así son ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple en general con los estándares, aunque muestra cierto sesgo y falta de fuentes externas para contextualizar el mercado.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:01:04.622634+00:00",
-      "title": "La inflación en la zona euro se moderó a 2.8% en junio y a 2.9% en la UE",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística; solo se podría enriquecer con fuentes adicionales para mayor contraste, pero en general es sólido y objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:01:09.942545+00:00",
-      "title": "Atlante vuelve a la Liga MX con derrota; Tigres tropieza frente a Xolos",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de manera clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:20:36.827798+00:00",
-      "title": "Armys debutan viendo la Liga MX y enloquecen con Xolos vs Tigres: “Es naquísimo, me encanta”",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y estructurado, pero la falta de verificación de datos y la escasa diversidad de fuentes limitan su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:20:39.975198+00:00",
-      "title": "La UCO apunta a que la esposa de Cerdán cobró 1.300 euros mensuales de una empresa para la que no tr",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de una noticia objetiva y oportuna, aunque podría mejorar la diversidad de fuentes y reducir ligeramente el lenguaje sugestivo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:20:46.876422+00:00",
-      "title": "La interna que estalló en el vestuario de Inglaterra por las decisiones del entrenador durante la el",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo es oportuno y estructurado, pero la falta de evidencia verificable sobre la supuesta fractura interna reduce su fiabilidad global.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:20:51.918444+00:00",
-      "title": "La china Moonshot presenta Kimi K3, el modelo de IA abierto más grande del mundo",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo es actual y estructurado, pero necesita mayor respaldo de fuentes y verificación de datos para alcanzar un nivel editorial alto.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:20:56.967997+00:00",
-      "title": "Lluvias dejan un muerto, decenas de rescates y severas afectaciones en Sonora; llaman a extremar pre",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere ampliar la variedad de fuentes oficiales para mayor robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T14:21:04.395163+00:00",
-      "title": "Apple Intelligence llega a China con aprobación regulatoria: Baidu y Alibaba serán los modelos detrá",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta información poco verificable y con escaso contraste de fuentes, aunque es actual y está bien estructurado; necesita fuentes más fiables y mayor equilibrio para cumplir con los estándares editoriales.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T14:21:08.035559+00:00",
       "title": "El mexicano Karim López debuta con Memphis Grizzlies en la NBA Summer League",
       "kind": "noticia",
@@ -3388,6 +3201,185 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión con datos concretos y ampliar la perspectiva de las empresas y consumidores.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:14.852575+00:00",
+      "title": "Trump amenaza a Canadá con más aranceles por incendios que afectan a EE. UU.",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta serias deficiencias de veracidad y fuentes, lo que lo hace poco apto para publicación sin una revisión exhaustiva y fuentes fiables.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:19.249988+00:00",
+      "title": "Beca Rita Cetina 2026: así contactarán a las familias para la entrega de tarjetas de primaria",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El contenido cumple con los estándares de precisión, actualidad y objetividad, aunque podría reforzarse con fuentes oficiales adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:25.479443+00:00",
+      "title": "Precios del petróleo suben tras ataques a infraestructuras civiles en Oriente Medio",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero necesita mayor respaldo de datos y fuentes más diversas para mejorar precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:30.991827+00:00",
+      "title": "Reino Unido: ¿Qué representa Andy Burnham en el Partido Laborista?",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene errores graves de veracidad que comprometen su validez editorial; necesita corrección de hechos y mayor contraste de fuentes antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:34.102043+00:00",
+      "title": "He probado el Huawei Watch Fit 5 Pro: el último gran rival del Apple Watch que brilla por su diseño ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 0.0,
+      "scores": {
+        "actualidad": 0
+      },
+      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:40.260266+00:00",
+      "title": "¿Venganza de Moctezuma? Lechugas mexicanas tras brote de diarrea explosiva en EE.UU.",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, contrastada y objetiva con estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:46.286601+00:00",
+      "title": "Felipe Calderón defiende a Ernesto Ruffo, exgobernador detenido por huachicol, aunque en 2017 lo rel",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de estructuración y actualidad, pero contiene imprecisiones factuales y un tono ligeramente tendencioso que reducen su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:50.161470+00:00",
+      "title": "Patrones tienen 90 días para migrar a la e.firma en trámites electrónicos ante el IMSS",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información precisa, actual y estructurada de forma objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:56.094919+00:00",
+      "title": "El Atlético hará historia en la final del Mundial por tercera vez consecutiva",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra problemas graves de veracidad y precisión, aunque cumple con actualidad y estructura; necesita fuentes más confiables y una revisión de hechos antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:29:57.655454+00:00",
+      "title": "He probado el mejor reloj de Xiaomi: diseño elegante y uso de Gemini en la muñeca para plantar cara ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 0.0,
+      "scores": {
+        "actualidad": 0
+      },
+      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T20:30:04.042920+00:00",
+      "title": "Deslave en China deja 8 muertos y 34 desaparecidos; evacuan a más de mil personas",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, con información actual y presentación objetiva, aunque podría reforzar la veracidad con fuentes citadas directamente.",
       "error": null
     }
   ]
