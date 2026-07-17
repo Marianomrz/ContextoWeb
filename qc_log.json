@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-16T21:40:38.842294+00:00",
-      "title": "Bolsa mexicana cierra con pérdidas; acciones de Banorte lideraron las caídas",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de una nota informativa, aunque la falta de fuentes adicionales reduce ligeramente la profundidad del contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:40:44.380862+00:00",
-      "title": "FGR detiene a Ernesto Ruffo, exgobernador panista de BC, por contrabando de gasolina",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete tiene buena estructura y objetividad, pero la falta de verificación de los hechos reduce su fiabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:40:47.592163+00:00",
-      "title": "Fernando Platas ve a México como favorito para ganar medallas en la Copa México",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y estructurada, aunque podría beneficiarse de referencias adicionales para reforzar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:40:52.139669+00:00",
-      "title": "“¿Es Argentina un equipo violento?“: el controvertido informe de un medio francés tras la semifinal ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 4,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra una buena estructura y neutralidad, pero la falta de verificación de hechos futuros y algunas inconsistencias reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:40:57.805113+00:00",
-      "title": "El pasajero que casi sale despedido por la ventanilla de un avión: qué pasó con él y por qué EE. UU.",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es mayormente objetivo y actual, pero contiene imprecisiones que afectan su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:41:01.562639+00:00",
-      "title": "Microsoft parchea 570 vulnerabilidades en un solo Patch Tuesday — récord histórico — y la causa es l",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita fuentes más fiables y contraste de voces, aunque su redacción es objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:41:11.240212+00:00",
-      "title": "Conocimiento a la parrilla: los influencers de la cocina y la alfabetización parcial redefinen Occid",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y tiene una estructura adecuada, pero la falta de fuentes múltiples y la presencia de valoraciones sin atribución reducen su objetividad y precisión factual.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:41:15.795830+00:00",
-      "title": "FGR informa la detención del exgobernador de Baja California, Ernesto Ruffo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando una noticia reciente, clara y mayoramente objetiva, aunque la verificación externa de los datos podría reforzarse.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:41:21.052870+00:00",
-      "title": "Esta es la calidad del aire en CDMX y Edomex este jueves 16 de julio: reporte completo por alcaldías",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, bien contrastada y objetiva, con estructura adecuada y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-16T21:41:27.297315+00:00",
-      "title": "Inauguran distribuidor vial de Parque Residencial Coacalco; buscan desahogar la movilidad en la Vía ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con precisión, fuentes y estructura, aunque la cobertura muestra un sesgo positivo al omitir perspectivas críticas.",
-      "error": null
-    },
-    {
       "at": "2026-07-16T21:41:33.635978+00:00",
       "title": "Madonna sorprendió al rendirse ante La Scaloneta: viralizó un video de Argentina bailando su nuevo h",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en general con los estándares de calidad editorial, aunque la falta de confirmación oficial de los modelos citados reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:20:41.731586+00:00",
+      "title": "Reconocen a Banco Azteca",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares periodísticos, aunque la falta de fuentes específicas para los premios reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:20:46.092217+00:00",
+      "title": "El jugoso sueldo que le ofrecieron a Sylvia Pasquel para entrar a La Casa de los Famosos México 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mayor verificación de datos y fuentes más robustas, aunque mantiene objetividad y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:20:49.611760+00:00",
+      "title": "Macron promete \"tolerancia cero\" contra pirómanos",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y objetivo, pero debería incorporar fuentes y perspectivas adicionales para cumplir con el criterio de contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:20:55.942155+00:00",
+      "title": "Aislinn Derbez le dedica a su madre su nueva película: \"Debe estar feliz en donde esté\"",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la verificación de datos y ampliar la diversidad de fuentes, aunque mantiene una buena objetividad y estructura.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:20:59.857469+00:00",
+      "title": "Meta ahora avisará a los padres de niños que estén hablando con su IA sobre suicidio",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero necesita fuentes más sólidas y equilibradas para reforzar su credibilidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:21:04.235006+00:00",
+      "title": "El viento es lo que nos une en el espacio: Alejandro Escuer",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial para una noticia cultural, ofreciendo información precisa, objetiva y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:21:08.584595+00:00",
+      "title": "Necaxa vence al Atlante con voltereta en el primer partido del Apertura 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes múltiples y la verificación de algunos antecedentes reducen ligeramente la puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:21:14.935838+00:00",
+      "title": "Por qué miles de personas salieron a protestar en Ucrania tras la destitución del ministro de Defens",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete carece de precisión factual y de un contraste de fuentes equilibrado, aunque es actual y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:21:20.303666+00:00",
+      "title": "...Y arremete Harris contra Presidente por su discurso",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la nota es actual y está bien estructurada, necesita mayor verificación de datos y un equilibrio de fuentes para cumplir con los estándares de objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T03:21:23.823017+00:00",
+      "title": "La DGT tiene un mapa más fiable que Google Maps y Waze: se actualiza en tiempo real con cada inciden",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en su mayoría con los estándares editoriales, aunque debería incluir fuentes adicionales para reforzar la comparativa de precisión.",
       "error": null
     }
   ]
