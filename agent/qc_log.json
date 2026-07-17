@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T12:46:32.183975+00:00",
-      "title": "Por qué la IA nos da la razón, aunque estemos equivocados",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado, pero carece de verificación factual y de fuentes contrastadas, lo que lo hace inadecuado para publicación sin una revisión exhaustiva.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:46:36.345893+00:00",
-      "title": "Ya es oficial: Samsung presenta la tecnología de pantalla Flex Titanium que estrenarán sus nuevos mó",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en general con los estándares de calidad periodística, con pequeñas reservas sobre la solidez de la fuente y la ausencia de citas verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:46:41.284705+00:00",
-      "title": "Simón Vargas Aguilar*: Fenómeno de El Niño: riesgo para México",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y bien estructurado, pero necesita fuentes más variadas para reforzar la credibilidad y ofrecer contraste en un tema con implicaciones políticas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:46:47.771373+00:00",
-      "title": "Startup de Alibaba lanza Kimi K3: \"el más grande\" modelo abierto de lenguaje",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero su precisión factual y la falta de fuentes contrastantes reducen la calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:46:54.517125+00:00",
-      "title": "Desaira México cumbre antiterrorista de EU; declaran a dos cárteles mexicanos terroristas",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete contiene errores graves de veracidad que comprometen su fiabilidad, pese a ofrecer fuentes contrastadas y una estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:46:58.413864+00:00",
-      "title": "Desaprender, ¿el nuevo superpoder del talento humano?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con los estándares de calidad editorial, con pequeñas reservas sobre la verificación de cifras específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:00:40.851089+00:00",
-      "title": "El segundo semestre no perdona: 3 decisiones fiscales para tu empresa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos editoriales, con una ligera pérdida de puntos por la ausencia de fuentes múltiples y datos verificables, pero en general es preciso, actual y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:00:45.936611+00:00",
-      "title": "Abelito después de La Casa de los Famosos: entre nuevos proyectos de trabajo, una relación estable y",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque presenta un ligero sesgo positivo y carece de citas específicas para confirmar la veracidad de los hechos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:00:51.279368+00:00",
-      "title": "Irán denuncia ante la ONU \"crímenes de guerra\" de EE.UU. por ataques a infraestructuras civiles",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y actual, pero necesita mayor contraste de fuentes y mayor objetividad para cumplir con los estándares de una noticia equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:00:58.014699+00:00",
-      "title": "Arribo de sargazo a QR es “gravísimo”; diario llegan 9 mil toneladas: Bárcena",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere reforzar la verificación de cifras específicas con fuentes citadas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:01:03.965956+00:00",
-      "title": "OpenAI cambiaría de plan: el primer 'gadget' de los creadores de ChatGPT sería un altavoz inteligent",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo presenta la información de forma clara y reciente, pero su precisión y variedad de fuentes son limitadas, lo que afecta su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T13:01:08.834366+00:00",
-      "title": "Brasil presenta paquete de créditos para el sector rural afectado por los aranceles de Trump",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la precisión factual y ampliar la diversidad de fuentes para ofrecer un panorama más equilibrado, aunque mantiene buena objetividad y estructura.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T13:01:14.276047+00:00",
       "title": "Rendimiento político decreciente",
       "kind": "noticia",
@@ -3392,6 +3188,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, presentando datos verificables, fuentes contrastadas y una redacción objetiva y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:20:32.607353+00:00",
+      "title": "Municipio de Querétaro será sede del InnovaFest",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una noticia reciente y bien estructurada, pero la precisión de datos clave es dudosa, lo que afecta su credibilidad global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:20:36.001541+00:00",
+      "title": "Boleto de entrada a Tulum: cuanto costará entrar a la zona arqueológica y quiénes podrán ingresar gr",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero presenta imprecisiones menores y falta de fuentes oficiales que limitan su veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:20:42.261125+00:00",
+      "title": "Llega ‘Dai Dai’ en español: Shakira calienta motores para la final del Mundial con un adelanto del h",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero contiene datos que no pueden verificarse, lo que afecta su precisión factual.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:20:46.514820+00:00",
+      "title": "Chiapas no cuenta con sistema de alerta de sismos en teléfonos, revela Protección Civil; reportan da",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, y presenta fuentes contrastantes suficientes para el tema.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:20:52.092645+00:00",
+      "title": "El calentamiento global tiene un efecto secundario que no esperábamos: nos está dejando sin sueño",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una noticia o y estructurada, pero su falta de fuentes verificables y de contraste de opiniones reduce su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:20:57.718411+00:00",
+      "title": "El modelo de IA con 2.8 billones de parámetros",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente, objetivo y bien estructurado, pero contiene afirmaciones no verificables sobre la supremacía del modelo, lo que afecta su precisión factual.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:21:03.115135+00:00",
+      "title": "Sinaloa perdió más de mil millones de dólares con la captura de El Mayo Zambada por la violencia, as",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita fuentes más variadas y una mayor precisión en los datos para alcanzar la objetividad y veracidad requeridas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:21:08.535180+00:00",
+      "title": "Científica colombiana recupera el legado del físico francés Jacques Solomon, víctima del nazismo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y objetivo, pero su falta de fuentes múltiples reduce la robustez del contraste informativo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:21:15.020051+00:00",
+      "title": "Archivos difundidos por Trump no concluyen fraude electoral en 2020",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, contraste, objetividad y estructura invertida, y está actualizado para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:21:18.775249+00:00",
+      "title": "Se la cuelan a Apple: suben una foto a su cuenta oficial de Instagram y resulta que el iPhone es fal",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es reciente y objetivo, pero la falta de fuentes verificables y de contraste de fuentes reduce su fiabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:21:23.610066+00:00",
+      "title": "Sismo de 7,3 sacude México y Centroamérica sin dejar víctimas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es sólido y cumple con los estándares de calidad periodística, con solo leves omisiones de contexto adicional.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T19:21:28.207634+00:00",
+      "title": "La FGR reserva hasta 2031 la investigación sobre el asesinato de Héctor Melesio Cuen Ojeda",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y objetivo, pero la escasez de fuentes múltiples limita la robustez del contraste de fuentes.",
       "error": null
     }
   ]
