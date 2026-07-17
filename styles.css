@@ -2332,13 +2332,22 @@ button {
   .js .cover-brand-spacer { display: none; }
   .js .masthead-title { transform: none; opacity: 1; }
 
-  /* Blobs decorativos más chicos (agregado 17 jul 2026, ver el comentario
-     de "overflow: clip" en .cover más arriba — este es el complemento: aun
-     con la contención arreglada, no hace sentido pintar un blur de 900px
-     en una pantalla de ~390px, cuesta GPU de más sin aportar nada visible
-     distinto a una versión más chica). */
-  .cover::before { width: 480px; height: 480px; margin-left: -240px; }
-  .cover::after { width: 340px; height: 340px; }
+  /* Blobs decorativos, tamaño verificado con evidencia real (17 jul 2026):
+     un primer intento a 480px/340px SÍ redujo el desborde pero un video de
+     un iPhone real mostró que TODAVÍA se podía panear horizontalmente una
+     franja angosta — 480px sigue siendo más ancho que el viewport de un
+     celular angosto real (~360-390px), así que "overflow: clip" en .cover
+     no alcanza a ser la única defensa. Estos valores están calculados para
+     jamás desbordar aunque `clip` fallara por completo: .cover::before va
+     centrado (`left: 50%`, heredado) con `margin-left` de exactamente
+     -mitad del ancho, así que en la pantalla angosta real más chica que
+     soporta este sitio (320px, iPhone SE) el blob apenas toca los bordes
+     (320px de ancho = ancho completo del viewport, cero sobrante) en vez
+     de sobrepasarlos. .cover::after (no centrado, `left: -14%` heredado)
+     se achica lo suficiente para que ese -14% de sobrante por la izquierda
+     deje de importar visualmente. */
+  .cover::before { width: 300px; height: 300px; margin-left: -150px; }
+  .cover::after { width: 220px; height: 220px; left: -4%; }
 }
 
 /* ==========================================================================
