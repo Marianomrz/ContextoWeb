@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T12:00:50.141792+00:00",
-      "title": "\"La IA cambia el modo de trabajar y cómo se sienten las personas\": el 30% de los trabajadores se sie",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque la falta de referencias precisas reduce la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:00:54.568113+00:00",
-      "title": "Llegaron 494 mil visitantes a México por el Mundial: Deloitte",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares de claridad y objetividad, aunque debería revisar la coherencia de las cifras proyectadas para mejorar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:00:59.994800+00:00",
-      "title": "De política y cosas peores: razonar y discurrir",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero presenta deficiencias en veracidad completa, falta de fuentes contrastantes y escasa objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:01:04.269718+00:00",
-      "title": "México invierte 213 veces menos que EU en IA, pero las startups aún tienen una oportunidad",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, con una presentación clara y actual; solo se sugiere reforzar la citación de fuentes para alcanzar la máxima precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:01:12.228575+00:00",
-      "title": "Humo de incendios en Canadá se cierne sobre la final del Mundial",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado, pero presenta imprecisiones y falta de fuentes diversificadas que reducen su veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:01:17.001471+00:00",
-      "title": "El nuevo Motorola Edge 70 Max es oficial: apuesta máxima por el rendimiento y con carga magnética co",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, pese a la falta de fuentes explícitas para algunos datos técnicos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:01:21.937607+00:00",
-      "title": "De la gesta del 89...  a su detención",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura, pero necesita más fuentes y mayor equilibrio para ser totalmente objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:01:26.624348+00:00",
-      "title": "Narcotransformación",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo es reciente pero muestra deficiencias en veracidad, contraste de fuentes y objetividad, lo que reduce su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:01:30.546724+00:00",
-      "title": "Más de 1.8 millones de argentinos viven fuera de su país y México queda fuera del top 10",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actualizado, pero necesita mayor respaldo de fuentes y contraste de perspectivas para alcanzar la excelencia editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:01:37.136127+00:00",
-      "title": "Kim Jong Un recibe a un alto cargo chino en Pyongyang",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y objetivo, pero la ausencia de datos específicos y de fuentes múltiples reduce su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:20:39.725634+00:00",
-      "title": "El cobre cae y se encamina a un descenso semanal por tensiones en Oriente Medio: ¿A cuánto cotiza?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Cumple en gran medida con los criterios de objetividad y actualidad, pero la falta de datos concretos y de fuentes complementarias reduce su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T12:20:44.969438+00:00",
-      "title": "China tiene un plan para ganar a EEUU la guerra de la IA. Y DeepSeek es su campeón",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y bien estructurado, pero la precisión de datos y la ausencia de perspectivas contrastantes reducen su calidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T12:20:48.845096+00:00",
       "title": "Esta es la última actualización del avance del Metrobús este 17 de julio",
       "kind": "noticia",
@@ -3392,6 +3188,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, presentando una información precisa, reciente y estructurada, aunque podría beneficiarse de una mayor variedad de fuentes analíticas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:00:38.735845+00:00",
+      "title": "1Password deja que Claude use tus contraseñas sin verlas nunca: arquitectura de exposición cero para",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es informativo y objetivo, pero la falta de fuentes sólidas y de referencias verificables limita su puntuación en precisión y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:00:42.975258+00:00",
+      "title": "Capelli Sport: La empresa familiar detrás del jersey de Cabo Verde",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita fuentes más robustas y datos verificables para mejorar su credibilidad, aunque mantiene una estructura clara y un tono objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:00:45.651163+00:00",
+      "title": "Reportan muerte de Mauro, hijo mayor de Aylín Mujica: esto se sabe",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta problemas de veracidad y falta de fuentes fiables, aunque mantiene objetividad y una estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:00:51.177692+00:00",
+      "title": "Nueva Jersey reclama parte de los USD 11 millones que la FIFA espera recaudar con la venta del céspe",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita corregir datos inexactos y reforzar sus fuentes, pero su estructura y tono son adecuados para una noticia objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:00:59.748612+00:00",
+      "title": "Lanza en astillero",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando una pieza informativa y objetiva sobre un ensayo literario reciente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:01:04.123160+00:00",
+      "title": "Boyas fronterizas se desprenden ante creciente del río Bravo; cierran puentes internacionales ante r",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de veracidad, objetividad y estructura, pero necesita mayor diversidad de fuentes para fortalecer el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:01:09.643415+00:00",
+      "title": "Denuncias de violencia y problemas de salud mental: lo que se conoce del agente de ICE que disparó a",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero carece de verificación factual y de fuentes contrastadas, y muestra sesgo crítico que afecta su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:01:14.189562+00:00",
+      "title": "Europa se encamina a aprobar la venta de Electronic Arts a un fondo saudí",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero necesita mayor verificación de datos y fuentes más diversas para alcanzar un estándar editorial más alto.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:01:18.304890+00:00",
+      "title": "Del archivo al aula: papel reciclado del Gobierno del EdoMéx se convertirá en libros de texto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, aunque podría reforzar la verificación de cifras y ampliar la pluralidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:01:24.424411+00:00",
+      "title": "México sí recibió invitación para cumbre contra terrorismo de extrema izquierda en EEUU: Sheinbaum r",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra una cobertura reciente y estructurada, pero carece de evidencia verificable y de contraste de fuentes suficiente para una completa precisión factual.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:01:27.684795+00:00",
+      "title": "Esposa de colombiano asesinado por ICE lo recuerda como un padre dedicado; \"quisiera que me dijera: ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de una noticia objetiva y actual, aunque podría reforzar la verificación de citas y fuentes específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-17T18:01:32.811071+00:00",
+      "title": "Última hora de los incendios forestales, en directo | El incendio de Orés (Zaragoza) amenaza el casc",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando una información veraz, objetiva y actual, con buena estructuración.",
       "error": null
     }
   ]
