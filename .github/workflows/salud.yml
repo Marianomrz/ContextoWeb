@@ -1,0 +1,87 @@
+name: Salud del sistema — diagnóstico semanal
+
+# Agente de SOLO LECTURA (agregado 16 jul 2026): nunca escribe código,
+# nunca hace push, nunca toca ningún archivo público del portal. Junta las
+# bitácoras que ya producen agente.yml/moderacion.yml (qc_log.json,
+# spend_log.json, category_streak.json) más el historial reciente de
+# GitHub Actions, y le pide a un LLM UNA sola vez por semana que escriba
+# un diagnóstico en español con recomendaciones priorizadas. El resultado
+# se publica como un Issue nuevo — es para Mariano, no para los lectores.
+#
+# Filosofía (ver conversación del 16 jul 2026, y el docstring de
+# agent/salud.py): un agente que reescribe código de producción SIN
+# supervisión es demasiado riesgo para un proyecto sin tests/CI real. Si
+# en el futuro se agrega una fase que proponga cambios de código, esa fase
+# debe abrir un Pull Request para revisión humana — nunca push directo a
+# main, ni siquiera desde este agente.
+#
+# Presupuesto: reutiliza la bolsa "moderation" (bajo volumen, no urgente —
+# mismo criterio que jurídica/reseñas), 1 llamada por corrida como mucho.
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"    # lunes 08:00 UTC — una vez por semana
+  workflow_dispatch:        # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: read
+  issues: write
+  actions: read              # para leer el historial de corridas de los otros workflows
+
+concurrency:
+  group: salud-contexto
+  cancel-in-progress: false
+
+jobs:
+  diagnosticar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar el diagnóstico
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          INCEPTION_API_KEY: ${{ secrets.INCEPTION_API_KEY }}
+          # Mismo interruptor temporal que agente.yml/moderacion.yml — quitar
+          # o cambiar a "anthropic" junto con esos cuando se vuelva a Claude.
+          LLM_PROVIDER: inception
+          GH_TOKEN: ${{ github.token }}
+        run: python agent/salud.py
+
+      - name: Publicar como Issue
+        if: always()
+        id: issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ ! -f agent/salud_ultimo.md ]; then
+            echo "No se generó digest esta corrida (sin datos todavía) — nada que publicar."
+            exit 0
+          fi
+          titulo="📊 Salud del sistema — $(date -u +%Y-%m-%d)"
+          url=$(gh issue create --title "$titulo" --body-file agent/salud_ultimo.md)
+          echo "$url"
+          echo "issue_url=$url" >> "$GITHUB_OUTPUT"
+
+      - name: Avisar por Telegram
+        if: always() && steps.issue.outputs.issue_url != ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            exit 0
+          fi
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d text="📊 Nuevo diagnóstico semanal de Contexto: ${{ steps.issue.outputs.issue_url }}" > /dev/null

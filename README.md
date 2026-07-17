@@ -20,7 +20,8 @@ analiza cada nota con la API de Claude, y publica el resultado.
 ├── feed.xml              RSS de las últimas notas (generado por build_pages.py, requiere SITE_BASE_URL)
 ├── historico.csv         Descarga CSV del histórico de bias_score por nota (generado por build_pages.py)
 ├── metodologia.html      Metodología en números: aprobados/rechazados del QC, en vivo
-├── metodologia.js         Lógica de la página de metodología (lee agent/qc_log.json, independiente de app.js)
+├── metodologia.js         Lógica de la página de metodología (lee qc_log.json en la raíz, independiente de app.js)
+├── qc_log.json            Copia pública de agent/qc_log.json — agent/ está excluido del despliegue por .vercelignore, así que se publica esta copia para que metodologia.js pueda leerla (agregado 16 jul 2026)
 ├── fuentes.html        Panel de fuentes público
 ├── brujula.html        Quiz de autoubicación en el espectro editorial
 ├── compass.js          Lógica de la brújula (independiente de app.js)
@@ -51,24 +52,27 @@ analiza cada nota con la API de Claude, y publica el resultado.
 │   ├── juridica.py       Pipeline de la Revista Jurídica (análisis + dictamen fail-closed)
 │   ├── resenas.py        Pipeline de reseñas de lectores (moderación fail-closed)
 │   ├── supabase_client.py  Cliente REST mínimo para leer/actualizar envíos (jurídica + reseñas)
-│   ├── budget.py         Tope de gasto diario compartido por los 4 agentes
+│   ├── budget.py         Tope de gasto diario compartido por todos los agentes
 │   ├── build_pages.py   Generador de páginas por artículo + sitemap + feed.xml + historico.csv (sin API)
 │   ├── validate_articles.py  Smoke test de articles.json/hemeroteca.json antes de comitear (sin API)
 │   ├── streaks.py         Rachas de categorías en cero ciclos seguidos, para la alerta de Telegram (sin API)
 │   ├── social_post.py     Firma OAuth1 para X + llamadas a la Graph API de Instagram (sin API de IA)
 │   ├── social.py          Orquestador del auto-post: elige la nota, arma el texto, llama a social_post.py
+│   ├── salud.py           Diagnóstico semanal de solo lectura (no modifica código ni hace push)
 │   ├── run_local.sh      Corre un ciclo leyendo la clave de agent/.env (modo manual)
 │   ├── seen_urls.json    Memoria de deduplicación (se crea solo)
 │   ├── qc_log.json       Bitácora de veredictos del QC, incluye "category" desde el 16 jul 2026 (se crea solo)
 │   ├── spend_log.json    Gasto acumulado del día en la API (se crea solo, se reinicia al cambiar el día)
 │   ├── alert_state.json  Qué avisos de presupuesto ya se mandaron hoy, para no repetirlos (se crea solo)
 │   ├── category_streak.json  Ciclos seguidos que lleva cada categoría sin publicar (se crea solo, NO se reinicia por día)
-│   └── social_posted.json    Ids ya posteados en X/Instagram, para no repetir (se crea solo)
+│   ├── social_posted.json    Ids ya posteados en X/Instagram, para no repetir (se crea solo)
+│   └── salud_ultimo.md   Digest de la última corrida de salud.py (transitorio, no se comitea)
 └── .github/workflows/
     ├── agente.yml      Noticias + literatura: ejecución automática cada hora con GitHub Actions
     ├── moderacion.yml   Revista jurídica + reseñas: cada 3 horas (cadencia propia, menor volumen)
     ├── resumen-diario.yml  Resumen diario por Telegram (publicados/rechazados por tipo y categoría, gasto del día): 23:50 UTC
-    └── social.yml        Auto-post a X/Instagram de la nota más reciente sin postear: cada 2 horas
+    ├── social.yml        Auto-post a X/Instagram de la nota más reciente sin postear: cada 2 horas
+    └── salud.yml         Diagnóstico semanal de solo lectura: publica un Issue, lunes 08:00 UTC
 ```
 
 ## Cómo funciona el agente
@@ -369,6 +373,27 @@ original (misma regla de derechos de autor de todo el proyecto).
 
 Alternativas: un VPS con `cron` (`*/30 * * * * python /ruta/agent/agent.py`),
 o servicios como Railway/Render con un worker.
+
+### Salud del sistema — diagnóstico semanal de solo lectura (agregado 16 jul 2026)
+
+`salud.yml` corre una vez por semana (lunes 08:00 UTC) y NUNCA modifica
+código ni hace push — junta lo que `agente.yml`/`moderacion.yml` ya
+comitean (`agent/qc_log.json`, `agent/spend_log.json`,
+`agent/category_streak.json`) más el historial reciente de corridas de los
+otros workflows vía la API de GitHub Actions, calcula métricas reales, y
+le pide a Fable 5 (mismo criterio de costo que la pieza literaria y el QC
+de jurídica/reseñas: 1 llamada/semana es volumen bajísimo, así que el
+modelo más caro/capaz sale barato) un diagnóstico en español con
+recomendaciones priorizadas. El resultado se publica como un **Issue
+nuevo** cada corrida — es para ti, no para los lectores del portal, no
+toca ningún archivo público. Si tienes Telegram configurado, también
+manda un aviso corto con el link al Issue.
+
+Es deliberadamente de solo lectura: no propone ni aplica cambios de código
+por sí solo. Si algún día se agrega una fase que sí proponga cambios, esa
+fase debe abrir un Pull Request para que lo revises y apruebes — nunca un
+push directo a `main`, ni siquiera desde este agente. Detalle completo del
+razonamiento en el docstring de `agent/salud.py`.
 
 ### Docker para desarrollo local (opcional, agregado el 10 jul 2026)
 
@@ -767,7 +792,7 @@ reflexiones. Estas piezas:
 | Cuántas candidatas analiza por ciclo antes de rendirse (freno contra el timeout de Actions) | `MAX_ANALYSIS_ATTEMPTS` |
 | Cuántas notas viven en el portal | `MAX_ARTICLES_KEPT` |
 | Cuántas entradas por feed se leen (no cuesta API) | `parsed.entries[:25]` en `fetch_new_entries()`, `agent/agent.py` |
-| Tope de gasto diario (los 4 agentes) | `DAILY_BUDGET_USD` en `agent/budget.py` |
+| Tope de gasto diario (compartido por todos los agentes) | `DAILY_BUDGET_USD` en `agent/budget.py` |
 | Criterios del análisis de sesgo | `ANALYSIS_SYSTEM_PROMPT` |
 | Categorías del portal | `VALID_CATEGORIES` + botones en `index.html` |
 | Umbrales del control de calidad | `APPROVAL_THRESHOLD`, `MIN_CRITERION`, `MAX_AGE_DAYS` en `agent/quality.py` |
@@ -775,6 +800,8 @@ reflexiones. Estas piezas:
 | Modelos usados | `ANALYSIS_MODEL` / `LITERATURE_MODEL` en `agent.py`; `NEWS_QC_MODEL` / `LIT_QC_MODEL` / `JUR_QC_MODEL` / `RESENA_QC_MODEL` en `quality.py` |
 | Umbral de aviso de presupuesto (% del tope diario) | `threshold` en `budget.budget_warning_needed()` (80% por defecto) |
 | Hora del resumen diario de Telegram | `cron:` en `.github/workflows/resumen-diario.yml` (23:50 UTC por defecto) |
+| Frecuencia del diagnóstico de salud del sistema | `cron:` en `.github/workflows/salud.yml` (lunes 08:00 UTC por defecto) |
+| Ventana de análisis de confiabilidad de workflows | `WINDOW_DAYS` en `agent/salud.py` |
 | Proveedor de LLM (Anthropic ↔ Inception/Mercury) | `LLM_PROVIDER` en `agent/.env` (local) o en el `env:` de `agente.yml`/`moderacion.yml` (producción) |
 | Umbral de la alerta de categoría en cero (ciclos seguidos) | `ZERO_STREAK_ALERT_THRESHOLD` en `agent/streaks.py` (24 por defecto) |
 | Cuántas notas trae el RSS | `RSS_MAX_ITEMS` en `agent/build_pages.py` (30 por defecto) |
