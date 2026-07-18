@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-07-18T04:01:28.915635+00:00",
+  "generated_at": "2026-07-18T04:21:16.412337+00:00",
   "articles": [
+    {
+      "id": "abdd6066bd19",
+      "title": "Activan doble alerta por lluvias fuertes en 9 alcaldías de CDMX; tres demarcaciones se encuentran en color naranja",
+      "summary": "La Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México activó alertas naranja y amarilla por lluvias intensas en nueve alcaldías, recomendando a la población tomar precauciones como usar paraguas y evitar zonas inundadas.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/activan-doble-alerta-por-lluvias-fuertes-en-9-alcaldias-tres-demarcaciones-se-encuentran-en-color-naranja/",
+      "published_at": "2026-07-18T03:40:13+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el pronóstico y las recomendaciones oficiales sin usar lenguaje cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El artículo se centra en la alerta climática y las medidas de seguridad pública, dejando de lado cualquier discusión sobre el cambio climático o la gestión política de desastres.",
+      "focus_tags": [
+        "alerta climática",
+        "seguridad pública",
+        "Ciudad de México"
+      ],
+      "context": [
+        {
+          "label": "Estacionalidad de lluvias",
+          "text": "Durante la temporada de lluvias, la Ciudad de México suele registrar precipitaciones intensas que pueden generar inundaciones y deslizamientos, razón por la cual la autoridad de riesgos activa alertas con frecuencia."
+        },
+        {
+          "label": "Competencias de la SGIRPC",
+          "text": "La Secretaría de Gestión Integral de Riesgos y Protección Civil es la dependencia encargada de monitorear riesgos naturales y emitir alertas para proteger a la población en la capital mexicana."
+        },
+        {
+          "label": "Cobertura de medios",
+          "text": "Otros medios locales también informaron sobre la alerta, enfatizando la necesidad de que los residentes mantengan limpias las alcantarillas y eviten transitar por áreas vulnerables."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4b77f29b786c",
+      "title": "La guerra de Ucrania castiga a las minorías y a los pobres de Rusia",
+      "summary": "La guerra de Ucrania, iniciada por el presidente ruso Vladímir Putin, está generando un impacto desproporcionado en las minorías y en la población pobre de Rusia, según indica el titular.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/internacional/2026-07-18/la-guerra-de-ucrania-castiga-a-las-minorias-y-a-los-pobres-de-rusia.html",
+      "published_at": "2026-07-18T03:40:00+00:00",
+      "bias_score": -30,
+      "bias_reason": "El lenguaje emotivo ('castiga') y la elección de centrar la noticia en el sufrimiento de grupos vulnerables de Rusia, sin mencionar a Ucrania ni a los responsables directos del conflicto, reflejan una postura crítica hacia el gobierno ruso típica de medios de tendencia izquierda.",
+      "focus_analysis": "El medio opta por un ángulo humanitario y social, resaltando los efectos sobre las minorías y los pobres en Rusia, mientras omite el contexto militar y la perspectiva ucraniana.",
+      "focus_tags": [
+        "impacto social",
+        "población vulnerable",
+        "conflicto bélico"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del conflicto",
+          "text": "La invasión rusa de Ucrania comenzó en febrero de 2022 bajo la dirección del presidente Vladimir Putin, desencadenando una guerra que ha causado miles de muertos y desplazados en ambos países."
+        },
+        {
+          "label": "Desigualdad en los efectos de la guerra",
+          "text": "Informes de organizaciones internacionales, como la ONU, señalan que los conflictos armados tienden a afectar más gravemente a las comunidades de bajos ingresos y a los grupos étnicos minoritarios."
+        },
+        {
+          "label": "Situación económica interna de Rusia",
+          "text": "Las sanciones internacionales y la política interna han incrementado la inflación y la escasez de bienes básicos, empeorando la situación de los sectores más vulnerables de la población rusa."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 7.2
+      }
+    },
+    {
+      "id": "c2cb7feff898",
+      "title": "Intensas lluvias en Chile dejan 4 muertos y múltiples inundaciones",
+      "summary": "Intensas lluvias en la región de Biobío y otras zonas de Chile provocaron cuatro muertes, inundaciones y cortes de carreteras, mientras el presidente José Antonio Kast visitó la zona y las principales minas de cobre operaron bajo restricciones.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/intensas-lluvias-chile-dejan-4-muertos-multiples-inundaciones-20260717-823859.html",
+      "published_at": "2026-07-18T02:03:54+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto enfatiza la respuesta institucional y el impacto económico en la minería, citando al presidente y a empresas mineras, mientras reduce la cobertura de la tragedia humana, lo que indica un sesgo ligeramente a la derecha económicoista.",
+      "focus_analysis": "El medio se centró en el ángulo institucional y económico (operaciones mineras, visita presidencial, gestión de emergencias), dejando en segundo plano la dimensión humana y el sufrimiento de los afectados.",
+      "focus_tags": [
+        "economía",
+        "infraestructura",
+        "desastres naturales"
+      ],
+      "context": [
+        {
+          "label": "Clima y vulnerabilidad de Chile",
+          "text": "Chile posee una geografía que lo hace propenso a fenómenos climáticos extremos, especialmente en la zona sur, donde fuertes lluvias y vientos pueden generar inundaciones y deslizamientos."
+        },
+        {
+          "label": "Importancia del sector minero",
+          "text": "El país es el mayor productor mundial de cobre y también extrae litio; cualquier interrupción en las minas del centro‑sur, como la suspensión parcial de operaciones de Codelco y otras compañías, tiene repercusiones económicas significativas."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios, como La Jornada, destacaron la intensidad de los vientos (hasta 180 km/h) y la afectación de la población, reportando tres fallecidos y cientos de miles de hogares sin energía, resaltando el impacto humano más que el económico."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "62ad23729ceb",
+      "title": "SSN reporta casi 140 réplicas tras terremoto de 7.4 grados en Chiapas (FOTOS)",
+      "summary": "El Servicio Sismológico Nacional de México registró 137 réplicas tras el terremoto de magnitud 7.4 que sacudió la zona de Ciudad Hidalgo, Chiapas, sin víctimas mortales iniciales, aunque se reportó una mujer gravemente herida. El gobernador Eduardo Ramírez suspendió labores en la administración estatal y la presidenta Claudia Sheinbaum informó que, tras inspecciones, no se habían detectado daños materiales significativos.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/sismos-mexico-ssn-reporta-casi-140-replicas-tras-terremoto-de-7.4-grados-en-chiapas-fotos-20260717-0208.html",
+      "published_at": "2026-07-18T04:06:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y se basa en declaraciones oficiales y datos del SSN, sin usar lenguaje cargado ni presentar críticas, lo que indica una cobertura centrada y sin sesgo evidente.",
+      "focus_analysis": "El artículo se centra en la descripción técnica del sismo y la respuesta institucional del gobierno, dejando de lado testimonios personales y análisis de posibles fallas en la gestión del desastre.",
+      "focus_tags": [
+        "sismo",
+        "respuesta gubernamental",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "México se ubica entre los países con mayor actividad sísmica del mundo, especialmente en los estados del sur como Chiapas, Oaxaca y Guerrero, donde frecuentemente se registran temblores de alta magnitud."
+        },
+        {
+          "label": "datos comparables",
+          "text": "En eventos sísmicos anteriores, como el terremoto de 7.1 en 2020, las autoridades mexicanas también activaron alertas de tsunami y desplegaron a la Guardia Nacional para apoyar en tareas de rescate y evaluación de daños."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "Otros medios, como El Universal, señalaron que Protección Civil reportó daños en varios municipios y que los militares mantuvieron presencia en la zona, mientras que paramédicos atendieron a personas con crisis nerviosas, resaltando un enfoque más centrado en los efectos inmediatos sobre la población."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "fefd285c8708",
+      "title": "Las hipotecas al 100% existen, pero son puntuales, más caras y para perfiles muy solventes",
+      "summary": "En España, los bancos pueden conceder hipotecas que financian el 100 % del precio de la vivienda, pero solo en casos puntuales, a clientes con altos ingresos y con condiciones más onivas y costos mayores que la media del mercado.",
+      "category": "economia",
+      "source_name": "El País América",
+      "source_url": "https://cincodias.elpais.com/mercados-financieros/2026-07-18/las-hipotecas-al-100-existen-pero-son-puntuales-mas-caras-y-para-perfiles-muy-solventes.html",
+      "published_at": "2026-07-18T03:45:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta datos y opiniones de varios expertos y entidades sin usar un cargado, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El artículo se centra en el aspecto económico‑financiero de las hipotecas al 100 %, describiendo riesgos, tipos de interés y requisitos de garantías, mientras deja de lado un análisis profundo de la política pública o de la regulación del sector.",
+      "focus_tags": [
+        "hipotecas 100%",
+        "mercado inmobiliario",
+        "riesgo bancario"
+      ],
+      "context": [
+        {
+          "label": "norma de financiación habitual",
+          "text": "En el mercado español, la práctica estándar de los bancos es financiar hasta el 80 % del precio de compra de una vivienda, obligando al comprador a aportar al menos el 20 % más impuestos y gastos asociados."
+        },
+        {
+          "label": "herencia de la crisis inmobiliaria",
+          "text": "Tras la crisis de 2008, los supervisores financieros españoles reforzaron la vigilancia del endeudamiento, lo que lleva a los bancos a ser más selectivos y a evitar la financiación total de inmuebles para reducir riesgos sistémicos."
+        },
+        {
+          "label": "comparación europea",
+          "text": "En otros países europeos, como Alemania o Francia, también son raras las hipotecas al 100 % y suelen estar reservadas a clientes con garantías sólidas, reflejando una tendencia general de prudencia crediticia en la zona euro."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "53656a979b61",
+      "title": "Nicole Agnesi responde a Aldo Rendón tras “destrozar” su outfit",
+      "summary": "La creadora de contenido mexicana Nicole Agnesi respondió a las críticas del estilista Aldo Rendón sobre su vestimenta en un evento, defendiendo su estilo y señalando que asistió por invitación y que su prioridad es su hija.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/18/nicole-agnesi-responde-a-aldo-rendon-tras-destrozar-su-outfit/",
+      "published_at": "2026-07-18T04:10:45+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono informativo y neutral, sin usar vocabulario cargado ni presentar una perspectiva política; se centra en el conflicto personal entre la influencer y el estilista.",
+      "focus_analysis": "El artículo se centra en la polémica de estilo y la vida personal de la influencer, dejando de lado cualquier análisis sobre la industria de la moda o el impacto social de los comentarios de edad.",
+      "focus_tags": [
+        "moda",
+        "celebridad",
+        "maternidad"
+      ],
+      "context": [
+        {
+          "label": "Perfil de Nicole Agnesi",
+          "text": "Nicole Agnesi es una creadora de contenido digital mexicana de 23 años, madre desde los 21, conocida por compartir en Instagram y TikTok su vida cotidiana, maternidad y estilo de vida."
+        },
+        {
+          "label": "Perfil de Aldo Rendón",
+          "text": "Aldo Rendón es un estilista de moda que participa en el reality show La Casa de los Famosos México y suele ofrecer opiniones sobre la vestimenta de los asistentes a eventos."
+        },
+        {
+          "label": "Contexto de controversias de estilo en México",
+          "text": "En los últimos años, la prensa mexicana ha cubierto varios enfrentamientos entre influencers y profesionales de la moda, donde se debate la presión social, la edad y la percepción del cuerpo femenino."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "f8f1c0965dac",
+      "title": "Fragmentos de porcelana: la literatura de Miyuki Miyabe",
+      "summary": "Un cuenco de porcelana agrietado, sus fragmentos reflejan la luz del amanecer como recuerdos que se escapan de la memoria. En esa ruptura se abre la puerta a la narrativa de Miyuki Miyabe, donde la cotidianidad se desgarra y revela la sombra de lo inesperado.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-07-18T04:20:38.331569+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, bajo el calor de julio, los recuerdos se vuelven más intensos y a veces se rompen como la cerámica bajo el sol. Elegí a Miyabe porque sus historias, como piezas de vidrio, capturan la fragilidad humana y al mismo tiempo la resistencia que surge al recomponerse. Su obra ofrece una ventana a la Japón contemporánea que rara vez se explora fuera de Japón.",
+      "focus_tags": [
+        "ficción contemporánea",
+        "Japón",
+        "siglo XXI"
+      ],
+      "context": [
+        {
+          "label": "Primer paso: biografía",
+          "text": "Miyuki Miyabe nació en Tokio en 1960 y estudió economía antes de dedicarse a la escritura; su trayectoria combina la precisión de la investigación periodística con la sensibilidad de la novela psicológica."
+        },
+        {
+          "label": "Obras recomendadas",
+          "text": "Comienza con \"The Little House\" (1999), una investigación sobre la desaparición de una niña que desentierra secretos familiares; sigue con \"Crossfire\" (2008), donde un caso de fraude financiero se entrelaza con la vida de una madre soltera."
+        },
+        {
+          "label": "Contexto literario",
+          "text": "Miyabe se inscribe en la tradición de la ficción social japonesa, a la vez que incorpora elementos de thriller y de la vida, una una que refleja la complejidad de una sociedad en rápida transformación."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.2
+      }
+    },
     {
       "id": "c8830da4b6e3",
       "title": "Solífugos: arácnidos feroces con mandíbulas gigantes",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "1ac75afe2236",
-      "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Monterrey",
-      "summary": "Infobae México publica la previsión del tiempo para Monterrey el 18 de julio de 2026, indicando una temperatura máxima de 35 °C, mínima de 20 °C, baja probabilidad de lluvia y un nivel UV de hasta 13.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/18/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-monterrey/",
-      "published_at": "2026-07-18T03:00:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos meteorológicos y no emplea lenguaje cargado ni fuentes con sesgo político, manteniéndose neutral.",
-      "focus_analysis": "El artículo se centra exclusivamente en el pronóstico climático y datos técnicos, dejando de lado cualquier dimensión humana, económica o de salud relacionada con el clima.",
-      "focus_tags": [
-        "clima",
-        "pronóstico",
-        "Monterrey"
-      ],
-      "context": [
-        {
-          "label": "clima típico de Monterrey",
-          "text": "Monterrey suele experimentar veranos calurosos con temperaturas que pueden superar los 35 °C y una temporada de sequía conocida como la canícula, mientras que los meses de otoño son los más lluviosos."
-        },
-        {
-          "label": "cambio climático en México",
-          "text": "Expertos advierten que el cambio climático está incrementando la temperatura media y reduciendo la precipitación anual en México, lo que afecta a agricultores y genera más contingencias ambientales en ciudades como Monterrey."
-        },
-        {
-          "label": "cobertura meteorológica en medios",
-          "text": "Los medios mexicanos frecuentemente incluyen secciones de pronóstico del tiempo para informar al público sobre vestimenta, planificación de viajes y riesgos de salud, sin entrar en análisis político."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "e5e5f3f7cc8c",
-      "title": "EE.UU. no bloqueará el retorno de Machado a Venezuela, pero respalda el actual proceso de transición",
-      "summary": "El Departamento de Estado de Estados Unidos declaró que no impedirá el regreso de la líder oposicionista venezolana María Corina Machado, al tiempo que respalda el proceso de reconciliación encabezado por la presidenta interina Delcy Rodríguez y la diputada Dinorah Figuera.",
-      "category": "politica",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/2026/07/16/eeuu-no-bloqueara-retorno-machado-venezuela",
-      "published_at": "2026-07-16T18:34:02+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje descriptivo y cita a funcionarios de EE. UU. y actores venezolanos sin emplear adjetivos cargados ni favorecer a ninguna parte, lo que indica una cobertura neutra.",
-      "focus_analysis": "El artículo se centra en la política exterior de EE. UU. y en el proceso de reconciliación entre el gobierno venezolano y una facción de la oposición, dejando de lado la perspectiva de la base oposicionista y los derechos humanos.",
-      "focus_tags": [
-        "Política internacional",
-        "Proceso de reconciliación",
-        "Venezuela"
-      ],
-      "context": [
-        {
-          "label": "María Corina Machado",
-          "text": "María Corina Machado es una dirigente oposicionista venezolana que fue impedida de participar en las elecciones presidenciales de 2024 y que ha vivido en exilio en EE. UU. mientras lideraba la oposición contra el gobierno de Nicolás Maduro."
-        },
-        {
-          "label": "Relaciones EE. UU.-Venezuela",
-          "text": "Estados Unidos ha mantenido una política de sanciones y presión diplomática contra el gobierno de Maduro, y recientemente ha expresado su intención de no bloquear el retorno de Machado mientras apoya una agenda de reconciliación."
-        },
-        {
-          "label": "Dinorah Figuera y la oposición negociadora",
-          "text": "Según otras coberturas, la diputada Dinorah Figuera encabeza una facción opositora que ha aceptado negociar con el chavismo, lo que explica por qué el proceso de reconciliación está liderado por ella en lugar de Machado."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "0e2f995bed56",
-      "title": "Canícula se acerca a México y tendrá efectos más severos en algunos estados",
-      "summary": "La canícula, el periodo más caluroso del año, se aproxima a México y provocará temperaturas superiores a 40 °C y mayor riesgo de sequía e incendios forestales, especialmente en estados como Nuevo León, Tamaulipas, Veracruz, San Luis Potosí, Guerrero, Oaxaca, Chiapas, Tabasco, Campeche, Yucatán y Quintana Roo.",
-      "category": "sociedad",
-      "source_name": "El Informador (GDL)",
-      "source_url": "https://www.informador.mx/mexico/canicula-se-acerca-a-mexico-y-tendra-efectos-mas-severos-en-algunos-estados-20260717-0175.html",
-      "published_at": "2026-07-18T02:30:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, citando únicamente datos meteorológicos y fuentes oficiales sin emplear vocabulario cargado ni favorecer a ninguna posición política.",
-      "focus_analysis": "El artículo se centra en el aspecto climático y sus consecuencias regionales, omitiendo análisis económicos, de salud pública o de políticas gubernamentales.",
-      "focus_tags": [
-        "clima",
-        "temperaturas extremas",
-        "riesgo de sequía"
-      ],
-      "context": [
-        {
-          "label": "Definición del fenómeno",
-          "text": "La canícula es el periodo del año en que el calor alcanza su mayor intensidad en México, caracterizado por altas temperaturas, escasas lluvias y cielos despejados, y suele ocurrir entre mediados de julio y finales de agosto."
-        },
-        {
-          "label": "Impactos históricos",
-          "text": "En años anteriores, episodios de canícula han provocado sequías temporales, aumento de incendios forestales y problemas de salud como golpes de calor, especialmente en regiones del norte y sur del país."
-        },
-        {
-          "label": "Factores climáticos actuales",
-          "text": "Los meteorólogos atribuyen la severidad de la canícula de 2026 a la intensificación de los vientos alisios y a la influencia de El Niño, que reducen la humedad marina y alteran los patrones de lluvia."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "f38f3d258fbe",
-      "title": "Aumenta cumplimiento de tope voluntario de 27 pesos al diésel, pero 17% de gasolineras no se han sumado",
-      "summary": "El Gobierno de México informó que el 83 % de las estaciones de servicio se han adherido al Acuerdo Voluntario para vender diésel por menos de 27 pesos el litro, aunque un 17 % aún no lo ha hecho, y destacó que el precio promedio nacional del diésel se sitúa en 27.07 pesos por litro.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/economia/aumenta-cumplimiento-tope-voluntario-27-pesos-diesel-17-gasolineras-han-sumado-20260717-823864.html",
-      "published_at": "2026-07-18T02:28:26+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono mayormente neutral, citando al gobierno y a Pemex sin incluir críticas ni opiniones de la oposición, lo que indica una ligera inclinación pro‑gobierno pero sin sesgo marcado.",
-      "focus_analysis": "El medio se centra en el aspecto económico y de política de precios del diésel, resaltando la estabilidad del mercado y la participación de Pemex, mientras que el impacto directo sobre los consumidores de bajos ingresos queda menos desarrollado.",
-      "focus_tags": [
-        "política de precios",
-        "acuerdo voluntario",
-        "diesel"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "En años anteriores, el Gobierno de México había implementado acuerdos voluntarios de precios para el diésel como medida de estabilización, logrando inicialmente una adhesión del 80 % de las estaciones de servicio."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "Según la plataforma PETROIntelligence, el precio promedio nacional del diésel el 17 de julio de 2026 era de 27.07 pesos por litro, ligeramente por el tope de 27 pesos establecido por el acuerdo."
-        },
-        {
-          "label": "Posturas de otros actores",
-          "text": "Pemex respaldó la iniciativa ofreciendo combustibles a precios competitivos y reforzando la seguridad en las estaciones, mientras que algunos analistas del sector privado han señalado que los precios voluntarios pueden ser insuficientes para contener aumentos futuros."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "b3f056aa87e5",
-      "title": "Ese Pérez es el nuevo habitante de La Casa de los Famosos México 2026, pese a rumores de cancelación",
-      "summary": "Jesús Ángel Pérez, conocido como Ese Pérez, se integra como el onceavo concursante de la cuarta temporada de La Casa de los Famosos México 2026, pese a los rumores de cancelación que surgieron tras la eliminación de pistas promocionales en redes sociales.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/18/ese-perez-es-el-nuevo-habitante-de-la-casa-de-los-famosos-mexico-2026-pese-a-rumores-de-cancelacion/",
-      "published_at": "2026-07-18T02:30:28+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del programa y la participación del influencer sin usar un cargado ni mencionar posiciones políticas, manteniendo un tono informativo y de entretenimiento.",
-      "focus_analysis": "El medio se centra en el aspecto de espectáculo y la polémica de los rumores sobre la eliminación de pistas, dejando de lado cualquier análisis sobre el impacto cultural del reality o la crítica a la producción televisiva.",
-      "focus_tags": [
-        "reality TV",
-        "entretenimiento",
-        "influyente digital"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del programa",
-          "text": "La Casa de los Famosos México es la adaptación local del reality internacional, transmitido por Televisa, y en su cuarta temporada cuenta con 15 participantes que compiten por permanecer en la casa."
-        },
-        {
-          "label": "Perfil de Ese Pérez",
-          "text": "Jesús Ángel Pérez, alias Ese Pérez, es un creador de contenido, cantante y comediante originario de la Ciudad de México, con millones de reproducciones en TikTok y YouTube, y amistad pública con el cantante Eduin Caz."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Universal también informó de su incorporación como el onceavo habitante, enfocándose en confirmar su participación sin mencionar los rumores de borrado de pistas que Infobae destacó."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "c585bcd76214",
-      "title": "Humo complica la previa de la final",
-      "summary": "Una densa neblina de humo cubrió las áreas cercanas a New Jersey, complicando los últimos entrenamientos de la selección argentina de fútbol y la selección española de fútbol antes de la final del Mundial 2026 en el MetLife Stadium.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/humo-complica-previa-final-20260717-823865.html",
-      "published_at": "2026-07-18T02:34:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir un hecho meteorológico sin emplear vocabulario cargado ni citar fuentes con sesgo, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centró en el impacto logístico y climático sobre la preparación del partido, dejando de lado el aspecto humano de los jugadores y cualquier repercusión económica del evento.",
-      "focus_tags": [
-        "clima",
-        "preparación de final",
-        "Mundial 2026"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "El Mundial de Fútbol 2026 se celebrará en Norteamérica, y la final está programada para el 18 de julio en el MetLife Stadium de East Rutherford, Nueva Jersey, con Argentina y España como finalistas."
-        },
-        {
-          "label": "Dato comparativo",
-          "text": "En torneos anteriores, condiciones climáticas adversas, como la lluvia intensa en la Copa del Mundo de Brasil 2014, han afectado los entrenamientos y el desempeño de los equipos."
-        },
-        {
-          "label": "Postura de otro actor",
-          "text": "Autoridades locales de salud han advertido que la calidad del aire en la región del noreste de EE. UU. ha empeorado por los incendios forestales en Canadá, lo que genera preocupación entre los organizadores del evento."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "1fdf04cc9511",
-      "title": "Gobierno de CDMX se compromete a entregar apoyos a infancias de personas desaparecidas; les darán becas, vivienda, atención médica y psicológica",
-      "summary": "El Gobierno de la Ciudad de México anunció que ofrecerá becas, vivienda, atención médica y psicológica a los niños y adolescentes que son hijos o nietos de personas desaparecidas, con los primeros recursos disponibles en agosto y septiembre.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/gobierno-de-cdmx-se-compromete-a-entregar-apoyos-a-infancias-de-personas-desaparecidas-les-daran-becas-vivienda-atencion-medica-y-psicologica/",
-      "published_at": "2026-07-18T02:36:03+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y equilibrado, citando tanto a autoridades como a madres buscadoras, sin usar vocabulario cargado ni omitir puntos de vista críticos.",
-      "focus_analysis": "El medio se centra en la dimensión humana y de apoyo social a las infancias afectadas, dejando de lado cualquier análisis de las causas estructurales de la desaparición o la efectividad de la política pública.",
-      "focus_tags": [
-        "apoyo social",
-        "desaparecidos",
-        "política pública"
-      ],
-      "context": [
-        {
-          "label": "situación de desaparecidos en México",
-          "text": "México registra anualmente miles de casos de desaparición forzada, lo que ha generado una creciente presión social y política para atender a las familias y especialmente a los menores que quedan bajo su cuidado."
-        },
-        {
-          "label": "programas previos de apoyo",
-          "text": "Antes de este anuncio, la CDMX había implementado medidas como la creación de la Comisión de Búsqueda de Personas y la entrega de ayuda económica puntual a familias de desaparecidos, aunque sin un esquema integral de educación y vivienda."
-        },
-        {
-          "label": "enfoque de otros medios",
-          "text": "El Sol de México resaltó principalmente el aspecto educativo del programa, describiendo la medida como una forma de garantizar la continuidad escolar de los niños cuyas familias han desaparecido."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
