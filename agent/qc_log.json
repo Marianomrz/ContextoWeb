@@ -1,151 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T21:30:36.044442+00:00",
-      "title": "Un jefe boomer no entendía que sus empleados millennials no quisieran cargos directivos. Ellos tiene",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:30:38.169429+00:00",
-      "title": "Euro hoy en México: cotización de cierre del 17 de julio",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo datos precisos, fuentes fiables y una presentación objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:40:32.529100+00:00",
-      "title": "Festival Eat My Shorts 2026 llevará cine universitario nacional a León con actividades gratuitas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, ofreciendo información actual y bien estructurada, aunque la ausencia de fuentes externas verificables limita ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:40:38.279327+00:00",
-      "title": "Investigan incendios en restaurante y bar de Los Cabos; ocurren con minutos de diferencia",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo le falta una mayor diversidad de fuentes, pero es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:40:44.362275+00:00",
-      "title": "Bolsa mexicana registra moderado avance; corta racha de caídas semanales",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, actual y bien estructurada, con una ligera tendencia pro‑mercado pero sin comprometer la objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:40:50.503177+00:00",
-      "title": "China califica las acusaciones de Trump de injerencia electoral como \"infundadas\"",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste, objetividad, actualidad y estructura, ofreciendo una cobertura informativa adecuada y bien organizada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:40:53.045407+00:00",
-      "title": "Meta se ha puesto a la cabeza de la carrera de los agentes de IA adquiriendo Manus por 2.000 millone",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:40:57.298606+00:00",
-      "title": "Ariadna Montiel y Maru Campos se pelean por soberanía nacional tras audios de Marina del Pilar",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero carece de respaldo verificable y muestra sesgo, lo que afecta su veracidad y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:41:01.227161+00:00",
-      "title": "EU devuelve notas diplomáticas a México; recomienda expresar inconformidades por los canales oficial",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, mostrando precisión y objetividad, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T21:41:07.262704+00:00",
       "title": "Negociaciones con México han producido “numerosos éxitos”: Jamieson Greer",
       "kind": "noticia",
@@ -3330,6 +3185,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es en general sólido y objetivo, aunque podría mejorar la variedad de fuentes para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:40:48.973804+00:00",
+      "title": "La luna derrama su luz sobre la botella de palm‑wine: el viaje de Amos Tutuola",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 8,
+        "voz_autor": 9,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares de calidad editorial, ofreciendo una presentación atractiva y reflexiva del obra de Amos Tutuola.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:40:54.488487+00:00",
+      "title": "Gobierno de CDMX se compromete a entregar apoyos a infancias de personas desaparecidas; les darán be",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, pluralidad de fuentes, objetividad y actualidad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:41:02.980339+00:00",
+      "title": "Humo complica la previa de la final",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y cumple con los criterios de objetividad y actualidad, aunque podría mejorar la precisión con referencias más concretas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:41:09.028370+00:00",
+      "title": "Ese Pérez es el nuevo habitante de La Casa de los Famosos México 2026, pese a rumores de cancelación",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, bien contrastada y objetiva, con una estructura adecuada y actualidad plena.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:41:13.079520+00:00",
+      "title": "La infraestructura civil: ¿el renovado blanco de la guerra entre Estados Unidos e Irán?",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura, pero su falta de verificación factual y de fuentes contrastantes lo hace poco fiable para publicación sin revisión adicional.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:41:17.580184+00:00",
+      "title": "Mundial 2026: Rodri deja un mensaje para Argentina y asegura que no se engancharán con sus provocaci",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de objetividad y actualidad, pero necesita fuentes más diversas y mayor verificabilidad de los datos para alcanzar una calidad editorial óptima.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:41:21.518650+00:00",
+      "title": "Aumenta cumplimiento de tope voluntario de 27 pesos al diésel, pero 17% de gasolineras no se han sum",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares periodísticos, ofreciendo información precisa, contrastada y objetiva de manera oportuna y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:41:26.830158+00:00",
+      "title": "Canícula se acerca a México y tendrá efectos más severos en algunos estados",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y estructura, y mantiene objetividad, pero necesita fuentes más explícitas y contrastadas para reforzar la veracidad y el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T02:41:32.565881+00:00",
+      "title": "EE.UU. no bloqueará el retorno de Machado a Venezuela, pero respalda el actual proceso de transición",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido, con buena objetividad y actualidad, aunque podría mejorar la verificación de fuentes y la inclusión de voces contrastantes.",
       "error": null
     }
   ]
