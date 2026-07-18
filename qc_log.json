@@ -1,189 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-18T00:13:28.720529+00:00",
-      "title": "Cruz Azul y el estadio que nunca llega: la eterna búsqueda de una casa para el campeón mexicano",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "En general el artículo cumple con la actualidad y la objetividad, pero necesita mejorar la precisión de algunos datos y ampliar la variedad de fuentes para ofrecer un contraste más completo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:33.646680+00:00",
-      "title": "Juan Celaya avanza a la final de la Copa México de Clavados; fue segundo en preliminares",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es claro, actual y objetivo, pero la inclusión de un dato probablemente inexacto sobre la participación china reduce su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:39.166123+00:00",
-      "title": "Madre denuncia la muerte de su hija en campamento militarizado de Tamaulipas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y actual, aunque podría reforzar la verificación con citas específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:44.291981+00:00",
-      "title": "China busca encabezar un nuevo orden mundial de la Inteligencia Artificial",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una estructura adecuada y neutralidad, pero necesita mayor rigor en la verificación de datos y fuentes más sólidas para alcanzar una alta precisión factual.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:47.390395+00:00",
-      "title": "He probado el  Samsung Galaxy S25 FE: \"Es el móvil de gama alta que recomendaría a la mayoría de per",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:51.504611+00:00",
-      "title": "El empresario michoacano que convirtió a Cinépolis en el rey del cine y ni Germán Larrea pudo destro",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con precisión y actualidad, pero su falta de perspectiva crítica reduce la objetividad, lo que lo hace aceptable con reservas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:56.611150+00:00",
-      "title": "Tamaulipas entrega apoyos a familias de personas desaparecidas; programa incluye asistencia jurídica",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:20:35.415457+00:00",
-      "title": "Ataques de EU causaron tres muertos y ocho heridos en el sur de Irán: autoridades",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es informativo y reciente, pero la ausencia de fuentes múltiples reduce su robustez en temas de conflicto geopolítico.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:20:40.880476+00:00",
-      "title": "Osmar ‘N’, adolescente que asesinó a dos maestras en preparatoria de Michoacán, recibe sentencia de ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada del hecho.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:20:45.470869+00:00",
-      "title": "Michoacán | Profepa rescata puercoespín lesionado que había perdido un ojo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, objetiva y bien estructurada, con contexto adecuado y sin necesidad de contraste de fuentes en este caso.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:20:54.896754+00:00",
-      "title": "España - Argentina: así se prepara la final del Mundial 2026",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete muestra buena variedad de fuentes y ausencia de sesgo, pero la falta de precisión en los datos compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T00:20:58.519508+00:00",
       "title": "Deportivo Riestra derrotó a San Lorenzo en la tanda de penales y se clasificó a octavos de la Copa A",
       "kind": "noticia",
@@ -3390,6 +3207,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales y puede publicarse con confianza.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:00:40.014996+00:00",
+      "title": "Cuando el tren del tiempo lleva libros en su carga de polvo",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 6,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, pero podría beneficiarse de una narrativa más desarrollada para reforzar su impacto literario.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:00:45.274434+00:00",
+      "title": "Xi reitera a Guterres el compromiso de China con la ONU",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y ofrece una cobertura suficientemente contrastada y objetiva para una noticia de este tipo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:00:49.605297+00:00",
+      "title": "Clima en Guadalajara: pronóstico de lluvias y ráfagas de viento",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo datos precisos y una presentación objetiva, aunque podría reforzarse con una referencia explícita al pronóstico del SMN.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:00:55.163673+00:00",
+      "title": "La huelga en Monte de Piedad cumple 10 meses; usuarios se quejan por falta de notificación oficial y",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero necesita fuentes más diversas y mayor equilibrio para cumplir con los estándares de objetividad y contraste de fuentes en una noticia de conflicto laboral.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:00:58.775869+00:00",
+      "title": "La guerra entró por la ventana y se quedó 40 años: recuerdos del niño al que perseguían las bombas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado pero contiene imprecisiones históricas que reducen su veracidad; en conjunto, cumple con la mayoría de los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:01:02.436367+00:00",
+      "title": "Clima en Ecatepec: temperatura y probabilidad de lluvia para este 18 de julio",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en su y y estructurado, aunque la falta de citas específicas para los datos del pronóstico reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:01:08.837071+00:00",
+      "title": "Sheinbaum acudirá a la final del Mundial en Nueva York; recibe invitación de Trump",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla en precisión y contraste de fuentes, aunque mantiene una estructura adecuada y neutralidad aparente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:01:12.983017+00:00",
+      "title": "Volver a los hechos de la Guerra Civil española",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, con una estructura adecuada, pero muestra sesgo editorial y una cobertura de fuentes limitada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:01:17.968055+00:00",
+      "title": "Clima: las temperaturas que predominarán este 18 de julio en Santiago Ixcuintla",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, actual y objetiva; solo se sugiere diversificar fuentes en futuros artículos de contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:01:23.612988+00:00",
+      "title": "Infantino celebra el Mundial ante la ONU; FIFA destaca unidad global y récord de asistencia del torn",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 7,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en precisión factual, aunque mantiene una estructura adecuada y un tono neutro.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T06:01:27.640255+00:00",
+      "title": "Una paella en China",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de objetividad y actualidad, aunque la falta de datos precisos y fuentes múltiples limita su veracidad y contraste de fuentes.",
       "error": null
     }
   ]

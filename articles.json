@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-07-18T05:52:32.899188+00:00",
+  "generated_at": "2026-07-18T06:01:28.647876+00:00",
   "articles": [
+    {
+      "id": "7254825a40f9",
+      "title": "Una paella en China",
+      "summary": "El artículo de El País América analiza la aparición de la paella en China como una forma de que la sociedad china busca su identidad cultural, destacando que la distancia con las tradiciones del pasado sirve de enseñanza para el presente.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/opinion/2026-07-18/una-paella-en-china.html",
+      "published_at": "2026-07-18T03:30:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y reflexivo sin usar vocabulario cargado ni citar fuentes con sesgo político; se centra en la dimensión cultural más que en polémicas ideológicas.",
+      "focus_analysis": "El medio opta por un enfoque cultural e identitario, resaltando la simbología gastronómica, mientras deja de lado aspectos económicos o políticos de la difusión culinaria.",
+      "focus_tags": [
+        "cultura",
+        "identidad",
+        "gastronomía"
+      ],
+      "context": [
+        {
+          "label": "difusión de la gastronomía mediterránea",
+          "text": "En los últimos años, platos típicos de la cocina mediterránea, como la paella, han ganado popularidad en Asia, impulsados por la globalización y el turismo gastronómico."
+        },
+        {
+          "label": "intercambio cultural chino‑español",
+          "text": "China y España han intensificado sus la culturales, organizando festivales de comida y eventos culinarios que fomentan la adopción de recetas tradicionales de ambos países."
+        },
+        {
+          "label": "debate sobre apropiación cultural",
+          "text": "Algunos analistas señalan que la adopción de platos extranjeros puede generar tensiones sobre la autenticidad cultural, aunque otros lo ven como una oportunidad de innovación gastronómica."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "a02817b87990",
+      "title": "Clima: las temperaturas que predominarán este 18 de julio en Santiago Ixcuintla",
+      "summary": "El pronóstico del Servicio Meteorológico Nacional indica que el sábado 18 de julio en Santiago Ixcuintla, municipio del estado de Nayarit, México, se esperan temperaturas máximas de 33 °C y mínimas de 24 °C, con una probabilidad de precipitaciones del 90 % durante el día y una nubosidad superior al 90 %.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/18/clima-las-temperaturas-que-predominaran-este-18-de-julio-en-santiago-ixcuintla/",
+      "published_at": "2026-07-18T03:16:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta datos meteorológicos de forma objetiva, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El medio se centró en el pronóstico climático y el contexto climático de la región, omitiendo cualquier análisis económico, político o social del fenómeno.",
+      "focus_tags": [
+        "clima",
+        "pronóstico",
+        "cambio climático"
+      ],
+      "context": [
+        {
+          "label": "clima regional",
+          "text": "Santiago Ixcuintla, en el estado de Nayarit, pertenece a la zona de clima cálido húmedo, con una temporada de lluvias marcada entre junio y octubre."
+        },
+        {
+          "label": "clima nacional",
+          "text": "México presenta una gran diversidad climática, con siete tipos de clima que van desde desierto hasta templado, y una temperatura media anual de 19 °C."
+        },
+        {
+          "label": "impacto del cambio climático",
+          "text": "Expertos advierten que el cambio climático está intensificando sequías e inundaciones en México, afectando a agricultores y ciudades principales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
+    {
+      "id": "cae400bd752c",
+      "title": "Volver a los hechos de la Guerra Civil española",
+      "summary": "El periódico español El País América advierte que, a 90 años del inicio de la Guerra Civil, la difusión de información mediada por IA y redes sociales está generando narrativas sesgadas que ponen en riesgo la memoria histórica y la democracia, y llama a historiadores y a la sociedad a construir una memoria compartida basada en hechos verificables.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/opinion/2026-07-18/volver-a-los-hechos-de-la-guerra-civil-espanola.html",
+      "published_at": "2026-07-18T03:30:01+00:00",
+      "bias_score": -35,
+      "bias_reason": "El texto utiliza expresiones críticas hacia los nacional‑populismos y la propaganda franquista, defiende las leyes de memoria histórica y denuncia los intentos de derechas de revocarlas, lo que refleja una postura editorial de izquierda.",
+      "focus_analysis": "El artículo se centra en la dimensión histórica y democrática, resaltando la amenaza de la desinformación y el revisionismo, mientras deja de lado aspectos económicos o sociales del conflicto.",
+      "focus_tags": [
+        "memoria histórica",
+        "guerra civil",
+        "desinformación"
+      ],
+      "context": [
+        {
+          "label": "Ley de Memoria Histórica",
+          "text": "En 2007 el Gobierno español aprobó la Ley de Memoria Histórica, que reconoce a las víctimas del franquismo, elimina símbolos del régimen y facilita la exhumación de fosas comunes."
+        },
+        {
+          "label": "Intentos de revocación",
+          "text": "Partidos de derecha como Vox han propuesto la derogación o modificación de la Ley de Memoria Histórica, argumentando que vulnera la reconciliación nacional."
+        },
+        {
+          "label": "Desinformación digital",
+          "text": "La expansión de la inteligencia artificial y la viralidad en redes sociales ha incrementado la difusión de versiones distorsionadas de hechos históricos, dificultando la construcción de una memoria colectiva fiable."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "b2724660c6e3",
+      "title": "Clima en Ecatepec: temperatura y probabilidad de lluvia para este 18 de julio",
+      "summary": "El pronóstico del tiempo para Ecatepec, municipio del Estado de México, indica una probabilidad de lluvia del 59 % durante el día y temperaturas máximas de 24 °C y mínimas de 13 °C para el 18 de julio.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/18/clima-en-ecatepec-temperatura-y-probabilidad-de-lluvia-para-este-18-de-julio/",
+      "published_at": "2026-07-18T03:17:14+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos sin lenguaje cargado ni selección de fuentes con sesgo; su tono es informativo y neutral.",
+      "focus_analysis": "El medio optó por destacar la información climática concreta (probabilidad de lluvia, temperatura, velocidad del viento), dejando fuera el contexto de problemas ambientales y de calidad del aire que también afectan a Ecatepec.",
+      "focus_tags": [
+        "clima",
+        "temperatura",
+        "lluvia"
+      ],
+      "context": [
+        {
+          "label": "Ubicación y clima típico",
+          "text": "Ecatepec se encuentra en el Valle de México, una zona con clima templado subhúmedo y una media anual de 23 °C, con una temporada lluviosa de mayo a octubre."
+        },
+        {
+          "label": "Calidad del aire y contaminación",
+          "text": "El municipio es uno de los más afectados por la contaminación atmosférica en el Estado de México, debido a su alta densidad poblacional e industrial."
+        },
+        {
+          "label": "Impacto del cambio climático en México",
+          "text": "Expertos advierten que el cambio climático incrementará la temperatura y reducirá las precipitaciones anuales en México, afectando la agricultura y aumentando los eventos extremos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "d1ae10c8e1c4",
+      "title": "Clima en Guadalajara: pronóstico de lluvias y ráfagas de viento",
+      "summary": "El Servicio Meteorológico Nacional indica que el sábado 18 de julio de 2026 Guadalajara, Jalisco, tendrá una temperatura máxima de 27 °C y mínima de 17 °C, con un 55 % de probabilidad de lluvias y ráfagas de viento que alcanzarán los 20 km/h.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/18/clima-en-guadalajara-pronostico-de-lluvias-y-rafagas-de-viento/",
+      "published_at": "2026-07-18T03:17:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos meteorológicos de forma objetiva, sin usar lenguaje cargado ni seleccionar fuentes con sesgo ideológico.",
+      "focus_analysis": "El medio se centra en la información climatológica y los datos del pronóstico, dejando de lado los posibles impactos humanos, económicos o de infraestructura que podrían derivarse de las lluvias y vientos.",
+      "focus_tags": [
+        "clima",
+        "Guadalajara",
+        "pronóstico"
+      ],
+      "context": [
+        {
+          "label": "clima general de México",
+          "text": "México cuenta con una gran variedad de climas, desde zonas áridas en el norte hasta áreas tropicales en el sur, debido a su posición geográfica, altitud y la influencia de los mares Caribe y Pacífico."
+        },
+        {
+          "label": "cambio climático y sus efectos",
+          "text": "Expertos advierten que el calentamiento global está reduciendo la cantidad de lluvia anual y aumentando las temperaturas, lo que genera sequías e inundaciones que afectan a agricultores y ganaderos en todo el país."
+        },
+        {
+          "label": "registros históricos de temperatura",
+          "text": "En México se han documentado extremos como los 58.5 °C registrados en San Luis Río Colorado (1966) y los -25 °C en Madero (1997), ilustrando la amplitud climática del territorio."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
+    {
+      "id": "0d1d03376904",
+      "title": "Xi reitera a Guterres el compromiso de China con la ONU",
+      "summary": "El presidente de China, Xi Jinping, se reunió en Shanghái con el secretario general de la ONU, António Guterres, y reiteró el compromiso de Pekín con la organización, defendiendo el multilateralismo y proponiendo una gobernanza más eficaz de la inteligencia artificial.",
+      "category": "politica",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/xi-reitera-a-guterres-el-compromiso-de-china-con-la-onu/a-78015661?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-07-18T05:46:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo emplea un tono descriptivo y neutral, citando únicamente declaraciones oficiales sin juicios de valor ni fuentes críticas, lo que indica una cobertura centrada.",
+      "focus_analysis": "El medio se centró en el aspecto institucional y diplomático del encuentro, destacando la defensa del multilateralismo y la gobernanza de la IA, mientras dejó de lado discusiones sobre derechos humanos o tensiones geopolíticas.",
+      "focus_tags": [
+        "diplomacia internacional",
+        "multilateralismo",
+        "IA gobernanza"
+      ],
+      "context": [
+        {
+          "label": "Historia de China en la ONU",
+          "text": "China es miembro permanente del Consejo de Seguridad de la ONU desde 1971 y ha abogado públicamente por la reforma multilateral y la defensa de la soberanía estatal."
+        },
+        {
+          "label": "Conferencia Mundial de Inteligencia Artificial (WAIC)",
+          "text": "En julio de 2026 se celebró en Shanghái la WAIC, un foro liderado por China que reunió a más de treinta países para discutir normas y cooperación en inteligencia artificial."
+        },
+        {
+          "label": "Perspectiva internacional sobre la postura china",
+          "text": "Diversos analistas y gobiernos occidentales han señalado que, pese a su discurso de multilateralismo, China mantiene políticas que generan preocupación en materia de derechos humanos y seguridad tecnológica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "634afdd6dd90",
+      "title": "Cuando el tren del tiempo lleva libros en su carga de polvo",
+      "summary": "Una vieja carrocería de tren, oxidada y crujiente, se abre como una biblioteca itinerante; cada asiento es un vagón que lleva sus pasajeros de recuerdos y futuros. En ese vagón de acero, la voz de Namwali Serpell recita el latido de Zambia, donde la historia y la ciencia ficción se entrelazan como raí­ces que se niegan a separarse.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-07-18T06:00:37.911640+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, al cerrar los ojos y escuchar el eco de los rieles que dejaron de servir al comercio, pensé en cómo la literatura puede ser el último tren que nos lleva a lugares que el mapa no muestra. El Old Drift, con su mezcla de cronología y fantasía, encaja perfecto en esa vía que atraviesa el pasado colonial y el futuro tecnológico de África.",
+      "focus_tags": [
+        "África",
+        "contemporáneo",
+        "Zambia"
+      ],
+      "context": [
+        {
+          "label": "Autor",
+          "text": "Namwali Serpell, escritora zambiana nacida en 1988, combina en su obra la formación académica en literatura inglesa con una profunda conexión a la oralidad y los mitos de su tierra."
+        },
+        {
+          "label": "Obra clave",
+          "text": "The Old Drift (2020) narra la saga de tres familias a lo largo de un siglo, entrelazando realismo, ciencia ficción y mitología en una narrativa que fluye como un río bajo los puentes del tiempo."
+        },
+        {
+          "label": "Lecturas afines",
+          "text": "Para quien disfruta de la arquitectura de la historia en la ficción, probar con Homegoing de Yaa Gyasi, Americanah de Chimamanda Ngozi Adichie y The Furrows de la propia Serpell, ampliará la perspectiva sobre la diáspora y la reinvención del pasado."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.2
+      }
+    },
     {
       "id": "00bf1d1a4da7",
       "title": "Prepárase antes de salir: Este es el pronóstico del clima en Bahía de Banderas este 18 de julio",
@@ -805,251 +1051,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "72271180b5fa",
-      "title": "Comité Internacional que vela por el arte moderno externa su preocupación por la Colección Gelman",
-      "summary": "El Comité Internacional de Museos y Colecciones de Arte Moderno (CIMAM) ha manifestado su inquietud por la falta de un acuerdo explícito que garantice el regreso de la Colección Gelman a México, señalando la necesidad de mayor claridad legal y de responsabilidad tanto de instituciones públicas como privadas para proteger el patrimonio artístico del país.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/comite-internacional-que-vela-por-el-arte-moderno-externa-su-preocupacion-por-la-coleccion-gelman/",
-      "published_at": "2026-07-18T02:46:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono informativo y neutral, citando únicamente a la organización CIMAM y a la legislación mexicana sin recurrir a expresiones cargadas ni a fuentes políticas, lo que indica una cobertura centrada.",
-      "focus_analysis": "El medio prioriza el ángulo de la preservación del patrimonio cultural y la responsabilidad institucional, dejando de lado aspectos económicos del mercado del arte o debates políticos más amplios.",
-      "focus_tags": [
-        "patrimonio cultural",
-        "legislación artística",
-        "responsabilidad institucional"
-      ],
-      "context": [
-        {
-          "label": "Colección Gelman",
-          "text": "La Colección Gelman agrupa obras de artistas mexicanos como Diego Rivera, Frida Kahlo, María Izquierdo y otros, y está bajo un acuerdo de cinco años entre la familia Zambrano, la Fundación Banco Santander y el INBAL, sin una cláusula que asegure su retorno a México."
-        },
-        {
-          "label": "CIMAM",
-          "text": "El Comité Internacional de Museos y Colecciones de Arte Moderno (CIMAM) es una organización global que promueve la conservación y el acceso al arte moderno, y frecuentemente emite posicionamientos sobre la protección del patrimonio cultural."
-        },
-        {
-          "label": "Marco legal en México",
-          "text": "En México, la Ley de Protección del Patrimonio Artístico de 1984 protege obras de artistas como Frida Kahlo y ha sido objeto de revisión por la Suprema Corte para determinar su alcance frente a la salida permanente de piezas del país."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "13fbf5736cda",
-      "title": "Atacan a balazos una casa vinculada al director de Grupo Adiscusión en Culiacán: VIDEO",
-      "summary": "César Millán Lafarga, director del semanario digital Grupo Adiscusión, sufrió un ataque a balazos en su vivienda de Culiacán, Sinaloa, sin que se registraran heridos; es el segundo incidente violento contra el medio en los últimos dos años.",
-      "category": "sociedad",
-      "source_name": "El Informador (GDL)",
-      "source_url": "https://www.informador.mx/mexico/video-cesar-millan-atacan-a-balazos-una-casa-vinculada-al-director-de-grupo-adiscusion-en-culiacan-sinaloa-20260717-0207.html",
-      "published_at": "2026-07-18T03:49:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta los hechos de forma descriptiva y neutra, sin usar vocabulario cargado ni citar fuentes con sesgo político; se limita a reportar el ataque y la denuncia del propio medio.",
-      "focus_analysis": "El medio centra su cobertura en la violencia contra la prensa y la petición de investigación, dejando de lado el contexto de seguridad más amplio y el impacto humano de los ataques.",
-      "focus_tags": [
-        "violencia contra medios",
-        "libertad de prensa",
-        "Culiacán"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de violencia contra Grupo Adiscusión",
-          "text": "El semanario digital Grupo Adiscusión ya había sido blanco de un tiroteo en sus oficinas de Culiacán en junio de 2024 y su fundador, Humberto Millán Salazar, fue asesinado en 2011, casos que siguen sin resolverse."
-        },
-        {
-          "label": "Seguridad de periodistas en Sinaloa",
-          "text": "Sinaloa es una de las entidades mexicanas con mayor número de agresiones contra periodistas, donde la impunidad es alta y los medios enfrentan constantes amenazas."
-        },
-        {
-          "label": "Reacción de organismos internacionales",
-          "text": "Organizaciones como Amnistía Internacional han condenado repetidamente los asesinatos y ataques a periodistas en México, exigiendo investigaciones transparentes y la protección de la libertad de expresión."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "cbd7777022f4",
-      "title": "Qué tan peligrosa puede ser una neumonía, posible causa de muerte del hijo de Aylín Mujica",
-      "summary": "Mauro Menéndez, hijo de la actriz cubana Aylín Mujica, falleció a los 30 años en Barbados a causa de complicaciones de una neumonía que pudo haber provocado un infarto, y el artículo explica cómo esta infección pulmonar puede ser letal incluso en personas jóvenes y sin antecedentes de salud.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/18/que-tan-peligrosa-puede-ser-una-neumonia-posible-causa-de-muerte-del-hijo-de-aylin-mujica/",
-      "published_at": "2026-07-18T03:50:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje objetivo y descriptivo, centrado en la información médica sin emplear términos cargados ni favorecer una postura política o emocional.",
-      "focus_analysis": "Infobae optó por un ángulo informativo‑médico, detallando los mecanismos fisiológicos de la neumonía y sus posibles consecuencias mortales; dejó de lado el aspecto emotivo y la reacción familiar que otros medios resaltaron.",
-      "focus_tags": [
-        "salud",
-        "neumonía",
-        "fallecimiento"
-      ],
-      "context": [
-        {
-          "label": "Antecedente médico",
-          "text": "La neumonía es una infección respiratoria que puede desencadenar complicaciones graves como infarto, sepsis e insuficiencia respiratoria, incluso en adultos jóvenes sin enfermedades crónicas."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "La Organización Mundial de la Salud indica que la neumonía causa aproximadamente 2,5 millones de muertes al año, siendo la principal causa de mortalidad por infección en todas las edades."
-        },
-        {
-          "label": "Postura de otro medio",
-          "text": "Mientras Infobae se centró en la explicación médica del fallecimiento, El Universal destacó la reacción emocional de la familia, citando a Laura Zapata describiendo su devastación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "10d34bf154fe",
-      "title": "Así ocurrió el ataque armado en domicilio vinculado a director del medio Adiscusión en Culiacán; exigen dar con los responsables",
-      "summary": "El director general del periódico Adiscusión, César Millán Lafarga, hijo del periodista asesinado Humberto Millán Salazar, fue víctima de un ataque armado en su domicilio de Culiacán, sin que se reportaran heridos, y el medio exigió a las autoridades que esclarezcan los hechos y capturen a los responsables.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/tendencias/asi-ocurrio-el-ataque-armado-en-domicilio-vinculado-a-director-del-medio-adiscusion-en-culiacan-exigen-dar-con-los-responsables/",
-      "published_at": "2026-07-18T02:46:40+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto utiliza un tono que enfatiza la indignación y la solidaridad con la prensa, destacando la libertad de expresión y la violencia contra periodistas, sin emplear un lenguaje partidista, lo que indica una ligera inclinación hacia la defensa de derechos civiles.",
-      "focus_analysis": "El medio se centra en la violencia contra los periodistas y la respuesta institucional, resaltando el llamado a las autoridades y la solidaridad de otros medios, mientras omite un análisis profundo de los posibles vínculos con el crimen organizado o las implicaciones políticas del hecho.",
-      "focus_tags": [
-        "violencia contra prensa",
-        "seguridad",
-        "Culiacán"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del medio",
-          "text": "Adiscusión había sido blanco de un ataque similar en junio de 2024, cuando sus oficinas en el centro de Culiacán fueron baleadas, lo que muestra un patrón de agresiones contra la publicación."
-        },
-        {
-          "label": "Contexto de violencia periodística en México",
-          "text": "México, y en particular el estado de Sinaloa, registra altos índices de asesinatos y agresiones contra periodistas; el padre de César Millán Lafarga, Humberto Millán Salazar, fue asesinado en 2011."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Informador también informó del ataque, destacando el video del tiroteo y señalando que es el segundo incidente violento contra Adiscusión en los últimos dos años, lo que refuerza la percepción de una campaña de intimidación contra el medio."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "055604a5ad50",
-      "title": "Gabriel Fernández imita festejo de Jude Bellingham en la remontada de Cruz Azul sobre San Luis",
-      "summary": "Gabriel Fernández, delantero uruguayo de Cruz Azul, replicó la celebración de Jude Bellingham después de marcar un penal que permitió a su equipo superar un 2-0 y ganar 3-2 contra el Atlético San Luis en la Apertura 2026 de la Liga MX.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/18/gabriel-fernandez-imita-festejo-de-jude-bellingham-en-la-remontada-de-cruz-azul-sobre-san-luis/",
-      "published_at": "2026-07-18T04:02:16+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono festivo y destaca la actuación de Cruz Azul, sin usar lenguaje cargado ni presentar opiniones políticas; la ligera inclinación favorable al club se refleja en la elección de detalles celebratorios.",
-      "focus_analysis": "El medio eligió un ángulo humano y de celebración, centrado en la imitación de la fiesta de Bellingham y el gol de Fernández, dejando de lado un análisis táctico o de la temporada de la liga.",
-      "focus_tags": [
-        "Cruz Azul",
-        "remontada",
-        "celebración"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del club",
-          "text": "Cruz Azul, campeón histórico del fútbol mexicano, inició la Apertura 2026 de la Liga MX tras una temporada de altibajos y buscaba recuperarse tras una derrota inicial."
-        },
-        {
-          "label": "Referencia internacional",
-          "text": "Jude Bellingham, centrocampista inglés, anotó dos goles contra la selección mexicana en los octavos de final del Mundial 2026, lo que hizo que su celebración fuera conocida en México."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios como Reforma y Periódico AM pusieron énfasis en el doblete de Jeremy Márquez como factor clave de la remontada, mientras que Infobae destacó la celebración de Fernández."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "116f87f2ef42",
-      "title": "Muestra Cruz Azul reacción  de campeón en San Luis",
-      "summary": "El equipo mexicano Cruz Azul, en su debut del Apertura 2026, remontó un 0-2 contra el Atlético de San Luis para ganar 3-2 en San Luis Potosí.",
-      "category": "deportes",
-      "source_name": "Reforma",
-      "source_url": "https://www.reforma.com/muestra-cruz-azul-reaccion-de-campeon-en-san-luis/ar3242533",
-      "published_at": "2026-07-18T03:14:19+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se centra en la narración del partido con tono entusiasta pero sin lenguaje cargado ni referencias políticas, manteniendo una postura neutral y deportiva.",
-      "focus_analysis": "Reforma eligió destacar la emotiva remontada y los héroes del encuentro, dejando de lado un análisis táctico más profundo o el impacto en la clasificación de la liga.",
-      "focus_tags": [
-        "remontada",
-        "Apertura 2026",
-        "Cruz Azul"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del club",
-          "text": "Cruz Azul es uno de los equipos más laureados del fútbol mexicano, con varios títulos de liga y una afición apasionada, y buscaba iniciar con buen pie la temporada Apertura 2026."
-        },
-        {
-          "label": "Situación del rival",
-          "text": "Atlético de San Luis rindió homenaje a su delantero Joao Pedro, quien sufrió una grave lesión de ligamento cruzado, y buscaba aprovechar su debut en casa."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Mientras Infobae destacó la celebración de Gabriel Fernández al estilo de Jude Bellingham, Periódico AM resaltó el doblete de Jeremy Márquez como factor clave de la victoria."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "bc1c402215a8",
-      "title": "Kimi 3: la nueva IA China que presiona a OpenAI y Anthropic",
-      "summary": "Moonshot AI, la compañía china de inteligencia artificial con sede en Pekín, presentó Kimi K3, un modelo de 2.8 billones de parámetros y una ventana de contexto de un millón de tokens, que según la empresa supera a los sistemas de Anthropic y OpenAI en pruebas de rendimiento y ofrece precios más bajos por token.",
-      "category": "tecnologia",
-      "source_name": "Expansión",
-      "source_url": "https://expansion.mx/tecnologia/2026/07/17/kimi-3-la-nueva-ia-china-que-presiona-a-openai",
-      "published_at": "2026-07-17T19:50:55+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto combina información de la propia compañía con datos comparativos de EE. UU., sin usar un lenguaje cargado ni favorecer explícitamente a ninguna parte, lo que indica una cobertura equilibrada.",
-      "focus_analysis": "El medio se centra en la competencia tecnológica y el coste operativo del nuevo modelo, dejando de lado temas de ética, seguridad o impacto social de la IA.",
-      "focus_tags": [
-        "IA China",
-        "competencia tecnológica",
-        "costo IA"
-      ],
-      "context": [
-        {
-          "label": "Carrera IA EE. UU.-China",
-          "text": "Desde 2025, laboratorios chinos como DeepSeek demostraron que pueden crear modelos de IA competitivos con menos recursos, intensificando la rivalidad tecnológica con Estados Unidos."
-        },
-        {
-          "label": "Inversiones estadounidenses en IA",
-          "text": "Grandes tecnológicas estadounidenses (Microsoft, Meta, Alphabet, Amazon, Oracle) han invertido miles de millones en centros de datos y chips especializados para mantener su liderazgo en IA."
-        },
-        {
-          "label": "Reacción del mercado financiero",
-          "text": "El lanzamiento de Kimi K3 ha generado preocupación entre los inversores de semiconductores, que temen que la reducción de costos en IA pueda afectar la demanda de hardware de alta gama."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
       }
     }
   ]
