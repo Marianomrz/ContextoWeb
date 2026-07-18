@@ -1,168 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T23:21:22.931317+00:00",
-      "title": "EE.UU. destruye puentes en Ormuz  durante nueva ofensiva contra Irán",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 4.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete carece de verificación y contraste de fuentes, mostrando un sesgo notable y una objetividad limitada, a pesar de su actualidad y estructura razonable.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:27.535941+00:00",
-      "title": "¿Dónde será la final del Mundial 2026? El estadio de la NFL donde jugarán España y Argentina",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene información esencialmente correcta pero incluye una afirmación no verificable sobre los finalistas, lo que afecta su veracidad; en los demás aspectos cumple con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:30.044493+00:00",
-      "title": "El planazo pionero de China para evitar que los chatbots de IA aconsejen mal: recurrir a los humanos",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:33.960028+00:00",
-      "title": "Survivor México 2026: estos son los objetos prohibidos que los participantes no podrán ingresar",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría mejorar la verificación de datos y la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:39.547112+00:00",
-      "title": "Empresario responsable de agresión en Hotel Park Life Pradox en CDMX tiene 18 denuncias en Mazatlán,",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado adecuadamente, pero necesita mayor respaldo de fuentes y contraste de voces para alcanzar un nivel editorial más sólido.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:44.627248+00:00",
-      "title": "Directo Mundial: la previa a la final entre Argentina y España",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con los estándares de objetividad y actualidad, aunque algunos hechos podrían beneficiarse de fuentes más directas para confirmar su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:51.169422+00:00",
-      "title": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; es una pieza informativa bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:55.241267+00:00",
-      "title": "La mayoría de autónomos en España tiene más de 45 años y la generación Z en España no parece querer ",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:59.242413+00:00",
-      "title": "'Chapo' Guzmán: aplazan de nuevo la audiencia de Ovidio Guzmán en Chicago; esta sería la nueva fecha",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares básicos de información objetiva y oportuna, aunque la falta de fuentes múltiples limita la profundidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:40:34.801918+00:00",
-      "title": "Canal para ver Francia vs Inglaterra, partido por el tercer lugar en el Mundial 2026",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 8,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete carece de veracidad suficiente y fuentes contrastadas, aunque es objetivo y bien estructurado; necesita corroboración de datos antes de publicar.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T23:40:39.657035+00:00",
       "title": "Instituto Nacional de Salud Pública emite recomendación urgente; pide reforzar higiene de alimentos ",
       "kind": "noticia",
@@ -3362,6 +3200,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma precisa, contrastada, objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:00:38.317777+00:00",
+      "title": "Atacan a balazos una casa vinculada al director de Grupo Adiscusión en Culiacán: VIDEO",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:00:42.978895+00:00",
+      "title": "El Mundial diáspora: ¿Por qué había 96 jugadores nacidos en Francia?",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero necesita fuentes más sólidas y verificables y mayor contraste de información para alcanzar un nivel editorial óptimo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:00:47.929760+00:00",
+      "title": "Comité Internacional que vela por el arte moderno externa su preocupación por la Colección Gelman",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:00:52.100037+00:00",
+      "title": "¿Te marcaron y no respondiste? Configura tu iPhone para que te recuerde devolver la llamada",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, objetiva y bien estructurada con fuentes fiables y contexto adecuado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:00:57.652938+00:00",
+      "title": "Esto vale el lujoso avión privado de Checo Pérez, modelo que también usa Cristiano Ronaldo",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta información interesante pero contiene errores factuales y falta de fuentes múltiples, lo que compromete su precisión y fiabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:01:01.506083+00:00",
+      "title": "Dinos cómo te sientes y te recomendamos qué leer, ver, escuchar o a qué jugar este verano",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, reciente y estructurada de forma clara y objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:01:07.284228+00:00",
+      "title": "Sismo en Chiapas: Protección Civil reporta daños en inmuebles de 5 municipios; militares mantienen p",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero la precisión de los datos y la objetividad son limitadas por falta de fuentes verificables y un tono claramente sesgado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:01:11.345444+00:00",
+      "title": "Siri salva a Apple y recupera el trono como la empresa más valiosa del mundo",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta información poco fiable y falta de contraste de fuentes, aunque está actualizado y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:01:16.927915+00:00",
+      "title": "Piden esperar estudios de la FDA sobre planta de Taylor Farms en Guanajuato tras brote de ciclospori",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de una noticia objetiva y actual, aunque la veracidad de algunos datos y la falta de fuentes más diversificadas limitan su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:01:21.808977+00:00",
+      "title": "Hannah Einbinder: “Que otros sean cobardes no significa que yo sea valiente. La gente de Gaza es val",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la variedad de fuentes de contexto para alcanzar la excelencia en contraste de fuentes.",
       "error": null
     }
   ]
