@@ -1,172 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T23:01:34.767569+00:00",
-      "title": "Wall Street cierra con pérdidas; las acciones de Netflix caen con fuerza",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, actual y estructurada de manera objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:20:40.912192+00:00",
-      "title": "Presas de Guanajuato están al 78%; el año pasado estaban a tope",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística; solo se sugiere añadir una referencia más precisa al informe de Conagua para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:20:45.836625+00:00",
-      "title": "Qué es la Uva Michelin: la nueva distinción para viñedos y bodegas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta la información de forma clara y estructurada, pero la falta de verificación sobre la existencia de la \"Uva Michelin\" afecta gravemente su precisión factual.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:20:50.018085+00:00",
-      "title": "Lionel Messi habló de su histórica foto con Lamine Yamal de bebé antes de la final entre Argentina y",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y objetivo, pero contiene errores verificables sobre la edad de Yamal y la existencia de la foto, lo que compromete su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:20:59.033223+00:00",
-      "title": "Incendios forestales en Canadá afectan el aire en EE.UU.",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y actualizado, pero contiene errores de factualidad y carece de fuentes oficiales, lo que compromete su precisión y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:04.246836+00:00",
-      "title": "Irán advierte de una guerra \"total\" si EU continúa con sus ataques",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero le falta contraste de fuentes y presenta sesgo en la redacción, reduciendo su objetividad y precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:06.896762+00:00",
-      "title": "Cadenas de TV como Telecinco o Antena 3 critican los \"realities\" de Internet: \"La Casa de los Gemelo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:11.306293+00:00",
-      "title": "José Ramón Fernández cuestiona a la FIFA antes de la final: “Es el Mundial o el Super Bowl”",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero presenta problemas de veracidad y falta de fuentes oficiales, lo que afecta su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:14.948166+00:00",
-      "title": "Mauricio Tabe anuncia Festival \"Saquen Plan\" en el Deportivo Plan Sexenal; ofrecerán música, arte y ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad, actualidad y estructura, presentando la información de forma clara y verificable.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:21:19.545317+00:00",
-      "title": "La final del Mundial 2026 es el evento deportivo más caro en la historia de Estados Unidos",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y bien estructurado, pero la falta de fuentes verificables y la naturaleza especulativa del evento reducen su credibilidad.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T23:21:22.931317+00:00",
       "title": "EE.UU. destruye puentes en Ormuz  durante nueva ofensiva contra Irán",
       "kind": "noticia",
@@ -3358,6 +3192,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque podría ampliarse con fuentes adicionales y mayor contexto histórico para enriquecer la cobertura.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:40:42.423313+00:00",
+      "title": "El día que Luis de la Fuente conoció a un joven llamado Lionel Messi; esta es la anécdota",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete contiene datos falsos o no verificables y carece de fuentes contrastadas, por lo que no cumple los estándares de calidad editorial para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:40:46.908992+00:00",
+      "title": "México ya presentó cartas por vía diplomática tras la muerte de 18 connacionales, responde Lazzeri a",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado adecuadamente, pero contiene posibles inexactitudes y falta de fuentes verificadas, por lo que se recomienda corroborar los datos antes de publicarlo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:40:50.075586+00:00",
+      "title": "Vicente del Bosque: “Se ha jugado a lo que ha querido España”",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría enriquecer con fuentes adicionales, pero no es necesario para este tipo de noticia.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:40:54.851996+00:00",
+      "title": "Kimi 3: la nueva IA China que presiona a OpenAI y Anthropic",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita fuentes externas para validar las afirmaciones de rendimiento y mayor contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:40:58.667444+00:00",
+      "title": "Muestra Cruz Azul reacción  de campeón en San Luis",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando información veraz, actual y estructurada de manera clara.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:41:04.387831+00:00",
+      "title": "Gabriel Fernández imita festejo de Jude Bellingham en la remontada de Cruz Azul sobre San Luis",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en su mayoría con los estándares editoriales, aunque la falta de verificación externa de los hechos futuros reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:41:10.026643+00:00",
+      "title": "Así se gestaron los ‘fichajes’ de Messi por Argentina y de Lamine Yamal por la Roja",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta errores graves de veracidad que comprometen su calidad informativa, a pesar de cumplir con la actualidad y la neutralidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:41:14.961686+00:00",
+      "title": "Al estilo de la NFL, FIFA entregará anillos a campeones del Mundial 2026",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita fuentes más sólidas y verificables para mejorar su veracidad y contraste, aunque es objetivo, actual y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:41:19.167841+00:00",
+      "title": "Así ocurrió el ataque armado en domicilio vinculado a director del medio Adiscusión en Culiacán; exi",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, cumple con los criterios de veracidad, fuentes y objetividad, y está bien estructurado para una noticia reciente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T04:41:25.295424+00:00",
+      "title": "Qué tan peligrosa puede ser una neumonía, posible causa de muerte del hijo de Aylín Mujica",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma precisa, contrastada, objetiva y bien estructurada.",
       "error": null
     }
   ]
