@@ -1,168 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-18T00:01:16.392342+00:00",
-      "title": "No solo hace unas fotos espectaculares, es que te lo pasas genial haciéndolas: probamos el VIVO X300",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:01:19.290252+00:00",
-      "title": "Benny Ibarra explica por qué una nueva gira de Timbiriche no sería sencilla",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere añadir citas precisas para las declaraciones de terceros.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:01:23.994042+00:00",
-      "title": "Cancelan alerta de tsunami para el Pacífico mexicano tras el sismo en Chiapas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, y está bien estructurado y actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:01:30.840631+00:00",
-      "title": "Atacan a balazos domicilio vinculado al dueño y director de Grupo Adiscusión, medio de comunicación ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de veracidad y estructura, pero debería incorporar más fuentes para ofrecer un contraste adecuado en temas de seguridad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:01:34.932107+00:00",
-      "title": "Un terremoto de magnitud 7,3 sacude México y Guatemala: se cancela la alerta de tsunami",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, presentando la información de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:09.841358+00:00",
-      "title": "¿La final del Mundial 2026 va por TV abierta? Fecha, horario y dónde verla",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Aunque la estructura y la objetividad son buenas, la falta de veracidad y fuentes confiables hace que la nota no cumpla los estándares editoriales para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:13.245782+00:00",
-      "title": "La Odisea: ¿quién es quién en la nueva adaptación del clásico poema de Homero?; descúbrelo aquí",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y objetivo, pero la falta de verificación de los hechos y la ausencia de fuentes contrastantes reducen su calidad periodística.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:17.646106+00:00",
-      "title": "Senado alista Ley General de Bienestar Animal; estas serían las nuevas obligaciones para protegerlos",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es informativo y actual, aunque le falta mayor contraste de fuentes para cumplir plenamente con los estándares de cobertura de temas polémicos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:21.534748+00:00",
-      "title": "Muere a los 81 años la actriz Brenda Fricker, ganadora del Oscar como madre de Daniel Day-Lewis en ‘",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T00:13:24.787647+00:00",
-      "title": "Adiós a los problemas de autonomía, esta es la nueva referencia en batería: probamos el nuevo OPPO F",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T00:13:28.720529+00:00",
       "title": "Cruz Azul y el estadio que nunca llega: la eterna búsqueda de una casa para el campeón mexicano",
       "kind": "noticia",
@@ -3382,6 +3220,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere incluir referencias precisas para reforzar la verificabilidad de los números.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:51:50.952726+00:00",
+      "title": "Cuando la lluvia escribe: la nostalgia de la literatura japonesa",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 8,
+        "voz_autor": 9,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares literarios, ofreciendo una experiencia estética y reflexiva adecuada para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:51:54.137234+00:00",
+      "title": "Medio año de terror para la prensa en México",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, aunque la redacción cargada y la falta de evidencia directa para la cifra reducen ligeramente su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:51:58.523851+00:00",
+      "title": "Las últimas previsiones para Ciudad de México: temperatura, lluvias y viento",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los criterios editoriales, ofrece datos fiables y una presentación objetiva, aunque la verificación de la predicción dependerá de fuentes de pronóstico especializadas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:52:04.232365+00:00",
+      "title": "Trump dijo que quiere organizar otro Mundial, pero ahora sin México ni Canadá",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de fuentes verificables y citas directas reduce su precisión y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:52:09.429517+00:00",
+      "title": "La carrera por la IA: el verdadero valor lo aporta la persona",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo cumple con la mayoría de los estándares, aunque le falta contraste de fuentes para una cobertura más equilibrada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:52:12.789627+00:00",
+      "title": "Lealtad, telegenia y testosterona: la extravagante carrera de Hegseth al frente del Pentágono",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo falla gravemente en veracidad y objetividad, aunque es actual y está bien estructurado; requiere fuentes y datos verificables y un enfoque más equilibrado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:52:16.431824+00:00",
+      "title": "Las últimas previsiones para Tijuana: temperatura, lluvias y viento",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de objetividad y actualidad, pero debería reforzar la veracidad citando la fuente meteorológica oficial y mejorando la precisión de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:52:21.799088+00:00",
+      "title": "Marx Arriaga ‘malbarata’ su casa por falta de liquidación de la SEP",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la ausencia de fuentes contrapuestas y el título sensacionalista reducen su objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:52:27.284749+00:00",
+      "title": "España, país en armas: cómo se contó la Guerra Civil en los noticieros de Estados Unidos",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque podría reforzar el contraste de fuentes para una cobertura más equilibrada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:52:31.891770+00:00",
+      "title": "Prepárase antes de salir: Este es el pronóstico del clima en Bahía de Banderas este 18 de julio",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales y puede publicarse con confianza.",
       "error": null
     }
   ]
