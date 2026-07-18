@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T21:41:07.262704+00:00",
-      "title": "Negociaciones con México han producido “numerosos éxitos”: Jamieson Greer",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado correctamente, pero necesita mayor contraste de fuentes y voces para cumplir con los estándares de objetividad y balance en un tema de negociación bilateral.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T21:41:13.429652+00:00",
-      "title": "Francia - Inglaterra: una “pequeña final” del Mundial 2026 que nadie quiere jugar",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de fuentes directas reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:03.043449+00:00",
-      "title": "El próximo Gemini Pro lleva meses de retraso: falla en coding, fuga de talento hacia Anthropic y gue",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es reciente y sigue la pirámide invertida, pero su falta de veracidad, fuentes contrastantes y objetividad lo hace inadecuado para publicación sin correcciones.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:06.936579+00:00",
-      "title": "Ernesto Ruffo comparece ante jueza federal desde la FEMDO por delincuencia organizada y huachicol fi",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es preciso, actual y bien estructurado, pero necesita mayor diversidad de fuentes para reforzar el contraste en un contexto político.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:11.520311+00:00",
-      "title": "Pedro Sola vive su primera experiencia con perritos rescatados: \"Estuve a punto de llorar\"",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque podría mejorar el contraste de fuentes añadiendo perspectivas de terceros.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:16.157874+00:00",
-      "title": "Terremotos en Venezuela: Aumenta a más de 5,000 la cifra de muertos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra buena estructura y objetividad, pero la veracidad de los hechos es altamente cuestionable, lo que afecta su idoneidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:20.808329+00:00",
-      "title": "Alemania y Francia profundizan cooperación en defensa y disuasión nuclear",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y objetivo, pero necesita mayor verificación de datos y fuentes más múltiples para cumplir plenamente con los estándares de calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:24.663023+00:00",
-      "title": "La preservación de videojuegos ya ha sido herida de muerte con Sony. El siguiente golpe viene de tod",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran parte con los estándares de información reciente y estructura, pero necesita más fuentes contrastantes y mayor precisión factual para ser plenamente fiable.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:30.284768+00:00",
-      "title": "Quién es Hugo Cuypers, posible refuerzo de Rayados de Monterrey",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con la objetividad y la estructura, pero necesita fuentes más variadas para reforzar la credibilidad del rumor de fichaje.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T22:05:34.552517+00:00",
-      "title": "La Paz, Baja California, tiene nuevo titular de seguridad; toman protesta al teniente Mario Alberto ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es fiable y objetivo, pese a una pequeña imprecisión en la denominación del estado.",
-      "error": null
-    },
-    {
       "at": "2026-07-17T22:05:38.475914+00:00",
       "title": "Argentina y España, bajo la amenaza del humo, ultiman detalles para la final del Mundial 2026",
       "kind": "noticia",
@@ -3338,6 +3168,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es mayormente sólido, con buena objetividad y actualidad, aunque podría mejorar la verificación de fuentes y la inclusión de voces contrastantes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:02.484519+00:00",
+      "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Monterrey",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares periodísticos, ofreciendo información veraz, objetiva y oportuna, aunque podría mejorar la citación de fuentes en el contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:07.110346+00:00",
+      "title": "Hoy No Circula sabatino: qué autos pueden circular y cuáles descansan el 18 de julio",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple bien con los criterios de veracidad, objetividad y estructura, pero podría mejorar la robustez de fuentes citando directamente a la autoridad competente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:14.002343+00:00",
+      "title": "Tras las eliminaciones de River Plate y San Lorenzo, así quedó el cuadro completo de octavos de fina",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado para una nota de deporte, pero la ausencia de fuentes claras para algunos datos y la inclusión de afirmaciones especulativas sobre el Mundial 2026 disminuyen ligeramente su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:18.747541+00:00",
+      "title": "Morelos proyecta derrama de 2 mil mdp por vacaciones de verano; esperan la llegada de un millón 600 ",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los criterios editoriales, ofreciendo información verificable, objetiva y bien estructurada, aunque podría reforzar la precisión con citas directas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:23.736675+00:00",
+      "title": "Perros de trabajo del Mundial 2026 detectan amenazas y envían señales de seguridad",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado en forma y actualidad, pero necesita mayor respaldo de fuentes y verificación de datos para garantizar su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:27.593581+00:00",
+      "title": "Miles de ucranianos protestan por segundo día contra la destitución del ministro de Defensa Fedorov",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta graves problemas de veracidad y falta de fuentes contrastadas, lo que lo hace inadecuado para publicación sin una revisión profunda.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:32.927236+00:00",
+      "title": "Aylín Mujica rompe el silencio tras la muerte de su hijo Mauro: “Estoy devastada”",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado en estructura y objetividad, pero la falta de verificación de los datos clave limita su fiabilidad global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:39.004865+00:00",
+      "title": "Grupo partidario de deportaciones masivas realiza evento en yate; impulsa su agenda en Washington",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene errores graves de veracidad y escasa variedad de fuentes, lo que compromete su calidad editorial a pesar de su actualidad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:43.155806+00:00",
+      "title": "EU lanza su séptima noche de bombardeos e Irán responde golpeando bases en Kuwait y Jordania",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete presenta serias inconsistencias y falta de fuentes verificables, lo que compromete su calidad informativa pese a su actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T03:05:46.955772+00:00",
+      "title": "Volver a llenar el Mar de Aral: la apuesta de científicos españoles para evitar la liberación de mil",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares editoriales, con solo pequeñas reservas en la verificación externa.",
       "error": null
     }
   ]
