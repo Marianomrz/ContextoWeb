@@ -1,185 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-17T23:40:39.657035+00:00",
-      "title": "Instituto Nacional de Salud Pública emite recomendación urgente; pide reforzar higiene de alimentos ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de objetividad, actualidad y estructura, aunque podría mejorar la precisión citando fuentes específicas para los datos de casos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:40:44.298021+00:00",
-      "title": "Nueva York confirma la muerte de una persona por legionelosis",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la verificación de datos con fuentes directas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:40:52.293098+00:00",
-      "title": "Qué dijo Luis de la Fuente sobre la chance de ponerle un “marcaje especial” a Lionel Messi en la fin",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad, presentando afirmaciones falsas y anécdotas inexistentes, lo que compromete su idoneidad para publicación sin corrección.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:40:57.254458+00:00",
-      "title": "¿Está Rusia poniendo a prueba a la OTAN en el Báltico?",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y objetivo, pero la falta de fuentes contrastantes y la ausencia de citas verificables reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:40:59.757822+00:00",
-      "title": "Ubuntu es la distribución Linux más exitosa, pero hasta ellos tuvieron que cancelar estos ocho proye",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:41:03.678688+00:00",
-      "title": "Pedro Sola intenta reconciliarse con perritos en un refugio: “Estuve a punto de llorar”",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque necesita mayor contraste de fuentes y precisión en algunos detalles.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:41:08.518658+00:00",
-      "title": "Morena CDMX respalda investigación de FGR contra Ernesto Ruffo Appel; \"derrumba\" narrativa del PAN s",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero presenta sesgo partidista que afecta su imparcialidad; sin embargo, incluye fuentes contrastantes que fortalecen la credibilidad general.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:41:14.503872+00:00",
-      "title": "50 años: La evolución de ULA para responder a nuevos retos educativos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado pero necesita mayor respaldo factual y neutralidad para cumplir plenamente con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:41:20.559703+00:00",
-      "title": "Últimas noticias | 17 julio 2026 - Tarde",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y objetivo, pero necesita mayor diversidad de fuentes y referencias verificables para reforzar su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:41:23.139425+00:00",
-      "title": "La IA trae más tensión: los empleados quieren trabajar menos porque la IA ayuda. Los CEO exigen a la",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 0.0,
-      "scores": {
-        "actualidad": 0
-      },
-      "observacion": "Rechazada por antigüedad, sin llamar a la API.",
-      "error": null
-    },
-    {
-      "at": "2026-07-17T23:41:27.783873+00:00",
-      "title": "Se descarrila vagón de tren de carga en Coyotepec, Edomex, por falla mecánica",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, mostrando precisión y objetividad, aunque podría incluir referencias más concretas.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T00:00:35.985816+00:00",
       "title": "Haaland gana por goleada el Mundial de las redes sociales",
       "kind": "noticia",
@@ -3370,6 +3191,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la variedad de fuentes de contexto para alcanzar la excelencia en contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:20:36.739120+00:00",
+      "title": "Así iluminó el cielo de Nueva York el espectáculo de drones previo a la Final del Mundial 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero la falta de fuentes verificadas para ciertos detalles y la escasa variedad de fuentes reducen su puntuación en veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:20:40.972703+00:00",
+      "title": "Óptica Leonesa: la primera óptica de León cumple 103 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es actual y bien estructurado, pero presenta un sesgo positivo y depende de una única fuente, lo que afecta su objetividad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:20:44.716422+00:00",
+      "title": "Resultado Liga MX: Puebla triunfa ante FC Juárez en el inicio del Apertura 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, con una ligera oportunidad de enriquecer la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:20:49.861316+00:00",
+      "title": "Las 10 estrellas que deja el Mundial (dentro y fuera del campo): un pato, un chándal, Bardem o un ma",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla en veracidad y corroboración de fuentes, pese a ser actual y estar bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:20:54.647072+00:00",
+      "title": "FDA vincula lechuga de México con brote de diarrea que ha enfermado a más de 1,600 personas en EU",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 10,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien contrastada, objetiva, actual y estructurada de forma adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:21:00.239515+00:00",
+      "title": "Cruz Azul se repone de un 0-2 y vence al Atlético de San Luis",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura, pero presenta problemas de veracidad y objetividad que requieren corrección antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:21:05.898208+00:00",
+      "title": "Salud investiga brote de diarrea explosiva; lechuga de origen mexicano no indica que aquí se originó",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en gran medida adecuado, pero la imprecisión en el nombre de la enfermedad disminuye su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:21:09.514380+00:00",
+      "title": "Fin a una restricción histórica: “Hay guías en Córdoba que se han jubilado sin poder enseñar la mezq",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo necesita mayor verificación y fuentes contrastantes para cumplir con los estándares de objetividad y precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:21:15.642542+00:00",
+      "title": "Pedro Sánchez y Donald Trump vuelven a verse las caras en la final del Mundial entre España y Argent",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque es actual y está estructurado de forma razonable; necesita mayor evidencia y fuentes múltiples para ser publicado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:21:19.652615+00:00",
+      "title": "Diego Luna llega al Festival de San Sebastián con ‘Cenizas en la boca’",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de objetividad y actualidad, aunque la falta de fuentes verificables reduce su puntuación de veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-18T05:21:24.481365+00:00",
+      "title": "Ese Pérez se suma a \"La casa de los famosos México\" como el onceavo habitante",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales: es preciso, reciente, objetivo y estructurado adecuadamente, con una ligera limitación en la diversidad de fuentes pero aceptable para este tipo de noticia.",
       "error": null
     }
   ]
