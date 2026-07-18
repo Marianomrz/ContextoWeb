@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-07-18T22:42:12.857087+00:00",
+  "generated_at": "2026-07-18T23:00:49.951542+00:00",
   "articles": [
+    {
+      "id": "de5b66fc161c",
+      "title": "Incendio forestal arrasa con más de 12 mil hectáreas en España; riesgo de propagación continúa muy alto",
+      "summary": "Un incendio forestal cerca de Zaragoza, en la comunidad de Aragón, España, ha consumido más de 12 000 hectáreas y mantiene un alto riesgo de expansión, mientras varios pueblos permanecen evacuados y cientos de bomberos y medios aéreos trabajan en su contención.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/incendio-forestal-arrasa-con-mas-de-12-mil-hectareas-en-espana-riesgo-de-propagacion-continua-muy-alto/",
+      "published_at": "2026-07-18T22:56:16+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y recurre a fuentes oficiales sin emplear adjetivos cargados ni seleccionar fuentes con sesgo político evidente.",
+      "focus_analysis": "El medio se centra en la magnitud del fuego, la respuesta de los cuerpos de emergencia y la relación con el cambio climático, dejando de lado un análisis profundo de los impactos económicos o de la posible responsabilidad política.",
+      "focus_tags": [
+        "incendio forestal",
+        "cambio climático",
+        "respuesta institucional"
+      ],
+      "context": [
+        {
+          "label": "Incendio previo en Almería",
+          "text": "La semana anterior, un incendio en la provincia de Almería, Andalucía, provocó 13 fallecidos y quemó alrededor de 7 000 hectáreas, lo que incrementó la alarma nacional sobre los incendios forestales."
+        },
+        {
+          "label": "Datos históricos de incendios en España",
+          "text": "Según el Sistema Europeo de Información sobre Incendios Forestales, en 2025 se quemaron más de 393 000 hectáreas en territorio español, la cifra más alta registrada en los últimos años."
+        },
+        {
+          "label": "Cobertura de El País América",
+          "text": "Otro medio informó que el incendio de La Mierla alcanzó 9 000 hectáreas y provocó la evacuación de 700 personas en 16 municipios, señalando como posible origen una cosechadora operada por un alcalde de Vox."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "1bb63109ad6d",
       "title": "CURP Biométrica: Dónde tramitarla, módulos disponibles y requisitos para obtenerla",
@@ -1015,41 +1047,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "042d37e46203",
-      "title": "Las últimas previsiones para Ciudad de México: temperatura, lluvias y viento",
-      "summary": "El pronóstico del tiempo para la Ciudad de México el 18 de julio de 2026 indica una temperatura máxima de 24 °C, mínima de 13 °C, probabilidad de lluvia del 59 % durante el día y del 55 % en la noche, nubosidad del 78 % y ráfagas de viento de hasta 32 km/h.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/18/las-ultimas-previsiones-para-ciudad-de-mexico-temperatura-lluvias-y-viento/",
-      "published_at": "2026-07-18T03:18:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo emplea un lenguaje descriptivo y objetivo, sin vocabulario cargado ni fuentes políticas, limitándose a datos meteorológicos y una mención neutral al cambio climático.",
-      "focus_analysis": "El medio se centró en proporcionar datos meteorológicos y contextualizar el clima dentro del cambio climático, dejando de lado posibles impactos económicos o decisiones políticas relacionadas con el clima.",
-      "focus_tags": [
-        "pronóstico del tiempo",
-        "cambio climático",
-        "Ciudad de México"
-      ],
-      "context": [
-        {
-          "label": "cambio climático",
-          "text": "El incremento de la frecuencia e intensidad de eventos climáticos extremos en México se ha atribuido al cambio climático global, según informes del IPCC y del Servicio Meteorológico Nacional."
-        },
-        {
-          "label": "políticas locales",
-          "text": "La Secretaría del Medio Ambiente de la Ciudad de México (Sedema) ha lanzado programas de movilidad sostenible y gestión del agua para mitigar los efectos del clima, en colaboración con la GIZ México y la Iniciativa Climática de México."
-        },
-        {
-          "label": "variabilidad histórica",
-          "text": "Históricamente, la Ciudad de México ha registrado temperaturas máximas de 33,9 °C en 1998 y mínimas de -10 °C en 1972, mostrando una amplia variación según la altitud y la estación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]

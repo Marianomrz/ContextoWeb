@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-18T01:21:08.539611+00:00",
-      "title": "El juzgado que enjuiciará a la pareja de Ayuso por presunto fraude fiscal admite que está “sobrecarg",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente informativo y actual, pero necesita más fuentes y perspectivas para cumplir con los estándares de contraste y neutralidad.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T01:21:13.707928+00:00",
       "title": "Sebastián Abreu revela el primer refuerzo que Rafa Márquez tendrá en la Selección Mexicana",
       "kind": "noticia",
@@ -3399,6 +3382,17 @@
       },
       "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría reforzar la diversidad de fuentes para mayor robustez.",
       "error": null
+    },
+    {
+      "at": "2026-07-18T23:00:37.590369+00:00",
+      "title": "Incendio forestal arrasa con más de 12 mil hectáreas en España; riesgo de propagación continúa muy a",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
