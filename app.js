@@ -135,6 +135,18 @@
     localStorage.setItem(REACTIONS_KEY, JSON.stringify(state));
   }
 
+  // botón de favorito (Fase 2): app.js solo pinta el botón con data-fav;
+  // el estado y el clic los maneja favoritos.js (módulo aparte con la
+  // sesión de Supabase) — sin sesión, el clic lleva a cuenta.html.
+  function favBtnHTML(articleId) {
+    if (!articleId) return '';
+    return `
+      <button type="button" class="fav-btn" data-fav="${esc(articleId)}" aria-pressed="false">
+        <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+        <span class="fav-label">Guardar</span>
+      </button>`;
+  }
+
   function reactionsHTML(articleId) {
     if (!articleId) return '';
     return `
@@ -375,6 +387,7 @@
     const body = compact ? `
       <div class="article-foot compact-foot">
         ${reactionsHTML(a.id)}
+        ${favBtnHTML(a.id)}
         <span class="source-name-plain">${isFreePiece ? 'Redacción del agente' : esc(a.source_name || 'Fuente externa')}</span>
       </div>` : `
       <button class="facts-only-toggle" type="button" aria-pressed="false" title="Ocultar espectro y análisis, mostrar solo el resumen">
@@ -439,6 +452,7 @@
 
       <div class="article-foot">
         ${sourceLink}
+        ${favBtnHTML(a.id)}
         <span class="confidence-note">
           <span class="agent-avatar" aria-hidden="true"></span>${isFreePiece ? 'Redacción propia del agente' : `Análisis editorial · confianza ${esc(a.confidence || 'media')}`}
         </span>
@@ -539,6 +553,8 @@
       : 'No hay notas en esta sección todavía. Prueba con otra categoría.';
     animateSpectrums();
     applyReactionState();
+    // avisa a favoritos.js que hay botones data-fav nuevos que decorar
+    document.dispatchEvent(new CustomEvent('contexto:fav-rendered'));
 
     // "Cargar más": crece la página y vuelve a pintar — gridVisibleCount no
     // se reinicia aquí (ver comentario junto a su declaración), así que la

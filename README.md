@@ -674,6 +674,30 @@ siendo REST puro contra PostgREST con `fetch()`, igual que los envíos.
 dónde vive y cómo ejercer los derechos ARCO — requisito legal en México
 (LFPDPPP) desde el momento en que se guarda el correo de alguien.
 
+## Favoritos (Fase 2, agregado 20 jul 2026)
+
+Con sesión iniciada, cada nota tiene un botón "Guardar" en tres lugares:
+las tarjetas de la portada, las entradas de la hemeroteca (incluidas las
+notas archivadas — la lista se pinta en cliente) y la página completa de
+cada nota (`articulo/<id>.html`, junto al botón de compartir). Sin sesión,
+el botón lleva a `cuenta.html`. La lista completa vive en **"Mis
+favoritos"** dentro de la página de cuenta, con botón "Quitar" por nota.
+
+Cómo funciona por dentro: `favoritos.js` (módulo compartido por las tres
+superficies) mantiene el estado y habla por REST puro con la tabla
+`favoritos` de Supabase — `supabase/fase2-favoritos.sql` es el registro
+reproducible: PK `(user_id, article_id)`, `user_id` con `DEFAULT
+auth.uid()` (el cliente nunca lo manda), RLS de solo-lo-propio para
+SELECT/INSERT/DELETE. Borrar la cuenta arrastra los favoritos por el
+CASCADE de la fase 1. Los títulos de "Mis favoritos" se resuelven en el
+navegador contra `articles.json`/`hemeroteca.json` — Supabase solo guarda
+ids, nunca contenido editorial, y estos datos jamás se vuelcan a un JSON
+del repo.
+
+Configuración (una vez, ya hecha el 20 jul 2026): correr
+`supabase/fase2-favoritos.sql` en el SQL Editor. No necesita nada más —
+reusa el auth, el CAPTCHA y las llaves de la fase 1.
+
 ## Vigilancia y salud del portal
 
 El portal se publica solo, así que necesita avisarte cuando algo se rompa:

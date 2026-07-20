@@ -106,6 +106,10 @@
             <span class="hemero-title">${esc(a.title)}</span>
             <time class="hemero-time" datetime="${esc(a.published_at || '')}">${esc(timeLabel(a.published_at))}</time>
           </a>
+          <button type="button" class="fav-btn hemero-fav" data-fav="${esc(a.id)}" aria-pressed="false">
+            <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+            <span class="fav-label">Guardar</span>
+          </button>
         </li>`).join('');
       return `
         <div class="hemero-day">
@@ -113,6 +117,8 @@
           <ul class="hemero-entries">${items}</ul>
         </div>`;
     }).join('');
+    // avisa a favoritos.js que hay botones data-fav nuevos que decorar
+    document.dispatchEvent(new CustomEvent('contexto:fav-rendered'));
   }
 
   fetch('hemeroteca.json', { cache: 'no-store' })

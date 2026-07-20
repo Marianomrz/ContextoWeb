@@ -3142,3 +3142,85 @@ button {
    .submit-form-status[hidden] más arriba */
 .account-danger-confirm[hidden] { display: none; }
 .account-danger-confirm p { flex-basis: 100%; margin: 0 0 0.3rem; }
+
+/* ============ Favoritos (Fase 2) ============ */
+
+/* base compartida con .article-foot-btn (pastilla del pie de tarjeta) */
+.fav-btn {
+  font-family: var(--font-meta);
+  font-size: 0.82rem;
+  font-weight: 600;
+  background: transparent;
+  border: 1px solid var(--rule-strong);
+  color: var(--ink-soft);
+  padding: 0.42rem 0.85rem;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s, background 0.2s, transform 0.15s;
+}
+.fav-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-soft);
+  transform: translateY(-1px);
+}
+.fav-btn svg { flex: none; }
+
+/* guardada: el marcador se rellena con el acento */
+.fav-btn.is-saved {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+.fav-btn.is-saved svg { fill: currentColor; }
+
+/* variante compacta para las entradas de la hemeroteca */
+.hemero-fav {
+  font-size: 0.72rem;
+  padding: 0.3rem 0.65rem;
+  flex: none;
+}
+.hemero-entries li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.hemero-entries li > a { flex: 1; min-width: 0; }
+
+/* lista "Mis favoritos" en cuenta.html */
+.account-favs { margin-top: 2.2rem; max-width: 34rem; }
+.favs-status {
+  font-family: var(--font-meta);
+  font-size: 0.9rem;
+  color: var(--ink-faint);
+}
+.favs-status[hidden] { display: none; }
+.fav-list {
+  list-style: none;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.fav-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.7rem 0.9rem;
+  background: var(--paper-raised);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-card);
+}
+.fav-item a {
+  flex: 1;
+  min-width: 0;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.fav-item a:hover { color: var(--accent); }
+.fav-remove { flex: none; font-size: 0.75rem; padding: 0.35rem 0.8rem; }

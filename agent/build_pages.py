@@ -183,6 +183,17 @@ def share_button(page_url, title):
     </button>'''
 
 
+def fav_button(article_id):
+    """Botón de favorito (Fase 2): la plantilla solo pinta el botón con
+    data-fav; el estado y el clic los maneja favoritos.js (sesión de
+    Supabase). Solo para notas de articles.json/hemeroteca — las páginas de
+    la revista jurídica usan otro espacio de ids y no llevan favoritos."""
+    return f'''<button type="button" class="fav-btn" data-fav="{esc(article_id)}" aria-pressed="false">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+      <span class="fav-label">Guardar</span>
+    </button>'''
+
+
 def render_article_page(article):
     is_free = bool(article.get("editorial_pick"))
     cat = article.get("category", "")
@@ -302,6 +313,7 @@ def render_article_page(article):
     <div class="article-foot">
       {source_link}
       {share_button(page_url, title)}
+      {fav_button(article["id"])}
       <span class="confidence-note"><span class="agent-avatar" aria-hidden="true"></span>{confidence}</span>
     </div>
   </article>
@@ -329,6 +341,7 @@ def render_article_page(article):
 </footer>
 
 <script src="../share.js"></script>
+<script type="module" src="../favoritos.js"></script>
 <script>(function(){{
   var btn = document.getElementById('factsOnlyToggle');
   if (!btn) return;

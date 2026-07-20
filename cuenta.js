@@ -7,26 +7,15 @@
    sigue siendo REST puro contra PostgREST, con la anon key pública + el JWT
    del usuario — la protección real es RLS del lado del servidor. */
 
-import { AuthClient } from './assets/vendor/auth-js-2.110.7.mjs';
+// el AuthClient y las cabeceras REST viven en auth-client.js desde la
+// Fase 2 — mismo cliente y misma sesión que favoritos.js
+import { auth, SUPABASE_URL, restHeaders } from './auth-client.js';
 
 (function () {
   'use strict';
 
-  const SUPABASE_URL = 'https://lgprhvetnkucpttgpwxi.supabase.co';
-  // anon key pública a propósito (igual que en app.js/blog.js) — RLS manda.
-  const SUPABASE_ANON_KEY = 'sb_publishable_adwmkWFs98Pr13WW9rJ28Q_tLA5HH6j';
   // Site key de Cloudflare Turnstile (pública, como toda site key).
   const TURNSTILE_SITE_KEY = '0x4AAAAAAD5YgHCOLMGTJT2r';
-
-  const auth = new AuthClient({
-    url: `${SUPABASE_URL}/auth/v1`,
-    headers: { apikey: SUPABASE_ANON_KEY },
-    storageKey: 'contexto-auth',
-    flowType: 'pkce',
-    autoRefreshToken: true,
-    persistSession: true,
-    detectSessionInUrl: true,
-  });
 
   const $ = (sel) => document.querySelector(sel);
   const loading = $('#accountLoading');
@@ -42,15 +31,6 @@ import { AuthClient } from './assets/vendor/auth-js-2.110.7.mjs';
     el.hidden = false;
     el.classList.toggle('is-ok', !!ok);
     el.classList.toggle('is-error', !ok);
-  }
-
-  function restHeaders(session) {
-    // REST puro contra PostgREST: anon key + JWT del usuario. RLS decide.
-    return {
-      'apikey': SUPABASE_ANON_KEY,
-      'Authorization': `Bearer ${session.access_token}`,
-      'Content-Type': 'application/json',
-    };
   }
 
   function show(section) {
@@ -202,6 +182,93 @@ import { AuthClient } from './assets/vendor/auth-js-2.110.7.mjs';
     });
   }
 
+  // ---------- mis favoritos (Fase 2; REST puro, RLS decide) ----------
+
+  async function articleIndex() {
+    // id → {title, category} desde los JSON públicos del sitio; la
+    // hemeroteca cubre notas que ya salieron de la portada. Si un JSON
+    // falla, se sigue con lo que haya — el favorito se lista igual con
+    // título de respaldo.
+    const map = new Map();
+    for (const src of ['hemeroteca.json', 'articles.json']) {
+      try {
+        const data = await fetch(src, { cache: 'no-store' }).then(r => r.json());
+        for (const a of (data.articles || [])) {
+          if (a.id) map.set(a.id, a);
+        }
+      } catch (err) {
+        console.warn(`No se pudo leer ${src}`, err);
+      }
+    }
+    return map;
+  }
+
+  async function loadFavorites(session) {
+    const status = $('#favsStatus');
+    const list = $('#favList');
+    status.hidden = false;
+    status.textContent = 'Cargando tus notas guardadas…';
+    list.innerHTML = '';
+    try {
+      const resp = await fetch(
+        `${SUPABASE_URL}/rest/v1/favoritos?select=article_id,created_at&order=created_at.desc`,
+        { headers: restHeaders(session) }
+      );
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      const favs = await resp.json();
+      if (!favs.length) {
+        status.textContent = 'Aún no guardas ninguna nota. Usa el botón "Guardar" en las tarjetas de la portada, en la hemeroteca o en la página de cualquier nota.';
+        return;
+      }
+      const index = await articleIndex();
+      status.hidden = true;
+      for (const f of favs) {
+        const a = index.get(f.article_id);
+        const li = document.createElement('li');
+        li.className = 'fav-item';
+        const link = document.createElement('a');
+        link.href = `articulo/${encodeURIComponent(f.article_id)}.html`;
+        link.textContent = a ? a.title : `Nota archivada (${f.article_id})`;
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'account-secondary fav-remove';
+        btn.dataset.unfav = f.article_id;
+        btn.textContent = 'Quitar';
+        li.append(link, btn);
+        list.appendChild(li);
+      }
+    } catch (err) {
+      console.warn('No se pudieron cargar los favoritos', err);
+      status.textContent = 'No se pudieron cargar tus favoritos. Recarga la página para reintentar.';
+    }
+  }
+
+  function initFavorites() {
+    $('#favList').addEventListener('click', async (e) => {
+      const btn = e.target.closest('[data-unfav]');
+      if (!btn) return;
+      const session = (await auth.getSession()).data.session;
+      if (!session) return;
+      btn.disabled = true;
+      try {
+        const resp = await fetch(
+          `${SUPABASE_URL}/rest/v1/favoritos?article_id=eq.${encodeURIComponent(btn.dataset.unfav)}`,
+          { method: 'DELETE', headers: restHeaders(session) }
+        );
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        btn.closest('li').remove();
+        if (!$('#favList').children.length) {
+          const status = $('#favsStatus');
+          status.hidden = false;
+          status.textContent = 'Aún no guardas ninguna nota. Usa el botón "Guardar" en las tarjetas de la portada, en la hemeroteca o en la página de cualquier nota.';
+        }
+      } catch (err) {
+        console.warn('No se pudo quitar el favorito', err);
+        btn.disabled = false;
+      }
+    });
+  }
+
   // ---------- cerrar sesión y borrar cuenta ----------
 
   function initSessionActions() {
@@ -247,6 +314,7 @@ import { AuthClient } from './assets/vendor/auth-js-2.110.7.mjs';
     if (session) {
       show(profileSection);
       await loadProfile(session);
+      await loadFavorites(session);
     } else {
       show(loginSection);
       mountTurnstile();
@@ -256,6 +324,7 @@ import { AuthClient } from './assets/vendor/auth-js-2.110.7.mjs';
   async function main() {
     initLogin();
     initPrefs();
+    initFavorites();
     initSessionActions();
 
     // getSession espera a que auth-js procese el ?code= del enlace mágico
