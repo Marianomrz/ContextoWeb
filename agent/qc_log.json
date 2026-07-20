@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-18T01:21:17.803862+00:00",
-      "title": "Aumentan contagios de conjuntivitis en Yucatán; suman más de 7 mil casos en lo que va del año",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, y está bien estructurado para una noticia informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-18T01:21:22.662735+00:00",
-      "title": "Cotemar reactiva proyectos petroleros en pausa y prepara 1,100 contrataciones para obras de hidrocar",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero le falta contraste de fuentes y una mayor objetividad, limitando su rigor periodístico.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T01:21:27.414458+00:00",
       "title": "El jefe operativo de la Guardia Civil acusa a “algunos” mandos de la UCO de “vanidad”",
       "kind": "noticia",
@@ -3382,6 +3348,34 @@
       "title": "Mangos que caen: la lluvia de historias de Chinua Achebe",
       "kind": "literatura",
       "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-07-20T14:01:45.375529+00:00",
+      "title": "Cifras que maquillan la fragilidad económica",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y estructura, muestra fuentes contrastadas, pero la verificación de algunos datos y el sesgo crítico limitan su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-20T14:05:34.555160+00:00",
+      "title": "El trailer de 'Vengadores: Doomsday' deja una cosa muy clara: Marvel quiere, ante todo, un evento de",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
