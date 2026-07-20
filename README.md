@@ -606,6 +606,74 @@ No hay captcha todavía; el backstop real es que `quality.py` es fail-closed
 y `budget.py` topa la bolsa `moderation` en $1/día — en el peor caso, un
 ataque de spam agota el presupuesto del día sin publicar nada.
 
+## Cuentas de usuario (Fase 1, agregado 19 jul 2026)
+
+Los lectores pueden crear una cuenta gratuita en `cuenta.html` ("Mi cuenta",
+enlazada desde el nav de la portada y el footer de todas las páginas). Es la
+base para favoritos, likes y comentarios (fases futuras); hoy guarda solo la
+preferencia de boletín. Leer el portal **no** requiere cuenta.
+
+**Sin contraseñas (magic link)**: se entra escribiendo el correo; Supabase
+Auth manda un enlace de un solo uso y al abrirlo queda iniciada la sesión.
+Ese clic es a la vez la verificación del correo — no existe una sesión con
+correo sin verificar, que es el requisito para poder usar favoritos/likes/
+comentarios cuando existan. No hay vector de contraseñas débiles ni breaches
+de contraseña porque no hay contraseña.
+
+**La excepción al "sin SDK"** (deliberada y acotada): la autenticación usa la
+librería oficial `@supabase/auth-js` — manejar JWT/refresh/PKCE a mano es
+donde nacen los bugs de seguridad reales. Está **vendoreada** en
+`assets/vendor/auth-js-2.110.7.mjs` (+ `tslib`, su única dependencia, con el
+import reescrito a ruta relativa), versión pinneada, sin CDN en runtime y sin
+npm. Todo lo que no es Auth (el perfil hoy; favoritos/likes mañana) sigue
+siendo REST puro contra PostgREST con `fetch()`, igual que los envíos.
+
+**Modelo de seguridad** (mismas dos credenciales de la sección anterior):
+- Todo se resuelve con la **anon key pública + RLS + el JWT del usuario**.
+  La `service_role` key no participa en ninguna parte de esta fase.
+- La tabla `profiles` (una fila por usuario: `user_id`, `newsletter`,
+  timestamps) la crea un **trigger** al registrarse — el `user_id` sale de
+  `auth.uid()` en el servidor, nunca del body del cliente. RLS: cada quien
+  lee y edita solo su fila (SELECT/UPDATE/INSERT con `WITH CHECK` propio);
+  sin sesión no se ve nada.
+- **Borrar cuenta** (derecho de cancelación, LFPDPPP): la función
+  `delete_own_account()` es `SECURITY DEFINER` — el privilegio de borrar
+  vive en la base, no en ninguna key — y solo puede borrar la cuenta del
+  JWT que la invoca (`auth.uid()`). El `ON DELETE CASCADE` arrastra el
+  perfil y, en fases futuras, favoritos y votos. El botón está en la propia
+  página de cuenta, con confirmación en dos pasos.
+- Estos datos viven **solo en Supabase** — a diferencia de
+  `articles.json`/`blog.json`, jamás se vuelcan a un JSON del repo.
+- **Anti-bots**: honeypot (como todos los formularios del sitio) +
+  **Cloudflare Turnstile** obligatorio para pedir el enlace — sin esto, las
+  fases de favoritos/likes quedarían abiertas a cuentas falsas en masa.
+
+**Configurarlo (una sola vez):**
+1. En el SQL Editor de Supabase, corre `supabase/fase1-cuentas.sql` (tabla,
+   políticas, triggers y función de borrado — el archivo es el registro
+   reproducible de la estructura).
+2. En [Cloudflare Turnstile](https://dash.cloudflare.com/?to=/:account/turnstile),
+   crea un widget para el dominio del portal (+ `localhost` para pruebas):
+   te da una **site key** (pública — va en `TURNSTILE_SITE_KEY` de
+   `cuenta.js`) y una **secret key** (va solo en Supabase, paso 3).
+3. En Supabase **Auth → Attack Protection**, habilita "Enable CAPTCHA
+   protection" con proveedor Turnstile y pega ahí la secret key.
+4. En Supabase **Auth → URL Configuration**: Site URL =
+   `https://01-contexto-portal.vercel.app` y agrega
+   `http://localhost:8000/cuenta.html` a las Redirect URLs para el ciclo
+   local con `python -m http.server 8000`.
+5. En Supabase **Auth → Sign In / Providers → Email**: deja activado
+   "Confirm email" (backstop: cualquier alta por API sin magic link también
+   exige verificar el correo).
+
+**Newsletter**: la casilla en el perfil solo guarda la preferencia
+(`profiles.newsletter`). El envío real de correos es infraestructura aparte
+(falta decidir proveedor) y queda explícitamente fuera de esta fase.
+
+**Aviso de privacidad**: `legal.html` documenta qué se guarda, para qué,
+dónde vive y cómo ejercer los derechos ARCO — requisito legal en México
+(LFPDPPP) desde el momento en que se guarda el correo de alguien.
+
 ## Vigilancia y salud del portal
 
 El portal se publica solo, así que necesita avisarte cuando algo se rompa:

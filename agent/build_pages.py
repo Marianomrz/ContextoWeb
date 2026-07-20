@@ -67,7 +67,7 @@ CATEGORY_LABELS = {
 STATIC_PAGES = [
     "index.html", "fuentes.html", "brujula.html", "glosario.html",
     "correcciones.html", "legal.html", "revista.html", "hemeroteca.html",
-    "metodologia.html",
+    "metodologia.html", "cuenta.html",
 ]
 
 FONTS_URL = ("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;"
@@ -321,6 +321,7 @@ def render_article_page(article):
       <a href="../brujula.html">Brújula editorial</a>
       <a href="../glosario.html">Glosario</a>
       <a href="../metodologia.html">Metodología en números</a>
+      <a href="../cuenta.html">Mi cuenta</a>
       <a href="../correcciones.html">Correcciones</a>
       <a href="../legal.html">Legal y privacidad</a>
     </nav>
@@ -444,6 +445,7 @@ def render_blog_page(entry):
       {f'<a href="../feed.xml">RSS</a>' if SITE_BASE_URL else ""}
       <a href="../fuentes.html">Panel de fuentes</a>
       <a href="../metodologia.html">Metodología en números</a>
+      <a href="../cuenta.html">Mi cuenta</a>
       <a href="../correcciones.html">Correcciones</a>
       <a href="../legal.html">Legal y privacidad</a>
     </nav>

@@ -3027,3 +3027,118 @@ button {
     height: 2.5rem;
   }
 }
+
+/* ============ Mi cuenta (cuenta.html, Fase 1) ============ */
+
+.account-loading {
+  margin-top: 2rem;
+  font-family: var(--font-meta);
+  font-size: 0.9rem;
+  color: var(--ink-faint);
+}
+
+.account-section { margin-top: 1.25rem; }
+.account-form { max-width: 30rem; }
+
+.account-turnstile:not(:empty) { min-height: 65px; }
+
+.account-privacy {
+  margin-top: 2rem;
+  max-width: 34rem;
+  font-family: var(--font-meta);
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+}
+
+.account-email-row {
+  font-family: var(--font-meta);
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+.account-email-row strong { color: var(--ink); font-weight: 600; }
+
+.account-pref {
+  margin-top: 1.5rem;
+  max-width: 34rem;
+  padding: 1rem 1.2rem;
+  background: var(--paper-raised);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-card);
+}
+
+.account-check {
+  display: flex;
+  gap: 0.7rem;
+  align-items: flex-start;
+  cursor: pointer;
+  font-family: var(--font-meta);
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+.account-check input { margin-top: 0.3rem; accent-color: var(--accent); }
+.account-check small { display: block; margin-top: 0.2rem; color: var(--ink-faint); }
+
+.account-actions { margin-top: 1.5rem; }
+
+.account-secondary {
+  padding: 0.55rem 1.1rem;
+  font-family: var(--font-meta);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--ink-soft);
+  background: transparent;
+  border: 1px solid var(--rule-strong);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.account-secondary:hover { color: var(--accent); border-color: var(--accent); }
+
+.account-danger {
+  margin-top: 3rem;
+  max-width: 34rem;
+  padding: 1.2rem 1.4rem;
+  border: 1px solid var(--spec-right-soft);
+  border-radius: var(--radius-sm);
+}
+.page-content .account-danger h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.05rem;
+  color: var(--spec-right);
+}
+.account-danger p {
+  margin: 0 0 0.9rem;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+}
+
+.account-danger-btn {
+  padding: 0.55rem 1.1rem;
+  font-family: var(--font-meta);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--spec-right);
+  background: transparent;
+  border: 1px solid var(--spec-right);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+.account-danger-btn:hover { background: var(--spec-right-soft); }
+.account-danger-btn.is-final {
+  color: #fff;
+  background: var(--spec-right);
+}
+.account-danger-btn:disabled { opacity: 0.6; cursor: default; pointer-events: none; }
+
+.account-danger-confirm {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  align-items: center;
+}
+/* display:flex le ganaría al atributo hidden — misma guarda que
+   .submit-form-status[hidden] más arriba */
+.account-danger-confirm[hidden] { display: none; }
+.account-danger-confirm p { flex-basis: 100%; margin: 0 0 0.3rem; }

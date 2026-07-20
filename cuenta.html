@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<script>(function(){try{var t=localStorage.getItem('contexto-theme');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;}catch(e){}})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mi cuenta — Contexto</title>
+<meta name="description" content="Entra a Contexto con un enlace mágico a tu correo — sin contraseñas. Tu cuenta guarda tus preferencias y, pronto, tus notas favoritas.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Contexto">
+<meta property="og:title" content="Mi cuenta — Contexto">
+<meta property="og:description" content="Entra con un enlace mágico a tu correo — sin contraseñas.">
+<meta property="og:locale" content="es_MX">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#F4F4F3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#050506" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="mini-masthead">
+  <a class="mini-masthead-brand" href="index.html">Contexto</a>
+  <span class="mini-masthead-note">cada noticia, con su ángulo a la vista</span>
+</header>
+
+<main class="page-content account-page">
+  <span class="section-eyebrow">Tu cuenta</span>
+  <h1>Mi cuenta</h1>
+
+  <!-- estado inicial mientras se resuelve la sesión -->
+  <p class="account-loading" id="accountLoading">Verificando tu sesión…</p>
+
+  <!-- sin sesión: entrar con enlace mágico -->
+  <section class="account-section" id="loginSection" hidden>
+    <p class="page-lede">Sin contraseñas: escribe tu correo y te mandamos un
+    <strong>enlace mágico</strong>. Al abrirlo desde tu bandeja quedas dentro —
+    ese clic es, a la vez, la verificación de tu correo.</p>
+
+    <form class="submit-form account-form" id="loginForm" novalidate>
+      <div class="form-field">
+        <label for="loginEmail">Tu correo electrónico</label>
+        <input class="form-input" type="email" id="loginEmail" name="email"
+               maxlength="254" required autocomplete="email" inputmode="email"
+               placeholder="tu@correo.com">
+      </div>
+      <!-- honeypot: un campo que ningún humano llena (oculto por CSS); si un
+           bot lo rellena, el envío se descarta sin llegar a Supabase — mismo
+           patrón que los formularios de revista y reseñas. -->
+      <div class="form-honeypot" aria-hidden="true">
+        <label for="loginWebsite">No llenar este campo</label>
+        <input type="text" id="loginWebsite" name="website" tabindex="-1" autocomplete="off">
+      </div>
+      <!-- Turnstile (anti-bots de Cloudflare): obligatorio para pedir el enlace -->
+      <div class="account-turnstile" id="turnstileBox"></div>
+      <button class="btn-accent" type="submit" id="loginSubmit">✉ Mandarme el enlace</button>
+      <p class="submit-form-status" id="loginStatus" hidden></p>
+    </form>
+
+    <p class="account-privacy">Solo guardamos tu correo y tus preferencias —
+    puedes borrar tu cuenta (y todo lo asociado) cuando quieras desde esta
+    misma página. Detalles en <a href="legal.html">Legal y privacidad</a>.</p>
+  </section>
+
+  <!-- enlace enviado: revisar bandeja -->
+  <section class="account-section" id="sentSection" hidden>
+    <h2>Revisa tu correo</h2>
+    <p>Te mandamos un enlace a <strong id="sentEmail"></strong>. Ábrelo desde
+    este mismo dispositivo y navegador para entrar. Si no llega en unos
+    minutos, revisa la carpeta de spam.</p>
+    <button class="account-secondary" type="button" id="sentRetry">Usar otro correo</button>
+  </section>
+
+  <!-- con sesión: perfil -->
+  <section class="account-section" id="profileSection" hidden>
+    <p class="account-email-row">Sesión iniciada como <strong id="profileEmail"></strong></p>
+
+    <div class="account-pref">
+      <label class="account-check">
+        <input type="checkbox" id="newsletterCheck">
+        <span>Quiero recibir el boletín de Contexto cuando exista
+        <small>(hoy solo guardamos tu preferencia; aún no enviamos correos)</small></span>
+      </label>
+      <p class="submit-form-status" id="prefStatus" hidden></p>
+    </div>
+
+    <div class="account-actions">
+      <button class="account-secondary" type="button" id="logoutBtn">Cerrar sesión</button>
+    </div>
+
+    <div class="account-danger" id="dangerZone">
+      <h2>Borrar mi cuenta</h2>
+      <p>Elimina tu cuenta y todos los datos asociados a ella (correo,
+      preferencias y, cuando existan, tus favoritos y votos). Esta acción no
+      se puede deshacer.</p>
+      <button class="account-danger-btn" type="button" id="deleteAskBtn">Quiero borrar mi cuenta</button>
+      <div class="account-danger-confirm" id="deleteConfirmBox" hidden>
+        <p><strong>¿De verdad?</strong> Se borra todo, ahora mismo, sin vuelta atrás.</p>
+        <button class="account-danger-btn is-final" type="button" id="deleteConfirmBtn">Sí, borrar definitivamente</button>
+        <button class="account-secondary" type="button" id="deleteCancelBtn">Mejor no</button>
+      </div>
+      <p class="submit-form-status" id="deleteStatus" hidden></p>
+    </div>
+  </section>
+
+  <p class="back-home"><a href="index.html">← Volver a la portada</a></p>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p class="footer-brand">Contexto</p>
+    <p class="footer-note">Un ejercicio de transparencia editorial.</p>
+    <nav class="footer-nav" aria-label="Páginas del sitio">
+      <a href="index.html">Portada</a>
+      <a href="revista.html">Revista jurídica</a>
+      <a href="hemeroteca.html">Hemeroteca</a>
+      <a href="feed.xml">RSS</a>
+      <a href="fuentes.html">Panel de fuentes</a>
+      <a href="brujula.html">Brújula editorial</a>
+      <a href="glosario.html">Glosario</a>
+      <a href="metodologia.html">Metodología en números</a>
+      <a href="cuenta.html">Mi cuenta</a>
+      <a href="correcciones.html">Correcciones</a>
+      <a href="legal.html">Legal y privacidad</a>
+    </nav>
+  </div>
+</footer>
+
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer></script>
+<script type="module" src="cuenta.js"></script>
+</body>
+</html>
