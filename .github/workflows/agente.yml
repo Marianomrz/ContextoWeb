@@ -184,16 +184,26 @@ jobs:
           # ("! [rejected] ... fetch first") aunque no haya ningún conflicto de
           # contenido real — antes eso tumbaba el ciclo completo pese a que el
           # trabajo ya estaba hecho y lo único que faltaba era subirlo.
-          for i in 1 2 3 4 5; do
+          # Reintentos subidos de 5 a 8 y el backoff ensanchado (revisión 19
+          # jul 2026): con el segundo cron de agente.yml (:07 y :37) más
+          # moderacion.yml cada 3h, ahora hay más escritores concurrentes a
+          # `main` que cuando se escribió el retry-loop original, y el Issue
+          # #2 viene acumulando fallos reales de este paso. Esto reduce la
+          # probabilidad de agotar los reintentos por pura mala suerte de
+          # colisión, pero si el error real es un CONFLICTO de contenido en
+          # el rebase (no solo un rechazo por no-fast-forward), más
+          # reintentos no lo van a resolver — para confirmar cuál de los dos
+          # es, hace falta ver el log real de este paso.
+          for i in 1 2 3 4 5 6 7 8; do
             if git push origin main; then
               break
             fi
-            if [ "$i" -eq 5 ]; then
-              echo "Push rechazado 5 veces seguidas — algo más serio que una carrera normal, se deja fallar el paso."
+            if [ "$i" -eq 8 ]; then
+              echo "Push rechazado 8 veces seguidas — algo más serio que una carrera normal, se deja fallar el paso."
               exit 1
             fi
-            echo "Push rechazado (intento $i/5) — otra corrida empujó primero. Reintentando con pull --rebase…"
-            sleep $(( (RANDOM % 10) + 3 ))
+            echo "Push rechazado (intento $i/8) — otra corrida empujó primero. Reintentando con pull --rebase…"
+            sleep $(( (RANDOM % 20) + 5 ))
             git pull --rebase origin main
           done
 

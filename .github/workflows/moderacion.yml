@@ -205,16 +205,20 @@ jobs:
           # llega segundo se rechaza aunque no haya conflicto real de
           # contenido. Ver el comentario largo en agente.yml para el
           # diagnóstico completo (corrida real #24 de ese workflow).
-          for i in 1 2 3 4 5; do
+          # Reintentos subidos de 5 a 8, mismo criterio y misma fecha que
+          # agente.yml (ver su comentario largo) — más escritores
+          # concurrentes a `main` desde que hay dos triggers/hora en
+          # agente.yml.
+          for i in 1 2 3 4 5 6 7 8; do
             if git push origin main; then
               break
             fi
-            if [ "$i" -eq 5 ]; then
-              echo "Push rechazado 5 veces seguidas — se deja fallar el paso."
+            if [ "$i" -eq 8 ]; then
+              echo "Push rechazado 8 veces seguidas — se deja fallar el paso."
               exit 1
             fi
-            echo "Push rechazado (intento $i/5) — reintentando con pull --rebase…"
-            sleep $(( (RANDOM % 10) + 3 ))
+            echo "Push rechazado (intento $i/8) — reintentando con pull --rebase…"
+            sleep $(( (RANDOM % 20) + 5 ))
             git pull --rebase origin main
           done
 
