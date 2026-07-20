@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-07-20T15:01:03.866032+00:00",
+  "generated_at": "2026-07-20T15:41:46.442463+00:00",
   "articles": [
+    {
+      "id": "a36bab572117",
+      "title": "Bolsa mexicana sube por segunda jornada consecutiva en mercado atento a temporada de reportes",
+      "summary": "Los índices principales de la Bolsa Mexicana de Valores, el S&P/BMV IPC y el FTSE BIVA, avanzaron por segunda jornada consecutiva, impulsados por una menor percepción de riesgo geopolítico y la expectativa de los datos de inflación de julio y de la tercera ronda de negociaciones del TMEC entre México y Estados Unidos.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/mercados/bolsa-mexicana-sube-segunda-jornada-consecutiva-mercado-atento-temporada-reportes-20260720-824077.html",
+      "published_at": "2026-07-20T15:39:35+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto enfatiza el optimismo del mercado y la reducción del riesgo geopolítico sin incluir voces críticas o perspectivas contrarias, lo que indica un leve sesgo pro‑mercado típico de medios de economía.",
+      "focus_analysis": "El artículo se centra en el ángulo económico, resaltando el desempeño de los índices bursátiles, la expectativa de indicadores macroeconómicos y el avance de las negociaciones del TMEC, dejando de lado el impacto social o político más amplio.",
+      "focus_tags": [
+        "mercado financiero",
+        "índices bursátiles",
+        "inflación y TMEC"
+      ],
+      "context": [
+        {
+          "label": "Histórico del mercado mexicano",
+          "text": "En México, los índices bursátiles suelen reaccionar de manera sensible a los anuncios de inflación y a los avances en los acuerdos comerciales, como el TMEC, lo que afecta la percepción de riesgo de los inversionistas."
+        },
+        {
+          "label": "Negociaciones del TMEC",
+          "text": "Las conversaciones entre México y Estados Unidos sobre la revisión del Tratado entre México, Estados Unidos y Canadá han generado incertidumbre y expectativas de inversión, influyendo en la actividad de la Bolsa."
+        },
+        {
+          "label": "Temporada de resultados corporativos",
+          "text": "La temporada de reportes del segundo trimestre, con compañías como Alsea y Grupo Bimbo presentando sus cifras, es un factor clave que suele mover los precios de las acciones en la Bolsa mexicana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "269b33a4cc00",
       "title": "El trailer de 'Vengadores: Doomsday' deja una cosa muy clara: Marvel quiere, ante todo, un evento del tamaño de 'Endgame'",
@@ -1007,41 +1042,6 @@
       "editorial_pick": true,
       "qc": {
         "overall": 7.2
-      }
-    },
-    {
-      "id": "00bf1d1a4da7",
-      "title": "Prepárase antes de salir: Este es el pronóstico del clima en Bahía de Banderas este 18 de julio",
-      "summary": "Infobae México publica el pronóstico del tiempo para el municipio de Bahía de Banderas, Nayarit, indicando que el sábado 18 de julio la temperatura máxima será de 32 °C, con 60 % de probabilidad de lluvia y alta nubosidad, y que por la noche la temperatura bajará a 25 °C y la probabilidad de precipitación será del 25 %.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/18/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-bahia-de-banderas-este-18-de-julio/",
-      "published_at": "2026-07-18T03:18:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos meteorológicos objetivos y no emplea lenguaje cargado ni fuentes con inclinación política, manteniendo un tono neutral.",
-      "focus_analysis": "El medio se centró en ofrecer datos meteorológicos concretos para los lectores, dejando de lado consideraciones sobre el impacto del clima en la agricultura, el turismo o la discusión del cambio climático.",
-      "focus_tags": [
-        "clima",
-        "bahía de banderas",
-        "pronóstico"
-      ],
-      "context": [
-        {
-          "label": "clima local",
-          "text": "Bahía de Banderas, en el estado de Nayarit, tiene un clima cálido subhúmedo con temperaturas anuales entre 27 °C y 31 °C y una temporada de lluvias intensas entre junio y septiembre."
-        },
-        {
-          "label": "cambio climático en México",
-          "text": "Expertos advierten que el cambio climático provocará una reducción de las lluvias anuales y un aumento de las temperaturas en México, afectando a agricultores y ganaderos."
-        },
-        {
-          "label": "importancia del pronóstico",
-          "text": "Los pronósticos del tiempo son esenciales para sectores como el transporte, el turismo y la prevención de desastres, ya que permiten planificar actividades y reducir riesgos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
       }
     }
   ]

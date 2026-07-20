@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-18T01:21:27.414458+00:00",
-      "title": "El jefe operativo de la Guardia Civil acusa a “algunos” mandos de la UCO de “vanidad”",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es preciso y objetivo, pero necesita mayor contraste de fuentes para cubrir adecuadamente el conflicto interno.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T01:21:31.471566+00:00",
       "title": "El secreto detrás de las licitaciones: cómo se definen las ofertas en grandes contratos de arrendami",
       "kind": "noticia",
@@ -3381,6 +3364,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-07-20T15:40:36.276912+00:00",
+      "title": "Bolsa mexicana sube por segunda jornada consecutiva en mercado atento a temporada de reportes",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría mejorar la precisión añadiendo datos cuantitativos específicos.",
+      "error": null
     }
   ]
 }
