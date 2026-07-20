@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-18T01:21:13.707928+00:00",
-      "title": "Sebastián Abreu revela el primer refuerzo que Rafa Márquez tendrá en la Selección Mexicana",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta información probablemente inexacta y con fuentes limitadas, aunque es reciente y está estructurado adecuadamente.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T01:21:17.803862+00:00",
       "title": "Aumentan contagios de conjuntivitis en Yucatán; suman más de 7 mil casos en lo que va del año",
       "kind": "noticia",
@@ -3388,6 +3371,17 @@
       "title": "Incendio forestal arrasa con más de 12 mil hectáreas en España; riesgo de propagación continúa muy a",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-07-20T11:40:41.939652+00:00",
+      "title": "Mangos que caen: la lluvia de historias de Chinua Achebe",
+      "kind": "literatura",
+      "category": "literatura",
       "approved": true,
       "overall": null,
       "scores": {},
