@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-07-20T19:41:01.682036+00:00",
+  "generated_at": "2026-07-20T20:01:05.632015+00:00",
   "articles": [
+    {
+      "id": "84d3dcbec1e3",
+      "title": "Las celebraciones de los campeones del mundo, en directo | Cientos de miles de aficionados arropan a los campeones del mundo en su recorrido por Madrid",
+      "summary": "La selección argentina de fútbol recibió una masiva ovación en Madrid, donde miles de aficionados la acompañaron mientras el rey Felipe VI la felicitó, y la FIFA anunció que investigará los incidentes ocurridos después de la final.",
+      "category": "deportes",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/deportes/mundial-futbol/2026-07-20/las-celebraciones-de-los-campeones-del-mundo-en-directo.html",
+      "published_at": "2026-07-20T19:55:14+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto combina elogios y la celebración con la mención de una investigación de la FIFA, empleando un lenguaje descriptivo sin adjetivos cargados ni fuentes partidistas, lo que indica una cobertura equilibrada.",
+      "focus_analysis": "El medio se centró en el espectáculo público y la euforia de los seguidores, resaltando la presencia institucional del rey, pero dejó de lado un análisis profundo de los incidentes que motivaron la investigación de la FIFA.",
+      "focus_tags": [
+        "celebración deportiva",
+        "reacción pública",
+        "investigación FIFA"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del triunfo",
+          "text": "Argentina se coronó campeona del mundo en la Copa del Mundo de 2026, venciendo a Francia en la final y logrando su tercer título mundial."
+        },
+        {
+          "label": "Celebraciones previas en Madrid",
+          "text": "En ocasiones anteriores, como la victoria de España en 2010, la capital española ha organizado desfiles y ceremonias para recibir a los campeones, generando una tradición de festejos masivos."
+        },
+        {
+          "label": "Postura de otros medios",
+          "text": "Algunos medios, como Aristegui Noticias, destacaron la cálida acogida de España hacia los jugadores, describiendo al país como un público que los recibió como héroes."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "a36bab572117",
       "title": "Bolsa mexicana sube por segunda jornada consecutiva en mercado atento a temporada de reportes",
@@ -1006,42 +1038,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "634afdd6dd90",
-      "title": "Cuando el tren del tiempo lleva libros en su carga de polvo",
-      "summary": "Una vieja carrocería de tren, oxidada y crujiente, se abre como una biblioteca itinerante; cada asiento es un vagón que lleva sus pasajeros de recuerdos y futuros. En ese vagón de acero, la voz de Namwali Serpell recita el latido de Zambia, donde la historia y la ciencia ficción se entrelazan como raí­ces que se niegan a separarse.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-07-18T06:00:37.911640+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, al cerrar los ojos y escuchar el eco de los rieles que dejaron de servir al comercio, pensé en cómo la literatura puede ser el último tren que nos lleva a lugares que el mapa no muestra. El Old Drift, con su mezcla de cronología y fantasía, encaja perfecto en esa vía que atraviesa el pasado colonial y el futuro tecnológico de África.",
-      "focus_tags": [
-        "África",
-        "contemporáneo",
-        "Zambia"
-      ],
-      "context": [
-        {
-          "label": "Autor",
-          "text": "Namwali Serpell, escritora zambiana nacida en 1988, combina en su obra la formación académica en literatura inglesa con una profunda conexión a la oralidad y los mitos de su tierra."
-        },
-        {
-          "label": "Obra clave",
-          "text": "The Old Drift (2020) narra la saga de tres familias a lo largo de un siglo, entrelazando realismo, ciencia ficción y mitología en una narrativa que fluye como un río bajo los puentes del tiempo."
-        },
-        {
-          "label": "Lecturas afines",
-          "text": "Para quien disfruta de la arquitectura de la historia en la ficción, probar con Homegoing de Yaa Gyasi, Americanah de Chimamanda Ngozi Adichie y The Furrows de la propia Serpell, ampliará la perspectiva sobre la diáspora y la reinvención del pasado."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.2
       }
     }
   ]
