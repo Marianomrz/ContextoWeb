@@ -17,6 +17,20 @@ import { auth, SUPABASE_URL, restHeaders } from './auth-client.js';
   // Site key de Cloudflare Turnstile (pública, como toda site key).
   const TURNSTILE_SITE_KEY = '0x4AAAAAAD5YgHCOLMGTJT2r';
 
+  // copia local de CATEGORY_LABELS (esta página no carga app.js — mismo
+  // patrón que hemeroteca.js). Ver el contrato de categorías en CLAUDE.md:
+  // debe coincidir con VALID_CATEGORIES en agent.py y con el CHECK de
+  // supabase/fase2b-newsletter-categorias.sql.
+  const CATEGORY_LABELS = {
+    politica: 'Política',
+    economia: 'Economía',
+    tecnologia: 'Tecnología',
+    sociedad: 'Sociedad',
+    internacional: 'Internacional',
+    deportes: 'Deportes',
+    literatura: 'Literatura',
+  };
+
   const $ = (sel) => document.querySelector(sel);
   const loading = $('#accountLoading');
   const loginSection = $('#loginSection');
@@ -135,18 +149,53 @@ import { auth, SUPABASE_URL, restHeaders } from './auth-client.js';
 
   // ---------- perfil (REST puro, RLS decide) ----------
 
+  // chips de secciones del boletín: uno por categoría, con data-category
+  // para heredar la paleta genérica [data-category] de styles.css
+  function renderNewsCats() {
+    const grid = $('#newsCatsGrid');
+    if (grid.children.length) return;
+    for (const [cat, label] of Object.entries(CATEGORY_LABELS)) {
+      const chip = document.createElement('label');
+      chip.className = 'cat-chip';
+      chip.dataset.category = cat;
+      const input = document.createElement('input');
+      input.type = 'checkbox';
+      input.value = cat;
+      const span = document.createElement('span');
+      span.textContent = label;
+      chip.append(input, span);
+      grid.appendChild(chip);
+    }
+  }
+
+  function paintNewsCats(cats) {
+    renderNewsCats();
+    $('#newsCatsGrid').querySelectorAll('input').forEach((input) => {
+      input.checked = cats.includes(input.value);
+      input.closest('.cat-chip').classList.toggle('is-on', input.checked);
+    });
+  }
+
+  function toggleNewsCatsBox() {
+    // cortesía de UI: el filtro solo se muestra si el boletín está
+    // activado — la RLS protege la fila siempre, visible o no
+    $('#newsCatsBox').hidden = !$('#newsletterCheck').checked;
+  }
+
   async function loadProfile(session) {
     $('#profileEmail').textContent = session.user.email || '';
     const check = $('#newsletterCheck');
     check.disabled = true;
     try {
       const resp = await fetch(
-        `${SUPABASE_URL}/rest/v1/profiles?select=newsletter&user_id=eq.${session.user.id}`,
+        `${SUPABASE_URL}/rest/v1/profiles?select=newsletter,newsletter_categorias&user_id=eq.${session.user.id}`,
         { headers: restHeaders(session) }
       );
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       const rows = await resp.json();
       check.checked = !!(rows[0] && rows[0].newsletter);
+      paintNewsCats((rows[0] && rows[0].newsletter_categorias) || []);
+      toggleNewsCatsBox();
     } catch (err) {
       console.warn('No se pudo leer el perfil', err);
     } finally {
@@ -154,30 +203,53 @@ import { auth, SUPABASE_URL, restHeaders } from './auth-client.js';
     }
   }
 
+  async function patchProfile(body, status) {
+    const session = (await auth.getSession()).data.session;
+    if (!session) return false;
+    try {
+      const resp = await fetch(
+        `${SUPABASE_URL}/rest/v1/profiles?user_id=eq.${session.user.id}`,
+        {
+          method: 'PATCH',
+          headers: { ...restHeaders(session), 'Prefer': 'return=minimal' },
+          body: JSON.stringify(body),
+        }
+      );
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      showStatus(status, 'Preferencia guardada.', true);
+      return true;
+    } catch (err) {
+      showStatus(status, 'No se pudo guardar. Intenta de nuevo.', false);
+      return false;
+    }
+  }
+
   function initPrefs() {
     const check = $('#newsletterCheck');
     const status = $('#prefStatus');
+
     check.addEventListener('change', async () => {
-      const session = (await auth.getSession()).data.session;
-      if (!session) return;
       const wanted = check.checked;
       check.disabled = true;
-      try {
-        const resp = await fetch(
-          `${SUPABASE_URL}/rest/v1/profiles?user_id=eq.${session.user.id}`,
-          {
-            method: 'PATCH',
-            headers: { ...restHeaders(session), 'Prefer': 'return=minimal' },
-            body: JSON.stringify({ newsletter: wanted }),
-          }
-        );
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        showStatus(status, 'Preferencia guardada.', true);
-      } catch (err) {
-        check.checked = !wanted;
-        showStatus(status, 'No se pudo guardar. Intenta de nuevo.', false);
-      } finally {
-        check.disabled = false;
+      const ok = await patchProfile({ newsletter: wanted }, status);
+      if (!ok) check.checked = !wanted;
+      toggleNewsCatsBox();
+      check.disabled = false;
+    });
+
+    // filtro de secciones: guarda el arreglo completo en cada cambio.
+    // El arreglo solo FILTRA el contenido de quien ya se suscribió — la
+    // lógica futura de envío debe revisar siempre newsletter=true junto
+    // con esto, nunca el arreglo solo (regla de oro, ver el SQL de fase 2b).
+    $('#newsCatsGrid').addEventListener('change', async (e) => {
+      const input = e.target.closest('input');
+      if (!input) return;
+      input.closest('.cat-chip').classList.toggle('is-on', input.checked);
+      const cats = [...$('#newsCatsGrid').querySelectorAll('input:checked')].map(i => i.value);
+      const ok = await patchProfile({ newsletter_categorias: cats }, status);
+      if (!ok) {
+        input.checked = !input.checked;
+        input.closest('.cat-chip').classList.toggle('is-on', input.checked);
       }
     });
   }

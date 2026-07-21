@@ -3224,3 +3224,54 @@ button {
 }
 .fav-item a:hover { color: var(--accent); }
 .fav-remove { flex: none; font-size: 0.75rem; padding: 0.35rem 0.8rem; }
+
+/* ============ Filtro de secciones del boletín (Fase 2b) ============ */
+
+.news-cats {
+  margin-top: 0.9rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--rule);
+}
+.news-cats[hidden] { display: none; }
+
+.news-cats-lede {
+  margin: 0 0 0.6rem;
+  font-family: var(--font-meta);
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+}
+
+.news-cats-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+/* chip por categoría: hereda --cat/--cat-soft de la regla genérica
+   [data-category="x"] de styles.css (la de baja especificidad pensada
+   para reusar la paleta fuera de las tarjetas) */
+.cat-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.8rem;
+  font-family: var(--font-meta);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--ink-soft);
+  border: 1px solid var(--rule-strong);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+.cat-chip:hover { border-color: var(--cat); color: var(--cat); }
+.cat-chip input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.cat-chip.is-on {
+  color: var(--cat);
+  background: var(--cat-soft);
+  border-color: var(--cat);
+}
+.cat-chip:focus-within { outline: 2px solid var(--focus-ring); outline-offset: 2px; }

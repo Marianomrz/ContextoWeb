@@ -670,6 +670,18 @@ siendo REST puro contra PostgREST con `fetch()`, igual que los envíos.
 (`profiles.newsletter`). El envío real de correos es infraestructura aparte
 (falta decidir proveedor) y queda explícitamente fuera de esta fase.
 
+**Filtro de secciones del boletín** (agregado 20 jul 2026): con el boletín
+activado, el perfil muestra chips de las 7 secciones del portal
+(`profiles.newsletter_categorias`, corre `supabase/fase2b-newsletter-categorias.sql`).
+Sin selección = todas las secciones (opt-out); un CHECK en Postgres limita
+el arreglo a los 7 valores válidos sin confiar en el frontend. **Regla de
+oro para el envío futuro**: el arreglo solo filtra el contenido de quien ya
+se suscribió — cualquier job de newsletter debe revisar siempre
+`newsletter = true` junto con el arreglo, nunca el arreglo solo. Ese job
+futuro leerá las preferencias de los suscritos con la `service_role` key
+del lado del servidor (como juridica.py/resenas.py); hoy no existe y sigue
+bloqueado hasta decidir proveedor.
+
 **Aviso de privacidad**: `legal.html` documenta qué se guarda, para qué,
 dónde vive y cómo ejercer los derechos ARCO — requisito legal en México
 (LFPDPPP) desde el momento en que se guarda el correo de alguien.

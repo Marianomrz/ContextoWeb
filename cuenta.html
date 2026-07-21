@@ -85,6 +85,15 @@
         <span>Quiero recibir el boletín de Contexto cuando exista
         <small>(hoy solo guardamos tu preferencia; aún no enviamos correos)</small></span>
       </label>
+      <!-- filtro de secciones del boletín: visible solo con la casilla
+           activada (cortesía de UI — la RLS protege la fila siempre).
+           Sin selección = todas las secciones (opt-out). Los chips los
+           pinta cuenta.js con data-category para reusar la paleta. -->
+      <div class="news-cats" id="newsCatsBox" hidden>
+        <p class="news-cats-lede">¿Qué secciones quieres recibir?
+        Si no marcas ninguna, te llega todo el portal.</p>
+        <div class="news-cats-grid" id="newsCatsGrid"></div>
+      </div>
       <p class="submit-form-status" id="prefStatus" hidden></p>
     </div>
 
