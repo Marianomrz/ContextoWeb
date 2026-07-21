@@ -89,6 +89,10 @@
       <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M10 13a5 5 0 007.07 0l1.93-1.93a5 5 0 00-7.07-7.07L10.5 5.43"/><path d="M14 11a5 5 0 00-7.07 0L5 12.93a5 5 0 007.07 7.07l1.43-1.43"/></svg>
       <span class="share-label">Compartir</span>
     </button>
+      <button type="button" class="fav-btn" data-fav="b7c4a0e6b3de" aria-pressed="false">
+      <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>
+      <span class="fav-label">Guardar</span>
+    </button>
       <span class="confidence-note"><span class="agent-avatar" aria-hidden="true"></span>Análisis editorial · confianza alta</span>
     </div>
   </article>
@@ -108,6 +112,7 @@
       <a href="../brujula.html">Brújula editorial</a>
       <a href="../glosario.html">Glosario</a>
       <a href="../metodologia.html">Metodología en números</a>
+      <a href="../cuenta.html">Mi cuenta</a>
       <a href="../correcciones.html">Correcciones</a>
       <a href="../legal.html">Legal y privacidad</a>
     </nav>
@@ -115,6 +120,7 @@
 </footer>
 
 <script src="../share.js"></script>
+<script type="module" src="../favoritos.js"></script>
 <script>(function(){
   var btn = document.getElementById('factsOnlyToggle');
   if (!btn) return;
