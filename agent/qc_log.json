@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-18T01:21:35.924445+00:00",
-      "title": "Realizan cuatro cateos simultáneos en Mérida; inmuebles estarían relacionados con homicidio de hombr",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque podría reforzar la diversidad de fuentes para un contraste más robusto.",
-      "error": null
-    },
-    {
       "at": "2026-07-18T01:40:34.909376+00:00",
       "title": "16 frases de Scaloni: su abrazo con Messi tras ganarle a Inglaterra y el emotivo mensaje al plantel ",
       "kind": "noticia",
@@ -3370,6 +3353,17 @@
       "title": "Las celebraciones de los campeones del mundo, en directo | Cientos de miles de aficionados arropan a",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-07-24T14:00:48.049451+00:00",
+      "title": "Los espejos sin reflejo de Borges: laberintos en papel",
+      "kind": "literatura",
+      "category": "literatura",
       "approved": true,
       "overall": null,
       "scores": {},
