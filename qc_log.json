@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T10:01:23.685812+00:00",
-      "title": "Nicaragua",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 5
-      },
-      "observacion": "El paquete es actual y objetivo, pero le falta contraste de fuentes y una estructura más directa de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:01:26.632542+00:00",
-      "title": "Jugó en Boca, salió campeón con O’Higgins y fue compañero de Messi: “Esta noche tendré el corazón pa",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una estructura adecuada y está actualizado, pero la falta de verificación de datos clave afecta su credibilidad global.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:01:31.343174+00:00",
-      "title": "Dos años después, Federico Viñas vuelve a la Liga MX; así fue su paso por Europa",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la precisión de los datos y ampliar la variedad de fuentes, pero mantiene buena objetividad y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:01:35.063038+00:00",
-      "title": "Tetracromatismo: la particular variante genética que hace que algunas mujeres vean más colores que e",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien fuenteada, objetiva y estructurada de forma adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:01:41.109693+00:00",
-      "title": "Difícil, vivienda asequible en zonas gentrificadas: IP",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, pero necesita mayor diversidad de fuentes para equilibrar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:04:54.086643+00:00",
-      "title": "No frena violencia política en Guanajuato: Solo 31 de 170 denuncias terminan en sanción",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero necesita más fuentes contrastantes y aclarar la diferencia entre sentencias y registros para mejorar su precisión y profundidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:04:58.850236+00:00",
-      "title": "Google lanza Lyria 3.5: el modelo de generación musical que hace canciones más naturales, expresivas",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejor verificación de datos y fuentes más diversas, aunque está bien estructurado y es actual.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:05:03.159630+00:00",
-      "title": "Última hora de los incendios forestales, en directo | Sánchez anuncia el fin de la emergencia nacion",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo cumple con la mayoría de los requisitos de objetividad y actualidad, pero la falta de fuentes verificables y de contraste de voces limita su calidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T10:05:07.960364+00:00",
-      "title": "Colectivo no ve avance en plan contra desplazamiento",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura, pero necesita mayor contraste de fuentes y mayor neutralidad en la exposición de los hechos.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T10:05:20.416322+00:00",
       "title": "Adopción tecnológica y escasez de mano de obra: evidencia de la Revolución Industrial británica",
       "kind": "noticia",
@@ -3392,6 +3239,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial; presenta la información de forma clara, reciente y objetiva, aunque podría reforzarse con fuentes adicionales y citas precisas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:02.688169+00:00",
+      "title": "México trabaja en atender el despojo de inmuebles en el país: destaca digitalización de registros pú",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es reciente y estructurado adecuadamente, pero carece de verificación de datos y de contraste de fuentes, lo que afecta su objetividad y rigor informativo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:09.960406+00:00",
+      "title": "Sheinbaum responde a críticas sobre derechos de las audiencias; \"nunca ha habido más libertad de exp",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de actualidad y estructura, pero podría mejorar la cobertura al incluir más voces críticas directamente en el artículo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:14.291623+00:00",
+      "title": "Conmoción en el fútbol mundial: UEFA anunció que sus selecciones nacionales no participarán de los t",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete carece de veracidad y equilibrio, aunque es reciente y estructurado, por lo que no cumple los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:19.590127+00:00",
+      "title": "La pareja de Ayuso pone en venta el piso en el que han vivido en Chamberí, comprado tras el presunto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete es correcto y actual, pero necesita más fuentes y perspectivas para cumplir con el estándar de contraste en temas políticos controvertidos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:24.086946+00:00",
+      "title": "Sheinbaum rechaza que iniciativa sobre derechos de las audiencias busque censurar",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero necesita incorporar más perspectivas contrastantes para cumplir con los estándares de equilibrio en temas políticos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:29.129013+00:00",
+      "title": "Lo más inquietante de la IA no es lo rápido que está progresando: es que sus creadores no saben cómo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y actualidad, presenta la información de forma objetiva y estructurada, aunque podría enriquecer el contraste de fuentes con voces opositoras directas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:38.460598+00:00",
+      "title": "Adopción tecnológica y escasez de mano de obra: evidencia de la Revolución Industrial británica",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es razonablemente sólido en objetividad y actualidad, pero necesita mayor respaldo de fuentes y citas para mejorar la precisión y el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:43.914315+00:00",
+      "title": "Cáncer de próstata: cuál es el promedio de eyaculaciones mensuales relacionado con un riesgo hasta 2",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En conjunto, el paquete es informativo y actualizado, pero la falta de verificación de las recomendaciones institucionales mexicanas y la ausencia de perspectivas críticas reducen ligeramente su precisión y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T16:45:49.502460+00:00",
+      "title": "\"México no es piñata de nadie\", afirma Sheinbaum ante ataques de políticos de EU; pide no usar al pa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque presenta una visión algo parcial y falta de fuentes contrastantes.",
       "error": null
     }
   ]
