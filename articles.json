@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-30T10:01:42.120225+00:00",
+  "generated_at": "2026-07-30T10:06:07.677878+00:00",
   "articles": [
+    {
+      "id": "01d6a210ed95",
+      "title": "La probabilidad del apocalipsis",
+      "summary": "En un ensayo publicado en Letras Libres, Eduardo Turrent Mena analiza cómo la percepción del riesgo de la inteligencia artificial se alimenta de heurísticas cognitivas y miedos apocalípticos, contrastando la incertidumbre científica con la demanda pública de regulación. Cita la afirmación de Elon Musk de un 20 % de probabilidad de extinción humana y describe estudios que muestran que, pese al temor, la mayoría de la población ya usa IA y espera beneficios.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-probabilidad-del-apocalipsis/29/07/2026/",
+      "published_at": "2026-07-29T17:50:14+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza fuentes académicas y datos de encuestas, evita lenguaje emotivo o partidista y presenta tanto argumentos escépticos como de apoyo, lo que indica una cobertura centrada.",
+      "focus_analysis": "El medio opta por un enfoque psicológico y cultural del miedo a la IA, dejando de lado el análisis técnico de la seguridad de la IA y las discusiones políticas sobre legislación.",
+      "focus_tags": [
+        "psicología del riesgo",
+        "percepción pública IA",
+        "cultura del miedo"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes históricos",
+          "text": "A lo largo de la historia la humanidad ha enfrentado temores apocalípticos, como la peste negra, las guerras mundiales y la amenaza nuclear de la Guerra Fría, que se superaron y transformaron la vida cotidiana."
+        },
+        {
+          "label": "Declaración de Elon Musk",
+          "text": "Elon Musk declaró a The Economist que estima un 20 % de probabilidad de que la IA cause la extinción humana, provocando un debate mediático sobre la credibilidad de esas cifras."
+        },
+        {
+          "label": "Encuesta pública",
+          "text": "Una investigación de la Universidad de Melbourne y KPMG con más de 48 000 participantes de 47 países encontró que el 79 % teme los posibles efectos de la IA, aunque el 66 % ya la utiliza regularmente y el 83 % espera beneficios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "275868e2da4b",
+      "title": "Tetracromatismo: la particular variante genética que hace que algunas mujeres vean más colores que el resto de personas",
+      "summary": "El artículo explica que el tetracromatismo es una variante genética que permite a algunas mujeres, al poseer un cuarto tipo de cono en la retina, percibir una gama más amplia de colores que la mayoría de la población, aunque no siempre se traduce en una visión funcionalmente mejorada.",
+      "category": "tecnologia",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cdx7xx9gxndo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-30T09:35:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin cargamento político ni selección de fuentes sesgadas, limitándose a citas de científicos y datos de estudios.",
+      "focus_analysis": "El medio se centra en el aspecto científico y educativo del tetracromatismo, describiendo su base genética y ejemplos de investigación, dejando de lado posibles implicaciones sociales o médicas del fenómeno.",
+      "focus_tags": [
+        "ciencia",
+        "percepción cromática",
+        "género"
+      ],
+      "context": [
+        {
+          "label": "Visión tricolor típica",
+          "text": "En la mayoría de las personas la retina contiene tres tipos de conos sensibles al rojo, verde y azul, cuya combinación permite percibir el espectro visible."
+        },
+        {
+          "label": "Base genética del tetracromatismo",
+          "text": "Los genes de los conos rojo y verde se encuentran en el cromosoma X; las mujeres, al tener dos X, pueden portar dos variantes diferentes y potencialmente desarrollar un cuarto tipo de cono, estimándose que alrededor del 12 % de ellas lo tengan."
+        },
+        {
+          "label": "Evidencia comparada en animales",
+          "text": "En algunos monos del Nuevo Mundo, las hembras poseen tres tipos de conos mientras que los machos solo dos, lo que les confiere una mayor capacidad para distinguir colores, un hecho que respalda la hipótesis de ventajas perceptivas en los humanos tetracrómatas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "c308ccc08839",
+      "title": "Llevamos el Apple Watch tantas horas que ya hay un nombre para el problema que puede provocar en la piel: \"watch rot\"",
+      "summary": "El portal Applesfera explica que el uso prolongado del Apple Watch puede causar irritaciones en la piel, denominadas informalmente \"watch rot\", y ofrece recomendaciones de higiene y cuidados dermatológicos para prevenir o tratar el problema.",
+      "category": "tecnologia",
+      "source_name": "Applesfera",
+      "source_url": "https://www.applesfera.com/apple-watch/llevamos-apple-watch-tantas-horas-que-hay-nombre-para-problema-que-puede-provocar-piel-watch-rot",
+      "published_at": "2026-07-30T09:01:37+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y descriptivo, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o comercial; se limita a presentar el fenómeno y consejos de salud.",
+      "focus_analysis": "El artículo se centra en el aspecto de salud y consumo, describiendo la irritación cutánea y proporcionando recomendaciones de uso y limpieza; omite dimensiones como la privacidad de datos del dispositivo o su impacto ambiental.",
+      "focus_tags": [
+        "salud",
+        "tecnología",
+        "consumo"
+      ],
+      "context": [
+        {
+          "label": "Penetración del Apple Watch",
+          "text": "Desde su lanzamiento, el Apple Watch se ha convertido en uno de los smartwatchs más vendidos del mundo, con millones de usuarios que lo llevan puesto gran parte del día."
+        },
+        {
+          "label": "Dermatología y dispositivos portátiles",
+          "text": "Los dermatólogos advierten que la fricción, el sudor y la humedad bajo cualquier reloj, analógico o digital, pueden provocar dermatitis de contacto y otras irritaciones cutáneas."
+        },
+        {
+          "label": "Recomendaciones oficiales de Apple",
+          "text": "Apple sugiere limpiar el reloj y su correa con agua y jabón cada uno o dos días, especialmente después de actividades que generen sudor, para evitar la acumulación de humedad y bacterias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "78e7b6f12cad",
+      "title": "Jugó en Boca, salió campeón con O’Higgins y fue compañero de Messi: “Esta noche tendré el corazón partido”",
+      "summary": "Julio Barroso, exdefensor argentino que jugó tanto en Boca Juniors como en O’Higgins, expresó que el enfrentamiento de ambos equipos en la Copa Sudamericana le parte el corazón por sus recuerdos y lazos con ambos clubes.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/07/30/jugo-en-boca-salio-campeon-con-ohiggins-y-fue-companero-de-messi-esta-noche-tendre-el-corazon-partido/",
+      "published_at": "2026-07-30T07:34:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es informativo y emotivo, sin lenguaje cargado ni selección de fuentes que favorezca una postura política; se centra en la trayectoria personal del futbolista.",
+      "focus_analysis": "El medio eligió un enfoque humano y sentimental, resaltando los lazos emocionales de Barroso con los clubes y su experiencia con Messi, dejando de lado cualquier análisis deportivo o económico del partido.",
+      "focus_tags": [
+        "carrera futbolística",
+        "emociones personales",
+        "relación con Messi"
+      ],
+      "context": [
+        {
+          "label": "Enfrentamiento Copa Sudamericana",
+          "text": "Boca Juniors de Argentina y O’Higgins de Chile se enfrentarán en los octavos de final de la Copa Sudamericana 2026, un duelo que despierta interés en ambos países."
+        },
+        {
+          "label": "Trayectoria de Julio Barroso",
+          "text": "Julio Barroso, nacido en 1985, jugó en Boca Juniors, alcanzó el título histórico con O’Higgins, luego brilló en Colo Colo y formó parte de la selección argentina Sub‑20 junto a Lionel Messi."
+        },
+        {
+          "label": "Migración de futbolistas entre Argentina y Chile",
+          "text": "Es frecuente que jugadores argentinos continúen su carrera en clubes chilenos, lo que genera vínculos culturales y emocionales que se reflejan en la afición y la prensa de ambos países."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "0732098fd28e",
+      "title": "Nicaragua",
+      "summary": "El Economista publica una lista de los últimos cartones relacionados con Nicaragua, enumerando títulos y autores de piezas breves publicadas entre el 17 y el 30 de julio de 2026.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/nicaragua-20260730-825799.html",
+      "published_at": "2026-07-30T08:44:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a enumerar contenidos sin usar lenguaje valorativo ni citar fuentes con sesgo, manteniendo un tono informativo neutro.",
+      "focus_analysis": "El medio elige presentar un compendio de notas breves sobre Nicaragua, centrado en la variedad de temas, mientras omite cualquier análisis político o social profundo.",
+      "focus_tags": [
+        "Nicaragua",
+        "cultura",
+        "medios"
+      ],
+      "context": [
+        {
+          "label": "Situación política de Nicaragua",
+          "text": "Desde 2021, el presidente Daniel Ortega ha consolidado un gobierno autoritario, enfrentando sanciones internacionales y protestas internas por la falta de democracia."
+        },
+        {
+          "label": "Línea editorial de El Economista",
+          "text": "El Economista se especializa en economía y finanzas, pero incluye secciones de opinión y cultura que cubren temas de actualidad en América Latina."
+        },
+        {
+          "label": "Contexto regional en 2026",
+          "text": "En 2026, varios países centroamericanos, incluido Nicaragua, enfrentan alta inflación, migración y presión externa, lo que influye en la cobertura mediática de la zona."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "3dd901a26305",
+      "title": "Adopción tecnológica y escasez de mano de obra: evidencia de la Revolución Industrial británica",
+      "summary": "El artículo de Letras Libres, basado en un estudio de Bruno Caprettini, Alex Trew y Hans‑Joachim Voth, muestra cómo la escasez de mano de obra provocada por el reclutamiento militar durante la guerra napoleónica en Gran Bretaña aceleró la adopción de maquinaria agrícola y la productividad, ofreciendo una explicación histórica al fenómeno actual de escasez laboral en los países ricos.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/economia/adopcion-tecnologica-y-escasez-de-mano-de-obra-evidencia-de-la-revolucion-industrial-britanica/30/07/2026/",
+      "published_at": "2026-07-30T09:36:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono académico y descriptivo, sin usar vocabulario cargado ni favorecer a actores políticos, lo que indica una cobertura neutra.",
+      "focus_analysis": "Se centra en la relación entre la escasez laboral y la adopción tecnológica como motor de la Revolución Industrial, dejando de lado el impacto social y cultural de los cambios en la población trabajadora.",
+      "focus_tags": [
+        "historia económica",
+        "tecnología agrícola",
+        "escasez laboral"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes históricos",
+          "text": "Durante la Revolución Industrial británica, la disponibilidad limitada de trabajadores y los altos salarios impulsaron a los empresarios a invertir en máquinas que sustituyeran la mano de obra."
+        },
+        {
+          "label": "Datos comparativos",
+          "text": "Entre 1792 y 1815, aproximadamente el 15 % de la población masculina en edad productiva de Inglaterra y Gales sirvió en el ejército o la marina, lo que elevó los salarios agrícolas entre un 20 y un 25 % y estimuló la difusión de trilladoras mecánicas."
+        },
+        {
+          "label": "Contexto actual",
+          "text": "En los países ricos contemporáneos, el envejecimiento demográfico genera una escasez de mano de obra que revive los debates sobre la sustitución de trabajadores por tecnología, similar a la situación británica del siglo XIX."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
     {
       "id": "64149544a90a",
       "title": "Difícil, vivienda asequible en zonas gentrificadas: IP",
@@ -840,216 +1050,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.0
-      }
-    },
-    {
-      "id": "ec190d53cdde",
-      "title": "Última hora de los incendios forestales, en directo | Nueve incendios activos, cinco de nivel máximo, asedian Castilla y León",
-      "summary": "Nueve incendios forestales, cinco de ellos en nivel máximo, están afectando a Castilla y León, España, obligando a evacuar a más de 800 personas y a activar la Unidad Militar de Emergencias, mientras el presidente Pedro Sánchez visita las zonas afectadas.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-07-30/ultima-hora-de-los-incendios-forestales-en-directo.html",
-      "published_at": "2026-07-30T08:50:10+00:00",
-      "bias_score": -15,
-      "bias_reason": "El artículo destaca la visita del presidente del Gobierno y la acción de las fuerzas estatales, lo que indica una ligera inclinación favorable hacia la gestión oficial, aunque el tono general es informativo y neutral.",
-      "focus_analysis": "El medio centra la cobertura en la dimensión de seguridad y la respuesta institucional al incendio, dejando de lado el análisis del costo económico y la política climática a largo plazo.",
-      "focus_tags": [
-        "incendios forestales",
-        "crisis climática",
-        "respuesta gubernamental"
-      ],
-      "context": [
-        {
-          "label": "Contexto climático",
-          "text": "España atraviesa la segunda jornada de la cuarta ola de calor del verano, una condición que ha favorecido la propagación de los incendios forestales en la región."
-        },
-        {
-          "label": "Intervención de la UME",
-          "text": "La Unidad Militar de Emergencias, con recursos terrestres y aéreos, está colaborando estrechamente con los bomberos locales para contener los focos activos."
-        },
-        {
-          "label": "Incendio histórico",
-          "text": "El incendio de Burgohondo, en Ávila, es el más grande registrado en la historia de España, con más de 50.000 hectáreas quemadas, aunque ya está técnicamente estabilizado."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "12a8832ab7af",
-      "title": "Pide gobernadora revisar expediente",
-      "summary": "La gobernadora de Aguascalientes, Tere Jiménez Esquivel (PAN), solicitó al secretario de Seguridad, Omar García Harfuch, que las autoridades federales revisen el expediente y verifiquen los antecedentes del detenido Felipe “N”, quien fue aprehendido el pasado fin de semana.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/pide-gobernadora-revisar-expediente/",
-      "published_at": "2026-07-30T08:18:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, sin palabras cargadas ni selección parcial de fuentes, limitándose a relatar la petición de la gobernadora y la respuesta del secretario de Seguridad.",
-      "focus_analysis": "El medio se centró en el aspecto institucional y de seguridad pública, resaltando la interacción entre la autoridad estatal y la federal, mientras dejó de lado el contexto humano de la familia del detenido.",
-      "focus_tags": [
-        "seguridad pública",
-        "procedimientos judiciales",
-        "política estatal"
-      ],
-      "context": [
-        {
-          "label": "Gobernadora Tere Jiménez Esquivel",
-          "text": "Tere Jiménez Esquivel es la gobernadora del estado de Aguascalientes, afiliada al Partido Acción Nacional (PAN), y ha estado involucrada en la gestión de la seguridad pública en su entidad."
-        },
-        {
-          "label": "Secretario de Seguridad Omar García Harfuch",
-          "text": "Omar García Harfuch, como titular de la Secretaría de Seguridad y Protección Ciudadana de México, es conocido por su papel activo en la lucha contra la delincuencia y la coordinación con autoridades estatales."
-        },
-        {
-          "label": "Detención de Felipe “N”",
-          "text": "Felipe “N” fue detenido durante un operativo policial el pasado fin de semana; según investigaciones estatales, no se encontraron antecedentes penales, lo que motivó la solicitud de revisión del expediente por parte de la gobernadora."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "993ac588414a",
-      "title": "Xiaomi lanza la cámara de seguridad perfecta: no necesita enchufe ni WiFi y dura para siempre",
-      "summary": "Xiaomi, la compañía tecnológica china, presentó una cámara de seguridad exterior que funciona con energía solar y tarjeta SIM 4G, sin necesidad de corriente eléctrica ni Wi‑Fi, y ofrece reconocimiento de caras y matrículas mediante IA.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/tecnologia/xiaomi-lanza-la-camara-de-seguridad-perfecta-no-necesita-enchufe-ni-wifi-y-dura-para-siempre/",
-      "published_at": "2026-07-30T08:15:29+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono promocional y superlativo, pero carece de referencias políticas o ideológicas, limitándose a una valoración positiva del producto.",
-      "focus_analysis": "El medio se centra en los aspectos técnicos y de autonomía del dispositivo, destacando sus prestaciones y precio, mientras omite discusiones sobre privacidad, competencia del mercado o posibles limitaciones regulatorias.",
-      "focus_tags": [
-        "tecnología",
-        "seguridad",
-        "producto"
-      ],
-      "context": [
-        {
-          "label": "historial de Xiaomi",
-          "text": "Xiaomi ya había lanzado cámaras de seguridad con funciones de conectividad y energía solar, pero la nueva versión incorpora una tarjeta SIM 4G y una batería de 9.900 mAh que prolonga su autonomía."
-        },
-        {
-          "label": "tendencia del mercado",
-          "text": "En los últimos años, varios fabricantes como Arlo y Ring han introducido cámaras de vigilancia alimentadas por energía solar y conectividad móvil, buscando cubrir ubicaciones sin acceso a corriente eléctrica ni Wi‑Fi."
-        },
-        {
-          "label": "exportación tecnológica china",
-          "text": "Es habitual que productos de tecnología china se comercialicen primero en el mercado interno y, tras un periodo de adaptación, se introduzcan en Europa o Norteamérica, lo que explica la ausencia de disponibilidad inmediata de la cámara de Xiaomi fuera de China."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "8f7ee9f28b5b",
-      "title": "Fallecen dos menores de 10 y 15 años en el incendio de una vivienda en Benalmádena (Málaga)",
-      "summary": "Dos menores de 10 y 15 años murieron en un incendio en una vivienda de Benalmádena, Málaga, mientras su madre fue hospitalizada con pronóstico grave.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-07-30/fallecen-dos-menores-de-10-y-15-anos-en-el-incendio-de-una-vivienda-en-benalmadena-malaga.html",
-      "published_at": "2026-07-30T08:24:54+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos sin usar adjetivos cargados ni citar fuentes con sesgo político, manteniéndose neutral.",
-      "focus_analysis": "El medio centra la cobertura en la dimensión humana y la tragedia familiar, dejando de lado el análisis de causas estructurales o la respuesta institucional al sin.",
-      "focus_tags": [
-        "tragedia familiar",
-        "incendio residencial",
-        "Málaga"
-      ],
-      "context": [
-        {
-          "label": "Incendios en Andalucía",
-          "text": "En los últimos años, la comunidad autónoma de Andalucía ha registrado un promedio de 1 200 incendios domésticos anuales, con un número creciente de víctimas mortales."
-        },
-        {
-          "label": "Casos similares en España",
-          "text": "En 2024, un incendio en una vivienda de Valencia dejó dos niños fallecidos y una madre gravemente herida, lo que generó debate sobre la seguridad en edificios residenciales."
-        },
-        {
-          "label": "Política de prevención de incendios",
-          "text": "El Ministerio de Interior de España ha reforzado la normativa de detección de humo y la obligatoriedad de extintores en viviendas, aunque su implementación varía entre municipios."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "675b3bb459ab",
-      "title": "Enrique Inzunza reaparece con cita de Séneca, a 3 meses de los señalamientos de EEUU sobre sus presuntos nexos con el Cártel de Sinaloa",
-      "summary": "El senador de Morena por Sinaloa, Enrique Inzunza Cázarez, volvió a publicar en redes sociales una cita del filósofo romano Séneca tres meses después de que el Departamento de Justicia de EE. UU. lo señalara por presuntos nexos con el cártel de Sinaloa, mientras su bancada defendía su permanencia en el Senado con argumentos constitucionales.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/30/enrique-inzunza-reaparece-con-cita-de-seneca-a-3-meses-de-los-senalamientos-de-eeuu-sobre-sus-presuntos-nexos-con-el-cartel-de-sinaloa/",
-      "published_at": "2026-07-30T08:28:11+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto da prioridad a la defensa del senador y a la postura del partido, usando un tono mayormente neutro pero con énfasis en la legitimidad de su cargo, lo que indica un leve sesgo favorable a la figura política.",
-      "focus_analysis": "El medio se concentra en el ángulo político‑estratégico, resaltando la maniobra comunicativa del senador y la argumentación constitucional de Morena, dejando en segundo plano los detalles de la acusación estadounidense y la evidencia delictiva.",
-      "focus_tags": [
-        "política mexicana",
-        "senador",
-        "cártel de Sinaloa"
-      ],
-      "context": [
-        {
-          "label": "acusación estadounidense",
-          "text": "En julio de 2026 el Departamento de Justicia de EE. UU. presentó una acusación formal contra varios funcionarios sinaloenses, entre ellos Enrique Inzunza, por conspiración con el cártel de Sinaloa para tráfico de narcóticos y armas."
-        },
-        {
-          "label": "posición de Morena",
-          "text": "El coordinador de la bancada de Morena, Ignacio Mier Velazco, reiteró que sin una sentencia firme o una orden judicial, el Senado no tiene autoridad para remover a un legislador electo, sustentando la permanencia de Inzunza en su cargo."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "A diferencia de Infobae, que destaca la estrategia comunicativa del senador, medios como El Sol de México centraron su atención en operativos policiales contra miembros del cártel, subrayando la lucha contra el narcotráfico en lugar de la defensa política."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "82a575b45e56",
-      "title": "Fiscalía CDMX investiga presunto esquema de despojos en la Del Valle; detiene a dos mujeres",
-      "summary": "La Fiscalía de la Ciudad de México informó que detuvo a Virginia \"N\" y Diana \"N\" por su presunta participación en un esquema de despojo de un inmueble ubicado en la colonia Del Valle, alcaldía Benito Juárez, dentro de una investigación que abarca treinta casos iniciados este año.",
-      "category": "sociedad",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/3007/mexico/fiscalia-cdmx-investiga-presunto-esquema-de-despojos-en-la-del-valle-detiene-a-dos-mujeres/",
-      "published_at": "2026-07-30T08:30:38+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto combina la versión oficial de la Fiscalía con declaraciones críticas del concejal de Morena, lo que introduce una ligera inclinación hacia la denuncia de fallas institucionales, aunque el tono general es informativo y sin vocabulario cargado.",
-      "focus_analysis": "El artículo se centra en el ángulo legal‑institucional, describiendo la investigación, detenciones y procedimientos judiciales, mientras deja de lado la perspectiva de los propietarios afectados y el impacto socio‑económico del despojo.",
-      "focus_tags": [
-        "investigación legal",
-        "despojos inmobiliarios",
-        "política local"
-      ],
-      "context": [
-        {
-          "label": "Problema estructural",
-          "text": "En la Ciudad de México, los casos de despojo de inmuebles son recurrentes y se han registrado numerosas denuncias en barrios como Del Valle, lo que ha motivado la creación de equipos especializados en la Fiscalía para detectar patrones y vínculos entre los hechos."
-        },
-        {
-          "label": "Acción de la Fiscalía",
-          "text": "Durante 2026, la Fiscalía de la Ciudad de México inició treinta investigaciones sobre presuntos despojos en la colonia Del Valle, utilizando videograbaciones, peritajes y testimonios para sustentar las órdenes de aprehensión contra los presuntos responsables."
-        },
-        {
-          "label": "Crítica política",
-          "text": "El concejal de Morena en Benito Juárez, Hugo Torres Zumaya, ha denunciado la existencia de una \"mafia del despojo\" y la falta de seguimiento efectivo por parte de las autoridades, señalando que varios casos permanecen sin avance y ponen en riesgo la vida de los residentes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
