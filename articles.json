@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-30T05:21:25.971358+00:00",
+  "generated_at": "2026-07-30T05:41:38.710600+00:00",
   "articles": [
+    {
+      "id": "2ec1eaea4d70",
+      "title": "Lanús perdió 4-0 con Cienciano y quedó eliminado de la Copa Sudamericana",
+      "summary": "El club argentino Lanús fue derrotado 4-0 por el equipo peruano Cienciano en el partido de vuelta de la Copa Sudamericana, lo que provocó su eliminación del torneo después de haber ganado 2-0 el primer encuentro.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/07/29/lanus-visitara-a-cienciano-en-la-altura-de-cuzco-en-busca-de-avanzar-a-octavos-de-la-sudamericana-hora-tv-y-probables-formaciones/",
+      "published_at": "2026-07-30T02:53:04+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido sin usar adjetivos cargados ni aportar opiniones, manteniendo un tono informativo típico de la crónica deportiva.",
+      "focus_analysis": "El medio se centró en el reporte del resultado y los momentos clave del juego, dejando fuera análisis sobre el impacto financiero del club o la reacción de la afición.",
+      "focus_tags": [
+        "resultado",
+        "copa sudamericana",
+        "fútbol argentino"
+      ],
+      "context": [
+        {
+          "label": "Resultado del primer partido",
+          "text": "En la ida de la serie, Lanús había conseguido una victoria de 2-0 sobre Cienciano en su estadio, lo que le daba una ventaja de dos goles antes del encuentro de vuelta en Perú."
+        },
+        {
+          "label": "Trayectoria de Cienciano",
+          "text": "Cienciano, club peruano con historial de sorpresas en torneos internacionales, había llegado a los octavos de final de la Copa Sudamericana tras superar a equipos de mayor tradición en la fase de grupos."
+        },
+        {
+          "label": "Situación reciente de Lanús",
+          "text": "Tras la eliminación en la Copa Sudamericana, Lanús también salió de la Copa Argentina y se prepara para continuar su campaña en el Torneo Clausura, donde había iniciado con una victoria 1-0 ante San Lorenzo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "b238681a9a85",
+      "title": "Kia fabricará su primer vehículo eléctrico en México con inversión de 649 millones de dólares",
+      "summary": "Kia, la automotriz surcoreana, invertirá 649 millones de dólares para producir su primer vehículo eléctrico, el modelo EV3, en la planta de Pesquería, Nuevo León, creando 500 empleos este año y 1,500 adicionales entre 2027 y 2030. El proyecto incluye infraestructura de carga pública, un parque solar y una planta de tratamiento de aguas, resaltando la confianza de la empresa en México pese a la incertidumbre comercial internacional.",
+      "category": "economia",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/industria-automotriz/2026/07/29/kia-fabricara-su-primer-vehiculo-electrico-en-mexico-con-inversion-de-649-millones-de-dolares-1825583.html",
+      "published_at": "2026-07-30T04:28:34+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un tono mayormente positivo, citando a funcionarios y al director de Kia que resaltan beneficios económicos y de sostenibilidad, sin presentar críticas ni opiniones contrarias.",
+      "focus_analysis": "El medio se centra en el impacto económico y la expansión industrial, destacando inversión, generación de empleo y desarrollo de infraestructura eléctrica, mientras omite aspectos como la accesibilidad del vehículo para los consumidores o posibles controversias medioambientales.",
+      "focus_tags": [
+        "industria automotriz",
+        "inversión extranjera",
+        "movilidad eléctrica"
+      ],
+      "context": [
+        {
+          "label": "Industria automotriz en México",
+          "text": "México es uno de los mayores productores de automóviles del mundo, con una larga tradición de plantas de ensamblaje de marcas globales que generan miles de empleos y exportaciones significativas."
+        },
+        {
+          "label": "Política de apoyo a la electromovilidad",
+          "text": "El gobierno mexicano ha implementado incentivos fiscales y programas de infraestructura de carga para impulsar la adopción de vehículos eléctricos y reducir la dependencia de combustibles fósiles."
+        },
+        {
+          "label": "Crecimiento de la red de carga eléctrica",
+          "text": "Según la Asociación de Movilidad Eléctrica, la red pública de puntos de carga en México creció más del 24% anual en 2025, reflejando un entorno cada vez más favorable para la expansión de la electromovilidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "f24ecc90a9d3",
+      "title": "El terremoto en Japón deja 30 muertos y el rescate entra en la fase crítica",
+      "summary": "El terremoto de magnitud 7,1 que sacudió la prefectura de Kumamoto, en la isla de Kyushu, Japón, dejó al menos 30 muertos y las operaciones de rescate entran en la fase crítica con el margen de 72 horas restante.",
+      "category": "internacional",
+      "source_name": "Euronews Español",
+      "source_url": "http://es.euronews.com/2026/07/30/terremoto-japon-deja-23-muertos-rescate-fase-critica",
+      "published_at": "2026-07-30T05:24:18+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir los hechos y la respuesta de los equipos de rescate, sin usar lenguaje cargado ni citar fuentes con orientaciones políticas.",
+      "focus_analysis": "El medio se centra en el impacto humanitario y la operatividad del rescate, dejando de lado análisis políticos, económicos o de política de construcción.",
+      "focus_tags": [
+        "humanitario",
+        "rescate",
+        "desastre natural"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Japón cuenta con códigos de construcción sísmica estrictos tras eventos como el gran terremoto de 2016 en Kumamoto, pero muchas viviendas tradicionales siguen siendo vulnerables."
+        },
+        {
+          "label": "comparación",
+          "text": "Otros medios, como El Universal y BBC News Mundo, reportan cifras de fallecidos distintas (28 y 13) y enfatizan la cantidad de réplicas, lo que muestra variaciones en la información disponible."
+        },
+        {
+          "label": "respuesta institucional",
+          "text": "Las Fuerzas de Autodefensa de Japón colaboran suministrando agua y apoyo logístico a los residentes de Kumamoto, mientras el gobierno prefectural activa más de 400 refugios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "01d6a210ed95",
+      "title": "La probabilidad del apocalipsis",
+      "summary": "El artículo de Letras Libres analiza cómo la percepción humana de riesgos apocalípticos, especialmente la inteligencia artificial, se ve influenciada por heurísticas cognitivas, citando la advertencia del 20 % de Elon Musk y estudios de psicología de riesgos.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-probabilidad-del-apocalipsis/29/07/2026/",
+      "published_at": "2026-07-29T17:50:14+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje neutro, presenta múltiples fuentes académicas y menciona tanto temores como beneficios de la IA sin favorecer a un bloque político concreto.",
+      "focus_analysis": "Se centra en la dimensión psicológica y cultural del miedo a la IA, dejando de lado análisis técnicos o políticos sobre regulación y desarrollo tecnológico.",
+      "focus_tags": [
+        "riesgo de IA",
+        "heurística de disponibilidad",
+        "cultura de miedo"
+      ],
+      "context": [
+        {
+          "label": "Historia de temores apocalípticos",
+          "text": "A lo largo de la historia la humanidad ha experimentado episodios de miedo extremo, como la peste negra, las guerras mundiales y la amenaza nuclear durante la Guerra Fría, que se citan para comparar con los actuales temores a la IA."
+        },
+        {
+          "label": "Declaración de Elon Musk",
+          "text": "Elon Musk afirmó a The Economist que la probabilidad de que la inteligencia artificial destruya a la humanidad es del 20 %, una cifra que generó amplio debate y se menciona como punto de partida del análisis del artículo."
+        },
+        {
+          "label": "Encuesta pública sobre IA",
+          "text": "Una encuesta realizada por la Universidad de Melbourne y KPMG a más de 48 000 personas en 47 países mostró que el 79 % teme los efectos de la IA, mientras que el 66 % ya la utiliza regularmente y el 70 % considera necesaria su regulación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "6190b4b41de7",
+      "title": "Crédito Colibrí Edomex 2026: estos son los préstamos de hasta 100 mil pesos a los que puedes ser acreedor",
+      "summary": "La Secretaría de Desarrollo Económico del Estado de México anunció que el programa Crédito Colibrí 2026 seguirá ofreciendo préstamos de hasta 100 mil pesos a emprendedores y microempresas residentes en la entidad, con intereses entre 0 y 3.5 % y modalidades individuales y grupales, incluidas opciones solidarias para mujeres.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/30/credito-colibri-edomex-2026-estos-son-los-prestamos-de-hasta-100-mil-pesos-a-los-que-puedes-ser-acreedor/",
+      "published_at": "2026-07-30T05:27:03+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto reproduce mayormente la información oficial sin incluir opiniones críticas ni fuentes independientes, y utiliza un tono favorable al programa gubernamental.",
+      "focus_analysis": "El medio se centró en describir la iniciativa institucional y sus condiciones, dejando de lado cualquier análisis de viabilidad fiscal, riesgos para los bancos o críticas al modelo de subsidio.",
+      "focus_tags": [
+        "política pública",
+        "financiamiento emprendedor",
+        "Estado de México"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "El programa Crédito Emprende Colibrí se lanzó en 2023 como parte de la estrategia estatal para impulsar la competitividad de micro y pequeñas empresas mediante subsidios a los intereses."
+        },
+        {
+          "label": "datos comparables",
+          "text": "Según el INEGI, en 2022 cerca del 45 % de los microempresarios del Estado de México manifestaron dificultades para obtener crédito formal en los bancos tradicionales."
+        },
+        {
+          "label": "perspectiva de otros medios",
+          "text": "Otros medios, como Expansión, enfocaron la discusión en la comparación de instrumentos de inversión como Cetes y fondos, resaltando la rentabilidad de estos frente a préstamos, lo que muestra un enfoque financiero‑de‑mercado distinto al institucional de Infobae."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "e4f28e2ebd6e",
+      "title": "Elon Musk cree que la IA superará la inteligencia humana en 5 años; “no habrá nada que no pueda hacer”, dice",
+      "summary": "Elon Musk, director ejecutivo de Tesla y SpaceX, afirmó que la inteligencia artificial superará la capacidad cognitiva humana en aproximadamente cinco años, lo que provocará una transformación económica global y hará que el trabajo sea opcional, aunque reconoció riesgos y propuso que las empresas del sector se autorregulen.",
+      "category": "tecnologia",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/elon-musk-cree-que-la-ia-superara-la-inteligencia-humana-en-5-anos-no-habra-nada-que-no-pueda-hacer-dice/",
+      "published_at": "2026-07-30T05:38:15+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a reproducir las declaraciones de Musk y describir su visión sin usar un cargado ni opiniones propias, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centró en el impacto económico y tecnológico de la IA según según la visión de Musk, dejando de lado un análisis más profundo de las implicaciones sociales, éticas y políticas.",
+      "focus_tags": [
+        "inteligencia artificial",
+        "impacto económico",
+        "trabajo opcional"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Musk sobre IA",
+          "text": "Elon Musk ha expresado previamente su preocupación por los peligros de la IA y ha fundado la empresa xAI, además de advertir sobre la necesidad de una regulación segura."
+        },
+        {
+          "label": "Debate sobre el horizonte temporal de la IA",
+          "text": "Expertos en IA difieren respecto a cuándo la inteligencia artificial podría superar la capacidad humana, con estimaciones que van desde pocos años hasta décadas."
+        },
+        {
+          "label": "Marco regulatorio y autorregulación",
+          "text": "A nivel global se están discutiendo normas para la IA, como la Ley de IA de la UE, mientras que algunos actores de la industria proponen mecanismos de supervisión entre compañías."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "109005636078",
       "title": "Fiscalía CDMX aprehende a Virginia \"N\", presunta responsable de despojos en la Colonia del Valle; fue detenida en la colonia Doctores",
@@ -837,216 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.4
-      }
-    },
-    {
-      "id": "1e56dabbb7f2",
-      "title": "Obed Vargas anota su primer gol con el Atlético de Madrid y gana confianza con Simeone",
-      "summary": "El mediocampista mexicano Obed Vargas, de 20 años, anotó su primer gol con el Atlético de Madrid en un amistoso contra el Getafe, lo que le valió elogios de Diego Simeone y reforzó su posición en el equipo de cara a la temporada 2026‑27.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/deportes/2026/07/30/obed-vargas-anota-su-primer-gol-con-el-atletico-de-madrid-y-gana-confianza-con-simeone/",
-      "published_at": "2026-07-30T04:17:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos deportivos sin usar lenguaje cargado ni citar fuentes con inclinación política; el enfoque es neutral y centrado en el desempeño del jugador.",
-      "focus_analysis": "El artículo se centra en el logro personal de Vargas y su confianza con el entrenador, dejando de lado un análisis táctico más profundo del impacto en la plantilla del Atlético de Madrid.",
-      "focus_tags": [
-        "futbol",
-        "deportes",
-        "Atlético de Madrid"
-      ],
-      "context": [
-        {
-          "label": "Trasfondo del jugador",
-          "text": "Obed Vargas, mediocampista mexicano de 20 años, llegó al Atlético de Madrid en febrero de 2026 procedente del Club América, con la intención de consolidarse en el primer equipo."
-        },
-        {
-          "label": "Pretemporada 2026‑27",
-          "text": "El gol se produjo en el amistoso 4‑1 frente al Getafe, partido que forma parte de la preparación del Atlético de Madrid para la campaña de LaLiga 2026‑27."
-        },
-        {
-          "label": "Competencia en el mediocampo",
-          "text": "El técnico Diego Simeone cuenta con varios mediocampistas experimentados, como Koke, Johnny Cardoso y el recién incorporado Morten Hjulmand, lo que genera una fuerte competencia por los puestos titulares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "2ec1eaea4d70",
-      "title": "Lanús perdió 4-0 con Cienciano y quedó eliminado de la Copa Sudamericana",
-      "summary": "El club argentino Lanús fue derrotado 4-0 por el equipo peruano Cienciano en el partido de vuelta de la Copa Sudamericana, lo que provocó su eliminación tras haber ganado 2-0 en el encuentro de ida.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/07/29/lanus-visitara-a-cienciano-en-la-altura-de-cuzco-en-busca-de-avanzar-a-octavos-de-la-sudamericana-hora-tv-y-probables-formaciones/",
-      "published_at": "2026-07-30T02:53:04+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido sin usar lenguaje cargado ni citar fuentes con sesgo, manteniendo un tono informativo típico de la cobertura deportiva.",
-      "focus_analysis": "El medio se centró en el resultado y los momentos clave del juego, dejando de lado aspectos económicos o institucionales del torneo.",
-      "focus_tags": [
-        "copa sudamericana",
-        "resultado",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "historial de enfrentamientos",
-          "text": "Antes de este encuentro, Lanús y Cienciano nunca se habían medado en la Copa Sudamericana, haciendo de este partido su primer choque directo en la competición continental."
-        },
-        {
-          "label": "importancia del torneo",
-          "text": "La Copa Sudamericana es el segundo certamen de clubes más relevante de Sudamérica, y la eliminación de Lanús implica una pérdida de ingresos y exposición mediática para el club."
-        },
-        {
-          "label": "situación de Lanús en otras competiciones",
-          "text": "Además de la eliminación en la Copa Sudamericana, Lanús también quedó fuera de la Copa Argentina tras perder contra Instituto de Córdoba, lo que ha aumentado la presión sobre el entrenador Mauricio Pellegrino."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.6
-      }
-    },
-    {
-      "id": "546b9360bf4b",
-      "title": "Aprehenden a dos mujeres  por caso de despojo en Del Valle",
-      "summary": "La Fiscalía General de Justicia de la Ciudad de México detuvo a las mujeres Virginia y Diana por su presunta participación en un caso de despojo en la colonia Del Valle, alcaldía Benito Juárez.",
-      "category": "politica",
-      "source_name": "Reforma",
-      "source_url": "https://www.reforma.com/aprehenden-a-dos-mujeres-por-caso-de-despojo-en-del-valle/ar3249274",
-      "published_at": "2026-07-30T03:47:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se restringe a informar la detención citando a la Fiscalía, sin adjetivos cargados ni opiniones, lo que refleja una postura neutral.",
-      "focus_analysis": "El medio se centra en el ángulo institucional, describiendo la acción de la Fiscalía, mientras omite el impacto en los propietarios afectados y el contexto social del despojo.",
-      "focus_tags": [
-        "despojo",
-        "justicia",
-        "seguridad pública"
-      ],
-      "context": [
-        {
-          "label": "Problema de despojo en Del Valle",
-          "text": "En los últimos años, la colonia Del Valle ha registrado un aumento de denuncias por despojo, generando preocupación entre los residentes."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "La Fiscalía General de Justicia y la Secretaría de Gobierno de la CDMX (Secgob) han anunciado la creación de equipos especializados para investigar y asegurar los inmuebles afectados."
-        },
-        {
-          "label": "Marco legal nacional",
-          "text": "En México, el despojo está tipificado como delito y la legislación ha sido reforzada en varios estados para proteger la propiedad privada."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "74381c6d545a",
-      "title": "Banamex respalda el acuerdo entre Pemex y Petrobras; también advierte riesgos",
-      "summary": "Banamex aprobó el memorando de entendimiento firmado entre Pemex y la petrolera brasileña Petrobras, pero advirtió que sus beneficios podrían ser limitados y que el acuerdo está expuesto a riesgos financieros y de política energética.",
-      "category": "economia",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/30/banamex-respalda-el-acuerdo-entre-pemex-y-petrobras-tambien-advierte-riesgos/",
-      "published_at": "2026-07-30T03:53:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta tanto los aspectos positivos como los riesgos del acuerdo sin usar lenguaje cargado ni favorecer a ninguna de las partes, manteniendo un tono equilibrado.",
-      "focus_analysis": "El medio privilegia el análisis económico‑técnico del acuerdo, resaltando ventajas y riesgos financieros, mientras deja de lado la dimensión política y estratégica de la cooperación bilateral.",
-      "focus_tags": [
-        "energia",
-        "acuerdo petrolero",
-        "riesgos financieros"
-      ],
-      "context": [
-        {
-          "label": "antecedentes del acuerdo",
-          "text": "Pemex y Petrobras firmaron el 23 de junio de 2026 un memorándum de entendimiento de dos años para compartir tecnología en aguas profundas y revitalizar campos maduros en el Golfo de México."
-        },
-        {
-          "label": "contexto político",
-          "text": "El acuerdo se produjo tras la reunión entre el presidente brasileño Luiz Inácio Lula da Silva y la presidenta mexicana Claudia Sheinbaum, quienes discutieron una alianza energética entre ambos países."
-        },
-        {
-          "label": "evaluación de Banamex y otras coberturas",
-          "text": "Banamex calificó el acercamiento como positivo pero señaló la deuda de Pemex y la mayor capacidad financiera de Petrobras como riesgos; según El Sol de México, el banco también indica que el impacto del acuerdo no será inmediato."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "109005636078",
-      "title": "Fiscalía CDMX aprehende a Virginia \"N\", presunta responsable de despojos en la Colonia del Valle; fue detenida en la colonia Doctores",
-      "summary": "La Fiscalía General de Justicia de la Ciudad de México detuvo a Virginia \"N\" y a Diana \"N\" por presunta participación en un caso de despojo en un inmueble de la colonia Del Valle, y las trasladó al Centro Femenil de Reinserción Social Santa Martha Acatitla bajo la custodia de un juez de control.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-aprehende-a-virginia-n-presunta-responsable-de-despojos-en-la-colonia-del-valle-fue-detenida-en-la-colonia-doctores/",
-      "published_at": "2026-07-30T03:51:19+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje objetivo, describe hechos y procedimientos sin usar adjetivos cargados ni presentar opiniones, lo que indica una cobertura equilibrada.",
-      "focus_analysis": "El medio prioriza el ángulo institucional y legal, describiendo la detención, la investigación y la normativa aplicable, mientras que omite el impacto humano sobre la víctima y la comunidad.",
-      "focus_tags": [
-        "despojo",
-        "Fiscalía CDMX",
-        "seguridad urbana"
-      ],
-      "context": [
-        {
-          "label": "Marco legal del despojo",
-          "text": "En la Ciudad de México, el delito de despojo está tipificado en los artículos 237 y 238 del Código Penal, sancionando la ocupación ilícita de inmuebles mediante violencia, engaño o simulación de actos jurídicos, con penas que pueden ir de seis a veinte años de prisión."
-        },
-        {
-          "label": "Incidencia de despojos en Del Valle",
-          "text": "Durante el año 2026, la Fiscalía ha registrado alrededor de treinta investigaciones por despojo en la colonia Del Valle, lo que refleja una tendencia al alza de este tipo de delitos en la zona."
-        },
-        {
-          "label": "Centro de detención femenina",
-          "text": "El Centro Femenil de Reinserción Social Santa Martha Acatitla es la institución donde la Fiscalía de la Ciudad de México coloca a mujeres arrestadas mientras se lleva a cabo el proceso judicial, ofreciendo un espacio de reclusión preventiva bajo la supervisión de un juez de control."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "7b2cd983775f",
-      "title": "El dilema de Arabia Saudita al intentar mantenerse al margen de la guerra entre EE.UU. e Irán",
-      "summary": "Arabia Saudita, bajo el liderazgo del príncipe heredero Mohammed Bin Salman, enfrenta el dilema de mantenerse al margen de la guerra entre EE. UU. e Irán mientras sus fuerzas, junto a EE. UU., atacan milicias respaldadas por Teherán en Irak, lo que pone a prueba su proyecto de transformación económica Visión 2030.",
-      "category": "internacional",
-      "source_name": "BBC News Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cn4nlj1x1ldo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-07-30T03:57:13+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono descriptivo y equilibrado, citando a ambas partes del conflicto sin usar vocabulario cargado ni favorecer a ningún actor, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en la dimensión de seguridad y geopolítica del conflicto, resaltando el dilema saudí y su impacto en la Visión 2030, mientras deja de lado la perspectiva interna de la población saudí y los posibles efectos humanitarios.",
-      "focus_tags": [
-        "geopolítica Oriente Medio",
-        "seguridad regional",
-        "economía petrolera"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del conflicto",
-          "text": "Desde febrero de 2026 EE. UU. e Israel iniciaron operaciones contra Irán, lo que ha provocado una escalada de ataques con drones y misiles por parte de milicias proiraníes en Irak, Yemen y el Líbano."
-        },
-        {
-          "label": "Visión 2030 de Arabia Saudita",
-          "text": "El príncipe heredero Mohammed Bin Salman impulsa la Visión 2030 para diversificar la economía saudí y reducir la dependencia del petróleo, objetivo amenazado por los continuos ataques a infraestructuras energéticas."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "France24 destaca la escalada regional y el papel de las milicias iraníes, mientras La Jornada enfatiza el ataque conjunto de EE. UU. y Arabia Saudita contra esas fuerzas en Irak."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
       }
     }
   ]
