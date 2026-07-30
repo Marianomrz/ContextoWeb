@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-30T18:41:29.016539+00:00",
+  "generated_at": "2026-07-30T19:01:58.650086+00:00",
   "articles": [
+    {
+      "id": "00dd14f50e70",
+      "title": "Hallan sin vida a presidenta del DIF de Madera, Chihuahua; Fiscalía investiga las causas del fallecimiento",
+      "summary": "Martha Erika Hernández Pacheco, presidenta del DIF del municipio de Madera, Chihuahua y esposa del alcalde Arnoldo Jáquez Pérez, fue hallada sin vida en su domicilio; la Fiscalía del estado está investigando las causas de su fallecimiento.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/hallan-sin-vida-a-presidenta-del-dif-de-madera-chihuahua-fiscalia-investiga-las-causas-del-fallecimiento/",
+      "published_at": "2026-07-30T18:36:42+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, sin vocabulario cargado ni fuentes partidistas, limitándose a citar a la Fiscalía y a la administración municipal.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y humano del fallecimiento, resaltando su trayectoria y la investigación oficial, mientras omite cualquier posible vínculo con la violencia o conflictos criminales en la zona.",
+      "focus_tags": [
+        "institucional",
+        "humano",
+        "investigación"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del DIF",
+          "text": "El DIF (Desarrollo Integral de la Familia) es una dependencia federal que brinda servicios sociales y de salud a familias vulnerables en México, con representaciones en cada municipio."
+        },
+        {
+          "label": "situación de seguridad en Madera",
+          "text": "Madera, Chihuahua, ha registrado episodios de violencia y presencia de grupos delictivos, como lo evidencian reportes de hallazgos de cuerpos con signos de violencia en la región."
+        },
+        {
+          "label": "cobertura de Infobae",
+          "text": "Otro medio, Infobae México, informó sobre cinco cadáveres encontrados en la carretera de la Sierra Tarahumara, vinculando los hechos a disputas entre grupos criminales, lo que muestra un enfoque más centrado en la criminalidad que el de El Universal."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e313cb60c923",
+      "title": "Aerolíneas mexicanas reportan pérdidas en el segundo trimestre del año: impacta alza en el costo de combustible",
+      "summary": "Las aerolíneas mexicanas Volaris, Aeroméxico y Viva registraron pérdidas en el segundo trimestre de 2026, principalmente por el fuerte aumento del precio de la turbosina, que encareció sus costos operativos.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/30/aerolineas-mexicanas-reportan-perdidas-en-el-segundo-trimestre-del-ano-impacta-alza-en-el-costo-de-combustible/",
+      "published_at": "2026-07-30T18:49:10+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos financieros y declaraciones de representantes de las aerolíneas y del gobierno, sin usar lenguaje emotivo ni favorecer a ninguna postura política.",
+      "focus_analysis": "El medio se centró en el impacto económico del alza del combustible sobre la rentabilidad de las aerolíneas, dejando de lado un análisis más profundo de las políticas energéticas o de la respuesta del sector gubernamental.",
+      "focus_tags": [
+        "costos de combustible",
+        "pérdidas de aerolíneas",
+        "economía mexicana"
+      ],
+      "context": [
+        {
+          "label": "Impacto global del precio del combustible",
+          "text": "A nivel internacional, el precio de la turbosina representa entre el 25% y el 30% de los costos operativos de las aerolíneas, y los aumentos recientes han afectado la rentabilidad de muchas compañías aéreas en todo el mundo."
+        },
+        {
+          "label": "Turismo y transporte aéreo en México",
+          "text": "La presidenta Claudia Sheinbaum señaló que el encarecimiento del combustible ha dificultado la llegada de turistas extranjeros, lo que afecta al sector turístico mexicano que depende en gran medida del transporte aéreo."
+        },
+        {
+          "label": "Crecimiento económico de México",
+          "text": "Según otras fuentes, el PIB de México creció alrededor del 1.5% al 2.1% en el segundo trimestre de 2026, aunque algunos analistas describen este crecimiento como temporal y señalan un estancamiento económico subyacente."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "8307c96dcf01",
+      "title": "\"La situación está fuera de control\": el gobierno de España moviliza al ejército ante el cruce de miles de migrantes desde Marruecos a Ceuta",
+      "summary": "El gobierno español ha desplegado al ejército en el enclave de Ceuta para controlar la masiva llegada de miles de migrantes procedentes de Marruecos, una situación que ha dejado al menos nueve fallecidos y ha saturado los centros de acogida.",
+      "category": "sociedad",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvg0n0p4xg4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-30T18:50:31+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto destaca el carácter humanitario de la crisis, cita a activistas de derechos y enfatiza la muerte de personas, mientras que la cobertura gubernamental se presenta de forma factual, lo que le confiere un ligero sesgo hacia la perspectiva de la izquierda.",
+      "focus_analysis": "El medio se centra en el aspecto humanitario y de seguridad de la oleada migratoria, resaltando la respuesta militar y la situación de emergencia, dejando de lado el debate político sobre la normativa migratoria o la responsabilidad de la UE.",
+      "focus_tags": [
+        "migración",
+        "seguridad",
+        "crisis humanitaria"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Ceuta",
+          "text": "Ceuta es un enclave español en el norte de África que históricamente ha sido una puerta de entrada a Europa para migrantes; en 2021 una crisis similar provocó el despliegue de tropas y tanques para controlar el flujo."
+        },
+        {
+          "label": "Marco jurídico",
+          "text": "El Tribunal Supremo español dictaminó recientemente que los migrantes que llegan por mar a Ceuta y Melilla no pueden ser expulsados sumariamente, lo que limita las herramientas de repatriación y complica la gestión fronteriza."
+        },
+        {
+          "label": "Coberturas de otros medios",
+          "text": "El Economista subraya la emergencia humanitaria y el envío del ejército, mientras que El País América enfatiza la alerta máxima y el número de muertos, mostrando enfoques distintos entre seguridad y tragedia humana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "141ec7f3ba53",
+      "title": "La OTAN \"tomará todas las medidas necesarias\" tras incursión de presuntos misiles rusos en Polonia",
+      "summary": "La OTAN afirmó que tomará todas las medidas necesarias tras la detección de dos misiles rusos que cruzaron el espacio aéreo polaco y uno de los cuales impactó en una zona rural de Lublin, en el contexto de los ataques de Rusia a Ucrania.",
+      "category": "internacional",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/europa/20260730-la-otan-tomar%C3%A1-todas-las-medidas-necesarias-tras-incursi%C3%B3n-de-presuntos-misiles-rusos-en-polonia",
+      "published_at": "2026-07-30T18:54:06+00:00",
+      "bias_score": 15,
+      "bias_reason": "El artículo utiliza expresiones como 'acto temerario' y 'peligrosa consecuencia', se apoya mayormente en declaraciones de la OTAN y autoridades polacas y no incluye perspectivas rusas, lo que le confiere un leve sesgo pro‑OTAN.",
+      "focus_analysis": "El medio se centró en el ángulo de seguridad y defensa, resaltando la respuesta de la OTAN y la gravedad del incidente, mientras dejó de lado el impacto humano y la posible versión rusa de los hechos.",
+      "focus_tags": [
+        "seguridad internacional",
+        "defensa OTAN",
+        "incursión de misiles"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Desde el inicio de la invasión a gran escala en febrero de 2022, Rusia ha lanzado miles de misiles y drones contra Ucrania, lo que ha elevado la tensión en los países vecinos de la OTAN, como Polonia."
+        },
+        {
+          "label": "Reacción de la OTAN",
+          "text": "La OTAN activó aviones de combate y sistemas de defensa terrestre en Polonia y declaró que tomará todas las medidas necesarias para proteger al aliado tras la violación de su espacio aéreo."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "El Economista destacó que la OTAN mantiene 'estrecho contacto' con Polonia y enfatizó la atribución del misil a Rusia dentro del marco de los ataques a Ucrania, sin el tono alarmista presente en la nota de France24."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "a616629fba1a",
+      "title": "Pensión ISSSTE 2026: ¿cuándo depositan el pago de agosto?; consulta la fecha oficial",
+      "summary": "El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) anunció que el depósito de la pensión correspondiente a agosto de 2026 estará disponible el 30 de julio, y también publicó el calendario de pagos para los meses siguientes y la primera quincena del aguinaldo.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/tendencias/pension-issste-2026-cuando-depositan-el-pago-de-agosto-consulta-la-fecha-oficial/",
+      "published_at": "2026-07-30T18:56:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar fechas y datos oficiales sin usar lenguaje cargado ni citar fuentes con sesgo, manteniendo un tono neutral y descriptivo.",
+      "focus_analysis": "El medio se centró en la información institucional y financiera del calendario de pagos del ISSSTE, dejando de lado un análisis profundo del impacto económico o social en los pensionados.",
+      "focus_tags": [
+        "pensiones",
+        "ISSSTE",
+        "fechas de pago"
+      ],
+      "context": [
+        {
+          "label": "ISSSTE y su función",
+          "text": "El ISSSTE es la entidad pública mexicana encargada de brindar servicios de salud y seguridad social a los trabajadores del Estado, incluyendo la administración de pensiones para jubilados y pensionados."
+        },
+        {
+          "label": "Calendario de pagos habitual",
+          "text": "Tradicionalmente, el ISSSTE realiza los depósitos de pensión antes de que inicie el mes correspondiente, permitiendo a los beneficiarios disponer de los recursos con anticipación."
+        },
+        {
+          "label": "Importancia del aguinaldo",
+          "text": "El aguinaldo, pago complementario que se entrega en diciembre, es una fuente de ingreso adicional para los pensionados; el ISSSTE anunció que la primera parte será depositada en la primera quincena de noviembre de 2026."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "d10c576f906e",
+      "title": "Caen bandas foráneas con armas y droga en León: 20 detenidos de siete estados diferentes",
+      "summary": "La Policía de León desarticuló una célula de crimen organizado compuesta por 20 individuos provenientes de siete estados, incautando armas de alto calibre y cartuchos, tras un reporte ciudadano sobre disparos en la colonia Héroes de León.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/leon/2026/07/30/caen-bandas-foraneas-con-armas-y-droga-en-leon-20-detenidos-de-ocho-estados-diferentes-1825713.html",
+      "published_at": "2026-07-30T18:57:18+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar hechos y declaraciones oficiales sin usar lenguaje emotivo ni seleccionar fuentes con carga ideológica, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en la perspectiva de seguridad pública y la efectividad de la policía, dejando de lado el análisis de causas sociales del delito o el debate político sobre la política de armas.",
+      "focus_tags": [
+        "seguridad pública",
+        "desarticulación de bandas",
+        "programa de canje de armas"
+      ],
+      "context": [
+        {
+          "label": "Datos de inseguridad en León",
+          "text": "Las estadísticas de la Secretaría de Seguridad de León indican que, en lo que va de 2026, la policía ha asegurado más de doscientos diez armas de fuego y detenido a ciento ochenta y siete personas por portación, evidenciando una actividad delictiva significativa en la ciudad."
+        },
+        {
+          "label": "Programas de desarme voluntario en México",
+          "text": "El programa de Canje Voluntario de Armas, vigente en varios municipios del país, permite a la población entregar armas a cambio de una compensación económica, con el objetivo de disminuir la circulación de armas ilegales y la violencia asociada."
+        },
+        {
+          "label": "Crimen organizado transnacional en México",
+          "text": "Las bandas foráneas que operan en estados como Hidalgo, Jalisco, Oaxaca y la Ciudad de México suelen estar vinculadas a redes de tráfico de drogas y armas, lo que ha motivado operativos coordinados entre la Fiscalía General de la República y autoridades locales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "d8a6d122c82a",
       "title": "¡Oficial! Selección Mexicana confirma primeros partidos en la era de Rafa Márquez camino al 2030",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "f2492707f811",
-      "title": "INAPAM ofrece empleos para adultos mayores de 65 años: requisitos y cómo registrarse",
-      "summary": "El Instituto Nacional de las Personas Adultas Mayores (INAPAM) de México lanzó el programa de Vinculación Productiva, que permite a personas mayores de 65 años registrarse y acceder a puestos de trabajo en empresas colaboradoras, con requisitos como credencial del INAPAM e identificación oficial.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/30/inapam-ofrece-empleos-para-adultos-mayores-de-65-anos-requisitos-y-como-registrarse/",
-      "published_at": "2026-07-30T17:36:53+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir de forma objetiva el programa, sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y económico del programa, resaltando requisitos y oportunidades laborales, mientras deja de lado testimonios personales o el impacto social directo en los adultos mayores.",
-      "focus_tags": [
-        "empleo senior",
-        "programa gubernamental",
-        "vinculación productiva"
-      ],
-      "context": [
-        {
-          "label": "INAPAM y su misión",
-          "text": "El Instituto Nacional de las Personas Adultas Mayores (INAPAM) es la entidad pública mexicana encargada de promover la calidad de vida y la integración social de las personas mayores, ofreciendo servicios como atención médica, actividades recreativas y programas de empleo."
-        },
-        {
-          "label": "Envejecimiento de la población mexicana",
-          "text": "México enfrenta un rápido envejecimiento demográfico, con un creciente número de adultos mayores que buscan mantenerse activos y complementan sus pensiones, lo que genera demanda de iniciativas que faciliten su inserción laboral."
-        },
-        {
-          "label": "Programas similares de empleo senior",
-          "text": "Otros países de América Latina, como Argentina y Colombia, han implementado programas de empleo para adultos mayores que conectan a los beneficiarios con empresas, sirviendo como referencia para la estrategia de vinculación productiva del INAPAM."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "55bc255cc07d",
-      "title": "Encabeza Felifer conmemoración por 28 años de la Secretaría de Seguridad Pública en Querétaro",
-      "summary": "El presidente municipal de Querétaro, Felipe Fernando Macías Olvera, encabezó la ceremonia que celebró los 28 años de la Secretaría de Seguridad Pública del municipio, destacando su posición como la segunda capital más segura del país y entregando reconocimientos a personal policial y administrativo.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/encabeza-felifer-conmemoracion-28-anos-secretaria-seguridad-publica-queretaro-20260730-825846.html",
-      "published_at": "2026-07-30T16:59:44+00:00",
-      "bias_score": 30,
-      "bias_reason": "El texto utiliza un tono celebratorio y sin críticas, enfatiza los logros de la administración local y la seguridad, y solo cita al alcalde, lo que indica una cobertura favorable al gobierno municipal.",
-      "focus_analysis": "El artículo se centra en la dimensión institucional y de seguridad pública, resaltando los premios y la percepción de paz, mientras omite datos sobre la criminalidad nacional o posibles controversias sobre la actuación policial.",
-      "focus_tags": [
-        "seguridad pública",
-        "aniversario institucional",
-        "política local"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la SSPMQ",
-          "text": "La Secretaría de Seguridad Pública del Municipio de Querétaro fue creada en 1998 y ha desarrollado programas de vigilancia y prevención que buscan reducir la incidencia delictiva en la capital."
-        },
-        {
-          "label": "Percepción de seguridad a nivel nacional",
-          "text": "Según la Encuesta Nacional de Seguridad Urbana (ENSU) del INEGI, Querétaro se ubicó en 2026 como la segunda capital del país con mejor percepción de seguridad, superada solo por una ciudad con mayor presencia policial."
-        },
-        {
-          "label": "Contexto de violencia en México",
-          "text": "A pesar de los avances locales, México continúa enfrentando altos índices de violencia y criminalidad en varios estados, lo que genera un contraste entre la situación de Querétaro y la de otras regiones del país."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "35d48d15c570",
-      "title": "Conanp libera a tres tortugas atrapadas en red fantasma; mallas, una de las principales amenazas de la vida marina",
-      "summary": "La Comisión Nacional de Áreas Naturales Protegidas (Conanp) liberó tres tortugas marinas atrapadas en una red fantasma en la Reserva de la Biosfera Islas Marías, retirando la red y reduciendo una amenaza para la fauna marina.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/conanp-libera-a-tres-tortugas-atrapadas-en-red-fantasma-mallas-una-de-las-principales-amenazas-de-la-vida-marina/",
-      "published_at": "2026-07-30T17:10:08+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es descriptivo y objetivo, sin lenguaje cargado ni fuentes partidistas; se limita a informar la acción de rescate y a recomendar prácticas pesqueras responsables.",
-      "focus_analysis": "El medio se centró en el aspecto ambiental y de conservación al rescate de tortugas y la eliminación de redes fantasma, omitiendo la discusión sobre políticas pesqueras más amplias o el impacto económico del problema.",
-      "focus_tags": [
-        "medio ambiente",
-        "conservación marina",
-        "redes fantasma"
-      ],
-      "context": [
-        {
-          "label": "Amenaza global",
-          "text": "Las redes fantasma, también conocidas como redes abandonadas, representan una de las principales amenazas a la biodiversidad marina a nivel mundial, pues siguen capturando y matando fauna durante años después de ser descartadas."
-        },
-        {
-          "label": "Especies de tortugas en México",
-          "text": "México alberga seis de las ocho especies de tortugas marinas del planeta, entre ellas la tortuga golfina, la más abundante, y la tortuga prieta, ambas protegidas por la legislación nacional e internacional."
-        },
-        {
-          "label": "Rol de la Conanp",
-          "text": "La Comisión Nacional de Áreas Naturales Protegidas (Conanp) gestiona reservas como la de Islas Marías, donde lleva a cabo monitoreo, vigilancia y acciones de rescate para proteger ecosistemas y especies marinas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "d4edac14460e",
-      "title": "“México no es piñata de nadie”: Sheinbaum acusa criticas de EEUU por narco en el país durante campaña electoral",
-      "summary": "La presidenta de México, Claudia Sheinbaum, declaró que el país no debe ser usado como tema de campaña electoral de Estados Unidos y que México no es una “piñata”, reiterando la soberanía mexicana y la colaboración con EE. UU. sin subordinación, al tiempo que reafirmó su apoyo humanitario a Cuba y su postura sobre la autodeterminación en Nicaragua.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/30/mexico-no-es-pinata-de-nadie-sheinbaum-acusa-criticas-de-eeuu-por-narco-en-el-pais-durante-campana-electoral/",
-      "published_at": "2026-07-30T17:16:15+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto emplea un lenguaje crítico hacia EE. UU., subraya la soberanía mexicana y muestra afinidad con Cuba, lo que indica una ligera inclinación hacia una postura nacionalista y de izquierda.",
-      "focus_analysis": "El artículo se centra en la dimensión política‑exterior, resaltando la defensa de la soberanía y la crítica a la intervención estadounidense, dejando de lado temas internos como la economía o la seguridad pública.",
-      "focus_tags": [
-        "soberanía",
-        "relaciones EE.UU.",
-        "política exterior"
-      ],
-      "context": [
-        {
-          "label": "Declaración de Sheinbaum",
-          "text": "Durante la mañanera del 30 de julio, la mandataria mexicana, Claudia Sheinbaum, afirmó que México no debe ser usado como tema de campaña electoral de EE. UU. y que el país no es una piñata, enfatizando la colaboración con autoridades estadounidenses sin subordinación."
-        },
-        {
-          "label": "Cobertura de El Universal",
-          "text": "El periódico El Universal también reportó la intervención de Sheinbaum, destacando su petición de que EE. UU. no utilice a México como tema electoral, lo que muestra una cobertura similar que refuerza el ángulo de soberanía nacional."
-        },
-        {
-          "label": "Perspectiva de la BBC",
-          "text": "BBC News Mundo informó sobre un informe del Departamento de Estado que acusa a Cuba de intentar desestabilizar EE. UU., proporcionando un contexto más amplio de las tensiones entre EE. UU. y países latinoamericanos, y contrastando con el enfoque mexicano."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "f0d98e9d0abb",
-      "title": "La nueva app de Renfe para Cercanías no solo usa IA, además es muy buena en funciones y en diseño",
-      "summary": "Renfe, la operadora ferroviaria española, ha lanzado una versión actualizada de su aplicación móvil para Cercanías que incorpora inteligencia artificial, mapas interactivos y widgets, mejorando la planificación de viajes y la experiencia del usuario.",
-      "category": "tecnologia",
-      "source_name": "El Androide Libre",
-      "source_url": "https://www.elespanol.com/elandroidelibre/aplicaciones/20260730/nueva-app-renfe-cercanias-no-solo-usa-ia-ademas-buena-funciones-diseno/1003744339289_0.html",
-      "published_at": "2026-07-30T17:08:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir funcionalidades y mejoras técnicas sin usar vocabulario cargado ni presentar opiniones políticas o comerciales, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El artículo se centra en los aspectos tecnológicos y de usabilidad de la app, destacando la IA y el diseño, mientras omite análisis sobre costos, impacto en la movilidad urbana o políticas de transporte.",
-      "focus_tags": [
-        "renfe app",
-        "inteligencia artificial",
-        "transporte público"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Renfe ya disponía de una aplicación para Cercanías que permitía la compra de billetes y la consulta de horarios, pero carecía de funciones avanzadas como mapas interactivos o planificación mediante lenguaje natural."
-        },
-        {
-          "label": "tendencia sectorial",
-          "text": "En los últimos años, operadores ferroviarios como Deutsche Bahn y SNCF han integrado IA en sus plataformas móviles para ofrecer rutas optimizadas y datos en tiempo real, siguiendo una tendencia global de digitalización del transporte."
-        },
-        {
-          "label": "expectativas usuarios",
-          "text": "Los viajeros de cercanías suelen demandar información actualizada sobre horarios, disponibilidad de plazas y servicios auxiliares, lo que ha impulsado a las empresas de transporte a mejorar la interactividad y la personalización de sus apps."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "0424a262f2cc",
-      "title": "Medios marroquíes culpan a las redes sociales de orquestar el cruce de jóvenes a Ceuta \"ocupada\"",
-      "summary": "Los medios de comunicación de Marruecos acusan a las redes sociales de organizar el cruce masivo de jóvenes marroquíes hacia la ciudad autónoma española de Ceuta, describiéndolo como un intento de desprestigiar la imagen del rey Mohamed VI y de presentar a Marruecos como incapaz de controlar sus fronteras durante las celebraciones del Día del Trono.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/medios-marroquies-culpan-redes-sociales-orquestar-cruce-jovenes-ceuta-ocupada-20260730-825847.html",
-      "published_at": "2026-07-30T17:08:30+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta tanto las declaraciones de los medios marroquíes como la respuesta del gobierno español, sin usar un lenguaje cargado ni favorecer explícitamente a ninguno de los actores, lo que indica una cobertura centrada.",
-      "focus_analysis": "El medio se centra en el encuadre político y mediático del cruce, resaltando la supuesta campaña digital y su impacto en la imagen del rey, mientras deja de lado la dimensión humana de los migrantes y los factores socio‑económicos subyacentes.",
-      "focus_tags": [
-        "propaganda digital",
-        "crisis migratoria",
-        "relaciones España‑Marruecos"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "Ceuta es una ciudad autónoma española situada en el norte de África, que ha sido objeto de disputas territoriales entre España y Marruecos desde hace décadas y ha experimentado varios episodios de cruces masivos de migrantes."
-        },
-        {
-          "label": "Datos de migración reciente",
-          "text": "En los últimos días, cientos de personas de origen magrebí cruzaron a Ceuta a través de la playa y la valla de El Tarajal, generando una crisis migratoria que llevó a España y Marruecos a acordar la devolución inmediata de los migrantes ingresados ilegalmente."
-        },
-        {
-          "label": "Postura de otros medios",
-          "text": "Coberturas como la de El País América destacan la preocupación de las familias y la lamentación de activistas y organizaciones ante la llegada de miles de jóvenes, ofreciendo una perspectiva más centrada en el impacto humano del cruce."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
