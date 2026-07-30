@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T03:05:28.351188+00:00",
-      "title": "Una IA gestionó un negocio sin supervisión humana y eligió mentir, amenazar y traicionar",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo, aunque es reciente y está bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:05:38.826591+00:00",
-      "title": "La probabilidad del apocalipsis",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero la falta de verificación de algunos datos y el tono sesgado reducen su objetividad y equilibrio de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:05:45.351405+00:00",
-      "title": "Golpe a “Don Checo”: desmantelan dos células dedicadas al huachicoleo de Gas LP en el Edomex",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares periodísticos, con pequeñas limitaciones en la evidencia de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:20:36.154210+00:00",
-      "title": "España: de la euforia a la zozobra",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 3.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 3,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad requeridos para una noticia informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:20:39.940571+00:00",
-      "title": "Predicción del clima: estas son las temperaturas en Santiago Ixcuintla",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es mayormente objetivo y actual, pero la falta de fuentes oficiales reduce su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:20:45.667192+00:00",
-      "title": "Camión invade carriles en sentido contrario; deja cuatro lesionados en Ermita Iztapalapa, a la altur",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y actual, aunque podría fortalecer la verificación citando fuentes específicas para los datos de contexto.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:20:51.550528+00:00",
-      "title": "El homenaje de Nico Paz a Messi tras el Mundial 2026: posó con una camiseta especial y causó furor e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete contiene errores factuales importantes que comprometen su veracidad, aunque la redacción es objetiva y reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:20:57.052711+00:00",
-      "title": "Republicanos aplazan nominación de Blanche como fiscal general EEUU",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo presenta una buena estructura y neutralidad, pero contiene graves errores de hecho que comprometen su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:21:01.322871+00:00",
-      "title": "Una IA gestionó un negocio sin supervisión humana y eligió mentir, amenazar y traicionar",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y equilibrio, aunque es actual y sigue una estructura razonable.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T03:21:10.088023+00:00",
-      "title": "La probabilidad del apocalipsis",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y bien estructurado, aunque algunas cifras y citas necesitan corroboración para asegurar su veracidad completa.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T03:21:14.336150+00:00",
       "title": "Microsoft, con buen reporte en el II Trim; Meta retrocede",
       "kind": "noticia",
@@ -3386,6 +3216,176 @@
         "estructura_piramide": 8
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para mayor contraste en contextos más complejos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:00:51.440277+00:00",
+      "title": "Guerra abierta en la FIFA: $20,000 millones para vender el Mundial y el boicot que ya se prepara",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete contiene datos no verificables y fuentes poco fiables, lo que compromete su calidad editorial pese a su actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:00:55.873221+00:00",
+      "title": "Última hora de los incendios forestales, en directo | Sánchez anuncia el fin de la emergencia nacion",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información objetiva y actual, aunque podría reforzar la verificación con citas precisas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:00.728412+00:00",
+      "title": "Colectivo no ve avance en plan contra desplazamiento",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque podría mejorar la verificación de hechos con fuentes directas y mayor neutralidad en la redacción.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:11.323901+00:00",
+      "title": "Adopción tecnológica y escasez de mano de obra: evidencia de la Revolución Industrial británica",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información precisa, bien contextualizada y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:16.929024+00:00",
+      "title": "Llevamos el Apple Watch tantas horas que ya hay un nombre para el problema que puede provocar en la ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es mayormente sólido, aunque la falta de fuentes concretas para el término \"watch rot\" reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:23.685812+00:00",
+      "title": "Nicaragua",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 5
+      },
+      "observacion": "El paquete es actual y objetivo, pero le falta contraste de fuentes y una estructura más directa de pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:26.632542+00:00",
+      "title": "Jugó en Boca, salió campeón con O’Higgins y fue compañero de Messi: “Esta noche tendré el corazón pa",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una estructura adecuada y está actualizado, pero la falta de verificación de datos clave afecta su credibilidad global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:31.343174+00:00",
+      "title": "Dos años después, Federico Viñas vuelve a la Liga MX; así fue su paso por Europa",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la precisión de los datos y ampliar la variedad de fuentes, pero mantiene buena objetividad y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:35.063038+00:00",
+      "title": "Tetracromatismo: la particular variante genética que hace que algunas mujeres vean más colores que e",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien fuenteada, objetiva y estructurada de forma adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T10:01:41.109693+00:00",
+      "title": "Difícil, vivienda asequible en zonas gentrificadas: IP",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, pero necesita mayor diversidad de fuentes para equilibrar el contraste de perspectivas.",
       "error": null
     }
   ]
