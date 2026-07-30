@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T06:01:27.966101+00:00",
-      "title": "El precio de destruir lo que funciona",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita mayor rigor factual y fuentes balanceadas para cumplir con los estándares de objetividad y contraste, aunque es reciente y está estructurado de forma aceptable.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:01:34.058559+00:00",
-      "title": "El BBVA gana un 11% más en el primer semestre y alcanza un nuevo máximo de beneficios con 6.051 mill",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la imprecisión en los datos de beneficio afecta gravemente su veracidad, reduciendo la calidad editorial global.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:01:39.811933+00:00",
-      "title": "Elon Musk cree que la IA superará la inteligencia humana en 5 años; “no habrá nada que no pueda hace",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales de objetividad y actualidad, aunque podría mejorar la verificación añadiendo citas directas y referencias específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:01:44.781852+00:00",
-      "title": "Lanús perdió 4-0 con Cienciano y quedó eliminado de la Copa Sudamericana",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, presentando la noticia de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:20:46.172822+00:00",
-      "title": "La Gran Carpa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo es reciente y mayormente objetivo, pero necesita mayor precisión en los datos y fuentes más diversificadas para reforzar su fiabilidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:20:51.441195+00:00",
-      "title": "La Casa de los Famosos México 2026: quiénes son los nominados de la primera semana",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura objetiva y bien estructurada, aunque algunos detalles podrían beneficiarse de fuentes más explícitas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:20:56.572438+00:00",
-      "title": "Última hora de los incendios forestales, en directo | El incendio de Zamora está descontrolado y obl",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y oportuna, con una estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:21:02.329342+00:00",
-      "title": "La herramienta de inventario con IA de Starbucks no falló en un piloto: falló en 11.300 tiendas ya a",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la verificación de datos y la inclusión de fuentes múltiples para cumplir con los estándares de precisión y contraste, aunque mantiene buena objetividad y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:21:07.307751+00:00",
-      "title": "Estos son los primeros nominados de \"La casa de los famosos México\"; se suman a Aldo Rendón, nominad",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes múltiples, objetividad y estructura, ofreciendo una noticia o y bien contextualizada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T06:21:14.326092+00:00",
-      "title": "El homenaje de Nico Paz a Messi tras el Mundial 2026: posó con una camiseta especial y causó furor e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 8,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero falla gravemente en veracidad y falta de fuentes contrastadas, lo que compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T06:21:23.275662+00:00",
       "title": "La probabilidad del apocalipsis",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de información objetiva y actual, aunque podría reforzar la variedad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:20:37.216219+00:00",
+      "title": "El arquero de la selección argentina que Manchester City quiere fichar como alternativa de Gianluigi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura y la objetividad, pero la veracidad de algunos datos y la falta de fuentes contrastadas reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:20:40.714586+00:00",
+      "title": "Los mejores chollos que puedes comprar en Amazon hoy, 30 de julio",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una pieza informativa, actual y estructurada, aunque la verificación de los precios específicos podría reforzarse con fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:20:44.577476+00:00",
+      "title": "“Las Azules” vuelve con una temporada más intensa y vigente: Fernando Rovzar, Bárbara Mori y Horacio",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y cumple con la estructura y actualidad, pero podría mejorar la verificación de datos y diversificar sus fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:20:51.941458+00:00",
+      "title": "Crisis migratoria en Ceuta: ¿qué está pasando y por qué el Gobierno español rechaza declarar la emer",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de rigor y neutralidad, ofreciendo una visión clara y bien estructurada de la crisis migratoria en Ceuta.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:20:57.377568+00:00",
+      "title": "Lo que se pierde cuando la boca enferma",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada de la información sanitaria.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:21:05.209873+00:00",
+      "title": "Aristegui en Vivo: Cerrarán todas las escuelas militarizadas; despojos en la CDMX; Kia invertirá 649",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero necesita más fuentes y corroboración de datos para alcanzar mayor veracidad y equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:21:09.861732+00:00",
+      "title": "Ricardo Yáñez: Isocronías",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "En general el paquete cumple con los estándares periodísticos; solo se recomienda verificar los datos menos comunes para asegurar la precisión completa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:21:14.207914+00:00",
+      "title": "Francisco Cerúndolo aprovechó el retiro de Tristan Boyer y se metió en los cuartos de final de Los C",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cubre la noticia de forma objetiva y reciente, pero contiene datos de veracidad dudosa que reducen su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:21:18.457909+00:00",
+      "title": "Xiaomi desvela todos los detalles de Skynomad: híbridos enchufables, versiones camper y 1.700 km de ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y estructurado, pero presenta serias fallas de veracidad y objetividad, limitando su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-30T13:21:21.768415+00:00",
+      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 30 de julio",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido en veracidad, objetividad y actualidad, pero necesita incluir fuentes diversas para cubrir adecuadamente los distintos puntos de vista en un tema de protestas.",
       "error": null
     }
   ]
