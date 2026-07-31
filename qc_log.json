@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T21:01:36.487784+00:00",
-      "title": "La broma que no es broma",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete carece de precisión y contraste de fuentes, y muestra sesgo evidente, aunque es reciente y sigue una estructura básica de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:01:40.050730+00:00",
-      "title": "Asesinan a presunto integrante de La Unión Tepito en la colonia Morelos; detienen al presunto agreso",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:01:45.534009+00:00",
-      "title": "Amazon supera las previsiones de crecimiento de ingresos de los servicios en la nube",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque podría mejorar la precisión al incluir cifras específicas y fuentes directas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:20:38.455797+00:00",
-      "title": "Luz de farol en la niebla: la brújula interior de Fernando Pessoa",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza literaria con buena estructura y voz, aunque podría enriquecer aún más su estilo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:20:43.352747+00:00",
-      "title": "Vinculan a proceso al director de la Academia Doenitz y a Estrellita “N” por el feminicidio de Dafne",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información verificable, fuentes oficiales y una estructura clara, pese a una cobertura ligeramente parcial que es debidamente señalada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:20:49.389625+00:00",
-      "title": "Cae Mario \"N\", excomisario de Tlayolapa e integrante de \"Los Ardillos\"; privó de la libertad a funci",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzar la verificación con citas y fechas concretas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:20:54.722811+00:00",
-      "title": "Banamex ficha a Enrique Fernández para su dirección de capital humano y cultura",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad; solo se podría enriquecer con citas directas para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:21:00.914812+00:00",
-      "title": "El álbum de fotos de las vacaciones de Gisela Dulko en Ibiza: el mensaje especial que compartió",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es adecuado para publicación; solo se sugiere verificar con precisión los datos numéricos para evitar posibles inexactitudes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:21:07.308767+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Al menos 10 migrantes han muerto al i",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta información reciente pero con deficiencias en verificación de datos y diversidad de fuentes, aunque mantiene un tono mayormente objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:21:11.827457+00:00",
-      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares editoriales, ofreciendo información veraz, actual y estructurada, aunque la variedad de fuentes podría ampliarse.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:21:22.428869+00:00",
-      "title": "La broma que no es broma",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 8,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, y muestra sesgo evidente, aunque está bien estructurado y es actual.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:21:25.768832+00:00",
-      "title": "Entrenamiento exprés para brazos usando botellas de agua",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, aunque debería incluir referencias concretas para validar el respaldo de instituciones médicas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:40:41.886590+00:00",
-      "title": "Independiente Rivadavia y Huracán se enfrentan en el cierre de la segunda fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para mayor robustez.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T21:40:47.743458+00:00",
       "title": "Disminuyen 30% los delitos de alto impacto en Edomex: Inegi; mejora la percepción de inseguridad",
       "kind": "noticia",
@@ -3380,6 +3159,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque la falta de referencias específicas y datos verificables limita la precisión de la información.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:09.279573+00:00",
+      "title": "Prioridades legislativas",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los criterios de calidad editorial, aunque podría mejorar la diversidad de fuentes para reforzar el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:14.886106+00:00",
+      "title": "Jugador del Atlante asegura que Gilberto Mora tuvo la oportunidad de llegar al Real Madrid",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Debido a inconsistencias factuales y falta de fuentes contrastadas, el artículo no cumple los estándares editoriales y requiere verificación y ampliación antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:20.670915+00:00",
+      "title": "Jugadores de Santos Laguna donan recursos para apoyar a afectados en Venezuela",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido pero necesita mayor respaldo de fuentes y datos verificables para alcanzar la máxima calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:27.534036+00:00",
+      "title": "Detener migrantes indocumentados en los aeropuertos, el nuevo frente de la ofensiva migratoria de Tr",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual y está estructurado, pero falla gravemente en precisión factual y en ofrecer fuentes contrastadas y objetividad, lo que lo hace inadecuado para publicación sin correcciones.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:33.003520+00:00",
+      "title": "7 frases de Paredes tras el triunfo por penales de Boca ante O’Higgins: gran respaldo a Aranda y “ob",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque podría beneficiarse de fuentes adicionales para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:39.320677+00:00",
+      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, cumple con los criterios de veracidad, fuentes y objetividad, y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:49.071516+00:00",
+      "title": "La broma que no es broma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y neutralidad requeridos; necesita fuentes contrastadas y datos verificables antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:53.963252+00:00",
+      "title": "El coste de no construir centros de datos",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta datos recientes pero con escasa verificación y falta de fuentes contrastantes, y muestra un sesgo pro‑negocio; sin embargo, su estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:25:58.167049+00:00",
+      "title": "Evo Morales acusa a EU de perseguirlo por “terrorismo”",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es mayormente adecuado y actual, pero la falta de fuentes verificables para la acusación de intervención estadounidense reduce la precisión de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:26:05.534710+00:00",
+      "title": "Justino Compeán asegura que México está listo para albergar cualquier evento de FIFA",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita mayor contraste de fuentes y corregir datos menores para alcanzar la excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:26:10.281401+00:00",
+      "title": "La pirueta de Ayuso para desactivar el escándalo del ático de lujo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta problemas de veracidad y falta de fuentes contrastantes, y su tono es parcial, aunque es actual y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:26:13.818073+00:00",
+      "title": "Los lujos del Colo Barco en un partido informal en Pilar: caño, gol y un look que fue muy celebrado ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete muestra problemas de veracidad y objetividad, aunque es actual y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:26:18.611661+00:00",
+      "title": "Google lanza una inteligencia artificial que permite a los robots pensar y actuar al mismo tiempo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque podría mejorar la robustez de sus fuentes. En general, es apto para publicación.",
       "error": null
     }
   ]
