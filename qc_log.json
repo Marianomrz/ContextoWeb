@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T20:48:04.345031+00:00",
-      "title": "La broma que no es broma",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete está actualizado y sigue una estructura básica de pirámide invertida, pero su precisión factual y balance de fuentes son deficientes, y muestra un claro sesgo editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:48:08.689358+00:00",
-      "title": "Rumoran separación de José Eduardo Derbez y Paola Dalay, madre de su hija Tessa",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque es reciente y estructurado; necesita fuentes más fiables antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:48:12.590107+00:00",
-      "title": "Informe desde frontera Ceuta-Castillejos: miles de jóvenes marroquíes cruzan a Ceuta",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría reforzarse con datos más precisos y una mayor diversidad de fuentes que incluyan a la parte marroquí.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:00:48.429438+00:00",
-      "title": "España cierra la frontera con Marruecos en Melilla; autoridades despliegan operativo de seguridad",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque podría mejorar la inclusión de voces migrantes para mayor equilibrio.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:00:53.163805+00:00",
-      "title": "Wall Street sube por impulso tecnológico; las acciones de Microsoft suben 15.5% tras reporte",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, aunque la falta de fuentes verificables y contraste limitado reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:01:00.093000+00:00",
-      "title": "Grecia Quiroz exige que se investigue a políticos tras detención del “R1” y afirma que “aún hay much",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero le falta contraste de fuentes y contiene pequeñas inconsistencias que reducen su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:01:07.688635+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Al menos 10 migrantes han muerto al i",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la precisión factual está comprometida por contradicciones y afirmaciones dudosas, lo que reduce su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:01:13.712146+00:00",
-      "title": "Gianni Infantino explicó cómo es el FIFA Forward Enterprise, el plan que desató una crisis en el fút",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, pero la falta de fuentes múltiples reduce su robustez editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T21:01:18.953863+00:00",
-      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y objetividad, ofreciendo contexto suficiente y una estructura clara para el lector.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T21:01:36.487784+00:00",
       "title": "La broma que no es broma",
       "kind": "noticia",
@@ -3380,6 +3227,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma precisa, o y estructurada, aunque podría reforzar la variedad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:00:40.497971+00:00",
+      "title": "Constelaciones de papel: la odisea de 'Los detectives salvajes'",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "Texto sólido y bien estructurado, con estilo y profundidad adecuados para el público de Contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:00:43.498696+00:00",
+      "title": "Masacre de Zacatecas: ocho víctimas fueron citadas por sus asesinos, a quienes llamaban “los señores",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo le falta mayor diversidad de fuentes externas, pero en conjunto es un artículo de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:00:48.230538+00:00",
+      "title": "7 frases de Paredes tras el triunfo por penales de Boca ante O’Higgins: gran respaldo a Aranda y “ob",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:00:53.622084+00:00",
+      "title": "Bolsas mexicanas ganaron por PIB y reportes trimestrales",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión de los nombres de fuentes para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:00:58.356996+00:00",
+      "title": "Justino Compeán asegura que México está listo para albergar cualquier evento de FIFA",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la pieza es reciente y sigue la estructura de pirámide invertida, su falta de verificación de hechos y de fuentes contrastantes compromete su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:01:02.646498+00:00",
+      "title": "Capturan a panameño por reclutar para la guerra Rusia-Ucrania",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque le falta citaciones más concretas para algunos datos numéricos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:01:07.558145+00:00",
+      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, y presenta la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:01:18.330417+00:00",
+      "title": "La broma que no es broma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque está actualizada y bien estructurada, la nota carece de precisión factual y de equilibrio de fuentes, presentando un sesgo fuerte que compromete su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T04:01:23.120145+00:00",
+      "title": "La psicología advierte que adultos que se disculpan por todo crecieron bajo presión para justificar ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque la falta de referencias específicas y datos verificables limita la precisión de la información.",
       "error": null
     }
   ]
