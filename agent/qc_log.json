@@ -1,187 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T20:13:29.163966+00:00",
-      "title": "Albergues documentan nuevas formas de extorsión a migrantes por medio de transferencias electrónicas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero la ausencia de datos concretos y de fuentes múltiples limita su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:13:34.787899+00:00",
-      "title": "\"La situación está fuera de control\": España moviliza al ejército ante el cruce de miles de migrante",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, con una presentación objetiva y bien estructurada; solo se sugiere una ligera verificación adicional de algunos datos específicos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:13:39.228094+00:00",
-      "title": "Boca Juniors buscará sellar su boleto a octavos de la Copa Sudamericana ante O’Higgins en Chile: hor",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la verificación de algunas afirmaciones y la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:13:44.989069+00:00",
-      "title": "CNDH alerta sobre riesgos de trata de personas en el deporte; pide reforzar protección a menores",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, presenta información veraz y objetiva, aunque algunas cifras carecen de fuente explícita.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:20:33.328347+00:00",
-      "title": "Balacera en Las Haciendas de Valle de Santiago provoca pánico; aseguran dos autos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, mostrando precisión, actualidad y estructura adecuada, aunque podría reforzar la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:20:38.969598+00:00",
-      "title": "García Harfuch confirma la captura del presunto autor intelectual del asesinato de Carlos Manzo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva con fuentes múltiples y contraste adecuado.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:20:45.615516+00:00",
-      "title": "INE aprueba el calendario del Proceso Electoral Federal 2026-2027; estas son las fechas clave",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ':' delimiter: line 14 column 5 (char 780)"
-    },
-    {
-      "at": "2026-07-30T20:20:49.738131+00:00",
-      "title": "La zona del sur de EE.UU. que quedó devastada por un huracán y ahora tiene más dinero del que puede ",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando la información de forma clara, reciente y equilibrada, aunque podría reforzarse con fuentes adicionales para los datos económicos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:20:57.170861+00:00",
-      "title": "Su club lo acaba de comprar, pero lo vendería a un gigante de Alemania: el curioso caso de una figur",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete tiene problemas serios de veracidad por incluir eventos futuros no verificables, y carece de fuentes contrastadas, aunque está bien estructurado y es reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:21:01.633351+00:00",
-      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares editoriales, aunque podría mejorar la variedad de fuentes y la precisión de citas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T20:21:12.019097+00:00",
-      "title": "La broma que no es broma",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, y muestra sesgo evidente, aunque es actual y estructuralmente aceptable.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T20:21:15.449322+00:00",
       "title": "Cuatro hábitos para proteger la salud cerebral y reducir el riesgo de un accidente cerebrovascular",
       "kind": "noticia",
@@ -3374,6 +3193,187 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con la mayoría de los estándares editoriales, pero debería incluir fuentes más concretas para reforzar la veracidad de la afirmación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:11.374925+00:00",
+      "title": "Ciudad de México albergará el 4º Congreso Mundial de Turismo Deportivo de la ONU",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de actualidad y estructura, pero necesita mayor verificación de datos y un enfoque más equilibrado para alcanzar una calidad editorial completa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:18.827842+00:00",
+      "title": "Documental “Horizontes Perdidos” cuestiona el costo ambiental de la carrera espaci",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete contiene información plausible pero no verificable completamente y carece de fuentes múltiples, lo que reduce su veracidad y contraste, aunque es actual y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:22.953638+00:00",
+      "title": "Boca Juniors venció por penales a O’Higgins y avanzó a los octavos de final de la Copa Sudamericana",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad; solo se podría mejorar la puntuación de fuentes añadiendo referencias adicionales, pero en general es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:28.760367+00:00",
+      "title": "Gobierno de Zacatecas busca definir el futuro de dos bachilleratos militarizados; espera respuesta d",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad informativa, pero debería incorporar fuentes y perspectivas adicionales para reforzar el contraste de voces en el contexto político.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:33.937777+00:00",
+      "title": "Trump anuncia un acuerdo para \"el desarme total\" de Hamás en Gaza que fue confirmado por el grupo pa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero falla gravemente en veracidad y en la presentación de fuentes contrastadas, lo que lo hace inadecuado para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:36.647276+00:00",
+      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque muestra un sesgo leve promocional y podría ampliar la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:45.680038+00:00",
+      "title": "La broma que no es broma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "at": "2026-07-31T03:05:52.951944+00:00",
+      "title": "Él era Zombie Boy, el modelo tatuado de calavera que vistió Aldo Rendón y que era amigo de Lady Gaga",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla en precisión y contraste de fuentes, aunque es actual y bien estructurado; requiere corrección de datos y fuentes más robustas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:05:57.501522+00:00",
+      "title": "Petro viajará a Cuba el viernes; su última visita oficial al extranjero como presidente de Colombia",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete tiene buena actualidad y estructura, pero su veracidad es dudosa y carece de fuentes contrastadas, lo que compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:06:01.535238+00:00",
+      "title": "La sede de Santo Domingo afronta una jornada con campeones en 10 deportes",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de precisión, imparcialidad y actualidad, ofreciendo una información clara y bien estructurada sobre el evento deportivo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T03:06:07.710738+00:00",
+      "title": "Apple y Amazon disparan sus ganancias y sorprenden a Wall Street",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad; solo le falta citar directamente los informes de resultados para mejorar la precisión.",
       "error": null
     }
   ]
