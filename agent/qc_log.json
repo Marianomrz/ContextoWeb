@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-31T10:01:15.560090+00:00",
-      "title": "INE Nueva generación",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de veracidad, objetividad y actualidad; solo se penaliza ligeramente por la ausencia de fuentes múltiples, lo cual es aceptable dada la naturaleza descriptiva del contenido.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:01:21.141734+00:00",
-      "title": "Trump amaga con retirar la nominación de Todd Blanche",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es reciente, pero la falta de verificabilidad de los datos y la limitada fiabilidad de la fuente disminuyen su calidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:01:24.341481+00:00",
-      "title": "Esculturas hiperrealistas gigantes acercan el arte al público de Chicago",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad; solo se sugiere incluir referencias verificables para reforzar la precisión de los datos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:20:11.252248+00:00",
-      "title": "Precio de la gasolina en Jalisco hoy viernes 31 de julio: ¿Cuánto cuesta el litro de Magna y Premium",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es mayormente objetivo y actual, pero su veracidad y contraste de fuentes son limitados, lo que reduce su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:20:15.743465+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Más de 40.000 inmigrantes han entrado",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los requisitos de objetividad y actualidad, aunque podría reforzar la verificación de cifras y ampliar la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:20:21.137718+00:00",
-      "title": "Esto que parece un edificio a medio construir en China es una batería gigante que funciona con grave",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente informativo y actual, pero necesita fuentes más robustas y verificables para reforzar la precisión y el contraste de información.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:20:25.801974+00:00",
-      "title": "Nu México inicia su transición a banca múltiple, ¿qué cambia para sus clientes?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial y es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:20:31.428668+00:00",
-      "title": "Conmoción en el mundo del fútbol: murió Franco Baresi, leyenda del Milan y la selección de Italia",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene datos falsos graves que comprometen su veracidad; no cumple los estándares editoriales para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:20:40.035857+00:00",
-      "title": "La escritura y la vida según Miriam Toews",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta serias imprecisiones y falta de fuentes contrastadas, lo que compromete su fiabilidad pese a una buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T10:20:46.846506+00:00",
-      "title": "INE Nueva generación",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría beneficiarse de fuentes más variadas para enriquecer el contexto.",
-      "error": null
-    },
-    {
       "at": "2026-07-31T10:20:51.036568+00:00",
       "title": "¿Cuál es el precio de la gasolina hoy viernes 31 de julio en Puebla?",
       "kind": "noticia",
@@ -3398,6 +3228,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con la mayoría de los criterios de calidad editorial, aunque podría reforzar la diversidad de fuentes para un contraste más completo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:05.335954+00:00",
+      "title": "UNAM aplicará nuevamente examen de admisión a nivel licenciatura",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información verificable, fuentes variadas y una presentación objetiva y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:11.486087+00:00",
+      "title": "El \"desarme total\" de Trump para Gaza se topa con los matices de Hamás y la última palabra de Israel",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y fuentes confiables; se recomienda rechazar la publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:18.873798+00:00",
+      "title": "Wall Street avanza en la última sesión de julio; acciones de Amazon se disparan tras reporte",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, presentando la noticia de forma clara y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:26.084733+00:00",
+      "title": "Adiós al agujero del centro: la Samsung Galaxy Smart Tag 3 cambia el diseño a uno mucho más convenci",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y cumple con los estándares de objetividad y actualidad, aunque podría mejorar la variedad de fuentes y la verificación directa de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:30.538511+00:00",
+      "title": "El calor extremo dispara récords en Corea del Sur",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero la inconsistencia en los datos de récord reduce su puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:33.946304+00:00",
+      "title": "Un campeón del mundo con Francia en 2018 vendió su réplica del trofeo: cuánto le pagaron",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad, presentando una noticia objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:44.862716+00:00",
+      "title": "Cómo la transición abrió paso a su verdugo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero le falta contraste de fuentes y contiene afirmaciones no verificables, lo que afecta su precisión y equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:51.723717+00:00",
+      "title": "Él será el nuevo líder de ‘Los R’s’ tras la detención del R1: arrestos han debilitado a grupo del CJ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, mostrando precisión, fuentes variadas y estructura adecuada, pese a una ligera falta de voces críticas en la cobertura original.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:25:58.801182+00:00",
+      "title": "Antonella Marty: \"La cuestión migratoria está instrumentalizada por las nuevas derechas\"",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y estructurado correctamente, pero presenta limitaciones en verificación de datos y falta de fuentes contrastantes, lo que afecta su objetividad y precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T16:26:02.895235+00:00",
+      "title": "Copa Michou & Mau 2026: cita ecuestre más allá de las pistas",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información clara, reciente y bien estructurada sobre el evento deportivo.",
       "error": null
     }
   ]
