@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-31T19:21:41.434923+00:00",
+  "generated_at": "2026-07-31T19:41:55.972107+00:00",
   "articles": [
+    {
+      "id": "f30b24e73804",
+      "title": "El nuevo submarino nuclear ruso Perm entrará en servicio este año. Promete hacer algo que ningún otro puede: lanzar hipersónicos",
+      "summary": "El submarino nuclear ruso Perm, de la familia Yasen‑M, entrará en servicio este año y, según Moscú, será el primero en portar misiles de crucero hipersónicos Zircon, ampliando la capacidad de ataque de la flota del Pacífico.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/magnet/nuevo-submarino-nuclear-ruso-perm-entrara-servicio-este-ano-promete-hacer-algo-que-ningun-otro-puede-lanzar-hipersonicos",
+      "published_at": "2026-07-31T19:01:43+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto usa un tono cauteloso y cita a analistas occidentales (CSIS, RUSI) que advierten sobre la efectividad real, presentando la información con espticismo más que como una celebración del avance ruso.",
+      "focus_analysis": "Se centra en el aspecto tecnológico‑militar del nuevo submarino y su capacidad hipersónica, dejando de lado el contexto político‑de seguridad más amplio y la reacción de otras potencias.",
+      "focus_tags": [
+        "tecnología militar",
+        "hipersónicos",
+        "submarinos nucleares"
+      ],
+      "context": [
+        {
+          "label": "Yasen-M",
+          "text": "Los submarinos Yasen‑M son unidades multipropósito de cuarta generación diseñadas para combinar sigilo, guerra antisubmarina y ataque con misiles de crucero, y forman parte del programa de modernización de la Armada rusa."
+        },
+        {
+          "label": "Zircon",
+          "text": "El misil de crucero hipersónico Zircon, probado desde plataformas como el Severodvinsk, alcanza velocidades supersónicas que reducen drásticamente el tiempo de reacción de las defensas, aunque su efectividad operativa aún no está confirmada."
+        },
+        {
+          "label": "Modernización naval rusa",
+          "text": "En los últimos años Rusia ha ampliado su flota con nuevos buques estratégicos Borei‑A y Yasen‑M, buscando reforzar tanto la disuasión nuclear como la capacidad de ataque de largo alcance desde el mar."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "520551af17f8",
+      "title": "España despliega al ejército en Ceuta ante la llegada de miles de personas procedentes de Marruecos",
+      "summary": "El Gobierno de España, encabezado por el presidente Pedro Sánchez, desplegó al ejército en el enclave norteafricano de Ceuta para responder a la llegada de miles de migrantes procedentes de Marruecos. La medida pretende reforzar la seguridad fronteriza ante la presión migratoria.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/videos/espana-despliega-ejercito-ceuta-llegada-miles-personas-procedentes-marruecos-20260731-826069.html",
+      "published_at": "2026-07-31T19:24:32+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto utiliza un tono mayormente descriptivo y evita adjetivos cargados, centrándose en la acción institucional sin incluir testimonios humanos ni análisis críticos, lo que indica una ligera inclinación hacia la perspectiva de seguridad.",
+      "focus_analysis": "El medio elige el ángulo institucional y de seguridad al destacar el despliegue militar, dejando de lado el enfoque humanitario y socioeconómico de los migrantes.",
+      "focus_tags": [
+        "seguridad fronteriza",
+        "despliegue militar",
+        "crisis migratoria"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Ceuta, enclave español en el norte de África, ha sido históricamente punto de entrada irregular de migrantes, con episodios destacados en 2021 cuando la frontera fue tambiénada por flujos masivos."
+        },
+        {
+          "label": "datos comparables",
+          "text": "Los altos índices de desempleo y pobreza entre los jóvenes de Marruecos son factores estructurales que impulsan la migración irregular hacia Ceuta, según informes socioeconómicos."
+        },
+        {
+          "label": "postura de actores",
+          "text": "El presidente español Pedro Sánchez calificó la llegada masiva de migrantes como una violación de la integridad territorial y resaltó la cooperación con Marruecos, mientras que medios como BBC destacaron la desesperación humanitaria de los migrantes."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "3bf1b6692529",
+      "title": "\"Estamos atrapadas aquí, sin poder volver a casa\": la desesperación de los miles de migrantes que cruzaron la frontera entre Marruecos y España por Ceuta",
+      "summary": "La crisis migratoria en la frontera entre Marruecos y el enclave español de Ceuta dejó a cientos de migrantes atrapados sin alimentos ni refugio, mientras que al menos 57 personas murieron al intentar cruzar.",
+      "category": "sociedad",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c74gddnrry8o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T19:32:40+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto enfatiza el sufrimiento de los migrantes, utiliza citas emotivas y se centra en la falta de ayuda, mientras que menciona de forma más breve la respuesta de las autoridades, lo que indica una ligera inclinación humanitaria de izquierda.",
+      "focus_analysis": "El medio eligió un ángulo humanitario, describiendo la desesperación y condiciones de vida de los migrantes; quedó fuera el análisis económico y político profundo de la gestión gubernamental y de la política migratoria europea.",
+      "focus_tags": [
+        "crisis migratoria",
+        "derechos humanos",
+        "Ceuta-Marruecos"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Ceuta es un enclave español en el norte de África y una de las dos únicas fronteras terrestres de la Unión Europea en África, históricamente punto de paso de migrantes irregulares."
+        },
+        {
+          "label": "datos recientes",
+          "text": "En los últimos días, aproximadamente 50 000 personas cruzaron la frontera, y las autoridades españolas confirmaron al menos 57 fallecidos por ahogamiento."
+        },
+        {
+          "label": "otras coberturas",
+          "text": "Mientras BBC News Mundo se centra en la experiencia de los migrantes, France24 destaca la exposición a la intemperie y la ayuda de autoridades marroquíes, Euronews menciona la declaración de emergencia nacional y El Economista subraya el despliegue militar español en Ceuta."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "30b9f153640e",
+      "title": "La nueva película de ‘X-Men’ toma forma y ya tiene a su Emma Frost",
+      "summary": "Marvel Studios confirmó que la actriz australiana Samara Weaving interpretará a Emma Frost en la próxima película de X‑Men del Universo Cinematográfico de Marvel, cuyo director será Jake Schreier y cuya salida está prevista para después de Secret Wars.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/la-nueva-pelicula-de-x-men-toma-forma-y-ya-tiene-a-su-emma-frost/",
+      "published_at": "2026-07-31T19:20:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar datos de casting y producción sin usar lenguaje cargado ni presentar opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El artículo se centra en los aspectos de producción y elenco de la nueva película de X‑Men, dejando de lado la crítica al guion, la recepción del público o el impacto financiero.",
+      "focus_tags": [
+        "cine",
+        "X‑Men",
+        "Marvel Studios"
+      ],
+      "context": [
+        {
+          "label": "historial de derechos",
+          "text": "Marvel Studios adquirió en 2019 los derechos cinematográficos de los X‑Men que antes pertenecían a Fox, con el objetivo de integrarlos al Universo Cinematográfico de Marvel."
+        },
+        {
+          "label": "actriz Samara Weaving",
+          "text": "Samara Weaving, conocida por su papel en la película de terror Noche de Bodas, es una actriz australiana que ha ganado visibilidad en producciones internacionales."
+        },
+        {
+          "label": "previas encarnaciones de Emma Frost",
+          "text": "El personaje de Emma Frost había sido interpretado previamente por January Jones en la saga de X‑Men de Fox, antes de la reestructuración del universo bajo Marvel Studios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "0afebb5e84fd",
+      "title": "Hombre de 72 años mata a su esposa a balazos en fraccionamiento de Durango; lo detienen",
+      "summary": "Un hombre de 72 años en la ciudad de Durango, México, disparó a su esposa de 61 años, causándole la muerte, y fue detenido por la policía estatal.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/hombre-de-72-anos-mata-a-su-esposa-a-balazos-en-fraccionamiento-de-durango-lo-detienen/",
+      "published_at": "2026-07-31T19:35:46+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto usa el término 'presunto feminicida' y enfatiza la violencia de género, lo que indica una ligera inclinación hacia la perspectiva feminista; el resto del reporte es mayormente factual y neutro.",
+      "focus_analysis": "El medio se centró en el hecho del homicidio y en el carácter de feminicidio, dejando fuera análisis de causas estructurales o de políticas de seguridad.",
+      "focus_tags": [
+        "feminicidio",
+        "violencia de género",
+        "crimen"
+      ],
+      "context": [
+        {
+          "label": "Estadísticas de feminicidio en México",
+          "text": "En 2025, México registró más de 1,000 casos de feminicidio, situándolo entre los países con mayor tasa de violencia de género según el INEGI."
+        },
+        {
+          "label": "Seguridad en Durango",
+          "text": "Durango ha visto un incremento del 15 % en delitos violentos en los últimos dos años, según datos de la Secretaría de Seguridad estatal."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El periódico AM de León informó de un caso en Salamanca donde agresores irrumpieron y asesinaron a un hombre, resaltando una perspectiva de víctima masculina y contrastando con la narrativa de El Universal."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "2d7991696efd",
+      "title": "Condenan a Leslie por matar a su madre con botella de cerveza en Yucatán, era elemento de la Guardia Nacional",
+      "summary": "Leslie Yajaira P.M., miembro activo de la Guardia Nacional de México, fue condenada a 30 años de prisión y a pagar más de 2.1 millones de pesos por el homicidio de su madre en el municipio de Acanceh, Yucatán.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/31/condenan-a-leslie-por-matar-a-su-madre-con-botella-de-cerveza-en-yucatan-era-elemento-de-la-guardia-nacional/",
+      "published_at": "2026-07-31T19:37:10+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos judiciales y la sentencia sin usar lenguaje cargado ni incluir opiniones políticas, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El artículo se centra en el ángulo legal e institucional, detallando la condena y el proceso judicial, mientras omite el contexto más amplio de la violencia doméstica y la polémica sobre la conducta de la Guardia Nacional.",
+      "focus_tags": [
+        "sentencia penal",
+        "guardia nacional",
+        "homicidio familiar"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "En México, el delito de homicidio en razón de parentesco está tipificado como un agravante que permite imponer penas de prisión más largas que el homicidio simple, de acuerdo con la legislación penal federal."
+        },
+        {
+          "label": "Institución involucrada",
+          "text": "La Guardia Nacional, creada en 2019 como parte de la estrategia de seguridad pública, ha sido objeto de críticas y controversias por casos de abuso y falta de disciplina entre sus miembros."
+        },
+        {
+          "label": "Situación de violencia doméstica",
+          "text": "La violencia contra la mujer y los homicidios familiares siguen siendo un problema grave en México, con tasas altas de femicidios y agresiones intrafamiliares que generan preocupación social y demandas de políticas de prevención."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "e467219d4037",
       "title": "¿Cómo detectar huevos contaminados de EU en México?",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "d8f28d3c085a",
-      "title": "Isuzu D-Max 2026 llega a México: precio desde $550,000 y motor turbodiesel de 188 hp",
-      "summary": "La Isuzu D-Max 2026 llega a México con un precio inicial de $550,000 pesos, ofreciendo tres versiones y un motor turbodiesel de 188 cab ideal para trabajos de carga.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/autos/isuzu-d-max-2026-llega-mexico-precio-550-000-motor-turbodiesel-188-hp-20260731-826063.html",
-      "published_at": "2026-07-31T18:17:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es descriptivo y se centra en datos técnicos y de precio, sin usar lenguaje cargado ni presentar una agenda política.",
-      "focus_analysis": "El medio enfatiza el aspecto económico y de mercado del vehículo, destacando precio, especificaciones y competencia, mientras omite la perspectiva de los usuarios o impactos ambientales.",
-      "focus_tags": [
-        "automóvil",
-        "precios",
-        "competencia"
-      ],
-      "context": [
-        {
-          "label": "historia de Isuzu en México",
-          "text": "Isuzu ha operado en México durante varios años como proveedor especializado en vehículos de carga, ganando reputación entre flotas comerciales."
-        },
-        {
-          "label": "mercado mexicano de pick‑ups",
-          "text": "El segmento de pick‑ups medianas en México está dominado por modelos como la Nissan NP300 y la Toyota Hilux, a los que la D‑Max buscará competir."
-        },
-        {
-          "label": "tendencias de importación",
-          "text": "Los vehículos de Isuzu se importan principalmente de Tailandia, lo que refleja la estrategia de la compañía de aprovechar la producción asiática para el mercado latinoamericano."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "39323baf389d",
-      "title": "Cómo la transición abrió paso a su verdugo",
-      "summary": "El artículo de Letras Libres argumenta que la transición democrática mexicana de los años noventa, pese a lograr importantes reformas institucionales, quedó incompleta y permitió que el gobierno de Andrés Manuel López Obrador y el Movimiento de Regeneración Nacional erosionaran esas conquistas, conduciendo a una creciente autocratización del sistema político.",
-      "category": "politica",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/politica/como-la-transicion-abrio-paso-a-su-verdugo/31/07/2026/",
-      "published_at": "2026-07-31T15:20:00+00:00",
-      "bias_score": 30,
-      "bias_reason": "El texto emplea un lenguaje marcadamente crítico hacia el actual gobierno (términos como \"verdugo\", \"autoritarismo\", \"centralismo vertical\") y destaca los abusos de poder sin equilibrar con logros o perspectivas favorables, lo que indica una inclinación hacia la derecha del espectro político.",
-      "focus_analysis": "El medio elige un ángulo institucional y democrático, analizando la insuficiencia de las reformas y la pérdida de separación de poderes, mientras omite el impacto económico y social de la administración actual.",
-      "focus_tags": [
-        "democracia mexicana",
-        "reforma institucional",
-        "autoritarismo"
-      ],
-      "context": [
-        {
-          "label": "Transición democrática mexicana",
-          "text": "A finales de los años noventa México implementó una serie de reformas que crearon instituciones autónomas como el INAI, la CNDH, el Banco de México y el Sistema Nacional Anticorrupción, estableciendo un marco de pluralismo político y separación de poderes que antes no existía."
-        },
-        {
-          "label": "Ascenso de Morena y AMLO",
-          "text": "En 2018 el Movimiento de Regeneración Nacional, liderado por Andrés Manuel López Obrador, ganó la presidencia y comenzó a cuestionar y, en algunos casos, debilitar a las instituciones creadas durante la transición, bajo una retórica populista que enfatiza la soberanía popular."
-        },
-        {
-          "label": "Perspectiva comparada",
-          "text": "Otros medios y analistas han señalado que la falta de una reforma presidencial profunda y la ausencia de contrapesos efectivos han facilitado la concentración de poder, una observación que coincide con la crítica de Letras Libres pero que también se menciona en informes de la Comisión Económica para América Latina y el Caribe."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "214c6874b561",
-      "title": "Juan Román Riquelme habló tras la clasificación de Boca Juniors en la Copa Sudamericana y lanzó una crítica al equipo: “No te pueden hacer un gol de lateral”",
-      "summary": "Juan Román Riquelme, presidente de Boca Juniors, criticó la defensa del equipo tras la clasificación a la Copa Sudamericana, señalando que el gol recibido de tiro de esquina evidenció fallas técnicas que, según él, podrían haberse evitado.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/07/31/juan-roman-riquelme-hablo-tras-la-clasificacion-de-boca-juniors-en-la-copa-sudamericana-y-lanzo-una-critica-al-equipo-no-te-pueden-hacer-un-gol-de-lateral/",
-      "published_at": "2026-07-31T17:43:23+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a reproducir declaraciones y describir hechos sin usar vocabulario cargado ni presentar opiniones externas; el tono es informativo y neutral.",
-      "focus_analysis": "El medio se centró en el aspecto técnico del error defensivo y en la reacción del dirigente, dejando de lado la perspectiva de los jugadores o la opinión de los aficionados.",
-      "focus_tags": [
-        "Boca Juniors",
-        "Copa Sudamericana",
-        "crítica de Riquelme"
-      ],
-      "context": [
-        {
-          "label": "Resultado del partido",
-          "text": "Boca Juniors superó a O'Higgins en la segunda fase de la Copa Sudamericana tras perder 1‑0 en el tiempo reglamentario y ganar la serie en la tanda de penales."
-        },
-        {
-          "label": "Perfil de Riquelme",
-          "text": "Juan Román Riquelme, exjugador emblemático de Boca y actual presidente del club, es conocido por intervenir públicamente en temas deportivos y por su estilo directo al comentar el rendimiento del equipo."
-        },
-        {
-          "label": "Expectativas futbolísticas en Argentina",
-          "text": "En el fútbol argentino se espera que los equipos grandes como Boca mantengan una solidez defensiva; los errores en jugadas a balón parado suelen generar críticas intensas por parte de la prensa y la afición."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "bf399fd68f9b",
-      "title": "La crisis migratoria en Ceuta, en imágenes",
-      "summary": "El enclave español de Ceuta, en el norte de África, está experimentando una nueva ola de llegadas irregulares de jóvenes migrantes procedentes de Marruecos, que han acampado en las calles de la ciudad.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-07-31/la-crisis-migratoria-en-ceuta-en-imagenes.html",
-      "published_at": "2026-07-31T17:54:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la situación con un lenguaje neutro y sin citar fuentes políticas, evitando adjetivos cargados o juicios de valor.",
-      "focus_analysis": "El medio opta por un enfoque humanitario, mostrando la presencia de migrantes en la calle, y omite la cobertura de respuestas políticas, de seguridad o de los acuerdos internacionales relacionados.",
-      "focus_tags": [
-        "crisis migratoria",
-        "situación humanitaria",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "Respuesta española",
-          "text": "El gobierno de España ha intensificado los controles fronterizos y está en conversaciones con Marruecos para gestionar la afluencia, migrantes, según informes de la BBC."
-        },
-        {
-          "label": "Impacto en acuerdos Schengen",
-          "text": "La crisis en Ceuta ha generado preocupación en la UE por posible afectación del acuerdo de libre circulación Schengen, como indica France24."
-        },
-        {
-          "label": "Política italiana",
-          "text": "Italia ha anunciado que revisará sus normas de ingreso para viajeros no europeos, aplicando controles aleatorios, de lo que reporta El Universal."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "fd30f806a86a",
-      "title": "VIDEO: mujer increpa a conductor de app tras petición hacia su hijo; \"El niño tiene autismo\", dice",
-      "summary": "Una madre que viajaba en un vehículo de una aplicación de transporte en la Ciudad de México confrontó al conductor después de que éste le pidiera que controlara a su hijo con autismo, lo que provocó un intenso debate en redes sociales sobre la seguridad vial y la empatía hacia personas con TEA.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/tendencias/video-mujer-increpa-a-conductor-de-app-tras-peticion-hacia-su-hijo-el-nino-tiene-autismo-dice/",
-      "published_at": "2026-07-31T17:56:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta de manera equilibrada los argumentos del conductor y de la madre, usa un lenguaje descriptivo sin adjetivos cargados y muestra reacciones de ambos lados en redes sociales, sin favorecer una postura política o ideológica.",
-      "focus_analysis": "El medio se centró en el aspecto humano y de discapacidad del incidente, resaltando la interacción entre la madre y el conductor y la reacción del público en línea, mientras dejó de lado la discusión sobre políticas de transporte o derechos de personas con discapacidad.",
-      "focus_tags": [
-        "discapacidad",
-        "seguridad vial",
-        "redes sociales"
-      ],
-      "context": [
-        {
-          "label": "Prevalencia del autismo en México",
-          "text": "Según datos de la Secretaría de Salud, alrededor del 1% de la población infantil mexicana vive con trastorno del espectro autista, lo que implica la necesidad de mayor sensibilización y adaptación en espacios públicos."
-        },
-        {
-          "label": "Regulación de plataformas de transporte en CDMX",
-          "text": "El Gobierno de la Ciudad de México ha establecido normas de seguridad para conductores de plataformas de transporte, que incluyen la prohibición de distracciones al volante y la obligación de respetar los derechos de los pasajeros."
-        },
-        {
-          "label": "Conflictos previos entre conductores y pasajeros",
-          "text": "En los últimos años, se han registrado varios incidentes en los que conductores de apps de movilidad han sido confrontados por pasajeros por motivos relacionados con comportamientos de niños o de familiares, generando debates sobre la responsabilidad y la empatía en el servicio."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "2cffcc25cb5c",
-      "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 31 de julio? Tráfico intenso en Eje 5 Sur entre Cuauhtémoc e Insurgentes",
-      "summary": "El Centro de Orientación Vial de la Secretaría de Seguridad Ciudadana de la Ciudad de México informó que el viernes 31 de julio el tramo del Eje 5 Sur entre Av. Cuauhtémoc y Av. Insurgentes tuvo tráfico abundante, mientras que varias líneas del Metro y Metrobús reportaron retrasos y bloqueos provocados por manifestantes en distintas avenidas de la capital.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/31/que-esta-pasando-en-el-metro-cdmx-y-metrobus-hoy-31-de-julio/",
-      "published_at": "2026-07-31T17:59:36+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta datos de tráfico y avisos de servicio sin usar lenguaje cargado ni incluir opiniones, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centró en el ángulo de movilidad urbana, describiendo el estado del tráfico y los retrasos en el transporte público; no profundiza en el impacto humano de los usuarios ni en posibles causas políticas de las protestas.",
-      "focus_tags": [
-        "tráfico",
-        "metro",
-        "metrobús"
-      ],
-      "context": [
-        {
-          "label": "Historia de congestión en la CDMX",
-          "text": "La Ciudad de México suele experimentar altos niveles de congestión vehicular en avenidas principales como el Eje 5 Sur, especialmente durante la hora pico, lo que genera retrasos en el transporte público."
-        },
-        {
-          "label": "Bloqueos por manifestantes",
-          "text": "En los últimos meses, manifestaciones callejeras han provocado bloqueos temporales en distintas rutas de la capital, afectando la fluidez del tráfico y obligando a la autoridad a publicar alertas y rutas alternas."
-        },
-        {
-          "label": "Operatividad del Metro CDMX",
-          "text": "El Metro de la Ciudad de México, operado por la Secretaría de Transporte, informa habitualmente a través de sus redes sociales sobre el estado de sus líneas y los retrasos que pueden presentarse por causas externas como el tráfico o incidentes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
