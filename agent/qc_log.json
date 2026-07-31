@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-31T04:00:53.622084+00:00",
-      "title": "Bolsas mexicanas ganaron por PIB y reportes trimestrales",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión de los nombres de fuentes para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:00:58.356996+00:00",
-      "title": "Justino Compeán asegura que México está listo para albergar cualquier evento de FIFA",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la pieza es reciente y sigue la estructura de pirámide invertida, su falta de verificación de hechos y de fuentes contrastantes compromete su calidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:01:02.646498+00:00",
-      "title": "Capturan a panameño por reclutar para la guerra Rusia-Ucrania",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, aunque le falta citaciones más concretas para algunos datos numéricos.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:01:07.558145+00:00",
-      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, y presenta la información de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:01:18.330417+00:00",
-      "title": "La broma que no es broma",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque está actualizada y bien estructurada, la nota carece de precisión factual y de equilibrio de fuentes, presentando un sesgo fuerte que compromete su objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:01:23.120145+00:00",
-      "title": "La psicología advierte que adultos que se disculpan por todo crecieron bajo presión para justificar ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque la falta de referencias específicas y datos verificables limita la precisión de la información.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:25:09.279573+00:00",
-      "title": "Prioridades legislativas",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los criterios de calidad editorial, aunque podría mejorar la diversidad de fuentes para reforzar el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:25:14.886106+00:00",
-      "title": "Jugador del Atlante asegura que Gilberto Mora tuvo la oportunidad de llegar al Real Madrid",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Debido a inconsistencias factuales y falta de fuentes contrastadas, el artículo no cumple los estándares editoriales y requiere verificación y ampliación antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-07-31T04:25:20.670915+00:00",
-      "title": "Jugadores de Santos Laguna donan recursos para apoyar a afectados en Venezuela",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido pero necesita mayor respaldo de fuentes y datos verificables para alcanzar la máxima calidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-07-31T04:25:27.534036+00:00",
       "title": "Detener migrantes indocumentados en los aeropuertos, el nuevo frente de la ofensiva migratoria de Tr",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es mayormente adecuado, pero la falta de fuentes verificables impide otorgar la máxima puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:40:36.230046+00:00",
+      "title": "¿Censura?, un podcast de Ana Paula Ordorica",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero necesita mayor contraste de fuentes y evidencia más concreta para reforzar su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:40:41.379837+00:00",
+      "title": "Muere Franco Baresi, histórico capitán del Milan y leyenda del fútbol italiano",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 1,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo falla gravemente en veracidad y contraste de fuentes, pese a su estructura y estilo objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:40:47.737664+00:00",
+      "title": "Antiguamente, cada verano se encalaban las paredes interiores. La tradición olvidada ha resurgido en",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado para publicación, aunque se beneficiaría de fuentes adicionales para reforzar la veracidad y el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:40:57.273387+00:00",
+      "title": "La escritura y la vida según Miriam Toews",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es en general sólido y objetivo, pero la posible imprecisión del título del libro reduce la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:41:04.330652+00:00",
+      "title": "Conmoción en el mundo del fútbol: murió Franco Baresi, leyenda del Milan y la selección de Italia",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque mantiene una estructura adecuada y estilo objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:41:11.478381+00:00",
+      "title": "Luis Chaparro llora al sincerarse con Memo Schutz en La Casa de los Famosos México: “Eres el padre q",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz y actual con una presentación clara y objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:41:17.588807+00:00",
+      "title": "INE Nueva generación",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete es reciente y estructurado, pero la falta de verificabilidad de nombres y datos reduce su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:41:21.443360+00:00",
+      "title": "Recuperan 9 mil litros de combustible en Edomex",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad y cumple con los criterios de información objetiva y actual.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T09:41:26.077566+00:00",
+      "title": "\"La situación está fuera de control\": España moviliza al ejército ante el cruce de más de 49.000 mig",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría fortalecer la diversidad de fuentes para ofrecer un contraste más completo.",
       "error": null
     }
   ]

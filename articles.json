@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-31T09:26:16.678746+00:00",
+  "generated_at": "2026-07-31T09:41:27.090916+00:00",
   "articles": [
+    {
+      "id": "8307c96dcf01",
+      "title": "\"La situación está fuera de control\": España moviliza al ejército ante el cruce de más de 49.000 migrantes desde Marruecos a Ceuta; hay al menos 18 muertos",
+      "summary": "El gobierno de España desplegó tropas en la ciudad autónoma de Ceuta para contener una oleada de más de 49 000 migrantes que cruzaron desde Marruecos, dejando al menos 18 muertos. La autoridad local pidió al Gobierno central que declare el estado de emergencia y revise la legislación de extranjería.",
+      "category": "internacional",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cvg0n0p4xg4o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-07-31T09:28:46+00:00",
+      "bias_score": -20,
+      "bias_reason": "El artículo enfatiza la dimensión humanitaria, cita a activistas y críticos del gobierno, y subraya la urgencia de medidas de emergencia, lo que indica una ligera inclinación hacia una visión más solidaria y menos nacionalista.",
+      "focus_analysis": "Se centra en la crisis humanitaria y la respuesta de seguridad, resaltando el número de fallecidos y la movilización militar, mientras que queda menos desarrollado el análisis de causas socioeconómicas y la dimensión diplomática entre España y Marruecos.",
+      "focus_tags": [
+        "crisis migratoria",
+        "intervención militar",
+        "humanitario"
+      ],
+      "context": [
+        {
+          "label": "precedente histórico",
+          "text": "En mayo de 2021 Ceuta vivió una crisis migratoria sin precedentes que obligó al gobierno español a enviar soldados y tanques para contener el flujo de personas."
+        },
+        {
+          "label": "marco legal",
+          "text": "El Tribunal Supremo español dictaminó que los migrantes que llegan por mar a Ceuta y Melilla no pueden ser devueltos de forma sumaria, limitando las opciones de expulsión inmediata."
+        },
+        {
+          "label": "tensión diplomática",
+          "text": "Según El País América, la oleada de cruces ha puesto en jaque las relaciones entre España y Marruecos, incrementando la presión para que ambos gobiernos cooperen en la gestión de la frontera."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "e13bb655c3ac",
+      "title": "Recuperan 9 mil litros de combustible en Edomex",
+      "summary": "Elementos de la Policía Municipal de Ecatepec, con apoyo de la Secretaría de Marina y personal de Pemex, recuperaron 9 mil litros de combustible robado en una toma clandestina en la colonia Viento Nuevo, Estado de México.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/recuperan-9-mil-litros-de-combustible-en-edomex/",
+      "published_at": "2026-07-31T09:27:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y neutral, sin adjetivos cargados ni fuentes partidistas, limitándose a describir hechos y acciones de las autoridades.",
+      "focus_analysis": "El artículo se centra en la acción policial y la recuperación del combustible, resaltando la respuesta institucional; omite el impacto económico y social del robo ni la perspectiva de los presuntos involucrados.",
+      "focus_tags": [
+        "seguridad pública",
+        "robo de combustible",
+        "operativo policial"
+      ],
+      "context": [
+        {
+          "label": "Problema nacional",
+          "text": "El robo de combustible, conocido como huachicol, ha sido una de las principales pérdidas económicas de México, afectando a Pemex y a la seguridad energética del país."
+        },
+        {
+          "label": "Respuesta de Pemex",
+          "text": "Pemex ha implementado campañas de detección y recuperación de hidrocarburos, reforzando la vigilancia de sus ductos y colaborando con autoridades locales y federales."
+        },
+        {
+          "label": "Incidentes similares",
+          "text": "En los últimos meses, otras regiones del Estado de México y de estados como Hidalgo han registrado operativos para desmantelar tomas clandestinas y recuperar combustible."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "c54203150990",
+      "title": "INE Nueva generación",
+      "summary": "El Economista presentó una serie de breves notas tituladas 'cartones' publicadas entre el 20 y el 31 de julio de 2026, con los redactores Chavo del Toro y Perujo, que tratan temas de política, seguridad y economía.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/ine-nueva-generacion-20260731-826014.html",
+      "published_at": "2026-07-31T09:01:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a enumerar titulares sin usar lenguaje valorativo ni citar fuentes, por lo que mantiene una presentación neutral.",
+      "focus_analysis": "El medio opta por un enfoque informativo de tipo resumen rápido, dejando de lado el análisis profundo o la contextualización de los hechos.",
+      "focus_tags": [
+        "Resumen de noticias",
+        "Cartones",
+        "Actualidad"
+      ],
+      "context": [
+        {
+          "label": "Perfil del medio",
+          "text": "El Economista es un periódico financiero y de negocios de habla hispana que cubre economía, política y mercados, con una línea editorial generalmente centrada en la información objetiva."
+        },
+        {
+          "label": "Formato de los cartones",
+          "text": "Los 'cartones' son una sección habitual del periódico que ofrece noticias breves y titulares concisos para mantener al lector al día con múltiples temas en poco espacio."
+        },
+        {
+          "label": "Instituto Nacional Electoral (INE)",
+          "text": "El INE es la autoridad mexicana responsable de organizar elecciones y ha anunciado recientemente la implementación de una nueva generación de sistemas de registro y conteo electoral."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "ec86bab7c933",
+      "title": "Luis Chaparro llora al sincerarse con Memo Schutz en La Casa de los Famosos México: “Eres el padre que me hubiera gustado tener”",
+      "summary": "El creador de contenido mexicano Luis Chaparro, quien perdió a su padre a los cinco años, lloró durante la cena de nominados de La Casa de los Famosos México 2026 al confesar que considera a Memo Schutz el padre que nunca tuvo.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/31/luis-chaparro-llora-al-sincerarse-con-memo-schutz-en-la-casa-de-los-famosos-mexico-eres-el-padre-que-me-hubiera-gustado-tener/",
+      "published_at": "2026-07-31T09:09:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono emotivo y personal sin incluir juicios políticos ni selección de fuentes sesgadas; se centra en la historia humana del participante.",
+      "focus_analysis": "El medio se enfocó en el ángulo humano y emocional del relato de Chaparro, dejando de lado los aspectos competitivos y de producción del reality show.",
+      "focus_tags": [
+        "reality show",
+        "emotional confession",
+        "family loss"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Luis Chaparro",
+          "text": "Luis Chaparro es un creador de contenido mexicano que quedó huérfano de padre a los cinco años; su padre era adicto a las drogas y falleció cuando Chaparro era niño, lo que marcó su historia personal."
+        },
+        {
+          "label": "Perfil de Memo Schutz",
+          "text": "Memo Schutz es el conductor y una de La Casa de los Famosos México, reconocido por su carisma y papel de mediador dentro del programa de convivencia de celebridades."
+        },
+        {
+          "label": "Formato de La Casa de los Famosos México",
+          "text": "La Casa de los Famosos México es un reality show de convivencia similar a Big Brother, donde participantes famosos compiten por evitar la eliminación mediante nominaciones y votaciones del público."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a78c80092d61",
+      "title": "La escritura y la vida según Miriam Toews",
+      "summary": "La escritora canadiense Miriam Toews, cuya vida está marcada por tragedias familiares y una pertenencia a la comunidad menonita, explora en su libro \"Tregua, que no paz\" los motivos íntimos que la llevan a escribir, entremezclando memorias, reflexiones y episodios cotidianos.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/la-escritura-y-la-vida-segun-miriam-toews/31/07/2026/",
+      "published_at": "2026-07-31T09:31:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la obra y la experiencia personal de Toews con un tono descriptivo y sin vocabulario cargado ni selección de fuentes que favorezcan una postura política.",
+      "focus_analysis": "El artículo se centra en el ángulo humano y literario, resaltando la biografía y la motivación personal de la escritora, mientras omite el contexto crítico del mercado editorial o una posible discusión sobre la recepción de su obra en México.",
+      "focus_tags": [
+        "literatura",
+        "memorias",
+        "psicología"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la autora",
+          "text": "Miriam Toews, nacida en Steinbach, Manitoba, Canadá, en 1964, es una escritora menonita conocida por novelas como \"A Complicated Kindness\" y por abordar en sus obras temas de pérdida, fe y familia."
+        },
+        {
+          "label": "Tendencia híbrida en la literatura contemporánea",
+          "text": "En los últimos años, autores latinoamericanos y europeos han experimentado con formatos que combinan memorias, ficción y ensayo, una corriente que se refleja en el libro de Toews."
+        },
+        {
+          "label": "Eventos literarios en México",
+          "text": "Los congresos y festivales de literatura en México frecuentemente invitan a escritores extranjeros para fomentar el intercambio cultural, como ocurrió con la participación de Toews en un congreso mexicano."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "52fc11fbfd46",
+      "title": "Antiguamente, cada verano se encalaban las paredes interiores. La tradición olvidada ha resurgido en 2026 por una razón: calor",
+      "summary": "El artículo explica cómo la práctica milenaria de encalar las paredes interiores, heredada de la arquitectura romana, está volviendo a popularizarse en 2026 como una solución natural y pasiva para mitigar el calor extremo provocado por el cambio climático.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/magnet/antiguamente-cada-verano-se-encalaban-paredes-interiores-roma-tradicion-olvidada-ha-resurgido-2026-razon-calor",
+      "published_at": "2026-07-31T09:31:43+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta la información de forma descriptiva y técnica, sin usar lenguaje cargado ni favorecer una postura política o ideológica; se limita a describir la tradición y sus beneficios.",
+      "focus_analysis": "El medio eló el ángulo arquitectónico‑ambiental, resaltando las propiedades físicas de la cal y su relevancia para la eficiencia energética; no aborda el costo económico para los hogares ni el impacto social de la adopción de esta técnica.",
+      "focus_tags": [
+        "arquitectura pasiva",
+        "sostenibilidad",
+        "tradición mediterránea"
+      ],
+      "context": [
+        {
+          "label": "Origen histórico",
+          "text": "Desde la época romana, la cal se utilizaba como recubrimiento en edificios del Mediterráneo porque,aba la radiación solar y permitía la transpiración de los muros, reduciendo la humedad y la proliferación de microorganismos."
+        },
+        {
+          "label": "Declive de la práctica",
+          "text": "A mediados del siglo XX, la popularización de pinturas sintéticas y el uso masivo del aire acondicionado sustituyeron al encalado, ya que ofrecían acabados más duraderos y requerían menos mantenimiento."
+        },
+        {
+          "label": "Renovado interés contemporáneo",
+          "text": "El aumento de las olas de calor y la necesidad de reducir el consumo energético están impulsando a arquitectos y diseñadores a reconsiderar materiales tradicionales como la cal, integrándolos en proyectos de construcción pasiva y restauración."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "8dc59d52783a",
       "title": "Visitó más de 500 clubes, escribió 16 libros y viajó por el mundo difundiendo los valores del rugby: “Soy un apasionado”",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "0a84a03b462c",
-      "title": "El Samsung Galaxy S26 y el Google Pixel 10 Pro de oferta, descuentos en auriculares y más. Cazando Gangas",
-      "summary": "Xataka publica una lista de ofertas de tecnología que incluye el Samsung Galaxy S26 de 512 GB a 798 €, el Google Pixel 10 Pro de 829 €, auriculares Soundcore A30i y Marshall Major V, y un disco duro Western Digital de 10 TB, resaltando precios rebajados y comisiones por enlaces afiliados.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/seleccion/samsung-galaxy-s26-google-pixel-10-pro-oferta-descuentos-auriculares-cazando-gangas",
-      "published_at": "2026-07-31T08:15:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir precios y características de productos sin usar lenguaje cargado ni citar fuentes con carga ideológica; el enfoque es comercial y no político.",
-      "focus_analysis": "El artículo se centra en el ángulo económico‑consumidor, destacando descuentos y promociones de gadgets, mientras omite análisis de mercado, innovación tecnológica a largo plazo y consideraciones medioambientales.",
-      "focus_tags": [
-        "ofertas tecnología",
-        "descuentos móviles",
-        "gadgets"
-      ],
-      "context": [
-        {
-          "label": "Tendencia de ofertas tecnológicas",
-          "text": "Durante el verano de 2026, los fabricantes y minoristas de electrónica suelen lanzar promociones y rebajas en smartphones, auriculares y discos duros para impulsar las ventas antes del regreso a clases y la temporada de otoño."
-        },
-        {
-          "label": "Posicionamiento del Samsung Galaxy S26",
-          "text": "El Galaxy S26, parte de la línea de gama media‑alta de Samsung, se destaca por su pantalla de 6,3 pulgadas, buen rendimiento y actualizaciones prolongadas, y su versión de 512 GB ha visto una reducción de precio a 798 €, una de las más competitivas del mercado actual."
-        },
-        {
-          "label": "Cobertura de medios sobre futuros productos",
-          "text": "Mientras Xataka se centra en las ofertas actuales, Hipertextual informa que Samsung planea lanzar nuevos auriculares Galaxy Buds con un diseño nunca antes visto, y El Androide Libre anticipa el próximo Pixel 11 Pro con una cámara rediseñada y un chip dedicado a los modelos Gemini, indicando que ambas marcas siguen innovando más allá de los descuentos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "da876f8f008f",
-      "title": "El último día del mercado de pases del Torneo Clausura: los 20 refuerzos que se anunciaron horas antes del cierre del libro de fichajes",
-      "summary": "En el último día del mercado de pases de la Primera División del fútbol argentino se anunciaron veinte nuevas incorporaciones, entre ellas Ángel Correa a River Plate y Nicolás Gaitán a Aldosivi, mientras la AFA amplió la ventana de fichajes hasta el 31 de julio y estableció una prórroga condicionada hasta septiembre.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/07/31/el-ultimo-dia-del-mercado-de-pases-del-torneo-clausura-los-20-refuerzos-que-se-anunciaron-horas-antes-del-cierre-del-libro-de-fichajes/",
-      "published_at": "2026-07-31T06:32:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a enumerar fichajes y describir la normativa sin emplear vocabulario cargado ni inclinarse por posturas políticas, lo que refleja una cobertura neutral.",
-      "focus_analysis": "El artículo prioriza la cantidad de transferencias y la extensión del plazo reglamentario, omitiendo análisis sobre el impacto competitivo de los refuerzos o la reacción de los aficionados.",
-      "focus_tags": [
-        "mercado de pases",
-        "fútbol argentino",
-        "transferencias"
-      ],
-      "context": [
-        {
-          "label": "reglamento",
-          "text": "La AFA modificó el artículo 19 del reglamento de la Liga Profesional, permitiendo que los clubes que vendan jugadores al exterior antes del 31 de julio puedan registrar nuevos fichajes hasta el 2 de septiembre."
-        },
-        {
-          "label": "actividad reciente",
-          "text": "Durante la fase de la Copa del Mundo, la Primera División confirmó 74 fichajes, lo que muestra una intensa actividad de mercado antes del cierre del periodo regular."
-        },
-        {
-          "label": "importancia de los refuerzos",
-          "text": "Los nuevos ingresos, como Correa y Gaitán, son considerados estratégicos para los equipos que buscan reforzar sus plantillas de la segunda mitad del torneo y mejorar sus posibilidades de clasificación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "23651f34084d",
-      "title": "\"Entreredes\" explora la obra de Alberto Castro Leñero",
-      "summary": "El artista mexicano Alberto Castro Leñero presenta la exposición \"Entreredes\" en la Galería 526 del Seminario de Cultura Mexicana, mostrando más de treinta piezas creadas entre 1997 y 2026 que exploran su obra a lo largo del tiempo.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/entreredes-explora-la-obra-de-alberto-castro-lenero/",
-      "published_at": "2026-07-31T07:58:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es descriptivo y neutral, sin lenguaje cargado ni selección de fuentes que favorezcan una posición política.",
-      "focus_analysis": "El medio se centra en el aspecto cultural e institucional de la exposición, resaltando la trayectoria del artista y la relevancia del recinto, mientras omite cualquier análisis de impacto social o político.",
-      "focus_tags": [
-        "arte contemporáneo",
-        "exposición mexicana",
-        "cultura mexicana"
-      ],
-      "context": [
-        {
-          "label": "artist_background",
-          "text": "Alberto Castro Leñero, nacido en 1951 en Ciudad de México, estudió en Italia en los años 70 y ha realizado murales para el Metro de la CDMX, además de exhibir en el Museo de Arte Moderno y el Palacio de Bellas Artes."
-        },
-        {
-          "label": "venue_significance",
-          "text": "La Galería 526 del Seminario de Cultura Mexicana, ubicada en Polanco, ha albergado exposiciones de destacados artistas mexicanos, lo que le confiere una relevancia institucional en la escena artística de México."
-        },
-        {
-          "label": "contemporary_art_context",
-          "text": "En los últimos años, la escena del arte contemporáneo mexicano ha visto un aumento de exposiciones que exploran la abstracción y la interacción con el espacio público, tendencia que se refleja en la obra de Castro Leñero."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "515722c0d989",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Más de 40.000 inmigrantes han entrado de manera irregular en Ceuta, según las primeras estimaciones",
-      "summary": "El enclave español de Ceuta recibió más de 40.000 inmigrantes de forma irregular, con al menos 19 muertos y cientos de personas durmiendo en la calle, según estimaciones iniciales.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-07-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-07-31T08:03:49+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto enfatiza el número de fallecidos y la situación vulnerable de los migrantes, empleando un tono emotivo y omitendo los detalles sobre la respuesta de seguridad o las políticas migratorias, lo que muestra una inclinación hacia la perspectiva humanitaria de izquierda.",
-      "focus_analysis": "El medio prioriza el drama humano y las víctimas, dejando en segundo plano la dimensión de seguridad y la política migratoria.",
-      "focus_tags": [
-        "inmigración",
-        "crisis humanitaria",
-        "frontera española"
-      ],
-      "context": [
-        {
-          "label": "DW Español",
-          "text": "Según la cobertura de DW Español, los intentos de cruce desencadenaron enfrentamientos violentos entre los migrantes y la Guardia Civil en los perímetros fronterizos de Ceuta y Melilla."
-        },
-        {
-          "label": "Euronews Español",
-          "text": "Euronews informó que España ha pactado con Marruecos la devolución de los migrantes y que la emergencia nacional se ha retirado en otras regiones, subrayando el contexto político y diplomático del su."
-        },
-        {
-          "label": "Contexto histórico",
-          "text": "Ceuta y Melilla, ciudades autónomas españolas en el norte de África, han sido tradicionalmente puntos de entrada para la migración irregular desde Marruecos, con episodios anteriores que también provocaron crisis humanitarias y respuestas de seguridad."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "8dc59d52783a",
-      "title": "Visitó más de 500 clubes, escribió 16 libros y viajó por el mundo difundiendo los valores del rugby: “Soy un apasionado”",
-      "summary": "Sebastián Perasso, exjugador y escritor argentino de rugby, ha visitado más de 500 clubes y publicado 16 libros para difundir los valores del deporte en Argentina y el extranjero.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/07/31/visito-mas-de-500-clubes-escribio-16-libros-y-viajo-por-el-mundo-difundiendo-los-valores-del-rugby-soy-un-apasionado/",
-      "published_at": "2026-07-31T06:33:18+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza adjetivos elogiosos como \"apasionado\" y destaca logros sin presentar críticas ni puntos de vista controversiales, lo que genera una ligera inclinación positiva pero sin sesgo político evidente.",
-      "focus_analysis": "El artículo se centra en la trayectoria personal y los valores humanos del rugby, resaltando la labor divulgadora de Perasso; omite aspectos económicos del deporte y cualquier debate institucional.",
-      "focus_tags": [
-        "rugby",
-        "cultura deportiva",
-        "biografía"
-      ],
-      "context": [
-        {
-          "label": "Importancia del rugby en Argentina",
-          "text": "El rugby es uno de los deportes más arraigados en la cultura argentina, con una base de seguidores que valora la disciplina, el compañerismo y la tradición, y cuenta con una estructura organizativa liderada por la Unión Argentina de Rugby (UAR)."
-        },
-        {
-          "label": "Legado familiar en el rugby",
-          "text": "Sebastián Perasso creció en un entorno rugbyístico; su padre, Emilio \"El Gringo\" Perasso, fue entrenador del San Isidro Club y presidente de la UAR, lo que influyó en la carrera deportiva y posterior labor divulgadora del hijo."
-        },
-        {
-          "label": "Tendencia de deportistas como autores y embajadores",
-          "text": "En los últimos años, varios exjugadores y entrenadores de deportes han escrito libros y realizado conferencias para promover valores y crear conciencia social, siguiendo la línea de Perasso como escritor y embajador de la Fundación Espartanos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "343229ca3cdf",
-      "title": "Hablar del arte hoy",
-      "summary": "El ensayo de Emilio Cendón en Letras Libres reflexiona sobre la creciente desconexión entre el arte contemporáneo español y la sociedad, señalando la falta de reconocimiento público de artistas y la opacidad en la gestión institucional.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/arte/hablar-del-arte-hoy/31/07/2026/",
-      "published_at": "2026-07-31T08:00:25+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto emplea un tono crítico hacia las instituciones artísticas y destaca la protesta ciudadana, lo que refleja una postura que favorece la democratización cultural y cuestiona la élite del arte.",
-      "focus_analysis": "El medio eló el ángulo institucional y sociocultural, analizando la falta de sintonía del arte con el público y la opacidad en nombramientos, sin abordar el aspecto económico del mercado del arte ni la producción artística concreta.",
-      "focus_tags": [
-        "desconexión arte",
-        "crítica institucional",
-        "cultura pública"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "El Museo Reina Sofía organizó recientemente una exposición que recorre cincuenta años de arte español, la cual el autor utiliza como punto de partida para discutir la falta de familiaridad del público con obras y artistas contemporáneos."
-        },
-        {
-          "label": "dato comparativo",
-          "text": "La polémica por el nombramiento de la directora del Centro Galego de Arte Contemporáneo (CGAC) reunió más de 1 400 firmas bajo el lema “SÓSCGAC”, denunciando la falta de transparencia y la supuesta influencia de la función pública en la selección."
-        },
-        {
-          "label": "postura de actor",
-          "text": "El autor contrasta la situación del arte con el cine español, que ha alcanzado éxitos de taquilla y reconocimiento internacional, sugiriendo que el arte se mantiene en una esfera marginal mientras el audiovisual llega a audiencias más amplias."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.2
       }
     }
   ]
