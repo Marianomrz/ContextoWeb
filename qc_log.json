@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T22:21:13.960026+00:00",
-      "title": "La broma que no es broma",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es actual y tiene una estructura razonable, pero su falta de veracidad y de fuentes contrastadas, junto con un tono claramente sesgado, lo hacen poco fiable como noticia objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:21:18.681860+00:00",
-      "title": "Alcaldía Tlalpan alcanza 11 mil esterilizaciones de animales de compañía durante la presente adminis",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de información reciente y estructura clara, pero podría mejorar la verificación de datos y la diversidad de fuentes para reforzar la objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:21:23.884304+00:00",
-      "title": "Así inició la amistad de El Malilla y Aldo Rendón, el primer nominado de La Casa de los Famosos Méxi",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple ampliamente con los criterios editoriales, mostrando precisión, objetividad y actualidad, aunque podría reforzar la verificación de fuentes para alcanzar la excelencia.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:40:40.676666+00:00",
-      "title": "Presidente del PAN lanza advertencia sobre Morena y la libertad de expresión: “Quieren silenciar a M",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de precisión, contraste y actualidad, aunque el tono del resumen muestra una ligera parcialidad que se compensa con la inclusión de múltiples perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:40:45.864025+00:00",
-      "title": "Chile y Venezuela anuncian un acuerdo para reactivar relaciones consulares",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es informativo y actual, pero necesita mayor precisión en los títulos de los funcionarios y fuentes fuentes de contraste para reforzar su rigor periodístico.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:40:49.139791+00:00",
-      "title": "Independiente Rivadavia vence a Huracán en el cierre de la segunda fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, aunque la falta de fuentes externas verifica datos impide una puntuación perfecta.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:40:53.920137+00:00",
-      "title": "Trump busca retirar licencias comerciales a migrantes; planea reemplazarlos con veteranos",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mayor rigor factual y fuentes más diversas para cumplir con los estándares de objetividad y veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:41:00.074920+00:00",
-      "title": "\"La situación está fuera de control\": España moviliza al ejército ante el cruce de miles de migrante",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de rigor y claridad periodística; se recomienda su publicación con ligera mejora en la diversificación de fuentes para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:41:04.016432+00:00",
-      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, ofreciendo una cobertura clara y bien contextualizada del nuevo modo de Spotify.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T22:41:13.249287+00:00",
       "title": "La broma que no es broma",
       "kind": "noticia",
@@ -3380,6 +3227,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con la mayoría de los estándares, aunque debería incorporar más voces para un contraste de fuentes más completo.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:20:39.624635+00:00",
+      "title": "Detienen a “El Yukito”, hijo de “El Yuko”, en operativo de la Marina en Mocorito, Sinaloa",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es informativo y bien estructurado, pero ganaría en credibilidad al incluir fuentes oficiales o múltiples corroboraciones.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:20:45.689973+00:00",
+      "title": "México pierde cuota como proveedor de acero a EU",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque es actual y está bien estructurado; requiere correcciones antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:20:52.315035+00:00",
+      "title": "La petición de Alex Diego al avanzar a los Cuartos de Final del Campeonato Sub 20 de la Concacaf",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y bien estructurada, con fuentes fiables y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:20:57.474801+00:00",
+      "title": "Detener migrantes indocumentados en los aeropuertos, el nuevo frente de la ofensiva migratoria de Tr",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete carece de veracidad y balance, pese a su actualidad y estructura razonable.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:21:01.945717+00:00",
+      "title": "7 frases de Paredes tras el triunfo por penales de Boca ante O’Higgins: gran respaldo a Aranda y “ob",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:21:07.468276+00:00",
+      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es sólido, preciso y objetivo, con buena estructuración y contextualización, aunque la variedad de fuentes podría ampliarse.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:21:16.931314+00:00",
+      "title": "La broma que no es broma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y estructurado, pero adolece de veracidad comprobada y falta de contraste de fuentes, mostrando un sesgo evidente.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:21:21.532049+00:00",
+      "title": "Los números que dieron la fortuna a los nuevos ganadores del Gana Gato este 30 de julio",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:21:26.923067+00:00",
+      "title": "FMF contradice a Concacaf en el caso FIFA Forward",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura objetiva y actual con buen contraste de fuentes; sólo se sugiere mayor respaldo de cifras específicas.",
       "error": null
     }
   ]
