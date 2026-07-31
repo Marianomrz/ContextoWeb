@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-31T11:21:23.372338+00:00",
+  "generated_at": "2026-07-31T11:41:52.645379+00:00",
   "articles": [
+    {
+      "id": "343229ca3cdf",
+      "title": "Hablar del arte hoy",
+      "summary": "En su ensayo para la revista Letras Libres, Emilio Cendón argumenta que el arte contemporáneo en España ha perdido sintonía con la sociedad, señalando la falta de reconocimiento del público y la opacidad de las instituciones artísticas como síntomas de una crisis profunda.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/arte/hablar-del-arte-hoy/31/07/2026/",
+      "published_at": "2026-07-31T08:00:25+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto emplea un tono crítico y utiliza palabras cargadas como \"irrelevante\" y \"caciquismo\", pero no recurre a argumentos políticos partidistas ni cita fuentes con una agenda clara, lo que indica una ligera inclinación crítica pero no un sesgo fuerte.",
+      "focus_analysis": "El medio se centra en la crítica institucional del mundo del arte y su desconexión con el público, dejando de lado los aspectos económicos del mercado del arte y cualquier valoración positiva de iniciativas artísticas.",
+      "focus_tags": [
+        "crítica institucional",
+        "desconexión cultural",
+        "arte contemporáneo"
+      ],
+      "context": [
+        {
+          "label": "Exposición del Reina Sofía",
+          "text": "La última reorganización de la colección del Museo Reina Sofía, que muestra cincuenta años de arte español, sirve como punto de partida para la reflexión de Cendón sobre la brecha entre las obras expuestas y el conocimiento del público general."
+        },
+        {
+          "label": "Polémica en el CGAC",
+          "text": "La designación de la nueva directora del Centro Galego de Arte Contemporánea provocó una protesta con más de 1 400 firmas, denunciando falta de transparencia y presunta favoritismo hacia candidatos con carrera en la administración pública."
+        },
+        {
+          "label": "Éxitos del cine español",
+          "text": "A diferencia del arte, el cine español ha alcanzado recientemente éxitos de taquilla y reconocimiento internacional, lo que Cendón menciona para contrastar la capacidad del sector audiovisual de conectar con audiencias amplias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "5706d2ba4259",
+      "title": "Un ZX Spectrum aterrizando una nave espacial parece imposible, pero Scott Manley lo ha conseguido",
+      "summary": "El creador de contenido Scott Manley logró que un ordenador ZX Spectrum de 1982 controlara el aterrizaje simulado de una nave espacial en el juego Kerbal Space Program, mediante emulación, Python y una conexión serie virtual.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/tecnologia/un-zx-spectrum-aterrizando-una-nave-espacial-parece-imposible-pero-scott-manley-lo-ha-conseguido/",
+      "published_at": "2026-07-31T11:14:00+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un tono entusiasta y nostálgico, resaltando la creatividad y el encanto retro, sin abordar temas políticos ni críticos, lo que indica una ligera inclinación positiva hacia la tecnología vintage.",
+      "focus_analysis": "El artículo se centra en el aspecto tecnológico y nostálgico del experimento, destacando la ingeniosidad de combinar hardware antiguo con software moderno; no aborda aplicaciones prácticas ni implicaciones sociales más amplias.",
+      "focus_tags": [
+        "retro computing",
+        "simulación espacial",
+        "ingenio tecnológico"
+      ],
+      "context": [
+        {
+          "label": "Historia del ZX Spectrum",
+          "text": "El ZX Spectrum, lanzado en 1982 por Sinclair Research, fue uno de los ordenadores domésticos más populares en el Reino Unido, conocido por su bajo costo, su teclado de goma y su amplia biblioteca de juegos y programas en BASIC."
+        },
+        {
+          "label": "Kerbal Space Program",
+          "text": "Kerbal Space Program es un juego de simulación espacial que permite a los jugadores diseñar y controlar naves, gestionar misiones y aprender conceptos de física orbital, y se ha usado frecuentemente en entornos educativos y de divulgación."
+        },
+        {
+          "label": "Tendencia de experimentos retro",
+          "text": "En los últimos años ha crecido una tendencia de proyectos que usan hardware obsoleto, como computadoras de los años 80, para ejecutar tareas modernas, demostrando la creatividad de la comunidad de entusiastas y la capacidad de adaptación de tecnologías antiguas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "c54203150990",
+      "title": "INE Nueva generación",
+      "summary": "El Economista presentó una serie de cartones titulados \"INE Nueva generación\", que agrupa varios breves artículos de opinión y noticias de finales de julio de 2026 escritos por Chavo del Toro y Perujo.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/ine-nueva-generacion-20260731-826014.html",
+      "published_at": "2026-07-31T09:01:31+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto se limita a enumerar títulos sin lenguaje cargado ni fuentes polémicas, mostrando una cobertura neutra; sin embargo, la selección de temas como \"Connivencia\" y \"Alerta negra\" sugiere una ligera tendencia a destacar aspectos negativos, típico de un enfoque ligeramente conservador.",
+      "focus_analysis": "El medio optó por un enfoque de recopilación de breves notas sobre distintos temas, priorizando la variedad y la rapidez de difusión, mientras deja fuera un análisis profundo o contexto detallado de cada asunto.",
+      "focus_tags": [
+        "cartones",
+        "politica",
+        "sociedad"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "El Economista es un periódico de economía y negocios en español, conocido por su línea editorial centrista‑derecha y su énfasis en la información financiera y política."
+        },
+        {
+          "label": "dato comparable",
+          "text": "Los \"cartones\" son piezas breves que el medio publica frecuentemente para ofrecer rápidas opiniones o noticias sobre eventos de actualidad."
+        },
+        {
+          "label": "postura de otro actor",
+          "text": "El Instituto Nacional Electoral (INE) de México anunció recientemente la implementación de una nueva generación de procesos electorales, lo que ha generado diversas reacciones en medios y analistas."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "a78c80092d61",
+      "title": "La escritura y la vida según Miriam Toews",
+      "summary": "La escritora canadiense Miriam Toews, invitada a un congreso literario en México, reflexiona sobre su motivación para escribir mientras comparte recuerdos familiares, episodios de suicidio y momentos cotidianos que influyen en su obra híbrida \"Tregua, que no paz\".",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/la-escritura-y-la-vida-segun-miriam-toews/31/07/2026/",
+      "published_at": "2026-07-31T09:31:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la vida y obra de la autora, usando un tono descriptivo y sin lenguaje cargado ni selección de fuentes con carga política, lo que indica una cobertura neutral.",
+      "focus_analysis": "El artículo elige un ángulo humano y literario, explorando la biografía, traumas familiares y proceso creativo de Toews; omite cualquier enfoque económico, institucional o político.",
+      "focus_tags": [
+        "vida del autor",
+        "proceso creativo",
+        "memorias familiares"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la autora",
+          "text": "Miriam Toews, nacida en 1964 en Steinbach, Canadá, pertenece a la comunidad menonita y es reconocida por novelas como \"A Complicated Kindness\" que abordan temas de familia, pérdida y salud mental."
+        },
+        {
+          "label": "Eventos literarios en México",
+          "text": "México organiza con frecuencia congresos y festivales literarios que invitan a escritores internacionales para presentar sus obras y participar en paneles de discusión."
+        },
+        {
+          "label": "Suicidio en la literatura",
+          "text": "El suicidio de familiares ha sido un tema recurrente en la literatura, presente en obras de autores como Sylvia Plath y Ernest Hemingway, y a menudo sirve como punto de partida para explorar la identidad y la creatividad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "0a372d084704",
+      "title": "La calidad del aire en la CDMX este 31 de julio",
+      "summary": "La Dirección de Monitoreo Atmosférico de la Ciudad de México informó que la calidad del aire en la capital y el Estado de México era \"Buena\" el 31 de julio, indicando un riesgo bajo para la salud y recomendando que la población, especialmente los grupos vulnerables, pueden realizar actividades al aire libre sin mayores precauciones.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/31/la-calidad-del-aire-en-la-cdmx-este-31-de-julio/",
+      "published_at": "2026-07-31T11:30:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos oficiales y recomendaciones de salud sin emplear un cargado ni presentar opiniones, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El artículo se centra en el aspecto de salud pública y la información práctica para los ciudadanos, omitiendo análisis sobre las causas de la contaminación o debates políticos sobre políticas ambientales.",
+      "focus_tags": [
+        "calidad del aire",
+        "salud pública",
+        "CDMX"
+      ],
+      "context": [
+        {
+          "label": "Calidad del aire en CDMX históricamente",
+          "text": "En los últimos años la Ciudad de México ha registrado episodios de contaminación moderada a alta, particularmente en invierno, lo que ha llevado a la implementación de alertas y medidas como el programa Hoy No Circula."
+        },
+        {
+          "label": "Vulnerabilidad de grupos sensibles",
+          "text": "Las autoridades sanitarias destacan que niños, adultos mayores y personas con afecciones respiratorias o cardiovasculares son los más afectados por la mala calidad del aire."
+        },
+        {
+          "label": "Normativas ambientales mexicanas",
+          "text": "El SEMARNAT y la autoridad local establecen un índice de calidad del aire con categorías que van de \"Buena\" a \"Extremadamente Mala\", cada una acompañada de recomendaciones y posibles restricciones de movilidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "bf399fd68f9b",
+      "title": "La crisis migratoria en Ceuta, en imágenes",
+      "summary": "La ciudad española de Ceuta, enclave en el norte de África, se despertó con cientos de jóvenes migrantes durmiendo en las calles mientras continúa la afluencia irregular procedente de Marruecos.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-07-31/la-crisis-migratoria-en-ceuta-en-imagenes.html",
+      "published_at": "2026-07-31T11:37:51+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto enfatiza la condición humana de los migrantes con un tono emotivo y no menciona respuestas políticas ni datos de autoridad, lo que refleja una ligera inclinación hacia la perspectiva humanitaria típica de la izquierda.",
+      "focus_analysis": "El medio eló en el ángulo humanitario, mostrando imágenes de migrantes durmiendo en la vía pública, mientras dejó de lado los aspectos políticos y de seguridad como la declaración de emergencia, la respuesta del Gobierno español o la postura de Italia sobre el espacio Schengen.",
+      "focus_tags": [
+        "crisis migratoria",
+        "humanitario",
+        "Ceuta"
+      ],
+      "context": [
+        {
+          "label": "Geografía y estatus",
+          "text": "Ceuta es una ciudad autónoma española situada en el norte de África, que forma parte del territorio nacional y del espacio Schengen, convirtiéndose en un punto de entrada para migrantes que buscan llegar a Europa desde Marruecos."
+        },
+        {
+          "label": "Situación reciente",
+          "text": "En los últimos diez días más de dos mil migrantes marroquíes han llegado a Ceuta, provocando la declaración de emergencia humanitaria por parte del alcalde y el despliegue de refuerzos por parte del Gobierno español."
+        },
+        {
+          "label": "Reacción internacional",
+          "text": "Italia ha solicitado el cierre del espacio Schengen como medida para contener la crisis, y al menos diez personas han muerto al intentar cruzar el espigón del Tarajal, datos que aparecen en otras coberturas del mismo hecho."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "386ce35f5c32",
       "title": "Se registra sismo de 4.2 de magnitud",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.8
-      }
-    },
-    {
-      "id": "515722c0d989",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Más de 40.000 inmigrantes han entrado de manera irregular en Ceuta, según las primeras estimaciones",
-      "summary": "Una ola masiva de inmigrantes cruzó de forma irregular la frontera entre Marruecos y la ciudad española de Ceuta, superando los 40.000 llegadas y dejando al menos 19 fallecidos, mientras la UE debate medidas como la exclusión de España del espacio Schengen.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-07-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-07-31T10:10:37+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos y cifras oficiales y menciona reacciones de otros países sin usar lenguaje cargado ni fuentes con clara inclinación política.",
-      "focus_analysis": "El medio se centra en la magnitud del flujo migratorio y el número de víctimas mortales, dejando de lado el análisis del impacto económico y las implicaciones de seguridad para la zona.",
-      "focus_tags": [
-        "inmigración masiva",
-        "crisis fronteriza",
-        "reacción europea"
-      ],
-      "context": [
-        {
-          "label": "histórico",
-          "text": "Ceuta y Melilla son enclaves españoles en el norte de África que históricamente han recibido flujos migratorios irregulares desde Marruecos y otros países del continente."
-        },
-        {
-          "label": "acuerdos bilaterales",
-          "text": "España y Marruecos mantienen acuerdos de devolución de migrantes que buscan gestionar los flujos y reducir la presión sobre las fronteras de Ceuta y Melilla."
-        },
-        {
-          "label": "debate Schengen",
-          "text": "Finlandia e Italia han propuesto excluir a España del espacio Schengen como respuesta a la crisis migratoria en Ceuta, mientras Francia refuerza sus controles fronterizos."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "93f56e6705da",
-      "title": "Esculturas hiperrealistas gigantes acercan el arte al público de Chicago",
-      "summary": "La escultora estadounidense Carole A. Feuerman instaló doce piezas hiperrealistas de gran formato en la Magnificent Mile de Chicago, creando una galería al aire libre que invita al público a interactuar con el arte. La exposición, titulada \"Monuments of Stillness\", permanecerá en la ciudad hasta noviembre con el objetivo de acercar la escultura contemporánea a quienes no suelen visitar museos.",
-      "category": "sociedad",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/video/2026/07/31/esculturas-hiperrealistas-gigantes-acercan-el-arte-al-publico-de-chicago",
-      "published_at": "2026-07-31T09:47:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin cargar con adjetivos valorativos ni citar fuentes con sesgo político; se centra exclusivamente en la información cultural.",
-      "focus_analysis": "El medio eligió un ángulo cultural, resaltando la iniciativa artística y su accesibilidad al público, mientras omite cualquier análisis económico o de impacto urbano de la instalación.",
-      "focus_tags": [
-        "arte público",
-        "escultura hiperrealista",
-        "Chicago"
-      ],
-      "context": [
-        {
-          "label": "Artista",
-          "text": "Carole A. Feuerman es una escultora estadounidense reconocida internacionalmente por sus obras de superrealismo que representan figuras humanas con gran detalle y realismo."
-        },
-        {
-          "label": "Ubicación",
-          "text": "La Magnificent Mile es una de las avenidas más emblemáticas de Chicago, conocida por su alta concentración de tiendas, hoteles y atracciones turísticas, lo que la convierte en un punto estratégico para exhibiciones al aire libre."
-        },
-        {
-          "label": "Arte público en EE. UU.",
-          "text": "En los últimos años, ciudades estadounidenses han impulsado proyectos de arte público para revitalizar espacios urbanos y fomentar la participación ciudadana, una tendencia que se alinea con la exposición de Feuerman."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "c54203150990",
-      "title": "INE Nueva generación",
-      "summary": "El Economista lanzó una sección titulada 'INE Nueva generación' que enumera varios artículos recientes con sus autores y horarios, sin ofrecer una narrativa o análisis concreto sobre el Instituto Nacional Electoral.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/cartones/ine-nueva-generacion-20260731-826014.html",
-      "published_at": "2026-07-31T09:01:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a listar contenidos sin usar lenguaje cargado ni seleccionar fuentes con sesgo, por lo que no muestra una inclinación política evidente.",
-      "focus_analysis": "El medio se centra en exhibir su propio catálogo de publicaciones recientes, dejando de lado cualquier enfoque analítico sobre la institución electoral o sus implicaciones políticas.",
-      "focus_tags": [
-        "media catalog",
-        "recent articles",
-        "content listing"
-      ],
-      "context": [
-        {
-          "label": "Instituto Nacional Electoral",
-          "text": "El Instituto Nacional Electoral (INE) es el organismo autónomo encargado de organizar y supervisar los procesos electorales en México, garantizando la legalidad y transparencia de las votaciones."
-        },
-        {
-          "label": "El Economista",
-          "text": "El Economista es un diario financiero mexicano conocido por su cobertura de economía, finanzas y política, y por ofrecer secciones de noticias breves y análisis de actualidad."
-        },
-        {
-          "label": "Tendencia de resúmenes breves",
-          "text": "En los últimos años, muchos medios han incrementado la publicación de resúmenes rápidos o listas de contenidos para captar la atención de lectores que buscan información concisa."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "0639c1cc8669",
-      "title": "Tom Holland (‘Spider-Man: Brand New Day’): «Peter Parker está ignorando el consejo que le dio el Spider-Man de Andrew Garfield»",
-      "summary": "La película Spider‑Man: Brand New Day, protagonizada por Tom Holland, se presenta como una vuelta a la esencia callejera del personaje, mostrando a Peter Parker aislado y deprimido, mientras el actor destaca la lección de buscar ayuda que le dio el Spider‑Man de Andrew Garfield.",
-      "category": "sociedad",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/spider-man-brand-new-day-tom-holland-zendaya-rueda-de-prensa/",
-      "published_at": "2026-07-31T09:30:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono muy positivo y promocional, resaltando los logros y la autenticidad de la película sin ofrecer críticas ni perspectivas negativas, lo que indica un sesgo ligeramente favorable pero esencialmente neutral.",
-      "focus_analysis": "El medio se centra en la perspectiva de los actores y la intención creativa del director, resaltando la dimensión humana y el retorno a la esencia del personaje; omite análisis de taquilla, crítica especializada o impacto cultural más amplio.",
-      "focus_tags": [
-        "cultura pop",
-        "entretenimiento",
-        "cine"
-      ],
-      "context": [
-        {
-          "label": "antecedentes cinematográficos",
-          "text": "La última entrega de la saga, Spider‑Man: No Way Home (2021), reunió a los tres actores que interpretaron a Spider‑Man —Tobey Maguire, Andrew Garfield y Tom Holland— y generó una gran expectación que retrasó la producción de la nueva película."
-        },
-        {
-          "label": "director y estilo",
-          "text": "Destin Daniel Cretton, conocido por dirigir Shang‑Chi y el la del Universo Cinemático de Marvel, fue elegido para guiar Brand New Day, con la intención de enfocarse en la vida personal y los conflictos internos de Peter Parker."
-        },
-        {
-          "label": "integración de personajes adultos",
-          "text": "La inclusión del Punisher, interpretado por Jon Bernthal, marca una de por primera vez la llegada de un personaje con clasificación para adultos al mundo de Spider‑Man, generando expectativas y debates entre los fans sobre la mezcla de tonos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "aa0e807b324a",
-      "title": "Nu México inicia su transición a banca múltiple, ¿qué cambia para sus clientes?",
-      "summary": "Nu México, la fintech mexicana de servicios financieros, iniciará operaciones como banco múltiple el 6 de agosto, ofreciendo a sus más 15 millones de clientes mayor protección de sus depósitos y nuevas herramientas bajo la supervisión de la CNBV y el IPAB.",
-      "category": "economia",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cartera/nu-mexico-inicia-su-transicion-a-banca-multiple-que-cambia-para-sus-clientes/",
-      "published_at": "2026-07-31T09:45:26+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto se centra en los beneficios para los usuarios y la regulación, usando un tono mayormente descriptivo y sin referencias a posiciones políticas; aunque incluye frases promocionales, no muestra sesgo ideológico claro.",
-      "focus_analysis": "El medio destaca el ángulo económico y de consumo, resaltando la mejora en la protección de los usuarios y la expansión de servicios, mientras omite análisis de impacto macroeconómico o de la competencia entre bancos tradicionales y fintechs.",
-      "focus_tags": [
-        "banca digital",
-        "regulación financiera",
-        "protección al cliente"
-      ],
-      "context": [
-        {
-          "label": "Regulación",
-          "text": "La Comisión Nacional Bancaria y de Valores (CNBV) es la autoridad que supervisa a los bancos en México y exige requisitos de capital y liquidez más estrictos que los aplicados a las sociedades financieras de objeto múltiple (sofipos)."
-        },
-        {
-          "label": "Protección al ahorro",
-          "text": "El Instituto para la Protección al Ahorro Bancario (IPAB) garantiza los depósitos de los clientes hasta 400,000 unidades de inversión (UDI) por banco, una cobertura mucho mayor que la ofrecida bajo la figura de sofipo."
-        },
-        {
-          "label": "Competencia fintech",
-          "text": "Otros bancos digitales como BBVA México y Banco Azteca también han ampliado sus ofertas de productos, intensificando la competencia en el sector bancario mexicano y presionando a las fintechs a evolucionar hacia modelos regulados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "515722c0d989",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Más de 40.000 inmigrantes han entrado de manera irregular en Ceuta, según las primeras estimaciones",
-      "summary": "El Gobierno español informa que más de 40 000 inmigrantes han entrado de forma irregular en la ciudad autónoma de Ceuta, con 19 muertos al intentar cruzar desde Marruecos, mientras Finlandia y Italia proponen excluir a España del espacio Schengen y Francia refuerza sus controles fronterizos.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-07-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-07-31T09:54:23+00:00",
-      "bias_score": -5,
-      "bias_reason": "El texto utiliza un lenguaje neutro y se limita a presentar cifras y hechos sin emplear adjetivos cargados ni citar fuentes que favorezcan una postura política, mostrando un enfoque amplio más que partidista.",
-      "focus_analysis": "El medio opta por un enfoque centrado en la magnitud del cruce y sus consecuencias humanas, así como en la respuesta de los gobiernos europeos, sin profundizar en el análisis económico ni en el debate interno sobre la política migratoria española.",
-      "focus_tags": [
-        "inmigración irregular",
-        "crisis fronteriza",
-        "reacción europea"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la migración a Ceuta",
-          "text": "Ceuta, enclave español en el norte de África, ha sido históricamente punto de entrada para migrantes que intentan alcanzar Europa, con picos de llegadas masivas en los últimos años."
-        },
-        {
-          "label": "Enfoque de otros medios",
-          "text": "Mientras El País América se centra en los números y la muerte de 19 personas, DW Español resaltó los violentos enfrentamientos en la frontera y Euronews subrayó el acuerdo entre España y Marruecos para devoluciones y la retirada de la emergencia en otras regiones."
-        },
-        {
-          "label": "Reacción europea",
-          "text": "Finlandia e Italia han propuesto excluir a España del espacio Schengen, y Francia ha incrementado sus controles fronterizos, reflejando una creciente preocupación por la gestión de los flujos migratorios en la UE."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]
