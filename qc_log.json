@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T17:41:59.365582+00:00",
-      "title": "Medios marroquíes culpan a las redes sociales de orquestar el cruce de jóvenes a Ceuta \"ocupada\"",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la inconsistencia en el campo bias_score afecta ligeramente la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:00:47.671402+00:00",
-      "title": "Mercedes-Benz GLA 2027: se reinventa como eléctrico e híbrido",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales; solo se sugiere añadir citas específicas para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:00:55.725447+00:00",
-      "title": "Arden los bosques en Europa: “Quienes niegan el calentamiento global deben abrir los ojos”",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque necesita mayor respaldo de datos y fuentes para algunas afirmaciones.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:01:02.449370+00:00",
-      "title": "Familias mexicanas destinan 14% de sus ingresos al ahorro y pago de deudas: encuesta; alimentos, viv",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y cumple con los criterios editoriales, aunque la falta de verificación de la encuesta reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:01:08.936766+00:00",
-      "title": "Erik Lira al AS Mónaco: estas son las claves para que el jugador mexicano se vaya al futbol europeo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mayor respaldo de fuentes y verificación de datos para alcanzar estándares de calidad periodística, aunque su redacción es objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:01:14.441308+00:00",
-      "title": "Cuáles son los torneos que se perderán las selecciones europeas si se confirma su boicot a la FIFA",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mayor verificación de datos y una cobertura más equilibrada que incluya la perspectiva de la FIFA para alcanzar los estándares de calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:01:23.150083+00:00",
-      "title": "El plato fuerte del festival de Guanajuato",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero su precisión factual y objetividad son limitadas, y carece de fuentes múltiples que aporten contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:01:27.181472+00:00",
-      "title": "Samsung prepara nuevos Galaxy Buds con un diseño nunca antes usado por la marca",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información reciente y objetiva con buen contexto y estructura.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:01:31.443336+00:00",
-      "title": "Petróleo cae más de 1% tras propuesta de coalición de defensa marítima liderada por Arabia Saudita",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información precisa, bien fuentesada y estructurada, pese a la ausencia de citas directas.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T18:01:36.860847+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno moviliza al Ejército para",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste de fuentes, objetividad y estructura, y es altamente actual.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T18:20:46.303067+00:00",
       "title": "Volcadura en la carretera Irapuato-Abasolo genera tres horas de tráfico pesado",
       "kind": "noticia",
@@ -3386,6 +3216,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, ofreciendo contexto suficiente y una estructura adecuada para una noticia informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:00:41.048812+00:00",
+      "title": "China elevará compra de sorgo sinaloense",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes específicas para los números reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:00:44.831647+00:00",
+      "title": "Boca Juniors busca sellar su boleto a octavos de la Copa Sudamericana ante O’Higgins en Chile: forma",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:00:51.390963+00:00",
+      "title": "Se desvanecen esperanzas de un final cercano del conflicto en Medio Oriente",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El contenido es actual pero presenta problemas de veracidad, falta de fuentes múltiples y sesgo, por lo que necesita mejoras antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:00:55.249532+00:00",
+      "title": "PRI impugnará resolución del INE por llamar narcopartido a Morena; acudirá a instancias internaciona",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es reciente, pero necesita mayor contraste de fuentes y una presentación más objetiva para cumplir plenamente con los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:00:58.824256+00:00",
+      "title": "Informe desde la frontera Ceuta-Castillejos: al menos 10 muertos tras oleada masiva de migrantes",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, bien contrastada, objetiva y estructurada de manera adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:01:03.541535+00:00",
+      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, ofreciendo un contexto suficiente y una estructura clara.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:01:14.269940+00:00",
+      "title": "La broma que no es broma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual y estructurado, pero carece de precisión factual y de fuentes contrastadas, y muestra una clara falta de objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:01:19.254252+00:00",
+      "title": "El 75% de los prestadores de servicios turísticos de Querétaro cuenta con registro nacional",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de precisión, fuentes fiables, objetividad, actualidad y estructura adecuada, aunque una mayor diversificación de fuentes contextuales podría reforzar aún más el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:01:25.185863+00:00",
+      "title": "Independiente Rivadavia vence a Huracán en el cierre de la segunda fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado y objetivo, pero la inconsistencia en los anotadores afecta la precisión de la información.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T00:01:29.963452+00:00",
+      "title": "Doña Lety, madre de Poncho de Nigris, responde a la funa por no saludar de beso a sus fans",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de una noticia objetiva y actual, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
       "error": null
     }
   ]
