@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-07-31T04:26:19.623753+00:00",
+  "generated_at": "2026-07-31T04:41:47.406408+00:00",
   "articles": [
+    {
+      "id": "6653a31c7f1b",
+      "title": "Google lanza una inteligencia artificial que permite a los robots pensar y actuar al mismo tiempo",
+      "summary": "Google ha presentado Gemini Robotics ER 2, un modelo de inteligencia artificial que permite a los robots planificar su siguiente acción mientras ya están ejecutando la anterior, mejorando la colaboración entre máquinas y la seguridad al detectar humanos.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/gemini-robotics-er-2-google-ia-robots/",
+      "published_at": "2026-07-30T18:30:00+00:00",
+      "bias_score": 5,
+      "bias_reason": "El artículo destaca de forma entusiasta los avances y beneficios del modelo usando solo declaraciones de Google, sin presentar críticas ni perspectivas externas, lo que indica un sesgo ligeramente positivo hacia la tecnología.",
+      "focus_analysis": "El medio se centra en los aspectos técnicos y de innovación del modelo, resaltando su capacidad de pensamiento simultáneo y colaboración entre robots, mientras omite el impacto económico, los posibles riesgos éticos y la regulación del uso de IA en robótica.",
+      "focus_tags": [
+        "IA robótica",
+        "colaboración de robots",
+        "seguridad humana"
+      ],
+      "context": [
+        {
+          "label": "Antecedente del modelo",
+          "text": "Gemini Robotics ER 2 sustituye a la versión 1.6, que requería reiniciar todo el flujo de trabajo ante errores y no permitía la planificación continua de acciones."
+        },
+        {
+          "label": "Tendencia en IA para robótica",
+          "text": "DeepMind ha estado desarrollando modelos de visión‑lenguaje‑acción (VLA) que separan la planificación de alto nivel del control de bajo nivel, una arquitectura que ahora se incorpora en Gemini Robotics ER 2."
+        },
+        {
+          "label": "Competencia y regulación",
+          "text": "Empresas como Boston Dynamics y Agility Robotics también están integrando IA avanzada en sus robots, mientras que gobiernos y organismos de normas están comenzando a definir directrices de seguridad y ética para la interacción humano‑robot."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "4d169149b816",
+      "title": "¡Vuelve! Nailea Vidrio regresa a la Liga MX Femenil; ‘Vamos a romperla’, asegura",
+      "summary": "La futbolista mexicana Nailea Vidrio, de 23 años, anunció su regreso a la Liga MX Femenil para el Apertura 2026, integrándose al nuevo equipo de Atlante FC y vistiendo la camiseta número 6.",
+      "category": "deportes",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/superdeportivo/2026/07/30/vuelve-nailea-vidrio-regresa-a-la-liga-mx-femenil-vamos-a-romperla-asegura-1826037.html",
+      "published_at": "2026-07-31T04:26:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el regreso de la jugadora y su nuevo club, sin usar lenguaje cargado ni incluir opiniones políticas o económicas.",
+      "focus_analysis": "El medio destaca el aspecto humano y deportivo del regreso de Nailea Vidrio, dejando de lado el análisis institucional o económico del fútbol femenino.",
+      "focus_tags": [
+        "fútbol femenino",
+        "regreso de jugadora",
+        "Atlante FC"
+      ],
+      "context": [
+        {
+          "label": "Historia de la Liga MX Femenil",
+          "text": "La Liga MX Femenil se fundó en 2017 y ha crecido rápidamente, convirtiéndose en la principal competición de fútbol femenino en México."
+        },
+        {
+          "label": "Atlante FC y su equipo femenino",
+          "text": "Atlante FC lanzó su equipo femenino para la temporada Apertura 2026, ampliando la presencia de clubes tradicionales en la liga."
+        },
+        {
+          "label": "Trayectoria de Nailea Vidrio",
+          "text": "Nailea Vidrio jugó anteriormente en Pachuca, León y Cruz Azul, y formó parte del plantel campeón de la Liga MX Femenil en el Clausura 2025, aunque solo disputó tres minutos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "30efa392bc05",
+      "title": "Milei presenta reforma al Banco Central de Argentina",
+      "summary": "El presidente argentino Javier Milei anunció una reforma de la carta orgánica del Banco Central de la República Argentina que busca prohibir la financiación del Tesoro, preservar el valor de la moneda y reforzar la independencia institucional del banco.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/economia/milei-presenta-reforma-banco-central-argentina-20260730-825987.html",
+      "published_at": "2026-07-31T04:34:04+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto utiliza un tono mayormente favorable a la medida, citando solo a Milei y a expertos que respaldan la reforma, con escasa presencia de voces críticas o de oposición.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y económico, destacando la independencia del banco y la lucha contra la inflación, mientras deja de lado el impacto social y las críticas políticas.",
+      "focus_tags": [
+        "reforma bancaria",
+        "inflación",
+        "independencia del BCRA"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Argentina ha experimentado históricamente altas tasas de inflación y episodios de financiación del gasto público mediante la emisión monetaria por parte del Banco Central, lo que ha generado deación de la moneda."
+        },
+        {
+          "label": "comparables internacionales",
+          "text": "En muchos países, como Estados Unidos y la zona euro, los bancos centrales operan con alta autonomía frente a los gobiernos electos, lo que se presenta como modelo al que el proyecto de Milei pretende acercar al BCRA."
+        },
+        {
+          "label": "otras coberturas",
+          "text": "Otros medios, como Euronews Español, han puesto énfasis en decisiones políticas de Milei relacionadas con la migración y la expulsión de extranjeros por discursos de odio, mostrando un enfoque más nacionalista y menos económico que el de El Economista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "c4b978c7be2c",
+      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
+      "summary": "Spotify, la plataforma de streaming de música, ha lanzado el modo Running, que crea listas de reproducción adaptadas al ritmo y tipo de entrenamiento del usuario, disponible para suscriptores Premium de iOS en varios países, y también ha introducido notas de usuario para personalizar playlists.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/mobile/spotify-running-mode-notas-usuario/",
+      "published_at": "2026-07-30T19:32:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la nueva función y sus características sin usar adjetivos cargados ni incluir opiniones críticas o elogiosas; se basa en el comunicado de prensa y no muestra una inclinación política o ideológica.",
+      "focus_analysis": "El artículo se centra en los aspectos tecnológicos y de experiencia del usuario del nuevo modo Running, dejando de lado la competencia del mercado y posibles implicaciones de privacidad o de negocio.",
+      "focus_tags": [
+        "funcionalidad musical",
+        "entrenamiento deportivo",
+        "nuevas características"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Spotify en fitness",
+          "text": "Spotify ya integraba contenido de entrenamiento a través de su Fitness Hub, que incluye videos y playlists de socios como Peloton, lo que muestra una estrategia continua de combinar música y actividad física."
+        },
+        {
+          "label": "Competencia en el sector",
+          "text": "Otros servicios de streaming, como Apple Music y YouTube Music, también ofrecen playlists curadas para ejercicios, lo que sitúa a Spotify en una carrera por diferenciarse con funciones personalizadas."
+        },
+        {
+          "label": "Enfoque de otras coberturas",
+          "text": "Medios como Expansión resaltaron el uso de inteligencia artificial para generar las listas, un ángulo que la nota de Hipertextual menciona solo de forma implícita."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "8060f2169341",
+      "title": "7 frases de Paredes tras el triunfo por penales de Boca ante O’Higgins: gran respaldo a Aranda y “obligación” de competir hasta el final",
+      "summary": "Leandro Paredes, mediocampista de Boca Juniors, elogió el respaldo al arquero Tomás Aranda y subrayó la obligación del equipo de competir hasta el final tras clasificarse a los octavos de final de la Copa Sudamericana tras ganar en penales a O’Higgins.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/07/31/7-frases-de-paredes-tras-el-triunfo-por-penales-de-boca-ante-ohiggins-gran-respaldo-a-aranda-y-obligacion-de-competir-hasta-el-final/",
+      "published_at": "2026-07-31T03:53:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en hechos deportivos y declaraciones de los jugadores, sin usar lenguaje cargado ni favorecer una postura política; la cobertura es informativa y equilibrada.",
+      "focus_analysis": "El medio destaca el aspecto táctico y la mentalidad del equipo, enfatizando la necesidad de mejorar defensivamente y la presión de representar a Argentina, dejando de lado análisis financiero o institucional del club.",
+      "focus_tags": [
+        "Boca Juniors",
+        "Copa Sudamericana",
+        "Rendimiento defensivo"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento reciente",
+          "text": "Boca Juniors había sufrido una contundente derrota 0-3 contra Deportivo Riestra en el debut del Torneo Clausura, lo que aumentó la presión por obtener un resultado positivo en la Sudamericana."
+        },
+        {
+          "label": "Próximo rival",
+          "text": "Tras la clasificación, Boca enfrentará al club paraguayo Recoleta en los octavos de final de la Copa Sudamericana, con los partidos de ida programados entre el 11 y 13 de agosto."
+        },
+        {
+          "label": "Importancia de la Copa Sudamericana",
+          "text": "La Copa Sudamericana es el segundo torneo continental más importante para los clubes argentinos, y avanzar en ella refuerza la reputación internacional de equipos como Boca Juniors."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4521703cb321",
+      "title": "Medio ambiente en la derecha",
+      "summary": "Gabriel Quadri de la Torre, ecologista liberal mexicano, sostiene que los partidos de derecha en Europa y América Latina suelen carecer de propuestas ambientales serias, y propone que para ganar legitimidad deben articular un ambientalismo propio basado en eficiencia, competitividad y respeto a la propiedad.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/medio-ambiente-derecha-20260730-825988.html",
+      "published_at": "2026-07-31T04:37:54+00:00",
+      "bias_score": -30,
+      "bias_reason": "El artículo utiliza expresiones cargadas contra la derecha como 'gran reemplazo', 'Woke' y la asocia con islamismo y autoritarismo, mientras presenta a la izquierda como defensora del medio ambiente, lo que indica una inclinación izquierdista.",
+      "focus_analysis": "Se centra en el análisis ideológico de la derecha y su ausencia de agenda ambiental, dejando de lado datos concretos sobre impactos climáticos o propuestas específicas de la izquierda.",
+      "focus_tags": [
+        "política ambiental",
+        "derecha",
+        "ideología"
+      ],
+      "context": [
+        {
+          "label": "Contexto político",
+          "text": "En los últimos años, partidos de derecha han ganado elecciones en varios países europeos y latinoamericanos, impulsados por el descontento con la corrupción, la inseguridad y la percepción de políticas progresistas."
+        },
+        {
+          "label": "Agenda ambiental de la izquierda",
+          "text": "Tradicionalmente, los partidos de izquierda y centro‑izquierda han liderado iniciativas de cambio climático, regulaciones de emisiones y programas de energía renovable en América Latina y Europa."
+        },
+        {
+          "label": "Ejemplo de intento derecho‑ambiental",
+          "text": "En Argentina, el presidente Javier Milei ha propuesto la reducción del gasto público y la promoción de la energía privada, aunque sus planes ambientales aún son limitados y controvertidos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "6653a31c7f1b",
       "title": "Google lanza una inteligencia artificial que permite a los robots pensar y actuar al mismo tiempo",
@@ -835,213 +1045,6 @@
         {
           "label": "Cambio climático en México",
           "text": "Expertos señalan que el cambio climático está aumentando la frecuencia de eventos extremos en México, como olas de calor y sequías, lo que afecta a la agricultura y a la población en general."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "9b35accbec49",
-      "title": "Colombia, Perú y Chile, los primeros sinodales de Rafa Márquez",
-      "summary": "La selección mexicana de fútbol, bajo la dirección de Rafa Márquez, jugará sus primeros partidos amistosos contra Colombia, Perú y Chile, organizados en Estados Unidos mediante un acuerdo comercial con Soccer United Marketing.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/deportes/colombia-peru-chile-primeros-sinodales-rafa-marquez-20260730-825959.html",
-      "published_at": "2026-07-31T03:19:33+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, sin adjetivos cargados ni selección de fuentes con clara inclinación política; se limita a datos de partidos, citas del entrenador y la información del acuerdo comercial.",
-      "focus_analysis": "El medio se centra en el aspecto comercial y técnico del nuevo ciclo de la selección, destacando el pacto con SUM y la visión del entrenador, mientras omite la reacción de la afición y el contexto más amplio del desarrollo del fútbol mexicano.",
-      "focus_tags": [
-        "fútbol",
-        "entrenador",
-        "partidos amistosos"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Rafa Márquez, exjugador mexicano con cinco mundiales, fue nombrado director técnico de la selección en 2026 y ha expresado su intención de priorizar la condición física, el entendimiento táctico y la mentalidad ganadora en los jugadores."
-        },
-        {
-          "label": "datos comparables",
-          "text": "La Federación Mexicana de Fútbol firmó un acuerdo de patrocinio y difusión con Soccer United Marketing, lo que le otorga el control de los tres partidos amistosos que se disputarán en ciudades estadounidenses como Baltimore, Harrison y Los Ángeles."
-        },
-        {
-          "label": "postura de otros medios",
-          "text": "El Universal enfocó la noticia resaltando el debut de Márquez frente a Colombia, poniendo énfasis en el aspecto deportivo y la expectativa del primer encuentro, en contraste con la cobertura de El Economista que subraya la dimensión comercial del evento."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "04f69ddeae2e",
-      "title": "Apple y Amazon disparan sus ganancias y sorprenden a Wall Street",
-      "summary": "Apple Inc. y Amazon.com Inc., los dos gigantes tecnológicos estadounidenses, reportaron aumentos de ingresos del 16 % y 20 % respectivamente en el último trimestre, lo que impulsó al Nasdaq a cerrar con ganancias.",
-      "category": "economia",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/programas/econom%C3%ADa/20260731-apple-y-amazon-disparan-sus-ganancias-y-sorprenden-a-wall-street",
-      "published_at": "2026-07-31T01:49:18+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo presenta únicamente cifras y hechos sin emplear lenguaje cargado ni citar fuentes con clara orientación política, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "Se destaca el aspecto económico‑financiero de los resultados y su repercusión en la bolsa, mientras se omiten dimensiones humanas o de consumo.",
-      "focus_tags": [
-        "ganancias corporativas",
-        "mercado bursátil",
-        "tecnología"
-      ],
-      "context": [
-        {
-          "label": "Apple y ingresos",
-          "text": "Apple Inc., la empresa de tecnología estadounidense, ha registrado un crecimiento sostenido de ingresos en los últimos trimestres, impulsado principalmente por las ventas de iPhone y servicios digitales."
-        },
-        {
-          "label": "Amazon y la IA",
-          "text": "Amazon.com Inc. ha invertido fuertemente en inteligencia artificial, lo que ha contribuido a mejorar sus márgenes y a diversificar sus fuentes de ingresos más allá del comercio electrónico."
-        },
-        {
-          "label": "Reacción del mercado a resultados tech",
-          "text": "En 2026, los resultados positivos de grandes compañías tecnológicas suelen generar subidas en el índice Nasdaq y en los principales índices bursátiles de EE. UU."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "bb16baf3fa67",
-      "title": "La sede de Santo Domingo afronta una jornada con campeones en 10 deportes",
-      "summary": "Los XXV Juegos Centroamericanos y del Caribe 2026, celebrados en Santo Domingo, presentan una jornada con finales en diez deportes y avanzan varias disciplinas de conjunto hacia sus etapas decisivas.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/republica-dominicana/2026/07/31/la-sede-de-santo-domingo-afronta-una-jornada-con-campeones-en-10-deportes/",
-      "published_at": "2026-07-31T02:56:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir el programa de competencias sin usar lenguaje cargado ni presentar opiniones, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en la programación deportiva y los resultados de las competencias, dejando de lado aspectos económicos, sociales o culturales del evento.",
-      "focus_tags": [
-        "juegos centroamericanos",
-        "programa deportivo",
-        "santo domingo"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Los Juegos Centroamericanos y del Caribe son un evento multideportivo que se celebra cada cuatro años y reúne a atletas de América Latina y el Caribe, con la edición 2026 organizada por la República Dominicana en Santo Domingo."
-        },
-        {
-          "label": "datos comparables",
-          "text": "En la edición anterior, 2022, se realizaron 30 disciplinas y se registraron más de 5,000 atletas participantes, lo que generó un incremento del turismo y de la infraestructura deportiva en la ciudad sede."
-        },
-        {
-          "label": "postura de otros actores",
-          "text": "El Comité Olímpico Centroamericano ha destacado la importancia de la edición 2026 para fortalecer la integración regional y ha resaltado la participación de países como México, Cuba y Puerto Rico en la agenda de competencias."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "5fe095e040ad",
-      "title": "La broma que no es broma",
-      "summary": "El expresidente de los Estados Unidos, Donald Trump, utilizó una serie de chistes durante la Cena de Corresponsales para anunciar su intención de postularse a un cuarto mandato, lo que el autor interpreta como un “globo de ensayo” destinado a medir la reacción popular y erosionar la democracia.",
-      "category": "politica",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/red-hispana/la-broma-que-no-es-broma/30/07/2026/",
-      "published_at": "2026-07-30T19:07:37+00:00",
-      "bias_score": -70,
-      "bias_reason": "El texto emplea un lenguaje cargado y crítico, destaca la autoritarismo de Trump y selecciona fuentes académicas que condenan sus tácticas, lo que refleja una postura claramente de izquierda.",
-      "focus_analysis": "El medio se centra en el análisis político del uso de la comedia como herramienta autoritaria, dejando de lado los aspectos económicos o de política exterior que podrían haber sido relevantes.",
-      "focus_tags": [
-        "autoritarismo",
-        "retórica política",
-        "globo de ensayo"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Trump",
-          "text": "Donald Trump, durante su segunda presidencia y después de dejar el cargo, ha insinuado repetidamente la posibilidad de un cuarto mandato, utilizando declaraciones ambiguas y humorísticas para probar la aceptación del público."
-        },
-        {
-          "label": "Concepto de “globo de ensayo”",
-          "text": "La historiadora Ruth Ben‑Ghiat definió el “globo de ensayo” como la introducción de ideas extremas bajo la apariencia de bromas para distorsionar el discurso y crear flexibilidad para acciones autoritarias posteriores."
-        },
-        {
-          "label": "Comparación con otros líderes",
-          "text": "El artículo menciona que políticos como Jair Bolsonaro, Hugo Chávez y Nayib Bukele también han usado declaraciones en tono de broma para legitimar medidas autoritarias, resaltando un patrón global de manipulación retórica."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "c4b978c7be2c",
-      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
-      "summary": "Spotify ha lanzado el Running Mode, una función disponible para usuarios Premium de iOS en varios países que genera playlists personalizadas según la rutina de carrera y permite añadir notas a las canciones, mientras que las Notas de Usuario están abiertas a todos los usuarios.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/mobile/spotify-running-mode-notas-usuario/",
-      "published_at": "2026-07-30T19:32:00+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto usa un tono mayormente promocional, resaltando los beneficios y la innovación sin presentar críticas ni opiniones contrarias, lo que indica un sesgo ligeramente favorable hacia Spotify.",
-      "focus_analysis": "El artículo se centra en la descripción de la nueva funcionalidad y su experiencia de usuario, dejando de lado el análisis del impacto competitivo y los posibles efectos sobre la privacidad o el uso de IA.",
-      "focus_tags": [
-        "funcionalidad musical",
-        "entrenamiento personal",
-        "novedades de Spotify"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Spotify",
-          "text": "Spotify ya incorpora en su Fitness Hub contenido de Peloton y videos de entrenadores, lo que muestra una estrategia continua de integrar el fitness dentro de la plataforma."
-        },
-        {
-          "label": "Competencia en el mercado",
-          "text": "Servicios como Apple Music y YouTube Music también buscan diferenciarse con funciones de personalización, lo que sitúa a Spotify en una carrera por ofrecer herramientas únicas para los usuarios."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios, como Expansión, destacan el uso de inteligencia artificial en el Running Mode, un aspecto que el artículo de Hipertextual menciona solo de forma implícita."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "3cd3e72ff8cf",
-      "title": "Gobierno de Zacatecas busca definir el futuro de dos bachilleratos militarizados; espera respuesta de la SEP",
-      "summary": "El gobierno de Zacatecas está a la espera de la decisión de la Secretaría de Educación Pública sobre el futuro de los bachilleratos Militarizado y Policial del estado, creados por decreto en 2019 y respaldados por la Sedena y la Secretaría de Seguridad Pública de Zacatecas.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/gobierno-de-zacatecas-busca-definir-el-futuro-de-dos-bachilleratos-militarizados-espera-respuesta-de-la-sep/",
-      "published_at": "2026-07-31T02:44:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y declaraciones oficiales sin usar lenguaje cargado ni presentar opiniones, manteniendo un tono neutral.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y normativo del conflicto, resaltando la comunicación entre autoridades estatales y federales, mientras deja de lado el impacto humano y las críticas sociales a la militarización educativa.",
-      "focus_tags": [
-        "educación pública",
-        "bachilleratos militarizados",
-        "política educativa"
-      ],
-      "context": [
-        {
-          "label": "Disposición federal",
-          "text": "La Secretaría de Educación Pública emitió un oficio que instruye a eliminar las instituciones con disciplina militar en todo el país, medida tomada tras la muerte de la niña Dafne Zapata en una academia militarizada de Tamaulipas."
-        },
-        {
-          "label": "Creación de los bachilleratos",
-          "text": "Los bachilleratos Militarizado y Policial de Zacatecas fueron establecidos mediante decreto estatal en 2019 y se han destacado por su alto prestigio académico y su vínculo con la Sedena y la seguridad pública estatal."
-        },
-        {
-          "label": "Debate nacional",
-          "text": "En México, la militarización de la educación ha generado controversia, con sectores que la defienden por su disciplina y otros que la critican por vulnerar principios civiles, contexto que influye en la postura de la SEP."
         }
       ],
       "confidence": "alta",
