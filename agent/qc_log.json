@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-07-30T22:41:13.249287+00:00",
-      "title": "La broma que no es broma",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete muestra seriedad en el análisis de sesgo, pero carece de veracidad y contraste de fuentes, lo que compromete su calidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:41:17.021598+00:00",
-      "title": "Calor histórico en México: La fecha clave de 2027 en que los termómetros romperán récord sin precede",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de verificación y contraste de fuentes, y su tono parcial reduce su calidad editorial, pese a estar actualizado y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:41:21.441423+00:00",
-      "title": "Cientos de migrantes de Marruecos llegan a Ceuta, un enclave español",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y reciente, aunque podría reforzar su contraste de fuentes incluyendo declaraciones de Italia o de actores migratorios para mayor equilibrio.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T22:41:27.264146+00:00",
-      "title": "Susto en el fútbol regional: chocó su cabeza contra un muro durante un partido y quedó internado en ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de precisión, objetividad y actualidad, aunque podría reforzar la referencia a fuentes específicas para elevar el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T23:00:46.361155+00:00",
-      "title": "Cuando el tren se detiene: la migración interior en la narrativa mexicana",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una propuesta original y bien estructurada que enca en la línea estética de Contexto.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T23:00:50.702389+00:00",
-      "title": "Por qué a Irán puede interesarle más una guerra limitada con Estados Unidos que la paz",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta una narrativa plausible pero sin respaldo factual ni fuentes múltiples, lo que compromete su veracidad y contraste, aunque destaca en actualidad y estructura.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T23:00:54.183726+00:00",
-      "title": "Henry Martín ya habría pedido su salida, pero América no lo dejaría irse por esta razón",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero la falta de fuentes verificables y de contraste de voces reduce su precisión y robustez informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T23:00:59.408057+00:00",
-      "title": "Petróleo cierra a la baja por tensión regional",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales; solo se sugiere añadir fuentes adicionales y cifras específicas para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-07-30T23:01:05.388613+00:00",
-      "title": "Majo Aguilar revela que está soltera tras su romance con Diego Bacter",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría incluir fuentes adicionales para reforzar el contraste.",
-      "error": null
-    },
-    {
       "at": "2026-07-30T23:01:08.827776+00:00",
       "title": "Independiente Rivadavia vence a Huracán en el cierre de la segunda fecha del Torneo Clausura",
       "kind": "noticia",
@@ -3380,6 +3227,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura objetiva y actual con buen contraste de fuentes; sólo se sugiere mayor respaldo de cifras específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:40:36.266222+00:00",
+      "title": "Cuando el río se vuelve espejo: descubriendo a Yvonne Owuor",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 8,
+        "voz_autor": 9,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una presentación atractiva y reflexiva de la obra de Yvonne Owuor.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:40:40.104998+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Ceuta amanece con cientos de jóvenes ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero necesita mayor precisión en datos y una gama más amplia de fuentes para lograr equilibrio y veracidad completa.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:40:45.687391+00:00",
+      "title": "Cae 30.7% anual utilidad neta de la CFE durante el primer semestre",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para reforzar el contraste de información.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:40:49.511124+00:00",
+      "title": "Asesinan a “Changoleón” a balazos frente a su esposa",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es objetivo y está al día, pero la falta de fuentes verificadas y de contraste de voces reduce su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:40:56.264685+00:00",
+      "title": "La petición de Alex Diego al avanzar a los Cuartos de Final del Campeonato Sub 20 de la Concacaf",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la imprecisión en el nombre del técnico y la falta de corroboración de la solicitud de ampliación del estadio reducen su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:41:00.348554+00:00",
+      "title": "7 frases de Paredes tras el triunfo por penales de Boca ante O’Higgins: gran respaldo a Aranda y “ob",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares informativos, aunque podría mejorar la objetividad y la inclusión de fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:41:06.047919+00:00",
+      "title": "Spotify lanza un modo para corredores que adapta la música a tu entrenamiento",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría enriquecerse con fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:41:16.808116+00:00",
+      "title": "La broma que no es broma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita fuentes verificables y una mayor pluralidad de perspectivas antes de considerarse apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-07-31T05:41:20.706280+00:00",
+      "title": "Anthropic admite que su modelo de IA más potente hackeó sistemas de 3 organizaciones en pruebas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque necesita mayor respaldo documental para la veracidad del reclamo.",
       "error": null
     }
   ]
