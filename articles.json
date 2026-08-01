@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-01T17:01:30.373433+00:00",
+  "generated_at": "2026-08-01T17:21:13.319117+00:00",
   "articles": [
+    {
+      "id": "19251feb8a86",
+      "title": "Un bacilo de Koch",
+      "summary": "En su ensayo para la revista Letras Libres, David Toscana reflexiona sobre la anti‑natalismo y la atracción del sufrimiento a través de referencias literarias y filosóficas, concluyendo con una irónica lista de cosas de las que agradecer no ser, entre ellas un bacilo de Koch.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/uncategorized/un-bacilo-de-koch/31/07/2026/",
+      "published_at": "2026-07-31T20:38:40+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea referencias religiosas y culturales conservadoras (Opus Dei, crítica a la izquierda implícita) y un tono irónico que refleja la línea editorial de derecha de Letras Libres, aunque el tema principal es filosófico y no político.",
+      "focus_analysis": "El medio elige un ángulo existencial‑filosófico, explorando ideas de anti‑natalismo y literatura clásica; omite cualquier análisis político, económico o de salud pública.",
+      "focus_tags": [
+        "filosofía",
+        "literatura",
+        "existencialismo"
+      ],
+      "context": [
+        {
+          "label": "Metáfora del bacilo de Koch",
+          "text": "El término 'bacilo de Koch' alude al Mycobacterium tuberculosis, causante de la tuberculosis, y se usa aquí como símbolo metafórico de la muerte y el sufrimiento que la obra discute."
+        },
+        {
+          "label": "Tradición anti‑natalista",
+          "text": "El ensayo se inscribe en una tradición de pensamiento anti‑natalista que incluye a Schopenhauer, Camus y autores clásicos que han argumentado que no haber nacido es preferible a una vida de miseria."
+        },
+        {
+          "label": "Línea editorial de Letras Libres",
+          "text": "Letras Libres es una revista cultural mexicana conocida por su postura conservadora‑liberal y por publicar ensayos que combinan crítica social con referencias a la tradición occidental."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "ac87beccffe0",
+      "title": "¿WhatsApp se quedó sin espacio? Así puedes liberar almacenamiento sin borrar conversaciones importantes",
+      "summary": "El artículo de El Economista explica paso a paso cómo los usuarios pueden liberar espacio en sus dispositivos Android o iOS usando las herramientas internas de WhatsApp, sin necesidad de borrar conversaciones completas.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/tecnologia/whatsapp-quedo-espacio-asi-puedes-liberar-almacenamiento-borrar-conversaciones-importantes-20260801-826164.html",
+      "published_at": "2026-08-01T17:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono descriptivo y neutral, sin palabras cargadas ni citas a fuentes controversiales; se centra en instrucciones técnicas y no muestra preferencia ideológica.",
+      "focus_analysis": "El medio opta por un ángulo práctico y tecnológico, ofreciendo una guía de uso; no aborda aspectos de privacidad, seguridad de datos o implicaciones económicas del consumo de almacenamiento.",
+      "focus_tags": [
+        "almacenamiento WhatsApp",
+        "guía práctica",
+        "tecnología móvil"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "El crecimiento del uso de multimedia en los smartphones ha llevado a que muchas aplicaciones, incluido WhatsApp, ocupen cada vez más espacio de almacenamiento."
+        },
+        {
+          "label": "dato comparativo",
+          "text": "WhatsApp incorpora desde hace varios años una sección de \"Administrar almacenamiento\" que permite a los usuarios identificar y eliminar archivos pesados o duplicados."
+        },
+        {
+          "label": "postura externa",
+          "text": "Otros medios, como El Androide Libre, destacan las nuevas funcionalidades de WhatsApp, como el widget de notas de voz, lo que muestra que la plataforma sigue ampliando sus herramientas para mejorar la experiencia del usuario."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
+    {
+      "id": "cbc5747c46bb",
+      "title": "La ciencia lo tiene claro: una camiseta negra te puede dar menos calor que una blanca (si sabes cómo usarla)",
+      "summary": "Xataka explica que una camiseta negra puede resultar menos calurosa que una blanca cuando la prenda es holgada, pues el aire caliente circula por un efecto de chimenea, mientras que la ropa ajustada dificulta la convección y aumenta la sensación de calor.",
+      "category": "sociedad",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/medicina-y-salud/ciencia-tiene-claro-camiseta-negra-te-puede-dar-calor-que-blanca-sabes-como-usarla",
+      "published_at": "2026-08-01T17:01:43+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo presenta la información de forma objetiva, basándose en estudios científicos y evitando lenguaje cargado o selección de fuentes con inclinación política.",
+      "focus_analysis": "El medio se centra en la explicación física y práctica del confort térmico, dejando de lado aspectos de moda o culturales.",
+      "focus_tags": [
+        "confort térmico",
+        "ciencia de la ropa",
+        "efecto chimenea"
+      ],
+      "context": [
+        {
+          "label": "creencia popular",
+          "text": "Se asume habitualmente que la ropa clara es más fresca porque refleja la luz solar, mientras que la oscura la absorbe y genera calor."
+        },
+        {
+          "label": "estudio Nature 1980",
+          "text": "Una investigación publicada en Nature en 1980 midió a beduinos en el desierto del Sinaí con túnicas blancas y negras, encontrando que, pese a que la negra se calienta más, el calor neto que llega a la piel es similar gracias a la circulación de aire."
+        },
+        {
+          "label": "recomendaciones prácticas",
+          "text": "Los expertos aconsejan usar prendas holgadas de materiales transpirables como algodón o lino, sin importar el color, para mejorar la ventilación y reducir la sensación de calor en verano."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "3a15f4d9015f",
+      "title": "Fútbol de ascenso bajo el agua: las exóticas imágenes del partido de Primera C que se jugó en pleno temporal",
+      "summary": "Los equipos de la Primera C de Argentina, Mercedes y Estrella del Sur, disputaron un encuentro bajo una fuerte tormenta que inundó el estadio Municipal de Mercedes, terminando el partido 1-1 después de una interrupción y reanudación por parte del árbitro.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/01/futbol-de-ascenso-bajo-el-agua-las-exoticas-imagenes-del-partido-de-primera-c-que-se-jugo-en-pleno-temporal/",
+      "published_at": "2026-08-01T17:12:16+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos deportivos sin usar vocabulario cargado ni presentar opiniones políticas, manteniendo un tono objetivo y descriptivo.",
+      "focus_analysis": "El medio se centró en la novedad y el dramatismo del juego bajo condiciones climáticas extremas, destacando la experiencia visual y el desarrollo del partido, dejando de lado análisis institucionales o económicos del torneo.",
+      "focus_tags": [
+        "fútbol",
+        "tormenta",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Liga Argentina Primera C",
+          "text": "La Primera C es la cuarta categoría del fútbol argentino, integrada por clubes semi‑profesionales que compiten por ascender a la Primera B Metropolitana."
+        },
+        {
+          "label": "Clima en la región de Mercedes",
+          "text": "Durante el invierno del hemisferio sur, la provincia de Buenos Aires experimenta lluvias intensas y tormentas que pueden generar inundaciones temporales en campos de juego."
+        },
+        {
+          "label": "Desarrollo de la jornada",
+          "text": "A pesar del temporal, la mayoría de los encuentros programados (9 de 11) se llevaron a cabo, mientras que sólo dos partidos fueron pospuestos por condiciones de campo intransitables."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "acdc5fa418f3",
+      "title": "¿Podrá romper la racha? Así le ha ido a la Liga MX en la historia de la Leagues Cup",
+      "summary": "La Liga MX, con dos títulos en la Leagues Cup, busca romper la racha de tres victorias consecutivas de la MLS en la edición 2026, que también otorga plazas para la Concacaf Champions Cup 2027.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/01/podra-romper-la-racha-asi-le-ha-ido-a-la-liga-mx-en-la-historia-de-la-leagues-cup/",
+      "published_at": "2026-08-01T17:12:17+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos y cronología del torneo sin usar lenguaje cargado ni referencias políticas, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El artículo se centra en la trayectoria histórica y la competencia deportiva entre la Liga MX y la MLS, dejando fuera la perspectiva de los aficionados y el impacto económico del torneo.",
+      "focus_tags": [
+        "Leagues Cup",
+        "Liga MX vs MLS",
+        "concacaf qualification"
+      ],
+      "context": [
+        {
+          "label": "historia",
+          "text": "Desde su inicio en 2019, la Leagues Cup ha sido ganada por Cruz Azul y León de la Liga MX, mientras que Inter Miami, Columbus Crew y Seattle Sounders de la MLS se han alzado campeones en 2023, 2024 y 2025."
+        },
+        {
+          "label": "concacaf",
+          "text": "El torneo otorga tres cupos para la Concacaf Champions Cup 2027 al campeón, subcampeón y tercer puesto, y el vencedor recibe un pase directo a los octavos de final de esa competición."
+        },
+        {
+          "label": "competitividad",
+          "text": "La MLS ha acumulado tres títulos consecutivos desde 2023, lo que ha intensificado la rivalidad y la intención de los clubes mexicanos de recuperar la supremacía regional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "69cd2197c433",
+      "title": "\"Tengo el corazón roto\": Paula Echevarría despide a su padre con un conmovedor video de ambos bailando",
+      "summary": "La actriz española Paula Echevarría rindió homenaje a su padre Luis Ángel Echevarría Muñiz mediante un emotivo video de ambos bailando publicado en Instagram, acompañándolo de un mensaje de profundo dolor.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/tengo-el-corazon-roto-paula-echevarria-despide-a-su-padre-con-un-conmovedor-video-de-ambos-bailando/",
+      "published_at": "2026-08-01T17:14:22+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en el duelo personal y la reacción de seguidores, sin usar lenguaje partidista ni citar fuentes con sesgo político; la cobertura es descriptiva y neutral.",
+      "focus_analysis": "El medio eligió un ángulo humano y emotivo, resaltando la pérdida y la respuesta del público en redes sociales, mientras omite cualquier enfoque económico, institucional o político.",
+      "focus_tags": [
+        "duelo",
+        "celebridad",
+        "redes sociales"
+      ],
+      "context": [
+        {
+          "label": "Perfil de la actriz",
+          "text": "Paula Echevarría es una conocida actriz española, protagonista de la serie de época \"Velvet\" y figura influyente en la moda y los medios digitales."
+        },
+        {
+          "label": "Antecedentes del fallecido",
+          "text": "Luis Ángel Echevarría Muñiz, padre de la actriz, trabajó como soldador y maquinista ferroviario en FEVE y falleció a los 76 años en Gijón, Asturias."
+        },
+        {
+          "label": "Reacción del público",
+          "text": "Tras la publicación, varios actores y seguidores, incluidos artistas mexicanos, expresaron su pésame en Instagram, evidenciando la amplia base de admiradores de la actriz."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "135a7b42d6a1",
       "title": "El mercado de pases de River Plate: los números de la compra de Tobías Andrada y los otros nombres que busca",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.2
-      }
-    },
-    {
-      "id": "e91bceccf4c4",
-      "title": "Garitas de Tijuana: cuál es el tiempo de espera para cruzar la frontera este 1 de agosto",
-      "summary": "Infobae México ofrece una actualización de los horarios y tiempos de espera en las tres principales garitas de Tijuana —San Ysidro, Otay Mesa y Chaparral—, información esencial para viajeros y transportistas que cruzan la frontera con Estados Unidos.",
-      "category": "internacional",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/01/garitas-de-tijuana-cual-es-el-tiempo-de-espera-para-cruzar-la-frontera-este-1-de-agosto/",
-      "published_at": "2026-08-01T16:15:50+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo se limita a datos horarios y de espera, usando un lenguaje neutral y sin cargar valoraciones políticas ni fuentes partidistas.",
-      "focus_analysis": "El medio se centra en la información logística de los cruces fronterizos, dejando de lado aspectos humanos o el impacto económico más amplio de los retrasos.",
-      "focus_tags": [
-        "cruce fronterizo",
-        "tiempo de espera",
-        "horarios"
-      ],
-      "context": [
-        {
-          "label": "Frontera México‑EE.UU.",
-          "text": "El cruce de Tijuana‑San Diego es el más transitado del planeta, con millones de vehículos y peatones que lo atraviesan diariamente."
-        },
-        {
-          "label": "CBP",
-          "text": "La Oficina de Aduanas y Protección Fronteriza de EE.UU. (CBP) establece los horarios y normas operativas de los puertos de entrada, incluyendo San Ysidro, Otay Mesa y Chaparral."
-        },
-        {
-          "label": "Impacto económico",
-          "text": "Los tiempos de espera en las garitas influyen en los costos de transporte y en la eficiencia del comercio transfronterizo, afectando a viajeros y a la industria logística."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "d3d62e1f45b9",
-      "title": "Harry Styles en CDMX: estos son los horarios y lista de objetos prohibidos para sus conciertos en el Estadio GNP Seguros",
-      "summary": "Infobae México informa sobre los horarios y la lista de objetos permitidos y prohibidos para los seis conciertos de Harry Styles en el Estadio GNP Seguros, recomendando a los asistentes llegar con anticipación y cumplir con las normas de seguridad.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/07/29/harry-styles-en-cdmx-estos-son-los-horarios-y-lista-de-objetos-permitidos-para-sus-conciertos-en-el-estadio-gnp-seguros/",
-      "published_at": "2026-08-01T15:58:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono neutro y descriptivo, sin palabras cargadas ni fuentes con sesgo; se centra exclusivamente en datos logísticos del evento.",
-      "focus_analysis": "El medio eligió un ángulo logístico y de seguridad, detallando horarios, accesos y objetos prohibidos, dejando de lado aspectos humanos o emocionales del concierto y cualquier contexto político o económico.",
-      "focus_tags": [
-        "logística de eventos",
-        "seguridad",
-        "conciertos"
-      ],
-      "context": [
-        {
-          "label": "tour_background",
-          "text": "Harry Styles' Together Together Tour es una serie de conciertos internacionales que incluye seis fechas en la Ciudad de México en agosto de 2026, atrayendo a miles de seguidores."
-        },
-        {
-          "label": "security_measures",
-          "text": "Los recintos de gran capacidad en México, como el Estadio GNP Seguros, suelen aplicar controles de acceso estrictos, prohibiendo objetos como mochilas grandes, botellas de vidrio y cámaras profesionales para garantizar la seguridad del público."
-        },
-        {
-          "label": "media_perspectives",
-          "text": "Infobae se centra en la información operativa, mientras que El Sol de México resaltó la satisfacción del artista pese a la lluvia, El Economista destacó posibles afectaciones viales y El Universal reflexionó sobre la trayectoria de Harry Styles."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "d8f0d7bd4661",
-      "title": "Retos estructurales condicionan el aprovechamiento del 'tech boom' en México: J.P. Morgan",
-      "summary": "Gabriel Lozano, economista jefe para México en J.P. Morgan, advierte que la falta de infraestructura, energía, agua, conectividad y la incertidumbre regulatoria y del T‑MEC podrían limitar que México aproveche el auge tecnológico y lo mantenga como ensamblador de bajo valor mientras EE. UU. captura los segmentos más avanzados.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/retos-estructurales-condicionan-aprovechamiento-tech-boom-mexico-j-p-morgan-20260801-826094.html",
-      "published_at": "2026-08-01T16:00:00+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto mantiene un tono técnico y neutral, citando a un experto sin usar lenguaje cargado ni enfatizar posiciones políticas, lo que indica una cobertura centrista con ligera inclinación pro‑mercado.",
-      "focus_analysis": "El medio se centra en el ángulo económico‑institucional, resaltando los cuellos de botella estructurales y la necesidad de inversión privada; se deja de lado el impacto social o laboral del tech boom.",
-      "focus_tags": [
-        "tech boom",
-        "estructura mexicana",
-        "inversión privada"
-      ],
-      "context": [
-        {
-          "label": "Acuerdo comercial T‑MEC",
-          "text": "El Tratado entre México, Estados Unidos y Canadá (T‑MEC) está en proceso de renegociación, lo que genera incertidumbre sobre las reglas del juego para la inversión y el comercio transfronterizo."
-        },
-        {
-          "label": "Crecimiento del PIB",
-          "text": "México registró un crecimiento del Producto Interno Bruto de aproximadamente 0,6 % en el último año, impulsado principalmente por la demanda externa."
-        },
-        {
-          "label": "Tendencia de nearshoring",
-          "text": "La región ha visto un aumento del nearshoring, con empresas buscando desplazar la producción a México, aunque la competencia por la fabricación de alta tecnología se concentra en EE. UU. y Canadá."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "19251feb8a86",
-      "title": "Un bacilo de Koch",
-      "summary": "El ensayista David Toscana, en la revista mexicana Letras Libres, reflexiona sobre la idea de que no haber nacido es preferible a una vida miserable, usando referencias a Dante, Miguel Ángel y la literatura clásica. El texto combina citas de filósofos y autores con una crítica irónica a la visión tradicional de la vida y la muerte.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/uncategorized/un-bacilo-de-koch/31/07/2026/",
-      "published_at": "2026-07-31T20:38:40+00:00",
-      "bias_score": -10,
-      "bias_reason": "El artículo emplea un tono intelectual y referencias culturales sin promover una agenda política clara, aunque su crítica a la autoridad religiosa y su enfoque en la dignidad humana reflejan una ligera inclinación progresista.",
-      "focus_analysis": "El medio eligió un ángulo filosófico‑cultural, centrado en la literatura y la reflexión existencial, dejando de lado cualquier análisis político o económico del tema.",
-      "focus_tags": [
-        "filosofía existencial",
-        "literatura clásica",
-        "crítica cultural"
-      ],
-      "context": [
-        {
-          "label": "Antinatalismo filosófico",
-          "text": "Pensadores como Schopenhauer y David Benatar han argumentado que la no‑nacimiento podría ser preferible a una vida de sufrimiento, una corriente que se refleja en el ensayo de Toscana."
-        },
-        {
-          "label": "Bacilo de Koch como metáfora",
-          "text": "El término 'bacilo de Koch' hace referencia al Mycobacterium tuberculosis descubierto por Robert Koch en 1882, utilizado aquí como símbolo de enfermedad y sufrimiento humano."
-        },
-        {
-          "label": "Letras Libres y su línea editorial",
-          "text": "Letras Libres es una revista cultural mexicana conocida por su enfoque crítico y de izquierda moderada, que suele publicar ensayos literarios y reflexiones filosóficas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.2
-      }
-    },
-    {
-      "id": "3d026a58db19",
-      "title": "Al menos nueve muertos en Ucrania por un ataque de misiles balísticos de Rusia sobre Kiev",
-      "summary": "Un ataque con misiles balísticos lanzado por Rusia contra la capital ucraniana, Kiev, dejó al menos nueve muertos y veintiocho heridos, según las autoridades locales.",
-      "category": "internacional",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/europa/20260801-al-menos-nueve-muertos-en-ucrania-por-un-ataque-de-misiles-bal%C3%ADsticos-de-rusia-sobre-kiev",
-      "published_at": "2026-08-01T15:58:12+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto se centra en las víctimas civiles y cita mayormente a funcionarios ucranianos, aunque también incluye declaraciones rusas, manteniendo un tono mayormente informativo sin lenguaje cargado.",
-      "focus_analysis": "El medio prioriza el impacto humano y la gravedad del ataque, dejando de lado el análisis económico o militar más profundo.",
-      "focus_tags": [
-        "civiles",
-        "ataque balístico",
-        "Kiev"
-      ],
-      "context": [
-        {
-          "label": "Conflicto Ucrania‑Rusia",
-          "text": "Desde la invasión rusa en febrero de 2022, Ucrania ha sufrido cientos de ataques aéreos y misiles contra ciudades, con Kiev siendo un objetivo recurrente."
-        },
-        {
-          "label": "Respuesta ucraniana",
-          "text": "El gobierno ucraniano ha solicitado apoyo internacional en sistemas de defensa aérea y ha intensificado sus contraofensivas para presionar a Moscú."
-        },
-        {
-          "label": "Cobertura de DW Español",
-          "text": "Otro medio, DW Español, también informó del mismo ataque, subrayando la alta amenaza y el número de heridos, lo que muestra una visión similar centrada en la vulnerabilidad de la población."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "c1113224a436",
-      "title": "Marina de Tavira comparte su visión del arte y la actuación en conferencia magistral del GIFF",
-      "summary": "Marina de Tavira, actriz mexicana, ofreció una conferencia magistral en el Festival Internacional de Cine Guanajuato (GIFF) donde reflexionó sobre la entrega emocional y la construcción de personajes, resaltando la importancia de contar historias que realmente quiera compartir.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/espectaculos/2026/08/01/marina-de-tavira-conferencia-magistral-giff-actuacion-1826336.html",
-      "published_at": "2026-08-01T16:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono elogioso y descriptivo, sin emplear lenguaje cargado ni presentar opiniones políticas; se centra en la experiencia personal y profesional de la actriz.",
-      "focus_analysis": "El medio eligió un ángulo humano y artístico, destacando la visión personal de la actriz sobre la actuación y la narrativa; quedó fuera cualquier análisis económico, institucional o de controversias del sector cinematográfico.",
-      "focus_tags": [
-        "arte",
-        "actuación",
-        "entrevista"
-      ],
-      "context": [
-        {
-          "label": "Festival Internacional de Cine Guanajuato (GIFF)",
-          "text": "El GIFF es un evento anual que reúne a cineastas y artistas de México y del mundo, ofreciendo espacios de diálogo y presentación de obras, así como conferencias magistrales con figuras destacadas del sector."
-        },
-        {
-          "label": "Programa Mujeres en el Cine y la Televisión",
-          "text": "Este programa del GIFF reconoce y celebra la contribución de mujeres en la industria audiovisual, otorgando premios como la Cruz de Plata a profesionales destacadas."
-        },
-        {
-          "label": "Luis de Tavira",
-          "text": "Luis de Tavira, director de teatro y tío de Marina de Tavira, es una figura influyente en el teatro mexicano que ha inspirado a la actriz desde su infancia a través de su trabajo y enseñanzas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
