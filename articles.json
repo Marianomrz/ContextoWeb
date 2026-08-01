@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-01T16:21:14.960324+00:00",
+  "generated_at": "2026-08-01T16:37:53.268810+00:00",
   "articles": [
+    {
+      "id": "19251feb8a86",
+      "title": "Un bacilo de Koch",
+      "summary": "El ensayo de David Toscana en Letras Libres reflexiona sobre la idea de que no haber nacido o morir pronto es preferible, citando a filósofos y autores clásicos como Dante, Calderón y Séneca, y concluye con una lista irónica de cosas de lasarse no ser, entre ellas un bacilo de Koch.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/uncategorized/un-bacilo-de-koch/31/07/2026/",
+      "published_at": "2026-07-31T20:38:40+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto muestra una crítica sutil a instituciones religiosas y autoritarias (Opus Dei, nazarenos) y adopta una postura humanista y anti‑dogmática, pero su enfoque principal es literario y filosófico, sin un discurso político marcado.",
+      "focus_analysis": "Letras Libres opta por un ángulo existencial y literario, explorando la relación entre vida, muerte y cultura, dejando de lado cualquier análisis político o social concreto.",
+      "focus_tags": [
+        "filosofía existencial",
+        "crítica religiosa",
+        "referencias literarias"
+      ],
+      "context": [
+        {
+          "label": "Metáfora del bacilo de Koch",
+          "text": "El bacilo de Koch, nombre del agente causante de la tuberculosis, se utiliza metafóricamente en el ensayo para representar una carga indeseable o una maldición que se prefiere evitar, en línea con la tradición de emplear enfermedades como símbolos de sufrimiento humano."
+        },
+        {
+          "label": "Tradición anti‑natalista en la literatura",
+          "text": "Desde la antigüedad, autores como Eurípides, Calderón de la Barca y Dante han explorado la idea de que no haber nacido o morir pronto puede ser una liberación, una corriente que el ensayo revive y contextualiza en la cultura contemporánea."
+        },
+        {
+          "label": "Perfil editorial de Letras Libres",
+          "text": "Letras Libres es una revista cultural y de opinión mexicana reconocida por su enfoque intelectual y a menudo crítico con el poder y la religión, lo que influye en la selección de temas y el tono reflexivo de sus artículos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "81fdee098ac0",
+      "title": "Cómo extraer las ideas clave de un libro en formato ePub con Gemini Notebook (NotebookLM)",
+      "summary": "El artículo de Hipertextual explica cómo usar Gemini Notebook, la nueva versión de NotebookLM de Google, para subir archivos ePub y generar resúmenes, preguntas, flashcards y otros contenidos mediante IA, indicando también los límites de la versión gratuita.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/guias/extraer-contenido-libro-documento-epub-gemini-notebook-notebooklm/",
+      "published_at": "2026-08-01T16:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es descriptivo y técnico, sin usar un cargadas ni citar fuentes con sesgo político; se centra en funcionalidades del producto y sus limitaciones.",
+      "focus_analysis": "El medio eló el aspecto tecnológico y de productividad de la herramienta, dejando de lado la discusión sobre implicaciones éticas o de privacidad del uso de IA en contenido protegido.",
+      "focus_tags": [
+        "tecnología IA",
+        "productividad",
+        "ePub"
+      ],
+      "context": [
+        {
+          "label": "producto",
+          "text": "Gemini Notebook es parte de la estrategia de Google para integrar IA generativa en sus aplicaciones de productividad, sustituyendo a NotebookLM y ofreciendo funciones como resúmenes automáticos y generación de flashcards."
+        },
+        {
+          "label": "formato",
+          "text": "El formato ePub es uno de los estándares más usados para libros electrónicos, pero muchos de ellos están protegidos por DRM, lo que impide que herramientas como Gemini Notebook los procesen sin autorización."
+        },
+        {
+          "label": "comparación",
+          "text": "A diferencia de otras soluciones de IA como ChatGPT o Claude, que requieren copiar texto manualmente, Gemini Notebook permite subir directamente el archivo completo y trabajar con él dentro de un cuaderno, aunque con límites de palabras y número de consultas diarias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "2fa5dd2646e6",
+      "title": "¿Cerveza de plátano o amaranto? UNAM desarrolla bebidas con ingredientes poco convencionales",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) está probando cervezas elaboradas con plátano sobremadurado, amaranto, camote, yuca y calabaza para crear bebidas más nutritivas y reducir el desperdicio alimentario. El proyecto, liderado por el investigador Agustín Reyo Herrera, busca medir científicamente los cambios en propiedades y la aceptación sensorial de estas nuevas formulaciones.",
+      "category": "tecnologia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/bistronomie/cerveza-platano-amaranto-unam-desarrolla-bebidas-ingredientes-poco-convencionales-20260801-826163.html",
+      "published_at": "2026-08-01T16:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo emplea un tono informativo y técnico, sin juicios de valor ni lenguaje cargado, y se centra en la investigación y sus beneficios, lo que indica una cobertura neutra.",
+      "focus_analysis": "El medio enfatiza el aspecto científico y ambiental del proyecto, resaltando la innovación y la reducción de residuos, mientras deja de lado la perspectiva comercial o la reacción del mercado consumidor.",
+      "focus_tags": [
+        "innovación alimentaria",
+        "nutrición",
+        "ciencia cervecera"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "México es el cuarto productor mundial de cerveza, detrás de Estados Unidos, China y Brasil, y exporta alrededor del 80 % de su producción."
+        },
+        {
+          "label": "dato comparativo",
+          "text": "Cada año se desperdician en México cerca de 2 000 toneladas de plátano sobremadurado, que aún contiene potasio, fibra y azúcares fermentables."
+        },
+        {
+          "label": "postura de otro actor",
+          "text": "Universidades y microcervecerías en el mundo están explorando el uso de granos y vegetales no tradicionales, como quinoa o avena, para crear cervezas con perfiles nutricionales diferentes."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "8a39e6f7c267",
+      "title": "Liga MX: Horarios y canales para ver EN VIVO la jornada 3, HOY, sábado 1 de agosto",
+      "summary": "El Universal publica los horarios y canales para ver en vivo los cuatro partidos de la jornada 3 de la Liga MX del torneo Apertura 2026, incluyendo los encuentros de Querétaro vs Tigres, Atlas vs Rayados, León vs Pachuca y Cruz Azul vs Atlante.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/liga-mx-horarios-y-canales-para-ver-en-vivo-la-jornada-3-hoy-sabado-1-de-agosto/",
+      "published_at": "2026-08-01T16:14:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar horarios y transmisiones sin usar lenguaje cargado ni citar fuentes con orientación política.",
+      "focus_analysis": "El medio se centra en la información práctica de transmisión de los partidos, dejando de lado análisis deportivos o comentarios sobre el desempeño de los equipos.",
+      "focus_tags": [
+        "deportes",
+        "horarios",
+        "canales"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del torneo",
+          "text": "La jornada 3 se enmarca dentro del Apertura 2026, donde equipos como Pumas y Chivas ya mostraron resultados destacados en la jornada anterior."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Economista también informó sobre los partidos, resaltando que varios equipos llegan invictos al tercer día del torneo."
+        },
+        {
+          "label": "Derechos de transmisión",
+          "text": "En México, los partidos de la Liga MX se difunden tanto por televisión abierta como por plataformas de streaming, con canales como FOX One, Canal 5, TUDN y ViX."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "fcabc033f8c2",
+      "title": "Boca Juniors mudará su localía mientras avanza la recuperación del césped de la Bombonera: el estadio elegido",
+      "summary": "Boca Juniors jugará sus próximos partidos como local en el estadio Tomás Adolfo Ducó de Huracán mientras se reparan los problemas de césped de la Bombonera, una medida tomada tras la mala condición del terreno en el duelo contra O’Higgins.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/01/boca-juniors-mudara-su-localia-mientras-avanza-la-recuperacion-del-cesped-de-la-bombonera-el-estadio-elegido/",
+      "published_at": "2026-08-01T16:22:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva y neutral, sin usar vocabulario cargado ni favorecer a ninguna parte.",
+      "focus_analysis": "El medio se centra en el aspecto logístico y técnico del cambio de estadio y la reparación del césped, dejando de lado la repercusión emocional en los hinchas y la posible ventaja competitiva.",
+      "focus_tags": [
+        "estadio",
+        "cambio de localía",
+        "Copa Sudamericana"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento reciente",
+          "text": "Boca Juniors avanzó a octavos de final de la Copa Sudamericana tras eliminar a O’Higgins en penales, lo que intensificó la necesidad de un campo en condiciones óptimas para los próximos compromisos."
+        },
+        {
+          "label": "Problemas históricos del césped",
+          "text": "La Bombonera ha enfrentado dificultades recurrentes con su césped, incluyendo un resembrado fallido en 2024 que obligó al club a usar el Nuevo Gasómetro de San Lorenzo para un partido contra Sarmiento."
+        },
+        {
+          "label": "Impacto en la afluencia de público",
+          "text": "El Ducó de una capacidad inferior a la Bombonera (aproximadamente 50 000 vs. 60 000 espectadores), lo que obligará a Boca a ajustar la gestión de entradas y la logística para sus socios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "6b1d2e7999fe",
+      "title": "Vinculan a proceso a extesorero de Apaseo el Alto por desfalco de $107 millones",
+      "summary": "El tesorero municipal Jaime “N” de Apaseo el Alto, Guanajuato, fue vinculado a proceso por peculado y enriquecimiento ilícito, con un presunto daño patrimonial de 107 millones de pesos, y puesto en prisión preventiva mientras avanza la investigación.",
+      "category": "politica",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/guanajuato-sur/2026/08/01/vinculan-a-proceso-a-extesorero-de-apaseo-el-alto-por-desfalco-de-107-millones-1826420.html",
+      "published_at": "2026-08-01T16:28:13+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo utiliza un lenguaje mayormente descriptivo, cita exclusivamente a autoridades oficiales y no emplea adjetivos cargados ni opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y legal, describiendo el proceso judicial y la respuesta de la Fiscalía, mientras deja de lado el impacto humano o social del presunto desfalco en la comunidad.",
+      "focus_tags": [
+        "corrupción municipal",
+        "proceso penal",
+        "prisión preventiva"
+      ],
+      "context": [
+        {
+          "label": "marco legal",
+          "text": "En México, el delito de peculado está tipificado en el Código Penal Federal y suele conllevar penas de prisión y multas, especialmente cuando supera los 100 millones de pesos, como ocurre en este caso."
+        },
+        {
+          "label": "situación financiera del municipio",
+          "text": "Apaseo el Alto, con una población de alrededor de 70 000 habitantes, depende en gran medida de recursos estatales y locales; pérdidas de este nivel pueden afectar la prestación de servicios públicos y la ejecución de obras municipales."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Otro medio, El Universal, también informó sobre el caso, poniendo mayor énfasis en la cifra exacta del presunto desfalco y en la medida de prisión preventiva impuesta, reforzando la gravedad del hecho."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "ab56f29feea6",
+      "title": "Un farol en la niebla: la sátira fantasma de “Los siete lunas de Maali Almeida”",
+      "summary": "A lantern bobbing on a storm‑tossed sea, its light trembling like a secret confession. In Shehan Karunatilaka’s novel the glow pierces the darkness of Sri Lankan history, turning ghosts into witnesses of absurdity.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-01T16:37:09.163386+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, a cuatro años del Premio Booker, la obra vuelve a resonar porque la política sigue siendo un teatro de sombras donde la risa se vuelve resistencia. Elegí este libro para mostrar cómo la ficción puede iluminar la culpa colectiva sin perder la ironía.",
+      "focus_tags": [
+        "satire",
+        "Sri Lanka",
+        "contemporary fiction"
+      ],
+      "context": [
+        {
+          "label": "Autor y trayectoria",
+          "text": "Shehan Karunatilaka, nacido en Colombo en 1975, combina periodismo y humor negro; su primera novela, “Chinaman”, ya anunciaba una voz crítica y experimental."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si buscas reson resonancia, prueba “El libro de los abrazos” de Eduardo Galeano, que también entrelaza testimonios ficticios con crónica social."
+        },
+        {
+          "label": "Contexto histórico",
+          "text": "Los años de la guerra civil de Sri Lanka (1983‑2009) forman el telón de fondo del relato; la pieza mezcla recuerdos reales con la imaginación de los muertos para cuestionar la memoria oficial."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "19251feb8a86",
       "title": "Un bacilo de Koch",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "a82d583e42b8",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Se eleva a 67 el número de migrantes muertos tras la entrada masiva en la ciudad",
-      "summary": "El Ministerio del Interior de España comunicó que la cifra de migrantes fallecidos tras la masiva entrada a la ciudad autónoma de Ceuta ha subido a 67, mientras que cerca de 48 000 de los casi 50 000 que llegaron ya han sido repatriados a Marruecos.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-01T15:34:56+00:00",
-      "bias_score": -25,
-      "bias_reason": "El texto enfatiza el número de muertos y la necesidad de una respuesta humanitaria, incluye críticas del presidente Sánchez a otros gobiernos y presenta la postura del PP como acusatoria, lo que refleja una ligera tendencia hacia la izquierda en la selección de fuentes y el encuadre.",
-      "focus_analysis": "El medio se centra en la dimensión humanitaria de la crisis y en el debate político entre el Gobierno y la oposición, dejando de lado el impacto económico o los aspectos de seguridad fronteriza.",
-      "focus_tags": [
-        "crisis migratoria",
-        "Ceuta",
-        "política europea"
-      ],
-      "context": [
-        {
-          "label": "Geográfico",
-          "text": "Ceuta es una ciudad autónoma española situada en la costa norte de África, fronteriza con Marruecos, y ha sido históricamente un punto de paso para flujos migratorios irregulares."
-        },
-        {
-          "label": "Político",
-          "text": "El Gobierno de Pedro Sánchez ha solicitado una reunión urgente de los ministros de Interior de la UE, mientras que el líder del PP, Alberto Núñez Feijóo, ha calificado la llegada masiva como una ocupación premeditada, y el Tribunal Supremo ha dictado la instalación de barreras flotantes para evitar nuevas entradas por mar."
-        },
-        {
-          "label": "Comparativo",
-          "text": "Otros medios como la BBC han destacado los esfuerzos de normalización y los retornos a Marruecos, Expansión ha puesto énfasis en el número de personas que ingresaron ilegalmente, y France24 ha informado sobre los regresos voluntarios y denuncias de agresiones, mostrando distintas prioridades informativas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "d30cc8cb1552",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México sábado 1 de agosto: cateo en Sinaloa deja arma larga, cartuchos y cámaras irregulares",
-      "summary": "Infobae México reportó que durante un operativo en Novolato, Sinaloa, la Base de Operaciones Interinstitucional incautó un fusil AK‑47, cargadores, cartuchos y retiró cinco cámaras de videovigilancia instaladas irregularmente, mientras que en el mismo día se anunciaron otros sucesos de seguridad como la confesión de culpabilidad de Antonio Oseguera Cervantes y la alerta de viaje de la Embajada de EE. UU. para Michoacán.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/01/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-sabado-1-de-agosto-estados-unidos-felicita-a-mexico-por-la-captura-de-el-r1/",
-      "published_at": "2026-08-01T15:12:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos policiales y judiciales con un lenguaje objetivo y sin citar fuentes con carga ideológica, manteniendo un tono informativo neutral.",
-      "focus_analysis": "El medio centra su cobertura en la seguridad pública y las acciones contra el narcotráfico, dejando de lado análisis político o económico del fenómeno.",
-      "focus_tags": [
-        "seguridad pública",
-        "narcotráfico",
-        "operativo policial"
-      ],
-      "context": [
-        {
-          "label": "Antecedente judicial",
-          "text": "Antonio Oseguera Cervantes, hermano del capo de Sinaloa conocido como “El Mencho”, admitió en un tribunal de Washington haber traficado más de 450 kg de cocaína a EE. UU. durante 24 años."
-        },
-        {
-          "label": "Advertencia de viaje",
-          "text": "El Departamento de Estado de EE. UU. emitió una alerta de nivel 4 (No viajar) para el estado de Michoacán, citando bloqueos de carreteras y actividad delictiva que podría escalar."
-        },
-        {
-          "label": "Medidas electorales",
-          "text": "El Instituto Nacional Electoral aprobó la creación de una Comisión de Verificación de Integridad en Candidaturas para detectar vínculos con el narcotráfico de cara a las elecciones de 2027."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "19251feb8a86",
-      "title": "Un bacilo de Koch",
-      "summary": "El autor David Toscana, en la revista Letras Libres, reflexiona sobre el anti‑natalismo y la valoración del sufrimiento mediante referencias a Dante, el Bosco y otros autores, cerrando con una ironía sobre la vida y la muerte.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/uncategorized/un-bacilo-de-koch/31/07/2026/",
-      "published_at": "2026-07-31T20:38:40+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en una reflexión filosófica y literaria sin usar lenguaje cargado ni citar fuentes políticas, manteniendo un tono neutral y sin favorecer a ninguna corriente ideológica.",
-      "focus_analysis": "El artículo el un ángulo filosófico‑cultural, explorando ideas anti‑natalistas y referencias artísticas, mientras deja de lado cualquier análisis científico del bacilo de Koch o discusiones de política pública sobre salud.",
-      "focus_tags": [
-        "filosofía",
-        "anti-natalismo",
-        "cultura literaria"
-      ],
-      "context": [
-        {
-          "label": "tradición anti‑natalista",
-          "text": "Pensadores como Schopenhauer y David Benatar han argumentado que la no‑nacimiento es preferible al sufrimiento, una corriente que se refleja en la discusión del autor."
-        },
-        {
-          "label": "metáfora del bacilo en la literatura",
-          "text": "El término 'bacilo de Koch' ha sido usado metafóricamente por escritores para simbolizar plagas o males invisibles, como ocurre en la obra de Dante y del Bosco."
-        },
-        {
-          "label": "línea editorial de Letras Libres",
-          "text": "Letras Libres se caracteriza por ensayos culturales y políticos con una perspectiva crítica y a menudo de izquierda, pero sin alinearse a partidos específicos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "8e78a18a3e8b",
-      "title": "Acinetobacter baumannii, la superbacteria global que infecta y mata a pacientes en hospitales",
-      "summary": "Un estudio del Centro de Ciencias Genómicas de la UNAM reveló que la bacteria Acinetobacter baumannii, considerada una superbacteria, se encuentra en más de 95 fuentes diferentes y afecta a más de 30 especies animales, además de plantas, agua y alimentos, lo que representa un riesgo serio para la salud pública y los pacientes hospitalizados.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/arteseideas/acinetobacter-baumannii-superbacteria-global-infecta-mata-pacientes-hospitales-20260801-826157.html",
-      "published_at": "2026-08-01T15:00:00+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo utiliza un tono mayormente objetivo, citando datos científicos y declaraciones de investigadores sin emplear vocabulario cargado ni presentar opiniones políticas, lo que indica una cobertura centrada y sin sesgo evidente.",
-      "focus_analysis": "El medio se enfocó en el aspecto sanitario y científico de la bacteria, destacando su resistencia a antibióticos y su potencial zoonótico, mientras dejó de lado consideraciones económicas o de política sanitaria.",
-      "focus_tags": [
-        "salud pública",
-        "bacterias resistentes",
-        "código genómico"
-      ],
-      "context": [
-        {
-          "label": "clasificación OMS",
-          "text": "La Organización Mundial de la Salud incluye a Acinetobacter baumannii en la lista de patógenos críticos que requieren desarrollo de nuevos antibióticos."
-        },
-        {
-          "label": "resistencia antimicrobiana",
-          "text": "La resistencia a los antibióticos es una amenaza global que ha llevado a la ONU a considerarla una de las mayores emergencias sanitarias del siglo XXI."
-        },
-        {
-          "label": "transmisión zoonótica",
-          "text": "Otros patógenos, como el Staphylococcus aureus resistente a meticilina (MRSA), han demostrado transmisión entre humanos y animales, subrayando la importancia de la vigilancia intersectorial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "d5058ee6a95e",
-      "title": "Decomisan gomitas con THC, principal compuesto del cannabis en Aeropuerto de Toluca; cargamento venía del extranjero",
-      "summary": "Las autoridades federales, en coordinación con la Agencia de Aduanas de México, incautaron 240 gomitas con THC en la aduana del Aeropuerto Internacional de Toluca, procedentes del extranjero, y entregaron la evidencia al Ministerio Público para su investigación.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/decomisan-gomitas-con-thc-principal-compuesto-del-cannabis-en-aeropuerto-de-toluca-cargamento-venia-del-extranjero/",
-      "published_at": "2026-08-01T15:07:56+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto enfatiza la acción de seguridad y la autoridad de los cuerpos policiales y aduaneros, omitiendo perspectivas de salud pública o de la demanda, y utiliza un lenguaje neutro pero centrado en la criminalidad, lo que indica un leve sesgo a favor del discurso de seguridad.",
-      "focus_analysis": "El medio se concentra en la operación de control y el combate al narcotráfico, dejando fuera el contexto de políticas de drogas y la posible discusión sobre el uso medicinal o regulatorio del cannabis.",
-      "focus_tags": [
-        "seguridad pública",
-        "narcotráfico",
-        "aduanas"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de incautaciones en Toluca",
-          "text": "A pocos días de este decomiso, la aduana del mismo aeropuerto había asegurado tres kilos de metanfetamina ocultos en una pieza metálica, lo que muestra un patrón de operaciones de contrabando en esa zona."
-        },
-        {
-          "label": "Colaboración interinstitucional",
-          "text": "Según La Jornada, la captura fue resultado de un operativo conjunto entre la Agencia de Aduanas, la Guardia Nacional y las secretarías de Defensa Nacional y Seguridad Ciudadana, subrayando la coordinación entre distintas fuerzas de seguridad."
-        },
-        {
-          "label": "Marco legal y de salud",
-          "text": "La Comisión Nacional de Salud Mental y Adicciones indica que el THC es el principal compuesto psicoactivo del cannabis, aunque la legislación mexicana permite usos medicinales bajo regulación estricta."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "a82d583e42b8",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Se eleva a 67 el número de migrantes muertos tras la entrada masiva a Ceuta",
-      "summary": "El paso de migrantes a Ceuta se intensificó, con 67 fallecidos y la decisión de Marruecos de cerrar el cruce, mientras el presidente de la Junta de Galicia, Feijóo, acusa al Gobierno de una ocupación premeditada y el presidente Sánchez envía una que a la UE para protestar contra la actitud de algunos países ante la crisis migratoria.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-01T15:13:02+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto enfatiza la disputa política entre la oposición y el Gobierno, citando a Feijóo y a Sánchez, y presenta la crisis como una falla gubernamental, lo que refleja una inclinación levemente progresista típica de El País.",
-      "focus_analysis": "El medio se centra en la dimensión política y institucional de la crisis migratoria, resaltando las reacciones de los líderes españoles y la postura de Marruecos, dejando en segundo plano la situación humanitaria de los migrantes.",
-      "focus_tags": [
-        "política migratoria",
-        "respuesta institucional",
-        "crisis humanitaria"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Ceuta",
-          "text": "Ceuta, una ciudad autónoma española en el norte de África, ha experimentado episodios recurrentes de llegadas masivas de migrantes, como el flujo de 2021 que provocó la intervención de la Guardia Civil y la movilización de recursos de la UE."
-        },
-        {
-          "label": "Política migratoria de la UE",
-          "text": "La Unión Europea ha presionado a los países vecinos, especialmente a Marruecos, para que cooperen en la contención de flujos migratorios, ofreciendo financiación y acuerdos de retorno que a menudo generan tensiones diplomáticas."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Mientras El País se centra en la confrontación política interna, medios como BBC News Mundo y France24 destacan el número de fallecidos y los esfuerzos de los migrantes por regresar voluntariamente, subrayando el aspecto humanitario del episodio."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "4787344bf422",
-      "title": "Quién es Javier de la Fuente Hernández, el nuevo secretario general de la UNAM, y cuáles serán sus funciones",
-      "summary": "Javier de la Fuente Hernández, profesor de la UNAM, fue designado como nuevo secretario general de la Universidad Nacional Autónoma de México, sustituyendo a Patricia Dávila, y asumirá funciones de coordinación académica y administrativa.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/01/quien-es-javier-de-la-fuente-hernandez-el-nuevo-secretario-general-de-la-unam-y-cuales-seran-sus-funciones/",
-      "published_at": "2026-08-01T15:13:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo emplea un tono descriptivo y neutral, citando solo a la UNAM y al rector, sin usar vocabulario cargado ni presentar opiniones partidistas.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y de gestión de la UNAM, describiendo la trayectoria y funciones del nuevo secretario, dejando de lado la reacción de la comunidad estudiantil y el contexto político del examen de ingreso.",
-      "focus_tags": [
-        "UNAM",
-        "cambio administrativo",
-        "educación superior"
-      ],
-      "context": [
-        {
-          "label": "Predecesor",
-          "text": "Patricia Dávila ocupó el cargo de secretario general de la UNAM durante tres años y presentó su renuncia en agosto de 2026, tras controversias relacionadas con los exámenes de ingreso."
-        },
-        {
-          "label": "Controversia del examen",
-          "text": "La UNAM anunció la realización de un examen de control ante anomalías detectadas en los resultados de los exámenes de ingreso a licenciatura, lo que generó críticas y sospechas de irregularidades."
-        },
-        {
-          "label": "Cobertura externa",
-          "text": "Otros medios, como Aristegui Noticias, destacaron la destitución de la secretaria general y la polémica del examen, enfocándose más en el escándalo que en la trayectoria del nuevo nombrado."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
