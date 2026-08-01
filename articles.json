@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-01T03:21:10.904293+00:00",
+  "generated_at": "2026-08-01T03:41:04.646170+00:00",
   "articles": [
+    {
+      "id": "26e7ee85e0e0",
+      "title": "LG se defiende tras ser acusada de instalar anuncios sin permiso en tu PC",
+      "summary": "LG, el fabricante surcoreano de monitores, fue acusado de instalar una aplicación que mostraba publicidad de McAfee sin el consentimiento de los usuarios; tras la presión de Microsoft y la comunidad, la empresa acordó desactivar esos anuncios y aclaró que su instalador no recopila datos personales.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/tecnologia/lg-respuesta-adware-monitores/",
+      "published_at": "2026-07-31T22:30:00+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto emplea términos negativos como \"adware\" y \"instalación silenciosa\" y destaca la crítica de usuarios y la presión de Microsoft, lo que muestra un sesgo ligeramente desfavorable hacia LG.",
+      "focus_analysis": "El artículo se centra en el aspecto de seguridad y protección del consumidor respecto a la instalación no autorizada de software, dejando de lado el impacto comercial o estratégico para LG.",
+      "focus_tags": [
+        "adware",
+        "software preinstalado",
+        "Windows 11"
+      ],
+      "context": [
+        {
+          "label": "Función de Windows 11",
+          "text": "Windows 11 permite que los fabricantes instalen automáticamente aplicaciones asociadas a dispositivos compatibles, sin notificar al usuario, lo que ha sido aprovechado por varias marcas para distribuir software adicional."
+        },
+        {
+          "label": "Precedentes de software no deseado",
+          "text": "En años anteriores, fabricantes como Lenovo y HP fueron señalados por incluir programas publicitarios o de seguimiento en sus drivers, generando controversias similares sobre la instalación silenciosa de software."
+        },
+        {
+          "label": "Política de Microsoft contra adware",
+          "text": "Microsoft ha reforzado recientemente sus directrices para evitar la distribución de software no deseado en Windows, interviniendo cuando detecta prácticas que vulneran la experiencia del usuario."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "3c28905113be",
+      "title": "3 asuntos que históricamente han tensado las relaciones entre España y Marruecos",
+      "summary": "El artículo de BBC News Mundo explica que los principales puntos de fricción entre España y Marruecos son el estatus del Sáhara Occidental, las reivindicaciones sobre los enclaves de Ceuta y Melilla y la gestión de los flujos migratorios en la frontera del norte de África.",
+      "category": "internacional",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cp3rexne911o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-01T02:53:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono descriptivo y cita fuentes oficiales sin lenguaje cargado, presentando los hechos de forma equilibrada.",
+      "focus_analysis": "El medio se centra en los aspectos políticos y territoriales que marcan la relación bilateral, dejando de lado la perspectiva humanitaria de los migrantes.",
+      "focus_tags": [
+        "política internacional",
+        "territorios en disputa",
+        "migración"
+      ],
+      "context": [
+        {
+          "label": "histórico",
+          "text": "Ceuta y Melilla son enclaves españoles en el norte de África bajo soberanía española desde el siglo XV, lo que genera reclamos de soberanía por parte de Marruecos."
+        },
+        {
+          "label": "conflicto Sáhara Occidental",
+          "text": "El Sáhara Occidental, antigua colonia española, es reclamado por Marruecos mientras la ONU sigue considerándolo territorio no descolonizado; España modificó en 2022 su posición apoyando la autonomía marroquí."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Otros medios como Reforma enfatizan los números de retornados y muertos en la crisis migratoria, mientras que El País América critica la supuesta debilidad de España frente a Marruecos, contrastando con el enfoque más neutral de la BBC."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "241be62537c0",
+      "title": "Dos argentinos en semifinales en San Marino y Bonn: Díaz Acosta quedó a un triunfo del Top 100 y Federico Gómez continúa su remontada",
+      "summary": "Los tenistas argentinos Facundo Díaz Acosta y Federico Gómez avanzaron a las semifinales de los torneos Challenger de San Marino y Bonn, respectivamente, con Díaz Acosta a un paso de volver al Top 100 del ranking ATP.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/tenis/2026/08/01/dos-argentinos-en-semifinales-en-san-marino-y-bonn-diaz-acosta-quedo-a-un-triunfo-del-top-100-y-federico-gomez-continua-su-remontada/",
+      "published_at": "2026-08-01T03:01:27+00:00",
+      "bias_score": 5,
+      "bias_reason": "El artículo emplea un tono celebratorio y destaca los logros de los jugadores argentinos, sin presentar críticas ni fuentes externas, lo que indica un leve sesgo positivo hacia el deporte nacional.",
+      "focus_analysis": "El medio se centró en la narrativa humana y de orgullo nacional al resaltar el progreso de los tenistas argentinos, dejando de lado aspectos económicos o estructurales del circuito Challenger.",
+      "focus_tags": [
+        "tenis argentino",
+        "Challenger Tour",
+        "ranking ATP"
+      ],
+      "context": [
+        {
+          "label": "Rol del Challenger Tour",
+          "text": "El ATP Challenger Tour es la segunda categoría del tenis profesional, permite a jugadores mejorar su ranking y acceder a torneos ATP de mayor nivel."
+        },
+        {
+          "label": "Histórico desempeño argentino",
+          "text": "Argentina ha producido tenistas de alto nivel en la última década, como Juan Martín del Potro y Diego Schwartzman, que alcanzaron posiciones dentro del Top 10 del ranking mundial."
+        },
+        {
+          "label": "Características de los torneos",
+          "text": "Los eventos de San Marino y Bonn se juegan sobre superficie de arcilla y suelen atraer a jugadores de rango medio y emergentes que buscan escalar posiciones en el ranking."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "261f83d57b09",
+      "title": "El cuerpo del migrante muerto durante operativo de ICE en Florida llega a San Luis de la Paz, Guanajuato; lo reciben sus seres queridos",
+      "summary": "El cuerpo del migrante guanajuatense Juan Jairo Coronilla Durán, de 28 años, fallecido en una persecución del ICE en Florida, fue repatriado a San Luis de la Paz, Guanajuato, donde recibió a sus familiares y vecinos.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/el-cuerpo-del-migrante-muerto-durante-operativo-de-ice-en-florida-llega-a-san-luis-de-la-paz-guanajuato-lo-reciben-sus-seres-queridos/",
+      "published_at": "2026-08-01T03:28:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, presenta tanto la acción del ICE como la asistencia del gobierno mexicano sin emplear términos cargados ni favorecer una postura política.",
+      "focus_analysis": "El medio enfatiza el aspecto humano y comunitario del fallecimiento, resaltando la despedida familiar y la solidaridad vecinal; deja en segundo plano el debate sobre la política migratoria o la actuación del ICE.",
+      "focus_tags": [
+        "repatriación",
+        "migrante fallecido",
+        "comunidad local"
+      ],
+      "context": [
+        {
+          "label": "Política migratoria de EE. UU.",
+          "text": "El Servicio de Inmigración y Control de Aduanas (ICE) lleva a cabo operativos de detención y deportación que a menudo generan controversia por su uso de la fuerza y los riesgos para los migrantes."
+        },
+        {
+          "label": "Programa de repatriación mexicana",
+          "text": "La Secretaría de Derechos Humanos de México coordina la repatriación de ciudadanos fallecidos en el extranjero, ofreciendo apoyo financiero y logístico a las familias, como se ha visto en casos recientes de migrantes muertos en EE. UU."
+        },
+        {
+          "label": "Casos similares en Guanajuato",
+          "text": "En años anteriores, familias guanajuatenas han recibido el cuerpo de migrantes fallecidos en EE. UU. tras procesos de repatriación, generando movilizaciones comunitarias y fondos de ayuda para los costos funerarios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "1e96d0968a50",
+      "title": "Nuevos intentos de entrada de migrantes a Melilla mantienen en alerta a las fuerzas de seguridad",
+      "summary": "Los intentos recientes de migrantes marroquíes de cruzar la frontera de Melilla provocaron una nueva alerta en las fuerzas de seguridad españolas y marroquíes, obligando a suspender la reapertura del paso fronterizo y a intensificar la atención humanitaria para más de 2 000 viajeros retenidos.",
+      "category": "internacional",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/nuevos-intentos-entrada-migrantes-melilla-mantienen-alerta-fuerzas-seguridad-20260731-826143.html",
+      "published_at": "2026-08-01T03:30:11+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto enfatiza la seguridad y el orden, usando vocabulario como “disparos de material antidisturbios” y agradeciendo a las fuerzas de seguridad, mientras que la dimensión humanitaria se menciona solo al final; la cobertura se apoya mayormente en fuentes oficiales gubernamentales.",
+      "focus_analysis": "El medio se centra en la perspectiva institucional y de seguridad, resaltando la actuación de las autoridades y la necesidad de mantener el control fronterizo, dejando en segundo plano el sufrimiento de los migrantes y las causas estructurales de la crisis.",
+      "focus_tags": [
+        "seguridad fronteriza",
+        "crisis migratoria",
+        "respuesta institucional"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Melilla, enclave español en el norte de África, ha sido históricamente un punto de entrada para migrantes que intentan llegar a Europa, generando tensiones periódicas entre España y Marruecos."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "La Operación Paso del Estrecho había retenido a más de 2 000 personas desde la noche del jueves, cuando se suspendió la reapertura del paso fronterizo por los nuevos intentos de cruce."
+        },
+        {
+          "label": "Postura de otros medios",
+          "text": "El País América, en su cobertura del mismo fenómeno migratorio, puso mayor énfasis en la dimensión humanitaria al reportar la recuperación de cadáveres en Ceuta, contrastando con el enfoque mayormente securitario de El Economista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "fc0e8fc72f3d",
+      "title": "Sicarios irrumpen en casa de María de los Ángeles, la matan a balazos y hieren a su hija de nueve años, en León",
+      "summary": "María de los Ángeles, una comerciante de verduras de 37 años que vendía en la Línea de Fuego de León, Guanajuato, México, fue asesinada a balazos en su vivienda de la colonia Chapalita, mientras su hija de nueve años resultó herida en el ataque.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/leon-450/2026/07/31/sicarios-irrumpen-en-casa-de-maria-de-los-angeles-la-matan-a-balazos-y-hieren-a-su-hija-de-nueve-anos-en-leon-1826317.html",
+      "published_at": "2026-08-01T03:39:08+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos violentos sin usar un lenguaje cargado ni incluir opiniones políticas; la cobertura es factual y neutral.",
+      "focus_analysis": "El medio se centra en el relato humano del crimen y la víctima, omitiendo análisis de causas estructurales o respuestas institucionales más amplias.",
+      "focus_tags": [
+        "crimen violento",
+        "víctima civil",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de violencia en León",
+          "text": "León, la capital del estado de Guanajuato, ha registrado en los últimos años un aumento de delitos violentos, especialmente en colonias periféricas como Chapalita, donde operan grupos delictivos."
+        },
+        {
+          "label": "Incidentes similares en México",
+          "text": "Otros municipios mexicanos han sufrido ataques contra vendedores ambulantes, como el asesinato de un tiendejo de verduras en Puebla en junio de 2026, lo que evidencia una tendencia de violencia contra pequeños comerciantes."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "La Secretaría de Seguridad Pública de Guanajuato anunció operativos para combatir al crimen organizado y reforzar la vigilancia en zonas con alta incidencia delictiva tras hechos como este."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "3c28905113be",
       "title": "3 asuntos que históricamente han tensado las relaciones entre España y Marruecos",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "b106bde0ce02",
-      "title": "La Federación Mexicana de Futbol opta por sumarse al retiro de la FIFA con su propuesta de privatización del Mundial",
-      "summary": "La Federación Mexicana de Fútbol anunció que, tras la retirada del proyecto de privatización del Mundial propuesto por la FIFA, consideró concluido el asunto para el fútbol mexicano, manteniendo una postura de análisis interno y diálogo institucional.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/01/federacion-mexicana-de-futbol-opta-por-sumarse-al-retiro-de-la-fifa-con-su-propuesta-de-privatizacion-del-mundial/",
-      "published_at": "2026-08-01T02:18:53+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono mayormente descriptivo, incluye declaraciones de diversas fuentes y no utiliza un lenguaje cargado ni favorece explícitamente a ninguna posición.",
-      "focus_analysis": "El medio se centra en el ángulo institucional, resaltando la decisión y el discurso de la FMF y la FIFA, mientras omite el impacto económico del proyecto y la reacción del público aficionado.",
-      "focus_tags": [
-        "institucional",
-        "fútbol",
-        "privatización"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del proyecto",
-          "text": "FIFA había lanzado el programa Forward Enterprise, que buscaba crear una filial para vender participaciones minoritarias en los derechos comerciales de los torneos, con la promesa de repartir 40 millones de dólares a cada federación si se aprobaba."
-        },
-        {
-          "label": "Rechazo de confederaciones",
-          "text": "UEFA, Concacaf y la AFC fueron las principales confederaciones que se opusieron al plan, argumentando falta de consulta y claridad en la gobernanza, lo que contribuyó a la decisión de la FIFA de retirar la propuesta."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios como El País América e Infobae Deportes destacaron la derrota de la FIFA y la declaración de Gianni Infantino de que la iniciativa no avanzará, subrayando la presión internacional que llevó al abandono del proyecto."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "19251feb8a86",
-      "title": "Un bacilo de Koch",
-      "summary": "El ensayo de David Toscana en Letras Libres reflexiona sobre la atracción del sufrimiento y la no‑existencia usando referencias literarias y filosóficas, desde Dante hasta Chéjov, y critica la visión religiosa del infierno como solución a la vida humana.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/uncategorized/un-bacilo-de-koch/31/07/2026/",
-      "published_at": "2026-07-31T20:38:40+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto emplea un tono crítico hacia instituciones religiosas y destaca una perspectiva humanista y secular, lo que sugiere una ligera inclinación de izquierda, aunque el contenido es mayormente cultural y neutro.",
-      "focus_analysis": "El medio se centra en un ángulo filosófico‑literario que explora la idea de la no‑nacimiento y la muerte como escape del sufrimiento, dejando de lado cualquier análisis político o económico del tema.",
-      "focus_tags": [
-        "filosofía existencial",
-        "crítica religiosa",
-        "cultura literaria"
-      ],
-      "context": [
-        {
-          "label": "Metáfora del bacilo",
-          "text": "El título hace alusión al bacilo de Koch, el agente causal de la tuberculosis descubierto por Robert Koch, usado aquí como símbolo de enfermedad y sufrimiento que se contrasta con la idea de no haber nacido."
-        },
-        {
-          "label": "Tradición filosófica del anti‑nacimiento",
-          "text": "Desde la antigüedad, autores como Eurípides, Séneca y Dante han explorado la noción de que la existencia es peor que la no‑existencia, una temática que el ensayo retoma y amplía con referencias a la literatura barroca y moderna."
-        },
-        {
-          "label": "Perfil de Letras Libres",
-          "text": "Letras Libres es una revista cultural mexicana conocida por su enfoque crítico y frecuentemente progresista, que suele publicar ensayos que combinan literatura, filosofía y crítica social."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "09f7358853dd",
-      "title": "CNTE entrega peticiones a Sheinbaum; acuerdan reunión en Palacio Nacional con el gobernador Salomón Jara",
-      "summary": "La Coordinadora Nacional de Trabajadores de la Educación (CNTE) de la sección 22 en Oaxaca entregó peticiones a la presidenta de México, Claudia Sheinbaum, y acordaron una reunión en el Palacio Nacional con el gobernador de Oaxaca, Salomón Jara. Entre las demandas destacan la entrega de uniformes para docentes y la derogación de la Ley del ISSSTE de 2007.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/cnte-entrega-peticiones-a-sheinbaum-acuerdan-reunion-en-palacio-nacional-con-el-gobernador-salomon-jara/",
-      "published_at": "2026-08-01T01:46:29+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, sin adjetivos cargados, y presenta tanto la posición del sindicato como la respuesta oficial sin favorecer explícitamente a ninguna parte.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y político, describiendo la entrega de peticiones y la coordinación entre el presidente y el gobernador, dejando fuera el impacto humano de los docentes y las implicaciones económicas de las demandas.",
-      "focus_tags": [
-        "educación",
-        "union",
-        "política"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la CNTE",
-          "text": "La Coordinadora Nacional de Trabajadores de la Educación (CNTE) es una de las principales organizaciones sindicales docentes de México, conocida por su postura crítica frente a políticas gubernamentales y por organizar protestas y demandas de mejores condiciones laborales."
-        },
-        {
-          "label": "Perfil de la presidenta",
-          "text": "Claudia Sheinbaum, presidenta de México desde diciembre de 2024, proviene del partido MORENA y ha priorizado la educación y la justicia social en su agenda, aunque ha enfrentado tensiones con sindicatos como la CNTE."
-        },
-        {
-          "label": "Contexto legal de la Ley del ISSSTE",
-          "text": "La Ley del ISSSTE de 2007 regula el sistema de seguridad social para los trabajadores del Estado; su derogación ha sido demandada por varios sindicatos que consideran que la normativa limita los derechos y beneficios de los empleados públicos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "80aa790e804c",
-      "title": "George Clooney y su familia evacúan su casa en Francia debido a los incendios forestales",
-      "summary": "El actor estadounidense George Clooney y su familia tuvieron que abandonar su residencia en el sureste de Francia después de que un incendio forestal cercano amenazara la zona, según informó su agente. La evacuación se produce en el contexto de una ola de calor que ha provocado numerosos incendios en el país.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/francia/20260801-george-clooney-y-su-familia-evac%C3%BAan-su-casa-en-francia-debido-a-los-incendios-forestales",
-      "published_at": "2026-08-01T01:47:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono informativo y neutral, citando a fuentes oficiales y al agente del actor sin emplear lenguaje cargado ni seleccionar fuentes con sesgo evidente.",
-      "focus_analysis": "El medio se centró en el aspecto humano y de celebridad de la evacuación, resaltando la experiencia personal de Clooney, mientras dejó de lado el análisis de políticas públicas y la respuesta institucional a los incendios.",
-      "focus_tags": [
-        "evacuación de celebridad",
-        "incendios forestales Francia",
-        "ola de calor"
-      ],
-      "context": [
-        {
-          "label": "Incendios recientes en Francia",
-          "text": "Durante el verano de 2026, Francia ha registrado una serie de incendios forestales extensos, especialmente en la zona de Burdeos, que han quemado cientos de hectáreas y provocado la evacuación de miles de personas."
-        },
-        {
-          "label": "Respuesta gubernamental",
-          "text": "Las autoridades francesas declararon emergencias, desplegaron helicópteros y anunciaron medidas de gestión forestal y prevención de incendios frente al aumento de temperaturas y la sequía."
-        },
-        {
-          "label": "Enfoque de otros medios",
-          "text": "Otros medios, como DW Español, han abordado los mismos incendios resaltando su impacto económico en turismo y finanzas públicas, contrastando con la narrativa centrada en la evacuación de la familia Clooney."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "a5369bcf7555",
-      "title": "\"El diseño de la libélula\": una experiencia sensorial que conecta arte, ciencia y espiritualidad",
-      "summary": "La exposición «El diseño de la libélula», inaugurada el 1 de agosto de 2026 en el Centro Cultural de España en México, presenta obras de los artistas Rocío Infestas y Fernando Rascón, bajo la curaduría de Paola Uribe Solórzano, y busca unir arte, ciencia y espiritualidad a través de la teoría del biocentrismo.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/arteseideas/diseno-libelula-experiencia-sensorial-conecta-arte-ciencia-espiritualidad-20260731-826131.html",
-      "published_at": "2026-08-01T01:54:42+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin palabras cargadas ni selección de fuentes que favorezcan una posición política; se limita a presentar la exposición y sus contenidos.",
-      "focus_analysis": "El medio se centra en el aspecto cultural y sensorial de la muestra, resaltando la interdisciplinariedad entre arte, ciencia y espiritualidad, mientras omite cualquier análisis económico, político o de impacto social más amplio.",
-      "focus_tags": [
-        "arte",
-        "ciencia",
-        "espiritualidad"
-      ],
-      "context": [
-        {
-          "label": "Teoría del biocentrismo",
-          "text": "La biocentrismo, propuesta por el científico Robert Lanza y el astrónomo Bob Berman, sostiene que la vida y la conciencia son fundamentales para comprender la realidad, y sirve de base conceptual para la exposición."
-        },
-        {
-          "label": "AECID y la cooperación cultural",
-          "text": "La Agencia Española de Cooperación Internacional para el Desarrollo (AECID) financia proyectos que promueven la cultura, la ciencia y la innovación social, como la presente exposición que busca fortalecer los sectores creativos locales."
-        },
-        {
-          "label": "RainArtStudio y su trayectoria",
-          "text": "RainArtStudio, colectivo con sede en Chihuahua formado por Rocío Infestas y Fernando Rascón, ha desarrollado proyectos de arte contemporáneo que integran tecnología y materiales reciclados, reforzando la escena artística del norte de México."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "5a452459cb1a",
-      "title": "¡Orgullo de León! Celia Pulido impone paso demoledor en Santo Domingo y apunta a 9 medallas",
-      "summary": "Celia Pulido, nadadora de León, México, destacó en los Juegos Centroamericanos y del Caribe de Santo Domingo 2026 al ganar dos medallas de oro y establecer un nuevo récord centroamericano, acercándose al récord histórico de nueve medallas de la leonesa Liliana Ibáñez.",
-      "category": "deportes",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/superdeportivo/2026/07/31/orgullo-de-leon-celia-pulido-impone-paso-demoledor-en-santo-domingo-y-apunta-a-9-medallas-1826280.html",
-      "published_at": "2026-08-01T01:58:29+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la celebración del logro deportivo sin incluir lenguaje político ni fuentes con inclinación ideológica, manteniendo un tono neutral y descriptivo.",
-      "focus_analysis": "El medio eligió enfatizar el desempeño atlético y el orgullo local de la ciudad de León, dejando de lado cualquier análisis económico, institucional o de política deportiva.",
-      "focus_tags": [
-        "deporte",
-        "orgullo local",
-        "récords"
-      ],
-      "context": [
-        {
-          "label": "Récord histórico anterior",
-          "text": "En los Juegos Centroamericanos y del Caribe de Barranquilla 2018, la nadadora leonesa Liliana Ibáñez alcanzó nueve medallas, estableciendo el récord de mayor número de medallas para México en esa edición."
-        },
-        {
-          "label": "Juegos Centroamericanos y del Caribe",
-          "text": "Este evento multideportivo se celebra cada cuatro años y reúne a atletas de América Central y el Caribe, sirviendo como plataforma de clasificación y exposición para deportistas que aspiran a los Juegos Olímpicos."
-        },
-        {
-          "label": "Tradición nadadora de León",
-          "text": "León ha sido cuna de destacados nadadores mexicanos, y la comunidad local suele apoyar y promover el desarrollo de talentos en la natación, lo que refuerza la identificación ciudadana con los logros de sus atletas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
