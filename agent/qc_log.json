@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-02T12:21:13.975226+00:00",
-      "title": "Un bacilo de Koch",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística para una pieza cultural, aunque podría mejorar la contextualización de fuentes para mayor robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:21:18.988874+00:00",
-      "title": "Metrobús hoy 2 de agosto: estado del servicio en esta última hora",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es actual y objetivo, pero contiene una cifra claramente errónea que compromete su veracidad; se recomienda corregir los datos de usuarios antes de publicar.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:21:25.321126+00:00",
-      "title": "La matanza de Huitzilac: la noticia que inspiró ‘La sombra del caudillo’ (Reseña)",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales; solo se sugiere añadir fuentes complementarias para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:40:39.420058+00:00",
-      "title": "El error común que multiplica las cucarachas en la alacena sin que te des cuenta",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de alta calidad editorial, con una ligera omisión de la fuente CDC que se menciona en el resumen.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:40:44.507134+00:00",
-      "title": "Lula da Silva formaliza su candidatura a la Presidencia de Brasil",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la pieza es o y bien estructurada, sus errores de factualidad y sesgo la hacen inadecuada para publicación sin correcciones.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:40:49.268736+00:00",
-      "title": "Los arqueólogos llevan décadas debatiendo cómo de mortífera fue la colonización de América. Acaban d",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado correctamente, pero la falta de fuentes verificables y de contraste de voces académicas reduce su puntuación en veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:40:53.655138+00:00",
-      "title": "“La maternidad me ha regalado un sentimiento de seguridad en lo que hago”: Natalia Lafourcade",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, actualidad y estructura, presentando la información de forma objetiva y bien sustentada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:40:57.154645+00:00",
-      "title": "Dejó la F1 por ser el piloto que gastó más dinero por sus accidentes y anunció su compromiso: la rea",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la verificación de datos y ampliar la variedad de fuentes, aunque mantiene objetividad y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:41:01.712078+00:00",
-      "title": "Capturan a líder del Cártel de Los Reyes en Michoacán; criminales responden con bloqueos e incendios",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, pese a un pequeño desajuste de categoría, y es apto para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T12:41:13.071860+00:00",
-      "title": "Un bacilo de Koch",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y aunque la cobertura es limitada a una perspectiva, es adecuada para un artículo de naturaleza literaria.",
-      "error": null
-    },
-    {
       "at": "2026-08-02T12:41:20.327956+00:00",
       "title": "La UNAM analizará el origen de anomalías en examen en línea",
       "kind": "noticia",
@@ -3398,6 +3228,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de un artículo informativo y objetivo, aunque podría reforzar la variedad de fuentes críticas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:00:44.163187+00:00",
+      "title": "Café de medianoche: la brevedad de Samanta Schweblin",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "originalidad_creatividad": 4,
+        "riqueza_estilo": 5,
+        "estructura_narrativa": 6,
+        "voz_autor": 8,
+        "profundidad_tematica": 3
+      },
+      "observacion": "El texto es funcional y tiene una voz adecuada, pero su falta de originalidad, estilo poco elaborado y la inclusión de obras y premios inventados reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:00:48.660236+00:00",
+      "title": "Cinco personajes de Marvel que marcaron historia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad informativa y bien estructurado, aunque podría beneficiarse de fuentes más diversas y una mayor explicitación de las valoraciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:00:53.944048+00:00",
+      "title": "SSC detiene a mujer por intentar ingresar droga al Reclusorio Oriente; ocultaba 41 gramos de marihua",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los criterios de calidad editorial, presentando datos precisos y objetivos, aunque la sección de contexto internacional podría beneficiarse de fuentes más explícitas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:00:59.013978+00:00",
+      "title": "CTM entierra el corporativismo, plantea cambios al salario mínimo y reestructura su estrategia inter",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los requisitos de objetividad y actualidad, pero necesita mayor contraste de fuentes para una cobertura política equilibrada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:01:03.208348+00:00",
+      "title": "Randal Willars gana medalla de oro en Juegos Centroamericanos y del Caribe 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es informativo y actualizado, aunque contiene datos no verificables y un tono ligeramente parcial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:01:09.160711+00:00",
+      "title": "El video con el que el Chelsea hizo oficial la llegada del “joven león” Barco: la reacción de su par",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete tiene buena estructura y neutralidad, pero la precisión de los datos es limitada, lo que afecta su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:01:14.947353+00:00",
+      "title": "Lula da Silva desafía la vejez y promete más gasto en defensa al lanzarse por su reelección en Brasi",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en su,, con buena cobertura y contraste, aunque la edad del presidente está ligeramente desactualizada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:01:25.168018+00:00",
+      "title": "Un bacilo de Koch",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple bien con los estándares de precisión, actualidad y claridad estructural, aunque podría reforzar la verificación de citas y fuentes externas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:01:29.687940+00:00",
+      "title": "‘Spider-Man: Brand New Day’ arrasa en taquilla y se convierte en el segundo mejor estreno de la hist",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero carece de verificación de datos y fuentes más robustas, lo que afecta su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T19:01:34.070118+00:00",
+      "title": "Dos muertos y dos heridos al chocar helicópteros que combatían incendio en Grecia",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la citación de fuentes oficiales.",
       "error": null
     }
   ]
