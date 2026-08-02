@@ -1,125 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-02T09:45:50.240070+00:00",
-      "title": "Universidad Mexiquense de Seguridad formará a policías",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en y actual, pero necesita mayor contraste de fuentes y mayor objetividad para cumplir con los estándares de una noticia equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T09:45:55.476047+00:00",
-      "title": "Todos los cameos de ‘Spider-Man: Brand New Day’, explicados",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es objetivo y actual, pero su falta de veracidad y ausencia de fuentes contrastadas lo hacen poco fiable como noticia.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T09:45:58.998948+00:00",
-      "title": "México avasalla en JCC con más de 100 áureas",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita fuentes más robustas y mayor objetividad; aunque es actual y estructurado, la precisión y el contraste son insuficientes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T09:46:03.065781+00:00",
-      "title": "Salas de Lectura y pueblos indígenas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría enriquecer con fuentes complementarias para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T09:46:08.972206+00:00",
-      "title": "José Sashida: el cirujano de 84 años que sigue entrando al quirófano en León",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple razonablemente con la estructura y actualidad, pero necesita mayor rigor en la verificación de datos y fuentes más diversas para alcanzar un estándar periodístico completo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T09:46:12.292589+00:00",
-      "title": "La venganza de acostarnos tarde: por qué robamos a propósito horas al sueño",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la trazabilidad de sus fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-02T10:00:40.328150+00:00",
-      "title": "De sentirse el “Rey del Futbol” con Trump a estar al borde del despido: La jugada de Infantino que i",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla en precisión y contraste de fuentes, y muestra sesgo evidente, aunque es reciente y sigue una estructura básica de pirámide invertida.",
-      "error": null
-    },
-    {
       "at": "2026-08-02T10:00:43.769451+00:00",
       "title": "He encontrado el ajuste de Google Maps para que me alerte de TODOS los radares en España",
       "kind": "noticia",
@@ -3398,6 +3279,125 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es reciente y estructurado, pero presenta falta de fuentes múltiples y cierta parcialidad en el tono, lo que reduce su objetividad y verificación completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T16:20:38.875987+00:00",
+      "title": "Garitas de Tijuana: cómo está la línea este 2 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una información clara y bien estructurada sobre los tiempos de espera en las garitas de Tijuana.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T16:20:43.249031+00:00",
+      "title": "Boca Juniors visitará a Newell’s en Rosario por la tercera fecha del Torneo Clausura: hora, TV y for",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, siendo preciso, objetivo y actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T16:20:48.678076+00:00",
+      "title": "Semovi lanza Biciescuela de Verano; habrá cursos gratuitos en dos Utopías de la CDMX",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado siguiendo la pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T16:20:54.936720+00:00",
+      "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, pero podría mejorar la diversidad de fuentes para ofrecer un contraste más robusto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T16:21:01.905961+00:00",
+      "title": "\"Colocaré raíles allí donde andan las llamas\": el tren que atraviesa 68 túneles y 55 puentes hasta c",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actualizado, pero necesita mayor precisión en cifras y fuentes más variadas para alcanzar la excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T16:21:08.511966+00:00",
+      "title": "\"La caída en desgracia más rápida\", dice sobre Infantino un antiguo ejecutivo del COI",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo presenta problemas de veracidad y falta de contraste de fuentes, aunque es actual y está bien estructurado; necesita más equilibrio y corroboración.",
+      "error": null
+    },
+    {
+      "at": "2026-08-02T16:21:17.698282+00:00",
+      "title": "Un bacilo de Koch",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando información veraz, bien contextualizada y estructurada de forma clara y oportuna.",
       "error": null
     }
   ]
