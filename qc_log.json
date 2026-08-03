@@ -1,125 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-03T14:02:07.612670+00:00",
-      "title": "Nay Salvatori y Grace Palomares desatan polémica por burlas a hombres de la tercera edad: “Ya huelen",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura, pero necesita fuentes más variadas y mayor corroboración de datos para alcanzar un nivel editorial más alto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T14:02:11.475896+00:00",
-      "title": "Su pase valió 90 millones de euros, fue campeón de Europa y ahora se entrena en un club de 10° divis",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo presenta buena estructura y neutralidad, pero la precisión de los datos es deficiente y necesita verificación y fuentes adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T14:02:17.017436+00:00",
-      "title": "México aumenta su liderazgo con siete oros en los Centroamericanos y Caribe",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y reciente, aunque podría mejorar la verificación de datos y la neutralidad del tono.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T14:02:22.044890+00:00",
-      "title": "Un incendio en un bloque de viviendas obliga a desalojar dos edificios en Chamberí",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la verificabilidad añadiendo fuentes específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T14:20:37.929005+00:00",
-      "title": "Confianza empresarial en México registra alza marginal de 0.1 puntos en julio",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, actual y estructurada, pese a una ligera limitación en la variedad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T14:20:45.042194+00:00",
-      "title": "Con una cuerda y a 10 metros: así rescató un policía a joven que intentó arrojarse de la azotea de s",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, mostrando precisión y objetividad adecuadas; sólo se sugiere incluir fuentes directas del incidente para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T14:20:52.411539+00:00",
-      "title": "Discusión familiar termina en ataque con machete en El Fuerte; agresor escapa y es buscado por la po",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, con pequeñas reservas sobre la verificación directa de los hechos.",
-      "error": null
-    },
-    {
       "at": "2026-08-03T14:20:58.286931+00:00",
       "title": "En directo: Israel plantea dudas sobre plan de Gaza; Hamás advierte que los ataques aéreos frustrará",
       "kind": "noticia",
@@ -3393,6 +3274,125 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "Expecting ',' delimiter: line 16 column 192 (char 1158)"
+    },
+    {
+      "at": "2026-08-03T21:00:43.352781+00:00",
+      "title": "Ticketmaster celebra 35 años en México con mejoras en ciberseguridad e IA",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple bien con los estándares de veracidad y estructura, aunque podría reforzar el contraste de fuentes para una mayor profundidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T21:00:48.193194+00:00",
+      "title": "La categórica reflexión de Mariano Closs sobre las teorías  conspirativas alrededor de la derrota de",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El contenido falla gravemente en veracidad y contraste de fuentes, ya que reporta un resultado de un partido que aún no se ha jugado, aunque mantiene una estructura y tono objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T21:00:52.090786+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos dice que alertó a España dí",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares editoriales, pero la ausencia de fuentes marroquíes directas reduce el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T21:00:57.993359+00:00",
+      "title": "Tasa de homicidios en México registró una disminución en 2025: Inegi",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, presentando datos verificables y una estructura clara, aunque podría reforzar el contraste de fuentes añadiendo más perspectivas externas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T21:01:02.643961+00:00",
+      "title": "Precio del dólar hoy en México: cotización de cierre del 3 de agosto",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien respaldada por fuentes fiables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T21:01:08.957629+00:00",
+      "title": "La drástica decisión de Samsung con el Galaxy S27 Ultra para reducir costes",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares editoriales, aunque la falta de fuentes verificables reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T21:01:19.733271+00:00",
+      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y cumple con los estándares de objetividad y actualidad, aunque podría reforzar la precisión con fuentes específicas y más contraste de voces.",
+      "error": null
     }
   ]
 }
