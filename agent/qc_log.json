@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-03T17:18:10.716449+00:00",
-      "title": "EURONEWS HOY | Las noticias del lunes 3 de agosto 2026: La tragedia de Ceuta deja ya 88 muertos",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete es mayormente sólido y cumple con los criterios de calidad, aunque la diferencia de cifras entre fuentes debería aclararse para evitar dudas de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:18:16.274776+00:00",
-      "title": "Estalla huelga en la empresa Creation Technologies Sonora; sindicato denuncia despido de delegada y ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero necesita fuentes más equilibradas y mayor objetividad para cumplir con los estándares de una noticia imparcial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:18:22.194450+00:00",
-      "title": "Hace tanto calor y el Danubio lleva tan poca agua que Hungría ha decidido algo inédito: parar sus ce",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque es reciente y está bien estructurado; necesita corregir datos y ampliar fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:18:25.912919+00:00",
-      "title": "Crumbl, del antojo al fenómeno viral: ¿por qué hacemos fila y esperamos horas por una marca?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, aunque la falta de referencias precisas para algunos datos reduce la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:18:32.254579+00:00",
-      "title": "Un nuevo tenista argentino en el Top 100 y Alcaraz desplazó a Zverev: así quedó el ranking ATP",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares, aunque podría mejorar la verificación de cifras y la inclusión de fuentes oficiales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:18:43.214008+00:00",
-      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la falta de verificación de datos y la ausencia de fuentes múltiples reducen su puntuación editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:18:48.747224+00:00",
-      "title": "‘Hasta en la Sierra Tarahumara hay celulares’: Sheinbaum alerta sobre adicción infantil a redes soci",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero le falta contraste de fuentes y plena objetividad en la presentación de los hechos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:18:54.245919+00:00",
-      "title": "DW verifica: las elecciones alemanas, blanco de desinformación rusa",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la inclusión de fuentes contrastantes para reforzar la profundidad del análisis.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:19:00.183089+00:00",
-      "title": "EU reporta 2 muertes por cyclospora en Michigan; van más de 4 mil casos confirmados",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, y está bien estructurado y actualizado; solo se observa una ligera variación en cifras que no afecta la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T17:20:33.759379+00:00",
-      "title": "Harfuch anuncia decomiso de más de 4 toneladas de cocaína en las costas de Chiapas y Oaxaca",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y objetivo, aunque la referencia a Trump podría estar desactualizada y afecta ligeramente la precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-03T17:20:39.680804+00:00",
       "title": "EURONEWS HOY | Las noticias del lunes 3 de agosto 2026: La tragedia de Ceuta deja ya 88 muertos",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, aunque podría reforzar el contraste de fuentes añadiendo referencias oficiales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:40:38.891219+00:00",
+      "title": "BBVA completa el programa extraordinario de recompra de acciones de 3,960 millones",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de precisión, actualidad y estructura invertida, y aunque depende de una sola fuente, esta es fiable y está bien contextualizada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:40:43.841474+00:00",
+      "title": "Muere doña Chila tras infarto mientras preparaba su puesto en el Mercado Embajadoras",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información clara, objetiva y reciente con una estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:40:48.632366+00:00",
+      "title": "Vélez vence a Independiente en Liniers por la fecha 3 del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, cumple con los estándares de veracidad, objetividad y actualidad; solo se sugiere una verificación externa del autor del gol para máxima precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:40:54.670613+00:00",
+      "title": "\"Spider-Man: Brand New Day\" supera el récord de taquilla de \"Avengers: Endgame\"",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la estructura y neutralidad son correctas, la falta de veracidad en la información principal invalida el paquete para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:40:56.992252+00:00",
+      "title": "Honduras: el expresidente Hernández enfrentará acusaciones de lavado y fraude en un tribunal ordinar",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero su precisión factual y falta de fuentes contrastantes comprometen la calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:41:00.463331+00:00",
+      "title": "El próximo ChatGPT es una bestia: ya resolvió diez problemas matemáticos imposibles",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 1,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla en precisión y contraste de fuentes, aunque es actual y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:41:11.070637+00:00",
+      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra problemas de veracidad y falta de fuentes contrastantes, pero mantiene una estructura adecuada y actualidad reciente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:41:15.352252+00:00",
+      "title": "Ingresos por remesas se contrajeron 1.6% en Querétaro durante el primer semestre",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y bien estructurado, pero la afirmación incorrecta sobre el presidente estadounidense reduce su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:41:19.290803+00:00",
+      "title": "Cruzeiro presenta propuesta formal, de 12 millones de dólares, por Brian Rodríguez",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero necesita fuentes más variadas y mayor verificación de datos específicos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T23:41:24.898861+00:00",
+      "title": "La UEFA evalúa iniciar acciones legales contra la FIFA tras el proyecto fallido: la exigencia que in",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y actualidad, muestra un contraste de fuentes razonable aunque incompleto, y mantiene una estructura clara, aunque presenta una ligera parcialidad contra la FIFA.",
       "error": null
     }
   ]
