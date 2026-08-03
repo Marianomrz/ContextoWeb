@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-03T13:21:40.589480+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno asegura que ningún inform",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría mejorar la verificación de datos y la inclusión de más perspectivas contrastantes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:40:47.205159+00:00",
-      "title": "EU firma acuerdo para fabricar más componentes para interceptores ‌de misiles Patriot y THAAD",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con los estándares de objetividad y actualidad, aunque la verificación de cifras y la diversidad de fuentes podrían mejorarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:40:50.924796+00:00",
-      "title": "Memo Schutz sorprende a sus fans y se disfraza con traje de pelota de beisbol en La Casa de los Famo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado en estilo y actualidad, pero necesita mayor verificación y fuentes adicionales para reforzar su precisión factual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:40:55.484345+00:00",
-      "title": "\"Estaba pagando mis deudas\": treinta años después, Gary Oldman sigue odiando esta brillante epopeya ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero contiene un dato inexacto sobre la carrera de Oldman que disminuye la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:41:01.039352+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno asegura que ningún inform",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, con solo pequeñas ausencias de fuentes no institucionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:41:07.644807+00:00",
-      "title": "Hungría desconectará planta nuclear durante 48 horas; sequía afecta sistema de enfriamiento",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene datos inexactos y fuentes escasas, aunque está bien estructurado y actualizado; necesita correcciones antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:41:13.029977+00:00",
-      "title": "Su pase valió 90 millones de euros, fue campeón de Europa y ahora se entrena en un club de 10° divis",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque mantiene una estructura adecuada y actualidad; necesita corrección de datos y mayor diversificación de fuentes antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:41:23.401233+00:00",
-      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es adecuado para publicación, aunque se recomienda verificar la existencia de Dolores Franco y corregir el valor anómalo de bias_score para mejorar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-03T13:41:29.194449+00:00",
-      "title": "Visa comprará BioCatch por 2,400 millones de dólares en efectivo",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo cumple con los estándares de precisión, objetividad y actualidad; es apto para publicación.",
-      "error": null
-    },
-    {
       "at": "2026-08-03T13:41:34.971583+00:00",
       "title": "Nay Salvatori argumenta “libertad de expresión” tras polémica por dichos a adultos mayores y después",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 6
       },
       "observacion": "En general el paquete es fiable y objetivo, aunque la calidad de la redacción y la estructura podrían mejorarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:06.702297+00:00",
+      "title": "Golpe masivo en México: arrestan a 10 integrantes clave de la red criminal de Ryan Wedding",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El contenido presenta datos poco verificables y falta de fuentes contrastantes, lo que compromete su credibilidad, aunque la actualidad y la estructura son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:11.669615+00:00",
+      "title": "Monreal pide a Morena reglas preferenciales para diputados que busquen reelección; propone que no pi",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los criterios de objetividad, actualidad y estructura, pero necesita mayor precisión factual y más fuentes contrastantes para alcanzar la excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:17.822577+00:00",
+      "title": "Violencia en Ecuador: así es el 'Plan de Protección' de Noboa en Quito, con 4.000 policías y militar",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es preciso y actual, pero le falta mayor contraste de fuentes para enriquecer el contexto de un tema conflictivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:21.544389+00:00",
+      "title": "Empujones y discusión cara a cara: el momento de tensión entre Paulo Dybala, Matías Soulé y el capit",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de veracidad, objetividad y actualidad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:27.750617+00:00",
+      "title": "Precios del petróleo caen tras anuncio de Trump sobre posibles negociaciones entre EU e Irán",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales: es preciso, bien contrastado, objetivo, actual y estructurado siguiendo la pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:32.583189+00:00",
+      "title": "Hackers atacan instalaciones de agua en 7 estados de EEUU: Minnesota con más de 30 sistemas comprome",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque es actual y sigue una estructura adecuada; se recomienda reforzar la evidencia y la neutralidad antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:36.098375+00:00",
+      "title": "Con bloqueo en Insurgentes, aspirantes seleccionados de la UNAM exigen respuestas al rector y rechaz",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero necesita mayor contraste de fuentes y mayor equilibrio para cumplir con los estándares de objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:42.142571+00:00",
+      "title": "Escándalo en la LMB: Danry Vásquez es suspendido indefinidamente por agredir a un jugador",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad informativa, pero necesita mayor respaldo de fuentes y verificación de los datos para alcanzar una puntuación más alta.",
+      "error": null
+    },
+    {
+      "at": "2026-08-03T20:25:48.119243+00:00",
+      "title": "Al menos 7 muertos y 40 heridos por el impacto de un dron ucraniano en una playa llena de bañistas e",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, aunque podría mejorar al incorporar la postura oficial ucraniana para un contraste de fuentes más equilibrado.",
       "error": null
     }
   ]
