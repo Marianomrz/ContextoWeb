@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-04T00:45:53.380968+00:00",
+  "generated_at": "2026-08-04T01:02:18.011323+00:00",
   "articles": [
+    {
+      "id": "8f094c672101",
+      "title": "Capital One cierra cuentas de la Organización Trump; banco alega riesgo de lavado de dinero y Trump denuncia discriminación política",
+      "summary": "El banco estadounidense Capital One cerró cientos de cuentas de la Organización Trump alegando riesgos de lavado de dinero, mientras Donald Trump denuncia que la medida constituye discriminación política.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/capital-one-cierra-cuentas-de-la-organizacion-trump-banco-alega-riesgo-de-lavado-de-dinero-y-trump-denuncia-discriminacion-politica/",
+      "published_at": "2026-08-04T00:52:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta de forma equilibrada los argumentos del banco y la acusación del presidente, sin usar vocabulario cargado ni favorecer explícitamente a ninguna de las partes.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y legal, describiendo la política anti‑lavado del banco y la reacción judicial de Trump, dejando de lado el impacto humano o financiero directo sobre los empleados de la Organización Trump.",
+      "focus_tags": [
+        "lavado de dinero",
+        "discriminación política",
+        "banco"
+      ],
+      "context": [
+        {
+          "label": "Regulación AML en EE.UU.",
+          "text": "Los bancos estadounidenses deben cumplir normas estrictas del FinCEN y de la Oficina del Contralor de la Moneda que les permiten cerrar cuentas consideradas de alto riesgo de lavado de dinero."
+        },
+        {
+          "label": "Demandas previas de Trump contra bancos",
+          "text": "Donald Trump ha presentado demandas contra otras instituciones financieras, como JPMorgan Chase, alegando exclusión por motivos políticos después del asalto al Capitolio de 2021."
+        },
+        {
+          "label": "Mayor presión regulatoria global",
+          "text": "Multas recientes, como la de 125 millones de dólares a UBS por fallas en la detección de lavado de dinero, evidencian una tendencia mundial de mayor supervisión y sanciones a los bancos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "63e60f391327",
+      "title": "Pueblos del Rincón: Apagón azota a San Francisco y monitorean puente en Manuel Doblado",
+      "summary": "Tras las lluvias del fin de semana, los residentes y comerciantes de los barrios Centro y San Antonio de San Francisco del Rincón, Guanajuato, permanecieron sin energía eléctrica durante casi dos días, provocando pérdidas económicas y alimentos en mal estado; mientras tanto, el gobierno municipal de Manuel Doblado instaló un sistema permanente de videovigilancia en el Puente Maravillas para monitorear el riesgo de inundaciones.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/guanajuato/2026/08/03/pueblos-del-rincon-apagon-azota-a-san-francisco-y-monitorean-puente-en-manuel-doblado-1827272.html",
+      "published_at": "2026-08-04T00:59:16+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo utiliza un lenguaje descriptivo y neutro, cita únicamente a los afectados y a la autoridad local, sin emplear adjetivos cargados ni presentar una postura política.",
+      "focus_analysis": "El medio se centra en el impacto humano y económico del apagón y en la medida de vigilancia contra inundaciones, dejando fuera un análisis de la gestión de la CFE o de políticas energéticas más amplias.",
+      "focus_tags": [
+        "apagón eléctrico",
+        "pérdidas económicas",
+        "vigilancia de inundaciones"
+      ],
+      "context": [
+        {
+          "label": "CFE response",
+          "text": "La Comisión Federal de Electricidad, empresa estatal encargada del suministro eléctrico en todo el país, suele tardar varias horas o días en restablecer el servicio cuando hay daños en la infraestructura provocados por fenómenos climáticos."
+        },
+        {
+          "label": "Incidencias de apagones en Guanajuato",
+          "text": "En los últimos años, el estado de Guanajuato ha registrado múltiples interrupciones de energía durante la temporada de lluvias, especialmente en municipios del interior donde la red eléctrica es más vulnerable a los vientos y caídas de árboles."
+        },
+        {
+          "label": "Vigilancia de puentes en México",
+          "text": "Varios municipios mexicanos, como Veracruz y Tabasco, han implementado sistemas de videovigilancia y sensores en puentes y cruces fluviales para detectar rápidamente aumentos del nivel del agua y emitir alertas de inundación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "1be37a84d70d",
+      "title": "El caso de Ceuta reaviva las divisiones en torno a la migración en Europa",
+      "summary": "El caso de Ceuta, el enclave español en el norte de África donde más de 60.000 migrantes cruzaron irregularmente, ha reavivado el debate migratorio dentro de la Unión Europea, generando tensiones entre España y varios Estados miembros que exigen medidas más duras. La crisis también ha sido utilizada por partidos de extrema derecha para reforzar su discurso de Europa bajo ataque.",
+      "category": "politica",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/europa/20260804-el-caso-de-ceuta-reaviva-las-divisiones-en-torno-a-la-migraci%C3%B3n-en-europa",
+      "published_at": "2026-08-04T00:21:35+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto enfatiza la manipulación de la crisis por la extrema derecha y destaca la dimensión humanitaria, lo que indica una ligera inclinación hacia una perspectiva crítica de la derecha política.",
+      "focus_analysis": "El medio se centra en el ángulo político‑institucional de la respuesta de la UE y en el impacto humanitario de la oleada migratoria, dejando de lado aspectos económicos o de seguridad interna de los países involucrados.",
+      "focus_tags": [
+        "migración UE",
+        "crisis fronteriza",
+        "política migratoria"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Ceuta",
+          "text": "Ceuta es un enclave español en el norte de África que ha experimentado episodios migratorios recurrentes, siendo el más reciente el cruce masivo de decenas de miles de personas en pocos días."
+        },
+        {
+          "label": "Marco legal de la UE",
+          "text": "La Unión Europea ha reforzado su legislación migratoria mediante el Nuevo Pacto sobre Migración y Asilo, que incluye la posibilidad de enviar a solicitantes de asilo rechazados a centros de retorno fuera de la UE."
+        },
+        {
+          "label": "Uso político de la crisis",
+          "text": "Partidos de derecha y extrema derecha en varios países europeos han utilizado imágenes de la crisis de Ceuta para reforzar narrativas de inseguridad y presionar por políticas más restrictivas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "8b6cf9c65e98",
+      "title": "San Lorenzo pierde con Central Córdoba en Santiago del Estero en el cierre de la tercera fecha del Clausura",
+      "summary": "San Lorenzo fue derrotado 1‑0 por Central Córdoba en el Estadio Único Madre de Ciudades, lo que complica su posición en la zona A del Torneo Clausura y mantiene al equipo en busca de puntos para acercarse a los puestos de clasificación.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/03/san-lorenzo-visitara-a-central-cordoba-en-santiago-del-estero-en-el-cierre-de-la-tercera-fecha-del-clausura-hora-tv-y-formaciones/",
+      "published_at": "2026-08-04T00:56:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono descriptivo y balanceado, menciona datos de ambos equipos sin emplear vocabulario cargado ni destacar una postura política o emocional.",
+      "focus_analysis": "El medio se centró en el resultado del partido y sus repercusiones en la tabla, dejando de lado aspectos humanos más profundos como reacciones de los jugadores o la afición.",
+      "focus_tags": [
+        "resultado",
+        "clasificación",
+        "fútbol argentino"
+      ],
+      "context": [
+        {
+          "label": "situación de San Lorenzo",
+          "text": "San Lorenzo atraviesa una temporada difícil, tras quedar eliminado en los octavos de la Copa Argentina y cambiar de entrenador, con Néstor Gorosito a cargo, y necesita sumar puntos para volver a los primeros lugares de la zona A."
+        },
+        {
+          "label": "objetivos de Central Córdoba",
+          "text": "Central Córdoba busca consolidarse en la tabla y alcanzar una posición que le permita competir internacionalmente en 2027, tras haber ganado sus dos primeros partidos del torneo."
+        },
+        {
+          "label": "contexto del Torneo Clausura",
+          "text": "La tercera fecha del Torneo Clausura se juega con partidos simultáneos; los resultados de estos encuentros son cruciales para definir los puestos de clasificación a los torneos posteriores."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "763dbe67e2b8",
+      "title": "Denuncia Canal Once daños a videoteca;  alumnos lo niegan",
+      "summary": "Canal Once, la televisora pública mexicana, denunció que su videoteca sufrió daños durante la ocupación de dos meses por estudiantes de la Escuela Nacional de Ciencias Biológicas del IPN, quienes negaron haber causado los deterioros.",
+      "category": "politica",
+      "source_name": "Reforma",
+      "source_url": "https://www.reforma.com/denuncia-canal-once-danos-a-videoteca-alumnos-lo-niegan/ar3251777",
+      "published_at": "2026-08-04T00:59:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta de forma equilibrada la denuncia de Canal Once y la negación de los estudiantes, sin usar vocabulario cargado ni favorecer explícitamente a ninguna de las partes.",
+      "focus_analysis": "El medio se centra en el conflicto institucional y el daño al patrimonio audiovisual, dejando de lado el contexto de las reivindicaciones estudiantiles y la presión presupuestaria.",
+      "focus_tags": [
+        "cultura audiovisual",
+        "conflicto institucional",
+        "daños a archivo"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Canal Once",
+          "text": "Canal Once es una cadena de televisión pública en México que mantiene una videoteca con material histórico y cultural de gran valor nacional."
+        },
+        {
+          "label": "Motivación de los estudiantes del IPN",
+          "text": "Los estudiantes de la ENCB del Instituto Politécnico Nacional habían ocupado la sede de Canal Once durante dos meses para exigir mayor financiamiento a las autoridades educativas."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros periódicos destacaron distintos ángulos: El Universal subrayó la acción legal contra la Fiscalía General de la República, Infobae informó sobre la recuperación de las instalaciones y la realización de peritajes, mientras que El Sol de México resaltó la advertencia del gobierno de aplicar la ley contra los ocupantes."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4dce8c7213a6",
+      "title": "Agrada a CICEG anuncio de créditos del gobierno federal",
+      "summary": "Juan Carlos Cashat Usabiaga, presidente de la Cámara de la Industria del Calzado del Estado de Guanajuato (CICEG), elogió el nuevo programa federal que otorga créditos de 6 % a 8 % a empresas del sector calzado, considerándolos una oportunidad para reactivar la producción y la compra de maquinaria.",
+      "category": "economia",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/industria-del-calzado/2026/08/03/agrada-a-ciceg-anuncio-de-creditos-del-gobierno-federal-1827271.html",
+      "published_at": "2026-08-04T01:00:26+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto utiliza un tono favorable, destaca solo los beneficios del programa y no presenta críticas ni voces opositoras, lo que indica una inclinación pro‑gobierno y pro‑empresa.",
+      "focus_analysis": "El medio se centra en el aspecto económico del financiamiento para la industria del calzado, dejando de lado posibles análisis de costo fiscal o de impacto social más amplio.",
+      "focus_tags": [
+        "financiamiento industrial",
+        "sector calzado",
+        "política económica"
+      ],
+      "context": [
+        {
+          "label": "CICEG",
+          "text": "La Cámara de la Industria del Calzado del Estado de Guanajuato (CICEG) agrupa a los principales fabricantes de calzado de la región y actúa como interlocutor entre el sector privado y el gobierno para impulsar políticas de desarrollo."
+        },
+        {
+          "label": "Programas de crédito previos",
+          "text": "Antes del nuevo esquema, los empresarios del calzado accedían a créditos a través de Nafin y Bancomext con tasas alrededor del 14 %, lo que representaba una carga financiera alta para la inversión en maquinaria."
+        },
+        {
+          "label": "Plan México y FOCIR",
+          "text": "El programa forma parte del Plan México y se canaliza mediante el Fondo de Capitalización e Inversión del Sector Rural (FOCIR), que también ofrece créditos a mipymes de otros sectores con condiciones preferenciales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "a20cee19cbc2",
+      "title": "Luz de faro en la niebla: el susurro de 'El libro del desasosiego'",
+      "summary": "Un faro solitario titila entre la bruma de un puerto nocturno, lanzando destellos que se deshacen en ondas de silencio. Cada haz, como un fragmento de pensamiento, se adhiere al casco de la noche y se pierde antes de tocar la orilla. Así vibra la página de Fernando Pessoa, donde la ausencia de trama se vuelve brújula interior.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-04T01:00:48.537419+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, bajo el calor estival que invita a la introspección, busco una lectura que no demande una historia lineal sino una constelación de momentos. El libro de Pessoa, con su estilo fragmentado, encaja como espejo de la mente que navega entre la claridad y la incertidumbre. Además, su capacidad de resonar en cualquier lengua lo vuelve un refugio universal para lectores que anhelan escucharse a sí mismos.",
+      "focus_tags": [
+        "modernismo",
+        "Portugal",
+        "novela experimental"
+      ],
+      "context": [
+        {
+          "label": "Autor",
+          "text": "Fernando Pessoa, poeta portugués del siglo XX, habitó la ciudad de Lisboa bajo la sombra de múltiples heterónimos, cada uno con su propia biografía y estilo. Esta multiplicidad le permitió explorar la identidad como un mosaico imposible de fijar, convirtiéndolo en un arquitecto de la subjetividad literaria."
+        },
+        {
+          "label": "Obra",
+          "text": "«El libro del desasosiego» es una colección de notas, fragmentos y reflexiones que nunca se estructuró como novela convencional. Su lectura se asemeja a un paseo por pasillos oscuros donde cada puerta revela una pieza de un sueño que nunca se completa, dejando al lector con la sensación de haber escuchado un susurro que se desvanece."
+        },
+        {
+          "label": "Lecturas afines",
+          "text": "Para quien se siente atraído por la atmósfera de lo incompleto, vale la pena explorar «Nadja» de André Breton, un viaje surrealista por la París de la posguerra, o «La insoportable levedad del ser» de Milan Kundera, donde la filosofía y la narrativa se entrelazan en una danza de recuerdos y decisiones."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "12f5eb242187",
       "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
@@ -804,251 +1050,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "16d30ee9edf7",
-      "title": "BBVA completa el programa extraordinario de recompra de acciones de 3,960 millones",
-      "summary": "El banco español BBVA ha concluido su programa extraordinario de recompra de acciones por 3.960 millones de euros, adquiriendo el 1,26 % de su capital social y reduciendo el número de acciones en circulación.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/bbva-completa-programa-extraordinario-recompra-acciones-3-960-millones-20260803-826434.html",
-      "published_at": "2026-08-03T23:39:13+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto es mayormente descriptivo y utiliza términos positivos citados del propio BBVA, sin crítica ni carga ideológica, lo que indica una ligera inclinación pro‑empresa pero sin sesgo marcado.",
-      "focus_analysis": "El medio se centra en el aspecto financiero y de gestión de capital del banco, resaltando la magnitud de la recompra y su impacto en la rentabilidad para los accionistas; se omite el impacto social o laboral de la reducción de capital.",
-      "focus_tags": [
-        "recompra de acciones",
-        "finanzas corporativas",
-        "BBVA"
-      ],
-      "context": [
-        {
-          "label": "Historial de recompra de BBVA",
-          "text": "Antes de este programa, BBVA había ejecutado otras tres recompras extraordinarias, incluyendo 3.160 millones de euros entre 2021‑2022 y 1.000 millones en 2023, así como planes ordinarios de remuneración a los accionistas."
-        },
-        {
-          "label": "Tendencia del sector bancario español",
-          "text": "Los principales bancos españoles han intensificado sus programas de recompra de acciones en los últimos años como una estrategia para mejorar el valor para los accionistas y reforzar la confianza del mercado."
-        },
-        {
-          "label": "Marco regulatorio",
-          "text": "La Comisión Nacional del Mercado de Valores (CNMV) supervisa estas operaciones, y BBVA ha destacado que mantiene un ratio CET1 del 12,90 % que le permite seguir creciendo y distribuir el exceso de capital."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "c7625b886e7e",
-      "title": "CBP decomisa más de 182 mil pastillas de fentanilo ocultas en un vehículo; cargamento queda asegurado en Nogales, Arizona",
-      "summary": "Los agentes de la Oficina de Aduanas y Protección Fronteriza de Estados Unidos incautaron más de 182 mil pastillas de fentanilo y alrededor de dos kilos de polvo de fentanilo ocultos en un vehículo que intentaba cruzar la garita de Nogales, Arizona, y también confiscaron armas.",
-      "category": "internacional",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/cbp-decomisa-mas-de-182-mil-pastillas-de-fentanilo-ocultas-en-un-vehiculo-cargamento-queda-asegurado-en-nogales-arizona/",
-      "published_at": "2026-08-03T23:06:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir los hechos y citar a la funcionaria de la CBP, sin usar adjetivos cargados ni presentar opiniones, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en la operación de interdicción de drogas y la efectividad de la CBP en la frontera, omitiendo análisis sobre el origen del tráfico o sus consecuencias sociales.",
-      "focus_tags": [
-        "seguridad fronteriza",
-        "narcotráfico",
-        "interdicción de drogas"
-      ],
-      "context": [
-        {
-          "label": "Contexto del fentanilo",
-          "text": "El fentanilo es un opioide sintético altamente potente que ha impulsado un aumento de muertes por sobredosis en Norteamérica, y la frontera entre México y Estados Unidos es una ruta clave para su tráfico."
-        },
-        {
-          "label": "Operaciones anteriores de la CBP en Nogales",
-          "text": "En julio de 2026, la CBP informó haber decomisado cerca de un millón de pastillas de fentanilo y otros narcóticos en la garita de Nogales, junto con 43 arrestos."
-        },
-        {
-          "label": "Cooperación bilateral México‑EE. UU.",
-          "text": "El gobierno mexicano ha declarado una mayor disposición a colaborar con Estados Unidos en materia migratoria y de seguridad, lo que facilita intercambios de información y acciones conjuntas contra el narcotráfico."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "12f5eb242187",
-      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
-      "summary": "El artículo de Letras Libres examina el epistolario entre el escritor español Camilo José Cela y la estudiante y crítica literaria Dolores Franco, intercambiadas entre 1934 y 1942, y muestra cómo su amistad quedó marcada por la Guerra Civil, la censura y la transformación de la España de la Tercera.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/libros/porque-nosotros-cada-vez-somos-menos/16/07/2026/",
-      "published_at": "2026-08-03T07:01:00+00:00",
-      "bias_score": -15,
-      "bias_reason": "El texto usa un tono académico y descriptivo, sin lenguaje cargado ni fuentes partidistas, centrándose en la literatura y la memoria histórica más que en una agenda política.",
-      "focus_analysis": "Se elige un enfoque literario‑histórico que destaca la relación personal y el contexto cultural de la España de los años 30‑40, dejando de lado aspectos económicos o de política contemporánea.",
-      "focus_tags": [
-        "carta literaria",
-        "memoria histórica",
-        "cultura española"
-      ],
-      "context": [
-        {
-          "label": "antecedentes literarios",
-          "text": "Camilo José Cela, ganador del Premio Nobel de Literatura en 1989, empezó su carrera poética en los años 30 y su obra temprana se vio influenciada por la Guerra Civil española, mientras que Dolores Franco, conocida como 'Lolita', fue una estudiante de filosofía que más tarde se convirtió en crítica y editora."
-        },
-        {
-          "label": "contexto histórico‑político",
-          "text": "El periodo 1934‑1942 en España estuvo marcado por la Guerra Civil (1936‑1939) y la instauración del régimen franquista, que impuso censura y limitó la libertad de expresión, afectando tanto a escritores como a intelectuales."
-        },
-        {
-          "label": "enfoques de otros medios",
-          "text": "Otros medios, como Genbeta y La Jornada, emplearon la frase 'nosotros cada vez somos menos' para comentar la pérdida de comercios locales y cambios sociales, mostrando un encuadre económico‑social distinto al análisis literario de Letras Libres."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a73768f4eb89",
-      "title": "Colo-Colo de Chile oficializa contratación de portero Vozinha",
-      "summary": "El club chileno Colo‑Colo anunció la contratación del veterano portero caboverdiano Vozinha, de 40 años, con un contrato de 18 meses, tras su destacada actuación en la Copa del Mundo 2026 donde ayudó a Cabo Verde a superar la fase de grupos.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/deportes/colo-colo-chile-oficializa-contratacion-portero-vozinha-20260803-826427.html",
-      "published_at": "2026-08-03T23:13:04+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar de forma objetiva sobre el fichaje, sin usar adjetivos cargados ni citar fuentes con sesgo político; el tono es meramente informativo deportivo.",
-      "focus_analysis": "El medio se centra en el aspecto deportivo y la trayectoria del jugador, dejando fuera cualquier análisis económico o institucional del club.",
-      "focus_tags": [
-        "fútbol",
-        "fichaje",
-        "Colo‑Colo"
-      ],
-      "context": [
-        {
-          "label": "Club histórico",
-          "text": "Colo‑Colo es el equipo más laureado del fútbol chileno, con múltiples títulos de liga y una gran base de seguidores a nivel nacional."
-        },
-        {
-          "label": "Desempeño de Cabo Verde",
-          "text": "En la Copa del Mundo 2026, Cabo Verde, liderado por Vozinha, logró pasar la fase de grupos antes de ser eliminado por Argentina en octavos de final."
-        },
-        {
-          "label": "Trayectoria del jugador",
-          "text": "Vozinha, de 40 años, ha jugado en clubes de Angola, Chipre, Moldavia, Eslovaquia y la segunda división portuguesa antes de unirse a Colo‑Colo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "2c5e1c91579c",
-      "title": "Talleres Danza UNAM: abren inscripciones para aprender desde cero o retomar algún nivel",
-      "summary": "Los Talleres Danza UNAM de la Universidad Nacional Autónoma de México abren inscripciones para el ciclo 2026‑2, ofreciendo clases presenciales y en línea para principiantes, intermedios y avanzados, con horarios flexibles y opciones inclusivas para jóvenes, adultos, adultos mayores, personas neurodivergentes y con discapacidad intelectual.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/03/talleres-danza-unam-abren-inscripciones-para-aprender-desde-cero-o-retomar-algun-nivel/",
-      "published_at": "2026-08-03T23:14:58+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la oferta del programa con un tono informativo y sin lenguaje cargado ni selección de fuentes que favorezcan una postura política.",
-      "focus_analysis": "El medio se centra en el aspecto cultural e inclusivo del programa de danza, resaltando la accesibilidad y la diversidad de participantes; no aborda el costo del programa ni su impacto económico para la UNAM o los participantes.",
-      "focus_tags": [
-        "cultura",
-        "inclusión",
-        "educación"
-      ],
-      "context": [
-        {
-          "label": "Programas culturales de la UNAM",
-          "text": "La Universidad Nacional Autónoma de México tiene una larga tradición de ofrecer actividades culturales abiertas al público, como conciertos, exposiciones y talleres de arte, con el objetivo de difundir la cultura y fortalecer el vínculo con la comunidad."
-        },
-        {
-          "label": "Política de inclusión en México",
-          "text": "En los últimos años, el gobierno mexicano ha impulsado normas y subsidios para garantizar la participación de personas con discapacidad en actividades recreativas y educativas, lo que se refleja en iniciativas como los talleres de danza que aceptan a este público."
-        },
-        {
-          "label": "Tendencia de talleres universitarios abiertos",
-          "text": "Varias universidades mexicanas, como la Universidad de Guadalajara y el Tecnológico de Monterrey, han implementado programas de talleres abiertos al público en áreas de arte y deporte, buscando generar ingresos adicionales y promover la cultura ciudadana."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "2cd0d804c25d",
-      "title": "Estudiantes protestan contra examen de control de la UNAM",
-      "summary": "Estudiantes de la Universidad Nacional Autónoma de México (UNAM) se manifestaron en Ciudad Universitaria y cerraron Insurgentes para exigir una mesa de diálogo y mayor transparencia sobre el examen presencial de control que la universidad impuso tras sospechas de uso de inteligencia artificial en la prueba de admisión.",
-      "category": "sociedad",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/0308/mexico/estudiantes-protestan-contra-examen-de-control-de-la-unam/",
-      "published_at": "2026-08-03T23:15:42+00:00",
-      "bias_score": -25,
-      "bias_reason": "El texto destaca mayormente las voces y demandas de los estudiantes, utiliza términos como “denuncias” y “fraude”, y no incluye declaraciones oficiales de la UNAM, lo que le confiere un matiz ligeramente crítico con la institución.",
-      "focus_analysis": "El medio se centra en el ángulo humano e institucional, resaltando la protesta estudiantil y la petición de transparencia, dejando de lado análisis de costos o implicaciones académicas más amplias.",
-      "focus_tags": [
-        "protesta estudiantil",
-        "examen de control",
-        "transparencia académica"
-      ],
-      "context": [
-        {
-          "label": "decisión de la UNAM",
-          "text": "La UNAM anunció que un grupo de aspirantes con puntajes atípicos debía repetir el examen de admisión de manera presencial, tras denuncias de posible uso de inteligencia artificial en la prueba en línea."
-        },
-        {
-          "label": "cobertura de Reforma",
-          "text": "Reforma informó que los aspirantes que rechazaron el nuevo examen bloquearon la avenida Insurgentes Sur durante más de dos horas, subrayando la oposición directa al control presencial."
-        },
-        {
-          "label": "cobertura de Etcetera",
-          "text": "Etcetera describió que el Comité Técnico de la UNAM recomendó repetir el examen solo a aspirantes con altos puntajes, enfocándose en la lógica técnica de la medida y en la reducción del número de examinados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "4bddefccf61a",
-      "title": "Vélez iguala con Independiente en Liniers por la fecha 3 del Torneo Clausura",
-      "summary": "Vélez Sarsfield e Independiente de Avellaneda empataron 1-1 en el estadio José Amalfitani durante la tercera fecha del Torneo Clausura, con ambos equipos manteniendo su posición en la cima de la Zona A.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/03/con-el-atractivo-duelo-entre-velez-independiente-sigue-la-fecha-3-del-torneo-clausura-todo-lo-que-hay-que-saber/",
-      "published_at": "2026-08-03T23:16:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido, sin usar adjetivos cargados ni favorecer a un equipo, manteniendo un tono objetivo y equilibrado.",
-      "focus_analysis": "El artículo se centra en el desarrollo del juego, las jugadas clave y la posición de los equipos en la tabla, dejando de lado aspectos como la afición, la economía del club o el contexto histórico del torneo.",
-      "focus_tags": [
-        "fútbol",
-        "torneo clausura",
-        "Vélez vs Independiente"
-      ],
-      "context": [
-        {
-          "label": "estructura del torneo",
-          "text": "El Torneo Clausura es la segunda mitad del calendario de la Primera División argentina, dividido en zonas donde los equipos compiten por la clasificación a los playoffs y la permanencia."
-        },
-        {
-          "label": "situación de Vélez Sarsfield",
-          "text": "Vélez Sarsfield llega a la tercera fecha con un buen inicio, ocupando los primeros puestos de la Zona A tras dos victorias consecutivas que le permiten liderar la tabla."
-        },
-        {
-          "label": "situación de Independiente",
-          "text": "Independiente de Avellaneda también se mantiene en la cima de la zona, habiendo ganado sus dos primeros encuentros y reforzado su plantilla con la incorporación del arquero uruguayo Santiago Mele."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
       }
     }
   ]
