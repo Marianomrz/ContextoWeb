@@ -1,142 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-04T01:21:40.869596+00:00",
-      "title": "Profepa clausura obras por devastación de manglares en Celestún, Yucatán",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de veracidad, objetividad y estructura, aunque podría mejorar la pluralidad de fuentes para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T01:40:37.416834+00:00",
-      "title": "Cuba sufre otro apagón nacional en menos de 24 horas; reporta \"eventos meteorológicos\"",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es actual y está bien estructurado, pero necesita fuentes más diversas y una mayor atribución de valoraciones para alcanzar una objetividad plena.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T01:40:41.052850+00:00",
-      "title": "San Lorenzo pierde con Central Córdoba en Santiago del Estero en el cierre de la tercera fecha del C",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares periodísticos de precisión, objetividad y actualidad; solo se destaca una ligera falta de fuentes múltiples, lo cual es aceptable en este tipo de cobertura.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T01:40:46.499440+00:00",
-      "title": "Petro dice que llegada al poder de Espriella puede desencadenar una \"guerra civil\" en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una noticia con falta de verificabilidad y contraste limitado, pero mantiene una estructura adecuada y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T01:40:52.487714+00:00",
-      "title": "Ceuta: UE apoya a España mientras persiste crisis de marroquíes en la frontera",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero necesita mayor respaldo de fuentes y mayor equilibrio al presentar acusaciones sobre Marruecos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T01:40:59.025451+00:00",
-      "title": "¿Cómo se conocieron? El origen de la relación entre Alejandra Tijerina y Masad Altamimi que hoy enfr",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares periodísticos, aunque debería reforzar la verificación de datos y aportar fuentes adicionales para mayor robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T01:41:04.630071+00:00",
-      "title": "Esta IA china puede programar sola durante 16 días, es gratis y ya dejó en ridículo a Claude",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita mejorar la precisión de los datos y ofrecer fuentes contrastadas para cumplir con los estándares periodísticos; actualmente presenta sesgo y afirmaciones no verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T01:41:13.905221+00:00",
-      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzarse con fuentes adicionales para validar algunos detalles históricos.",
-      "error": null
-    },
-    {
       "at": "2026-08-04T01:41:19.261450+00:00",
       "title": "Fans de Harry Styles se defienden tras críticas por esperarlo afuera de su hotel: \"no queremos moles",
       "kind": "noticia",
@@ -3392,6 +3256,142 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los criterios de objetividad, actualidad y estructura, pero la falta de datos verificables sobre los autores reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:00:41.273121+00:00",
+      "title": "Fragmentos de jazmín: la voz interior de Clarice Lispector",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "originalidad_creatividad": 8,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 7,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares literarios, ofreciendo originalidad y profundidad con un estilo atractivo y una voz coherente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:00:45.374757+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP lleva la crisis de Ceuta al Par",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría mejorar la verificación de fuentes y la inclusión de perspectivas humanitarias para mayor equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:00:51.503447+00:00",
+      "title": "Rebelión en la cuarta",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información factual y actual, presentando la noticia de forma clara y sin sesgo evidente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:00:56.764739+00:00",
+      "title": "La Casa de los Famosos México 2026 EN VIVO: Moisés es el líder de la semana y compartirá la suite co",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información reciente, objetiva y bien estructurada sobre el evento de entretenimiento.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:01:04.028644+00:00",
+      "title": "‘Quitar escuelas militarizadas afecta a casi 13 mil alumnos’",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado y actual, aunque le falta mayor contraste de fuentes y una mayor neutralidad en el lenguaje.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:01:10.010226+00:00",
+      "title": "India da un nuevo paso para convertirse en \"la nueva China\" de Apple: más ventajas fiscales hasta 20",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y objetivo, pero la precisión de datos y la falta de fuentes diversificadas reducen su calidad periodística.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:01:17.372320+00:00",
+      "title": "Espliego, que no faneca (I)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando información verificable, fuentes fiables y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T09:01:21.695182+00:00",
+      "title": "La historia de Zoey Kuhn, la delantera norteamericana que ilusiona a Rosario Central con sus goles y",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de objetividad y actualidad, pero necesita fuentes más robustas para reforzar la veracidad y el contraste de información.",
       "error": null
     }
   ]
