@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-04T04:21:28.369297+00:00",
+  "generated_at": "2026-08-04T04:41:30.689638+00:00",
   "articles": [
+    {
+      "id": "f96d8e56b28d",
+      "title": "Asesinan afuera de domicilio a hombre conocido como “El Cholo”",
+      "summary": "Alejandro, conocido como \"El Cholo\", fue asesinado a tiros mientras conversaba afuera de su vivienda en la colonia Benito Juárez de Irapuato, Guanajuato, y la intervención de la Guardia Nacional, el Ejército y la Policía Municipal llegó tras el tiroteo.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/irapuato/2026/08/03/asesinan-afuera-de-domicilio-a-hombre-conocido-como-el-cholo-1827397.html",
+      "published_at": "2026-08-04T04:17:51+00:00",
+      "bias_score": 2,
+      "bias_reason": "El texto usa un lenguaje descriptivo y neutral, sin cargar términos políticos ni citar fuentes con sesgo ideológico; se limita a reportar hechos y la respuesta de las autoridades.",
+      "focus_analysis": "El artículo se centra en la crónica del hecho delictivo y la respuesta de seguridad, omitiendo el posible motivo del crimen y el contexto de violencia en la región.",
+      "focus_tags": [
+        "violencia",
+        "seguridad pública",
+        "Irapuato"
+      ],
+      "context": [
+        {
+          "label": "Tendencias de violencia",
+          "text": "Según datos del INEGI, la tasa de homicidios en el estado de Guanajuato ha mostrado un incremento sostenido en los últimos años, situándose por encima del promedio nacional."
+        },
+        {
+          "label": "Estructura de seguridad",
+          "text": "En México, la Guardia Nacional y la Policía Municipal colaboran en la investigación de delitos graves, mientras que la Fiscalía Regional es responsable de la recolección de pruebas y la autopsia."
+        },
+        {
+          "label": "Perfil del víctima",
+          "text": "Alejandro, alias \"El Cholo\", tenía antecedentes judiciales por delitos contra la salud, lo que indica una posible vinculación con actividades delictivas previas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "730559597696",
+      "title": "Milei desregula la importación de alimentos",
+      "summary": "El presidente de Argentina, Javier Milei, impulsó mediante el Decreto 697/2026 la desregulación de la importación de alimentos, materias primas y aditivos, simplificando los trámites y aceptando certificaciones internacionales para reducir la burocracia y los costos operativos.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/milei-desregula-importacion-alimentos-20260803-826482.html",
+      "published_at": "2026-08-04T04:37:43+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea un tono favorable al describir la medida como una reducción de burocracia y un ahorro de costos, sin mencionar posibles riesgos, lo que refleja una postura pro‑mercado ligeramente a la derecha.",
+      "focus_analysis": "El artículo se centra en el ángulo económico‑institucional, resaltando la simplificación administrativa y los beneficios para el comercio, mientras deja de lado consideraciones de salud pública o el impacto en productores locales.",
+      "focus_tags": [
+        "regulación alimentaria",
+        "política económica",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Agenda de desregulación de Milei",
+          "text": "Desde su asunción, el presidente Javier Milei ha promovido una serie de reformas orientadas a reducir la intervención estatal en la economía, incluyendo cambios en el mercado laboral y la eliminación de regulaciones que, según su gobierno, obstaculizan la inversión."
+        },
+        {
+          "label": "Regulación anterior de importaciones alimentarias",
+          "text": "Antes del Decreto 697/2026, la importación de alimentos en Argentina estaba sujeta a extensos procedimientos de autorización sanitaria, lo que generaba retrasos y costos elevados para los importadores y, a veces, limitaba la disponibilidad de ciertos productos."
+        },
+        {
+          "label": "Codex Alimentarius y certificaciones internacionales",
+          "text": "El Codex Alimentarius es un conjunto de normas internacionales de seguridad alimentaria aceptado por muchos países; su reconocimiento facilita el comercio al armonizar requisitos sanitarios, pero también genera debates sobre la adecuación de los estándares a contextos locales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "12f5eb242187",
+      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
+      "summary": "El intercambio epistolar entre el escritor español Camilo José Cela y la estudiante de filosofía Dolores Franco, escrito entre 1934 y 1942, muestra una amistad marcada por la guerra, la literatura y la transformación de la España de la época.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/libros/porque-nosotros-cada-vez-somos-menos/16/07/2026/",
+      "published_at": "2026-08-03T07:01:00+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto utiliza conceptos como \"Tercera España\" y \"memoria histórica\" y enfatiza la crítica a la censura y al franquismo, lo que indica una inclinación progresista típica de Letras Libres.",
+      "focus_analysis": "El artículo se centra en la dimensión literaria e histórica del epistolario, dejando de lado un análisis político más profundo o la repercusión socio‑económica de la época.",
+      "focus_tags": [
+        "literatura histórica",
+        "memoria española",
+        "cultura de la guerra"
+      ],
+      "context": [
+        {
+          "label": "Contexto histórico",
+          "text": "Durante la década de 1930 y la Guerra Civil española, la vida intelectual de Madrid se vio afectada por la violencia política y la censura, lo que influyó en la correspondencia de escritores como Cela."
+        },
+        {
+          "label": "Trayectoria de Camilo José Cela",
+          "text": "Camilo José Cela, quien más tarde recibiría el Premio Nobel de Literatura en 1989, comenzó su carrera como poeta y novelista en la España de la posguerra, y sus primeros manuscritos aparecen en estas cartas."
+        },
+        {
+          "label": "Enfoques de otros medios",
+          "text": "Mientras que la cobertura de Letras Libres se centra en el valor literario e histórico de las cartas, otros medios como Genbeta y La Jornada resaltan aspectos económicos y sociales de la transformación de la sociedad española, como la disminución de comercios locales y los cambios en la identidad colectiva."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "df3e0ac46f4f",
+      "title": "Normal Mactumactzá rechaza denuncias por presuntos abusos; afirma que no reflejan la realidad",
+      "summary": "La Escuela Normal Rural Mactumactzá, en Chiapas, rechazó las denuncias de presuntos abusos contra derechos humanos realizadas por aspirantes y sus familiares, asegurando que la información difundida no corresponde a la realidad de la institución.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/normal-mactumactza-rechaza-denuncias-por-presuntos-abusos-afirma-que-no-reflejan-la-realidad/",
+      "published_at": "2026-08-04T04:19:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo reproduce mayormente el comunicado institucional sin incorporar fuentes independientes ni análisis crítico, lo que muestra una ligera inclinación a favor de la escuela pero sin un sesgo evidente.",
+      "focus_analysis": "El medio se centra en la postura institucional y en la defensa de la reputación de la escuela, dejando de lado la perspectiva de los denunciantes y los detalles de la investigación judicial.",
+      "focus_tags": [
+        "institucional",
+        "derechos humanos",
+        "educación"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Las Escuelas Normales Rurales en México forman a futuros docentes y en ocasiones han sido objeto de denuncias por prácticas abusivas, lo que ha generado debates sobre la protección de los derechos humanos en instituciones educativas."
+        },
+        {
+          "label": "investigación",
+          "text": "La Fiscalía General del Estado de Chiapas ha abierto una investigación formal sobre las acusaciones presentadas por los aspirantes y sus familias, lo que indica que el caso está siendo revisado por autoridades judiciales."
+        },
+        {
+          "label": "contexto de derechos humanos",
+          "text": "Organizaciones de la sociedad civil en Chiapas han señalado la vulnerabilidad de los estudiantes en procesos de inducción y han pedido mayor transparencia y mecanismos de denuncia efectivos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "2d41602a7645",
+      "title": "Revelan cinco denuncias más por tortura y abuso en academia militarizada",
+      "summary": "La presidenta del Poder Judicial de Tamaulipas, Tania Contreras López, anunció que existen al menos cinco denuncias adicionales de menores contra responsables de tortura y presuntas violaciones en la academia militar Marina Doenitz, donde ocurrió la muerte de la niña Dafne Zapata Quintos, y confirmó que la investigación sigue en curso.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/nacional/2026/08/03/revelan-cinco-denuncias-mas-por-tortura-y-abuso-en-academia-militarizada-1827408.html",
+      "published_at": "2026-08-04T04:34:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje informativo y cite, se basa en declaraciones oficiales y no incluye adjetivos cargados ni fuentes partidistas.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y judicial, resaltando los procesos legales y la respuesta del Poder Judicial, mientras minimiza la dimensión humana y de derechos humanos de las víctimas.",
+      "focus_tags": [
+        "justicia",
+        "abuso sexual",
+        "academia militar"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "En julio de 2026, la niña de 13 años Dafne Zapata Quintos murió dentro de la academia militar Marina Doenitz en Ciudad Madero, lo que provocó la apertura de una carpeta de investigación por feminicidio y la vinculación a proceso de tres empleados de la institución."
+        },
+        {
+          "label": "datos comparables",
+          "text": "Casos de abusos y violaciones en instituciones militares y de seguridad han sido documentados en varios estados de México, generando críticas por la impunidad y la necesidad de reformas en los protocolos de protección de menores."
+        },
+        {
+          "label": "postura de otros medios",
+          "text": "El periódico El Informador también informó sobre la existencia de más de cinco denuncias y señaló que la fiscalía estatal no descartó nuevas detenciones, enfatizando la continuidad de la investigación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "63217b8c5296",
+      "title": "Ecopetrol registra sus ganancias más altas desde 2022",
+      "summary": "Ecopetrol, la empresa estatal de hidrocarburos de Colombia, anunció que sus ganancias del segundo trimestre de 2026 alcanzaron los 6.1 billones de pesos, la cifra más alta desde el cuarto trimestre de 2022, impulsadas por ingresos de 40.2 billones de pesos y un Ebitda de 17.7 billones de pesos.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/ecopetrol-registra-ganancias-altas-20260803-826483.html",
+      "published_at": "2026-08-04T04:39:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos financieros y operacionales sin usar vocabulario cargado ni citar fuentes con agenda política, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio destaca el desempeño económico y los indicadores de producción de Ecopetrol, dejando de lado aspectos medioambientales o sociales relacionados con la actividad petrolera.",
+      "focus_tags": [
+        "ganancias",
+        "producción petrolera",
+        "resultados financieros"
+      ],
+      "context": [
+        {
+          "label": "Antecedente empresarial",
+          "text": "Ecopetrol es la principal compañía de petróleo de Colombia, fundada en 1951 y controlada mayoritariamente por el Estado, lo que la convierte en una pieza clave del sector energético nacional."
+        },
+        {
+          "label": "Entorno del mercado global",
+          "text": "Los precios internacionales del crudo han experimentado volatilidad en los últimos años, con una tendencia al alza en 2025‑2026 que ha favorecido los ingresos de los productores latinoamericanos."
+        },
+        {
+          "label": "Comparación histórica",
+          "text": "Las utilidades de Ecopetrol en el segundo trimestre de 2026 fueron 235 % superiores a las del mismo período de 2025, acercándose a los niveles alcanzados en el cuarto trimestre de 2022, cuando la empresa reportó 6.85 billones de pesos en ganancias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "0430b1b92301",
       "title": "Moody's eleva calificación de Quintana Roo; reconoce el fortalecimiento de sus finanzas públicas",
@@ -836,217 +1046,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "a20cee19cbc2",
-      "title": "Café en taza agrietada: la literatura que repara los fragmentos cotidianos",
-      "summary": "Una taza de porcelana rota descansa sobre la mesa, sus grietas dibujan ríos de luz que se cuelan entre los dedos. En ese reflejo, los fragmentos de la vida cotidiana se convierten en palabras que se recomponen como mosaico. La novela de Margarita García Robayo, *Señorita México*, sirve de pegamento, ofreciendo una voz que recoge los pedazos dispersos del día a día.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-04T03:20:34.914435+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, mientras el verano se cuela por la ventana, recuerdo cómo los pequeños desastres domésticos revelan la fragilidad de nuestras rutinas. Elegí este ángulo porque la literatura que observa lo cotidiano con ojo de artesano nos invita a reparar, sin pretensiones, los huecos que el tiempo deja. La obra de García Robayo, con su estilo terso y su humor melancólico, encaja como la taza que, a pesar de sus grietas, sigue conteniendo café.",
-      "focus_tags": [
-        "novela contemporánea",
-        "Colombia",
-        "realismo cotidiano"
-      ],
-      "context": [
-        {
-          "label": "Autor",
-          "text": "Margarita García Robayo, nacida en Bogotá en 1978, ha sido una de las voces más resonantes de la narrativa latinoamericana reciente. Su prosa, a la vez escueta y cargada de ironía, explora la cotidianidad con una mirada que desarma los convencionalismos de la novela tradicional."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Si el eco de *Señorita México* resuena en ti, continúa con *Los abismos* (2022), una colección de cuentos que también se alimenta de los espacios entre lo dicho y lo callado. Otros autores que comparten esa sensibilidad son Samanta Schweblin (Argentina) y Sayaka Murata (Japón)."
-        },
-        {
-          "label": "Trasfondo",
-          "text": "La novela se sitúa en la frontera entre México y Estados Unidos, donde el protagonismo de la migración y la búsqueda de identidad se entrelazan con la rutina de una cafetería. Este escenario permite que la trama se convierta en una crónica de pequeños actos de resistencia cotidiana."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "12f5eb242187",
-      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
-      "summary": "El epistolario de Camilo José Cela y Dolores Franco, escrito entre 1934 y 1942, muestra una amistad literaria marcada por la Guerra Civil española y la transformación de la Tercera España. Las cartas revelan tensiones de género, ambiciones intelectuales y la violencia política de la época.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/libros/porque-nosotros-cada-vez-somos-menos/16/07/2026/",
-      "published_at": "2026-08-03T07:01:00+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto emplea un tono académico y descriptivo, sin vocabulario cargado ni fuentes partidistas; se centra en la literatura y la memoria histórica más que en una agenda política.",
-      "focus_analysis": "El medio opta por un ángulo literario‑histórico, resaltando la relación personal y la reflexión sobre género y guerra, mientras deja de lado el análisis del impacto político posterior de los autores y la recepción contemporánea de sus obras.",
-      "focus_tags": [
-        "literatura española",
-        "epistolario histórico",
-        "género y guerra"
-      ],
-      "context": [
-        {
-          "label": "Camilo José Cela",
-          "text": "Camilo José Cela (1916‑2002) fue un novelista y poeta español, ganador del Premio Nobel de Literatura en 1989, cuya obra temprana se desarrolló durante la Guerra Civil y la posguerra, periodo en el que también colaboró con la censura franquista."
-        },
-        {
-          "label": "Dolores Franco (Lolita Franco)",
-          "text": "Dolores Franco, conocida como Lolita Franco, fue una escritora y ensayista española que estudió filosofía y letras, participó en círculos intelectuales de la posguerra y más tarde editó la antología \"España como preocupación\"."
-        },
-        {
-          "label": "Contexto histórico",
-          "text": "Durante los años 1934‑1942 España vivió la Guerra Civil y la instauración de la dictadura de Franco, un periodo llamado a veces \"Tercera España\", caracterizado por la represión política, la censura y la polarización de la vida cultural."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "2007df1947ba",
-      "title": "Cuba encadena dos apagones nacionales en menos de 24 horas y no logra levantar la red eléctrica",
-      "summary": "El Gobierno de Cuba enfrentó dos apagones nacionales en menos de 24 horas, dejando sin suministro eléctrico a cerca de diez millones de personas y revelando una crisis del sistema eléctrico atribuida al envejecimiento de las centrales y al embargo energético de Estados Unidos.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/am%C3%A9rica-latina/20260804-cuba-encadena-dos-apagones-nacionales-en-menos-de-24-horas-y-no-logra-levantar-la-red-el%C3%A9ctrica",
-      "published_at": "2026-08-04T02:15:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, presenta ambas versiones de la causa (embargo estadounidense y mala gestión cubana) y se basa en datos sin emplear términos cargados ni favorecer a ninguna parte.",
-      "focus_analysis": "El medio se centra en la crisis técnica y económica del sistema eléctrico, describiendo el desgaste de la infraestructura y el impacto en la población, mientras que deja de lado un análisis más profundo de la legitimidad política del régimen y de la geopolítica de las sanciones.",
-      "focus_tags": [
-        "crisis eléctrica",
-        "embargo EE.UU.",
-        "cortes de energía"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del sistema eléctrico cubano",
-          "text": "La mayor parte de la generación eléctrica de Cuba proviene de centrales termoeléctricas construidas en los años sesenta y setenta, muchas de las cuales están fuera de servicio por falta de mantenimiento y uso de combustible pesado."
-        },
-        {
-          "label": "Historial de apagones recientes",
-          "text": "El apagón de agosto es el sexto corte nacional del año y el undécimo en los últimos dos años, lo que indica una tendencia de fallas recurrentes en la red eléctrica del país."
-        },
-        {
-          "label": "Enfoques de otros medios",
-          "text": "Coberturas como la de Aristegui Noticias y El Universal subrayan el impacto humanitario en los nueve millones de habitantes y atribuyen la crisis principalmente a las sanciones estadounidenses, contrastando con el énfasis de France24 en la combinación de factores técnicos y políticos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "8b6cf9c65e98",
-      "title": "San Lorenzo perdió 1-0 con Central Córdoba en Santiago del Estero en el cierre de la fecha 3 del Clausura",
-      "summary": "San Lorenzo fue derrotado 1-0 por Central Córdoba en el Estadio Único Madre de Ciudades, lo que lo dejó en el undécimo puesto de la Zona A del Torneo Clausura, mientras que Central Córdoba alcanzó la duodécima posición tras su primer triunfo.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/03/san-lorenzo-visitara-a-central-cordoba-en-santiago-del-estero-en-el-cierre-de-la-tercera-fecha-del-clausura-hora-tv-y-formaciones/",
-      "published_at": "2026-08-04T02:30:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido con tono neutro, sin lenguaje cargado ni selección parcial de fuentes.",
-      "focus_analysis": "El medio se centró en el resultado del encuentro y los detalles tácticos, dejando de lado la repercusión en la clasificación general y la respuesta de los hinchas.",
-      "focus_tags": [
-        "resultado",
-        "torneo clausura",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Posición de San Lorenzo",
-          "text": "Tras la derrota, San Lorenzo se ubicó en el undécimo puesto de la Zona A del Torneo Clausura, con 5 puntos en cinco partidos."
-        },
-        {
-          "label": "Posición de Central Córdoba",
-          "text": "Con la victoria, Central Córdoba alcanzó la duodécima posición entre los 15 equipos del mismo grupo, sumando su primer triunfo del torneo."
-        },
-        {
-          "label": "Próximo clásico",
-          "text": "San Lorenzo enfrentará a su rival histórico Huracán en la siguiente fecha, partido que se jugará el domingo en el Nuevo Gasómetro."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "0cfd249b089b",
-      "title": "Caen tres presuntos extorsionadores en la alcaldía Benito Juárez; exigían pagos mensuales a un comerciante",
-      "summary": "Tres hombres de entre 33 y 35 años fueron detenidos por la Secretaría de Seguridad Ciudadana de la Ciudad de México tras una denuncia de un comerciante de la alcaldía Benito Juárez, quienes supuestamente exigían pagos mensuales bajo amenaza de violencia.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/caen-tres-presuntos-extorsionadores-en-la-alcaldia-benito-juarez-exigian-pagos-mensuales-a-un-comerciante/",
-      "published_at": "2026-08-04T02:53:28+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos policiales sin usar lenguaje cargado ni citar fuentes políticas, manteniendo un tono informativo.",
-      "focus_analysis": "El medio se centra en la acción de seguridad y la captura de los presuntos extorsionadores, dejando de lado el contexto socio‑económico que favorece la extorsión.",
-      "focus_tags": [
-        "seguridad pública",
-        "extorsión",
-        "alcaldía Benito Juárez"
-      ],
-      "context": [
-        {
-          "label": "antecedentes de extorsión en CDMX",
-          "text": "La extorsión es un delito frecuente en la Ciudad de México, con cifras que indican cientos de casos reportados anualmente, especialmente en alcaldías como Benito Juárez, donde grupos delictivos exigen pagos a comercios y servicios."
-        },
-        {
-          "label": "funciones de la Secretaría de Seguridad Ciudadana",
-          "text": "La SSC, creada en 2018, coordina operativos de prevención y captura de delitos en la capital, y ha intensificado patrullajes y denuncias ciudadanas para combatir la criminalidad."
-        },
-        {
-          "label": "participación ciudadana en la seguridad",
-          "text": "Las denuncias de la población son un componente clave de la estrategia de seguridad de la CDMX, y la colaboración entre comerciantes y la policía ha permitido la detención de varios sospechosos de extorsión en los últimos meses."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "da293cfcaf29",
-      "title": "Sin nueva fecha: la Corte de Nueva York pospone la audiencia de Gerardo Mérida Sánchez",
-      "summary": "La Corte Federal del Distrito Sur de Nueva York posp la audiencia del proceso judicial contra el general retirado Gerardo Mérida Sánchez, exsecretario de Seguridad Pública de Sinaloa, sin establecer una nueva fecha, mientras el exfuncionario sigue en prisión preventiva en Brooklyn.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/04/sin-nueva-fecha-la-corte-de-nueva-york-pospone-la-audiencia-de-gerardo-merida-sanchez/",
-      "published_at": "2026-08-04T02:53:29+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos judiciales y los cargos, sin usar adjetivos cargados ni favorecer a ninguna parte; incluye tanto la posición de la fiscalía como la ausencia de pruebas públicas.",
-      "focus_analysis": "El medio se centra en el ángulo institucional‑legal, detallando la audiencia, los cargos y el contexto judicial, dejando de lado el impacto humano del detenido y el análisis político de la implicación del gobierno de Sinaloa.",
-      "focus_tags": [
-        "legal",
-        "narcotráfico",
-        "EEUU"
-      ],
-      "context": [
-        {
-          "label": "cártel",
-          "text": "Los Chapitos, una rama del Cártel de Sinaloa liderada por los hijos de Joaquín “El Chapo” Guzmán, están acusados de colaborar con funcionarios estatales para el tráfico de fentanilo y armas hacia Estados Unidos."
-        },
-        {
-          "label": "política estatal",
-          "text": "Rubén Rocha Moya, actual gobernador de Sinaloa y miembro del partido Morena, fue jefe de la administración en la que Mérida Sánchez ocupó la secretaría de seguridad, y también está señalado en la misma investigación federal."
-        },
-        {
-          "label": "cobertura comparada",
-          "text": "Otros medios, como El Sol de México, subrayan el vínculo de Mérida Sánchez con la administración de Rocha Moya y la relevancia política del caso, mientras que Infobae se mantiene en la descripción del proceso judicial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
