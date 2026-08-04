@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-04T08:21:27.634759+00:00",
+  "generated_at": "2026-08-04T08:41:21.370161+00:00",
   "articles": [
+    {
+      "id": "b46648e94ce4",
+      "title": "Captura",
+      "summary": "El Economista publica una lista de sus últimos cartones, breves columnas de opinión sobre política, economía y cultura escritas por autores como Chavo del Toro y Perujo.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/captura-20260804-826517.html",
+      "published_at": "2026-08-04T08:37:02+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto solo enumera títulos sin emplear vocabulario cargado ni presentar fuentes con inclinación política, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio opta por ofrecer un compendio de piezas de opinión, destacando la variedad temática, pero no profundiza en el análisis de cada tema.",
+      "focus_tags": [
+        "opinion roundup",
+        "media content",
+        "cultural commentary"
+      ],
+      "context": [
+        {
+          "label": "Medio",
+          "text": "El Economista es un periódico financiero español que combina información económica con secciones de opinión."
+        },
+        {
+          "label": "Sección cartón",
+          "text": "Los cartones son columnas breves que tratan temas de actualidad y son publicados por colaboradores habituales como Chavo del Toro y Perujo."
+        },
+        {
+          "label": "Comparación",
+          "text": "Otros diarios como Expansión o El País también incluyen secciones de opinión, aunque suelen acompañarlas de análisis más extensos."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "e1a9676cf165",
+      "title": "La historia de Zoey Kuhn, la delantera norteamericana que ilusiona a Rosario Central con sus goles y es furor en el fútbol femenino",
+      "summary": "Zoey Kuhn, delantera estadounidense de 22 años, llegó a Rosario Central femenino en abril de 2026 y en cuatro meses ha anotado siete goles y brindado siete asistencias, convirtiéndose en pieza clave del ataque y ayudando al equipo a liderar su zona de la Primera B femenina de Argentina.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/04/la-historia-de-zoey-kuhn-la-delantera-norteamericana-que-ilusiona-a-rosario-central-con-sus-goles-y-es-furor-en-el-futbol-femenino/",
+      "published_at": "2026-08-04T06:15:09+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un tono muy elogioso y destaca los logros de la jugadora con adjetivos positivos, pero no muestra una agenda política ni favorece a ningún grupo ideológico.",
+      "focus_analysis": "El medio se centra en la trayectoria deportiva y el impacto inmediato de la jugadora, resaltando estadísticas y su adaptación cultural, mientras omite aspectos estructurales del fútbol femenino como la financiación o la igualdad de género.",
+      "focus_tags": [
+        "rendimiento deportivo",
+        "integración cultural",
+        "fútbol femenino"
+      ],
+      "context": [
+        {
+          "label": "Situación de Rosario Central femenino",
+          "text": "Tras descender de la máxima categoría en la temporada 2025‑2026, Rosario Central femenino inició una fase de reconstrucción, contratando refuerzos internacionales para recuperar la posición en la Primera B."
+        },
+        {
+          "label": "Tendencia de jugadoras estadounidenses en Sudamérica",
+          "text": "En los últimos años, varias futbolistas de EE. UU., como Emily Ormson en Boca Juniors y Riley Meléndez en Ferro, han optado por jugar en ligas sudamericanas, buscando mayor tiempo de juego y exposición."
+        },
+        {
+          "label": "Desarrollo del fútbol femenino en Argentina",
+          "text": "La Primera B femenina, segunda división del fútbol femenino argentino, ha experimentado un crecimiento en competitividad y visibilidad, con un aumento de la asistencia a los partidos y mayor cobertura mediática."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "7cf0c0e405c5",
+      "title": "Espliego, que no faneca (I)",
+      "summary": "Bárbara Mingo Costales y Aloma Rodríguez publican en Letras Libres una carta‑ensayo veraniego que mezcla recuerdos de pesca, música y lecturas, y reflexiona sobre la rutina y la imaginación durante el verano.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/espliego-que-no-faneca-i/04/08/2026/",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono personal y descriptivo, sin usar vocabulario cargado ni citar fuentes políticas; la cobertura es neutra y centrada en la experiencia cotidiana.",
+      "focus_analysis": "El medio elige un ángulo íntimo y cultural, resaltando la vida familiar, la gastronomía marítima y la música; omite cualquier enfoque político, económico o de seguridad.",
+      "focus_tags": [
+        "verano personal",
+        "cultura gastronómica",
+        "reflexión familiar"
+      ],
+      "context": [
+        {
+          "label": "revista",
+          "text": "Letras Libres es una publicación cultural mexicana reconocida por su enfoque en ensayos literarios, arte y reflexión social."
+        },
+        {
+          "label": "verano en Galicia",
+          "text": "En la costa gallega, el verano se asocia tradicionalmente con la pesca, la exploración de playas y la convivencia familiar."
+        },
+        {
+          "label": "autores citados",
+          "text": "Miriam Toews, autora mencionada en la carta, es una escritora canadiense contemporánea cuyas obras exploran la identidad y la relación entre la realidad y la imaginación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "9272ebdc601c",
+      "title": "Yahir rompe el silencio sobre la enfermedad incurable de su mamá: “Ya no recuerda que canto”",
+      "summary": "El cantante mexicano Yahir reveló en el programa La Casa de los Famosos México que su madre, Dora Aurelia, padece Alzheimer y ya no reconoce su carrera musical, describiendo el impacto emocional y los cuidados que la familia ha tenido que asumir.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/04/yahir-rompe-el-silencio-sobre-la-enfermedad-incurable-de-su-mama-ya-no-recuerda-que-canto/",
+      "published_at": "2026-08-04T08:27:20+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono emotivo pero no incluye lenguaje partidista ni fuentes con carga política, centrándose en la historia personal del artista y su familia.",
+      "focus_analysis": "El medio eligió un ángulo humano‑emocional, resaltando la enfermedad de la madre y el efecto familiar, dejando de lado aspectos de la carrera musical de Yahir o la dinámica del reality show.",
+      "focus_tags": [
+        "salud",
+        "Alzheimer",
+        "entretenimiento"
+      ],
+      "context": [
+        {
+          "label": "Salud pública en México",
+          "text": "El Alzheimer es una de las principales causas de demencia en México, afectando a miles de familias y requiriendo cuidados especializados y apoyo institucional."
+        },
+        {
+          "label": "Reality La Casa de los Famosos México",
+          "text": "El programa, versión mexicana del formato internacional, reúne a celebridades en una casa aislada, donde comparten conversaciones personales que a menudo se convierten en titulares mediáticos."
+        },
+        {
+          "label": "Trayectoria de Yahir",
+          "text": "Yahir, cantante sonorense conocido por su participación en la telenovela Rebelde y por su carrera musical, ha sido una figura mediática recurrente en la televisión mexicana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "4df911f7747d",
+      "title": "‘Quitar escuelas militarizadas afecta a casi 13 mil alumnos’",
+      "summary": "El gobierno federal de México decidió eliminar las escuelas militarizadas, lo que afectará a aproximadamente 12 813 estudiantes y deja un vacío jurídico sobre las prácticas permitidas en este tipo de instituciones, según un análisis de la IEEC del Tecnológico de Monterrey.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/quitar-escuelas-militarizadas-afecta-a-casi-13-mil-alumnos/",
+      "published_at": "2026-08-04T08:28:28+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto emplea expresiones críticas como \"vacío jurídico\" y \"estigmatizar\" y enfatiza los abusos y la falta de regulación, mientras presenta datos académicos que equilibran la visión, lo que indica una ligera inclinación hacia la crítica del manejo gubernamental.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y legal, resaltando la falta de normativa clara y el impacto en los estudiantes, dejando de lado el aspecto humano personal de los alumnos y la dimensión económica del cierre de estas escuelas.",
+      "focus_tags": [
+        "educación militarizada",
+        "política educativa",
+        "vacío jurídico"
+      ],
+      "context": [
+        {
+          "label": "Cierre previo de una escuela militarizada",
+          "text": "En 2025 el Centro de Estudios de Educación Militarizada de Ciudad Obregón fue clausurado tras incumplir normas y por un caso de agresión contra un estudiante, evidenciando problemas de supervisión en este modelo educativo."
+        },
+        {
+          "label": "Muerte de Dafne Zapata Quintos",
+          "text": "La muerte de la niña de 13 años, Dafne Zapata Quintos, en un campamento de verano de una academia militarizada privada en Tamaulipas, provocó una mayor presión pública y mediática para revisar y cerrar estas instituciones."
+        },
+        {
+          "label": "Postura del gobierno según otras coberturas",
+          "text": "Otros medios informaron que la Secretaría de Educación Pública ordenó el cierre definitivo de todas las escuelas militarizadas tras la tragedia, subrayando la decisión gubernamental como respuesta a la presión social."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "a0aa54802718",
+      "title": "Rebelión en la cuarta",
+      "summary": "El Economista publica una columna titulada 'Rebelión en la cuarta' que agrupa varios artículos recientes sobre temas políticos y sociales, como la censura, la reforma electoral y la seguridad.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/rebelion-cuarta-20260804-826518.html",
+      "published_at": "2026-08-04T08:38:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a enumerar contenidos sin usar un cargado ni seleccionar fuentes con un sesgo evidente; el estilo es informativo y neutro.",
+      "focus_analysis": "El medio destaca el ángulo institucional y político de los temas tratados en los cartones, dejando de lado el impacto humano o económico de los mismos.",
+      "focus_tags": [
+        "política",
+        "institucional",
+        "cultura mediática"
+      ],
+      "context": [
+        {
+          "label": "significado de 'cuarta'",
+          "text": "En la prensa latinoamericana, la expresión 'cuarta' suele aludir al cuarto poder o la prensa, que ha sido objeto de debates sobre libertad de expresión y censura en los últimos años."
+        },
+        {
+          "label": "formato de los cartones",
+          "text": "El Economista emplea la sección de 'cartones' para publicar breves columnas de opinión que cubren una amplia gama de asuntos de actualidad, desde política hasta cultura."
+        },
+        {
+          "label": "tema de censura y reforma electoral",
+          "text": "Los títulos listados, como 'Ley Censura' y 'INE Nueva generación', reflejan la discusión pública en México y la región sobre nuevas leyes de control de contenidos y cambios en el sistema electoral."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "e1a9676cf165",
       "title": "La historia de Zoey Kuhn, la delantera norteamericana que ilusiona a Rosario Central con sus goles y es furor en el fútbol femenino",
@@ -839,217 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.6
-      }
-    },
-    {
-      "id": "63313b4e2634",
-      "title": "Cuando el silencio se vuelve porcelana: la literatura de la posguerra rusa",
-      "summary": "Un jarrón de porcelana agrietado yace sobre la mesa, cada fisura un eco de voces que se negaron a callar. En esa fractura se esconden los relatos de una generación que aprendió a escribir entre los disparos y los rezos nocturnos. La posguerra rusa, como la pieza rota, refleja la belleza y la pérdida en un mismo instante.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-04T07:40:37.475894+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, a veinte años del colapso de la Unión Soviética, vuelve a resonar la necesidad de escuchar los susurros que la historia intentó silenciar. Elegí la posguerra rusa porque sus narrativas ofrecen una brújula para entender la fragilidad de la esperanza en tiempos de reconstrucción. El ángulo del “silencio de porcelana” permite explorar cómo la literatura transforma el trauma en arte delicado pero resistente.",
-      "focus_tags": [
-        "Rusia",
-        "Posguerra",
-        "Narrativa"
-      ],
-      "context": [
-        {
-          "label": "Primeros pasos",
-          "text": "Comienza con Vasilij Grossman y su obra maestra “Vida y destino”, que captura la catástrofe de la guerra y la resiliencia del individuo. Su estilo combina crónica periodística y prosa poética, ofreciendo una visión sin filtros de la era."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Explora “Moscú–Pekín” de Alexander Solzhenitsyn, donde la novela se vuelve un espejo roto que refleja la deshumanización del Gulag y la dignidad persistente del ser humano. La narrativa de Solzhenitsyn es un ejercicio de memoria que se apoya en la precisión de los detalles."
-        },
-        {
-          "label": "Trasfondo histórico",
-          "text": "Entiende el contexto del bloqueo de Berlín, la descolonización y la reforma agraria soviética, procesos que moldearon la psyche colectiva y alimentaron la literatura de la posguerra. Estos eventos sirvieron de cimiento para la explosión de voces que, como la porcelana agrietada, nunca dejaron de resonar."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "77fc34265660",
-      "title": "Samsung acaba de batir uno de sus récords más longevos y parte de la culpa es del exitoso Samsung Galaxy Z Fold8",
-      "summary": "Samsung, la compañía surcoreana de electrónica, batió su récord histórico de reservas en Corea del Sur con los modelos Galaxy Z Fold8, Z Flip8 y Z Fold8 Ultra, superando al anterior Galaxy Note 10. A pesar de la escasez de chips y precios más altos, la demanda se mantuvo fuerte, impulsada por el diseño y las mejoras del Fold8.",
-      "category": "tecnologia",
-      "source_name": "El Androide Libre",
-      "source_url": "https://www.elespanol.com/elandroidelibre/moviles-android/20260804/samsung-acaba-batir-records-longevos-parte-culpa-exitoso-galaxy-fold8/1003744343134_0.html",
-      "published_at": "2026-08-04T07:00:18+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono mayormente elogioso hacia Samsung, resaltando sus logros sin presentar críticas ni opiniones contrapuestas, y se apoya en datos proporcionados por la propia empresa.",
-      "focus_analysis": "El medio se centró en el éxito comercial y técnico de los plegables de Samsung, destacando la demanda y la innovación del Galaxy Z Fold8, mientras dejó de lado la perspectiva de la competencia y el impacto de los precios elevados en los consumidores.",
-      "focus_tags": [
-        "ventas de smartphones",
-        "plegables",
-        "Samsung"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "El récord anterior de reservas en Corea del Sur pertenecía al Galaxy Note 10, que había alcanzado 1,38 millones de preventas, y los plegables de Samsung habían sido considerados productos de nicho durante varios años."
-        },
-        {
-          "label": "Datos del mercado",
-          "text": "El sector de smartphones enfrenta una escasez global de chips de memoria y un aumento de precios, lo que ha reducido los incentivos como almacenamiento gratuito en muchos mercados."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como Hipertextual, han puesto énfasis en las estrategias de reducción de costes de Samsung para futuros modelos, mostrando un enfoque distinto al de El Androide Libre, que se concentra en la demanda actual de los plegables."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "e1a9676cf165",
-      "title": "La historia de Zoey Kuhn, la delantera norteamericana que ilusiona a Rosario Central con sus goles y es furor en el fútbol femenino",
-      "summary": "Zoey Kuhn, delantera estadounidense de 22 años, llegó a Rosario Central en abril de 2026 y rápidamente se convirtió en pieza clave del ataque del equipo, anotando siete goles y ofreciendo siete asistencias en solo 458 minutos de juego en la Primera B femenina de Argentina.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/04/la-historia-de-zoey-kuhn-la-delantera-norteamericana-que-ilusiona-a-rosario-central-con-sus-goles-y-es-furor-en-el-futbol-femenino/",
-      "published_at": "2026-08-04T06:15:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos deportivos, estadísticas y declaraciones de la jugadora sin usar lenguaje cargado ni presentar opiniones políticas o ideológicas.",
-      "focus_analysis": "El medio se centra en el desempeño individual de la jugadora y su impacto positivo en el equipo, dejando de lado aspectos estructurales del fútbol femenino argentino como la financiación, la visibilidad mediática o la igualdad de género.",
-      "focus_tags": [
-        "fútbol femenino",
-        "jugadora extranjera",
-        "impacto deportivo"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Rosario Central había descendido de la Primera División femenina en la temporada anterior y buscaba reforzar su del para volver a la categoría superior."
-        },
-        {
-          "label": "tendencia",
-          "text": "En los últimos años, varios futbolistas estadounidenses, como Emily Ormson y Riley Meléndez, han firmado con clubes sudamericanos, mostrando una creciente atracción del fútbol argentino para talentos de EE. UU."
-        },
-        {
-          "label": "situación del fútbol femenino en Argentina",
-          "text": "El fútbol femenino argentino ha experimentado un crecimiento en popularidad y profesionalización, aunque aún enfrenta desafíos de inversión y cobertura mediática comparados con la rama masculina."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "7cf0c0e405c5",
-      "title": "Espliego, que no faneca (I)",
-      "summary": "En una carta publicada en la revista Letras Libres, la colaboradora Bárbara Mingo Costales reflexiona sobre el verano, describiendo pescados, canciones y lecturas mientras comparte anécdotas familiares y recomendaciones literarias.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/espliego-que-no-faneca-i/04/08/2026/",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es una reflexión personal sin lenguaje cargado ni fuentes políticas, manteniendo un tono neutro y descriptivo.",
-      "focus_analysis": "El medio eló un ángulo íntimo y cultural, centrado en la vida cotidiana, la música y la literatura, dejando de lado cualquier enfoque político o económico.",
-      "focus_tags": [
-        "verano",
-        "cultura",
-        "familia"
-      ],
-      "context": [
-        {
-          "label": "Ensayos estacionales en la prensa cultural",
-          "text": "Las revistas literarias españolas suelen publicar piezas que mezclan recuerdos personales con referencias culturales, ofreciendo una visión subjetiva de la temporada."
-        },
-        {
-          "label": "Música contemporánea mencionada",
-          "text": "La autora cita la canción \"Autómatas incorpóreos\" y el disco de Lorena Álvarez, lo que refleja la presencia de la música indie española en la narrativa cultural."
-        },
-        {
-          "label": "Conexión con la literatura internacional",
-          "text": "Se menciona la novela \"Tregua\" de Miriam Toews, indicando la influencia de la literatura extranjera en los lectores de Letras Libres."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "28ad46ca0554",
-      "title": "La Casa de los Famosos México 2026 EN VIVO: Moisés es el líder de la semana y compartirá la suite con Aldo Rendón",
-      "summary": "En la cuarta temporada de La Casa de los Famosos México 2026, Moisés se convirtió en el líder de la semana y compartirá la suite con Aldo Rendón, mientras que la cantante Mariana Ochoa fue la primera expulsada, manteniéndose la tendencia de que la primera eliminada sea siempre una mujer.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/02/la-casa-de-los-famosos-mexico-2026-primer-expulsado-hoy-domingo-2-de-agosto-en-vivo/",
-      "published_at": "2026-08-04T07:03:53+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono descriptivo y neutral, sin usar palabras cargadas ni citar fuentes con sesgo político; se limita a informar hechos del programa de entretenimiento.",
-      "focus_analysis": "El medio se centra en los aspectos de competencia y drama personal del reality, dejando de lado la discusión sobre la estrategia de transmisión de Televisa o el impacto mediático del programa.",
-      "focus_tags": [
-        "reality TV",
-        "competencia",
-        "entretenimiento"
-      ],
-      "context": [
-        {
-          "label": "Formato del programa",
-          "text": "La Casa de los Famosos México es un reality show de Televisa transmitido 24/7 en la plataforma de streaming ViX+, donde los participantes compiten por la inmunidad semanal y la audiencia decide eliminaciones mediante votaciones."
-        },
-        {
-          "label": "Patrón de eliminación",
-          "text": "Desde su inicio, en las cuatro temporadas del reality, la primera persona en ser expulsada ha sido siempre una mujer, una tendencia que se repitió en la temporada 2026 con la salida de la cantante Mariana Ochoa."
-        },
-        {
-          "label": "Dinámicas de interacción",
-          "text": "El programa incorpora dinámicas de participación del público, como la elección del líder y la introducción de elementos lúdicos como una tabla de ouija, que generan alianzas y rivalidades entre los habitante."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "0c1413a4ef41",
-      "title": "Andrew Garfield deja clara su condición para volver como Spider-Man",
-      "summary": "El actor Andrew Garfield declaró que sólo aceptaría volver a interpretar a Peter Parker si la película fuera muy original y fuera de los esquemas tradicionales de los superhéroes.",
-      "category": "sociedad",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/andrew-garfield-deja-clara-su-condicion-para-volver-como-spider-man/",
-      "published_at": "2026-08-04T07:15:07+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo emplea un tono informativo y cita al propio actor, sin usar lenguaje cargado ni inclinarse hacia ninguna posición política.",
-      "focus_analysis": "Se enfatiza la condición del actor y los futuros planes de Marvel, mientras se omite la reacción del público y el análisis crítico del género.",
-      "focus_tags": [
-        "cultura pop",
-        "cine de superhéroes",
-        "rumores de Marvel"
-      ],
-      "context": [
-        {
-          "label": "historial",
-          "text": "Andrew Garfield interpretó a Spider‑Man en las películas The Amazing Spider‑Man (2012) y su secuela (2014) y reapareció brevemente en No Way Home (2021)."
-        },
-        {
-          "label": "planes de Marvel",
-          "text": "Marvel Studios ha anunciado la próxima película Avengers: Secret Wars (diciembre 2027), que reunirá a personajes de distintas franquias del multiverso, incluyendo la posibilidad de que vuelvan los Spider‑Man de Tobey Maguire y Andrew Garfield."
-        },
-        {
-          "label": "entrevista",
-          "text": "En el podcast The Doscourse de The Playlist, Garfield explicó que buscaría una historia “muy peculiar”, “poco convencional” y “casi no aburrida”, incluso una película de viaje por carretera, como condición para regresar."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
