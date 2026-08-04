@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-04T15:41:37.243827+00:00",
-      "title": "Un AirTag casi le cuesta la cárcel en Zaragoza. El propio sistema de Apple ha conseguido salvarle",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, aunque debería incluir fuentes verificables y más perspectivas para cumplir con el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T15:41:43.720773+00:00",
-      "title": "Peso mexicano avanza frente al dólar por expectativas sobre conversaciones entre EU e Irán",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad, actualidad y veracidad, presentando datos verificables y fuentes fiables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T16:05:17.524486+00:00",
-      "title": "Así es la habitación secreta de Pixar en la que Steve Jobs se escondía durante horas",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo positivo, aunque es reciente y estructurado de forma adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T16:05:22.363509+00:00",
-      "title": "Sheinbaum recuerda declaración de Sergio Sarmiento contra los medios tras acusar al gobierno de cens",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero presenta deficiencias en la verificación de datos y en la presentación equilibrada de las distintas voces del conflicto político.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T16:05:28.489837+00:00",
-      "title": "Ranking Universidades 2027: UNAM y Tec de Monterrey se mantienen en el top 10 de latinoamérica",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es objetivo, pero la precisión de los datos es dudosa y la falta de fuentes múltiples reduce su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T16:05:33.961258+00:00",
-      "title": "Gobierno reporta ahorro de 5 mil mdp por eliminación de “pensiones doradas”; alista corrección de am",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión, objetividad y estructura, pero necesita incorporar fuentes contrastantes para ofrecer una visión más completa del conflicto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T16:05:38.841819+00:00",
-      "title": "La ácida crítica de un referente de la Fórmula 1 contra Lewis Hamilton por sus extravagantes looks e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero carece de fuentes múltiples y citas verificables, lo que afecta su precisión y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T16:05:42.785180+00:00",
-      "title": "Iris Tió conquista el oro en el solo técnico de los campeonatos de Europa de natación sincronizada y",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T16:05:51.533642+00:00",
-      "title": "Espliego, que no faneca (I)",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 5
-      },
-      "observacion": "El paquete es adecuado para una columna cultural, pero no satisface plenamente los estándares de objetividad y estructura periodística de una noticia.",
-      "error": null
-    },
-    {
       "at": "2026-08-04T16:05:57.038956+00:00",
       "title": "Curiosity encuentra en Marte un campo de texturas en panal que nadie había visto a esta escala",
       "kind": "noticia",
@@ -3392,6 +3239,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de precisión y actualidad, aunque podría mejorar la diversidad de fuentes y la objetividad al incluir voces críticas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:55:54.293177+00:00",
+      "title": "El espejo que nunca existió: la magia de “La invención de Morel”",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo creatividad, estilo y profundidad adecuados para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:55:57.198861+00:00",
+      "title": "Aldo Rendón se lanza contra las fans de BTS, las armys contraatacan",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:56:01.826091+00:00",
+      "title": "Knicks y Warriors entre los peores mercados de la NBA en 2026: qué está pasando con las franquicias ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información reciente, bien estructurada y basada en fuentes confiables, aunque la verificación directa de algunos datos podría reforzarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:56:08.809328+00:00",
+      "title": "EE. UU. - Irán: la posibilidad de un acuerdo sobre Ormuz hunde los precios del petróleo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de precisión, actualidad y estructura, aunque podría reforzar la diversidad de fuentes y la profundidad del contraste de voces en un tema conflictivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:56:13.709743+00:00",
+      "title": "CNN reporta que Ejército de EU agota casi 80% de sistema antimisiles; Pentágono enfrenta bajas reser",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes contrastantes y la ausencia de evidencia clara reducen su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:56:18.076891+00:00",
+      "title": "La venta de autos nuevos en México rompe récord y las marcas chinas son las ganadoras",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de un artículo informativo y objetivo, aunque podría reforzar la veracidad con fuentes y citas más precisas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:56:23.381838+00:00",
+      "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística; es preciso, actual y bien estructurado, con una ligera inclinación positiva pero claramente señalada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:56:33.247666+00:00",
+      "title": "Lecciones de “La Odisea” para empresarios",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo tiene problemas de veracidad y falta de fuentes contrastantes, aunque es reciente y bien estructurado; necesita mayor rigor factual para ser publicado como noticia.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T21:56:38.047638+00:00",
+      "title": "Sherlyn se dice soltera, pero su hijo André la balconea y asegura que sí tiene novio",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura y la objetividad esperadas, pero la falta de fuentes verificables y corroboración externa reduce su puntuación en veracidad y contraste de fuentes.",
       "error": null
     }
   ]
