@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-04T22:21:26.129155+00:00",
+  "generated_at": "2026-08-04T22:45:54.973520+00:00",
   "articles": [
+    {
+      "id": "03f063fe37f3",
+      "title": "Sysco deja de comprar lechuga iceberg a Taylor Farms y México por brote ciclosporiasis en EU: CEO",
+      "summary": "Sysco, el mayor distribuidor de alimentos de Estados Unidos, anunció que suspenderá la compra de lechuga iceberg proveniente de la empresa mexicana Taylor Farms tras la investigación de la FDA que vinculó el producto a un brote de ciclosporiasis en EE. UU. El presidente ejecutivo Kevin Hourican indicó que la decisión se tomó mientras las autoridades sanitarias continúan buscando otras posibles fuentes del contagio.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/sysco-deja-comprar-lechuga-iceberg-taylor-farms-mexico-brote-ciclosporiasis-eu-ceo-20260804-826624.html",
+      "published_at": "2026-08-04T22:30:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje informativo y neutral, sin términos cargados ni énfasis político; se citan fuentes oficiales como la FDA y el CEO, lo que indica una cobertura equilibrada.",
+      "focus_analysis": "El medio se centra en el impacto empresarial y de la cadena de suministro, resaltando la decisión de Sysco y la investigación de la FDA, mientras deja de lado el aspecto humano del brote y posibles implicaciones políticas.",
+      "focus_tags": [
+        "cadena de suministro",
+        "seguridad alimentaria",
+        "ciclospora"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de salud pública",
+          "text": "La FDA ha gestionado previamente brotes de ciclospororia y otras enfermedades transmitidas por alimentos, estableciendo protocolos de rastreo y retiro de productos contaminados."
+        },
+        {
+          "label": "Importancia de Sysco en el mercado",
+          "text": "Sysco es el principal distribuidor de alimentos en EE. UU., con más de 600,000 clientes, por lo que sus decisiones de compra pueden afectar significativamente a productores y proveedores internacionales."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Universal citó un informe del Washington Post que indica que el brote de diarrea explosiva se ha expandido a quince estados, resaltando la magnitud del problema y la búsqueda de origen por parte de autoridades sanitarias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "ea59b7282d61",
+      "title": "Bacalar, la laguna que cambia de color: nadar, remar y perderse en Quintana Roo este verano",
+      "summary": "La laguna de Bacalar, conocida como la \"Laguna de los Siete Colores\" en Quintana Roo, México, ofrece a los visitantes la oportunidad de nadar, remar y explorar sus aguas de múltiples tonos azulados durante el verano, mientras el entorno combina atractivos naturales, históricos y culturales.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/04/bacalar-la-laguna-que-cambia-de-color-nadar-remar-y-perderse-en-quintana-roo-este-verano/",
+      "published_at": "2026-08-04T22:37:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y promocional sin emplear vocabulario cargado ni presentar opiniones políticas; se basa en fuentes oficiales y se centra en la oferta turística.",
+      "focus_analysis": "El artículo se centra en el atractivo turístico y recreativo de la laguna, resaltando actividades y belleza natural, pero omite la perspectiva ambiental y el impacto socio‑económico del turismo en la comunidad local.",
+      "focus_tags": [
+        "turismo",
+        "naturaleza",
+        "cultura maya"
+      ],
+      "context": [
+        {
+          "label": "Historia",
+          "text": "Bacalar fue fundada por los mayas alrededor del año 415 d.C., sirvió como punto estratégico en rutas comerciales y más tarde albergó un fuerte colonial del siglo XVIII que hoy funciona como museo."
+        },
+        {
+          "label": "Economía",
+          "text": "El turismo representa la principal fuente de ingresos de Bacalar y del estado de Quintana Roo, contribuyendo significativamente al PIB regional y generando empleo en sectores de hotelería, gastronomía y actividades recreativas."
+        },
+        {
+          "label": "Medio ambiente",
+          "text": "Expertos y organizaciones ecologistas han advertido sobre la necesidad de gestionar el flujo de visitantes para proteger la calidad del agua y la biodiversidad de la laguna, que pueden verse amenazadas por la sobreexplotación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "7748fb3d7160",
+      "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
+      "summary": "El ingeniero de Microsoft Mark Russinovich, director de tecnología de Azure, ha creado DoomPaint, una versión que permite jugar los primeros niveles del clásico shooter Doom dentro del programa de dibujo Paint de Windows, usando el motor original del juego y enviando cada fotograma al portapapeles.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/videojuegos/doom-microsoft-paint-doompaint/",
+      "published_at": "2026-08-04T21:12:00+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo utiliza un tono entusiasta y elogioso al describir la hazaña como \"nueva plataforma\" y \"mítico juego\", resaltando la creatividad de Microsoft sin presentar críticas ni controversias.",
+      "focus_analysis": "El medio se centra en la innovación tecnológica y el ingenio del desarrollador, destacando los detalles del proceso y la ejecución; omite la discusión sobre el impacto cultural del juego o su relevancia comercial.",
+      "focus_tags": [
+        "tecnología",
+        "juegos retro",
+        "innovación"
+      ],
+      "context": [
+        {
+          "label": "Historia de Doom",
+          "text": "Doom, lanzado por id Software en 1993, es considerado uno de los pioneros de los shooters en primera persona y ha generado una amplia comunidad de modders y recreaciones en distintas plataformas."
+        },
+        {
+          "label": "Microsoft Paint",
+          "text": "Paint es una herramienta de edición de imágenes básica incluida en Windows desde 1985, tradicionalmente utilizada para tareas simples de dibujo y edición, no para ejecutar videojuegos."
+        },
+        {
+          "label": "Mark Russinovich",
+          "text": "Mark Russinovich es un ingeniero de Microsoft reconocido por su trabajo en SysInternals y como CTO de Azure, y ha participado en varios proyectos de código abierto y demostraciones técnicas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "af57a35fb52d",
+      "title": "Líbano: seis años después de la explosión en el puerto de Beirut, familias reclaman justicia",
+      "summary": "Las familias de las víctimas de la explosión del puerto de Beirut, ocurrida el 4 de agosto de 2020, reclaman justicia seis años después, señalando la falta de avances en la investigación.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/video/20260804-l%C3%ADbano-seis-a%C3%B1os-despu%C3%A9s-de-la-explosi%C3%B3n-en-el-puerto-de-beirut-familias-reclaman-justicia",
+      "published_at": "2026-08-04T22:08:10+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje neutro y descriptivo, sin palabras cargadas ni fuentes partidistas, limitándose a reportar la demanda de las familias y la escasa progresión judicial.",
+      "focus_analysis": "El medio optó por un ángulo humano y de derechos, poniendo énfasis en el sufrimiento de los familiares y la ausencia de respuestas, mientras deja de lado el contexto político y la responsabilidad institucional.",
+      "focus_tags": [
+        "derechos humanos",
+        "justicia",
+        "explosión Beirut"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del hecho",
+          "text": "El 4 de agosto de 2020 una explosión masiva en el puerto de Beirut, provocada por la detonación de nitrato de amoníaco almacenado, dejó más de 220 muertos, alrededor de 6 500 heridos y devastó varios barrios de la ciudad."
+        },
+        {
+          "label": "situación judicial",
+          "text": "Aún después de seis años, la investigación ha registrado escasos avances, y los familiares de las víctimas siguen sin identificar responsables claros, lo que ha generado protestas y reiteradas exigencias de justicia."
+        },
+        {
+          "label": "perspectiva de otras coberturas",
+          "text": "Otros medios, como El Universal, centraron su cobertura en testimonios personales, destacando la historia de la madre de Montserrat Uribe, quien acusa al sistema de haberla engañado y reclama verdad y transparencia."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "6b3de7b88a9e",
+      "title": "El descargo del capitán de Platense tras su ataque de furia luego de la caída ante Talleres: qué desató su reacción",
+      "summary": "Nacho Vázquez, capitán del Club Atlético Platense, explicó en Instagram que su arrebato tras la derrota 4‑0 ante Talleres se debió a que dos hinchas agredieron a su madre frente a sus hijos, por lo que pidió disculpas y exigió que los responsables se identifiquen.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/04/el-descargo-del-capitan-de-platense-tras-su-ataque-de-furia-luego-de-la-caida-ante-talleres-que-desato-su-reaccion/",
+      "published_at": "2026-08-04T22:24:02+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y evita vocabulario cargado o juicios de valor; se limitan a describir los hechos y la declaración del jugador sin favorecer a ninguna posición.",
+      "focus_analysis": "El medio se centra en el aspecto humano y emocional del incidente, resaltando la reacción del capitán y la agresión a su madre, mientras deja de lado el análisis deportivo más amplio del desempeño del equipo y la repercusión en la tabla de posiciones.",
+      "focus_tags": [
+        "violencia en estadio",
+        "reacción del capitán",
+        "cultura de hinchada"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del club",
+          "text": "Platense ganó el Torneo Apertura 2025, obteniendo su primer título de Primera División en más de 120 años y clasificando al Copa Libertadores 2026, donde llegó a octavos de final."
+        },
+        {
+          "label": "Violencia en el fútbol argentino",
+          "text": "Los incidentes de agresión a jugadores y familiares por parte de aficionados son recurrentes en el fútbol argentino, generando medidas de seguridad más estrictas en los estadios."
+        },
+        {
+          "label": "Situación actual en la tabla",
+          "text": "Tras la derrota 4‑0 a Talleres, Platense quedó con solo un punto en tres fechas, en riesgo de descenso en la tabla anual del Torneo Clausura 2026."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "284e451f1e78",
+      "title": "Cuánto cuesta el collar que Aldo Rendón le regaló a Karina Torres por su cumpleaños",
+      "summary": "Karina Torres, la influencer de La Casa de los Famosos México, recibió de su compañero Aldo Rendón un collar de diamantes cuyo precio ronda los 6,500 pesos mexicanos en su cumpleaños número 36.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/04/cuanto-cuesta-el-collar-que-aldo-rendon-le-regalo-a-karina-torres-por-su-cumpleanos/",
+      "published_at": "2026-08-04T22:37:45+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el regalo y la trayectoria de la influencer sin usar lenguaje político ni favorecer a ningún grupo, manteniendo un tono mayormente neutro.",
+      "focus_analysis": "El medio optó por un enfoque humano y de espectáculo, resaltando el lujo del collar y la historia personal de Karina Torres, sin analizar el contexto económico del precio ni ofrecer una crítica al consumo ostentoso.",
+      "focus_tags": [
+        "celebridad",
+        "regalo de lujo",
+        "reality show"
+      ],
+      "context": [
+        {
+          "label": "celebridad",
+          "text": "Karina Torres es una influencer que participa en la cuarta temporada del programa de televisión La Casa de los Famosos México, donde los concursantes conviven y compiten por el voto del público."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "El Sol de México también cubrió el cumpleaños, enfocándose en los bailes, el pastel y la atmósfera festiva, mientras que Infobae puso mayor énfasis en el valor del collar y la historia personal de la influencer."
+        },
+        {
+          "label": "mercado de joyería",
+          "text": "En México, los collares de diamantes de marcas como Swarovski pueden costar entre 5,000 y 70,000 pesos, según el diseño y la calidad de los cristales, situando el regalo de Aldo Rendón dentro del rango de lujo accesible."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "da366754cac8",
       "title": "FGR desmantela cuatro centros de huachicol en tres estados; asegura más de un millón de litros",
@@ -839,217 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "63313b4e2634",
-      "title": "El espejo que nunca existió: la magia de “La invención de Morel”",
-      "summary": "Un espejo sin marco refleja una playa que nunca pisó nadie, donde el sol se repite en bucles infinitos. En esa habitación de luz artificial, Adolfo Bioy Casares escribe una novela que es a la vez laberinto y mapa, donde la realidad se desdobla como una hoja de origami. Cada página es una pieza de cristal que, al romperse, revela otra escena que nunca existió.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-04T21:55:52.464807+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, bajo el calor de agosto, los lectores buscan refugios que desafíen la linealidad del tiempo, y Morel ofrece exactamente eso: una fuga de la cotidianidad en forma de sueño lúcido. Además, el centenario de la publicación original (1940) vuelve a poner la lupa sobre la obra, recordándonos que la ciencia ficción latinoamericana ya jugaba con la paradoja del recuerdo antes de que el género se globalizara.",
-      "focus_tags": [
-        "ciencia‑ficción",
-        "Argentina",
-        "década‑1940"
-      ],
-      "context": [
-        {
-          "label": "Primer paso",
-          "text": "Comienza leyendo la edición crítica de 2002, que incluye notas de la propia Casares y un ensayo de Jorge Luis Borges que sitúa la novela en el contexto de la literatura fantástica argentina."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Si la atmósfera de Morel te atrapa, sigue con “Solaris” de Stanislaw Lem o “El jardín de los senderos que se bifurcan” de Jorge Luis Borges, dos piezas que también exploran la multiplicidad de los mundos."
-        },
-        {
-          "label": "Trasfondo",
-          "text": "Investiga la amistad entre Bioy Casares y Borges, cuyas cartas revelan un juego constante de espejos literarios que influyó en la construcción de la trama de Morel."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "55b1427d7cd1",
-      "title": "Gobierno de Nayarit y DIF impulsan agenda para garantizar el bienestar infantil; refuerzan políticas públicas",
-      "summary": "El gobierno del estado de Nayarit, liderado por el gobernador Miguel Ángel Navarro Quintero, y el Sistema DIF Nayarit lanzaron una agenda destinada a fortalecer el bienestar y los derechos de la infancia y la adolescencia, resaltando la coordinación institucional y una visión humanista.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/gobierno-de-nayarit-y-dif-impulsan-agenda-para-garantizar-el-bienestar-infantil-refuerzan-politicas-publicas/",
-      "published_at": "2026-08-04T21:36:58+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto sólo cita a funcionarios oficiales y utiliza un lenguaje elogioso y humanista, sin incluir voces críticas o datos contrapuestos, lo que indica una ligera inclinación a favor del gobierno.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y de política pública, destacando los compromisos del gobierno y del DIF; omite el punto de vista de los niños, sus familias o de organizaciones de la sociedad civil.",
-      "focus_tags": [
-        "política social",
-        "protección infantil",
-        "gobierno estatal"
-      ],
-      "context": [
-        {
-          "label": "Marco nacional",
-          "text": "México cuenta con una estrategia nacional de protección de la infancia que obliga a los estados a implementar políticas y programas orientados a garantizar los derechos de niños y adolescentes."
-        },
-        {
-          "label": "Experiencia del SIPINNA",
-          "text": "El Sistema de Protección Integral de Niñas, Niños y Adolescentes de Nayarit ha publicado informes anuales que destacan avances en la coordinación entre municipios y la autoridad estatal para atender a la población infantil."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Mientras El Economista enfatiza la coordinación institucional como elemento clave de la agenda, El Universal se enfoca en el discurso humanista del gobernador y la presidenta del DIF."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "2152455f3604",
-      "title": "Estados Unidos cancela la visa de la embajadora de Brasil en medio de tensiones diplomáticas",
-      "summary": "Estados Unidos revocó la visa de la embajadora brasileña María Luiza Ribeiro Viotti como medida de reciprocidad tras la demora del gobierno de Luiz Inácio Lula da Silva en aprobar al embajador estadounidense para Brasilia.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/america/2026-08-04/estados-unidos-cancela-la-visa-de-la-embajadora-de-brasil-en-medio-de-tensiones-diplomaticas.html",
-      "published_at": "2026-08-04T21:32:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y se basa en declaraciones oficiales sin usar adjetivos cargados ni citar fuentes partidistas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en la dimensión institucional y diplomática de la decisión, omitiendo el contexto político interno de Brasil y la reacción de la opinión pública.",
-      "focus_tags": [
-        "diplomacia",
-        "visa",
-        "tensiones internacionales"
-      ],
-      "context": [
-        {
-          "label": "antecedentes diplomáticos",
-          "text": "Estados Unidos y Brasil han mantenido una relación bilateral con episodios de tensiones y cooperación, y la práctica de reciprocidad en visas diplomáticas es habitual cuando hay retrasos en la acreditación de embajadores."
-        },
-        {
-          "label": "práctica de reciprocidad",
-          "text": "En la diplomacia, es frecuente que un país retenga o revoque el visado de un diplomático extranjero como respuesta a demoras o negativas del otro Estado, una medida conocida como reciprocidad."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "Otros medios como France24 y El Universal destacaron la posibilidad de medidas adicionales y la permanencia provisional de la embajadora en EE. UU., mientras que El Economista señaló que la revocación de la visa no impide su estancia temporal."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "676e88c261aa",
-      "title": "Lecciones de “La Odisea” para empresarios",
-      "summary": "En su columna para Letras Libres, Javier Treviño argumenta que la verdadera prueba para las empresas no es la conquista del mercado, sino la capacidad de reinventarse y mantener su identidad después del éxito, usando la película 'La Odisea' de Christopher Nolan como metáfora.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/economia/lecciones-de-la-odisea-para-empresarios/04/08/2026/",
-      "published_at": "2026-08-04T17:43:30+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto emplea un tono crítico hacia la cultura empresarial de éxito y la adopción ciega de tendencias tecnológicas, resaltando valores de reflexión y responsabilidad que suelen asociarse a una visión de izquierda.",
-      "focus_analysis": "El artículo se centra en la dimensión organizacional y de identidad estratégica, usando la literatura y el cine como marco de análisis, y deja de lado datos económicos concretos o discusiones de políticas públicas.",
-      "focus_tags": [
-        "estrategia organizacional",
-        "lecciones literarias",
-        "gestión empresarial"
-      ],
-      "context": [
-        {
-          "label": "Marco cultural",
-          "text": "La Odisea, épica de Homero adaptada por Nolan, ha sido interpretada como una reflexión sobre el regreso y la reconstrucción de la identidad tras la victoria, lo que la convierte en una herramienta útil para analizar procesos de transformación empresarial."
-        },
-        {
-          "label": "Ejemplos de empresas",
-          "text": "Compañías como Kodak, Nokia, BlackBerry, Blockbuster y General Electric lograron dominar sus mercados pero no supieron adaptarse a los cambios posteriores, ilustrando el riesgo de la complacencia tras el éxito."
-        },
-        {
-          "label": "Literatura de gestión",
-          "text": "Diversos autores de negocios han señalado que la gestión del éxito y la reinvención continua son desafíos críticos, una idea que se alinea con la crítica de Treviño a la cultura de conquista y al foco en la identidad organizacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.2
-      }
-    },
-    {
-      "id": "7748fb3d7160",
-      "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
-      "summary": "Mark Russinovich, director de tecnología de Azure en Microsoft, ha creado DoomPaint, una versión del clásico shooter Doom que se ejecuta dentro de Microsoft Paint enviando cada fotograma al portapapeles y renderizándolo como imagen editada.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/videojuegos/doom-microsoft-paint-doompaint/",
-      "published_at": "2026-08-04T21:12:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el proyecto y su funcionamiento con un tono objetivo y sin uso de vocabulario cargado o fuentes con inclinación política.",
-      "focus_analysis": "El medio se centra en el aspecto técnico y la innovación del hack, destacando cómo se logra ejecutar Doom en Paint, mientras omite el impacto cultural del juego o la posible crítica a la utilización de herramientas básicas para ejecutar software de alto rendimiento.",
-      "focus_tags": [
-        "tecnología",
-        "juegos retro",
-        "innovación"
-      ],
-      "context": [
-        {
-          "label": "Orígenes de Doom",
-          "text": "Doom, lanzado en 1993 por id Software, es uno de los videojuegos de disparos en primera persona más influyentes y marcó el inicio de los shooters modernos."
-        },
-        {
-          "label": "Microsoft Paint",
-          "text": "Microsoft Paint es una aplicación de edición de imágenes incluida en Windows desde 1985, diseñada para tareas simples de dibujo y sin capacidad de procesamiento de gráficos en tiempo real."
-        },
-        {
-          "label": "Perfil de Mark Russinovich",
-          "text": "Mark Russinovich es un ingeniero de Microsoft conocido por su trabajo en SysInternals y como CTO de Azure, y frecuentemente publica proyectos de código abierto que exploran límites creativos de la tecnología."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "d7535c1bd536",
-      "title": "Aeropuerto de Tulum reporta caída de doble dígito",
-      "summary": "El Aeropuerto Internacional de Tulum \"Felipe Carrillo Puerto\" registró una caída del 33 % en el número de pasajeros entre enero y junio de 2026, con una disminución de 234 000 viajeros respecto al mismo periodo del año anterior, según datos de la Agencia Federal de Aviación Civil.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/aeropuerto-tulum-reporta-caida-doble-digito-20260804-826612.html",
-      "published_at": "2026-08-04T21:35:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo emplea un tono objetivo y se basa en cifras oficiales sin usar vocabulario cargado ni citar fuentes con sesgo político, centrando la información en los datos de tráfico.",
-      "focus_analysis": "El medio se enfocó en el desempeño económico del aeropuerto, destacando la reducción de pasajeros y la comparación con otros aeropuertos, sin abordar causas subyacentes como la demanda turística o decisiones de aerolíneas.",
-      "focus_tags": [
-        "tráfico aéreo",
-        "declive de pasajeros",
-        "Aeropuerto de Tulum"
-      ],
-      "context": [
-        {
-          "label": "historial del aeropuerto",
-          "text": "El Aeropuerto Internacional de Tulum abrió sus puertas a finales de 2023 y cerró el 2025 con un ligero crecimiento respecto al 2024, antes de experimentar la fuerte contracción del primer semestre de 2026."
-        },
-        {
-          "label": "comparación nacional",
-          "text": "Mientras Tulum mostró una de las mayores caídas de tráfico, aeropuertos internacionales mexicanos como Cancún y la Ciudad de México mantuvieron o incrementaron sus cifras de pasajeros en el mismo periodo."
-        },
-        {
-          "label": "cifras de la AFAC",
-          "text": "Los datos provienen de la Estadística Operacional de Aeropuertos de la Agencia Federal de Aviación Civil, que publica mensualmente los indicadores oficiales de movimiento de pasajeros en México."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
