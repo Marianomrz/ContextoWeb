@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-04T06:01:56.938542+00:00",
+  "generated_at": "2026-08-04T06:21:17.691244+00:00",
   "articles": [
+    {
+      "id": "12f5eb242187",
+      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
+      "summary": "Las cartas entre Camilo José Cela, escritor español, y Dolores Franco, estudiante de filosofía y letras, revelan una amistad literaria marcada por la Guerra Civil y la tensión política de la España de la época.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/libros/porque-nosotros-cada-vez-somos-menos/16/07/2026/",
+      "published_at": "2026-08-03T07:01:00+00:00",
+      "bias_score": -15,
+      "bias_reason": "El artículo utiliza un tono crítico hacia la dictadura de Franco, enfatiza la represión y la censura, y selecciona fuentes que destacan la perspectiva de la oposición, lo que indica una ligera inclinación izquierdista.",
+      "focus_analysis": "El medio elige centrar la atención en el valor literario e histórico del epistolario, dejando de lado un análisis profundo del contexto político o económico del periodo.",
+      "focus_tags": [
+        "literatura",
+        "historia española",
+        "memoria histórica"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Camilo José Cela y Dolores Franco mantuvieron correspondencia entre 1934 y 1942, periodo que abarca la Guerra Civil española y los primeros años del régimen franquista."
+        },
+        {
+          "label": "comparación con otras coberturas",
+          "text": "Otros medios, como El Economista, interpretan la expresión 'cada vez somos menos' como una referencia a la pérdida de poder adquisitivo y la inflación, mientras que Letras Libres la sitúa en el contexto de la disminución de la comunidad literaria bajo la represión."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "Historiadores como Julián Marías han señalado que la censura franquista limitó la publicación de obras como la antología de Dolores Franco, lo que refuerza la visión crítica del periodo que se refleja en las cartas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "0628981ca4a2",
+      "title": "Apuñalan a joven al exterior de la  estación Lagunilla del Metro CDMX; fue trasladado de gravedad al hospital",
+      "summary": "Un hombre de 25 años fue apuñalado en la zona exterior de la estación Lagunilla del Metro de la Ciudad de México, recibió una herida penetrante en el tórax y fue trasladado de urgencia al hospital, mientras las autoridades investigan el hecho.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/apunalan-a-joven-al-exterior-de-la-estacion-lagunilla-del-metro-cdmx-fue-trasladado-de-gravedad-al-hospital/",
+      "published_at": "2026-08-04T04:39:46+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, citando exclusivamente a fuentes oficiales sin emplear adjetivos cargados ni presentar opiniones subjetivas.",
+      "focus_analysis": "El artículo se centra en la crónica del ataque y la respuesta inmediata de los servicios de seguridad y salud, dejando de lado un análisis de la violencia en el transporte público o de políticas de prevención.",
+      "focus_tags": [
+        "seguridad pública",
+        "violencia urbana",
+        "metro CDMX"
+      ],
+      "context": [
+        {
+          "label": "tendencias de criminalidad en la CDMX",
+          "text": "En los últimos años, la Ciudad de México ha registrado un aumento de agresiones con armas blancas en áreas de alta afluencia como estaciones de metro, según datos de la Secretaría de Seguridad Ciudadana."
+        },
+        {
+          "label": "función de la Secretaría de Seguridad Ciudadana",
+          "text": "La SSC coordina con la Policía del Metro y los servicios de emergencia para atender incidentes violentos en el sistema de transporte público, proporcionando primeros auxilios y gestionando el traslado a hospitales."
+        },
+        {
+          "label": "incidentes previos en la estación Lagunilla",
+          "text": "La zona alrededor de la estación Lagunilla ha sido señalada en reportes locales por robos y agresiones, lo que ha generado preocupaciones sobre la seguridad de los usuarios del Metro en esa zona."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "291e8fa622c2",
+      "title": "La IA ha resuelto uno de los grandes problemas de la ciberseguridad: encontrar fallos. Ahora tenemos otro mucho mayor",
+      "summary": "La inteligencia artificial está acelerando la detección de vulnerabilidades en el software, lo que ha provocado un aumento sin precedentes de parches que los administradores deben aplicar rápidamente. Aunque mejora la seguridad, genera un problema de sobrecarga y priorización de actualizaciones.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/robotica-e-ia/ia-ha-resuelto-uno-grandes-problemas-ciberseguridad-encontrar-fallos-ahora-tenemos-otro-mucho-mayor",
+      "published_at": "2026-08-04T06:01:43+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono informativo y equilibrado, sin usar lenguaje cargado ni favorecer una posición política; se centra en hechos técnicos y sus implicaciones.",
+      "focus_analysis": "El artículo se centra en el impacto tecnológico de la IA en la detección de fallos y la frecuencia de parches, dejando de lado el análisis de las consecuencias para los usuarios finales y la posible regulación del proceso.",
+      "focus_tags": [
+        "ciberseguridad",
+        "IA",
+        "parches de software"
+      ],
+      "context": [
+        {
+          "label": "Uso previo de IA en detección de vulnerabilidades",
+          "text": "Desde hace años, técnicas como el fuzzing y los análisis estáticos asistidos por IA han ayudado a identificar errores en el código, pero los modelos de lenguaje actuales permiten escanear bases de código mucho más grandes y con mayor rapidez."
+        },
+        {
+          "label": "Incremento de la frecuencia de parches",
+          "text": "Microsoft registró más de 600 CVE en su Patch Tuesday de julio 2026, mientras que Chrome y Oracle publicaron más de mil parches cada uno en el mismo período, evidenciando la aceleración del ritmo de actualizaciones impulsada por la IA."
+        },
+        {
+          "label": "Desafíos de gestión de vulnerabilidades",
+          "text": "Los administradores de sistemas deben priorizar entre cientos de vulnerabilidades detectadas, evitando que la sobrecarga de parches genere nuevos conflictos o deje expuestos sistemas críticos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "62df8c786459",
+      "title": "Guatemala evacúa 2 comunidades tras intensificarse la actividad del volcán de Fuego",
+      "summary": "Las autoridades guatemalenses ordenaron la evacuación de dos comunidades cercanas al volcán de Fuego tras observar un incremento en su actividad eruptiva.",
+      "category": "sociedad",
+      "source_name": "Euronews Español",
+      "source_url": "http://es.euronews.com/2026/08/04/guatemala-evacua-dos-comunidades-tras-intensificarse-la-actividad-del-volcan-de-fuego",
+      "published_at": "2026-08-04T06:07:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir hechos de forma neutral, sin usar lenguaje cargado ni citar fuentes con inclinación política.",
+      "focus_analysis": "El medio se centra en la respuesta de seguridad y la evacuación de la población, omitiendo el impacto económico y la gestión gubernamental a largo plazo.",
+      "focus_tags": [
+        "volcán Fuego",
+        "evacuación de comunidades",
+        "actividad eruptiva"
+      ],
+      "context": [
+        {
+          "label": "Historia reciente del volcán de Fuego",
+          "text": "El volcán de Fuego ha tenido erupciones violentas en los últimos años, incluida la tragedia de 2018 que causó más de 190 muertos y desplazó a miles de personas."
+        },
+        {
+          "label": "Riesgo para la población local",
+          "text": "Las comunidades asentadas en las laderas del volcán están expuestas a flujos piroclásticos y ceniza, por lo que las autoridades suelen implementar planes de evacuación preventiva."
+        },
+        {
+          "label": "Respuesta institucional guatemalense",
+          "text": "El Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrología (INSIVUMEH) monitorea continuamente la actividad del volcán y coordina las evacuaciones con el Comité Nacional de Gestión de Riesgos."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "3b6da1d9a472",
+      "title": "Mariana Ochoa habla de la envidia que sintió en La Casa de los Famosos México y explica por qué cree que fue la primera eliminada",
+      "summary": "Mariana Ochoa, cantante y exintegrante de OV7, explicó que la envidia y un problema de salud que la distrajo fueron factores que influyeron en su eliminación como primera concursante de la cuarta temporada de La Casa de los Famosos México.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/04/mariana-ochoa-habla-de-la-envidia-que-sintio-en-la-casa-de-los-famosos-mexico-y-explica-por-que-cree-que-fue-la-primera-eliminada/",
+      "published_at": "2026-08-04T06:08:15+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin adjetivos cargados ni selección de fuentes sesgada, presentando tanto sus declaraciones como reacciones de los demás participantes.",
+      "focus_analysis": "El medio se centra en el aspecto humano y psicológico de la experiencia de Ochoa, resaltando sus emociones y la dinámica de envidia dentro de la casa, mientras deja de lado análisis de la audiencia o del impacto comercial del programa.",
+      "focus_tags": [
+        "reality TV",
+        "celebrity drama",
+        "envidia"
+      ],
+      "context": [
+        {
+          "label": "formato del programa",
+          "text": "La Casa de los Famosos México es la versión local del reality de Televisa basado en el formato de Big Brother, donde los concursantes son eliminados mediante una silla giratoria después de las nominaciones."
+        },
+        {
+          "label": "patrón de género",
+          "text": "En las cuatro ediciones del reality, la primera persona en abandonar la competencia siempre ha sido una mujer, lo que sugiere un posible patrón de género en la dinámica de eliminación."
+        },
+        {
+          "label": "trayectoria de Ochoa",
+          "text": "Mariana Ochoa alcanzó la fama como vocalista del grupo pop OV7, lo que generó altas expectativas entre sus seguidores y una presión adicional durante su participación en el programa."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "e1a9676cf165",
+      "title": "La historia de Zoey Kuhn, la delantera norteamericana que ilusiona a Rosario Central con sus goles y es furor en el fútbol femenino",
+      "summary": "Zoey Kuhn, delantera estadounidense nacida en 2004, llegó a Rosario Central en abril de 2026 y, con siete goles y siete asistencias en nueve partidos, se convirtió en pieza clave del ataque del equipo en la Primera B femenina de Argentina.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/04/la-historia-de-zoey-kuhn-la-delantera-norteamericana-que-ilusiona-a-rosario-central-con-sus-goles-y-es-furor-en-el-futbol-femenino/",
+      "published_at": "2026-08-04T06:15:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la actuación deportiva y la integración de la jugadora, usando un tono elogioso pero sin referencias políticas ni sesgo ideológico.",
+      "focus_analysis": "El medio elige destacar el impacto inmediato de Kuhn en el rendimiento del equipo y su historia personal, dejando de lado aspectos estructurales del fútbol femenino, como la financiación o la igualdad de género.",
+      "focus_tags": [
+        "fútbol femenino",
+        "Rosario Central",
+        "jugadora estadounidense"
+      ],
+      "context": [
+        {
+          "label": "club context",
+          "text": "Rosario Central había descendido de la Primera División en la temporada anterior y buscaba reforzar su del ofensivo para volver a la máxima categoría."
+        },
+        {
+          "label": "talento internacional",
+          "text": "En los últimos años, varios futbolistas estadounidenses, como Emily Ormson y Riley Melendez, han firmado con clubes sudamericanos, señalando una creciente atracción del fútbol argentino para talentos extranjeros."
+        },
+        {
+          "label": "situación del fútbol femenino en Argentina",
+          "text": "La Primera B femenina ha experimentado un aumento de la competitividad y la visibilidad, aunque aún enfrenta desafíos de infraestructura y recursos económicos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "bdc3ee96feeb",
       "title": "Los criterios para aprobar créditos se mantienen estables: Fed",
@@ -840,217 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "ba8f7c2dbae4",
-      "title": "Promoverán a Cancún como destino de inversión de alto valor",
-      "summary": "El secretario de Turismo de Quintana Roo, Bernardo Cueto Riestra, anunció una gira a Florida para posicionar el Distrito Financiero y Tecnológico de Cancún como nuevo destino de inversión de alto valor, buscando atraer entre 1,300 y 2,100 millones de dólares y crear miles de empleos, mientras que simultáneamente un tribunal laboral ordenó el embargo del Hotel Parnassus por una huelga de más de 140 trabajadores.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/promoveran-cancun-destino-inversion-alto-valor-20260803-826487.html",
-      "published_at": "2026-08-04T04:57:11+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto emplea un tono promocional y destaca los beneficios económicos sin mencionar posibles riesgos, y se apoya mayormente en declaraciones de funcionarios y representantes del sector privado, lo que indica una ligera inclinación pro‑negocio.",
-      "focus_analysis": "El medio se centra en la perspectiva económica, resaltando la atracción de inversión y la generación de empleo, mientras deja de lado el impacto social y ambiental de la expansión turística.",
-      "focus_tags": [
-        "inversión",
-        "turismo",
-        "desarrollo económico"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la economía de Quintana Roo",
-          "text": "Quintana Roo depende históricamente del turismo de sol y playa, pero en los últimos años ha buscado diversificar su economía mediante la creación de parques tecnológicos y zonas financieras para reducir la vulnerabilidad a fluctuaciones del sector turístico."
-        },
-        {
-          "label": "Proyecto del Distrito Financiero y Tecnológico",
-          "text": "El Distrito Financiero y Tecnológico de Cancún, lanzado en 2023, tiene como objetivo atraer inversión extranjera mediante incentivos fiscales y una infraestructura especializada, con metas de inversión que superan los mil millones de dólares."
-        },
-        {
-          "label": "Conflictos laborales en el sector hotelero mexicano",
-          "text": "Los últimos años han visto varios casos de huelgas y demandas laborales en hoteles de la Riviera Maya, reflejando tensiones entre trabajadores y propietarios que a menudo culminan en procesos judiciales y embargos, como el reciente caso del Hotel Parnassus."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "a20cee19cbc2",
-      "title": "Bajo la lluvia de papel: descubriendo 'Los años de espera' de Fumiko Enchi",
-      "summary": "Una hoja empapada se desliza por el escritorio, dejando tras de sí un rastro de tinta que se mezcla con el perfume del té tibio. En esa corriente silenciosa, la novela de Fumiko Enchi emerge como un faro tenue que ilumina la resistencia cotidiana de las mujeres en el Japón de entreg siglo XX. Cada página, como una gota que rebota, revela la paradoja de una vida contenida entre deberes y deseos prohibidos.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-04T05:05:08.999924+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, mientras el verano se desvanece, los ecos de la fragilidad humana resuenan con fuerza, y Enchi ofrece una mirada íntima que contrasta con la velocidad del mundo actual. Elegí este ángulo para mostrar cómo la literatura puede ser un refugio donde el tiempo se vuelve papel húmedo, capaz de absorber y transformar el dolor en arte.",
-      "focus_tags": [
-        "Novela japonesa",
-        "Siglo XX",
-        "Feminismo"
-      ],
-      "context": [
-        {
-          "label": "Primer contacto con Fumiko Enchi",
-          "text": "Comienza leyendo la biografía de Enchi, una escritora que, tras estudiar psicología, dedicó su vida a explorar la interioridad femenina en una sociedad patriarcal. Su estilo combina la sutileza del detalle cotidiano con una prosa casi poética, creando atmósferas que atrapan al lector como una red de seda."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Si 'Los años de espera' te cautiva, sigue con 'La casa de los espíritus' de Isabel Allende para comparar cómo distintas culturas abordan la transmisión intergeneracional de sufrimiento, o con 'La mujer de la arena' de Kobo Abe, que también juega con la claustrofobia psicológica."
-        },
-        {
-          "label": "Contexto histórico",
-          "text": "Ambientada en la era Meiji‑Taishō, la novela refleja la presión de la modernización sobre la vida doméstica japonesa. Entender este periodo—cuando la tradición se enfrentaba a la occidentalización—enriquece la lectura, pues cada decisión de la protagonista se vuelve una pieza de un rompecabezas social."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "f96d8e56b28d",
-      "title": "Asesinan afuera de domicilio a hombre conocido como “El Cholo”",
-      "summary": "Alejandro, conocido como \"El Cholo\", fue asesinado a tiros mientras conversaba afuera de su vivienda en la colonia Benito Juárez de Irapuato, Guanajuato, y la intervención de la Guardia Nacional, el Ejército y la Policía Municipal llegó tras el tiroteo.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/irapuato/2026/08/03/asesinan-afuera-de-domicilio-a-hombre-conocido-como-el-cholo-1827397.html",
-      "published_at": "2026-08-04T04:17:51+00:00",
-      "bias_score": 2,
-      "bias_reason": "El texto usa un lenguaje descriptivo y neutral, sin cargar términos políticos ni citar fuentes con sesgo ideológico; se limita a reportar hechos y la respuesta de las autoridades.",
-      "focus_analysis": "El artículo se centra en la crónica del hecho delictivo y la respuesta de seguridad, omitiendo el posible motivo del crimen y el contexto de violencia en la región.",
-      "focus_tags": [
-        "violencia",
-        "seguridad pública",
-        "Irapuato"
-      ],
-      "context": [
-        {
-          "label": "Tendencias de violencia",
-          "text": "Según datos del INEGI, la tasa de homicidios en el estado de Guanajuato ha mostrado un incremento sostenido en los últimos años, situándose por encima del promedio nacional."
-        },
-        {
-          "label": "Estructura de seguridad",
-          "text": "En México, la Guardia Nacional y la Policía Municipal colaboran en la investigación de delitos graves, mientras que la Fiscalía Regional es responsable de la recolección de pruebas y la autopsia."
-        },
-        {
-          "label": "Perfil del víctima",
-          "text": "Alejandro, alias \"El Cholo\", tenía antecedentes judiciales por delitos contra la salud, lo que indica una posible vinculación con actividades delictivas previas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "730559597696",
-      "title": "Milei desregula la importación de alimentos",
-      "summary": "El presidente de Argentina, Javier Milei, impulsó mediante el Decreto 697/2026 la desregulación de la importación de alimentos, materias primas y aditivos, simplificando los trámites y aceptando certificaciones internacionales para reducir la burocracia y los costos operativos.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/milei-desregula-importacion-alimentos-20260803-826482.html",
-      "published_at": "2026-08-04T04:37:43+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto emplea un tono favorable al describir la medida como una reducción de burocracia y un ahorro de costos, sin mencionar posibles riesgos, lo que refleja una postura pro‑mercado ligeramente a la derecha.",
-      "focus_analysis": "El artículo se centra en el ángulo económico‑institucional, resaltando la simplificación administrativa y los beneficios para el comercio, mientras deja de lado consideraciones de salud pública o el impacto en productores locales.",
-      "focus_tags": [
-        "regulación alimentaria",
-        "política económica",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Agenda de desregulación de Milei",
-          "text": "Desde su asunción, el presidente Javier Milei ha promovido una serie de reformas orientadas a reducir la intervención estatal en la economía, incluyendo cambios en el mercado laboral y la eliminación de regulaciones que, según su gobierno, obstaculizan la inversión."
-        },
-        {
-          "label": "Regulación anterior de importaciones alimentarias",
-          "text": "Antes del Decreto 697/2026, la importación de alimentos en Argentina estaba sujeta a extensos procedimientos de autorización sanitaria, lo que generaba retrasos y costos elevados para los importadores y, a veces, limitaba la disponibilidad de ciertos productos."
-        },
-        {
-          "label": "Codex Alimentarius y certificaciones internacionales",
-          "text": "El Codex Alimentarius es un conjunto de normas internacionales de seguridad alimentaria aceptado por muchos países; su reconocimiento facilita el comercio al armonizar requisitos sanitarios, pero también genera debates sobre la adecuación de los estándares a contextos locales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "12f5eb242187",
-      "title": "Las cartas entre Camilo José Cela y Dolores Franco: “Porque ‘nosotros’ cada vez somos menos”",
-      "summary": "El intercambio epistolar entre el escritor español Camilo José Cela y la estudiante de filosofía Dolores Franco, escrito entre 1934 y 1942, muestra una amistad marcada por la guerra, la literatura y la transformación de la España de la época.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/libros/porque-nosotros-cada-vez-somos-menos/16/07/2026/",
-      "published_at": "2026-08-03T07:01:00+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto utiliza conceptos como \"Tercera España\" y \"memoria histórica\" y enfatiza la crítica a la censura y al franquismo, lo que indica una inclinación progresista típica de Letras Libres.",
-      "focus_analysis": "El artículo se centra en la dimensión literaria e histórica del epistolario, dejando de lado un análisis político más profundo o la repercusión socio‑económica de la época.",
-      "focus_tags": [
-        "literatura histórica",
-        "memoria española",
-        "cultura de la guerra"
-      ],
-      "context": [
-        {
-          "label": "Contexto histórico",
-          "text": "Durante la década de 1930 y la Guerra Civil española, la vida intelectual de Madrid se vio afectada por la violencia política y la censura, lo que influyó en la correspondencia de escritores como Cela."
-        },
-        {
-          "label": "Trayectoria de Camilo José Cela",
-          "text": "Camilo José Cela, quien más tarde recibiría el Premio Nobel de Literatura en 1989, comenzó su carrera como poeta y novelista en la España de la posguerra, y sus primeros manuscritos aparecen en estas cartas."
-        },
-        {
-          "label": "Enfoques de otros medios",
-          "text": "Mientras que la cobertura de Letras Libres se centra en el valor literario e histórico de las cartas, otros medios como Genbeta y La Jornada resaltan aspectos económicos y sociales de la transformación de la sociedad española, como la disminución de comercios locales y los cambios en la identidad colectiva."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "df3e0ac46f4f",
-      "title": "Normal Mactumactzá rechaza denuncias por presuntos abusos; afirma que no reflejan la realidad",
-      "summary": "La Escuela Normal Rural Mactumactzá, en Chiapas, rechazó las denuncias de presuntos abusos contra derechos humanos realizadas por aspirantes y sus familiares, asegurando que la información difundida no corresponde a la realidad de la institución.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/normal-mactumactza-rechaza-denuncias-por-presuntos-abusos-afirma-que-no-reflejan-la-realidad/",
-      "published_at": "2026-08-04T04:19:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo reproduce mayormente el comunicado institucional sin incorporar fuentes independientes ni análisis crítico, lo que muestra una ligera inclinación a favor de la escuela pero sin un sesgo evidente.",
-      "focus_analysis": "El medio se centra en la postura institucional y en la defensa de la reputación de la escuela, dejando de lado la perspectiva de los denunciantes y los detalles de la investigación judicial.",
-      "focus_tags": [
-        "institucional",
-        "derechos humanos",
-        "educación"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Las Escuelas Normales Rurales en México forman a futuros docentes y en ocasiones han sido objeto de denuncias por prácticas abusivas, lo que ha generado debates sobre la protección de los derechos humanos en instituciones educativas."
-        },
-        {
-          "label": "investigación",
-          "text": "La Fiscalía General del Estado de Chiapas ha abierto una investigación formal sobre las acusaciones presentadas por los aspirantes y sus familias, lo que indica que el caso está siendo revisado por autoridades judiciales."
-        },
-        {
-          "label": "contexto de derechos humanos",
-          "text": "Organizaciones de la sociedad civil en Chiapas han señalado la vulnerabilidad de los estudiantes en procesos de inducción y han pedido mayor transparencia y mecanismos de denuncia efectivos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
       }
     }
   ]
