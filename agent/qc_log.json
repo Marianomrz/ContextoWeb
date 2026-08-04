@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-04T08:21:06.271432+00:00",
-      "title": "Goebbels estaría feliz",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta problemas de precisión y balance de fuentes, aunque es actual y estructurado adecuadamente. Necesita mayor rigor factual y contraste de voces para alcanzar la calidad editorial requerida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:21:11.388868+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO: Moisés es el líder de la semana y compartirá la suite co",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría mejorar con citas específicas, pero en general es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:21:20.627026+00:00",
-      "title": "Espliego, que no faneca (I)",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general adecuado para una nota cultural, aunque la posible inexactitud del título del libro afecta la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:21:26.611165+00:00",
-      "title": "La historia de Zoey Kuhn, la delantera norteamericana que ilusiona a Rosario Central con sus goles y",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando la noticia de forma precisa, objetiva y actual, con una estructura adecuada y contexto relevante.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:40:37.609830+00:00",
-      "title": "Rebelión en la cuarta",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, aunque podría reforzarse con fuentes externas o citas más concretas para mayor precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:40:42.589649+00:00",
-      "title": "La pensión de jubilación de una falsa autónoma sufrió un recorte inesperado. El TSJ tuvo claro quién",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta la información de forma clara y actual, pero su precisión y la falta de fuentes contrastadas reducen la fiabilidad del contenido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:40:48.774319+00:00",
-      "title": "‘Quitar escuelas militarizadas afecta a casi 13 mil alumnos’",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, ofreciendo información reciente, estructurada y mayormente objetiva, aunque podría reforzar el contraste de fuentes con declaraciones oficiales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:40:53.470041+00:00",
-      "title": "Yahir rompe el silencio sobre la enfermedad incurable de su mamá: “Ya no recuerda que canto”",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general de buena calidad, cumple con la objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:40:58.614687+00:00",
-      "title": "Alerta máxima en Seúl: ola de calor causa 16 muertos en Corea del Sur",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero contiene graves imprecisiones y falta de fuentes contrastadas, lo que compromete su fiabilidad periodística.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:41:07.730949+00:00",
-      "title": "Espliego, que no faneca (I)",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, actual y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:41:14.112637+00:00",
-      "title": "La historia de Zoey Kuhn, la delantera norteamericana que ilusiona a Rosario Central con sus goles y",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de un artículo informativo, aunque la ausencia de fuentes múltiples y citas específicas limita ligeramente la puntuación de veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T08:41:20.343453+00:00",
-      "title": "Captura",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de objetividad, actualidad y estructura, pero la falta de datos verificables sobre los autores reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T09:00:41.273121+00:00",
-      "title": "Fragmentos de jazmín: la voz interior de Clarice Lispector",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "originalidad_creatividad": 8,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 7,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares literarios, ofreciendo originalidad y profundidad con un estilo atractivo y una voz coherente.",
-      "error": null
-    },
-    {
       "at": "2026-08-04T09:00:45.374757+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP lleva la crisis de Ceuta al Par",
       "kind": "noticia",
@@ -3392,6 +3171,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de objetividad, actualidad y veracidad, presentando datos verificables y fuentes fiables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:17.524486+00:00",
+      "title": "Así es la habitación secreta de Pixar en la que Steve Jobs se escondía durante horas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo positivo, aunque es reciente y estructurado de forma adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:22.363509+00:00",
+      "title": "Sheinbaum recuerda declaración de Sergio Sarmiento contra los medios tras acusar al gobierno de cens",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero presenta deficiencias en la verificación de datos y en la presentación equilibrada de las distintas voces del conflicto político.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:28.489837+00:00",
+      "title": "Ranking Universidades 2027: UNAM y Tec de Monterrey se mantienen en el top 10 de latinoamérica",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es objetivo, pero la precisión de los datos es dudosa y la falta de fuentes múltiples reduce su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:33.961258+00:00",
+      "title": "Gobierno reporta ahorro de 5 mil mdp por eliminación de “pensiones doradas”; alista corrección de am",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de precisión, objetividad y estructura, pero necesita incorporar fuentes contrastantes para ofrecer una visión más completa del conflicto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:38.841819+00:00",
+      "title": "La ácida crítica de un referente de la Fórmula 1 contra Lewis Hamilton por sus extravagantes looks e",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero carece de fuentes múltiples y citas verificables, lo que afecta su precisión y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:42.785180+00:00",
+      "title": "Iris Tió conquista el oro en el solo técnico de los campeonatos de Europa de natación sincronizada y",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:51.533642+00:00",
+      "title": "Espliego, que no faneca (I)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 5
+      },
+      "observacion": "El paquete es adecuado para una columna cultural, pero no satisface plenamente los estándares de objetividad y estructura periodística de una noticia.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:05:57.038956+00:00",
+      "title": "Curiosity encuentra en Marte un campo de texturas en panal que nadie había visto a esta escala",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo cumple con la estructura invertida y la actualidad, pero la falta de fuentes fiables y de contraste de puntos de vista reduce su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:06:00.475793+00:00",
+      "title": "“Es mejor la regulación que la censura”: Sheinbaum justifica lineamientos sobre Derechos de las Audi",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, contraste y actualidad, presentando la información de forma clara y estructurada, aunque podría profundizar más en el análisis de implicaciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:06:05.824210+00:00",
+      "title": "El PIB turístico cayó 0.8% en el primer trimestre del 2026: Inegi",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:06:12.273375+00:00",
+      "title": "Vocero de Morena en Tabasco rechaza que llamen \"Andy\" a López Beltrán; acusa estrategia de la oposic",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero la ausencia de fuentes contrastantes y el sesgo evidente reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:06:14.996203+00:00",
+      "title": "Boca Juniors lanzó su nueva camiseta titular con un cambio en su escudo",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-04T16:06:20.858649+00:00",
+      "title": "Ciberataques al sistema de agua en siete estados de EE. UU.: ¿está Irán detrás?",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque sería necesario incorporar fuentes más concretas y múltiples para reforzar la veracidad y el contraste de fuentes.",
       "error": null
     }
   ]
