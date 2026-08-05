@@ -1,6 +1,213 @@
 {
-  "generated_at": "2026-08-05T03:01:35.947389+00:00",
+  "generated_at": "2026-08-05T03:21:47.405439+00:00",
   "articles": [
+    {
+      "id": "7748fb3d7160",
+      "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
+      "summary": "Mark Russinovich, director de tecnología de Azure en Microsoft, creó DoomPaint, una versión que ejecuta el clásico shooter Doom dentro de Microsoft Paint usando el portapapeles para transferir cada fotograma como imagen.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/videojuegos/doom-microsoft-paint-doompaint/",
+      "published_at": "2026-08-04T21:12:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es descriptivo y técnico, sin lenguaje cargado ni sesgo político; se limita a explicar el proyecto y su funcionamiento.",
+      "focus_analysis": "El medio se centra en el aspecto tecnológico y de ingeniería del hack, dejando de lado la reacción de la comunidad gamer o el impacto cultural del juego.",
+      "focus_tags": [
+        "tecnología",
+        "gaming",
+        "hack"
+      ],
+      "context": [
+        {
+          "label": "precedentes de hacks de software",
+          "text": "En los últimos años se han publicado varios proyectos que hacen correr videojuegos en aplicaciones inesperadas, como Tetris en Excel o Pac‑Man en la línea de comandos, demostrando la creatividad de la comunidad de programadores."
+        },
+        {
+          "label": "legado de Doom",
+          "text": "Doom, lanzado por id Software en 1993, es considerado uno de los pioneros de los shooters en primera persona y ha sido portado a innumerables plataformas, desde consolas retro hasta dispositivos móviles."
+        },
+        {
+          "label": "Microsoft Paint como herramienta de gráficos",
+          "text": "Microsoft Paint es el editor de imágenes básico de Windows, conocido por su simplicidad y falta de funciones avanzadas, lo que lo convierte en un entorno poco convencional para ejecutar un motor de juego."
+        }
+      ],
+      "confidence": "alta"
+    },
+    {
+      "id": "f97cfbe32fdb",
+      "title": "Enner Valencia, a un paso de ser refuerzo de Boca Juniors: qué resta para que la transferencia se haga oficial",
+      "summary": "El delantero ecuatoriano Enner Valencia, máximo goleador histórico de la selección de Ecuador, está a punto de fichar por Boca Juniors, tras llegar a un acuerdo preliminar y viajar a Buenos Aires para la revisión médica y la firma del contrato que se extenderá hasta diciembre de 2027.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/05/enner-valencia-a-un-paso-de-ser-refuerzo-de-boca-juniors-que-resta-para-que-la-transferencia-se-haga-oficial/",
+      "published_at": "2026-08-05T01:28:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir hechos deportivos y datos de la transferencia sin emplear lenguaje cargado ni favorecer a ninguna posición política o institucional.",
+      "focus_analysis": "El medio se centra en el aspecto deportivo y de mercado del fichaje, resaltando la necesidad del club por un delantero por lesiones y el currículum del jugador; no aborda la repercusión financiera para el club ni la reacción de la afición.",
+      "focus_tags": [
+        "transferencia",
+        "Boca Juniors",
+        "Enner Valencia"
+      ],
+      "context": [
+        {
+          "label": "Necesidad de refuerzo en Boca Juniors",
+          "text": "Boca Juniors buscaba un nuevo delantero tras la lesión de Adam Bareiro, que sufre una hernia de disco, y los problemas físicos recurrentes de Milton Giménez, lo que impulsó al cuerpo técnico a actuar en el mercado."
+        },
+        {
+          "label": "Trayectoria de Enner Valencia",
+          "text": "Enner Valencia, de 36 años, ha jugado en clubes de la Premier League, México, Turquía y Brasil, acumulando 236 goles en 699 partidos y siendo el máximo artillero histórico de la selección ecuatoriana."
+        },
+        {
+          "label": "Espacio de cupo extranjero en la liga argentina",
+          "text": "La salida a préstamo de Iker Zufiaurre y la venta de Marcelo Saracchi liberaron un cupo de jugador extranjero en Boca Juniors, permitiendo la incorporación de Valencia como refuerzo internacional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "a072d315ffda",
+      "title": "La fórmula del Instituto de Nutrición para sostener la investigación científica de alto nivel",
+      "summary": "El director general del Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, el Dr. José Sifuentes Osornio, describe cómo el modelo institucional tripartito del centro y la búsqueda de fondos internacionales le permiten mantener una investigación de alto nivel, pese a la escasez de recursos públicos y a la brecha translacional en México.",
+      "category": "tecnologia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/arteseideas/formula-instituto-nutricion-sostener-investigacion-cientifica-alto-nivel-20260804-826678.html",
+      "published_at": "2026-08-05T03:08:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono neutro, se centra en la institución y sus estrategias sin emplear lenguaje cargado ni favorecer a una posición política concreta.",
+      "focus_analysis": "El artículo se centra en el ecosistema institucional y el financiamiento de la investigación científica, dejando de lado el análisis de políticas públicas más amplias o el impacto social directo de los descubrimientos.",
+      "focus_tags": [
+        "ciencia institucional",
+        "financiamiento de investigación",
+        "medicina translacional"
+      ],
+      "context": [
+        {
+          "label": "Historial de premios",
+          "text": "En México, la Universidad Nacional Autónoma de México lidera con 31 galardones del Premio Rosenkranz, seguida por el Instituto Mexicano del Seguro Social con 17, el CINVESTAV con 15 y el INCMNSZ con 10 premios, lo que muestra la competitividad entre instituciones públicas en investigación médica."
+        },
+        {
+          "label": "Desafíos de financiamiento en México",
+          "text": "El sector de la salud y la educación en México enfrenta recortes presupuestarios recurrentes, lo que obliga a los centros de investigación a buscar recursos competitivos en agencias internacionales como el NIH, la Wellcome Trust y la Fundación Gates."
+        },
+        {
+          "label": "Modelo institucional del INCMNSZ",
+          "text": "Fundado hace 80 años por el Dr. Salvador Zubirán, el instituto se basa en tres pilares: atención médica de calidad centrada en la persona, generación de conocimiento científico y formación de recursos humanos con proyección nacional e internacional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "ab394e04f5f9",
+      "title": "El emotivo homenaje de Estudiantes de La Plata a Alejandro Sabella: las imágenes del momento en que descubrieron su estatua en UNO",
+      "summary": "El club Estudiantes de La Plata instaló una estatua en honor a Alejandro Sabella, exjugador y director técnico del equipo, como parte de la con de su 121.º aniversario, tras una votación de los hinchas que le otorgó el 68 % de los votos.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/05/el-emotivo-homenaje-de-estudiantes-de-la-plata-a-alejandro-sabella-las-imagenes-del-momento-en-que-descubrieron-su-estatua-en-uno/",
+      "published_at": "2026-08-05T02:22:20+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en hechos deportivos y descriptivos, sin lenguaje cargado ni selección de fuentes que favorezcan una posición política; menciona únicamente a representantes del club y a los aficionados.",
+      "focus_analysis": "El medio eligió resaltar el aspecto institucional y la participación de los seguidores en el homenaje, dejando de lado el contexto político o personal del fallecido.",
+      "focus_tags": [
+        "homenaje deportivo",
+        "historia del club",
+        "estatua"
+      ],
+      "context": [
+        {
+          "label": "carrera de Sabella",
+          "text": "Alejandro Sabella jugó en Estudiantes entre 1982 y 1983, ganó el Metropolitano 1982 y el Nacional 1983, y luego dirigió al equipo, conquistando la Copa Libertadores 2009 y el Torneo Apertura 2010."
+        },
+        {
+          "label": "importancia del 121.º aniversario",
+          "text": "El 121.º aniversario de Estudiantes se celebró con eventos que resaltan la tradición del club, incluyendo la inauguración de la estatua de Sabella junto a la de Osvaldo Zubeldía, otro ícono histórico."
+        },
+        {
+          "label": "participación de los hinchas",
+          "text": "Los aficionados de Estudiantes votaron para elegir al homenajeado, otorgando a Sabella el 68 % de los votos, lo que refleja la influencia de la base de seguidores en decisiones simbólicas del club."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "422afcadcb97",
+      "title": "Arrestan a hombre armado en campo de golf de Trump en EE.UU.",
+      "summary": "Un hombre de 38 años, identificado como Jeanine John Taele, fue detenido por agentes federales en el campo de golf del expresidente Donald Trump en Los Ángeles, hallándose armas, municiones y equipo táctico, dos días antes de la visita del mandatario.",
+      "category": "politica",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/arrestan-a-hombre-armado-en-campo-de-golf-de-trump-en-ee-uu/a-78238726?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-05T02:38:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir los hechos con fuentes oficiales y sin lenguaje cargado, sin destacar una postura política ni usar fuentes partidistas.",
+      "focus_analysis": "El medio se centra en el aspecto de seguridad y el hallazgo de armamento, dejando de lado la posible repercusión política o la reacción de la administración de Trump.",
+      "focus_tags": [
+        "seguridad",
+        "armas",
+        "Trump"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de seguridad de Trump",
+          "text": "Donald Trump ha recibido protección reforzada en sus viajes tras varios incidentes de amenaza, y su visita a Los Ángeles incluía una cena de recaudación del Comité Nacional Republicano."
+        },
+        {
+          "label": "participación del FBI",
+          "text": "La unidad antiterrorista del FBI y el departamento del sheriff de Los Ángeles colaboraron en la detención y registro del sospechoso, lo que indica una investigación de posible terrorismo doméstico."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "Otros medios como El Universal y El Economista también informaron del arresto, enfatizando que la visita presidencial continuó y describiendo el armamento incautado, lo que muestra un enfoque más centrado en la continuidad del evento."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "36a30f7c0be4",
+      "title": "Dan un año de prisión preventiva a Iván Martín “N”, coautor del feminicidio de Valeria Márquez",
+      "summary": "El juez Miguel Ángel Galván Esparza ordenó una prisión preventiva de un año para Iván Martín “N”, señalado como coautor material del feminicidio de la influencer Valeria Márquez, quien fue asesinada mientras transmitía en vivo desde su salón de belleza en Zapopan, Jalisco.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/05/dan-un-ano-de-prision-preventiva-a-ivan-martin-n-coautor-del-feminicidio-de-valeria-marquez/",
+      "published_at": "2026-08-05T03:14:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos judiciales y policiales sin usar lenguaje cargado ni presentar opiniones, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El medio se centra en el aspecto legal y de seguridad del caso, resaltando la decisión judicial y la participación de fuerzas de seguridad, mientras deja de lado la dimensión social y de derechos humanos vinculada a la violencia de género.",
+      "focus_tags": [
+        "justicia penal",
+        "feminicidio",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "Hecho histórico",
+          "text": "Valeria Márquez, creadora de contenido de 23 años, fue asesinada el 13 de mayo de 2025 en su salón de belleza Blossom The Beauty Lounge, en Zapopan, Jalisco, mientras realizaba una transmisión en vivo por TikTok, un hecho que generó una gran repercusión nacional e internacional."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "La Fiscalía General del Estado de Jalisco formalizó la imputación por feminicidio y el operativo de detención de Iván Martín “N” contó con el apoyo del Ejército Mexicano y la Guardia Nacional, evidenciando la intervención de diversas agencias de seguridad en el caso."
+        },
+        {
+          "label": "Contexto de violencia de género",
+          "text": "México registra una de las tasas más altas de feminicidios en América Latina, lo que ha impulsado la creación de unidades especializadas y la implementación de políticas públicas para combatir la violencia contra las mujeres."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "cd6aa6dbcdad",
       "title": "Resultado: Charlotte FC vs Pumas – Jornada 1 – Leagues Cup",
@@ -840,216 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.8
-      }
-    },
-    {
-      "id": "115d027cfc52",
-      "title": "ECOCE: “¿Ahora qué sigue? Economía circular en los Estados”",
-      "summary": "El Economista informa sobre el foro organizado por ECOCE, donde especialistas discutieron los retos y oportunidades para que los estados mexicanos avancen en la implementación de la economía circular, impulsando el reciclaje, la gestión responsable de residuos y el desarrollo regional.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/ecoce-sigue-economia-circular-estados-20260804-826589.html",
-      "published_at": "2026-08-05T02:00:00+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono mayoritariamente informativo y promueve iniciativas empresariales sin emplear un cargada lenguaje político o ideológico; la selección de fuentes se limita a los organizadores del evento, lo que indica una ligera inclinación pro‑negocio pero sin sesgo evidente.",
-      "focus_analysis": "El medio se centra en el aspecto económico y empresarial de la transición hacia la economía circular, resaltando oportunidades de mercado y desarrollo regional, mientras deja de lado la perspectiva de justicia social o los posibles conflictos políticos entre estados y la federación.",
-      "focus_tags": [
-        "economía circular",
-        "desarrollo regional",
-        "sostenibilidad empresarial"
-      ],
-      "context": [
-        {
-          "label": "Política nacional de economía circular",
-          "text": "México lanzó la Estrategia Nacional de Economía Circular 2020‑2030, que establece metas de reducción de residuos y fomento al reciclaje para todos los niveles de gobierno."
-        },
-        {
-          "label": "Generación de residuos en México",
-          "text": "Según datos del INEGI, el país produce aproximadamente 30 millones de toneladas de residuos sólidos al año, de los cuales solo una fracción se recicla de manera formal."
-        },
-        {
-          "label": "Iniciativas estatales destacadas",
-          "text": "Varios estados, como Jalisco y Nuevo León, ya han implementado planes de gestión de residuos que incluyen incentivos fiscales para empresas de reciclaje y la creación de parques industriales verdes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "299ec2379c8d",
-      "title": "“El Pumba” recibe 140 años de prisión por secuestrar y asesinar a una mujer en Oaxaca",
-      "summary": "El tribunal de Oaxaca condenó a Job I.V.Z., conocido como “El Pumba”, a 140 años de prisión por secuestrar y asesinar a la mujer R.V.A. en 2016, además de imponer una multa millonaria y reparación moral a la familia de la víctima.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/05/el-pumba-recibe-140-anos-de-prision-por-secuestrar-y-asesinar-a-una-mujer-en-oaxaca/",
-      "published_at": "2026-08-05T01:33:14+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos judiciales y estadísticas de criminalidad sin usar lenguaje cargado ni ofrecer opiniones, manteniéndose neutral en su enfoque.",
-      "focus_analysis": "El artículo se centra en la sentencia judicial y en datos de inseguridad en Oaxaca, dejando de lado el relato personal de la víctima y posibles críticas al sistema de justicia.",
-      "focus_tags": [
-        "seguridad",
-        "justicia",
-        "Oaxaca"
-      ],
-      "context": [
-        {
-          "label": "Estadísticas de secuestros en Oaxaca",
-          "text": "Durante la administración de la presidenta Claudia Sheinbaum, Oaxaca ha registrado 71 casos de secuestro, situándose como la segunda entidad con mayor incidencia de este delito en México."
-        },
-        {
-          "label": "Rol de la Fiscalía General del Estado de Oaxaca",
-          "text": "La FGEO, a través de su Vicefiscalía General de Control Regional, lleva a cabo investigaciones especializadas para identificar y procesar a los responsables de crímenes como el secuestro agravado."
-        },
-        {
-          "label": "Tendencias de violencia en la región",
-          "text": "En los últimos años, los índices de secuestro en los Valles Centrales han fluctuado, con un mínimo histórico en 2024 y un notable repunte en 2025, reflejando una vulnerabilidad persistente en la seguridad pública del estado."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "514e3fb9ef54",
-      "title": "UNAM realizará examen de control presencial del 12 al 19 de agosto: ¿Cómo será el procedimiento?",
-      "summary": "La Universidad Nacional Autónoma de México (UNAM) anunció que, tras detectar irregularidades en el proceso de ingreso en línea, realizará un examen de control presencial del 12 al 19 de agosto en cuatro ciudades del país para los aspirantes que cumplieron con los requisitos.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/unam-realizara-examen-control-presencial-12-19-agosto-sera-procedimiento-20260804-826656.html",
-      "published_at": "2026-08-05T01:36:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir fechas, lugares y motivos del examen sin usar lenguaje cargado ni citar fuentes con postura; mantiene un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y logístico del examen, resaltando fechas, sedes y procedimiento, mientras omite la perspectiva de los estudiantes y el impacto social de la polémica.",
-      "focus_tags": [
-        "educación superior",
-        "examen presencial",
-        "UNAM"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En la convocatoria en línea de mayo‑junio 2026, más de 158 000 aspirantes se presentaron y se detectaron resultados anómalos, como un 16,3 % de aciertos superiores a 100, lo que motivó la investigación por suplantación de identidad y uso de dispositivos."
-        },
-        {
-          "label": "cobertura comparada",
-          "text": "Otros medios destacaron distintos ángulos: Aristegui subrayó la descentralización del examen en varias sedes, Infobae informó sobre el puntaje mínimo requerido por programa, y El Sol de México enfatizó los requisitos de elegibilidad de los candidatos."
-        },
-        {
-          "label": "contexto institucional",
-          "text": "La UNAM, la mayor universidad pública de México, lleva a cabo anualmente el Concurso de Selección de Ingreso a Licenciatura, que ofrece alrededor de 22 000 plazas para decenas de miles de solicitantes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "6a4ac281ffc2",
-      "title": "Lo que esta ciudad desértica puede enseñar al mundo sobre cómo combatir las muertes por calor",
-      "summary": "La ciudad de Phoenix, Arizona, EE. UU., ha puesto en marcha programas de refrigeración gratuitos y nombrado a un responsable de gestión del calor, lo que ha contribuido a reducir las muertes por calor y sirve como ejemplo para otras regiones que enfrentan olas de calor cada vez más intensas.",
-      "category": "sociedad",
-      "source_name": "BBC News Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/czdm1e5p2zqo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-05T00:15:02+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje informativo y citeado, sin términos cargados ni selección parcial de fuentes; presenta datos y declaraciones de expertos de forma equilibrada.",
-      "focus_analysis": "El medio se centra en la respuesta institucional y de salud pública de Phoenix frente al calor extremo, resaltando iniciativas municipales y testimonios de investigadores, mientras deja de lado el debate político sobre políticas climáticas a nivel nacional o internacional.",
-      "focus_tags": [
-        "salud pública",
-        "política de clima",
-        "medidas municipales"
-      ],
-      "context": [
-        {
-          "label": "Aumento de muertes por calor a nivel global",
-          "text": "Durante el verano de 2026, Europa y gran parte de Estados Unidos registraron cientos de muertes relacionadas con olas de calor, con Francia reportando más de 2 000 fallecimientos y el Reino Unido estimando más de 2 700 posibles víctimas."
-        },
-        {
-          "label": "Estrategias de Phoenix para mitigar el calor",
-          "text": "Phoenix, en el condado de Maricopa, ofrece centros de refrigeración gratuitos, extiende su horario de 24 horas, proporciona reparación o sustitución de a acondicionado a residentes vulnerables y nombró en 2021 a un responsable de gestión del calor."
-        },
-        {
-          "label": "Contexto de cambio climático y calor nocturno",
-          "text": "Los científicos advierten que las temperaturas nocturnas cada vez bajan, lo que dificulta la recuperación corporal y convierte el calor extremo en una nueva normalidad impulsada por el cambio climático."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "f97cfbe32fdb",
-      "title": "Enner Valencia, a un paso de ser refuerzo de Boca Juniors: qué resta para que la transferencia se haga oficial",
-      "summary": "El delantero ecuatoriano Enner Valencia, máximo goleador histórico de la selección de Ecuador, está a punto de firmar con Boca Juniors tras llegar a un acuerdo preliminar y viajar a Buenos Aires para la revisión médica, como respuesta a la necesidad del club de reemplazar a jugadores lesionados.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/05/enner-valencia-a-un-paso-de-ser-refuerzo-de-boca-juniors-que-resta-para-que-la-transferencia-se-haga-oficial/",
-      "published_at": "2026-08-05T01:28:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y cifras sin usar lenguaje cargado ni favorecer a ninguna de las partes, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El artículo se centra en los aspectos institucionales y logísticos de la transferencia, resaltando la situación de lesiones en Boca Juniors y el historial del jugador, mientras omite la reacción de la afición y los detalles financieros del traspaso.",
-      "focus_tags": [
-        "transferencia",
-        "Boca Juniors",
-        "Enner Valencia"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Enner Valencia",
-          "text": "Enner Valencia, de 36 años, ha jugado en clubes como West Ham United, Everton, Tigres de México, Fenerbahçe y Porto, acumulando 236 goles en su carrera y siendo el máximo artillero de la selección ecuatoriana."
-        },
-        {
-          "label": "Problemas de plantilla de Boca Juniors",
-          "text": "Boca Juniors enfrenta la ausencia de Adam Bareiro, lesionado con una hernia de disco, y de Milton Giménez, que ha tenido problemas físicos recurrentes, lo que ha impulsado al club a buscar un nuevo centrodelantero."
-        },
-        {
-          "label": "Regulación de cupos extranjeros",
-          "text": "El club liberó un cupo de jugador extranjero tras el préstamo de Iker Zufiaurre a Albión de Uruguay y la venta de Marcelo Saracchi al Houston Dynamo, permitiendo la incorporación de Valencia."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "dcff328b19d3",
-      "title": "Diarrea explosiva suma cinco casos en México: Jalisco confirma dos personas enfermas que viajaron al extranjero",
-      "summary": "La Secretaría de Salud de Jalisco confirmó dos casos de ciclosporiasis, conocida como diarrea explosiva, en adultos que regresaron de Canadá y Estados Unidos, elevando a cinco el número total de casos detectados en México.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/05/diarrea-explosiva-suma-cinco-casos-en-mexico-jalisco-confirma-dos-personas-enfermas-que-viajaron-al-extranjero/",
-      "published_at": "2026-08-05T01:38:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a informar datos oficiales y recomendaciones de salud sin usar lenguaje cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centra en la perspectiva de salud pública, describiendo la enfermedad, su origen y medidas preventivas, mientras omite cualquier análisis económico o político del brote.",
-      "focus_tags": [
-        "salud pública",
-        "ciclospora",
-        "prevención"
-      ],
-      "context": [
-        {
-          "label": "brote en EE. UU.",
-          "text": "El Centro para el Control y la Prevención de Enfermedades (CDC) reportó en 2026 más de 2,300 casos de ciclosporiasis en Estados Unidos, con dos fallecidos vinculados al parásito."
-        },
-        {
-          "label": "poblaciones vulnerables",
-          "text": "Las personas con sistemas inmunológicos comprometidos, como pacientes con VIH, cáncer o trasplantes, presentan mayor riesgo de complicaciones graves por la infección."
-        },
-        {
-          "label": "recomendaciones internacionales",
-          "text": "Organizaciones de salud internacionales aconsejan el lavado frecuente de manos y el uso de desinfectantes para reducir la transmisión de infecciones gastrointestinales como la ciclosporiasis."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]

@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-04T20:44:02.549429+00:00",
-      "title": "Anthropic nombra a Mariano-Florentino Cuéllar como primer director de asuntos ⁠globales",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es de buena calidad informativa, aunque debería corregir la referencia temporal a la administración de Trump y añadir fuentes complementarias para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T20:44:09.145221+00:00",
-      "title": "Un jugador del San Pablo atropelló y mató a un hombre en Brasil: el video del accidente",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y objetivo, pero necesita mejorar el contraste de fuentes y corregir pequeñas imprecisiones en los datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T20:44:14.770555+00:00",
-      "title": "El estudio detrás del «FIFA» de Netflix, el desastroso juego oficial del Mundial, despide a casi tod",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la verificación de datos, incluir fuentes múltiples y adoptar un tono más neutral para alcanzar los estándares de calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T20:44:24.068597+00:00",
-      "title": "Lecciones de “La Odisea” para empresarios",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta una reflexión interesante, pero contiene inexactitudes factuales que limitan su idoneidad como noticia objetiva; sería adecuado para publicación como columna de opinión con corrección de datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T20:44:28.270289+00:00",
-      "title": "Qué es el Viernes de Dolores y por qué se celebra en México",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz y objetiva; solo se sugiere ampliar la variedad de fuentes para reforzar la robustez del contenido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T20:44:34.332766+00:00",
-      "title": "Infantino seguiría al frente de la FIFA hasta 2027",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, reciente y estructurada de manera objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:03:02.288459+00:00",
-      "title": "Sheinbaum ataca a Tv Azteca y a Sergio Sarmiento, pero dice que ella no censura",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta buena estructura y actualidad, pero falla gravemente en veracidad y en el uso de fuentes confiables, lo que compromete su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:03:08.577376+00:00",
-      "title": "México vs El Salvador Femenil, ¿cómo va el partido semifinal de los Juegos Centroamericanos?",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque muestra un sesgo favorable hacia México; cumple con los estándares de objetividad y estructura.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:03:15.074901+00:00",
-      "title": "Ganó cuatro títulos en la Fórmula 1 y se retiró para ser granjero: “Me fascina”",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Buena estructura y actualidad, pero la falta de verificación de datos clave y fuentes limitadas disminuye la calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:03:20.596453+00:00",
-      "title": "Samsung Electronics presenta nueva tecnología de memoria para IA de última generación",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de una noticia objetiva y oportuna, aunque la falta de fuentes específicas para las cifras impide una puntuación perfecta.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:03:26.827382+00:00",
-      "title": "SpaceX dispara sus ingresos un 92% en los primeros resultados trimestrales tras su salida a Bolsa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo y objetivo, con sólo pequeñas reservas sobre la verificación directa de los números citados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:03:33.161491+00:00",
-      "title": "El estudio detrás del «FIFA» de Netflix, el desastroso juego oficial del Mundial, despide a casi tod",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque está actualizado y bien estructurado; necesita fuentes verificables y mayor balance de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:03:43.312137+00:00",
-      "title": "Lecciones de “La Odisea” para empresarios",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta errores de hecho y falta de fuentes contrastadas, lo que lo hace inadecuado como artículo de noticias objetivo y fiable.",
-      "error": null
-    },
-    {
       "at": "2026-08-04T21:03:46.837442+00:00",
       "title": "En qué celulares deja de funcionar WhatsApp este agosto 2026",
       "kind": "noticia",
@@ -3381,6 +3160,221 @@
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando un informe objetivo y reciente del partido, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
       "error": null
+    },
+    {
+      "at": "2026-08-05T03:20:41.712746+00:00",
+      "title": "Taiwán inicia sus ejercicios militares anuales ante una potencial invasión de China",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares periodísticos, aunque debería incorporar fuentes más diversas para mejorar el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:20:46.545284+00:00",
+      "title": "Examen de control devolverá credibilidad a la UNAM, asegura estudiante; \"si vuelven a aprobar  tendr",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en gran medida con la objetividad y actualidad, pero necesita fuentes más contrastadas y mayor verificabilidad de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:20:50.304736+00:00",
+      "title": "Dan un año de prisión preventiva a Iván Martín “N”, coautor del feminicidio de Valeria Márquez",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de precisión y actualidad, pero necesita mayor contraste de fuentes para ofrecer una visión más completa del caso.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:20:57.934339+00:00",
+      "title": "Arrestan a hombre armado en campo de golf de Trump en EE.UU.",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los criterios de objetividad, actualidad y estructura, aunque la precisión de algunos datos (nombre y ubicación) necesita ser verificada para elevar la fiabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:02.597073+00:00",
+      "title": "El emotivo homenaje de Estudiantes de La Plata a Alejandro Sabella: las imágenes del momento en que ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para reforzar el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:09.073644+00:00",
+      "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero su falta de fuentes oficiales y contraste limitado reduce la credibilidad y objetividad del informe.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:18.569693+00:00",
+      "title": "Lecciones de “La Odisea” para empresarios",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta una visión interesante pero contiene errores factuales y escasa diversificación de fuentes, lo que limita su calidad informativa a pesar de su actualidad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:23.614765+00:00",
+      "title": "La fórmula del Instituto de Nutrición para sostener la investigación científica de alto nivel",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando información reciente, fiable y objetivamente estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:28.894094+00:00",
+      "title": "Estados Unidos lanza fuerza anticrimen con 18 países de América",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete tiene problemas de veracidad y falta de fuentes contrastadas, aunque está bien estructurado y es actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:32.308644+00:00",
+      "title": "Los veterinarios lo confirman: tú gato te trae comida porque piensa que no puedes cazar y podrías mo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la verificación de datos y diversificar fuentes para cumplir con estándares de precisión y contraste, aunque su estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:35.782650+00:00",
+      "title": "Los modelos de IA que mostraron un nivel de \"autonomía y engaño\" nunca antes visto",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete carece de veracidad y fuentes múltiples, aunque mantiene objetividad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:41.802812+00:00",
+      "title": "Enner Valencia, a un paso de ser refuerzo de Boca Juniors: qué resta para que la transferencia se ha",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los criterios de objetividad y actualidad, aunque se beneficiaría de fuentes más múltiples para reforzar la veracidad y el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T03:21:46.376680+00:00",
+      "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 16 column 169 (char 1043)"
     }
   ]
 }
