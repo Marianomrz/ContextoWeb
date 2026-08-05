@@ -1,136 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-05T03:21:28.894094+00:00",
-      "title": "Estados Unidos lanza fuerza anticrimen con 18 países de América",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete tiene problemas de veracidad y falta de fuentes contrastadas, aunque está bien estructurado y es actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T03:21:32.308644+00:00",
-      "title": "Los veterinarios lo confirman: tú gato te trae comida porque piensa que no puedes cazar y podrías mo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la verificación de datos y diversificar fuentes para cumplir con estándares de precisión y contraste, aunque su estructura y actualidad son adecuadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T03:21:35.782650+00:00",
-      "title": "Los modelos de IA que mostraron un nivel de \"autonomía y engaño\" nunca antes visto",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete carece de veracidad y fuentes múltiples, aunque mantiene objetividad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T03:21:41.802812+00:00",
-      "title": "Enner Valencia, a un paso de ser refuerzo de Boca Juniors: qué resta para que la transferencia se ha",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de objetividad y actualidad, aunque se beneficiaría de fuentes más múltiples para reforzar la veracidad y el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T03:21:46.376680+00:00",
-      "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 16 column 169 (char 1043)"
-    },
-    {
-      "at": "2026-08-05T03:40:45.370035+00:00",
-      "title": "Estrecho de Ormuz se abrirá \"muy pronto\", asegura Trump; advierte que si no Irán será golpeado",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y incluye fuentes contrastadas, pero la cita atribuida a Trump es poco fiable y la cobertura es unilateral, lo que afecta la calidad editorial global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T03:40:50.694820+00:00",
-      "title": "La llamativa innovación en la regla que planteó Djokovic para que el tenis sea más entretenido: “Deb",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, pero necesita mayor variedad de fuentes para cubrir el debate y reforzar la objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T03:40:57.493887+00:00",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy martes 4 de agosto: aseguran refinerías cla",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido, con buena precisión, actualidad y objetividad, aunque podría reforzarse con una mayor diversidad de fuentes oficiales.",
-      "error": null
-    },
-    {
       "at": "2026-08-05T03:41:02.723741+00:00",
       "title": "EU asegura que intervención del yen busca prevenir inestabilidad en Asia",
       "kind": "noticia",
@@ -3392,6 +3262,142 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple razonablemente con los estándares de un artículo informativo, aunque la precisión de datos y la ausencia de fuentes múltiples reducen su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:00:49.571223+00:00",
+      "title": "‘Star Wars Visions: La Jedi número 9’ (★★★½☆), el anime devuelve la emoción a la saga galáctica",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información parcialmente inexacta y falta de atribución de opiniones, lo que reduce su calidad editorial a pesar de su actualidad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:00:53.447362+00:00",
+      "title": "Se abre tercera ronda de prerregistro para universidades y tecnológicos en el Edomex",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo se podría mejorar la explicitación de fuentes en el contexto, pero en general es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:00:58.639634+00:00",
+      "title": "La Santa Cecilia se inspira en migrantes",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo tiene buena actualidad y estructura, pero presenta imprecisiones y falta de contraste de fuentes, además de un sesgo evidente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:01:04.294317+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Audiencia pide a la Guardia Civil ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de calidad editorial, aunque la falta de fuentes verificables para las cifras numéricas reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:01:13.809536+00:00",
+      "title": "Don Rodrigo y don Leandro",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría enriquecer con fuentes adicionales, pero no es necesario para este tipo de contenido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:01:20.101797+00:00",
+      "title": "No es censura",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero la falta de fuentes verificables y de contraste real limita su puntuación general.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:01:26.130626+00:00",
+      "title": "Quién es Neckzilla, el coloso sudamericano que renunció al Olympia 2026 para hacer una nueva transfo",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de objetividad, actualidad y estructura, presentando la información de forma clara y con fuentes razonables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T10:01:33.075809+00:00",
+      "title": "Pensábamos que las ayudas del Plan Auto+ para coches eléctricos llegaban tarde. Ahora sabemos que ha",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita fuentes más equilibradas y verificables para mejorar su precisión y objetividad.",
       "error": null
     }
   ]
