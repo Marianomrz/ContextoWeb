@@ -1,142 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-05T12:05:55.404512+00:00",
-      "title": "EE.UU. cancela la visa a la embajadora de Brasil; el Gobierno de Lula alega injerencia electoral",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y estructurado, pero falla gravemente en veracidad, contraste de fuentes y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T12:06:00.270479+00:00",
-      "title": "Qué puede aprender la ciencia del choque contra la Luna de un cohete de SpaceX que estaba a la deriv",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría enriquecer la contrastación de fuentes con referencias adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T12:06:05.343723+00:00",
-      "title": "Boca Juniors recibirá a Estudiantes en la cancha de Huracán por el Torneo Clausura: hora, TV y forma",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, ofreciendo una cobertura clara y bien estructurada del evento deportivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T12:20:45.629934+00:00",
-      "title": "Clima del puerto de Veracruz: probabilidad de lluvia y temperaturas del 5 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de noticia objetiva, aunque la falta de una fuente meteorológica oficial limita ligeramente la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T12:20:51.438730+00:00",
-      "title": "La batalla silenciosa de Osmar Olvera detrás de sus tres medallas de oro",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales; solo se observa una incongruencia en la categoría asignada y falta de citas directas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T12:20:56.452289+00:00",
-      "title": "Los agentes de IA de OpenAI y Anthropic, implicados en nuevas brechas de seguridad",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra buena estructura y actualidad, pero la falta de datos verificables y fuentes fiables reduce significativamente su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T12:21:00.338996+00:00",
-      "title": "El bloguero Perez Hilton se recupera en un hospital tras informes de que se autolesionó durante una ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es oportuno y bien estructurado, pero necesita mayor evidencia y fuentes múltiples para alcanzar un nivel alto de veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T12:21:05.697588+00:00",
-      "title": "Tigre recibirá a Belgrano en el partido pendiente de la segunda fecha del Torneo Clausura: hora, TV ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es oportuno y bien estructurado, pero contiene errores factuales y depende de una única fuente, lo que reduce su puntuación global.",
-      "error": null
-    },
-    {
       "at": "2026-08-05T12:21:11.535410+00:00",
       "title": "Apple buscará repetir su \"momento AirPods\" con el iPhone plegable. Hasta Samsung se beneficiará",
       "kind": "noticia",
@@ -3382,6 +3246,142 @@
         "veracidad_precision": 9,
         "contraste_fuentes": 8,
         "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:20:44.777377+00:00",
+      "title": "Knicks y Warriors entre los peores mercados de la NBA en 2026: qué está pasando con las franquicias ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejoras en precisión de datos y mayor variedad de fuentes, aunque mantiene una buena objetividad y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:20:50.377519+00:00",
+      "title": "UNAM cancela contrato con Territorium Life, empresa que realizó examen de admisión: auditarán proces",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información precisa, contrastada y objetiva de manera oportuna y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:20:56.713986+00:00",
+      "title": "Admite Sheinbaum que los empresarios más ricos no quieren a Lenia Batres al frente de la SCJN",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 1,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "Aunque la publicación es reciente y estructurada, la falta de veracidad, fuentes confiables y objetividad compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:21:02.328546+00:00",
+      "title": "Quien es Abdul El-Sayed, el candidato musulmán de izquierda cuya victoria en las primarias de Michig",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes y actualidad, aunque muestra un leve sesgo en la redacción que impide una puntuación perfecta de objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:21:07.749754+00:00",
+      "title": "Doble amenaza para el aguacate: Inseguridad frena inspecciones y Cocena prepara denuncia vs. proveed",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque la ausencia de la posición del proveedor MADOBOX impide una cobertura completa de todas las voces.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:21:14.126141+00:00",
+      "title": "El choque de un Falcon 9 en la Luna ha sido un aviso. SpaceX y la NASA ya diseñan el protocolo para ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es mayormente objetivo y actual, pero necesita fuentes más diversificadas y mayor respaldo verificable para la afirmación del protocolo conjunto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:21:23.393843+00:00",
+      "title": "Pensar la universidad",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos básicos de un artículo informativo, aunque podría mejorar la verificación de algunos datos y la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T18:21:28.924351+00:00",
+      "title": "El Inter Miami de Lionel Messi iniciará su camino en la Leagues Cup ante Atlético San Luis: hora, TV",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
         "actualidad": 10,
         "estructura_piramide": 9
       },
