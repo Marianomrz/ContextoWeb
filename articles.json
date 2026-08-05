@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-05T05:01:37.637973+00:00",
+  "generated_at": "2026-08-05T05:21:20.412897+00:00",
   "articles": [
+    {
+      "id": "79f5f1e6743b",
+      "title": "Mandato sin regla: la reforma del banco central argentino",
+      "summary": "El presidente argentino Javier Milei presentó al Congreso una reforma de la Carta Orgánica del Banco Central que, según el autor, busca preservar el valor del peso y prohibir el financiamiento al Estado, pero carece de metas de inflación y mecanismos de rendición de cuentas, convirtiéndose en una señalización sin garantía.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/mandato-regla-reforma-banco-central-argentino-20260804-826700.html",
+      "published_at": "2026-08-05T05:15:02+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea un tono crítico, resaltando la falta de reglas y la discrecionalidad del proyecto, lo que indica una ligera inclinación hacia una evaluación negativa de la política de Milei.",
+      "focus_analysis": "El medio opta por un enfoque institucional‑económico, analizando la arquitectura legal y la ausencia de normas claras, mientras omite la dimensión política y social del debate.",
+      "focus_tags": [
+        "reforma del Banco Central",
+        "política monetaria",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes inflacionarios",
+          "text": "Argentina ha registrado una inflación anual superior al 100 % en los últimos años, lo que ha llevado a gobiernos anteriores a buscar mecanismos de control monetario."
+        },
+        {
+          "label": "Propuesta de Milei",
+          "text": "El presidente Javier Milei, de orientación libertaria, ha planteado la eliminación del financiamiento del Banco Central al Tesoro y la introducción de un “grillete fiscal” para limitar déficits."
+        },
+        {
+          "label": "Opiniones de otros medios",
+          "text": "Analistas de medios financieros como Bloomberg y Reuters han señalado que la reforma podría reforzar la independencia del banco central pero también incrementar la discrecionalidad del Ejecutivo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "b39f72ac992f",
+      "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
+      "summary": "El CEO de Telegram, Pavel Dúrov, explicó que Apple retiró la aplicación de la App Store tras la inserción de una imagen de abuso infantil generada por IA en un chat público, un acto vinculado a extorsión a los administradores de grupos, y criticó que la decisión se tomó sin previo aviso.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-store/",
+      "published_at": "2026-08-04T23:33:34+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo utiliza un tono mayormente informativo y presenta tanto la versión de Telegram como la justificación de Apple, pero enfatiza la crítica de Dúrov a la acción unilateral de Apple, lo que indica una ligera inclinación contra la empresa.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y técnico de la moderación de contenido y la política de la App Store, dejando de lado la perspectiva de los usuarios y el debate más amplio sobre la regulación de la IA.",
+      "focus_tags": [
+        "moderación de contenido",
+        "política de apps",
+        "extorsión digital"
+      ],
+      "context": [
+        {
+          "label": "Política de Apple",
+          "text": "Apple ha removido previamente aplicaciones de su tienda por incumplir normas, como el caso de Fortnite en 2020, lo que muestra un patrón de acciones enérgicas frente a contenido considerado problemático."
+        },
+        {
+          "label": "Riesgo de contenido generado por IA",
+          "text": "Plataformas de mensajería enfrentan el desafío de detectar y eliminar rápidamente material ilegal creado con inteligencia artificial, lo que complica los procesos de moderación tradicionales."
+        },
+        {
+          "label": "Cobertura de Applesfera",
+          "text": "Otro medio tecnológico, Applesfera, describió la eliminación de Telegram como un acto sospechoso de Apple, subrayando una narrativa de falta de transparencia y posibles motivaciones ocultas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "667ba93df34e",
+      "title": "El ranking de la Fórmula 1 con los mejores pilotos de la primera mitad de la temporada: el destacado lugar que ocupa Colapinto",
+      "summary": "El piloto argentino de 23 años, Franco Colapinto, quedó décimo en el Power Rankings oficial de la Fórmula 1 tras las once primeras carreras de la temporada 2026, empatado en puntuación con el francés Isack Hadjar de Red Bull, mientras su equipo Alpine se sitúa en la sexta posición del Campeonato de Constructores.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/05/el-ranking-de-la-formula-1-con-los-mejores-pilotos-de-la-primera-mitad-de-la-temporada-el-destacado-lugar-que-ocupa-colapinto/",
+      "published_at": "2026-08-05T04:16:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a presentar datos y citas de expertos sin usar lenguaje cargado ni favorecer a ningún actor, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centra en el desempeño individual de los pilotos y la posición de Alpine en el ranking, dejando de lado el contexto más amplio de la lucha por el campeonato mundial y los aspectos técnicos de los monoplazas.",
+      "focus_tags": [
+        "Fórmula 1",
+        "ranking de pilotos",
+        "Alpine"
+      ],
+      "context": [
+        {
+          "label": "Método de evaluación",
+          "text": "El Power Rankings de la F1, introducido en 2023, utiliza un panel de cinco expertos que califican a cada piloto tras cada Gran Premio, promediando las notas para generar una puntuación que excluye la influencia del coche."
+        },
+        {
+          "label": "Posición de Colapinto",
+          "text": "Franco Colapinto obtuvo una media de 7,0 puntos, igual que el novato francés Isack Hadjar, mientras su compañero de equipo Pierre Gasly alcanzó 7,6 puntos, situándose por encima de ambos en el mismo ranking."
+        },
+        {
+          "label": "Situación de Alpine",
+          "text": "Alpine cerró la primera mitad del año en el sexto lugar del Campeonato de Constructores, detrás de Racing Bulls, y apunta a mejorar su rendimiento para la segunda mitad de la temporada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "e2803387a6a4",
+      "title": "Taiwán inicia ejercicios militares ante creciente presión de China",
+      "summary": "Taiwán lanzó los ejercicios militares anuales \"Han Kuang\" del 5 al 14 de agosto, preparando a sus fuerzas y a la población civil para responder a una posible invasión militar de China, que ha intensificado su presión mediante vuelos y buques alrededor de la isla.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/taiwán-inicia-ejercicios-militares-ante-creciente-presión-de-china/a-78239445?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-05T04:30:00+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto emplea expresiones cargadas como \"terror rojo\" y destaca la visión autoritaria de China, citando solo a oficiales taiwaneses y omitiendo fuentes chinas, lo que genera un encuadre crítico hacia Pekín.",
+      "focus_analysis": "El medio se centró en el ángulo de seguridad y defensa, resaltando la amenaza china y las maniobras militares de Taiwán, mientras dejó de lado los aspectos diplomáticos o económicos del conflicto.",
+      "focus_tags": [
+        "seguridad",
+        "militar",
+        "tensión China‑Taiwán"
+      ],
+      "context": [
+        {
+          "label": "Reclamación china",
+          "text": "China considera a Taiwán parte de su territorio y ha aumentado la presencia de aviones y buques militares alrededor de la isla en los últimos años."
+        },
+        {
+          "label": "Preparación defensiva taiwanesa",
+          "text": "Taiwán ha incrementado su gasto en defensa, adquiriendo drones y armamento ligero para una guerra asimétrica, y ha incluido pruebas de reducción de velocidad de internet móvil y simulacros de ataques aéreos en los ejercicios."
+        },
+        {
+          "label": "Debate interno en Taiwán",
+          "text": "El gobierno del presidente Lai Ching‑te enfrenta oposición parlamentaria sobre la magnitud del gasto militar necesario para reforzar la defensa nacional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "9dc117e991cf",
+      "title": "Así quedaron conformadas las habitaciones de La Casa de los Famosos México 2026: “Ibiza”, “Malibú” y “Tulúm”",
+      "summary": "La cuarta temporada de La Casa de los Famosos México 2026 dividió a los 18 participantes en tres dormitorios temáticos —Ibiza, Malibú y Tulum—, designados por los capitanes elegidos por el público, como una novedad estructural para influir en alianzas y tensiones del juego.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/07/27/asi-quedaron-conformadas-las-habitaciones-de-la-casa-de-los-famosos-mexico-2026-ibiza-malibu-y-tulum/",
+      "published_at": "2026-08-05T05:13:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin vocabulario cargado ni citas a fuentes con sesgo evidente; se limita a informar sobre la organización del programa.",
+      "focus_analysis": "El medio se centró en la innovación estructural del reality show, describiendo la distribución de los cuartos y la dinámica de los capitanes, dejando de lado aspectos humanos profundos o polémicos de los participantes.",
+      "focus_tags": [
+        "reality show",
+        "estructura de la casa",
+        "televisión mexicana"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "La Casa de los Famosos México, versión local del formato de convivencia aislada, lleva emitida desde 2022 y, hasta la tercera temporada, los concursantes se alojaban en dos dormitorios."
+        },
+        {
+          "label": "Dato comparable",
+          "text": "Otros reality de convivencia, como Gran Hermano en España, han introducido zonas temáticas para crear dinámicas de juego distintas, una estrategia similar a la que adopta la edición 2026."
+        },
+        {
+          "label": "Postura de otro medio",
+          "text": "El Sol de México destacó que la participante Arantza Ruiz proviene de una familia con tradición actoral, lo que muestra cómo el programa incorpora figuras con antecedentes mediáticos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "6f9a82fb5ba6",
+      "title": "Asesinan a César Gastelum, creador de contenido, durante transmisión en vivo; realizaban filmación para redes sociales",
+      "summary": "César Gastelum, creador de contenido mexicano, fue asesinado a tiros mientras transmitía en vivo frente a sus compañeros en Culiacán, Sinaloa, cuando dos atacantes en motocicleta le dispararon en la cabeza.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/asesinan-a-cesar-gastelum-creador-de-contenido-durante-transmision-en-vivo-realizaban-filmacion-para-redes-sociales/",
+      "published_at": "2026-08-05T05:15:18+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva y neutral, sin usar vocabulario cargado ni destacar opiniones o fuentes que inclinen la narrativa hacia alguna posición política.",
+      "focus_analysis": "El medio se centró en el hecho del homicidio y la violencia contra un influencer, dejando de lado un análisis más amplio de la inseguridad en la región o de las políticas de protección a creadores digitales.",
+      "focus_tags": [
+        "violencia contra influencers",
+        "seguridad pública",
+        "Culiacán"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "En los últimos años, México ha visto un incremento de ataques contra creadores de contenido y periodistas que trabajan en redes sociales, particularmente en zonas donde el crimen organizado tiene fuerte presencia."
+        },
+        {
+          "label": "datos comparables",
+          "text": "Culiacán, capital de Sinaloa, es conocida por la actividad del cártel de Sinaloa y ha sido escenario de varios homicidios de figuras públicas en los últimos meses."
+        },
+        {
+          "label": "posturas de otros actores",
+          "text": "Organizaciones de derechos humanos han denunciado la impunidad en casos de violencia contra medios digitales, exigiendo mayor protección para los creadores de contenido."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "cfafb6ccc9d8",
       "title": "Dictan prisión preventiva al \"R1\", acusado del asesinato de Carlos Manzo; espera vinculación a proceso en el Altiplano",
@@ -835,216 +1045,6 @@
         {
           "label": "Cobertura de otros medios",
           "text": "El Periódico AM de León también informó del aumento de casos, destacando la zona turística de Cancún y la Riviera Maya, lo que muestra que diferentes fuentes ponen énfasis en la ubicación de los viajeros."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "db3158b0e312",
-      "title": "Otra oleada de misiles rusos cobra víctimas en Kiev",
-      "summary": "Los ataques con misiles balísticos lanzados por Rusia contra la capital ucraniana, Kiev, dejaron al menos dos muertos y decenas de heridos, según informaron las autoridades locales y la administración militar de la ciudad.",
-      "category": "politica",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/otra-oleada-de-misiles-rusos-cobra-víctimas-en-kiev/a-78238735?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-05T03:19:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos y citar a autoridades ucranianas y a la ONU, sin emplear vocabulario cargado ni presentar opiniones partidistas.",
-      "focus_analysis": "Se centra en el impacto humanitario y la petición de ayuda militar de Ucrania, dejando de lado la explicación de los motivos rusos o una visión más amplia de la respuesta internacional.",
-      "focus_tags": [
-        "civiles",
-        "ataques con misiles",
-        "respuesta ucraniana"
-      ],
-      "context": [
-        {
-          "label": "conflicto en curso",
-          "text": "Desde la invasión rusa de Ucrania en febrero de 2022, el país ha enfrentado una guerra que ha provocado miles de víctimas civiles y desplazamientos masivos."
-        },
-        {
-          "label": "incremento de misiles rusos",
-          "text": "En julio de 2026, según análisis de la AFP, Rusia duplicó el uso de misiles balísticos contra Ucrania, intensificando la presión sobre la infraestructura civil."
-        },
-        {
-          "label": "peticiones de defensa ucraniana",
-          "text": "El presidente Volodimir Zelenski ha solicitado a los aliados occidentales más interceptores Patriot, mientras la ONU ha expresado preocupación por el aumento de víctimas civiles."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "ea572fdfc6fc",
-      "title": "Bertha Alcalde Luján es designada como representante de la Zona Centro en la Conferencia Nacional de Procuración de Justicia",
-      "summary": "Bertha Alcalde Luján, fiscal general de Justicia de la Ciudad de México, fue elegida por voto unánime para representar a la Zona Centro en la Conferencia Nacional de Procuración de Justicia, donde coordinará las fiscalías de seis estados y promoverá la implementación de herramientas de inteligencia artificial para la identificación de personas fallecidas.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/05/bertha-alcalde-lujan-es-designada-como-representante-de-la-zona-centro-en-la-conferencia-nacional-de-procuracion-de-justicia/",
-      "published_at": "2026-08-05T03:27:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo emplea un tono descriptivo y neutral, limitándose a informar la designación y las declaraciones de la fiscal sin usar vocabulario cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio optó por un enfoque institucional, resaltando la designación y las funciones de coordinación regional, mientras deja de lado aspectos personales o críticos sobre la gestión de la justicia.",
-      "focus_tags": [
-        "justicia penal",
-        "coordinación regional",
-        "inteligencia artificial"
-      ],
-      "context": [
-        {
-          "label": "Función de la CNPJ",
-          "text": "La Conferencia Nacional de Procuración de Justicia es el organismo colegiado que agrupa a los fiscales de los 32 estados y la Fiscalía General de la República, encargándose de diseñar y dar seguimiento a políticas de combate al delito y de seguridad jurídica en México."
-        },
-        {
-          "label": "Estructura de zonas regionales",
-          "text": "El país está dividido en cinco zonas para la CNPJ; la Zona Centro, que ahora lidera Alcalde Luján, incluye a la Ciudad de México, Estado de México, Hidalgo, Morelos, Puebla y Tlaxcala, y su representante presenta los intereses comunes de esas fiscalías."
-        },
-        {
-          "label": "Uso de IA en identificación forense",
-          "text": "El Registro de Personas Fallecidas No Identificadas, lanzado por la Fiscalía de la CDMX, emplea inteligencia artificial y procesamiento de lenguaje natural para agilizar la búsqueda de datos de personas sin identificación, una iniciativa que Alcalde Luján busca expandir a nivel nacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "ab394e04f5f9",
-      "title": "El emotivo homenaje de Estudiantes de La Plata a Alejandro Sabella: las imágenes del momento en que descubrieron su estatua en UNO",
-      "summary": "El club Estudiantes de La Plata de Argentina inauguró una estatua en honor al exentrenador Alejandro Sabella en el Paseo de los Profesores del estadio UNO, tras una votación de los hinchas que le otorgó el 68 % de los votos.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/05/el-emotivo-homenaje-de-estudiantes-de-la-plata-a-alejandro-sabella-las-imagenes-del-momento-en-que-descubrieron-su-estatua-en-uno/",
-      "published_at": "2026-08-05T02:22:20+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto usa un tono emotivo y elogioso, resaltando la elección popular y los logros del entrenador, sin presentar críticas ni perspectivas contrarias.",
-      "focus_analysis": "El medio se centró en el aspecto emotivo y simbólico del homenaje, destacando la participación de los aficionados y la historia del club, mientras dejó de lado el análisis del impacto deportivo actual o posibles controversias.",
-      "focus_tags": [
-        "homenaje deportivo",
-        "legado de Sabella",
-        "cultura club"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Alejandro Sabella",
-          "text": "Alejandro Sabella, futbolista formado en Estudiantes entre 1982 y 1983, ganó el Metropolitano 1982 y el Nacional 1983, y como director técnico condujo al club a la Copa Libertadores 2009 y al Torneo Apertura 2010, antes de dirigir a la selección argentina que llegó a la final del Mundial de Brasil 2014."
-        },
-        {
-          "label": "Historia y tradición de Estudiantes de La Plata",
-          "text": "Fundado en 1905, Estudiantes es uno de los clubes más laureados del fútbol argentino, conocido por su estilo ofensivo y por entrenadores emblemáticos como Osvaldo Zubeldía, cuya estatua también se encuentra en el estadio UNO."
-        },
-        {
-          "label": "Costumbre de honrar a íconos en el fútbol argentino",
-          "text": "En Argentina es habitual que los clubes erijan estatuas de figuras históricas; ejemplos recientes incluyen la estatua de Juan Román Riquelme en Boca Juniors y la de Enzo Francescoli en River Plate, reflejando la importancia de la memoria institucional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "b39f72ac992f",
-      "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
-      "summary": "Pavel Durov, director ejecutivo de Telegram, explicó que la eliminación temporal de la aplicación de la App Store de Apple se debió a la inserción de contenido ilegal por parte de una banda de extorsionadores que utilizaba cuentas automatizadas para publicar imágenes de abuso infantil generadas por IA en chats públicos. Durov criticó a Apple por retirar la app sin previo aviso, advirtiendo que esta práctica podría repetirse con otras plataformas.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/mobile/pavel-durov-explica-eliminacion-telegram-app-store/",
-      "published_at": "2026-08-04T23:33:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y presenta declaraciones tanto de Apple como de Durov sin emplear términos cargados ni favorecer a ninguna de las partes.",
-      "focus_analysis": "El medio se centra en el aspecto de seguridad y moderación de contenido, destacando la extorsión y el abuso infantil, mientras deja de lado el análisis de implicaciones comerciales o de competencia entre Apple y Telegram.",
-      "focus_tags": [
-        "seguridad digital",
-        "moderación de contenido",
-        "extorsión en plataformas"
-      ],
-      "context": [
-        {
-          "label": "Política de Apple",
-          "text": "Apple mantiene normas que permiten retirar aplicaciones que consideren violatorias, y ha justificado la eliminación de Telegram señalando la presencia de grupos vinculados a abuso infantil y venta de productos prohibidos dentro de la plataforma."
-        },
-        {
-          "label": "Grupos de extorsión en Telegram",
-          "text": "Se ha documentado que bandas de extorsionadores usan cuentas automatizadas para insertar material ilegal en chats públicos y exigir pagos a administradores, una práctica que ha afectado a varias plataformas de mensajería."
-        },
-        {
-          "label": "Cobertura de Applesfera",
-          "text": "En Applesfera se subraya un tono más sensacionalista, describiendo la eliminación como un indicio de falta de transparencia y de problemas más profundos en la gestión de la App Store por parte de Apple."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "db3158b0e312",
-      "title": "Otra oleada de misiles rusos cobra víctimas en Kiev",
-      "summary": "Un nuevo ataque con misiles balísticos rusos sobre la capital ucraniana Kiev dejó al menos dos muertos y decenas de heridos, mientras el alcalde Vitali Klitschko informó sobre incendios y edificios dañados. Las autoridades ucranianas reiteran la necesidad de más interceptores Patriot de sus aliados para proteger a la población civil.",
-      "category": "internacional",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/otra-oleada-de-misiles-rusos-cobra-víctimas-en-kiev/a-78238735?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-05T03:19:00+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto utiliza un tono crítico hacia Rusia y enfatiza la falta de defensas ucranianas, alineándose con una postura que favorece la ayuda occidental a Ucrania, aunque sin lenguaje cargado ni selección de fuentes polarizadas.",
-      "focus_analysis": "El medio se centra en el impacto humano y la seguridad de la población civil frente a los ataques de misiles, dejando de lado un análisis más profundo de la estrategia militar o la política interna de Rusia.",
-      "focus_tags": [
-        "civiles",
-        "ataques con misiles",
-        "seguridad"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del conflicto",
-          "text": "Desde la invasión a gran escala de Rusia en febrero de 2022, los ataques con misiles balísticos sobre Kiev y otras ciudades ucranianas han aumentado, provocando un número creciente de víctimas civiles."
-        },
-        {
-          "label": "Petición de defensa ucraniana",
-          "text": "El presidente Volodímir Zelenski ha solicitado a los aliados, especialmente a Estados Unidos, la entrega de sistemas de defensa aérea Patriot para contrarrestar los lanzamientos de misiles rusos."
-        },
-        {
-          "label": "Reacción internacional",
-          "text": "Monitores de derechos humanos de la ONU han expresado preocupación por el incremento de víctimas civiles, señalando que los niveles de muerte alcanzan su punto más alto desde el inicio del conflicto."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "e22cc348096a",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy martes 4 de agosto: aseguran refinerías clandestinas en San Luis Potosí, Hidalgo y Morelos",
-      "summary": "El portal Infobae México informó que el 4 de agosto de 2026 la seguridad y el narcotráfico continúan siendo prioritarios en el país, señalando la presencia de refinerías clandestinas en los estados de San Luis Potosí, Hidalgo y Morelos, y reportando varios casos de delitos graves como feminicidios, secuestros y decomisos de armas.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/04/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-martes-4-de-agosto-cae-ceo-mexicano-de-una-casa-de-cambio-en-eeuu/",
-      "published_at": "2026-08-05T03:29:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo utiliza un tono descriptivo y neutral, sin lenguaje cargado ni selección de fuentes que favorezcan una postura ideológica específica.",
-      "focus_analysis": "El medio se centra en el ángulo de seguridad y crimen, destacando operativos policiales y actividades delictivas, mientras omite análisis económicos o de políticas públicas que podrían contextualizar el problema.",
-      "focus_tags": [
-        "seguridad",
-        "narcotráfico",
-        "crimen"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "México lleva décadas enfrentando un conflicto armado interno vinculado al narcotráfico, con la aparición de refinerías clandestinas que procesan petróleo robado para alimentar a los cárteles."
-        },
-        {
-          "label": "datos comparables",
-          "text": "En 2024, la Procuración General de la República reportó más de 200 refinerías clandestinas detectadas en todo el país, una cifra que ha aumentado en los últimos años."
-        },
-        {
-          "label": "postura de otros actores",
-          "text": "Organizaciones de derechos humanos han denunciado que la violencia asociada al narcotráfico afecta a comunidades vulnerables, exigiendo políticas de prevención más allá de la represión."
         }
       ],
       "confidence": "alta",
