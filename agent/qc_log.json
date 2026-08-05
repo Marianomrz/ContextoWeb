@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-05T17:23:29.927010+00:00",
-      "title": "La España que nunca existió",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y actualizado, pero contiene errores fácticos importantes sobre la autoría de la película, lo que afecta gravemente su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:23:34.628157+00:00",
-      "title": "El Samsung Galaxy S26 FE filtra su diseño y es exactamente como imaginas",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con los estándares editoriales, ofreciendo información veraz, bien fuenteada y estructurada de manera clara y objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:40:43.950472+00:00",
-      "title": "Gobierno buscará plantar mil 500 millones de árboles en un día: así será la Primera Jornada Nacional",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta datos poco verificables y escaso contraste de fuentes, pese a su actualidad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:40:46.763939+00:00",
-      "title": "EU suspende las importaciones de aguacate desde Michoacán por nueva alerta de seguridad",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita mejorar la precisión factual y la diversidad de fuentes, pero mantiene una presentación objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:40:55.866081+00:00",
-      "title": "Pensar la universidad",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita más fuentes contrastantes y mayor rigor en la atribución de opiniones para alcanzar la objetividad plena.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:41:00.930316+00:00",
-      "title": "Xiaomi lanzará el móvil más original del año muy pronto: puedes dibujar en la trasera y brilla en la",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y objetivo, pero la escasez de fuentes múltiples y la falta de verificación de algunos datos limitan su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:41:08.606418+00:00",
-      "title": "Luis Figo se lanza contra Gianni Infantino; pide su dimisión de la FIFA y lo tacha de deshonesto",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mayor verificación de datos y más voces contrastantes, pero cumple con actualidad y estructura invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:41:13.008361+00:00",
-      "title": "Conmoción en Inglaterra por la “muerte súbita” del hijo de una leyenda del Manchester United a los 3",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente correcto y objetivo, aunque necesita más fuentes para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:41:19.624285+00:00",
-      "title": "Ley de Integración en Alemania: ¿funcionó el \"apoyar y exigir\" de Merkel?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría mejorar la diversidad de fuentes para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T17:41:24.698516+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo: cómo quedaron las habitaciones tras la moneda del destin",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares editoriales, aunque la falta de fuentes verificables reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-05T17:41:30.392341+00:00",
       "title": "Sheinbaum recibe a Pietro Parolin y refuerza invitación al papa León XIV para visitar México",
       "kind": "noticia",
@@ -3386,6 +3216,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes verificables y voces adicionales limita su puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:10.235705+00:00",
+      "title": "Con un golazo del Ruso Ascacíbar, Boca Juniors vence a Estudiantes en la cancha de Huracán por el To",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete informa rápidamente sobre el resultado, pero contiene errores fácticos y un tono algo parcial que reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:15.316050+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo: se arma el primer complot y buscan nominar a Karina Torr",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de manera clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:23.855821+00:00",
+      "title": "Pide personal  de EU a SSP-Michoacán  reforzar seguridad",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero necesita mayor contraste de fuentes y mayor precisión en datos para cumplir plenamente con los estándares de calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:27.722955+00:00",
+      "title": "Asesinato de César Gastélum: cómo los influencers en México se convirtieron en objetivo del narco",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una cobertura reciente y estructurada, pero la falta de verificación y de fuentes contrastantes reduce su credibilidad global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:32.540962+00:00",
+      "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general adecuado y bien estructurado, pero debería reforzar la verificación de datos y ampliar la variedad de fuentes para mejorar la precisión y el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:43.248063+00:00",
+      "title": "Morir, ¿un derecho?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero la falta de fuentes contrastantes y la falta de objetividad reducen su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:47.949924+00:00",
+      "title": "Combinación juvenil, centro y gran definición de Ascacíbar: así fue el gol con el que Boca abrió el ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:45:53.402575+00:00",
+      "title": "Productores de aguacate exigen al gobierno mexicano garantizar seguridad en Michoacán para salvar a ",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, contrastada, objetiva y oportuna con una estructura clara.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:46:00.815469+00:00",
+      "title": "Pierden los receptores de remesas",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero necesita fuentes verificables y mayor contraste de perspectivas para alcanzar un nivel editorial más sólido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T23:46:07.546050+00:00",
+      "title": "Vinculan a proceso al \"Tokio\" León, cabecilla de \"Los Mexicles\"; es acusado de acopio de armas y nar",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere ampliar la variedad de fuentes para reforzar el contraste en futuros informes.",
       "error": null
     }
   ]
