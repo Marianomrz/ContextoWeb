@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-05T14:41:31.296975+00:00",
-      "title": "Don Rodrigo y don Leandro",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en su mayoría sólido y objetivo, pero la incongruencia entre el título y el contenido reduce la precisión global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:41:37.259866+00:00",
-      "title": "Tensión en Palacio Nacional por situación de Marina del Pilar: Riva Palacio",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mayor respaldo de fuentes y mayor equilibrio de perspectivas para cumplir con los estándares de objetividad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:41:42.705582+00:00",
-      "title": "Argentina celebra la \"visita histórica\" del papa León XIV en noviembre: ¿En qué ciudades estará?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.2,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:41:49.095101+00:00",
-      "title": "Muere otro interno en centro de rehabilitación en Los Mochis; Fiscalía de Sinaloa investiga las caus",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo una información precisa, bien contrastada y objetiva, con una estructura adecuada y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T15:00:59.118763+00:00",
-      "title": "Cartas sin remitente: la magia de los microrelatos de Galeano",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "originalidad_creatividad": 6,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 6,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El contenido cumple con los estándares literarios, ofreciendo una experiencia estética y reflexiva, pese a una ligera falta de originalidad total.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T15:01:04.596983+00:00",
-      "title": "El reto de construir viviendas para una población que envejece",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero contiene imprecisiones y carece de perspectivas múltiples, lo que afecta su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T15:01:09.354021+00:00",
-      "title": "Anthropic confirma que planea crear sus propios chips de IA para Claude",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T15:01:15.864813+00:00",
-      "title": "Gobierno buscará plantar mil 500 millones de árboles en un día: así será la Primera Jornada Nacional",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene información poco verificable y presenta una visión sesgada del proyecto, aunque incluye fuentes contrastantes y está bien estructurado y actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T15:01:22.023199+00:00",
-      "title": "Hombre pierde la vida en incendio de una vivienda en Monterrey; su madre resulta lesionada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y estructurada; sólo se sugiere añadir fuentes directas para los nombres de los involucrados.",
-      "error": null
-    },
-    {
       "at": "2026-08-05T15:01:28.644298+00:00",
       "title": "Acuerdo de Trump sobre Ormuz incluiría una importante concesión a Irán: esto es lo que sabemos",
       "kind": "noticia",
@@ -3380,6 +3227,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los requisitos de veracidad, contraste y objetividad, ofreciendo una presentación clara y oportuna de los hechos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:04.819420+00:00",
+      "title": "UNAM concluye contrato con Territorium Life y anuncia auditorías",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien respaldada y estructurada de manera objetiva y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:09.435177+00:00",
+      "title": "Ken Salazar pide dejar atrás el caso del Mayo Zambada y enfocarse en la seguridad en México",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en precisión factual, pero mantiene una estructura clara y un tono objetivo; necesita fuentes verificadas y mayor contraste de voces.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:13.610912+00:00",
+      "title": "Boca Juniors recibirá a Estudiantes en la cancha de Huracán por el Torneo Clausura: hora, TV y forma",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:19.202039+00:00",
+      "title": "‘Spider-Man: Brand New Day’ sigue imparable y ya es la película más taquillera de 2026",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares, pero necesita fuentes más sólidas y citas verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:26.255881+00:00",
+      "title": "Volcán de Fuego en Guatemala finaliza erupción sin víctimas reportadas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, por lo que es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:32.363507+00:00",
+      "title": "El jefe del Ejército israelí anuncia que seguirá \"operando de forma proactiva\" en Gaza",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero presenta graves errores de factualidad y falta de fuentes contrastantes, lo que compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:41.061114+00:00",
+      "title": "Morir, ¿un derecho?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está actualizado y estructurado, pero su falta de precisión factual y de fuentes contrastantes, junto con un sesgo evidente, lo hacen insuficiente para los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:45.841462+00:00",
+      "title": "Cae primer detenido por robo a casa de Karely Ruiz",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la noticia de forma precisa, objetiva y actual, con fuentes contrastadas y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:46:51.767168+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo: se arma el primer complot y buscan nominar a Karina Torr",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de fuentes específicas para los números reduce ligeramente la precisión factual. En general, es apto para publicación.",
       "error": null
     }
   ]
