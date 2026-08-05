@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-04T21:43:29.511705+00:00",
-      "title": "Estados Unidos cancela la visa de la embajadora de Brasil en medio de tensiones diplomáticas",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad; sólo se sugiere reforzar la verificación de datos con fuentes directas para elevar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:43:35.376226+00:00",
-      "title": "Gobierno de Nayarit y DIF impulsan agenda para garantizar el bienestar infantil; refuerzan políticas",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión y actualidad, aunque podría mejorar la diversidad de fuentes y la objetividad al incluir voces críticas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:55:54.293177+00:00",
-      "title": "El espejo que nunca existió: la magia de “La invención de Morel”",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo creatividad, estilo y profundidad adecuados para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:55:57.198861+00:00",
-      "title": "Aldo Rendón se lanza contra las fans de BTS, las armys contraatacan",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:56:01.826091+00:00",
-      "title": "Knicks y Warriors entre los peores mercados de la NBA en 2026: qué está pasando con las franquicias ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información reciente, bien estructurada y basada en fuentes confiables, aunque la verificación directa de algunos datos podría reforzarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:56:08.809328+00:00",
-      "title": "EE. UU. - Irán: la posibilidad de un acuerdo sobre Ormuz hunde los precios del petróleo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión, actualidad y estructura, aunque podría reforzar la diversidad de fuentes y la profundidad del contraste de voces en un tema conflictivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:56:13.709743+00:00",
-      "title": "CNN reporta que Ejército de EU agota casi 80% de sistema antimisiles; Pentágono enfrenta bajas reser",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes contrastantes y la ausencia de evidencia clara reducen su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:56:18.076891+00:00",
-      "title": "La venta de autos nuevos en México rompe récord y las marcas chinas son las ganadoras",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de un artículo informativo y objetivo, aunque podría reforzar la veracidad con fuentes y citas más precisas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:56:23.381838+00:00",
-      "title": "Un ingeniero de Microsoft ha conseguido jugar el Doom original dentro de Paint",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística; es preciso, actual y bien estructurado, con una ligera inclinación positiva pero claramente señalada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:56:33.247666+00:00",
-      "title": "Lecciones de “La Odisea” para empresarios",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo tiene problemas de veracidad y falta de fuentes contrastantes, aunque es reciente y bien estructurado; necesita mayor rigor factual para ser publicado como noticia.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T21:56:38.047638+00:00",
-      "title": "Sherlyn se dice soltera, pero su hijo André la balconea y asegura que sí tiene novio",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la estructura y la objetividad esperadas, pero la falta de fuentes verificables y corroboración externa reduce su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-04T21:57:21.752926+00:00",
       "title": "Hallan dos cuerpos sin vida y con huellas de tortura en Culiacán; estaban amarrados de pies y manos",
       "kind": "noticia",
@@ -3380,6 +3193,193 @@
         "estructura_piramide": 9
       },
       "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque la precisión de algunos datos necesita ser verificada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:20:45.567636+00:00",
+      "title": "Acciones de SpaceX con sesión volátil en Bolsa tras reporte financiero",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete tiene buena actualidad y objetividad, pero falla gravemente en veracidad al describir a SpaceX como empresa pública y carece de contraste suficiente de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:20:49.436151+00:00",
+      "title": "Asesinan al influencer César Gastélum durante una transmisión en vivo en Culiacán",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma veraz, objetiva y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:20:55.611218+00:00",
+      "title": "El ranking de la Fórmula 1 con los mejores pilotos de la primera mitad de la temporada: el destacado",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es oportuno y neutral, pero su veracidad y variedad de fuentes son débiles, lo que afecta la fiabilidad del contenido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:20:59.611901+00:00",
+      "title": "Las nuevas barreras terrestres que Israel construye en Gaza y obligan a más familias a desplazarse",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, pese a una ligera tendencia humanitaria; en conjunto es preciso y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:21:04.744232+00:00",
+      "title": "Pumas es víctima de LOS MEJORES MEMES tras ser goleado en Leagues Cup",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la ausencia de fuentes verificables limita la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:21:10.339940+00:00",
+      "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque la falta de citas concretas y un pequeño error tipográfico limitan ligeramente su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:21:19.489753+00:00",
+      "title": "Lecciones de “La Odisea” para empresarios",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta problemas de veracidad y falta de fuentes contrastantes, pero es actual y está razonablemente estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:21:24.425669+00:00",
+      "title": "Alpek relevaría a Liverpool o Volaris en rebalanceo de la Bolsa Mexicana",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los criterios editoriales, aunque podría mejorarse con fuentes y citas directas para mayor verificabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:21:28.646231+00:00",
+      "title": "Asesinato de Roxana Berenice Guzmán: Congreso de Veracruz votará el desafuero a dos alcaldes, uno vi",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y bien estructurado, pero necesita fuentes más diversas para cumplir con el contraste exigido en temas de conflicto político.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:21:33.616287+00:00",
+      "title": "La llamativa innovación en la regla que planteó Djokovic para que el tenis sea más entretenido: “Deb",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero necesita fuentes adicionales y verificación más sólida de la propuesta de Djokovic para mejorar su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T04:21:40.057336+00:00",
+      "title": "La misión imposible de ascender en la Seguridad Social: solo 27 funcionarios aprueban para casi 1.00",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares de calidad editorial, aunque podría mejorar el contraste incluyendo la visión oficial del gobierno.",
       "error": null
     }
   ]
