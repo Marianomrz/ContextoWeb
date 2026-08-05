@@ -1,170 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-05T14:02:09.555525+00:00",
-      "title": "Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la m",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero muestra un sesgo positivo y una objetividad limitada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:02:18.214352+00:00",
-      "title": "La España que nunca existió",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es preciso y está bien estructurado, pero la falta de fuentes múltiples y el leve sesgo ideológico reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:02:24.500868+00:00",
-      "title": "Lilly ganó 25% más en 2T y eleva previsiones gracias a las ventas de Mounjaro y Zepbound",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es claro, objetivo y bien estructurado, pero la falta de verificabilidad de los datos financieros futuros disminuye su puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:02:29.640485+00:00",
-      "title": "Cómo es Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a o",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete contiene datos falsos y falta de fuentes diversas, lo que compromete su veracidad y equilibrio, a pesar de estar bien estructurado y ser actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:02:34.177410+00:00",
-      "title": "México abre debate sobre restringir celulares en escuelas, especialistas advierten que el reto va má",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero necesita más fuentes y contraste de voces para cumplir con los estándares de veracidad y equilibrio editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:02:39.755184+00:00",
-      "title": "México va por el oro: el Tri Femenil Sub-23 avanza a la final de Santo Domingo 2026",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de objetividad y actualidad; solo se sugiere moderar el tono emotivo para reforzar la imparcialidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:20:39.704670+00:00",
-      "title": "Sheinbaum firma decreto de transparencia, cae producción Dos Bocas y superávit con EU alcanza récord",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque podría mejorar la precisión citando fuentes oficiales y añadiendo perspectivas contrastantes donde sea pertinente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:20:44.898796+00:00",
-      "title": "Familiares de Zulema de la Luz exigen capturar al presunto feminicida en Veracruz: “Está identificad",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 12 column 163 (char 652)"
-    },
-    {
-      "at": "2026-08-05T14:20:51.528434+00:00",
-      "title": "Google prepara la mejor alternativa al AirTag de Apple, un localizador para objetos perdidos que ya ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actual, pero le falta contraste de fuentes y mayor respaldo verificable para los datos de lanzamiento.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T14:20:56.285168+00:00",
-      "title": "El músico argentino Andrés Calamaro regrea a México",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los criterios de calidad editorial, aunque podría mejorar la verificación de algunas cifras específicas.",
-      "error": null
-    },
-    {
       "at": "2026-08-05T14:21:00.533266+00:00",
       "title": "El ranking de la Fórmula 1 con los mejores pilotos de la primera mitad de la temporada: el destacado",
       "kind": "noticia",
@@ -3381,6 +3217,170 @@
       },
       "observacion": "El paquete cumple en gran medida con los criterios de calidad periodística, aunque podría reforzar la diversidad de fuentes para un contraste más sólido.",
       "error": null
+    },
+    {
+      "at": "2026-08-05T20:40:40.076371+00:00",
+      "title": "‘Spider-Man: Brand New Day’ sigue imparable y ya es la película más taquillera de 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la estructura y la actualidad son adecuadas, el paquete carece de veracidad y objetividad, presentando información no verificable y sesgada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:40:45.289443+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo: se arma el primer complot y buscan nominar a Karina Torr",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de objetividad y actualidad, aunque la falta de fuentes múltiples y la ausencia de corroboración de cifras reducen ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:40:51.005906+00:00",
+      "title": "Volcán de Fuego en Guatemala finaliza erupción sin víctimas reportadas",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares editoriales, ofreciendo datos precisos, fuentes fiables y una redacción objetiva, aunque podría ampliarse con más perspectivas locales para mayor profundidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:40:55.431561+00:00",
+      "title": "Boca Juniors recibirá a Estudiantes en la cancha de Huracán por el Torneo Clausura: hora, TV y forma",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada; solo se beneficiaría de fuentes adicionales para reforzar la robustez del contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:41:01.440326+00:00",
+      "title": "Gobierno de Michoacán mantiene contacto con la Embajada de EU tras suspender operaciones; garantiza ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma veraz, objetiva y estructurada, aunque podría reforzar la verificación con citas más precisas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:41:06.466110+00:00",
+      "title": "El jefe del Ejército israelí anuncia que seguirá \"operando de forma proactiva\" en Gaza",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, actual y estructurada, aunque podría ampliar la cobertura humanitaria para mayor profundidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:41:15.664140+00:00",
+      "title": "Morir, ¿un derecho?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y balance de fuentes; requiere corrección de datos y mayor diversidad de voces antes de ser publicado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:41:20.058692+00:00",
+      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta la noticia de forma estructurada y objetiva, pero la precisión factual y la variedad de fuentes son insuficientes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:41:25.524105+00:00",
+      "title": "México vs Panamá, Premundial sub 20, ¿Cómo va el partido de 4tos de Final?",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura, pero necesita mayor rigor en la veracidad de los datos y fuentes más diversificadas para alcanzar la calidad editorial completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T20:41:30.853827+00:00",
+      "title": "Sedatu proyecta construir 48,500 viviendas del Bienestar en Querétaro",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 16 column 182 (char 1152)"
     }
   ]
 }
