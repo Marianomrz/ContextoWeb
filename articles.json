@@ -1,6 +1,213 @@
 {
-  "generated_at": "2026-08-05T18:43:24.568992+00:00",
+  "generated_at": "2026-08-05T19:02:23.321321+00:00",
   "articles": [
+    {
+      "id": "f92d66717134",
+      "title": "Inteligencia artificial eleva hasta 45.8% la producción en sectores estratégicos de México",
+      "summary": "Los estudios del Centro México Digital basados en el Censo Económico 2024 indican que la adopción de inteligencia artificial en empresas mexicanas eleva la producción bruta hasta en 45.8 % en el sector eléctrico, aunque el uso de la tecnología sigue concentrado y rezagado respecto a EE. UU. y Europa.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/tecnologia/inteligencia-artificial-eleva-45-8-produccion-sectores-estrategicos-mexico-20260805-826785.html",
+      "published_at": "2026-08-05T18:42:56+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo emplea un tono técnico y cite datos sin lenguaje emotivo ni fuentes políticas, enfocándose en los beneficios productivos, lo que refleja una postura ligeramente favorable al desarrollo tecnológico típico de medios económicos de centro‑derecha.",
+      "focus_analysis": "El medio elige un ángulo económico‑tecnológico, resaltando los incrementos de producción y la desigualdad de adopción entre sectores y tamaños de empresa; queda fuera la dimensión social o crítica de los impactos de la IA.",
+      "focus_tags": [
+        "IA productividad",
+        "sectores estratégicos",
+        "México economía"
+      ],
+      "context": [
+        {
+          "label": "Comparación internacional",
+          "text": "En México la adopción promedio de IA en energía y agua es de 5.7 %, frente a 10 % en EE. UU. y 33.6 % en electricidad europea, lo que muestra un rezago respecto a economías más avanzadas."
+        },
+        {
+          "label": "Fuente de los datos",
+          "text": "Los hallazgos provienen de tres estudios elaborados por el Centro México Digital a partir del Censo Económico 2024 del INEGI, que analizó empresas con al menos diez empleados."
+        },
+        {
+          "label": "Contraste con otras coberturas",
+          "text": "Mientras El Economista se concentra en los efectos productivos de la IA, medios como Letras Libres la enmarcan la tecnología como un agente de transformación social y de posibles distopías de clases."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "f9dd211a5fcf",
+      "title": "Qué es la fase lútea y cómo afecta a las mujeres",
+      "summary": "El artículo de BBC News Mundo explica que la fase lútea, segunda mitad del ciclo menstrual, se caracteriza por una caída del estrógeno y un aumento de la progesterona, lo que puede provocar cambios en la piel, el estado de ánimo y la retención de líquidos en las mujeres, según expertas en salud femenina.",
+      "category": "sociedad",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cgjedn5llx3o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-05T18:32:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo, cita a profesionales de la salud y no muestra un sesgo político ni partidista; el enfoque es descriptivo y basado en evidencia médica.",
+      "focus_analysis": "El medio elige el ángulo de la salud hormonal y la experiencia personal de las mujeres, resaltando el impacto en la apariencia y el ánimo, mientras deja fuera análisis sobre implicaciones económicas o políticas del tema.",
+      "focus_tags": [
+        "salud menstrual",
+        "hormonas femeninas",
+        "bienestar psicológico"
+      ],
+      "context": [
+        {
+          "label": "ciclo hormonal",
+          "text": "En la fase lútea, que sigue a la ovulación y finaliza con la menstruación, los niveles de estrógeno disminuyen significativamente mientras la progesterona aumenta, lo que suele asociarse con retención de líquidos, cambios en la piel y variaciones del estado de ánimo."
+        },
+        {
+          "label": "viralidad en redes",
+          "text": "Videos en TikTok que describen la fase lútea como \"luteal uglies\" han acumulado millones de visualizaciones, generando conversaciones sobre la apariencia y el humor durante este periodo del ciclo menstrual."
+        },
+        {
+          "label": "opinión médica",
+          "text": "Especialistas como la doctora Louise Newson y la profesora Helen O'Neill destacan la necesidad de mayor educación sobre los efectos hormonales de la fase lútea y recomiendan que las mujeres cuiden su piel y su bienestar durante este tiempo."
+        }
+      ],
+      "confidence": "alta"
+    },
+    {
+      "id": "7b3a1f38d3a1",
+      "title": "Samsung prepara un Galaxy Watch que puede durar semanas sin cargarse",
+      "summary": "Samsung, la empresa surcoreana, está desarrollando un nuevo reloj inteligente llamado Galaxy Aero que utilizará un sistema operativo en tiempo real (RTOS) para ofrecer una autonomía de hasta una semana y un precio más bajo, aunque limitará la instalación de aplicaciones y la interacción desde la muñeca.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/mobile/samsung-galaxy-aero-smartwatch-sin-wear-os/",
+      "published_at": "2026-08-05T18:30:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo emplea un lenguaje técnico y descriptivo, presenta tanto ventajas como limitaciones sin usar vocabulario cargado ni favorecer una postura política o comercial.",
+      "focus_analysis": "El medio se centra en el aspecto tecnológico y de autonomía del dispositivo, dejando de lado la experiencia de usuario, el diseño y la competencia en el mercado de smartwatches.",
+      "focus_tags": [
+        "tecnología móvil",
+        "relojes inteligentes",
+        "batería prolongada"
+      ],
+      "context": [
+        {
+          "label": "Historial de sistemas operativos en relojes Samsung",
+          "text": "Samsung utilizó durante años el sistema Tizen en sus wearables antes de migrar a Wear OS con la serie Galaxy Watch 4, y ahora explora RTOS para modelos de menor consumo."
+        },
+        {
+          "label": "Diferencia de enfoques entre medios",
+          "text": "Mientras Hipertextual destaca la arquitectura de software y la duración de la batería del Galaxy Aero, El Androide Libre se enfoca en la resistencia, el diseño y las funciones deportivas de otros Galaxy Watch como el Ultra 2 y el Watch 9."
+        },
+        {
+          "label": "Tendencias del mercado de wearables",
+          "text": "Los fabricantes de smartwatches están priorizando la prolongación de la vida útil de la batería y la reducción de precios ante la escasez de componentes y la creciente demanda de dispositivos asequibles."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "36ff53fbfd2d",
+      "title": "Sobse atiende 166 solicitudes ciudadanas en Milpa Alta; despliega megajornada de servicios en San Bartolomé Xicomulco",
+      "summary": "La Secretaría de Obras y Servicios de la Ciudad de México realizó una megajornada en San Bartolomé Xicomulco, Milpa Alta, donde 110 empleados y 14 cuadrillas atendieron 166 peticiones de los vecinos relacionadas con baches, alumbrado, poda y limpieza urbana.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/sobse-atiende-166-solicitudes-ciudadanas-en-milpa-alta-despliega-megajornada-de-servicios-en-san-bartolome-xicomulco/",
+      "published_at": "2026-08-05T18:54:58+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos y acciones del gobierno sin usar adjetivos cargados ni presentar opiniones, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El medio se centra en el ángulo institucional, resaltando la gestión de la Sobse y los trabajos de infraestructura, mientras omite el impacto personal de los residentes o posibles críticas al programa.",
+      "focus_tags": [
+        "servicios públicos",
+        "infraestructura urbana",
+        "Gobierno de México"
+      ],
+      "context": [
+        {
+          "label": "programa Casa por Casa",
+          "text": "Casa por Casa es una iniciativa del gobierno de la Ciudad de México que recorre barrios para registrar demandas de los ciudadanos y canalizarlas a la autoridad correspondiente para su solución."
+        },
+        {
+          "label": "situación de infraestructura en Milpa Alta",
+          "text": "Milpa Alta, una de las alcaldías más extensas de la capital, ha presentado históricamente problemas de servicios básicos como pavimentación, alumbrado público y mantenimiento de áreas verdes."
+        },
+        {
+          "label": "ejemplos de megajornadas de servicios en CDMX",
+          "text": "En años anteriores, la Sobse ha llevado a cabo jornadas similares en otras colonias, como la megajornada de San Ángel, donde también se atendieron cientos de requerimientos vecinales."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "430b11317909",
+      "title": "Tras las reformas, el Estadio Único de La Plata albergará la final del Torneo Clausura de la Liga Profesional",
+      "summary": "El Estadio Único de La Plata, rebautizado como Estadio Diego Armando Maradona, será la sede de la final del Torneo Clausura 2026 de la Liga Profesional, tras una serie de reformas que incluyen nuevo techo, iluminación LED y mejoras en el campo y la conectividad.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/05/tras-las-reformas-el-estadio-unico-de-la-plata-albergara-la-final-del-torneo-clausura-de-la-liga-profesional/",
+      "published_at": "2026-08-05T18:55:19+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos y obras sin usar vocabulario cargado ni presentar opiniones políticas, manteniendo un tono informativo y neutral típico de la cobertura deportiva de Infobae.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y de infraestructura del estadio, resaltando las reformas y la programación de finales, mientras deja de lado la perspectiva de los jugadores, aficionados o el impacto económico directo del evento.",
+      "focus_tags": [
+        "infraestructura deportiva",
+        "finales 2026",
+        "reformas estadio"
+      ],
+      "context": [
+        {
+          "label": "Plan de modernización de la AFA",
+          "text": "La Asociación del Fútbol Argentino (AFA) había anunciado en 2025 un plan maestro para renovar los estadios principales, con el objetivo de mejorar la infraestructura y convertirlos en sedes de la selección nacional y de futuros torneos internacionales."
+        },
+        {
+          "label": "Uso previo del estadio",
+          "text": "El Estadio Único de La Plata fue una de las sedes del Mundial Sub‑20 2023, donde recibió partidos de la selección argentina y demostró su capacidad para albergar eventos de gran magnitud."
+        },
+        {
+          "label": "Calendario de finales 2026",
+          "text": "Además de la final del Torneo Clausura en La Plata el 12 de diciembre, la temporada 2026 incluye la final del Trofeo de Campeones en el Estadio Mario Alberto Kempes de Córdoba y la Supercopa Internacional, reflejando una agenda de partidos clave distribuida en varios estadios del país."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "4d0fc988e89b",
+      "title": "Crisis migratoria de Ceuta desata protestas",
+      "summary": "Miles de personas se reunieron en Madrid para protestar contra la gestión del Gobierno español frente a la crisis migratoria que afecta al enclave de Ceuta, exigiendo mayor control fronterizo y la defensa de la identidad española.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/videos/crisis-migratoria-ceuta-desata-protestas-20260805-826787.html",
+      "published_at": "2026-08-05T18:56:19+00:00",
+      "bias_score": 20,
+      "bias_reason": "El artículo destaca la participación de grupos de ultraderecha y el discurso de identidad española, elementos que suelen asociarse a una perspectiva más conservadora, sin presentar la visión del gobierno ni la dimensión humanitaria.",
+      "focus_analysis": "El medio se centró en el ángulo político‑seguridad, resaltando la protesta y la demanda de mayor control de fronteras, mientras dejó de lado la situación humanitaria de los migrantes y los detalles de la política migratoria.",
+      "focus_tags": [
+        "protesta",
+        "inmigración",
+        "identidad española"
+      ],
+      "context": [
+        {
+          "label": "Cobertura alternativa",
+          "text": "Otros medios, como Euronews Español, abordaron la crisis señalando teorías conspirativas sobre una supuesta implicación de EE. UU. e Israel, que fueron desmentidas por el político estadounidense Huckabee."
+        },
+        {
+          "label": "Antecedentes de Ceuta",
+          "text": "Ceuta, enclave español en el norte de África, ha experimentado un aumento de llegadas de migrantes en los últimos meses, lo que ha generado presión sobre los servicios y la gestión fronteriza."
+        },
+        {
+          "label": "Posición del Gobierno español",
+          "text": "El Gobierno español, encabezado por el presidente Pedro Sánchez, ha adoptado medidas de refuerzo de la seguridad y ha buscado acuerdos con Marruecos para gestionar la migración en Ceuta."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "ec6ab635a2d6",
       "title": "Dodge Charger Scat Pack 2026: precio en México, 550 hp y motor biturbo de seis cilindros",
@@ -840,213 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "d2852c543bc0",
-      "title": "Xiaomi lanzará el móvil más original del año muy pronto: puedes dibujar en la trasera y brilla en la oscuridad",
-      "summary": "Xiaomi, la fabricante china de electrónica, lanzará pronto el Redmi K100 Pro, un smartphone de gama media con una trasera luminiscente que permite dibujar y que brilla en la oscuridad, además de contar con una batería de 8.580 mAh, carga rápida de 100 W y el nuevo procesador Snapdragon 8 Elite Gen 5 V Series.",
-      "category": "tecnologia",
-      "source_name": "El Androide Libre",
-      "source_url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20260805/xiaomi-lanzara-movil-original-ano-pronto-puedes-dibujar-trasera-brilla-oscuridad/1003744344832_0.html",
-      "published_at": "2026-08-05T17:35:22+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje descriptivo y objetivo, sin palabras cargadas ni fuentes con sesgo; se limita a informar sobre características técnicas y diseño.",
-      "focus_analysis": "El medio se centra en los aspectos tecnológicos y de diseño del nuevo modelo, resaltando la innovación de la trasera luminiscente y las especificaciones técnicas, mientras deja fuera la discusión sobre precio, disponibilidad en mercados fuera de China o la reacción de los consumidores.",
-      "focus_tags": [
-        "tecnología móvil",
-        "innovación de diseño",
-        "especificaciones técnicas"
-      ],
-      "context": [
-        {
-          "label": "Estrategia de Xiaomi",
-          "text": "Xiaomi ha adoptado en los últimos años una estrategia de diferenciar sus teléfonos de gama media mediante características singulares, como cámaras de alta resolución o módulos de carga rápida, para competir con otras marcas chinas y coreanas."
-        },
-        {
-          "label": "Competencia en el segmento medio",
-          "text": "El mercado de smartphones de gama media ha experimentado una mayor presión competitiva debido al aumento de los precios de los componentes, obligando a los fabricantes a buscar propuestas de valor añadidas para atraer a los consumidores."
-        },
-        {
-          "label": "Snapdragon 8 Elite Gen 5 V Series",
-          "text": "El procesador Snapdragon 8 Elite Gen 5 V Series, inicialmente reservado para buques gama alta, está siendo integrado en dispositivos de rango medio como el Redmi K100 Pro, lo que indica una tendencia de Qualcomm a democratizar el rendimiento de sus chips."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "85d3ad2c8eaa",
-      "title": "El Samsung Galaxy S26 FE filtra su diseño y es exactamente como imaginas",
-      "summary": "El portal Hipertextual informa que se han filtrado imágenes oficiales del Samsung Galaxy S26 FE, mostrando su diseño y colores, y que el dispositivo mantendrá la estética y especificaciones de generaciones anteriores, con un posible chip Exynos 2500 y cámara de 50 MP. Además, señala que el precio aún es desconocido y que el lanzamiento podría anunciarse en la feria IFA 2026.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/mobile/samsung-galaxy-s26-fe-filtra-diseno/",
-      "published_at": "2026-08-05T16:20:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono informativo y neutral, sin adjetivos cargados ni opiniones, y sólo cita fuentes técnicas como 9to5Google.",
-      "focus_analysis": "El artículo se centra en los detalles de diseño, especificaciones técnicas y rumores de lanzamiento del smartphone, dejando de lado el impacto comercial, la competencia o la estrategia de precios.",
-      "focus_tags": [
-        "diseño de smartphone",
-        "especificaciones técnicas",
-        "rumores de lanzamiento"
-      ],
-      "context": [
-        {
-          "label": "historial del modelo FE",
-          "text": "El Galaxy S25 FE, lanzado en 2025, contó con pantalla AMOLED Dynamic 2X de 6,7 pulgadas, 120 Hz, batería de 4 900 mAh y se vendió a partir de 759 euros en España, sirviendo de referencia para el esperado precio del S26 FE."
-        },
-        {
-          "label": "éxitos recientes de Samsung",
-          "text": "Según Androide Libre, Samsung superó el récord de ventas de sus plegables Z Fold8 en Corea, con 1,44 millones de preventas, lo que muestra la fuerte demanda de sus dispositivos premium."
-        },
-        {
-          "label": "próximo anuncio en IFA",
-          "text": "La IFA 2026, que se celebrará del 4 al 8 de septiembre en Berlín, es el escenario habitual donde Samsung presenta sus nuevos buques insignia y variantes FE, por lo que se espera que el Galaxy S26 FE se revele allí."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "a54ffb9173c1",
-      "title": "Amazon México: bocina portátil Bose SoundLink Flex en menos de 3 mil pesos; conoce sus características",
-      "summary": "Amazon México ofrece la bocina portátil Bose SoundLink Flex por menos de 3,000 pesos, destacando su audio de alta fidelidad, resistencia al agua y hasta 12 horas de batería. El artículo describe sus principales características y promociones de financiación.",
-      "category": "tecnologia",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/descubre-y-compra/amazon-mexico-bocina-portatil-bose-soundlink-flex-en-menos-de-3-mil-pesos-conoce-sus-caracteristicas/",
-      "published_at": "2026-08-05T17:11:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el producto y sus ventajas sin incluir opiniones políticas ni fuentes externas, manteniendo un tono comercial neutral.",
-      "focus_analysis": "El medio se centra en el ángulo de consumo y tecnología, resaltando las especificaciones y el precio de la bocina, mientras omite comparaciones con otras marcas o análisis de mercado.",
-      "focus_tags": [
-        "producto tecnológico",
-        "audio portátil",
-        "promoción"
-      ],
-      "context": [
-        {
-          "label": "Marca y reputación",
-          "text": "Bose es una marca reconocida internacionalmente por sus equipos de sonido de alta calidad, lo que le otorga a sus productos una percepción premium entre los consumidores."
-        },
-        {
-          "label": "Mercado de e‑commerce en México",
-          "text": "Amazon México ha crecido rápidamente, ofreciendo una amplia gama de dispositivos electrónicos a precios competitivos y con opciones de pago a plazos."
-        },
-        {
-          "label": "Precio de bocinas portátiles",
-          "text": "Las bocinas Bluetooth de gama media suelen ubicarse entre 2,000 y 4,000 pesos, por lo que el precio de la Bose SoundLink Flex está dentro del rango esperado para un dispositivo premium."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "2cb1c77300ca",
-      "title": "Buscan sancionar a empresas por excluir a jóvenes",
-      "summary": "El gobierno mexicano propone una reforma laboral que obliga a las empresas con 40 o más empleados a destinar al menos el 5 % de sus vacantes a jóvenes, bajo pena de multas de 50 a 2 500 unidades de medida (UMAs).",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/buscan-sancionar-empresas-excluir-jovenes-20260805-826774.html",
-      "published_at": "2026-08-05T17:00:07+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto se mantiene descriptivo y neutro, sin usar lenguaje cargado ni presentar opiniones de críticos o defensores, lo que indica una cobertura equilibrada con una ligera inclinación empresarial típica de medios económicos.",
-      "focus_analysis": "El artículo se centra en la normativa y las sanciones económicas, dejando de lado la perspectiva de los jóvenes afectados y el impacto social de la exclusión laboral.",
-      "focus_tags": [
-        "laboral",
-        "cotas",
-        "sanciones"
-      ],
-      "context": [
-        {
-          "label": "background",
-          "text": "México ha registrado históricamente tasas de desempleo juvenil superiores al promedio nacional, lo que ha impulsado debates sobre políticas de inclusión laboral para este grupo etario."
-        },
-        {
-          "label": "comparative",
-          "text": "Otros países, como España y Alemania, han implementado cuotas de contratación para jóvenes o grupos vulnerables, con resultados mixtos en la reducción del desempleo juvenil."
-        },
-        {
-          "label": "reaction",
-          "text": "Los sindicatos y organizaciones empresariales en México han expresado posiciones divergentes: los primeros piden mayores incentivos y los segundos temen que la medida aumente sus costos operativos."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "3140b65aefc1",
-      "title": "Don Rodrigo y don Leandro",
-      "summary": "La película 'El abuelo tiene un plan' (1973), dirigida por Paco Martínez Soria y basada en la obra de Alfonso Paso, se examina como una reflexión sobre la soledad en la vejez, el egoísmo de los hijos y la libertad individual de los mayores.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/revista/don-rodrigo-y-don-leandro/05/08/2026/",
-      "published_at": "2026-08-05T09:25:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y cultural, sin usar vocabulario cargado ni citar fuentes con carga política; se centra en la película y sus temas, no en posicionamientos ideológicos.",
-      "focus_analysis": "El medio elige un ángulo cultural‑social, analizando la película y sus reflexiones sobre la vejez y la dinámica familiar; omite cualquier enfoque económico o político del tema.",
-      "focus_tags": [
-        "cultura cinematográfica",
-        "envejecimiento",
-        "dinámicas familiares"
-      ],
-      "context": [
-        {
-          "label": "carrera de Paco Martínez Soria",
-          "text": "Paco Martínez Soria (1902‑1982) fue un actor y director español que, tras fundar su propia compañía de comedias, se convirtió en el rostro del cine popular costumbrista de los años 60 y 70, protagonizando películas que mezclaban humor y crítica social."
-        },
-        {
-          "label": "comedia costumbrista y su recepción",
-          "text": "El subgénero de comedia costumbrista, al que pertenece 'El abuelo tiene un plan', gozó de gran éxito de público pero fue frecuentemente menospreciado por la crítica intelectual, que lo consideraba poco sofisticado."
-        },
-        {
-          "label": "representación de la vejez en el cine español",
-          "text": "En la década de 1970, el cine español empezó a abordar la soledad y la independencia de los adultos mayores, reflejando cambios demográficos y debates sociales sobre la autonomía de los ancianos y la responsabilidad de sus hijos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "0f2b1785ce83",
-      "title": "Al menos 1.700 evacuados en Guatemala por erupción explosiva del volcán de Fuego",
-      "summary": "Una erupción explosiva del volcán de Fuego en Guatemala obligó a las autoridades a evacuar a aproximadamente 1.700 personas, que fueron alojadas en cinco refugios mientras se espera que la actividad continúe hasta 72 horas.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/video/20260805-al-menos-1-700-evacuados-en-guatemala-por-erupci%C3%B3n-explosiva-del-volc%C3%A1n-de-fuego",
-      "published_at": "2026-08-05T17:03:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo sin adjetivos cargados, no incluye opiniones políticas y se centra en datos de evacuación, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio prioriza el impacto humanitario y la actividad volcánica, dejando de lado aspectos económicos o la respuesta política de los gobiernos.",
-      "focus_tags": [
-        "desastre natural",
-        "evacuación",
-        "volcán"
-      ],
-      "context": [
-        {
-          "label": "Actividad histórica del volcán",
-          "text": "El volcán de Fuego es el más activo de Centroamérica y ha generado erupciones importantes en los últimos años, como la de 2018 que provocó cientos de muertes y desplazamientos masivos."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios como Expansión y Euronews reportaron cifras de evacuados menores (500 y 659 respectivamente) y enfatizaron la alerta roja y los flujos piroclásticos, mientras que El Informador destacó el riesgo de cenizas para el estado mexicano de Chiapas."
-        },
-        {
-          "label": "Gestión de riesgos en Guatemala",
-          "text": "La Protección Civil guatemalteca mantiene un monitoreo constante de la erupción y ha activado refugios temporales, siguiendo protocolos de evacuación que se aplican en zonas vulnerables del país."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
       }
     }
   ]
