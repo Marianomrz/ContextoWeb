@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-04T19:09:10.286497+00:00",
-      "title": "Las causas de los ataques ucranianos a Wildberries, la \"Amazon rusa\"",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y cumple con los estándares editoriales, aunque la falta de fuentes precisas para algunos datos impide una puntuación perfecta.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:14.413969+00:00",
-      "title": "Cuauhtémoc retira 6 vehículos abandonados en vía pública; pretenden recuperar espacios para los veci",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:20.451397+00:00",
-      "title": "Cuánto cuesta un departamento en Manhattan, el segundo lugar más caro para vivir en todo el mundo, d",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta información poco verificable y un sesgo notable, aunque es actual y sigue razonablemente la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:25.094599+00:00",
-      "title": "Los autos más vendidos en México en 2026: Nissan domina y China ya es el segundo país proveedor",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de manera clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:30.493209+00:00",
-      "title": "La llamativa carta que Papu Gómez publicó en sus redes sociales: “Todo pasa”",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta problemas graves de veracidad, aunque mantiene una estructura clara y tono objetivo; necesita corroboración de datos y fuentes más variadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:39.095035+00:00",
-      "title": "Lecciones de “La Odisea” para empresarios",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete contiene errores fácticos graves y falta de fuentes objetas, lo que compromete su calidad informativa a pesar de ser actual y estar bien estructurado en la introducción.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:44.289731+00:00",
-      "title": "Una universidad de México usó IA para evitar trampas. Lo que pasó fue justamente lo contrario",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y estructura, pero la falta de fuentes verificables afecta la precisión de los datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:49.350604+00:00",
-      "title": "¿Quién ordenó la muerte de Daphne Caruana?: la periodista investigaba un caso de corrupción cuando f",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y objetivo, pero necesita mayor diversidad de fuentes para cumplir con el estándar de contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-04T19:09:53.463216+00:00",
-      "title": "Sheinbaum reorganiza la Oficina Presidencial; desaparece vocería e implementa la Unidad de Ayudantía",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido en veracidad y objetividad, pero necesita mayor diversidad de fuentes para cubrir adecuadamente el conflicto político.",
-      "error": null
-    },
-    {
       "at": "2026-08-04T19:09:58.349677+00:00",
       "title": "México apuesta por la economía circular: esta es la estrategia que busca transformar los residuos en",
       "kind": "noticia",
@@ -3386,6 +3233,153 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es reciente y estructurado, pero necesita mayor verificación de hechos y fuentes más equilibradas para alcanzar un nivel editorial óptimo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:10.934275+00:00",
+      "title": "Cuando la palma se rompe: la magia delirante de \"The Palm‑Wine Drinkard\"",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "originalidad_creatividad": 8,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares literarios del portal, ofreciendo una visión original y profunda con una voz atractiva; listo para publicación con mínimos ajustes estilísticos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:14.751966+00:00",
+      "title": "Revendedores acaparan galletas de BTS en México y las Armys desatan quejas en redes",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma veraz, objetiva y estructurada, aunque le falta mayor citación de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:20.570643+00:00",
+      "title": "CNDH rechaza que recomendación sobre Ayotzinapa criminalice a ONG; defiende análisis sobre actores i",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y estructurado correctamente, pero la falta de fuentes verificables y de una gama más amplia de perspectivas limita su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:25.986395+00:00",
+      "title": "Puebla impulsa modernización de Aeropuerto Hermanos Serdán",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los requisitos de objetividad y estructura, aunque ganaría mayor solidez con fuentes oficiales adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:30.889359+00:00",
+      "title": "“Mis juguetes”: Cristiano Ronaldo reveló una parte de su lujosa colección de autos valuados en millo",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión de los datos y la referencia a fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:36.747269+00:00",
+      "title": "Lo que esta ciudad desértica puede enseñar al mundo sobre cómo combatir las muertes por calor",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 12 column 214 (char 764)"
+    },
+    {
+      "at": "2026-08-05T01:25:41.706556+00:00",
+      "title": "Pável Dúrov explica por qué Apple eliminó Telegram de la App Store",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y estructura, muestra equilibrio y contraste de fuentes, pero necesita mayor respaldo documental para garantizar la veracidad de los hechos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:51.275896+00:00",
+      "title": "Lecciones de “La Odisea” para empresarios",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta una buena estructura y actualidad, pero la falta de precisión factual, especialmente la incorrecta referencia a Nolan, compromete su veracidad. Se recomienda corregir esa información antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-05T01:25:55.038762+00:00",
+      "title": "Receta de pan de chía en sartén: fácil, delicioso y saludable",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, objetiva y bien estructurada, adecuada para publicación inmediata.",
       "error": null
     }
   ]
