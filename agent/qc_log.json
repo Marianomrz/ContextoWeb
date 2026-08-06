@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-06T01:21:07.066822+00:00",
-      "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y cumple con los criterios de objetividad y actualidad, aunque podría mejorar la precisión al proporcionar fuentes y datos más verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:21:14.603232+00:00",
-      "title": "Morir, ¿un derecho?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y estructurado, pero presenta imprecisiones y falta de fuentes contrastantes, reduciendo su objetividad y rigor factual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:21:20.119130+00:00",
-      "title": "Gianni Infantino recibe apoyo interno en reunión ante crisis y sigue como presidente de FIFA",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de verificación y fuentes múltiples, aunque es actual y está bien estructurado; necesita más rigor y balance antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:21:24.561896+00:00",
-      "title": "Quintana Roo crea comisión para eficiencia energética",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares periodísticos, aunque podría mejorar la verificación de cifras mediante fuentes explícitas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:21:30.388994+00:00",
-      "title": "Infantino busca apoyos en Marruecos en medio de escrutinio global",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una cobertura relativamente equilibrada y actual, pero la falta de fuentes verificables reduce su precisión factual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:21:34.009307+00:00",
-      "title": "Con dos goles de Messi, el Inter Miami le gana a Atlético San Luis en el inicio de su camino en la L",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque se apoya en una única fuente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:40:41.159765+00:00",
-      "title": "Golpe del argentino Thiago Tirante en el Masters 1000 de Montreal: eliminó a Taylor Fritz, número 8 ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de información objetiva y reciente, aunque algunas afirmaciones sobre victorias previas de Tirante requieren mayor verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:40:46.456835+00:00",
-      "title": "Meta lanza nueva inteligencia artificial para programar con la que busca competir con OpenAI y Anthr",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con la estructura y actualidad, pero presenta dudas de veracidad en datos financieros y de adquisición, lo que reduce su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:40:53.299391+00:00",
-      "title": "Goretti Zumaya firma un doble oro y Geraldine Sánchez conquista la plata para México en Santo Doming",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en sólido y cumple con la mayoría de los estándares editoriales; solo se sugiere incluir fuentes adicionales para reforzar la verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-06T01:40:58.161695+00:00",
-      "title": "Trump dice que Canadá es asquerosa y que México se aprovechó de EE.UU.",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y muestra un nivel aceptable de contraste de fuentes y objetividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-06T01:41:07.394480+00:00",
       "title": "Informe desde Ciudad de México: EE. UU. ofrece millonaria recompensa por líderes del CJNG",
       "kind": "noticia",
@@ -3380,6 +3210,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, imparcialidad y estructura, aunque podría enriquecer la diversidad de fuentes para un contraste más amplio.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:40:44.290467+00:00",
+      "title": "El faro que susurra: Samanta Schweblin y la extrañeza del instante",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "originalidad_creatividad": 5,
+        "riqueza_estilo": 5,
+        "estructura_narrativa": 6,
+        "voz_autor": 7,
+        "profundidad_tematica": 5
+      },
+      "observacion": "El texto es una reseña bien redactada pero no alcanza la profundidad y originalidad requeridas para un texto literario. Necesita mayor exploración temática y estilo más elaborado para cumplir con los estándares de Contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:40:49.299278+00:00",
+      "title": "Un hombre devolvió su coche de alquiler creyendo que todo estaba en regla. Una IA descubrió un minia",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de calidad periodística, aunque la discrepancia entre título y resumen reduce la precisión factual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:40:54.404551+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo: Ximena Herrera, Masad, Memo Schutz, Ernesto Laguardia y ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; presenta datos verificables, fuentes fiables, objetividad y una estructura clara.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:40:58.830487+00:00",
+      "title": "Así chocó contra la Luna el cohete perdido de Elon Musk: una sonda coreana capta el cráter que dejó ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, lo que lo hace inadecuado para publicación a pesar de su actualidad y estructura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:41:03.568017+00:00",
+      "title": "Necesarios, cambios a Carta Magna por paradoja en SCJN",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es actual y estructurado, pero presenta imprecisiones factuales y falta de fuentes contrastantes, lo que limita su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:41:07.325062+00:00",
+      "title": "Bandera mexicana de Spider-Man ondea en terreno legal",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con la mayoría de los estándares, aunque necesita mayor diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:41:12.234235+00:00",
+      "title": "“Gasté mucho dinero en alcohol, mujeres y autos; el resto lo despilfarré”: la frenética historia de ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presenta datos verificables y una estructura adecuada, aunque la falta de fuentes múltiples limita ligeramente el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:41:22.182971+00:00",
+      "title": "Morir, ¿un derecho?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El contenido es actual y estructurado, pero presenta serias dudas de veracidad y carece de contraste de fuentes, lo que compromete su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:41:26.183532+00:00",
+      "title": "El calendario completo de ‘Ted Lasso’ temporada 4, explicado: número de episodios y fechas de estren",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y presenta la información de forma objetiva y con fuentes contrastadas, aunque podría reforzar la verificación con citas directas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T07:41:30.944085+00:00",
+      "title": "Inseguridad e inflación le pegan a las tiendas de la esquina: ANPEC",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura objetiva y actual con fuentes contrastadas y una estructura clara.",
       "error": null
     }
   ]
