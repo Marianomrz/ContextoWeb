@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-06T13:01:18.208367+00:00",
+  "generated_at": "2026-08-06T13:21:37.836583+00:00",
   "articles": [
+    {
+      "id": "0bdc14af46eb",
+      "title": "Ver el eclipse desde tierra está bien. Iberia va a fletar un avión para verlo a 10.000 metros de altitud",
+      "summary": "Iberia ha organizado un vuelo especial a 10.000 metros de altitud para que científicos del proyecto Shelios observen el eclipse solar total del 12 de agosto de 2026, transmitiendo en directo vía Starlink, mientras que otros operadores como Brussels Airlines ofrecen vuelos comerciales para el público.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/espacio/ver-eclipse-tierra-esta-bien-iberia-va-a-fletar-avion-para-verlo-a-10-000-metros-altitud",
+      "published_at": "2026-08-06T13:00:52+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta la información de forma descriptiva, sin usar lenguaje cargado ni favorecer a ningún punto de vista político; se centra en los aspectos científicos y tecnológicos.",
+      "focus_analysis": "El medio prioriza el ángulo científico‑tecnológico, destacando la investigación de la corona solar y el uso de Starlink, dejando en segundo plano la experiencia del público general y los impactos sociales.",
+      "focus_tags": [
+        "ciencia espacial",
+        "observación solar",
+        "tecnología aeroespacial"
+      ],
+      "context": [
+        {
+          "label": "evento eclipse",
+          "text": "El eclipse solar total del 12 de agosto de 2026 cruzará Europa, ofreciendo una franja de totalidad que permite observaciones científicas y espectáculos públicos."
+        },
+        {
+          "label": "observaciones previas",
+          "text": "En eclipses anteriores, como el de 2017 en EE. UU., se realizaron vuelos de aviones para observar el fenómeno, demostrando que la altitud mejora la claridad y la duración de la totalidad."
+        },
+        {
+          "label": "conectividad en vuelo",
+          "text": "Starlink ya está siendo probado por varias aerolíneas para proporcionar internet de alta velocidad a bordo, lo que permite retransmisiones en tiempo real de eventos como eclipses."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "f5f24bb9dea1",
+      "title": "Euro hoy en México: cotización de apertura del 6 de agosto",
+      "summary": "El euro abrió el 6 de agosto a 19,89 pesos mexicanos, una ligera caída respecto al cierre anterior, y mantiene una tendencia a la baja tanto en la última semana como en el año.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/06/euro-hoy-en-mexico-cotizacion-de-apertura-del-6-de-agosto/",
+      "published_at": "2026-08-06T13:16:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es meramente informativo, sin adjetivos cargados ni fuentes con sesgo; se limita a presentar datos de cotización y volatilidad.",
+      "focus_analysis": "El artículo se centra en el aspecto económico del tipo de cambio y la volatilidad del mercado financiero, dejando de lado cualquier contexto político o social.",
+      "focus_tags": [
+        "tipo de cambio",
+        "euro",
+        "mercado financiero"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Durante los últimos seis meses, el euro ha perdido alrededor de un 5 % frente al peso mexicano, reflejando la fortaleza del peso impulsada por los precios del petróleo y la política monetaria de México."
+        },
+        {
+          "label": "datos comparables",
+          "text": "En contraste, el dólar estadounidense se cotiza cerca de 18,5 pesos, mostrando una apreciación más moderada que la del euro en el mismo período."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "Analistas del Banco de México han señalado que la volatilidad baja del tipo de cambio del euro indica estabilidad en los mercados de divisas, aunque advierten sobre posibles fluctuaciones por eventos europeos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "7cfc02fdf866",
+      "title": "Alemania admite su vulnerabilidad ante el “nuevo nivel de peligro” que representan los drones bomba",
+      "summary": "El gobierno de Alemania reconoce que los drones bomba representan un nuevo nivel de peligro y ha intensificado la búsqueda del segundo dispositivo no tripulado involucrado en el intento de ataque contra aviones ucranianos en el aeropuerto de Leipzig.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/internacional/2026-08-06/alemania-admite-su-vulnerabilidad-ante-el-nuevo-nivel-de-peligro-que-representan-los-drones-bomba.html",
+      "published_at": "2026-08-06T12:54:15+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono informativo y objetivo, sin adjetivos cargados ni fuentes con agenda visible.",
+      "focus_analysis": "El medio se centra en la dimensión de seguridad y la amenaza de los drones bomba, dejando de lado el debate político sobre la política de defensa y las implicaciones internacionales del ataque.",
+      "focus_tags": [
+        "seguridad pública",
+        "drones bomba",
+        "amenaza terrorista"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En los últimos años, varios países europeos han enfrentado intentos de ataque con drones armados, como el incidente registrado en Francia en 2024."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "El aeropuerto de Leipzig ha sido objeto de incidentes de seguridad, pero este es el primer intento documentado contra aviones ucranianos en territorio alemán."
+        },
+        {
+          "label": "Posturas de otros actores",
+          "text": "El gobierno alemán ha anunciado recientemente una ampliación del presupuesto de defensa para contrarrestar amenazas aéreas no tripuladas."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "cbc439f84d63",
+      "title": "¿Son neutrales los estilos de vida saludables?",
+      "summary": "Rafael Lozano argumenta que la expresión “estilos de vida saludables” oculta desigualdades estructurales y convierte problemas sociales en responsabilidades individuales, recordando que la salud pública debe considerar el entorno y las políticas públicas, no solo los hábitos personales.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/son-neutrales-estilos-vida-saludables-20260806-826941.html",
+      "published_at": "2026-08-06T13:13:55+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto utiliza un lenguaje crítico con la individualización de la salud, enfatiza la moralización del riesgo y destaca la necesidad de intervenciones estructurales, lo que refleja una postura progresista y de izquierda.",
+      "focus_analysis": "El artículo se centra en la dimensión social y moral de la salud pública, analizando cómo los discursos de estilo de vida pueden desdibujar la responsabilidad colectiva; omite la discusión sobre costos económicos o propuestas de políticas específicas.",
+      "focus_tags": [
+        "salud pública",
+        "determinantes sociales",
+        "moralización"
+      ],
+      "context": [
+        {
+          "label": "Marco histórico",
+          "text": "En 1974, el informe Lalonde introdujo los “estilos de vida” como uno de los cuatro campos de acción de la salud pública, ampliando el foco más allá de la atención clínica para incluir vivienda, trabajo, alimentación y transporte."
+        },
+        {
+          "label": "Crítica académica",
+          "text": "Robert Crawford, en 1980, describió el riesgo de convertir la salud en una obligación moral individual, concepto que denominó “salutismo”, advirtiendo que la culpa se trasladaba al individuo en lugar de al entorno."
+        },
+        {
+          "label": "Política de salud",
+          "text": "La Carta de Ottawa de 1986 propuso una visión más amplia de la promoción de la salud, incorporando políticas públicas, entornos favorables y acción comunitaria, más de centrarse solo en hábitos personales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "489de3b06fce",
+      "title": "Acusan formalmente a una mujer de apuñalar a 4 hombres en el centro de Londres; señalan problema de salud mental de la agresora",
+      "summary": "Stella Gollovena, una mujer de 47 años, fue acusada formalmente de apuñalar a cuatro hombres en Covent Garden, Londres, y la Policía Metropolitana señaló que el ataque está relacionado con un problema de salud mental de la agresora.",
+      "category": "internacional",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/acusan-formalmente-a-una-mujer-de-apunalar-a-4-hombres-en-el-centro-de-londres-senalan-problema-de-salud-mental-de-la-agresora/",
+      "published_at": "2026-08-06T13:16:25+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo presenta los hechos de forma descriptiva, sin adjetivos cargados ni fuentes con inclinación política, limitándose al comunicado policial y al contexto del incidente.",
+      "focus_analysis": "El medio se centró en el ángulo institucional y de salud mental, resaltando la decisión policial y el diagnóstico de la agresora, mientras omite detalles humanos de las víctimas y posibles motivaciones subyacentes.",
+      "focus_tags": [
+        "policía",
+        "salud mental",
+        "violencia con arma blanca"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de violencia con arma blanca en UK",
+          "text": "En los últimos años, Londres ha registrado un aumento de agresiones con cuchillo, con cientos de incidentes reportados anualmente, lo que ha llevado a campañas de prevención y mayor presencia policial."
+        },
+        {
+          "label": "salud mental y responsabilidad penal en Reino Unido",
+          "text": "El sistema judicial británico suele considerar los trastornos mentales al decidir cargos y sentencias, pudiendo derivar a los acusados a tratamientos especializados."
+        },
+        {
+          "label": "criterio policial sobre terrorismo",
+          "text": "La Policía Metropolitana de Londres tiende a clasificar como terrorismo solo actos motivados por ideología extrema, excluyendo agresiones aisladas sin ese vínculo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "3cc9731597bb",
+      "title": "Isaac del Toro renueva con UAE Team Emirates: ¿hasta qué año seguirá con el equipo?",
+      "summary": "El ciclista mexicano Isaac del Toro, de 22 años, firmó una extensión de contrato con el equipo UAE Team Emirates-XRG que lo mantendrá en la escuadra hasta el final de la temporada 2031.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/06/isaac-del-toro-renueva-con-uae-team-emirates-hasta-que-ano-seguira-con-el-equipo/",
+      "published_at": "2026-08-06T13:17:23+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un tono celebratorio y destaca los éxitos del atleta sin ofrecer críticas ni perspectivas contrapuestas, mostrando una ligera inclinación positiva hacia el deporte mexicano.",
+      "focus_analysis": "El medio se centra en la trayectoria deportiva y los logros individuales de Isaac del Toro, dejando de lado aspectos económicos del patrocinio o la estrategia global del equipo.",
+      "focus_tags": [
+        "ciclismo mexicano",
+        "renovación contrato",
+        "UAE Team Emirates"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria de Isaac del Toro",
+          "text": "Del Toro se incorporó a UAE Team Emirates en 2024 tras ganar el Tour de l’Avenir 2023 y ha destacado en Grandes vueltas, incluyendo un segundo puesto en el Giro de Italia 2025 y un tercer puesto en el Tour de Francia 2026."
+        },
+        {
+          "label": "Éxitos recientes del ciclista",
+          "text": "En la temporada 2026, el mexicano se alzó con el maillot blanco del Tour de Francia, ganó etapas en el UAE Tour y el Tirreno‑Adriático, consolidándose como una de las principales figuras del ciclismo latinoamericano."
+        },
+        {
+          "label": "Estrategia de UAE Team Emirates",
+          "text": "El equipo con sede en los Emiratos Árabes Unidos ha puesto énfasis en construir un proyecto a largo plazo con jóvenes talentos, y la renovación de Del Toro refleja su intención de mantener una base competitiva hasta la próxima década."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "889d9bbc0d05",
       "title": "Abordará coloquio la obra del creador de haikús Matsuo Basho",
@@ -835,216 +1045,6 @@
         {
           "label": "Línea editorial de Letras Libres",
           "text": "Letras Libres es una revista cultural mexicana conocida por su enfoque crítico y progresista, que suele publicar ensayos que combinan reflexión filosófica con referencias a la tradición literaria europea."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "5f7648510326",
-      "title": "Trent Park, la mansión londinense  donde espiaban a líderes nazis",
-      "summary": "Trent Park, una mansión del norte de Londres requisada durante la Segunda Guerra Mundial, sirvió como prisión de alto nivel para 84 generales y 22 oficiales alemanes, donde los británicos instalaron micrófonos ocultos para interceptar sus conversaciones y obtener información estratégica. Actualmente la casa está abierta al público como museo que muestra esta operación de espionaje y el papel de los refugiados judíos que transcribían los diálogos.",
-      "category": "internacional",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/trent-park-la-mansion-londinense-donde-espiaban-a-lideres-nazis/",
-      "published_at": "2026-08-06T11:33:58+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos históricos y la apertura del museo sin emplear un cargado ni o fuentes opinión,, una tono neutral de la cobertura.",
-      "focus_analysis": "El medio se centró en el aspecto histórico‑militar de la operación de escucha en Trent Park y en la presentación museística, dejando de lado la dimensión humana de los prisioneros y de los operativos.",
-      "focus_tags": [
-        "espionaje histórico",
-        "Segunda Guerra Mundial",
-        "museo"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "Durante la Segunda Guerra Mundial, el Reino Unido estableció una red de casas de inteligencia, siendo Bletchley Park el centro principal para descifrar los códigos alemanes y coordinar operaciones de escucha."
-        },
-        {
-          "label": "Dato comparativo",
-          "text": "En Trent Park se instalaron micrófonos ocultos tanto en salones como en jardines, una técnica similar a la usada en otras instalaciones británicas para vigilar a oficiales enemigos sin su conocimiento."
-        },
-        {
-          "label": "Postura de otro actor",
-          "text": "Historiadores y museos británicos destacan la contribución de refugiados judíos que trabajaron en el equipo de transcripción, subrayando su papel crucial en la obtención de información estratégica."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "5ae339a9158b",
-      "title": "“Gasté mucho dinero en alcohol, mujeres y autos; el resto lo despilfarré”: la frenética historia de uno de los futbolistas más icónicos",
-      "summary": "El extenso artículo de Infobae Deportes narra la vida del futbolista norirlandés George Best, quien destacó como una de las figuras más brillantes del Manchester United y ganó el Balón de Oro, pero también se vio envuelto en un consumo desmedido de alcohol, mujeres y automóviles que acabó destruyendo su salud.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/06/gaste-mucho-dinero-en-alcohol-mujeres-y-autos-el-resto-lo-despilfarre-la-frenetica-historia-de-uno-de-los-futbolistas-mas-iconicos/",
-      "published_at": "2026-08-06T06:14:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la biografía y los aspectos humanos del deportista sin usar lenguaje político ni favorecer a ninguna corriente ideológica; el tono es descriptivo y sensacionalista, típico de la cobertura deportiva.",
-      "focus_analysis": "El medio eló el ángulo humano y sensacionalista, resaltando las adicciones y la vida personal de Best, mientras que el contexto institucional del fútbol y los logros deportivos se presentan de forma secundaria.",
-      "focus_tags": [
-        "vida personal",
-        "carrera deportiva",
-        "adicciones"
-      ],
-      "context": [
-        {
-          "label": "Logros deportivos",
-          "text": "George Best ganó la Copa de Europa con el Manchester United en 1968, recibió el Balón de Oro en 1968 y fue nombrado mejor jugador inglés, consolidándose como una de las estrellas más emblemáticas del fútbol de los años 60."
-        },
-        {
-          "label": "Problemas de adicción",
-          "text": "A lo largo de su vida, Best sufrió una grave adicción al alcohol y a otras sustancias, lo que provocó graves problemas de salud, incluyendo un hígado deteriorado que contribuyó a su muerte a los 59 años."
-        },
-        {
-          "label": "Legado cultural",
-          "text": "Más allá de su talento futbolístico, Best fue apodado “El Quinto Beatle” y se convirtió en un icono cultural que representa la combinación de genialidad deportiva y estilo de vida hedonista, influyendo en la percepción pública de los atletas estrella."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "a6bbc2367275",
-      "title": "¿En dónde se respira el peor oxígeno en CDMX y zona conurbada? Aquí el reporte",
-      "summary": "La Dirección de Monitoreo Atmosférico de la Ciudad de México publicó su reporte del 6 de agosto, indicando que la calidad del aire en la capital y el Estado de México se encuentra en nivel “Buena”, con bajo riesgo para la salud y permitiendo actividades al aire libre.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/06/en-donde-se-respira-el-peor-oxigeno-en-cdmx-y-zona-conurbada-aqui-el-reporte/",
-      "published_at": "2026-08-06T11:30:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar datos oficiales y recomendaciones sin usar adjetivos cargados ni citar fuentes partidistas, lo que refleja una cobertura neutra.",
-      "focus_analysis": "El medio se centra en el aspecto ambiental y de salud pública al informar los índices de calidad del aire y las recomendaciones, dejando de lado el análisis de causas económicas o de políticas a largo plazo.",
-      "focus_tags": [
-        "calidad del aire",
-        "salud pública",
-        "CDMX"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "La Ciudad de México ha enfrentado problemas de contaminación atmosférica durante décadas, con episodios de smog severo que llevaron a la implementación de medidas como el Hoy No Circula."
-        },
-        {
-          "label": "Normativas",
-          "text": "El índice Aire y Salud utiliza la clasificación de la Organización Mundial de la Salud, que define cinco niveles de calidad del aire desde 'Buena' hasta 'Extremadamente Mala'."
-        },
-        {
-          "label": "Políticas locales",
-          "text": "Las autoridades de la capital pueden activar la Contingencia Ambiental y aplicar restricciones vehiculares, como el Doble Hoy No Circula, cuando los niveles de contaminación superan los umbrales establecidos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "287cd6a6451b",
-      "title": "¿Qué es el NatGen? El naturalismo genérico explicado a los valones (breve introducción flamenca)",
-      "summary": "El ensayo de Ernesto Castro, publicado en Letras Libres, expone el NatGen como una corriente filosófica que concibe a la naturaleza como generadora y la sitúa entre la tradición salamantina y la cultura belga, mientras critica la rigidez de los artículos académicos tradicionales.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/revista/que-es-el-natgen-el-naturalismo-generico-explicado-a-los-valones-breve-introduccion-flamenca/06/08/2026/",
-      "published_at": "2026-08-06T07:57:25+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en una reflexión filosófica y literaria sin emplear vocabulario político ni citar fuentes partidistas, manteniéndose neutro respecto al espectro ideológico.",
-      "focus_analysis": "El medio elige un ángulo intelectual‑cultural, analizando la propuesta filosófica y su estilo literario, dejando de lado cualquier discusión sobre sus posibles repercusiones sociales o políticas.",
-      "focus_tags": [
-        "filosofía",
-        "crítica académica",
-        "cultura belga"
-      ],
-      "context": [
-        {
-          "label": "Definición de NatGen",
-          "text": "NatGen, o naturalismo genérico, es una propuesta que plantea que la naturaleza no es simplemente un objeto generado, sino la fuente activa que genera conceptos y procesos en distintas áreas del pensamiento."
-        },
-        {
-          "label": "Influencia beneluxa",
-          "text": "El autor menciona la influencia de la tradición filosófica y artística del Benelux, como la obra de René Magritte y la escuela de pensamiento de Lieja, que aportan un trasfondo cultural a la formulación del NatGen."
-        },
-        {
-          "label": "Crítica a los formatos académicos",
-          "text": "El ensayo critica la prevalencia de los artículos académicos estructurados como 'papers', comparándolos con sonetos rígidos y defendiendo una mayor libertad estilística en la divulgación filosófica."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "539aedd153d1",
-      "title": "La fiscalización del SAT pierde fuerza y recauda 49% menos por cada auditoría",
-      "summary": "El Servicio de Administración Tributaria (SAT) de México redujo en un 49% los ingresos promedio por auditoría en el primer semestre de 2026, pese a haber incrementado el número de actos de fiscalización, según datos de la Secretaría de Hacienda y Crédito Público.",
-      "category": "economia",
-      "source_name": "Expansión",
-      "source_url": "https://expansion.mx/economia/2026/08/06/sat-ingresos-fiscalizacion-agotan-cobro-auditoria-cae-49",
-      "published_at": "2026-08-06T11:05:01+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono mayor y presenta datos oficiales sin usar vocabulario cargado ni favorecer a ninguna posición política, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centró en el ángulo económico‑fiscal, describiendo la caída de la recaudación por auditorías y sus implicaciones para el presupuesto, sin profundizar en el impacto social o político de la política tributaria.",
-      "focus_tags": [
-        "fiscalización",
-        "recaudación",
-        "economía"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes fiscales",
-          "text": "El SAT había registrado un crecimiento sostenido de los ingresos por auditorías desde 2020, alcanzando su nivel más alto en 2024, antes de iniciar una tendencia a la baja en 2025 y 2026."
-        },
-        {
-          "label": "Contexto político",
-          "text": "La política tributaria de México, iniciada bajo la presidencia de Andrés Manuel López Obrador con la eliminación de condonaciones a grandes empresas, continuó bajo la administración de Claudia Sheinbaum, quien buscó reforzar la fiscalización para detectar evasión."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Mientras Expansión analizó la caída de la recaudación del SAT, otros medios como Letras Libres y Genbeta dedicaron su atención a temas culturales y de consumo, demostrando que la discusión fiscal no fue abordada en esos espacios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "7a83fa4e37c7",
-      "title": "Si la pregunta es si la IA te va a quitar el trabajo, muchos trabajadores de China ya conocen la respuesta de la peor forma",
-      "summary": "En ciudades chinas como Wuhan, la introducción de los robotaxis de Baidu ha reducido los ingresos de los taxistas hasta en un 40 % y ha provocado la pérdida de empleos en sectores creativos, mientras el gobierno de Pekín comienza a diseñar políticas para mitigar el impacto laboral de la inteligencia artificial.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/magnet/pregunta-ia-te-va-a-quitar-trabajo-muchos-trabajadores-china-conocen-respuesta-peor-forma",
-      "published_at": "2026-08-06T11:30:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono informativo, presenta datos y testimonios de diferentes actores (trabajadores, gobierno, analistas) sin usar lenguaje cargado ni favorecer una postura ideológica.",
-      "focus_analysis": "El medio se centra en el ángulo económico‑tecnológico, describiendo la sustitución de puestos de trabajo por IA y la respuesta política, dejando de lado un análisis profundo de las consecuencias sociales y psicológicas para los trabajadores.",
-      "focus_tags": [
-        "IA y empleo",
-        "robotaxis China",
-        "impacto laboral"
-      ],
-      "context": [
-        {
-          "label": "Política laboral China",
-          "text": "El gobierno chino ha lanzado una estrategia nacional para impulsar la IA en transporte, industria y servicios, al mismo tiempo que reconoce la necesidad de crear normas laborales que protejan a los trabajadores frente a la automatización."
-        },
-        {
-          "label": "Robotaxis en Wuhan",
-          "text": "Desde 2022, Baidu despliega su flota de robotaxis Apollo Go en Wuhan, lo que ha provocado una caída de alrededor del 40 % en los ingresos de los taxistas tradicionales y ha generado protestas de colectivos laborales."
-        },
-        {
-          "label": "Impacto global de IA",
-          "text": "Diversos países, incluidos Estados Unidos y miembros de la UE, están debatiendo la acelerada adopción de IA y sus efectos en el empleo, con informes que indican que millones de puestos podrían verse amenazados en los próximos años."
         }
       ],
       "confidence": "alta",
