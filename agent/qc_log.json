@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-05T21:25:56.416499+00:00",
-      "title": "Morir, ¿un derecho?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la nota es reciente y sigue una estructura adecuada, la falta de precisión factual y la ausencia de fuentes contrastantes la hacen poco adecuada para una cobertura objetiva y equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:26:01.152385+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo: se arma el primer complot y buscan nominar a Karina Torr",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando la información de forma clara, objetiva y actual, aunque podría reforzar la verificación de algunos detalles.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:26:08.806441+00:00",
-      "title": "\"Querían vender Argentina\": 3 claves de la polémica reforma sobre la venta de tierras a extranjeros ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero contiene imprecisiones y carece de contraste de fuentes, lo que afecta su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:26:11.385857+00:00",
-      "title": "Se confirmó el cronograma de los cruces de octavos de final de la Copa Argentina: cuándo jugará Boca",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo se podría enriquecer con fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:26:17.339612+00:00",
-      "title": "Salma Hayek reconoce la personalidad y estilo único de su hija Valentina",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales: es preciso, objetivo, actual y bien estructurado, con suficiente contexto y contraste de fuentes para una pieza de entretenimiento.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:40:37.375175+00:00",
-      "title": "Salud investiga centro turístico de Quintana Roo tras alerta de ciclosporiasis de Reino Unido",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares de calidad editorial, presentando una información veraz, actual y estructurada de manera adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:40:44.645831+00:00",
-      "title": "El gesto de Lamine Yamal con Julián Álvarez a la espera de la “oferta definitiva” del Barcelona para",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo necesita corregir errores factuales, pero en general cumple con la estructura y objetividad, aunque la variedad de fuentes es limitada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:40:48.598688+00:00",
-      "title": "Motociclista muere tras chocar contra un poste en el Centro de CDMX; fue impactado por un automóvil",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contextualizada del accidente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:40:54.009813+00:00",
-      "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero le falta contraste de fuentes y mayor corroboración de los hechos presentados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:40:59.810798+00:00",
-      "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 5 de agosto? L5 del MB con retrasos por manifestac",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de veracidad, objetividad y estructura, pero necesita fuentes más diversas para ofrecer un contraste adecuado en un tema conflictivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T21:41:04.676060+00:00",
-      "title": "Brasil rompe con Argentina: la medida diplomática de Lula ante los \"reiterados insultos\" de Milei",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, pese a ligeras imprecisiones en la redacción del resumen.",
-      "error": null
-    },
-    {
       "at": "2026-08-05T21:41:15.017046+00:00",
       "title": "Morir, ¿un derecho?",
       "kind": "noticia",
@@ -3392,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una cobertura objetiva y actualizada del su, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:20:38.737560+00:00",
+      "title": "Kast anuncia que impulsará paquete de reformas legislativas contra el crimen organizado en Chile",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente reciente y bien estructurado, pero necesita mayor precisión en los datos y una gama más diversa de fuentes para cubrir adecuadamente la controversia política.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:20:42.189653+00:00",
+      "title": "Ya busca nuevas figuras: Rafa Márquez estuvo presente en el duelo México vs Panamá del Premundial Su",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma precisa, neutral y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:20:47.639502+00:00",
+      "title": "Brian Rodríguez calma a la afición del América: Soy feliz aquí; yo avisaré cuando me vaya",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, reciente y estructurada de forma clara y objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:20:54.771416+00:00",
+      "title": "Los dos golazos de Lionel Messi para Inter Miami y la impactante estadística que alcanzó a sus 39 añ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta problemas graves de veracidad y objetividad, aunque cumple con la actualidad y la estructura básica. Necesita revisión de datos y mayor neutralidad antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:20:58.823213+00:00",
+      "title": "Estados Unidos suspende importaciones de aguacate de Michoacán por amenaza de violencia",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión de cifras y la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:21:03.875554+00:00",
+      "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y estructurado, pero carece de evidencia verificable y de fuentes diversificadas, lo que afecta su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:21:12.085203+00:00",
+      "title": "Morir, ¿un derecho?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo necesita mayor rigor factual y una presentación más equilibrada de distintas posturas para alcanzar los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:21:16.966813+00:00",
+      "title": "LIV Golf anuncia nuevo inversor para continuar en el 2027",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una noticia clara, actual y objetiva, con sólo pequeñas áreas de mejora en la citación directa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:21:22.058436+00:00",
+      "title": "México vs Panamá en el Premundial sub 20, ¿cómo va el partido de 4tos de Final?",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura y la objetividad, pero la precisión de datos es deficiente, lo que afecta su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:21:27.108440+00:00",
+      "title": "Lluvias provocan caídas de árboles en las colonias Del Valle Centro y Chimalistac; no hay personas l",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información precisa, actual y estructurada de manera objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T03:21:31.604402+00:00",
+      "title": "Tigre igualó 0-0 con Belgrano en un apasionante partido de la segunda fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la verificación externa de datos y la diversidad de fuentes podrían reforzarse.",
       "error": null
     }
   ]
