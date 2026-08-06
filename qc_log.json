@@ -1,255 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-05T19:01:37.394158+00:00",
-      "title": "Crece la tensión en la FIFA tras la reunión de emergencia en Marruecos: la estrategia de Infantino p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la información es reciente, la falta de datos verificables y la ausencia de voces oficiales reducen la calidad editorial del paquete.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:01:42.581674+00:00",
-      "title": "Rector de la UNAM solicita auditoría a ASF por contrato a Territorium LIfe en examen; pagaron 69 mdp",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Aunque la estructura y la objetividad son buenas, la falta de precisión en datos clave como el nombre del rector compromete la credibilidad del artículo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:01:48.315615+00:00",
-      "title": "Mujer es arrastrada por un automóvil tras presunto conflicto vial en Monterrey; el momento quedó en ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y objetivo, pero necesita mayor corroboración y fuentes múltiples para reforzar su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:01:51.901706+00:00",
-      "title": "Qué es la fase lútea y cómo afecta a las mujeres",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 11 column 155 (char 508)"
-    },
-    {
-      "at": "2026-08-05T19:02:01.602672+00:00",
-      "title": "Pensar la universidad",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo es reciente y estructurado, pero carece de fuentes contrastantes y presenta una visión parcial sin suficiente evidencia verificable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:02:19.185723+00:00",
-      "title": "SpaceX publica sus primeros resultados como empresa pública: 911 millones de acciones se desbloquean",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta información probablemente ficticia y fuentes poco fiables, aunque está bien estructurado y es actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:02:22.294034+00:00",
-      "title": "Inteligencia artificial eleva hasta 45.8% la producción en sectores estratégicos de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de alta calidad, con datos consistentes, fuentes fiables y estructura adecuada; se mantiene objetivo y actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:20:38.788887+00:00",
-      "title": "“Nada los protegerá”: amenaza la DEA a narcopolíticos mexicanos",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y fuentes fiables, y presenta un sesgo marcado, aunque está actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:20:43.631439+00:00",
-      "title": "Mariano Navone sigue de racha: logró un gran triunfo ante Valentin Vacherot en el Masters 1000 de Mo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque contiene una posible imprecisión sobre el título ATP de Navone.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:20:49.164567+00:00",
-      "title": "¿Aspirantes pagarán por examen de control? esto dice la UNAM",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando información precisa, contrastada y objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:20:55.702464+00:00",
-      "title": "¡Salud! El consumo de cerveza crece en México: este es el peso de la industria en el PIB y el empleo",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, y está bien estructurado y actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:21:01.778051+00:00",
-      "title": "¿Es posible que Ucrania nunca se incorpore a la OTAN?",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión de datos y la diversidad de fuentes para ofrecer un contraste más equilibrado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:21:06.352948+00:00",
-      "title": "\"Hay películas que es mejor no rehacer\": Robert Redford no quería nuevas versiones de este clásico d",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de objetividad y actualidad; solo se sugiere reforzar la verificación de fuentes y añadir más referencias para mejorar la precisión y el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:21:17.361752+00:00",
-      "title": "Morir, ¿un derecho?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita corrección de datos y una mayor diversidad de fuentes antes de ser publicado, aunque su actualidad y estructura son adecuadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-05T19:21:24.185911+00:00",
-      "title": "FIFA niega haber ofrecido la Final del Mundial 2030 a Marruecos, ¿será en España?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes verificables reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-05T19:40:37.937615+00:00",
       "title": "Entre la bruma del puerto y la brújula oxidada: redescubriendo a Camilo Castelo Branco",
       "kind": "literatura",
@@ -3386,6 +3137,261 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple parcialmente con los estándares de objetividad y contraste de fuentes, pero presenta dudas de veracidad y un sesgo notable a favor de la FIFA.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:40:35.531896+00:00",
+      "title": "Canal de Panamá vuelve a endurecer límites de calado por niveles de agua",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:40:40.545586+00:00",
+      "title": "Con dos goles de Messi, el Inter Miami le gana a Atlético San Luis en el inicio de su camino en la L",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido, con información veraz y reciente; aunque muestra un ligero sesgo hacia Messi, se reconoce y no afecta la objetividad del informe.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:40:45.446649+00:00",
+      "title": "Balconean a Layda Sansores en vuelo de lujo a España: ¿festejo de cumpleaños austero en la Madre Pat",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y sigue una estructura adecuada, pero su falta de fuentes múltiples y el tono parcial reducen su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:40:50.640663+00:00",
+      "title": "Las inéditas imágenes del Sol en movimiento que muestran un nivel de detalle jamás visto",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos editoriales, aunque podría mejorar la verificación añadiendo citas concretas y ampliando la variedad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:40:56.088703+00:00",
+      "title": "Diputada local de MC propone que mascotas tengan pensión tras la separación de una pareja; buscan qu",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero presenta serios problemas de veracidad y objetividad que comprometen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:00.953317+00:00",
+      "title": "Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo favorable a Microsoft, aunque es reciente y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:10.839129+00:00",
+      "title": "Morir, ¿un derecho?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero necesita datos más precisos y una mayor variedad de fuentes para cumplir con los estándares de objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:15.371283+00:00",
+      "title": "Alza de precios en canasta básica seguirá presionando el consumo: NielsenIQ",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo datos actuales y objetivos con fuentes múltiples y una estructura clara.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:21.136249+00:00",
+      "title": "Combinación juvenil, centro y gran definición de Ascacíbar: así fue el gol con el que Boca abrió el ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta problemas graves de veracidad y falta de fuentes múltiples, aunque está bien estructurado y es actual; necesita corrección de datos y mayor corroboración antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:26.036909+00:00",
+      "title": "Maru Campos acusa que el Gobierno Federal quiere decidir “qué información es verdadera y cuál es fal",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y está al día, pero le falta contraste con la posición oficial del gobierno, lo que reduce su completitud y balance.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:32.682690+00:00",
+      "title": "Israel reanuda sus bombardeos en el sur del Líbano y hace tambalear los diálogos en Roma",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra problemas de veracidad y falta de fuentes contrastadas, pese a una estructura adecuada y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:37.371023+00:00",
+      "title": "Primer ministro de Canadá, Mark Carney, dice que \"ya no tengo confianza en el señor Infantino\" para ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque su estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:40.708841+00:00",
+      "title": "‘Spider-Man: Brand New Day’ sigue imparable y ya es la película más taquillera de 2026",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y fuentes fiables, y muestra sesgo evidente, aunque está actualizado y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:50.246951+00:00",
+      "title": "Pensar la universidad",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita mayor verificación de datos y fuentes múltiples para cumplir con los estándares de objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-06T00:41:55.746591+00:00",
+      "title": "¿Qué implica trabajar sin seguridad social?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero le falta contraste de fuentes que aporte diferentes puntos de vista.",
       "error": null
     }
   ]
