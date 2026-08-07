@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-07T19:38:05.570494+00:00",
-      "title": "UNAM: ¿cuándo y dónde será tu examen?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere añadir una fuente específica para la cifra comparativa para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:38:15.687685+00:00",
-      "title": "24 zonas de trabajo, grúas de 400 toneladas y casi 116 metros de altura: SpaceX está levantando otra",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado correctamente, pero la falta de fuentes verificadas y la posible inexactitud del nombre de la instalación reducen su puntuación de veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:40:43.858641+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es reciente y está estructurado de forma adecuada. Se recomienda rechazar la publicación hasta corregir los datos y equilibrar la presentación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:40:50.375319+00:00",
-      "title": "Exponen la historia de León y su impacto como capital del diálogo americano",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y actual, pero muestra sesgo laudatorio y limitada diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:40:57.207476+00:00",
-      "title": "Disney Plus está probando una IA que entiende lo que quieres ver",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, con pequeñas áreas de mejora en la citación de fuentes múltiples.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:41:05.531313+00:00",
-      "title": "Estudiantes hizo oficial la llegada de un campeón con la Selección que regresa al fútbol argentino t",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares periodísticos de objetividad y actualidad; solo se sugiere ampliar la variedad de fuentes para reforzar el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:41:14.124098+00:00",
-      "title": "Tlalpan invierte 215 mdp para atender más de 30 mil baches en 2026; reportan avance de 2 mil 600 bac",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contextualizada de la inversión municipal.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:41:22.867431+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Italia rechaza el ultimátum de España",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, la nota cumple con la actualidad y estructura, pero necesita fuentes más diversificadas y verificables para reforzar su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:41:31.597917+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete tiene información reciente y una estructura adecuada, pero carece de fuentes verificables y de contraste real de voces, y muestra sesgo en el tono.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:41:36.884021+00:00",
-      "title": "Petróleo cierra la semana con alzas de más de 1% impulsado por falta de acuerdo en Oriente Medio",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta información reciente y estructurada, pero contiene errores de veracidad que comprometen su precisión factual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:41:43.977215+00:00",
-      "title": "Cae El Ruso en Jalisco: era uno de los principales generadores de violencia de Playa del Carmen y lo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzar la precisión con fechas y fuentes más específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T19:41:51.343903+00:00",
-      "title": "Sony prepara el regreso de sus auriculares más vendidos, ahora más baratos",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido, con buena estructura y objetividad, aunque la falta de fuentes múltiples y la imposibilidad de verificar algunos datos reducen le puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T20:05:10.602778+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad, pese a su buena estructura y actualidad, por lo que no es apto para publicación.",
-      "error": null
-    },
-    {
       "at": "2026-08-07T20:05:17.970492+00:00",
       "title": "Meta lanza Muse Code, su agente de codificación para terminales, el mismo día que Muse Spark 1.1 es ",
       "kind": "noticia",
@@ -3398,6 +3177,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares periodísticos, aunque la falta de fuentes específicas y fechas reduce ligeramente la veracidad percibida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:00:45.759986+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es reciente y está bien estructurado; necesita fuentes verificables y un enfoque más equilibrado para cumplir los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:00:48.779684+00:00",
+      "title": "Laura Itzel Castillo celebra reanudación de relación México-Perú; \"el diálogo es el camino\", afirma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo evidente, pese a estar actualizado y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:00:55.358196+00:00",
+      "title": "La posesión de Abelardo de la Espriella como presidente de Colombia, en vivo | “Ha comenzado el tiem",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete carece de veracidad y contraste de fuentes, pero mantiene una estructura clara y un tono objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:01.316723+00:00",
+      "title": "Con Di María, Rosario Central recibe a Aldosivi en el inicio de la fecha 4 del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría mejorar la verificación con fechas y citas más precisas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:06.917954+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo: no te pierdas la fiesta de este viernes 7 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad para una noticia de entretenimiento.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:15.303669+00:00",
+      "title": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digita",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la variedad de fuentes y la inclusión de la postura oficial de la empresa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:28.609379+00:00",
+      "title": "Maksym Maksymov: “Rusia quiere que los niños ucranianos crezcan como adultos rusos”",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero necesita fuentes más verificables y una mayor diversidad de perspectivas para cumplir con los estándares de objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:34.361163+00:00",
+      "title": "Trump anunció que EU invertiría 3,000 millones de dólares en proyectos mineros para reforzar defensa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete carece de precisión factual y contraste de fuentes, lo que compromete su calidad editorial a pesar de estar actualizado y estructurado correctamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:41.649074+00:00",
+      "title": "Marina asegura mil 170 kilos de cocaína frente a Guerrero",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de objetividad y actualidad; solo se podría reforzar la variedad de fuentes primarias para elevar aún más el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:48.131145+00:00",
+      "title": "Ana Lucía Pineda, la emprendedora que levantó junto a De la Espriella un emporio empresarial y ahora",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que impide su publicación como noticia objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:01:55.074880+00:00",
+      "title": "Uno de los titulares de la selección argentina en la final contra España declaró que disputó su últi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta la información de forma estructurada y neutral, pero la falta de verificabilidad de los hechos y la dependencia de una sola fuente reducen su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:02:03.104816+00:00",
+      "title": "Protección Civil alerta por fuertes lluvias y altas temperaturas en el país: se activa la Alerta Ama",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de precisión, objetividad y actualidad, aunque podría enriquecer la variedad de fuentes para un contraste más robusto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T23:02:11.047146+00:00",
+      "title": "Disney Plus está probando una IA que entiende lo que quieres ver",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, presentando la información de forma clara y reciente, aunque podría reforzarse con fuentes adicionales y citas verificables.",
       "error": null
     }
   ]
