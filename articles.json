@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-07T10:01:11.070041+00:00",
+  "generated_at": "2026-08-07T10:17:05.439537+00:00",
   "articles": [
+    {
+      "id": "bbbcef02bdbb",
+      "title": "Conectarán al C5 cámaras de 380 negocios de Iztapalapa",
+      "summary": "El Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5) de la Ciudad de México, en conjunto con la Asociación de Empresarios de Iztapalapa y la industria automotriz, firmó un acuerdo para conectar 380 cámaras de negocios locales al sistema público de videovigilancia, con la promesa de reducir la incidencia delictiva en hasta un 70 % en esas áreas.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/conectaran-al-c5-camaras-de-380-negocios-de-iztapalapa/",
+      "published_at": "2026-08-07T10:06:24+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto se basa exclusivamente en declaraciones oficiales que destacan beneficios sin presentar críticas ni opiniones de la sociedad civil, lo que indica un ligero sesgo a favor del gobierno y sus iniciativas de seguridad.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad pública, resaltando la colaboración público‑privada y la reducción del delito, mientras omite discusiones sobre privacidad o posibles objeciones de la comunidad.",
+      "focus_tags": [
+        "seguridad pública",
+        "videovigilancia",
+        "colaboración empresarial"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del C5",
+          "text": "El C5 es el sistema de comando y control de la Ciudad de México que integra más de 120 000 dispositivos de videovigilancia, ampliado en los últimos años para incluir cámaras privadas bajo el programa “Aliados C5”."
+        },
+        {
+          "label": "Situación delictiva en Iztapalapa",
+          "text": "Iztapalapa ha registrado históricamente índices de criminalidad superiores a la media de la capital, con iniciativas previas de seguridad que buscaban reducir robos y asaltos en zonas comerciales."
+        },
+        {
+          "label": "Preocupaciones de derechos humanos",
+          "text": "Diversas organizaciones de derechos humanos han manifestado inquietud respecto a la expansión de la videovigilancia mixta, advirtiendo sobre riesgos de vigilancia masiva y falta de garantías de privacidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "a5e77ccdc686",
+      "title": "Otra mini refinería",
+      "summary": "El Economista informa sobre el anuncio de una nueva mini refinería, destacando su posible repercusión en el sector energético nacional.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/mini-refineria-20260807-827143.html",
+      "published_at": "2026-08-07T08:08:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta la información de forma descriptiva y sin lenguaje cargado, sin citar fuentes controvertidas ni adoptar un tono partidista.",
+      "focus_analysis": "El artículo se centra en el aspecto económico e industrial de la mini refinería, omitiendo los posibles impactos ambientales y sociales.",
+      "focus_tags": [
+        "energía",
+        "industria",
+        "economía"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del sector",
+          "text": "En los últimos años, varios países de América Latina han impulsado la construcción de mini refinerías para reducir la dependencia de importaciones de combustibles."
+        },
+        {
+          "label": "Inversiones recientes",
+          "text": "El gobierno ha anunciado un programa de incentivos para proyectos de refinación a pequeña escala, con el objetivo de dinamizar la inversión privada en energía."
+        },
+        {
+          "label": "Posición de grupos ambientales",
+          "text": "Organizaciones ecologistas han expresado su preocupación por los posibles efectos contaminantes de nuevas instalaciones de refinación, pidiendo mayor regulación."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "292e8a971934",
+      "title": "José Cueli / II: El licenciado Vidriera",
+      "summary": "En la editorial de La Jornada Cultura, José Cueli analiza cómo Cervantes, a través del personaje de Tomás Rodaja, el licenciado Vidriera, emplea la locura para ofrecer una crítica satírica y mordaz de los distintos estratos sociales de su época. El autor destaca la agudeza del personaje como voz del pueblo que desafía a las clases poderosas sin temor a represalias.",
+      "category": "literatura",
+      "source_name": "La Jornada Cultura",
+      "source_url": "https://www.jornada.com.mx/2026/08/07/cultura/a04a1cul?partner=rss",
+      "published_at": "2026-08-07T08:19:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y literario sin cargar de palabras políticas ni citar fuentes con orientación ideológica, manteniéndose neutral en su análisis.",
+      "focus_analysis": "El medio elige centrarse en el ángulo literario y satírico, resaltando la función del personaje como crítico social, mientras deja de lado el contexto histórico‑cultural más amplio de la obra y su repercusión contemporánea.",
+      "focus_tags": [
+        "literatura satírica",
+        "crítica social",
+        "Cervantes"
+      ],
+      "context": [
+        {
+          "label": "Obra original",
+          "text": "El licenciado Vidriera es una novela corta de Miguel de Cervantes publicada en 1605, en la que Tomás Rodaja, tras creer que su cuerpo está hecho de cristal, habla con franqueza sobre la hipocresía y los abusos de la sociedad de la España del Siglo de Oro."
+        },
+        {
+          "label": "Figura del loco como verdad",
+          "text": "En la tradición literaria, el personaje del 'loco' suele usar para expresar verdades incómodas que los personajes 'normales' no se atreven a decir, una técnica que Cervantes emplea para criticar a la nobleza y al clero."
+        },
+        {
+          "label": "Relevancia contemporánea",
+          "text": "Autores y columnistas mexicanos actuales a menudo citan a Cervantes como antecedente de voces críticas que utilizan el humor y la ironía para denunciar desigualdades y corrupción en la sociedad moderna."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "03994b1b1059",
+      "title": "La otra cara de la Maratón de Buenos Aires: entrenamiento, sacrificio y sueños detrás de los 42 kilómetros",
+      "summary": "La Maratón de Buenos Aires, programada para el 20 de septiembre de 2026, reúne a corredoras argentinas como Chiara Mainetti y Carolina Rossi, quienes describen su entrenamiento, sacrificio y metas personales para competir en esta prueba de 42,195 km.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/07/la-otra-cara-de-la-maraton-de-buenos-aires-entrenamiento-sacrificio-y-suenos-detras-de-los-42-kilometros/",
+      "published_at": "2026-08-07T09:00:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en describir la preparación y experiencias de las atletas sin usar lenguaje cargado ni favorecer ninguna postura política; la cobertura es descriptiva y neutral.",
+      "focus_analysis": "El medio eló el ángulo humano y deportivo, resaltando los entrenamientos, sacrificios y sueños de las corredoras, mientras que aspectos económicos o institucionales del evento quedaron en segundo plano.",
+      "focus_tags": [
+        "entrenamiento",
+        "maratón",
+        "atletismo"
+      ],
+      "context": [
+        {
+          "label": "evento",
+          "text": "La Maratón de Buenos Aires es una de las carreras más relevantes de Sudamérica, con un recorrido urbano certificado de 42,195 km y miles de participantes cada año."
+        },
+        {
+          "label": "preparación",
+          "text": "La Media Maratón de Buenos Aires, prevista para el 23 de agosto, sirve como prueba previa que ayuda a las atletas a afinar su volumen, estrategia y recuperación antes de la maratón principal."
+        },
+        {
+          "label": "ámbito internacional",
+          "text": "Atletas argentinas como Chiara Mainetti y Carolina Rossi compiten en eventos internacionales (Rotterdam, Tokio, Alemania) y planifican metas a largo plazo, como la participación en Los Ángeles 2028."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "166fa5dcf8f6",
+      "title": "Google quiere que le puedas dar la paga a tu hijo a través de Google Wallet sin necesidad de que tenga cuenta bancaria",
+      "summary": "Google ha introducido una nueva función en Google Wallet que permite a los padres en Estados Unidos crear un saldo digital para sus hijos menores de 18 años sin que necesiten una cuenta bancaria, gestionado a través de la aplicación Family Link.",
+      "category": "tecnologia",
+      "source_name": "El Androide Libre",
+      "source_url": "https://www.elespanol.com/elandroidelibre/aplicaciones/20260807/google-quiere-puedas-dar-paga-hijo-traves-wallet-sin-necesidad-cuenta-bancaria/1003744346525_0.html",
+      "published_at": "2026-08-07T10:10:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la herramienta y sus características con un tono informativo y sin usar vocabulario cargado ni citar fuentes críticas, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el aspecto tecnológico y de conveniencia financiera para las familias, dejando de lado posibles discusiones sobre privacidad de datos y el impacto en la banca tradicional.",
+      "focus_tags": [
+        "pagos digitales",
+        "familias",
+        "Google Wallet"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Google Wallet",
+          "text": "Google Wallet, lanzado en 2018, ya permite pagos sin contacto y gestión de tarjetas digitales; la nueva función se integra con Family Link, la herramienta de control parental de Google."
+        },
+        {
+          "label": "Tendencia de pagos sin efectivo",
+          "text": "En los últimos años, el uso de efectivo ha disminuido en EE. UU., con un crecimiento sostenido de pagos móviles como Apple Pay y Samsung Pay, lo que ha impulsado a los proveedores a ofrecer soluciones para menores."
+        },
+        {
+          "label": "Regulación de servicios financieros para menores",
+          "text": "Las autoridades estadounidenses, como la Oficina de Protección Financiera del Consumidor (CFPB), han emitido guías que fomentan la educación financiera temprana y regulan productos que involucran a menores de 18 años."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "d7efe9df593c",
+      "title": "Un estudiante mata al menos a cinco personas en un tiroteo en un colegio de Tailandia",
+      "summary": "Un estudiante de 14 años en Tailandia abrió fuego en un colegio de la provincia de Nonthaburi, matando al menos a cinco personas, entre ellas profesores y personal del centro, después de asesinar a sus propios abuelos.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html",
+      "published_at": "2026-08-07T10:10:24+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos con lenguaje neutro y sin opiniones ni fuentes con carga ideológica, lo que indica una cobertura centrista.",
+      "focus_analysis": "El medio se centra en la tragedia inmediata y la identidad del agresor, omitiendo el debate sobre la legislación de armas y la seguridad escolar en Tailandia.",
+      "focus_tags": [
+        "tiroteo escolar",
+        "violencia armada",
+        "Tailandia"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de violencia armada en Tailandia",
+          "text": "Aunque Tailandia tiene históricamente bajos índices de tiroteos masivos, los últimos años han visto un aumento de incidentes con armas de fuego en instituciones educativas, lo que ha reavivado el debate público sobre la regulación de armas."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "Las autoridades tailandesas han anunciado revisiones a la normativa de armas y a los protocolos de seguridad en escuelas tras incidentes anteriores, pero los críticos señalan que la aplicación sigue siendo insuficiente."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros informes, como el de Euronews Español, destacan que el agresor mató primero a sus abuelos y que el caso reabre la discusión sobre la violencia armada en el país, mientras que DW Español subraya que el ataque ocurrió en una prestigiosa escuela pública de Nonthaburi, cerca de Bangkok."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "5d4031277b66",
       "title": "“Para mitigar mensajes de la derecha urge  volver a Rosario Castellanos”",
@@ -840,216 +1050,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "4d7fec59dac0",
-      "title": "De papas a chocolates: los comerciales más recordados de Luis Miguel en México",
-      "summary": "Luis Miguel, el cantante mexicano, ha sido la imagen de marcas como Sabritas, Coca‑Cola, Corona, Ferrero Rocher y Tequila Don Ramón durante más de cuatro décadas, convirtiéndose en uno de los rostros más emblemáticos de la publicidad en México.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/de-papas-a-chocolates-los-comerciales-mas-recordados-de-luis-miguel-en-mexico/",
-      "published_at": "2026-08-07T09:19:59+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto emplea un tono elogioso y resaltador de la trayectoria publicitaria del artista, sin presentar críticas ni opiniones contrapuestas, lo que indica un ligero sesgo positivo pero no político.",
-      "focus_analysis": "El medio eligió el ángulo cultural y de nostalgia, resaltando la presencia de Luis Miguel en la memoria colectiva y su asociación con marcas icónicas; quedó fuera el análisis económico del impacto de esas campañas y cualquier crítica a la estrategia publicitaria.",
-      "focus_tags": [
-        "publicidad mexicana",
-        "cultura pop",
-        "carrera musical"
-      ],
-      "context": [
-        {
-          "label": "carrera artística",
-          "text": "Luis Miguel, conocido como 'El Sol', ha desarrollado una carrera musical de más de 40 años, convirtiéndose en una de las figuras más reconocidas del pop latino y símbolo de la cultura mexicana."
-        },
-        {
-          "label": "celebridades en publicidad mexicana",
-          "text": "Desde los años 80, marcas como Sabritas, Coca‑Cola y Corona han utilizado a celebridades para reforzar su presencia en el mercado, una práctica habitual en la estrategia publicitaria de México."
-        },
-        {
-          "label": "marketing de nostalgia",
-          "text": "En los últimos años, varias compañías han revivido campañas con íconos del pasado para captar la atención de consumidores que valoran la nostalgia, como se evidencia en el regreso de Luis Miguel a la publicidad en 2026."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "d7efe9df593c",
-      "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia",
-      "summary": "Un estudiante de 15 años perpetró un tiroteo en un colegio de Tailandia, dejando al menos seis muertos entre alumnos y profesores, después de haber matado a sus propios abuelos.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html",
-      "published_at": "2026-08-07T08:31:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro y se limita a hechos policiales sin incluir opiniones ni carga emotiva, lo que indica una cobertura centrada.",
-      "focus_analysis": "El artículo se centra en la descripción del ataque y sus víctimas, omitiendo el contexto de la violencia armada y el debate sobre la regulación de armas en Tailandia.",
-      "focus_tags": [
-        "tiroteo escolar",
-        "violencia armada",
-        "Tailandia"
-      ],
-      "context": [
-        {
-          "label": "Contexto de violencia escolar",
-          "text": "Los tiroteos en escuelas son poco frecuentes en Tailandia, aunque el país ha registrado un aumento de incidentes de violencia armada en los últimos años."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Euronews informó que el ataque dejó al menos ocho muertos y 22 heridos, y destacó la reactivación del debate sobre la regulación de armas en el país."
-        },
-        {
-          "label": "Respuesta de autoridades",
-          "text": "Las fuerzas de seguridad tailandesas confirmaron que el agresor también asesinó a sus abuelos antes de dirigirse al centro educativo, y están investigando cómo obtuvo el arma."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "da3a89e26020",
-      "title": "INAH detecta extracción indebida de información tras incidente cibernético: denuncian ante FGR",
-      "summary": "El Instituto Nacional de Antropología e Historia de México informó que detectó actividad irregular en una cuenta administrativa que habría permitido la extracción de información confidencial de estudiantes con becas, y presentó una denuncia penal ante la Fiscalía General de la República.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/inah-detecta-extraccion-indebida-de-informacion-tras-incidente-cibernetico-denuncian-ante-fgr/",
-      "published_at": "2026-08-07T08:26:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo mantiene un tono meramente informativo, se limita a citar a la institución y a un periodista, y no emplea vocabulario cargado ni presenta opiniones políticas.",
-      "focus_analysis": "El medio destaca el ángulo institucional y de ciberseguridad del incidente, enfocándose en la respuesta del INAH y en las medidas de protección, mientras que el impacto directo sobre los estudiantes queda poco desarrollado.",
-      "focus_tags": [
-        "ciberseguridad",
-        "institucional",
-        "datos personales"
-      ],
-      "context": [
-        {
-          "label": "Rol del INAH",
-          "text": "El Instituto Nacional de Antropología e Historia es la dependencia mexicana encargada de la preservación del patrimonio cultural y también administra bases de datos de estudiantes becarios."
-        },
-        {
-          "label": "Ciberamenazas a entidades públicas",
-          "text": "En los últimos años, diversas instituciones gubernamentales en México han sido objetivo de ataques cibernéticos que han expuesto datos personales, lo que ha impulsado la revisión de sus protocolos de seguridad."
-        },
-        {
-          "label": "Incidentes similares de filtración de datos",
-          "text": "Recientemente, la Secretaría de Educación Pública sufrió una filtración de datos de alumnos, lo que generó denuncias y la implementación de nuevas medidas de protección de la información."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "a5e77ccdc686",
-      "title": "Otra mini refinería",
-      "summary": "El periódico El Economista informa que se ha anunciado la construcción de una nueva mini refinería, una instalación de menor escala destinada a procesar crudo y abastecer al mercado local.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/cartones/mini-refineria-20260807-827143.html",
-      "published_at": "2026-08-07T08:08:06+00:00",
-      "bias_score": 0,
-      "bias_reason": "El contenido se reduce a un titular sin adjetivos cargados ni fuentes citadas, lo que indica una presentación objetiva y neutra.",
-      "focus_analysis": "El medio destaca el aspecto económico de la nueva instalación, mientras omite los posibles impactos ambientales y sociales.",
-      "focus_tags": [
-        "energía",
-        "industria",
-        "economía"
-      ],
-      "context": [
-        {
-          "label": "sector petrolero mexicano",
-          "text": "México ha impulsado la construcción de mini refinerías para reducir la dependencia de importaciones de combustibles y reforzar la seguridad energética."
-        },
-        {
-          "label": "política gubernamental",
-          "text": "El gobierno mexicano ha implementado incentivos y regulaciones para fomentar la producción interna de energía y la modernización de la infraestructura petrolera."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "Otros periódicos, como Expansión, han señalado que las mini refinerías pueden generar controversias por sus efectos ambientales y la necesidad de cumplir con normas de emisión."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "677f2639fcb6",
-      "title": "Los secretos detrás de la increíble consagración de Paula Pareto en los Juegos Olímpico: “Por mí viviría en ese momento”",
-      "summary": "Paula Pareto, judoka argentina, se convirtió en la primera mujer de su país en ganar una medalla de oro olímpica al vencer a la surcoreana Bokyeong Jeong en la final de los 48 kg en Río 2016, un hecho que marcó un hito histórico para el deporte nacional.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/07/los-secretos-detras-de-la-increible-consagracion-de-paula-pareto-en-los-juegos-olimpico-por-mi-viviria-en-ese-momento/",
-      "published_at": "2026-08-07T06:30:20+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono emotivo y patriótico, resaltando la gloria argentina y la figura de Pareto sin presentar críticas ni perspectivas externas, lo que indica una ligera inclinación hacia la exaltación nacional.",
-      "focus_analysis": "El medio eligió un enfoque humano y de orgullo nacional, resaltando la historia personal de Pareto y la reacción del público argentino, mientras deja de lado un análisis técnico del judo o de la política deportiva.",
-      "focus_tags": [
-        "deporte nacional",
-        "logro histórico",
-        "judo femenino"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes olímpicos de Argentina",
-          "text": "Argentina había participado en los Juegos Olímpicos desde 1900, pero su primera medalla de oro femenina llegó en 2016 gracias a Paula Pareto, convirtiéndose en un símbolo de avance para las mujeres en el deporte del país."
-        },
-        {
-          "label": "Historia del judo femenino en Argentina",
-          "text": "El judo se introdujo en Argentina en la década de 1960 y, pese a los éxitos en panamericanos, la medalla de oro de Pareto fue la primera a nivel olímpico, superando a atletas como Irina Dolgova y Eva Csernovickzki."
-        },
-        {
-          "label": "Reacción mediática y social",
-          "text": "Los medios argentinos y la población celebraron la victoria de Pareto como un hito nacional, generando un amplio reconocimiento y fomentando la participación femenina en disciplinas olímpicas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "84f0506f6d0e",
-      "title": "Ten cuidado con las gafas que compres para ver el eclipse, no todas sirven y las consecuencias pueden ser muy graves",
-      "summary": "Hipertextual advierte que sólo las gafas homologadas bajo la norma ISO 12312‑2 y con marcado CE garantizan una observación segura del eclipse solar del 12 de agosto, y alerta sobre los riesgos de usar productos no certificados.",
-      "category": "sociedad",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/ciencia/gafas-eclipse/",
-      "published_at": "2026-08-07T08:31:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono informativo y objetivo, sin vocabulario cargado ni selección de fuentes que favorezcan una posición ideológica; se limita a describir riesgos y requisitos técnicos.",
-      "focus_analysis": "El medio se centra en la seguridad ocular y la guía de compra de gafas certificadas, dejando de lado la explicación científica del fenómeno o su significado cultural.",
-      "focus_tags": [
-        "seguridad ocular",
-        "gafas homologadas",
-        "eclipse solar"
-      ],
-      "context": [
-        {
-          "label": "Riesgo ocular",
-          "text": "Mirar directamente al Sol sin protección puede causar quemaduras en la retina, provocando pérdida permanente de la visión."
-        },
-        {
-          "label": "Normativa de seguridad",
-          "text": "Las gafas deben cumplir la norma ISO 12312‑2 y llevar el marcado CE para ser consideradas seguras para la observación solar."
-        },
-        {
-          "label": "Cobertura comercial en otros medios",
-          "text": "Otros medios, como Xataka, enfatizan ofertas y descuentos en supermercados y plataformas online, subrayando el aspecto comercial del producto."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
