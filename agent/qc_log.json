@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-07T14:01:05.660662+00:00",
-      "title": "Inflación baja a 3.12% en julio; mantiene tendencia a la baja",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque la referencia a 'otros medios' podría especificarse más.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:01:12.360570+00:00",
-      "title": "‘GTA 6’: Take-Two insiste en que no se retrasará de nuevo y quiere que tú también confíes",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero la falta de verificación del dato del lanzamiento y la ausencia de fuentes múltiples reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:01:22.281416+00:00",
-      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura, pero carece de precisión factual y objetividad, lo que limita su calidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:01:26.356295+00:00",
-      "title": "Tiroteo en Tailandia: Adolescente de 14 años mata a sus abuelos y a 5 personas en un colegio",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero necesita mayor precisión factual y fuentes más contrastadas para reforzar su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:01:31.998985+00:00",
-      "title": "Enjambre cerrará el mes con dos fechas: disponibilidad y posible setlist de los conciertos en el Est",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada del anuncio del concierto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:01:37.308384+00:00",
-      "title": "Taiwán pone a prueba su respuesta de emergencia con un simulacro de ataque aéreo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y objetivo, con buena estructura y actualidad; sólo necesita mayor precisión en fuentes y datos verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:20:39.916657+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta graves problemas de veracidad y parcialidad, aunque cumple con la actualidad y la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:20:45.964919+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno ha registrado ya a 1.342 ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero la falta de fuentes contrastantes y la ausencia de verificación clara de los datos afectan su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:20:51.417058+00:00",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy viernes 7 de agosto: se esperan lluvias y chubascos en el",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de alta calidad editorial, con información veraz, objetiva y actual, aunque podría mejorar citando directamente la fuente meteorológica para mayor precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:20:56.838857+00:00",
-      "title": "Sheinbaum destaca reducción de la inflación en México; celebra baja a 3.12% en julio",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y presenta fuentes contrastadas, aunque el tono ligeramente favorable reduce ligeramente la puntuación de objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:21:02.974120+00:00",
-      "title": "Tengo claro que Apple TV está haciendo las mejores series de ciencia ficción ahora mismo. Estas son ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, presenta información verificable y estructurada, y aunque es promocional, está claramente identificado y contextualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:21:09.627587+00:00",
-      "title": "La respuesta de Lionel Messi cuando le consultaron si su hijo Thiago se sumaría a La Masia, las juve",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y estructurado, pero la falta de verificación y de fuentes contrastantes reduce su fiabilidad periodística.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T14:21:19.836541+00:00",
-      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información verificable, fuentes fiables y una presentación estructurada y objetiva.",
-      "error": null
-    },
-    {
       "at": "2026-08-07T14:21:26.435517+00:00",
       "title": "IA y ciberseguridad son las prioridades tecnológicas de las empresas en México y el mundo",
       "kind": "noticia",
@@ -3398,6 +3177,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de una noticia informativa y oportuna, aunque podría mejorar la citación de fuentes y la neutralidad en algunas afirmaciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:08.767486+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.2,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 8,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad; se recomienda rechazar su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:19.595796+00:00",
+      "title": "Ser universitario",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero la falta de citas de fuentes primarias y de voces contrapuestas limita su veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:23.877627+00:00",
+      "title": "Jornada Nacional de Reforestación 2026: Cómo registrarse para ser voluntario",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzarse con fuentes adicionales para mayor verificación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:28.928277+00:00",
+      "title": "Detienen al exgobernador Ángel Aguirre por presunta desaparición forzada en el caso Ayotzinapa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo cumple en gran medida con los estándares de objetividad y actualidad, pero la falta de fuentes verificables y la inclusión de un medio ficticio limitan su precisión y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:35.885669+00:00",
+      "title": "Google va a quitar una de las mejores cosas de Google Drive para ordenador: haz esto para no perder ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes verificables y el tono sesgado reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:41.961929+00:00",
+      "title": "Los delfines en cautiverio: un problema legal en México | Mongabay",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado y bien estructurado, pero la imposibilidad de confirmar los hechos de 2025 reduce su puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:46.449116+00:00",
+      "title": "Gerónimo Rulli viaja a Inglaterra para la revisión médica: firmará contrato por dos años en el Manch",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la verificación de cifras y la inclusión de fuentes directas para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:55:53.344936+00:00",
+      "title": "Nissan March vs. Chevrolet Aveo Hatchback: qué ofrece cada uno por menos de 276,000 pesos",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de fuentes verificables para los datos técnicos reduce ligeramente la puntuación de veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:56:04.810144+00:00",
+      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura, pero carece de verificabilidad completa y de objetividad, y la falta de fuentes múltiples limita su contraste. No se recomienda publicar como noticia objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:56:11.619049+00:00",
+      "title": "México y Perú alistan reapertura de embajadas tras reconciliación diplomática",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero la precisión de los hechos y la falta de fuentes contrastantes limitan su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:56:16.092631+00:00",
+      "title": "Informe desde Beirut: plan de desarme de Hezbolá se estanca un año después",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y objetivo, pero le falta contraste de fuentes y mayor respaldo de datos para lograr una cobertura completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:56:22.912606+00:00",
+      "title": "\"Llévate solo el móvil y la crema\": el aviso de la Policía Nacional para que dejes el DNI físico en ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es mayormente objetivo y actual, pero presenta datos legales no verificados y falta de fuentes múltiples, lo que afecta su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T17:56:28.705613+00:00",
+      "title": "¡Tetracampeonas! Sub 23 conquista el oro en futbol femenil de los Centroamericanos",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, objetiva y bien estructurada.",
       "error": null
     }
   ]
