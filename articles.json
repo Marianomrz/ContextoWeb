@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-07T13:24:22.478758+00:00",
+  "generated_at": "2026-08-07T13:41:37.987235+00:00",
   "articles": [
+    {
+      "id": "14d3cf094105",
+      "title": "Tener chips propios de IA es la última gran obsesión de las grandes tecnológicas. Anthropic no va a ser menos",
+      "summary": "Anthropic ha anunciado la creación de un equipo interno para diseñar sus propios chips de inteligencia artificial, con el objetivo de reducir la dependencia de proveedores externos y optimizar el rendimiento de su modelo Claude, mientras mantiene una estrategia multichip que incluye a AWS, Google, Nvidia y AMD.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/robotica-e-ia/tener-chips-propios-ia-ultima-gran-obsesion-grandes-tecnologicas-anthropic-no-va-a-ser",
+      "published_at": "2026-08-07T13:31:16+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y cite fuentes como Business Insider, Reuters y The Information, sin usar vocabulario cargado ni favorecer una postura política o empresarial.",
+      "focus_analysis": "El artículo se centra en el aspecto tecnológico y estratégico de la industria de IA, resaltando la carrera por el desarrollo de hardware propio; deja de lado el impacto social o laboral de esta tendencia.",
+      "focus_tags": [
+        "chips IA",
+        "competencia tecnológica",
+        "estrategia de hardware"
+      ],
+      "context": [
+        {
+          "label": "Tendencia del sector",
+          "text": "Diversas compañías de IA, como OpenAI con su chip Jalapeño, Google con sus TPU y Meta con los aceleradores MTIA, están invirtiendo en la creación de hardware propio para disminuir la dependencia de proveedores externos."
+        },
+        {
+          "label": "Problema de escasez de chips",
+          "text": "El rápido crecimiento de modelos como Claude ha generado una mayor demanda de chips de alta capacidad, lo que ha puesto en tensión la cadena de suministro de semiconductores para empresas de IA."
+        },
+        {
+          "label": "Posición de Nvidia",
+          "text": "A pesar del auge de los chips personalizados, Nvidia sigue siendo el principal proveedor de aceleradores para IA, y muchas empresas, incluida Anthropic, continúan utilizándolo dentro de una estrategia multichip."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "95be669b7679",
+      "title": "Guillermo Almada critica el formato de la Leagues Cup tras triunfo del América sobre San Diego FC",
+      "summary": "El entrenador uruguayo Guillermo Almada, del Club América de México, elogió la victoria 3-1 sobre San Diego FC en la Leagues Cup 2026 y pidió que el torneo tenga un reparto más equilibrado de partidos entre México y Estados Unidos, además de comentar sobre posibles refuerzos para su plantel.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/07/guillermo-almada-critica-el-formato-de-la-leagues-cup-tras-triunfo-del-america-sobre-san-diego-fc/",
+      "published_at": "2026-08-07T13:38:16+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto utiliza un tono mayoritariamente informativo y cita al entrenador sin emplear adjetivos cargados ni favorecer a ninguna posición política; la única inclinación es una ligera preferencia por el club, típica de la cobertura deportiva.",
+      "focus_analysis": "El artículo se centra en la perspectiva del entrenador, resaltando el desempeño del equipo y la crítica al formato del torneo, mientras deja de lado la reacción de los aficionados y el contexto más amplio de la relación entre Liga MX y MLS.",
+      "focus_tags": [
+        "deporte",
+        "formato torneo",
+        "transferencias"
+      ],
+      "context": [
+        {
+          "label": "Formato de la Leagues Cup",
+          "text": "La Leagues Cup es una competencia binacional que enfrenta a clubes de la Liga MX y la MLS, y ha sido criticada por la distribución desigual de partidos como locales y visitantes."
+        },
+        {
+          "label": "Rendimiento reciente del América",
+          "text": "Club América ha buscado reforzar su posición en torneos internacionales tras varios resultados mixtos en la temporada, y la victoria 3-1 contra San Diego FC marca un inicio positivo en la edición 2026."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios como La Jornada Deportes destacaron la victoria como una muestra del nivel del fútbol mexicano, enfocándose en el orgullo nacional más que en la discusión sobre el formato del torneo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4471f3c1313c",
+      "title": "Gerónimo Rulli viaja a Manchester para la revisión médica: firmará contrato por dos años en el club de la Premier League",
+      "summary": "El arquero argentino Gerónimo Rulli viajará a Manchester para su revisión médica y firmará un contrato de dos años con el Manchester City de la Premier League, dejando el Olympique de Marsella que busca reducir su masa salarial.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/07/geronimo-rulli-viaja-a-manchester-para-la-revision-medica-firmara-contrato-por-dos-anos-en-el-club-de-la-premier-league/",
+      "published_at": "2026-08-07T13:15:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del traspaso y la situación financiera del club sin usar lenguaje cargado ni fuentes con sesgo político.",
+      "focus_analysis": "El artículo se centra en el aspecto institucional del fichaje y la gestión económica de los clubes, dejando de lado la dimensión humana o personal del jugador.",
+      "focus_tags": [
+        "transfer",
+        "Premier League",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Situación financiera del Olympique Marsella",
+          "text": "El club francés ha atravesado una crisis económica que le obliga a vender jugadores para aligerar su masa salarial, razón por la cual ha aceptado la salida de Rulli antes de que finalice su contrato en 2027."
+        },
+        {
+          "label": "Jerarquía de arqueros en Manchester City",
+          "text": "Manchester City cuenta con Gianluigi Donnarumma como portero titular, mientras que Rulli llegaría como segunda opción, complementando a los jóvenes talentos como James Trafford."
+        },
+        {
+          "label": "Trayectoria de Gerónimo Rulli",
+          "text": "Rulli, de 34 años, ha jugado en clubes europeos como Ajax, Montpellier, Villarreal y Olympique Marsella, y ha sido suplente en la selección argentina en torneos como la Copa América 2024 y el Mundial de Qatar 2022."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "f6fed375dfc8",
+      "title": "Adolescente mata a sus abuelos y profesores en tiroteo en Tailandia; reportan 5 muertos y decenas de heridos",
+      "summary": "Un adolescente de 14 años en Tailandia mató a sus dos abuelos y luego, armado con la pistola de su abuelo, abrió fuego contra profesores y personal de la escuela Debsirin en Nonthaburi, dejando al menos cinco fallecidos y decenas de heridos antes de suicidarse.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/adolescente-mata-a-sus-abuelos-y-profesores-en-tiroteo-en-tailandia-reportan-5-muertos-y-decenas-de-heridos/",
+      "published_at": "2026-08-07T13:27:59+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva, citando autoridades y familiares sin usar lenguaje cargado ni seleccionar fuentes con inclinación política.",
+      "focus_analysis": "El medio se centra en la violencia del tiroteo y la supuesta presión académica, dejando fuera la discusión sobre políticas de armas y salud mental en Tailandia.",
+      "focus_tags": [
+        "tiroteo escolar",
+        "presión académica",
+        "violencia en Tailandia"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de violencia armada en Tailandia",
+          "text": "Tailandia registra muy pocos tiroteos escolares; el incidente de 2026 es el más grave en casi cuatro años, según autoridades locales."
+        },
+        {
+          "label": "cobertura internacional",
+          "text": "Otros medios como Euronews y El País informaron que el atacante también mató a sus abuelos y que el número de fallecidos podría ser mayor, reabriendo el debate sobre la violencia armada en el país."
+        },
+        {
+          "label": "presión académica y salud mental",
+          "text": "El primer ministro tailandés señaló que el joven sufría de estrés académico por la presión de sus abuelos para obtener buenas notas, un factor citado como posible motivación del ataque."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "543bd4cb2a83",
+      "title": "Zara hizo millonario a Amancio Ortega. Pontegadea lo ha metido en un club más selecto: el de las mayores family offices del mundo",
+      "summary": "Amancio Ortega, fundador de Zara y mayor accionista de Inditex, ha convertido su family office Pontegadea en una de las diez mayores gestoras de patrimonios privados del mundo, con activos estimados entre 100 y 110 mil millones de euros, impulsados por los dividendos de su imperio textil.",
+      "category": "economia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/empresas-y-economia/zara-hizo-millonario-a-amancio-ortega-pontegadea-ha-metido-club-selecto-mayores-family-offices-mundo",
+      "published_at": "2026-08-07T13:31:16+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto se mantiene descriptivo y objetivo, centrado en datos de rankings y cifras sin usar lenguaje cargado ni presentar opiniones políticas; la única ligera inclinación es la valoración positiva del éxito empresarial.",
+      "focus_analysis": "El artículo se enfoca en el ángulo económico‑financiero, resaltando la magnitud de la fortuna y la estrategia de inversión inmobiliaria de Ortega, mientras deja fuera el impacto social o la discusión sobre la desigualdad de riqueza.",
+      "focus_tags": [
+        "family office",
+        "inversiones inmobiliarias",
+        "fortuna global"
+      ],
+      "context": [
+        {
+          "label": "Modelo de dividendos de Inditex",
+          "text": "Inditex reparte anualmente dividendos que representan aproximadamente 3 mil millones de euros para Ortega, y que son reinvertidos íntegramente a través de Pontegadea, financiando su expansión inmobiliaria."
+        },
+        {
+          "label": "Comparación con otras grandes family offices",
+          "text": "Según RankiaPro, Pontegadea ocupa la décima posición mundial, situándose cerca de la familia de Bill Gates (Cascade Investment) y de Sergey Brin (Bayshore Global Management), pero por debajo de gigantes como Walton Enterprises y Groupe Arnault."
+        },
+        {
+          "label": "Regulación europea de grandes accionistas",
+          "text": "En la UE, los accionistas con más del 5 % de una empresa deben notificar a la CNMV antes de vender acciones y respetan un periodo de 30 días sin operar, lo que limita la capacidad de Ortega para liquidar rápidamente su participación en Inditex."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "ed1cc6a62395",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy viernes 7 de agosto: el SMN alerta por lluvias fuertes en gran parte del territorio",
+      "summary": "El Servicio Meteorológico Nacional (SMN) de México emitió una alerta para lluvias fuertes en gran parte del territorio, advirtiendo sobre posibles inundaciones, deslizamientos y vientos intensos.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/07/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-7-de-agosto/",
+      "published_at": "2026-08-07T13:39:24+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos y recomendaciones de seguridad, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centra en el aspecto meteorológico y de riesgos para la población, dejando de lado impactos económicos o sociales más amplios.",
+      "focus_tags": [
+        "clima",
+        "alerta de lluvias",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "Servicio Meteorológico Nacional",
+          "text": "El SMN es la autoridad oficial que elite pronósticos y alertas en México, y publica avisos de lluvias intensas durante la temporada de verano."
+        },
+        {
+          "label": "Restricciones de circulación vehicular",
+          "text": "El mismo viernes, la autoridad de tránsito de la CDMX y el Estado de México implementó la medida 'Hoy No Circula', que prohíbe el paso de ciertos automóviles para reducir la contaminación y mejorar la seguridad en la capital."
+        },
+        {
+          "label": "Impacto histórico de lluvias fuertes",
+          "text": "En años anteriores, alertas similares de lluvias intensas han provocado inundaciones y deslizamientos en regiones como Nayarit y Jalisco, activando protocolos de Protección Civil."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "41511443ea07",
       "title": "María José conquista el Auditorio Nacional: anuncia nuevo álbum y más conciertos",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "fc0f0406be69",
-      "title": "400 kilómetros, 15 metros de altura y 12.000 millones de dólares: el \"gran muro\" que Japón ha levantado frente a los tsunamis",
-      "summary": "El gobierno japonés ha concluido la construcción de un sistema de diques de hormigón de casi 400 kilómetros de longitud y hasta 15,5 metros de altura, con un costo de entre 12 y 17 mil millones de dólares, destinado a frenar los tsunamis y ganar tiempo para la evacuación de la población costera.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/400-kilometros-15-metros-altura-12-000-millones-dolares-asi-gran-muro-que-japon-ha-levantado-para-hacer-frente-a-tsunamis",
-      "published_at": "2026-08-07T12:31:16+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta datos técnicos y citas tanto de ingenieros como de vecinos y ecologistas, sin usar un lenguaje cargado ni favorecer una postura política específica.",
-      "focus_analysis": "El medio se centra en la dimensión tecnológica y de seguridad de la obra, describiendo su diseño y pruebas, mientras que deja de lado el análisis profundo de los costos presupuestarios y la política de gestión de riesgos del gobierno.",
-      "focus_tags": [
-        "infraestructura costera",
-        "seguridad sísmica",
-        "controversia local"
-      ],
-      "context": [
-        {
-          "label": "antecedentes del desastre",
-          "text": "El terremoto y tsunami de 2011 en la región de Tohoku provocó más de 20 000 fallecidos y superó los diques costeros existentes, que sólo soportaban olas de hasta 8 metros."
-        },
-        {
-          "label": "historia de defensas costeras en Japón",
-          "text": "Japón ha construido muros costeros desde el siglo XIX, como el muro de Tarō de 2,4 kilómetros y 10 metros de altura tras los tsunamis de 1896 y 1933, y la compuerta de Fudai de 15,5 metros en los años setenta."
-        },
-        {
-          "label": "comparación internacional",
-          "text": "Otros países también han invertido en grandes obras de protección contra inundaciones, como los diques de los Países Bajos, que combinan infraestructura masiva con gestión ambiental y participación comunitaria."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "9b718cc3e399",
-      "title": "El programa de Yolanda Díaz para liderar la OIT defiende una carta de derechos laborales mínimos para todos los países",
-      "summary": "La vicepresidenta de España, Yolanda Díaz, presenta su programa para liderar la Organización Internacional del Trabajo (OIT) y propone una carta de derechos laborales mínimos que se aplicaría a todos los países mediante el diálogo entre gobiernos, empresas y trabajadores.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/economia/2026-08-07/el-programa-de-yolanda-diaz-para-liderar-la-oit-defiende-una-carta-de-derechos-laborales-minimos-para-todos-los-paises.html",
-      "published_at": "2026-08-07T11:31:00+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto usa un tono favorable, resaltando la defensa de derechos sin incluir voces críticas ni datos que cuestionen la propuesta, lo que refleja una alineación con la postura progresista de la fuente.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y de derechos laborales de la candidatura, dejando de lado el posible impacto económico o la oposición de sectores empresariales.",
-      "focus_tags": [
-        "derechos laborales",
-        "OIT",
-        "política laboral"
-      ],
-      "context": [
-        {
-          "label": "Organización Internacional del Trabajo",
-          "text": "La OIT es una agencia de la ONU que promueve normas internacionales del trabajo y la justicia social mediante la cooperación entre gobiernos, empleadores y trabajadores."
-        },
-        {
-          "label": "Reformas laborales previas en España",
-          "text": "Bajo gobiernos socialdemócratas, España ha impulsado reformas que fortalecen la protección de los trabajadores, como la reducción de la temporalidad y la ampliación de la negociación colectiva."
-        },
-        {
-          "label": "Críticas de sectores empresariales",
-          "text": "Algunos grupos empresariales han advertido que la imposición de normas laborales mínimas a nivel global podría aumentar los costos operativos y reducir la competitividad."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "b1d106a02c22",
-      "title": "El plan del Inter Miami con Lionel Messi para mantenerlo vinculado al club después de su retiro",
-      "summary": "El club de fútbol Inter Miami, de la Major League Soccer de EE. UU., ha anunciado un plan para mantener a Lionel Messi vinculado a la organización tras su retiro, ofreciéndole una futura posición como accionista. El presidente de Negocios del equipo, Xavier Asensi, explicó que, aunque los estatutos actuales impiden que Messi sea propietario mientras sea jugador, después de colgar los botines podrá participar en la gestión del club.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/07/el-plan-del-inter-miami-con-lionel-messi-para-mantenerlo-vinculado-al-club-despues-de-su-retiro/",
-      "published_at": "2026-08-07T10:47:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la estrategia del club y los aspectos comerciales sin usar un cargado ni citar fuentes con sesgo político; el tono es informativo y neutral.",
-      "focus_analysis": "El medio se centró en la dimensión institucional y económica del plan de Inter Miami, resaltando el impacto comercial y la estructura de propiedad futura; el aspecto humano de la decisión personal de Messi recibió menor atención.",
-      "focus_tags": [
-        "estrategia club",
-        "legado Messi",
-        "MLS expansión"
-      ],
-      "context": [
-        {
-          "label": "Antecedente deportivo",
-          "text": "Lionel Messi fichó por Inter Miami en 2023, lo que incrementó notablemente la visibilidad y los ingresos del club y de la MLS en general."
-        },
-        {
-          "label": "Regulación de la MLS",
-          "text": "Los estatutos de la Major League Soccer prohíben que los jugadores activos posean acciones del club, aunque permiten la participación como propietarios una vez que se retiran."
-        },
-        {
-          "label": "Ejemplo similar",
-          "text": "Otros futbolistas retirados, como David Beckham, han pasado a roles de gestión o propiedad en clubes estadounidenses, sirviendo de precedente para la transición de Messi."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "2707895b8709",
-      "title": "Portada impresa del 7 de agosto de 2026",
-      "summary": "El Universal publicó su edición impresa del 7 de agosto de 2026, disponible para suscriptores.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/portada-impresa/portada-impresa-del-7-de-agosto-de-2026/",
-      "published_at": "2026-08-07T11:57:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es meramente informativo y no contiene opiniones ni carga política.",
-      "focus_analysis": "El medio se centró en anunciar la disponibilidad de su edición impresa, sin abordar contenidos ni contextos políticos.",
-      "focus_tags": [
-        "medios",
-        "edición impresa",
-        "suscripción"
-      ],
-      "context": [
-        {
-          "label": "Medio",
-          "text": "El Universal es uno de los principales diarios de México, con amplia circulación y presencia digital."
-        },
-        {
-          "label": "Impresión",
-          "text": "A pesar de la creciente digitalización, la edición impresa sigue ofreciendo a los suscriptores una versión física del periódico."
-        },
-        {
-          "label": "Suscripción",
-          "text": "Los lectores pueden acceder a la edición completa mediante una suscripción paga, práctica común entre los medios mexicanos."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "38deae60ef48",
-      "title": "Afectaciones de este momento en las líneas del Metrobús hoy día",
-      "summary": "El Metrobús de la Ciudad de México informa que, en el día de hoy, sus siete líneas operan con servicio regular y sin estaciones afectadas, según la actualización horaria publicada por la autoridad del sistema.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/afectaciones-de-este-momento-en-las-lineas-del-metrobus-hoy-dia/",
-      "published_at": "2026-08-07T12:15:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir datos operativos sin usar adjetivos cargados ni citar fuentes con sesgo, manteniendo un tono informativo objetivo.",
-      "focus_analysis": "El medio se centra en proporcionar a los usuarios información práctica sobre el estado del servicio del Metrobús, omitiendo análisis sobre políticas de transporte, financiamiento o impactos de tráfico.",
-      "focus_tags": [
-        "transporte público",
-        "estado del servicio",
-        "CDMX"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "El Metrobús, inaugurado en 2005, es el segundo medio de transporte más utilizado en la Ciudad de México después del Metro, con más de 22 millones de usuarios al año según el INEGI."
-        },
-        {
-          "label": "estructura",
-          "text": "El sistema cuenta con siete líneas, 125 km de recorrido y 283 estaciones, y ofrece tarifas fijas de $6 pesos, con gratuidad para adultos mayores, personas con discapacidad y niños menores de cinco años."
-        },
-        {
-          "label": "operación",
-          "text": "El horario de operación es de lunes a viernes de 4:30 a 24:00 y los fines de semana de 5:00 a 24:00, y los transbordos son gratuitos dentro de las dos primeras horas de ingreso al sistema."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a68206b62680",
-      "title": "Petróleo cae levemente mientras mercado sopesa posible acuerdo sobre el estrecho de Ormuz",
-      "summary": "Los precios del petróleo cayeron ligeramente mientras los inversores analizan la posible reapertura del estrecho de Ormuz, tras señales de un acuerdo temporal entre Irán y los países del Golfo que buscaría facilitar negociaciones más amplias para terminar el conflicto regional.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/mercados/petroleo-cae-levemente-mercado-sopesa-posible-acuerdo-sobre-estrecho-ormuz-20260807-827147.html",
-      "published_at": "2026-08-07T12:14:03+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto se centra en datos de mercado y citas de analistas financieros, usando un tono mayormente objetivo; sin embargo, al destacar la postura de Trump y la dificultad política del acuerdo, muestra una ligera inclinación hacia la perspectiva occidental.",
-      "focus_analysis": "El medio eligió un ángulo económico, resaltando la caída de los precios del crudo y la valoración del mercado, dejando de lado los posibles impactos ambientales y humanitarios del conflicto en la región.",
-      "focus_tags": [
-        "precios del petróleo",
-        "geopolítica del estrecho",
-        "mercados energéticos"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "El estrecho de Ormuz es una vía marítima estratégica por la que transita aproximadamente una quinta parte del petróleo mundial, por lo que cualquier interrupción afecta los precios internacionales del crudo."
-        },
-        {
-          "label": "dato comparable",
-          "text": "Durante los primeros meses de la guerra en febrero, los precios del Brent y del WTI subieron más de 3 dólares en un día, reflejando la sensibilidad del mercado a tensiones en el estrecho."
-        },
-        {
-          "label": "postura de otros medios",
-          "text": "Mientras El Economista se concentra en la reacción del mercado, France24 destaca la declaración de Donald Trump sobre la pronta reapertura, Euronews enfatiza la inseguridad persistente pese al acuerdo Irán‑Omán, y la BBC alerta sobre riesgos de especies invasoras tras la reanudación del tráfico marítimo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
