@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-07T02:02:22.604755+00:00",
-      "title": "Una verdad totalmente Palacio",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de rigor factual y de fuentes contrastadas, pese a su actualidad; necesita mayor evidencia y equilibrio para cumplir con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:02:27.029869+00:00",
-      "title": "Tamaulipas reporta 6,906 colocaciones laborales en el 2026",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido, con buena objetividad y actualidad, aunque la verificación de los números podría reforzarse con fuentes más explícitas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:20:44.919574+00:00",
-      "title": "Una hoja de arce y el susurro del haiku: Bashō en el ahora",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 9,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares literarios, ofreciendo una experiencia estética y reflexiva, pese a algunos tópicos habituales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:20:49.166389+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero presenta graves errores de veracidad y falta de objetividad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:20:52.455671+00:00",
-      "title": "¿Qué ver?: \"Cuenta conmigo\", un clásico sobre la madurez  adolescente",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 10,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y aunque es una recomendación, mantiene objetividad y suficiente contexto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:21:02.561415+00:00",
-      "title": "Abdul El-Sayed: la victoria electoral de un musulmán que mortifica a Trump",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es puntual y está bien estructurado, pero el uso de expresiones sensacionalistas y la falta de algunas fuentes reducen su precisión factual y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:21:07.521675+00:00",
-      "title": "Deja cargo en Seguridad Pública de Sinaloa el general Humberto Zerón",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de fuentes múltiples limita ligeramente su robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:21:12.309116+00:00",
-      "title": "La increíble anécdota de Facundo Medina con un gomero que no lo reconoció y le habló sobre las teorí",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 8,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta problemas graves de veracidad y falta de fuentes múltiples, aunque está bien estructurado y es reciente; necesita mayor rigor factual antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:21:19.135087+00:00",
-      "title": "Texas pausa todos los nuevos centros de datos: Abbott decreta una auditoría ante 474 GW de solicitud",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado para publicación, pero la escasa variedad de fuentes y la falta de verificación de datos clave reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T02:21:29.576863+00:00",
-      "title": "El resistente Olmo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la estructura y la actualidad son buenas, la falta de veracidad y de fuentes contrastadas hace que el paquete no cumpla los estándares editoriales.",
-      "error": null
-    },
-    {
       "at": "2026-08-07T02:21:36.584448+00:00",
       "title": "Vela y Pentatlón, la corona de oro de México en Juegos Centroamericanos",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, actual y presentada de forma objetiva y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:20:34.647065+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad requeridos para una noticia informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:20:38.144485+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno pide la comparecencia de ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero necesita mayor diversidad de fuentes para equilibrar el contraste de perspectivas en un tema político.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:20:42.792605+00:00",
+      "title": "Clima en Monterrey hoy: el pronóstico para el viernes 7 de agosto de 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, cumple con precisión, objetividad y estructura, y presenta fuentes contrastadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:20:48.791306+00:00",
+      "title": "Apple ha lanzado nuevas versiones de macOS incluso para los Mac antiguos. La razón es un fallo de se",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de objetividad y actualidad, aunque la veracidad y el contraste de fuentes podrían reforzarse con fuentes primarias y datos verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:20:55.300293+00:00",
+      "title": "Tenoch Huerta tardó un sexenio para volver con Namor",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra buena estructura y neutralidad, pero la precisión de los datos y la falta de fuentes múltiples requieren verificación antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:20:59.217073+00:00",
+      "title": "Los secretos detrás de la increíble consagración de Paula Pareto en los Juegos Olímpico: “Por mí viv",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contextualizada del logro deportivo de Paula Pareto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:21:09.658724+00:00",
+      "title": "Espliego, que no faneca (II)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque la ausencia de datos verificables limita ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:21:14.481756+00:00",
+      "title": "México ante el nuevo orden comercial global",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con actualidad y estructura invertida, pero le falta contraste de fuentes y mayor verificabilidad de los datos presentados.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:21:19.413985+00:00",
+      "title": "4 maestros muertos en un tiroteo en una escuela de Tailandia que se atribuye a un alumno de 14 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; es una pieza informativa bien estructurada y contrastada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T07:21:23.806883+00:00",
+      "title": "Clima en Cancún hoy: el pronóstico para el viernes 7 de agosto de 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información precisa, objetiva y bien estructurada.",
       "error": null
     }
   ]
