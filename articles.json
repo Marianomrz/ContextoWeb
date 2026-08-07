@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-07T08:21:59.477826+00:00",
+  "generated_at": "2026-08-07T08:36:30.438579+00:00",
   "articles": [
+    {
+      "id": "2ba04a8d20ff",
+      "title": "Utilidades de bancos caen; suman 149 mil mdp en primer semestre",
+      "summary": "Los bancos privados mexicanos registraron una utilidad de 149,120 millones de pesos en el primer semestre de 2026, una caída del 2.2% respecto al mismo periodo del año anterior, atribuida a la reducción de tasas de interés y al aumento de reservas para posibles pérdidas.",
+      "category": "economia",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/cartera/utilidades-de-bancos-caen-suman-149-mil-mdp-en-primer-semestre/",
+      "published_at": "2026-08-07T08:21:25+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y presenta datos de la CNBV y opiniones de analistas y agencias internacionales sin emplear lenguaje cargado ni favorecer a ninguna posición política.",
+      "focus_analysis": "El artículo se centra en el desempeño financiero del sector bancario, destacando la rentabilidad, la política de reservas y los riesgos crediticios, dejando de lado cualquier análisis político o social de la situación.",
+      "focus_tags": [
+        "rentabilidad bancaria",
+        "tasas de interés",
+        "morosidad"
+      ],
+      "context": [
+        {
+          "label": "Tendencias históricas",
+          "text": "En los últimos años, la utilidad de la banca mexicana ha fluctuado, con una ligera alza en 2024 y una caída en 2025, reflejando la sensibilidad del sector a los cambios en la política monetaria y la inflación."
+        },
+        {
+          "label": "Entorno macroeconómico",
+          "text": "México ha experimentado una disminución de las tasas de interés reales y un crecimiento moderado del crédito al consumo, lo que ha presionado los márgenes de interés de los bancos."
+        },
+        {
+          "label": "Regulación y supervisión",
+          "text": "La CNBV supervisa la salud financiera del sistema bancario y ha señalado la necesidad de reservas mayores, mientras que la Oficina de Control de Activos Extranjero de EE. UU. mantiene un escrutinio sobre la prevención del lavado de dinero en México."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a5e77ccdc686",
+      "title": "Otra mini refinería",
+      "summary": "El periódico El Economista publica una colección de breves comentarios y caricaturas bajo el título \"Otra mini refinería\", ofreciendo una mirada humorística a temas de política y sociedad.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/mini-refineria-20260807-827143.html",
+      "published_at": "2026-08-07T08:08:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto no contiene lenguaje cargado ni selección de fuentes que favorezcan una posición política clara; se limita a presentar piezas de opinión y humor de forma neutral.",
+      "focus_analysis": "El medio opta por un ángulo satírico y cultural, usando caricaturas para criticar eventos actuales, mientras omite análisis profundos o datos técnicos sobre el tema de las mini refinerías.",
+      "focus_tags": [
+        "humor político",
+        "cultura editorial",
+        "corto"
+      ],
+      "context": [
+        {
+          "label": "Medio",
+          "text": "El Economista es un diario financiero mexicano que también incluye se de opinión y se editorial en su contenido."
+        },
+        {
+          "label": "Tema",
+          "text": "Las mini refinerías han sido objeto de debate en la política energética de México, con el gobierno impulsando su desarrollo como parte de la reforma petrolera."
+        },
+        {
+          "label": "Formato",
+          "text": "En México, los caricaturistas y columnas breves suelen emplearse para criticar de forma satírica decisiones políticas y sociales."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "da3a89e26020",
+      "title": "INAH detecta extracción indebida de información tras incidente cibernético: denuncian ante FGR",
+      "summary": "El Instituto Nacional de Antropología e Historia (INAH) de México anunció que, después de identificar una posible extracción indebida de información confidencial a través de una cuenta con privilegios administrativos, presentó una denuncia penal ante la Fiscalía General de la República. El instituto también informó que reforzará sus protocolos de ciberseguridad y mantendrá informada a la comunidad estudiantil sobre el avance de la investigación.",
+      "category": "tecnologia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/07/inah-detecta-extraccion-indebida-de-informacion-tras-incidente-cibernetico-denuncian-ante-fgr/",
+      "published_at": "2026-08-07T08:26:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono neutro y descriptivo, sin palabras cargadas ni fuentes con sesgo político, centrándose en los hechos y la respuesta institucional.",
+      "focus_analysis": "El medio se enfocó en el ángulo institucional y de ciberseguridad, describiendo la detección, la denuncia y las medidas de seguridad, dejando de lado el impacto personal de los estudiantes y cualquier dimensión política o económica.",
+      "focus_tags": [
+        "ciberseguridad",
+        "INAH",
+        "denuncia penal"
+      ],
+      "context": [
+        {
+          "label": "ciberataques en instituciones públicas mexicanas",
+          "text": "En los últimos años, varios organismos gubernamentales de México han sido blanco de incidentes cibernéticos que han expuesto datos personales, lo que ha impulsado la revisión de protocolos de seguridad y la actualización de normas de protección de datos."
+        },
+        {
+          "label": "funciones y datos del INAH",
+          "text": "El Instituto Nacional de Antropología e Historia administra información académica y administrativa de estudiantes becarios, incluyendo datos sensibles como CURP, actas de nacimiento y estados de cuenta."
+        },
+        {
+          "label": "competencia de la Fiscalía General de la República",
+          "text": "La Fiscalía General de la República es la autoridad encargada de investigar delitos cibernéticos y puede iniciar procesos penales contra los responsables de la extracción o vulneración de datos en instituciones públicas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "d7efe9df593c",
+      "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia",
+      "summary": "Un estudiante de aproximadamente 15 años abrió fuego en un colegio de la provincia de Nonthaburi, cerca de Bangkok, matando al menos a seis alumnos y profesores y también a sus propios abuelos antes de dirigirse al centro educativo.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html",
+      "published_at": "2026-08-07T08:31:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y neutro, citando únicamente a la policía sin incluir adjetivos cargados ni opiniones, lo que indica una cobertura centrada y sin sesgo evidente.",
+      "focus_analysis": "El medio se centra en la tragedia humana y el número de víctimas, dejando de lado el análisis de políticas de armas o las causas sociales del tiroteo.",
+      "focus_tags": [
+        "violencia escolar",
+        "tiroteo",
+        "Tailandia"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de tiroteos escolares en Tailandia",
+          "text": "Los incidentes con armas de fuego en instituciones educativas son poco comunes en Tailandia, aunque se han registrado algunos casos aislados en los últimos años que han generado debate sobre la seguridad escolar."
+        },
+        {
+          "label": "Comparación con coberturas de otros medios",
+          "text": "Mientras El País América informa de al menos seis muertos, otras fuentes como Euronews y DW reportan cifras diferentes, entre siete y nueve fallecidos, y discrepan sobre si el autor fue abatido por la policía o se suicidó."
+        },
+        {
+          "label": "Reacción oficial y medidas de seguridad",
+          "text": "Las autoridades tailandesas anunciaron una investigación y reforzaron los protocolos de seguridad en escuelas, aunque no se han detallado cambios legislativos inmediatos respecto al control de armas."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "84f0506f6d0e",
+      "title": "Ten cuidado con las gafas que compres para ver el eclipse, no todas sirven y las consecuencias pueden ser muy graves",
+      "summary": "Hipertextual advierte a los lectores en España que solo las gafas homologadas bajo la norma ISO 12312‑2 garantizan una observación segura del eclipse solar, pues los productos no certificados pueden provocar daño ocular permanente.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/ciencia/gafas-eclipse/",
+      "published_at": "2026-08-07T08:31:26+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje informativo y neutral, sin carga política ni selección de fuentes partidistas; se centra en la seguridad del consumidor y menciona productos sin promover una ideología.",
+      "focus_analysis": "El artículo prioriza la seguridad del público y la certificación de los dispositivos de observación, dejando de lado explicaciones científicas del eclipse y su relevancia cultural.",
+      "focus_tags": [
+        "seguridad",
+        "consumo",
+        "astronomía"
+      ],
+      "context": [
+        {
+          "label": "Riesgo ocular",
+          "text": "Mirar directamente al sol sin protección puede causar quemaduras en la retina y pérdida irreversible de la visión."
+        },
+        {
+          "label": "Normativa de seguridad",
+          "text": "Las gafas homologadas deben cumplir la norma ISO 12312‑2 y llevar el marcado CE, lo que garantiza un filtrado adecuado de la radiación ultravioleta."
+        },
+        {
+          "label": "Cobertura paralela",
+          "text": "Otro medio, Xataka, destacó la disponibilidad de gafas económicas en supermercados como Aldi, enfocándose más en el precio que en la certificación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a28dc9ce97a4",
+      "title": "Detienen a menor que reclutaba para el crimen organizado",
+      "summary": "Un adolescente de 17 años fue detenido en la Central Camionera de Tlaquepaque, Jalisco, bajo sospecha de reclutar a otras menores para el crimen organizado mediante ofertas falsas de trabajo.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/detienen-a-menor-que-reclutaba-para-el-crimen-organizado/",
+      "published_at": "2026-08-07T08:32:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, sin términos cargados ni énfasis político, centrándose en los hechos del caso y la labor policial.",
+      "focus_analysis": "El medio se concentra en el aspecto de seguridad y criminalidad, resaltando el reclutamiento de menores y la desaparición de personas, mientras omite análisis de causas sociales o políticas públicas al respecto.",
+      "focus_tags": [
+        "crimen organizado",
+        "reclutamiento de menores",
+        "desaparición de personas"
+      ],
+      "context": [
+        {
+          "label": "Datos de desapariciones",
+          "text": "En Jalisco, de enero a julio de 2026 se registraron 26 casos de desaparición de menores, con solo cinco localizados con vida."
+        },
+        {
+          "label": "Reclutamiento de menores en crimen organizado",
+          "text": "Las organizaciones criminales en México suelen usar ofertas de empleo falsas y redes sociales para atraer a jóvenes, una práctica señalada por autoridades y organizaciones de derechos humanos."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "La Fiscalía Especial en Personas Desaparecidas de Jalisco, bajo la dirección de Blanca Trujillo, ha intensificado la vigilancia en terminales de autobuses para prevenir el secuestro y reclutamiento de menores."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "3c71541be696",
+      "title": "El susurro del árbol que no come: Han Kang y la rebelión del cuerpo",
+      "summary": "Una hoja marchita se aferra a la rama, temblando bajo un viento que huele a incienso; su quietud es un grito que nadie oye. En *The Vegetarian* de Han Kang, Yoon‑Hui abandona la carne como esa hoja, y cada rechazo se vuelve una grieta que atraviesa la fachada familiar. La novela despliega la violencia sutil de los gestos cotidianos, como una corriente bajo el que erosiona la piedra.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-07T08:35:33.261152+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, cuando las conversaciones sobre alimentación y cuerpo se intensifican, la historia de una mujer que dice basta basta a la carne resuena como un eco inesperado. Elegí este ángulo porque la rebelión silenciosa de Yoon‑Hui muestra cómo lo íntimo puede desestabilizar lo colectivo, un recordatorio de que el cambio a menudo nace en los rincones más frágiles. Además, la escritura de Kang, cargada de precisión poética, invita a leer la violencia cotidiana con la misma atención que se presta a una obra de arte.",
+      "focus_tags": [
+        "novela coreana",
+        "siglo XXI",
+        "ficción psicológica"
+      ],
+      "context": [
+        {
+          "label": "Primeros pasos",
+          "text": "Comienza con la traducción de *The Vegetarian* de la editorial Seix Barral, donde la prosa de Kang se mantiene tan afilada como la hoja que se niega a caer. El libro, relativamente corto, permite sumergirse sin temor a una trama densa, y su ritmo pausado invita a observar cada gesto como si fuera una pieza de un rompecabezas."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si la atmósfera de *The Vegetarian* te atrapa, prueba *Human Acts*, otra novela de Kang que explora la violencia colectiva en la Corea del Sur contemporánea. También vale la pena leer *The Guest* de Hwang Sok‑yong, cuya mirada sobre la memoria y el deber familiar comparte la misma tensión entre lo privado y lo público."
+        },
+        {
+          "label": "Trasfondo",
+          "text": "Han Kang emergió en la década de 2000 dentro de una generación de escritores surcoreanos que interrogan la identidad nacional tras la dictadura militar. Su estilo combina la austeridad de la prosa con una sensibilidad casi pictórica, y su obra ha sido reconocida con el Premio Man Booker Internacional, consolidando su voz como una de las más influyentes de la literatura contemporánea."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "54dc967ea05c",
       "title": "Fue multicampeón en la reserva de Boca Juniors, está a préstamo en un club del ascenso y ahora lanzó un emprendimiento de venta de ropa",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "69f21b24cba3",
-      "title": "Clima en Monterrey hoy: el pronóstico para el viernes 7 de agosto de 2026",
-      "summary": "El Informador indica que el viernes 7 de agosto de 2026 en Monterrey se esperan lluvias ligeras con temperaturas entre 24 y 37 grados y una probabilidad de lluvia del 56 %.",
-      "category": "sociedad",
-      "source_name": "El Informador (GDL)",
-      "source_url": "https://www.informador.mx/mexico/clima-en-monterrey-hoy-el-pronostico-para-el-viernes-7-de-agosto-de-2026-20260807-0013.html",
-      "published_at": "2026-08-07T07:02:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo solo brinda datos meteorológicos sin adjetivos cargados ni fuentes opinativas, manteniendo un tono neutral.",
-      "focus_analysis": "El medio se concentra en el pronóstico del clima y omite cualquier contexto económico, de salud o de seguridad relacionado con la lluvia.",
-      "focus_tags": [
-        "clima",
-        "pronóstico",
-        "Monterrey"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Monterrey suele registrar altas temperaturas en agosto, con máximas que superan los 35 grados y lluvias ocasionales."
-        },
-        {
-          "label": "datos comparables",
-          "text": "El pronóstico extendido indica lluvias ligeras durante la semana, alineándose con los patrones estacionales de precipitación en la zona norte de México."
-        },
-        {
-          "label": "postura de otros medios",
-          "text": "Infobae México, al cubrir el mismo día, resaltó lluvias fuertes en gran parte del país y aconsejó usar paraguas, lo que contrasta con la descripción más moderada de El Informador para Monterrey."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "732b910e0a1a",
-      "title": "UNAM informa cómo consultar fecha y hora para el examen de control; Tu Sitio será habilitado este viernes 7 de agosto",
-      "summary": "La Universidad Nacional Autónoma de México (UNAM) anunció que el viernes 7 de agosto los aspirantes al examen de control presencial podrán consultar su cita y datos de la prueba a través del portal “Tu Sitio”, y que la evaluación se realizará del 12 al 19 de agosto.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/unam-informa-como-consultar-fecha-y-hora-para-el-examen-de-control-tu-sitio-sera-habilitado-este-viernes-7-de-agosto/",
-      "published_at": "2026-08-07T06:30:02+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono exclusivamente informativo, sin adjetivos cargados ni citas de fuentes que favorezcan una posición, y se limita a describir el procedimiento.",
-      "focus_analysis": "El medio se centró en la información institucional sobre el proceso del examen, omitiendo cualquier discusión sobre posibles irregularidades o protestas de los candidatos.",
-      "focus_tags": [
-        "examen de control",
-        "UNAM",
-        "procedimiento institucional"
-      ],
-      "context": [
-        {
-          "label": "Auditoría a empresa de examen",
-          "text": "Reforma informó que, tras detectar irregularidades, la UNAM iniciará auditorías a la empresa Territorium Life, que había gestionado la prueba en línea, resaltando una preocupación por la transparencia del proceso."
-        },
-        {
-          "label": "Historia del examen de ingreso",
-          "text": "El examen de control de la UNAM es una fase de selección que se lleva a cabo cada año para los aspirantes que no fueron admitidos en la convocatoria general, y suele generar alta demanda y, en ocasiones, manifestaciones de los estudiantes."
-        },
-        {
-          "label": "Reacción de los aspirantes",
-          "text": "Algunos aspirantes han expresado su desacuerdo con el examen de control y han organizado protestas, aunque la UNAM ha reiterado que el proceso es necesario para completar la lista de admitidos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "2ed88935351c",
-      "title": "90.000 patitos de goma recorren el río Chicago por una causa solidaria",
-      "summary": "El evento benéfico Ducky Derby en Chicago, donde más de noventa mil patitos de goma fueron lanzados al río, recaudó más de 480 mil dólares para la organización Special Olympics Illinois, que apoya a deportistas con discapacidad intelectual.",
-      "category": "sociedad",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/video/2026/08/07/90000-patitos-de-goma-recorren-el-rio-chicago-por-una-causa-solidaria",
-      "published_at": "2026-08-07T06:46:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta los hechos de manera descriptiva y sin lenguaje cargado, sin favorecer a ninguna posición política ni incluir opiniones subjetivas.",
-      "focus_analysis": "El medio destaca el aspecto humano y solidario del evento, centrado en la comunidad y el apoyo a deportistas con discapacidad, dejando de lado cualquier análisis económico o político.",
-      "focus_tags": [
-        "caridad",
-        "evento comunitario",
-        "deportes inclusivos"
-      ],
-      "context": [
-        {
-          "label": "Special Olympics Illinois",
-          "text": "Special Olympics Illinois es la rama estatal de la organización internacional que brinda oportunidades deportivas y de desarrollo personal a personas con discapacidad intelectual en todo el estado."
-        },
-        {
-          "label": "Tradición del Ducky Derby",
-          "text": "El Ducky Derby es una carrera anual de patitos de goma que se celebra cada agosto en el río Chicago, atrayendo a miles de espectadores y participantes que patrocinan patos para recaudar fondos."
-        },
-        {
-          "label": "Eventos benéficos con carreras de patitos",
-          "text": "En distintas ciudades de EE. UU. se organizan carreras de patitos de goma como estrategia de recaudación, combinando entretenimiento público con apoyo a causas locales, como hospitales infantiles o refugios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "5f8ae150fcb8",
-      "title": "Regresa “Héroes sin Mata” al Candelabrum Metal Fest 2026: así puedes donar cabello y ayudar a pacientes oncológicos",
-      "summary": "La campaña \"Héroes sin Mata\", impulsada por la asociación CANVIES, regresa al Candelabrum Metal Fest 2026 en León, Guanajuato, invitando a los asistentes y al público en general a donar cabello para confeccionar pelucas oncológicas destinadas a mujeres y niñas con cáncer.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/regresa-heroes-sin-mata-al-candelabrum-metal-fest-2026-asi-puedes-donar-cabello-y-ayudar-a-pacientes-oncologicos/",
-      "published_at": "2026-08-07T06:53:42+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono neutro y descriptivo, sin palabras cargadas ni fuentes con sesgo político; se centra en la iniciativa solidaria y el evento cultural.",
-      "focus_analysis": "El medio prioriza el ángulo humano y de salud al destacar la donación de cabello y el apoyo a pacientes oncológicos, dejando de lado aspectos económicos del festival o la industria musical.",
-      "focus_tags": [
-        "donación de cabello",
-        "cáncer",
-        "festival de metal"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "La donación de cabello para la fabricación de pelucas oncológicas es una práctica global que ayuda a personas que pierden el cabello por quimioterapia, con organizaciones como Locks of Love y Wigs for Kids como ejemplos."
-        },
-        {
-          "label": "evento cultural",
-          "text": "El Candelabrum Metal Fest es una de las principales reuniones de música metal en México, celebrada anualmente en la Velaría de la Feria de León y con un cartel que combina bandas internacionales y nacionales."
-        },
-        {
-          "label": "organización local",
-          "text": "CANVIES, Asociación Vida y Esperanza A.C., lleva más de dos décadas trabajando en Guanajuato y la región del Bajío para apoyar a pacientes con cáncer mediante programas de acompañamiento y entrega de pelucas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "25a33f8887eb",
-      "title": "Probamos el Galaxy Z Fold8: Samsung cambia la forma en la que entiendes cómo usar un plegable y vas a querer uno",
-      "summary": "Samsung presentó el Galaxy Z Fold8, su nuevo smartphone plegable de formato cuadrado, y lo evaluó como un dispositivo más práctico y cotidiano, aunque con precio elevado y cámara limitada.",
-      "category": "tecnologia",
-      "source_name": "El Androide Libre",
-      "source_url": "https://www.elespanol.com/omicrono/analisis-prueba-productos/20260807/probamos-galaxy-fold8-samsung-cambia-forma-entiendes-usar-plegable-vas-querer/1003744343099_0.html",
-      "published_at": "2026-08-07T04:30:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es una reseña de producto que utiliza un lenguaje entusiasta pero sin referencias políticas ni ideológicas; el enfoque está en características técnicas y experiencia de uso.",
-      "focus_analysis": "El artículo se centra en el diseño y la usabilidad del plegable, destacando su formato y comodidad, mientras que apenas aborda el precio, la cámara o la competencia del mercado.",
-      "focus_tags": [
-        "diseño",
-        "usabilidad",
-        "plegables"
-      ],
-      "context": [
-        {
-          "label": "historia de plegables Samsung",
-          "text": "Samsung lleva ocho generaciones perfeccionando sus smartphones plegables, y el Z Fold8 es la primera versión con formato más ancho y cuadrado, destinada a mejorar la comodidad de uso diario."
-        },
-        {
-          "label": "competencia de Apple",
-          "text": "Otros medios, como Applesfera, señalan que Apple podría lanzar un iPhone plegable, lo que intensificaría la competencia en este segmento y podría influir en la percepción de los dispositivos de Samsung."
-        },
-        {
-          "label": "reacción de otros medios",
-          "text": "Según WWWhatsnew, la variante Ultra del Z Fold8 ha captado más atención que el modelo base, subrayando una estrategia de Samsung de dividir la línea para distintos públicos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.2
-      }
-    },
-    {
-      "id": "677f2639fcb6",
-      "title": "Los secretos detrás de la increíble consagración de Paula Pareto en los Juegos Olímpico: “Por mí viviría en ese momento”",
-      "summary": "Paula Pareto, judoka argentina, se convirtió en la primera mujer de su país en ganar una medalla de oro olímpica al triunfar en la categoría de –48 kg en los Juegos de Río 2016, tras una trayectoria que incluyó bronce en Beijing 2008 y el título mundial en 2015.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/07/los-secretos-detras-de-la-increible-consagracion-de-paula-pareto-en-los-juegos-olimpico-por-mi-viviria-en-ese-momento/",
-      "published_at": "2026-08-07T06:30:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto celebra el logro deportivo con lenguaje emotivo pero sin inclinarse hacia ninguna postura política; se centra en la hazaña personal y nacional sin usar vocabulario cargado ni fuentes con sesgo.",
-      "focus_analysis": "El medio eligió un ángulo humano y heroico, resaltando la trayectoria y la emoción de la victoria de Paula Pareto; no aborda aspectos institucionales o económicos del deporte.",
-      "focus_tags": [
-        "deporte",
-        "historia olímpica",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Paula Pareto",
-          "text": "Antes de su oro en Río 2016, Pareto ganó la medalla de bronce en los Juegos Olímpicos de Beijing 2008 y se coronó campeona del mundo en 2015, consolidándose como una de las mejores judocas del peso ligero."
-        },
-        {
-          "label": "Historia olímpica de Argentina",
-          "text": "El oro de Pareto marcó la primera medalla de oro olímpica para una mujer argentina, un hito histórico dentro de la delegación que envió 213 atletas a los Juegos de Río."
-        },
-        {
-          "label": "Importancia del judo en Argentina",
-          "text": "El judo ha sido una disciplina destacada en el deporte argentino, con varios medallistas en Juegos Panamericanos y Mundiales, y la victoria de Pareto impulsó aún más su popularidad en el país."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "ed1cc6a62395",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy viernes 7 de agosto: saca el paraguas, se esperan lluvias fuertes en gran parte del país",
-      "summary": "El Servicio Meteorológico Nacional de México indica que este viernes 7 de agosto se esperan lluvias fuertes y chubascos en gran parte del país, con posibilidad de granizadas en el occidente y centro, mientras el norte mantiene altas temperaturas.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-7-de-agosto/",
-      "published_at": "2026-08-07T06:57:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a presentar datos meteorológicos sin emplear vocabulario emotivo ni seleccionar fuentes con una perspectiva política, lo que refleja una cobertura neutral.",
-      "focus_analysis": "El medio se centra en el pronóstico climático y la distribución geográfica de las lluvias, dejando de lado el impacto humano o económico que puedan generar estas condiciones.",
-      "focus_tags": [
-        "clima",
-        "pronóstico",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "Fuente oficial",
-          "text": "El Servicio Meteorológico Nacional (SMN) es la autoridad mexicana que emite los pronósticos y alertas climáticas, y sus informes son la base de la información presentada por Infobae."
-        },
-        {
-          "label": "Estación lluviosa",
-          "text": "En México, la temporada de lluvias se extiende de junio a octubre, y los meses de agosto y septiembre suelen registrar los eventos más intensos, especialmente en el occidente y el sur del país."
-        },
-        {
-          "label": "Riesgos asociados",
-          "text": "Históricamente, lluvias fuertes en agosto han provocado inundaciones y deslizamientos en regiones como Jalisco, Nayarit y Veracruz, afectando a comunidades y a la actividad agrícola."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
       }
     }
   ]
