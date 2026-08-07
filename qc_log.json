@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-07T03:41:57.787649+00:00",
-      "title": "Miles de personas protestaron en Costa Rica contra reforma judicial de la presidenta Laura Fernández",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero falla gravemente en veracidad y objetividad al presentar datos ficticios y falta de fuentes contrastadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T03:42:01.305345+00:00",
-      "title": "Suman 161 agresores sexuales detenidos en 6 años durante el combate a la pornografía infantil en Méx",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presenta datos verificables, fuentes variadas y mantiene objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:00:40.840736+00:00",
-      "title": "El teacup agrietado que guarda la luz del desierto: Nadezhda Mandelstam y la memoria del terror",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 7,
-        "voz_autor": 7,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza original y reflexiva con estilo y voz adecuados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:00:46.065119+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete muestra problemas graves de veracidad y parcialidad, pese a estar actualizado y estructurado de forma adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:00:50.903525+00:00",
-      "title": "Cuál es el origen de la histórica alianza entre EE.UU. y Marruecos y qué papel juega en la crisis mi",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 5
-      },
-      "observacion": "El paquete es reciente pero presenta graves problemas de veracidad y objetividad, aunque utiliza fuentes relativamente confiables; necesita revisión antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:00:55.702334+00:00",
-      "title": "El enorme elogio que recibió un juvenil de River que fue cedido a Peñarol: “Nos dieron a Messi”",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es claro, objetivo y actual, pero la falta de fuentes múltiples limita ligeramente la evaluación de contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:01:01.032852+00:00",
-      "title": "Comercial con el que regresó Luis Miguel al ojo publico es criticado por romantizar el abuso del ref",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero presenta imprecisiones y parcialidad que comprometen su veracidad y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:01:07.412451+00:00",
-      "title": "Niño de 10 años fallece durante un partido de futbol en Durango; padecía de un soplo en el corazón, ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de objetividad, actualidad y estructura, aunque la precisión de los datos podría reforzarse con fuentes más explícitas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:01:14.379803+00:00",
-      "title": "Se filtra el HomePod con ChatGPT que prepara OpenAI y su diseño es una locura",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 8,
-        "estructura_piramide": 7
-      },
-      "observacion": "El artículo no cumple con los estándares de calidad editorial; necesita verificación de hechos y fuentes más diversas para ser publicado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T04:01:24.503584+00:00",
-      "title": "El resistente Olmo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de precisión factual y de fuentes contrastadas, lo que compromete su calidad editorial a pesar de su neutralidad y actualidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-07T04:01:28.231370+00:00",
       "title": "Isaac del Toro es el movimiento más importante del mercado",
       "kind": "noticia",
@@ -3398,6 +3228,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, por lo que es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:00:45.065373+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y bien estructurado; no cumple los estándares de una noticia fiable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:00:49.011556+00:00",
+      "title": "Ayotzinapa: los videos del autobús 1531, la última imagen de los 43 normalistas que Ángel Aguirre or",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete es informativo y actual, pero muestra cierto sesgo y falta de voces contrapuestas que limitarían su completa objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:00:53.352046+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños c",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y objetivo, pero necesita más fuentes y verificación para reforzar la precisión y el contraste en un tema político.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:00:57.446644+00:00",
+      "title": "Demócratas evalúan plan tras victoria del ala progresista",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla en veracidad y equilibrio de fuentes, aunque es reciente y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:01:01.586306+00:00",
+      "title": "Ten cuidado con las gafas que compres para ver el eclipse, no todas sirven y las consecuencias puede",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una información clara y bien estructurada con fuentes fiables y contexto suficiente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:01:12.600581+00:00",
+      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero su tono emotivo y falta de contraste de voces reducen su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:01:18.538507+00:00",
+      "title": "Los secretos detrás de la increíble consagración de Paula Pareto en los Juegos Olímpico: “Por mí viv",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero presenta sesgo patriótico y falta de fuentes múltiples, lo que reduce ligeramente su objetividad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:01:22.832195+00:00",
+      "title": "Otra mini refinería",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente, objetivo y presenta fuentes contrastantes, pero carece de datos verificables concretos, lo que reduce su precisión y confianza.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:01:29.873510+00:00",
+      "title": "INAH detecta extracción indebida de información tras incidente cibernético: denuncian ante FGR",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares editoriales, con información reciente y presentación objetiva, aunque la falta de fuentes múltiples reduce ligeramente la puntuación en contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T09:01:36.027892+00:00",
+      "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cubre el hecho de forma oportuna y estructurada, pero la falta de precisión en los números y la inconsistencia entre fuentes reducen su veracidad.",
       "error": null
     }
   ]
