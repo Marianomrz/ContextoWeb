@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-07T01:45:50.977149+00:00",
-      "title": "Michoacán moderniza autopista Maravatío-Zitácuaro con inversión de 4,575 millones de pesos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y estructurada, con suficiente contexto y fuentes confiables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:45:56.474893+00:00",
-      "title": "Plantean en Guanajuato prohibir que deudores alimentarios y violentadores sean notarios",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es objetivo y actual, pero presenta graves errores de veracidad y falta de fuentes verificables, lo que compromete su fiabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:46:02.070717+00:00",
-      "title": "¿Qué ver?: \"La última casa\", filme que fusiona la ciencia ficción con el thriller claustrofóbico",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra buena estructura y objetividad, pero contiene errores de factualidad y carece de fuentes múltiples para contrastar la información.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:46:05.467387+00:00",
-      "title": "Unión y Lanús completaron el último asterisco: así quedaron las posiciones del Clausura y el ingreso",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:53:44.826974+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla en veracidad y objetividad, pese a estar actualizado y bien estructurado; requiere revisión factual y mayor neutralidad antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:53:50.529449+00:00",
-      "title": "Chicharito Hernández revela que prefería retirarse en el Manchester United y no en Chivas",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una información oportuna y neutral, pero contiene errores de hecho sobre la carrera reciente de Hernández, lo que afecta su credibilidad global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:53:54.031923+00:00",
-      "title": "Senado elegirá nueva presidencia el 30 de agosto; Laura Itzel votará antes de asumir en Secretaría d",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere considerar fuentes adicionales para enriquecer el contraste cuando sea posible.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:54:00.208623+00:00",
-      "title": "Claudio Tapia: “Scaloni es mi plan A, B y C, pero no lo puedo tener encadenado”",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta graves imprecisiones factuales y falta de fuentes contrapuestas, lo que compromete su calidad editorial a pesar de su actualidad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T01:54:06.073948+00:00",
-      "title": "Informe desde Washington: Trump firma órdenes ejecutivas para restringir ciudadanía por nacimiento",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta graves errores de veracidad que lo descalifican como noticia fiable, pese a su buen formato y actualidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-07T01:54:12.311320+00:00",
       "title": "Se filtra el HomePod con ChatGPT que prepara OpenAI y su diseño es una locura",
       "kind": "noticia",
@@ -3392,6 +3239,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere añadir referencias específicas para reforzar la veracidad de las cifras extremas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:40:47.553280+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, lo que lo hace inadecuado para publicación sin una revisión exhaustiva y corrección de datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:40:53.126332+00:00",
+      "title": "Los secretos detrás de la increíble consagración de Paula Pareto en los Juegos Olímpico: “Por mí viv",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa y bien estructurada, aunque la inclusión de fuentes adicionales reforzaría aún más la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:41:00.493964+00:00",
+      "title": "UNAM informa cómo consultar fecha y hora para el examen de control; Tu Sitio será habilitado este vi",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría mejorar la verificación de la información de la auditoría. En general, es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:41:06.725304+00:00",
+      "title": "Pistas de la nueva habitante de La Granja VIP apuntan a una ganadora de La Casa de los Famosos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos editoriales, siendo objetivo, actual y bien estructurado; solo se observa una ligera falta de fuentes que corroboren la especulación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:41:13.464894+00:00",
+      "title": "Al menos 15 heridos y 7 muertos en un tiroteo en una escuela de Tailandia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, bien contrastada y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:41:23.095887+00:00",
+      "title": "Espliego, que no faneca (II)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los estándares de claridad, precisión y actualidad, aunque se trata de una pieza cultural más que de una noticia de hechos verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:41:29.062215+00:00",
+      "title": "Probamos el Galaxy Z Fold8: Samsung cambia la forma en la que entiendes cómo usar un plegable y vas ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete necesita corregir errores factuales y equilibrar mejor el tono para cumplir con los estándares de precisión y objetividad, aunque la actualidad y la estructura general son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:41:33.823527+00:00",
+      "title": "ONG rechazan conclusiones de comité",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita más fuentes y equilibrio para cumplir con los estándares de objetividad, aunque es actual y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T06:41:38.782986+00:00",
+      "title": "Fue multicampeón en la reserva de Boca Juniors, está a préstamo en un club del ascenso y ahora lanzó",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de verificabilidad de algunos datos reduce la puntuación de veracidad.",
       "error": null
     }
   ]
