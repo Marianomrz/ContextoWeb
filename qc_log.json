@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-07T08:41:01.714541+00:00",
-      "title": "Un estudiante mata al menos a seis personas en un tiroteo en un colegio de Tailandia",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; sólo se podría mejorar la precisión con fechas exactas y una mayor incorporación de fuentes contrastantes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T08:41:07.050989+00:00",
-      "title": "INAH detecta extracción indebida de información tras incidente cibernético: denuncian ante FGR",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, pero debería incluir más fuentes oficiales para reforzar la credibilidad y el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T08:41:17.354275+00:00",
-      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es adecuado como nota de recuerdo pero pero la falta de fuentes y la carga subjetiva limitan su rigor periodístico.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T08:41:21.987213+00:00",
-      "title": "Los secretos detrás de la increíble consagración de Paula Pareto en los Juegos Olímpico: “Por mí viv",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 2,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es preciso y bien estructurado, pero la falta de actualidad disminuye su pertinencia como noticia de último momento.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T08:41:28.326437+00:00",
-      "title": "Otra mini refinería",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de un artículo informativo, mostrando precisión, objetividad y actualidad, aunque podría reforzar su veracidad con fuentes más específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T08:41:35.461539+00:00",
-      "title": "Utilidades de bancos caen; suman 149 mil mdp en primer semestre",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, por lo que es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T09:00:45.065373+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y bien estructurado; no cumple los estándares de una noticia fiable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T09:00:49.011556+00:00",
-      "title": "Ayotzinapa: los videos del autobús 1531, la última imagen de los 43 normalistas que Ángel Aguirre or",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es informativo y actual, pero muestra cierto sesgo y falta de voces contrapuestas que limitarían su completa objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T09:00:53.352046+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marlaska, Albares, Robles y Bolaños c",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y objetivo, pero necesita más fuentes y verificación para reforzar la precisión y el contraste en un tema político.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T09:00:57.446644+00:00",
-      "title": "Demócratas evalúan plan tras victoria del ala progresista",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla en veracidad y equilibrio de fuentes, aunque es reciente y está bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T09:01:01.586306+00:00",
-      "title": "Ten cuidado con las gafas que compres para ver el eclipse, no todas sirven y las consecuencias puede",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una información clara y bien estructurada con fuentes fiables y contexto suficiente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T09:01:12.600581+00:00",
-      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y actualizado, pero su tono emotivo y falta de contraste de voces reducen su objetividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-07T09:01:18.538507+00:00",
       "title": "Los secretos detrás de la increíble consagración de Paula Pareto en los Juegos Olímpico: “Por mí viv",
       "kind": "noticia",
@@ -3392,6 +3188,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzar la diversidad de fuentes para mayor robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:20:39.707739+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque está actualizado y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:20:44.371405+00:00",
+      "title": "Gerónimo Rulli viaja a Manchester para la revisión médica: firmará contrato por dos años en el club ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo presenta la información de forma clara y reciente, pero contiene errores factuales y carece de fuentes contrastadas, lo que afecta su precisión y rigor periodístico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:20:49.176172+00:00",
+      "title": "‘GTA 6’: Take-Two insiste en que no se retrasará de nuevo y quiere que tú también confíes",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta información poco verificable y escasa triangulación de fuentes, aunque mantiene objetividad y actualidad. Se recomienda reforzar la veracidad y añadir fuentes contrastantes antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:20:53.386014+00:00",
+      "title": "La Fiscalía pide 30 años de cárcel para cinco exjefes de ETA por el asesinato de Gregorio Ordóñez",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de objetividad y actualidad, pero necesita mejorar la precisión factual y la variedad de fuentes para reforzar su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:20:56.277448+00:00",
+      "title": "Flor Vigna se quiebra en La Casa de los Famosos México decepcionada por Gema Garoa",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos básicos de una noticia breve de entretenimiento, aunque podría reforzar la verificabilidad con citas y fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:21:03.360891+00:00",
+      "title": "Reanudan México y Perú relaciones diplomáticas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete satisface los criterios editoriales con un nivel alto de calidad, aunque la falta de fuentes directamente verificables impide una puntuación perfecta en veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:21:13.130534+00:00",
+      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, pese a leves imprecisiones y una fuente principal dominante.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:21:18.706928+00:00",
+      "title": "La inflación en México desaceleró a 3.12% en julio, su menor nivel desde 2020",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, proporcionando información veraz, reciente y estructurada con contraste de fuentes y objetividad adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:21:26.777702+00:00",
+      "title": "Por qué el pase de la estrella española que se disputan Barcelona y Real Madrid podría impactar en e",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero necesita mejorar la precisión de datos y proporcionar citas verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:21:30.230893+00:00",
+      "title": "Da igual si quieres el Galaxy Z Flip8 o un Z Fold8: todos tienen un descuentazo en MediaMarkt",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes fiables, objetividad y estructura, y es completamente actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:21:35.553941+00:00",
+      "title": "Los hutíes elevan la tensión en el Golfo con nuevos ataques contra Arabia Saudí y las fuerzas yemení",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y objetivo, pero necesita mayor respaldo de fuentes verificables y diversidad de perspectivas para cumplir plenamente con los estándares de calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T13:21:40.293359+00:00",
+      "title": "María José conquista el Auditorio Nacional: anuncia nuevo álbum y más conciertos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares periodísticos, aunque debería reforzar la verificación de datos y diversificar fuentes para mejorar la precisión y el contraste.",
       "error": null
     }
   ]
