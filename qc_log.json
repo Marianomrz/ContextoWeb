@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-07T05:41:22.536875+00:00",
-      "title": "El resistente Olmo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta serios problemas de veracidad y falta de contraste de fuentes, aunque mantiene una buena objetividad, actualidad y estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T05:41:26.949056+00:00",
-      "title": "Aguacateros también se enfrentan a violaciones laborales",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita fuentes más verificables y mayor contraste de voces para alcanzar un nivel editorial más alto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T05:41:33.082381+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo: Ximena, Massad, Memo y Gema al confesionario",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En conjunto, el paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T05:41:38.752560+00:00",
-      "title": "Arabia Saudí, Turquía y Pakistán firmarán un acuerdo de Defensa en plena tensión en Oriente Medio",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actual, pero contiene errores de precisión que reducen su fiabilidad global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T05:41:46.011625+00:00",
-      "title": "América brilla en la Leagues Cup y se impone al San Diego FC",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es informativo y actual, pero muestra sesgo a favor de América y carece de fuentes contrapuestas, lo que afecta su objetividad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T06:00:43.183564+00:00",
-      "title": "Dientes de historia: Valeria Luiselli y la alquimia del relato",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 6,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El artículo cumple con los estándares de calidad editorial y es apto para su publicación en el portal Contexto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T06:00:48.304181+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla en veracidad y objetividad, aunque está bien estructurado y es actual; requiere fuentes fiables y datos verificables antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T06:00:54.414680+00:00",
-      "title": "La UNAM usó IA para evitar trampas en su examen online: el resultado fue 5 veces más aprobados de lo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastadas, pese a ser actual y estructurado adecuadamente, lo que lo hace inadecuado para publicación sin mayor verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-07T06:01:03.714520+00:00",
-      "title": "Espliego, que no faneca (II)",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares editoriales para una crónica cultural reciente, mostrando precisión, fuentes adecuadas y una presentación clara y objetiva.",
-      "error": null
-    },
-    {
       "at": "2026-08-07T06:01:09.780881+00:00",
       "title": "¿Mosquitos inmunes? Vecinos de Moroleón y Uriangato exigen frenar la plaga",
       "kind": "noticia",
@@ -3398,6 +3245,153 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, actual y estructurada, aunque la ausencia de fuentes adicionales reduce levemente la profundidad del contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:00.628513+00:00",
+      "title": "Cuando la tinta se vuelve café: descubriendo la literatura de la madrugada",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "originalidad_creatividad": 6,
+        "riqueza_estilo": 6,
+        "estructura_narrativa": 7,
+        "voz_autor": 8,
+        "profundidad_tematica": 6
+      },
+      "observacion": "El contenido cumple con los estándares de estilo y voz, aunque la originalidad y profundidad podrían reforzarse para alcanzar una mayor excelencia literaria.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:04.520102+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque está actualizado y estructurado correctamente; necesita corroboración de datos y una cobertura más equilibrada antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:08.551231+00:00",
+      "title": "El búnker de la Guerra Fría reconvertido en apartamentos de lujo para \"sobrevivir al fin del mundo\"",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mayor verificación de datos y fuentes más múltiples para cumplir con los estándares de precisión, pero su estructura y objetividad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:13.228524+00:00",
+      "title": "Swallow the Sun en México: boletos, horarios y todos los detalles para su concierto en CDMX",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando la información de forma precisa, neutral y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:17.478385+00:00",
+      "title": "Uno de los exnarcos más famosos de Galicia quiere montar una ruta del narcotráfico para turistas. La",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general objetivo y bien estructurado, aunque la dependencia de una sola fuente reduce ligeramente la puntuación de contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:24.072789+00:00",
+      "title": "Nu debuta como banco",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, aunque necesita mayor verificación de cifras y más voces contrastantes para reforzar su precisión y pluralidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:29.399380+00:00",
+      "title": "Un exjugador de rugby adelantó que donará su cerebro para estudiar los problemas neurológicos asocia",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Extra data: line 17 column 1 (char 1278)"
+    },
+    {
+      "at": "2026-08-07T10:41:35.509525+00:00",
+      "title": "Penultimátum",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; la única mejora posible sería incluir fuentes adicionales para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-07T10:41:40.828846+00:00",
+      "title": "Otra mini refinería",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad, actualidad y estructura, aunque la falta de datos verificables específicos limita ligeramente la puntuación de veracidad.",
       "error": null
     }
   ]
