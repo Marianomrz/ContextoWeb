@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-07T13:21:41.325347+00:00",
+  "generated_at": "2026-08-07T13:24:22.478758+00:00",
   "articles": [
+    {
+      "id": "41511443ea07",
+      "title": "María José conquista el Auditorio Nacional: anuncia nuevo álbum y más conciertos",
+      "summary": "María José, la cantante mexicana conocida como \"La Josa\", celebró su 50.º aniversario con dos conciertos agotados en el Auditorio Nacional de la Ciudad de México y anunció su próximo álbum \"Alma de mujer\" para marzo, en el mes de la mujer.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/07/maria-jose-conquista-el-auditorio-nacional-anuncia-nuevo-album-y-mas-conciertos/",
+      "published_at": "2026-08-07T13:01:04+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono celebratorio y promocional, resaltando logros y emociones sin presentar críticas ni agenda política, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centró en el aspecto humano y cultural del evento, destacando la conexión de la artista con el público, el empoderamiento femenino y el anuncio del nuevo disco, dejando de lado cualquier análisis económico o crítico.",
+      "focus_tags": [
+        "concierto",
+        "álbum",
+        "empoderamiento femenino"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria de María José",
+          "text": "María José es una cantante pop mexicana con una carrera de más de tres décadas, conocida por éxitos como \"Un nuevo amor\" y \"Te apuesto\", y ha acumulado 26 presentaciones previas en el Auditorio Nacional."
+        },
+        {
+          "label": "Importancia del Auditorio Nacional",
+          "text": "El Auditorio Nacional, con capacidad para cerca de 10,000 asistentes, es uno de los recintos más emblemáticos de México, frecuentemente utilizado para conciertos de artistas de alto nivel."
+        },
+        {
+          "label": "Tendencia de lanzamientos en el mes de la mujer",
+          "text": "En la industria musical latina, es común que artistas programen lanzamientos de álbumes o campañas promocionales en marzo, coincidiendo con el Día Internacional de la Mujer, para reforzar mensajes de empoderamiento."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "e55f85ff9924",
+      "title": "ChatGPT da más razones para no pagar: OpenAI lo hace ilimitado en el plan gratuito, la trampa está en el asterisco",
+      "summary": "OpenAI, la empresa estadounidense de inteligencia artificial, ha lanzado conversaciones de texto ilimitadas en el plan gratuito de ChatGPT, pero mantiene restricciones en imágenes, archivos y otras funciones, una estrategia que Xataka interpreta como un impulso para que los usuarios pasen a los planes de pago.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/robotica-e-ia/chatgpt-da-razones-para-no-pagar-openai-hace-ilimitado-plan-gratuito-trampa-esta-asterisco",
+      "published_at": "2026-08-07T13:15:16+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto emplea vocabulario crítico como \"trampa\", \"corromper\" y \"paletadas de dinero\", y enfatiza la intención comercial de OpenAI, lo que muestra una postura ligeramente escéptica hacia la empresa.",
+      "focus_analysis": "El artículo se centra en la estrategia de negocio y la monetización de OpenAI, resaltando la limitación oculta del plan gratuito; omite detalles técnicos profundos del modelo y la experiencia directa de los usuarios.",
+      "focus_tags": [
+        "modelo de negocio",
+        "IA conversacional",
+        "limitaciones gratuitas"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "OpenAI reportó que más del 90% de sus mil millones de usuarios semanales utilizan el plan gratuito, mientras que solo alrededor del 8% paga por los servicios premium."
+        },
+        {
+          "label": "comparación",
+          "text": "Google ha reforzado su oferta gratuita con Gemini, compitiendo directamente con OpenAI en el segmento de usuarios sin costo."
+        },
+        {
+          "label": "industria",
+          "text": "Otros medios, como Hipertextual, destacan que OpenAI está ampliando su ecosistema con dispositivos de IA, lo que refleja una tendencia general de las empresas de inteligencia artificial a combinar productos gratuitos con ventas de hardware y servicios premium."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "4e36ae816f42",
+      "title": "Los hutíes elevan la tensión en el Golfo con nuevos ataques contra Arabia Saudí y las fuerzas yemeníes",
+      "summary": "Los hutíes, milicia rebelde yemení, lanzaron ataques contra Arabia Saudí y fuerzas yemeníes, aumentando la tensión en el Golfo y el Mar Rojo. Simultáneamente, Arabia Saudí firmó un acuerdo de defensa con Turquía y Pakistán para crear una coalición marítima que contrarreste la amenaza percibida.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/internacional/2026-08-07/los-huties-elevan-la-tension-en-el-golfo-con-nuevos-ataques-contra-arabia-saudi-y-las-fuerzas-yemenies.html",
+      "published_at": "2026-08-07T12:39:44+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un lenguaje mayormente descriptivo y cita fuentes saudíes e internacionales sin usar adjetivos cargados, aunque presenta a los hutíes como \"milicia rebelde\" y destaca la supuesta coordinación iraní, lo que indica un leve sesgo hacia la perspectiva saudí‑occidental.",
+      "focus_analysis": "El medio se centra en el aspecto militar‑seguridad del conflicto, resaltando los ataques y la respuesta de defensa de Arabia Saudí, mientras deja de lado el impacto humanitario sobre la población civil yemení.",
+      "focus_tags": [
+        "seguridad",
+        "conflicto militar",
+        "geopolítica del Golfo"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del conflicto yemení",
+          "text": "La guerra civil en Yemen, iniciada en 2014, enfrenta al gobierno respaldado por Arabia Saudí contra los hutíes, que controlan gran parte del norte del país y reciben apoyo de Irán."
+        },
+        {
+          "label": "Ataques hutíes a infraestructuras energéticas",
+          "text": "En los últimos meses, los hutíes han lanzado misiles y drones contra instalaciones petroleras y buques en el Mar Rojo, provocando interrupciones en el suministro mundial de energía."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Euronews Español enfatizó el acuerdo de defensa entre Arabia Saudí, Turquía y Pakistán como una respuesta regional, mientras que El País destacó los ataques hutíes y la supuesta coordinación iraní, ofreciendo dos enfoques diferentes del mismo hecho."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "3557b54c8070",
+      "title": "Libros de la semana: Enrique Serna, Daft Punk…",
+      "summary": "Aristegui Noticias presenta una selección semanal de libros que incluye la novela histórica \"El dios hambriento\" de Enrique Serna, el ensayo sobre Daft Punk y la investigación periodística \"Cárteles Inc.\" de Guadalupe Correa‑Cabrera, resaltando la diversidad de la literatura mexicana contemporánea.",
+      "category": "literatura",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/0708/cultura/libros-de-la-semana-enrique-serna-daft-punk/",
+      "published_at": "2026-08-07T13:08:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los contenidos de los libros sin usar lenguaje cargado ni seleccionar fuentes con una orientación política marcada, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio opta por un ángulo cultural, destacando la oferta editorial y los temas de los libros, mientras deja de lado un análisis profundo de los contextos políticos o sociales que tratan.",
+      "focus_tags": [
+        "libros recomendados",
+        "cultura mexicana",
+        "literatura contemporánea"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Enrique Serna",
+          "text": "Enrique Serna, reconocido escritor mexicano, ha publicado novelas como \"El miedo a la libertad\" y \"El último suspiro\", consolidándose como una voz importante de la narrativa contemporánea."
+        },
+        {
+          "label": "Impacto de Daft Punk",
+          "text": "El dúo francés Daft Punk, pionero del \"French touch\", ha influido en la música electrónica global y su legado ha sido objeto de múltiples estudios y publicaciones."
+        },
+        {
+          "label": "Contexto de la violencia y narcotráfico en México",
+          "text": "Diversos informes y obras periodísticas, como \"Cárteles Inc.\", han señalado que la guerra contra el crimen organizado en México está vinculada a la lucha por recursos naturales y a la intervención de corporaciones internacionales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "331413a4b003",
+      "title": "Flor Vigna se quiebra en La Casa de los Famosos México decepcionada por Gema Garoa",
+      "summary": "La actriz argentina Flor Vigna declaró que se sintió herida al no ser nombrada por Gema Garoa entre sus aliados durante la gala de nominación de La Casa de los Famosos México, señalando que había invertido tiempo y consejos en la supuesta amistad. Vigna también reflexionó sobre su tendencia a idealizar a las personas y admitió que el encierro del programa puede distorsionar las percepciones.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/07/flor-vigna-se-quiebra-en-la-casa-de-los-famosos-mexico-por-decepcion-de-gema-garoa/",
+      "published_at": "2026-08-07T13:13:52+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en el drama personal y utiliza expresiones emotivas, pero no emplea lenguaje político ni destaca posiciones ideológicas, manteniéndose dentro del ámbito del entretenimiento.",
+      "focus_analysis": "El medio eligió enfocarse en el conflicto interpersonal y la carga emocional de los participantes, dejando de lado aspectos del juego, la estrategia de voto o la reacción del público.",
+      "focus_tags": [
+        "reality show",
+        "personal conflict",
+        "entertainment"
+      ],
+      "context": [
+        {
+          "label": "programa",
+          "text": "La Casa de los Famosos México es la versión local del reality show de convivencia, donde celebridades compiten en pruebas y nominaciones semanales para evitar la eliminación."
+        },
+        {
+          "label": "dinámica de alianzas",
+          "text": "En el programa, los participantes forman bloques y nominan a compañeros; la omisión de nombres en las nominaciones suele generar tensiones y acusaciones de falta de lealtad."
+        },
+        {
+          "label": "precedentes de conflicto",
+          "text": "En temporadas anteriores de La Casa de los Famosos y de otros reality shows similares, han surgido rupturas de amistad cuando los concursantes perciben que no fueron mencionados o apoyados por sus supuestos aliados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "4471f3c1313c",
+      "title": "Gerónimo Rulli viaja a Manchester para la revisión médica: firmará contrato por dos años en el club de la Premier League",
+      "summary": "El arquero argentino Gerónimo Rulli viajará a Manchester para someterse a la revisión médica y firmar un contrato de dos años con el Manchester City, club de la Premier League, después de que el Olympique de Marsella aceptara su salida para aliviar su masa salarial.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/07/geronimo-rulli-viaja-a-manchester-para-la-revision-medica-firmara-contrato-por-dos-anos-en-el-club-de-la-premier-league/",
+      "published_at": "2026-08-07T13:15:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos del traspaso, cifras del precio y la situación contractual sin usar adjetivos cargados ni favorecer a ninguna de las partes.",
+      "focus_analysis": "El medio se centra en los aspectos económicos del fichaje y en la planificación deportiva del Manchester City, dejando de lado la perspectiva personal del jugador o el impacto en la afición.",
+      "focus_tags": [
+        "transferencia",
+        "Premier League",
+        "fútbol"
+      ],
+      "context": [
+        {
+          "label": "situación del Manchester City",
+          "text": "El Manchester City busca reforzar su posición como segundo arquero, detrás de Gianluigi Donnarumma, en una temporada donde varios guardametas como Stefan Ortega y Scott Carson han abandonado el club."
+        },
+        {
+          "label": "situación financiera del Olympique de Marsella",
+          "text": "El club francés, que finalizó quinto en la Ligue 1, necesita reducir su masa salarial y ha negociado la salida de Rulli para generar ingresos y equilibrar sus finanzas."
+        },
+        {
+          "label": "trayectoria de Gerónimo Rulli",
+          "text": "Rulli, de 34 años, ha jugado en equipos como Ajax, Montpellier, Villarreal y Olympique de Marsella, y ha sido suplente en la selección argentina en torneos como la Copa América 2024 y el Mundial de Qatar 2022."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "3c71541be696",
+      "title": "Fragmentos de polvo en la taza: la novela de la memoria de Elena Poniatowska",
+      "summary": "Una taza de porcelana agrietada, aún humeante, derrama polvo de recuerdos cada vez que la levantas. En esa lluvia de fragmentos, la novela «Los recuerdos del porvenir» ofrece una voz que, como un eco de viento entre los ladrillos de la Revolución, reconstruye el pasado con la precisión de un reloj de arena al revés. Cada página es un sorbo que despierta el sabor amargo‑dulce de la historia mexicana, sin perder la frescura del presente.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-07T13:23:03.310899+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Escogí este libro porque en la temporada de calor se vuelve urgente buscar lecturas que refresquen la mente y, al mismo tiempo, nos recuerden los ecos de la historia que aún resuenan. El ángulo de la taza rota permite explorar cómo la memoria se reparte en pedazos que, aun rotos, siguen sirviendo sentido. Además, la obra de Poniatowska, poco leída fuera de los círculos académicos, merece un lugar en la mesa de los lectores curiosos.",
+      "focus_tags": [
+        "novela mexicana",
+        "memoria histórica",
+        "autor femenino"
+      ],
+      "context": [
+        {
+          "label": "Autor",
+          "text": "Elena Poniatowska, nacida en 1932 en Francia y criada en México, combina periodismo y literatura para dar voz a los marginados. Su estilo combina crónica y ficción, creando una narrativa que se siente a la vez documental y poética."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si te atrapa «Los recuerdos del porvenir», continúa con «La noche de Tlatelolco», un testimonio visceral de la matanza de 1968, y «Querido Diego, te abraza Quiela», una carta imaginaria que mezcla historia familiar y mito."
+        },
+        {
+          "label": "Trasfondo",
+          "text": "La novela se sitúa en la México de la Revolución, pero su enfoque está en los pequeños gestos cotidianos que forman la gran trama histórica. Poniatowska utiliza la técnica del collage de testimonios, una forma de escribir que recuerda a los mosaicos de una taza decorada con fragmentos de vida."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "41511443ea07",
       "title": "María José conquista el Auditorio Nacional: anuncia nuevo álbum y más conciertos",
@@ -799,251 +1045,6 @@
         {
           "label": "postura de otros medios",
           "text": "Mientras El Economista se concentra en la reacción del mercado, France24 destaca la declaración de Donald Trump sobre la pronta reapertura, Euronews enfatiza la inseguridad persistente pese al acuerdo Irán‑Omán, y la BBC alerta sobre riesgos de especies invasoras tras la reanudación del tráfico marítimo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "192e4ae66631",
-      "title": "El pronóstico del tiempo para la ciudad de Veracruz de este 7 de agosto",
-      "summary": "El pronóstico del tiempo para la ciudad de Veracruz el 7 de agosto de 2026 indica una máxima de 25 °C, vientos de 15 km/h y 20 % de probabilidad de lluvia, datos relevantes para el turismo y el transporte en el puerto.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/el-pronostico-del-tiempo-para-la-ciudad-de-veracruz-de-este-7-de-agosto/",
-      "published_at": "2026-08-07T12:15:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje informativo y descriptivo sin cargar palabras ni fuentes con sesgo político, centrado en datos meteorológicos y contexto turístico.",
-      "focus_analysis": "El medio elige un ángulo informativo‑turístico, detallando el clima y su relevancia para visitantes y sectores de transporte; omite cualquier discusión sobre cambio climático o implicaciones económicas más amplias.",
-      "focus_tags": [
-        "clima Veracruz",
-        "turismo",
-        "pronóstico"
-      ],
-      "context": [
-        {
-          "label": "antecedentes climáticos",
-          "text": "Veracruz, situada en la costa del Golfo de México, presenta un clima cálido y húmedo durante la mayor parte del año, con temperaturas promedio cercanas a los 25 °C y una temporada de lluvias que se extiende de junio a octubre."
-        },
-        {
-          "label": "importancia turística",
-          "text": "El puerto de Veracruz es uno de los principales destinos turísticos de México, atrayendo a visitantes especialmente en la Semana Santa, el verano y el Carnaval, periodos en los que el clima cálido favorece la actividad en playas, el históricos y eventos culturales."
-        },
-        {
-          "label": "impacto en transporte",
-          "text": "Los sectores de transporte marítimo y aéreo dependen del pronóstico meteorológico para planificar sus operaciones y minimizar retrasos o incidentes provocados por fenómenos severos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "e41aab2ffd1e",
-      "title": "Espliego, que no faneca (II)",
-      "summary": "En Letras Libres, la escritora Bárbara Mingo y Aloma Rodríguez relatan de forma íntima su visita a Aragón, Teruel y Garrapinillos, compartiendo recuerdos familiares, descripciones de paisajes rurales y sensaciones personales.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/espliego-que-no-faneca-ii/06/08/2026/",
-      "published_at": "2026-08-07T05:57:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es una narración personal sin lenguaje cargado ni fuentes políticas; se centra en experiencias y observaciones cotidianas sin inclinarse a ninguna posición ideológica.",
-      "focus_analysis": "El medio opta por un ángulo íntimo y sensorial, resaltando la experiencia familiar y la descripción del entorno rural, dejando de lado cualquier análisis económico, político o de seguridad.",
-      "focus_tags": [
-        "viaje familiar",
-        "descripción rural",
-        "memoria sensorial"
-      ],
-      "context": [
-        {
-          "label": "Perfil del medio",
-          "text": "Letras Libres es una revista cultural española conocida por publicar ensayos, crónicas y piezas literarias que privilegian la reflexión personal y el análisis cultural."
-        },
-        {
-          "label": "Región de Aragón",
-          "text": "Aragón, con su tradición agrícola y paisajes de campos de cereal y montañas, ha inspirado a numerosos escritores y poetas que destacan su identidad rural y su patrimonio histórico."
-        },
-        {
-          "label": "Tradición de la escritura epistolar",
-          "text": "En la literatura hispana, la forma de postales o cartas de viaje ha sido históricamente utilizada para mezclar recuerdos íntimos con descripciones del territorio, creando un vínculo entre lo personal y lo geográfico."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "b1d106a02c22",
-      "title": "El plan del Inter Miami con Lionel Messi para mantenerlo vinculado al club después de su retiro",
-      "summary": "El club Inter Miami de la Major League Soccer de Estados Unidos ha elaborado un plan para que el futbolista argentino Lionel Messi siga vinculado al equipo como propietario después de su retiro, pese a que la normativa de la MLS impide que jugadores activos tengan acciones del club.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/07/el-plan-del-inter-miami-con-lionel-messi-para-mantenerlo-vinculado-al-club-despues-de-su-retiro/",
-      "published_at": "2026-08-07T10:47:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la estrategia deportiva y comercial del club sin usar lenguaje cargado ni presentar opiniones políticas; la cobertura es informativa y neutra.",
-      "focus_analysis": "El medio destaca el ángulo institucional y económico del plan de Inter Miami, como la inversión y la estructura accionaria, dejando de lado el aspecto humano y personal de la despedida de Messi.",
-      "focus_tags": [
-        "plan post‑retiro",
-        "MLS normativa",
-        "estrategia comercial"
-      ],
-      "context": [
-        {
-          "label": "Impacto de la llegada de Messi",
-          "text": "Desde que Lionel Messi se incorporó a Inter Miami en 2023, el club ha experimentado un notable aumento en la asistencia a los partidos, la venta de merchandising y la exposición mediática internacional."
-        },
-        {
-          "label": "Restricciones de la MLS",
-          "text": "Los estatutos de la Major League Soccer prohíben que jugadores en activo posean acciones de los equipos, lo que obliga a cualquier participación accionaria de Messi a esperar hasta su retiro."
-        },
-        {
-          "label": "Precedentes de estrellas europeas en la MLS",
-          "text": "Jugadores como David Beckham y Thierry Henry han pasado a roles de gestión o propiedad en equipos de la MLS tras concluir sus carreras, creando un modelo que Inter Miami busca replicar con Messi."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "b9ced4359de4",
-      "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 7 de agosto? Reportan atrasos en Línea 9",
-      "summary": "El Metro de la Ciudad de México y el Metrobús informaron retrasos de alrededor de diez minutos en la Línea 9 y en la Línea A, especialmente en la estación Pantitlán, según actualizaciones en vivo del servicio.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/que-esta-pasando-en-el-metro-cdmx-y-metrobus-hoy-7-de-agosto/",
-      "published_at": "2026-08-07T11:57:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos de servicio con un lenguaje neutro y sin opiniones ni palabras cargadas, y no prioriza fuentes con inclinación política.",
-      "focus_analysis": "El artículo se centra en los retrasos operacionales y la información en tiempo real para los usuarios, dejando de lado aspectos de infraestructura, inversión o políticas de transporte.",
-      "focus_tags": [
-        "retrasos metro",
-        "servicio público",
-        "CDMX transporte"
-      ],
-      "context": [
-        {
-          "label": "Operación del Metro",
-          "text": "El Sistema de Transporte Colectivo (STC) de la Ciudad de México opera una de las redes de metro más grandes de América Latina, con 12 líneas que atienden a millones de pasajeros diarios."
-        },
-        {
-          "label": "Metrobús",
-          "text": "El Metrobús es un sistema de autobuses de tránsito rápido que complementa al metro, con rutas que atraviesan la capital y que también pueden verse afectadas por retrasos en la coordinación de horarios."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "En contraste, El Sol de México destacó la falta de torniquetes inteligentes en la Línea 2 del Metro, enfocándose en la infraestructura y la modernización en vez de los retrasos puntuales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
-      }
-    },
-    {
-      "id": "2707895b8709",
-      "title": "Portada impresa del 7 de agosto de 2026",
-      "summary": "El Universal difundió la portada impresa del 7 de agosto de 2026, accesible para suscriptores a través de su edición impresa.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/portada-impresa/portada-impresa-del-7-de-agosto-de-2026/",
-      "published_at": "2026-08-07T11:57:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a anunciar la portada y la disponibilidad para suscriptores, sin contenido opinativo ni selección de fuentes que indique inclinación política.",
-      "focus_analysis": "El medio se centró en promocionar su producto editorial impreso, omitiendo cualquier análisis político, económico o social del contenido de la edición.",
-      "focus_tags": [
-        "medios",
-        "publicidad",
-        "edición impresa"
-      ],
-      "context": [
-        {
-          "label": "Antecedente del medio",
-          "text": "El Universal es uno de los periódicos más grandes de México, con una línea editorial tradicionalmente centrista y una amplia base de lectores."
-        },
-        {
-          "label": "Tendencia de la prensa impresa",
-          "text": "A nivel mundial, la circulación de ediciones impresas ha disminuido en los últimos años, mientras que los medios digitales y los modelos de suscripción han crecido."
-        },
-        {
-          "label": "Estrategias de suscripción",
-          "text": "Otros periódicos mexicanos, como La Jornada y Milenio, también han intensificado la promoción de sus ediciones impresas y digitales para fidelizar a sus suscriptores."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "54149bf6e89f",
-      "title": "Si haces esto al limpiar tu cocina, solo estás acumulando humedad sin darte cuenta",
-      "summary": "Infobae México advierte que mantener el trapo de cocina húmedo y reutilizarlo para distintas tareas favorece la proliferación bacteriana, según la norma oficial NOM‑251‑SSA1‑2009 y un estudio de la Universidad de Mauricio que encontró que el 49 % de los trapos analizados al bacterias patógenas.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/si-haces-esto-al-limpiar-tu-cocina-solo-estas-acumulando-humedad-sin-darte-cuenta/",
-      "published_at": "2026-08-07T12:01:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos técnicos y datos de salud sin usar lenguaje cargado ni presentar opiniones políticas, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el riesgo sanitario y la correcta higiene doméstica, dejando de lado aspectos económicos o socioculturales relacionados con la práctica de limpieza en los hogares.",
-      "focus_tags": [
-        "salud pública",
-        "higiene doméstica",
-        "normativa mexicana"
-      ],
-      "context": [
-        {
-          "label": "Norma oficial mexicana",
-          "text": "La NOM‑251‑SSA1‑2009 de la Secretaría de Salud establece requisitos obligatorios de lavado, desinfección y secado de trapos de cocina para evitar su contaminación."
-        },
-        {
-          "label": "Estudios internacionales",
-          "text": "Investigaciones de la Universidad de Mauricio mostraron que la humedad y los restos de alimentos en los trapos favorecen la multiplicación de bacterias como Escherichia coli y Staphylococcus aureus."
-        },
-        {
-          "label": "Recomendaciones de la OMS",
-          "text": "La Organización Mundial de la Salud indica que la humedad persistente en superficies interiores aumenta el riesgo de crecimiento microbiano y debe reducirse para proteger la salud respiratoria."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "3e7987cf684a",
-      "title": "Henry Ford: \"Si un trabajador se considera experto, lo despedimos, nadie se considera un experto si conoce realmente su trabajo\"",
-      "summary": "El artículo de Xataka repasa la visión de Henry Ford, el fundador estadounidense de Ford Motor Company, quien afirmaba que los trabajadores que se creían expertos debían ser despedidos, resaltando su énfasis en la disciplina y la uniformidad en la línea de montaje del Model T.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/movilidad/henry-ford-trabajador-se-considera-experto-despedimos-nadie-se-considera-experto-conoce-realmente-su-trabajo",
-      "published_at": "2026-08-07T12:01:16+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono descriptivo y evita juicios políticos o valoraciones cargadas, citando solo fuentes históricas y entrevistas internas sin inclinarse a una posición ideológica.",
-      "focus_analysis": "El medio elige centrarse en la perspectiva histórica‑industrial de la gestión de Ford y su impacto en la producción en cadena, dejando de lado la discusión sobre derechos laborales contemporáneos o críticas al autoritarismo.",
-      "focus_tags": [
-        "historia industrial",
-        "filosofía de gestión",
-        "línea de montaje"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "Henry Ford introdujo la producción en cadena en 1913, lo que permitió la fabricación masiva del Model T y transformó la industria automotriz mundial."
-        },
-        {
-          "label": "Política laboral de Ford",
-          "text": "En 1914, Ford implementó el salario de cinco dólares al día, una medida que buscaba reducir el ausentismo y garantizar la presencia constante de los operarios en la fábrica."
-        },
-        {
-          "label": "Relevancia actual",
-          "text": "Las automotrices contemporáneas, como se menciona en el artículo, recurren a vehículos preconfigurados para mitigar problemas de suministro, reflejando la continuidad de la lógica de estandarización iniciada por Ford."
         }
       ],
       "confidence": "alta",
