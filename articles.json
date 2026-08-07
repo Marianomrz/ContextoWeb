@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-07T15:41:39.020060+00:00",
+  "generated_at": "2026-08-07T16:02:12.056233+00:00",
   "articles": [
+    {
+      "id": "38abf0378a79",
+      "title": "Al menos siete personas murieron tras dos tiroteos de un estudiante en Tailandia",
+      "summary": "Un estudiante de 14 años en la provincia de Nonthaburi, cerca de Bangkok, Tailandia, asesinó a sus dos abuelos y luego abrió fuego en la escuela secundaria Debsirin Nonthaburi, matando a al menos cinco miembros del personal y suicidándose, dejando al menos siete muertos en total.",
+      "category": "internacional",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260807-al-menos-siete-personas-murieron-tras-dos-tiroteos-de-un-estudiante-en-tailandia",
+      "published_at": "2026-08-07T15:18:37+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje factual y neutro, citando a autoridades y presentando datos sin adjetivos cargados ni opiniones; no favorece ni critica a ningún actor político.",
+      "focus_analysis": "El artículo se centra en los hechos del tiroteo, la respuesta policial y la alta tasa de armas en Tailandia, dejando fuera un análisis profundo de causas sociales o de salud mental del agresor.",
+      "focus_tags": [
+        "violencia escolar",
+        "posesión de armas",
+        "respuesta institucional"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de posesión de armas en Tailandia",
+          "text": "Tailandia registra una de las tasas de armasión de armas más altas de la región de Asia‑Pacífico, con aproximadamente diez millones de armas en circulación, lo que ha limitado la efectividad de las promesas de endurecer la legislación sobre armas."
+        },
+        {
+          "label": "Incidentes escolares previos",
+          "text": "En febrero de 2026 la policía tailandesa detuvo a un adolescente que disparó en una escuela del sur, matando al director y hiriendo a dos estudiantes; en 2022, un ex policía armado perpetró una masacre en una guardería que dejó 24 niños y 12 adultos muertos."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios, como El País América y Euronews Español, reportaron un número mayor de víctimas (ocho o nueve muertos) y enfatizaron el debate sobre la violencia armada en Tailandia, un ángulo no desarrollado en la nota de France24."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "0c47a3621178",
+      "title": "Apple resuelve una vulnerabilidad crítica de macOS: actualiza tu Mac ahora",
+      "summary": "Apple Inc., el fabricante de computadoras y sistemas operativos, lanzó actualizaciones de macOS que corrigen la vulnerabilidad crítica CVE‑2026‑65400 en la función de compartir pantalla, disponible para las versiones Sonoma, Sequoia y Tahoe. El fallo permitía a un atacante remoto acceder sin autenticación a la pantalla y a otras funciones del Mac.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/apple/apple-resuelve-vulnerabilidad-critica-macos/",
+      "published_at": "2026-08-07T15:10:52+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo mantiene un tono puramente informativo, describiendo la vulnerabilidad y la solución sin emplear lenguaje cargado ni citar fuentes con inclinación política.",
+      "focus_analysis": "El medio se centró en el aspecto de seguridad del software, detallando la vulnerabilidad y las actualizaciones, mientras omitió el impacto comercial o la estrategia de Apple en el mercado.",
+      "focus_tags": [
+        "seguridad informática",
+        "actualizaciones de software",
+        "macOS"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Apple ha publicado anteriormente parches críticos para iOS y macOS, como el caso del fallo de Pegasus en 2023, demostrando su política de actualizaciones de seguridad."
+        },
+        {
+          "label": "comparación",
+          "text": "A diferencia de la cobertura de Hipertextual, otros medios como Applesfera se enfocaron en contenidos de entretenimiento de Apple TV, sin mencionar la vulnerabilidad, lo que muestra distintas prioridades editoriales."
+        },
+        {
+          "label": "postura de terceros",
+          "text": "Expertos en ciberseguridad han advertido que vulnerabilidades en funciones de compartir pantalla pueden ser explotadas para espionaje remoto, recomendando la instalación inmediata de los parches."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "2728dfe3c89d",
+      "title": "Cibercrisis educativa, el impacto se extiende mucho más allá del aula",
+      "summary": "El sector educativo mexicano enfrenta una creciente ola de ciberataques, especialmente ransomware, que paralizan escuelas y afectan la continuidad del aprendizaje, mientras la falta de recursos y sistemas obsoletos aumenta su vulnerabilidad.",
+      "category": "tecnologia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/los-especiales/cibercrisis-educativa-impacto-extiende-aula-20260807-827117.html",
+      "published_at": "2026-08-07T16:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene descriptivo y técnico, citando a expertos y datos sin usar un cargado ni oar posiciones políticas, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y tecnológico, resaltando la infraestructura, los procesos de respaldo y el impacto operativo, dejando de lado las historias humanas de estudiantes y docentes o el debate político sobre políticas de ciberseguridad.",
+      "focus_tags": [
+        "ciberseguridad",
+        "educación",
+        "ransomware"
+      ],
+      "context": [
+        {
+          "label": "Tendencia global",
+          "text": "A nivel mundial, las instituciones educativas se ubican entre los tres principales objetivos de los ciberdelincuentes, junto a sectores como salud y gobierno, debido a la gran cantidad de datos sensibles que manejan."
+        },
+        {
+          "label": "Situación en México",
+          "text": "Según el informe de IQSEC, la educación es la segunda industria más atacada en México, solo superada por el sector gubernamental, lo que refleja una vulnerabilidad estructural en el país."
+        },
+        {
+          "label": "Política pública",
+          "text": "El gobierno mexicano ha lanzado iniciativas de ciberseguridad, como la Estrategia Nacional de Seguridad Digital, que buscan fortalecer la protección de datos en instituciones públicas, incluidas las escuelas, aunque su implementación sigue siendo limitada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "9e5911a88c89",
+      "title": "La curiosa historia del jugador italiano que lidera la tabla de goleadores en el inicio del Torneo Clausura",
+      "summary": "El delantero italiano Agustín Módica, formado en Rosario Central y actualmente en Gimnasia y Esgrima de Mendoza, encabeza la lista de goleadores del Torneo Clausura 2026 del fútbol argentino.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/07/la-curiosa-historia-del-jugador-italiano-que-lidera-la-tabla-de-goleadores-en-el-inicio-del-torneo-clausura/",
+      "published_at": "2026-08-07T15:54:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la trayectoria y desempeño del jugador, usando un tono descriptivo y positivo sin incluir lenguaje cargado ni referencias políticas.",
+      "focus_analysis": "El medio eligió un ángulo humano‑deportivo, resaltando la historia personal y el rendimiento de Módica; no aborda aspectos económicos del club ni la política del fútbol.",
+      "focus_tags": [
+        "fútbol argentino",
+        "goleador",
+        "historia personal"
+      ],
+      "context": [
+        {
+          "label": "Estructura del torneo",
+          "text": "En Argentina, la Primera División se divide en dos etapas anuales, el Torneo Apertura y el Torneo Clausura, cada una con su propia tabla de clasificación y premios para los mejores goleadores."
+        },
+        {
+          "label": "Jugadores con doble nacionalidad",
+          "text": "Es frecuente que futbolistas nacidos en Italia o con ascendencia italiana se formen en las inferiores argentinas y luego aspiren a representar a la selección italiana, como ocurre con Agustín Módica."
+        },
+        {
+          "label": "Situación de Gimnasia y Esgrima de Mendoza",
+          "text": "El club mendocino, tras ascender a la máxima categoría, se ubica entre los primeros puestos de la zona A del Torneo Clausura, y la aportación de Módica es considerada clave para mantener esa posición."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "7fbc2ef5cec1",
+      "title": "Con voz entrecortada, Luis Cárdenas se despide de MVS; “nadie pidió mi cabeza”, dice",
+      "summary": "El periodista mexicano Luis Cárdenas anunció su salida de MVS Noticias después de 16 años, destacando que siempre contó con libertad para informar y que su partida no se debió a presiones ni censura.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/tendencias/con-voz-entrecortada-luis-cardenas-se-despide-de-mvs-nadie-pidio-mi-cabeza-dice/",
+      "published_at": "2026-08-07T15:55:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a reproducir las declaraciones del propio Cárdenas y describe su despedida sin usar vocabulario cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centra en el aspecto personal y profesional de la despedida del periodista y en su defensa de la libertad de expresión, dejando de lado análisis de posibles impactos económicos o políticos de su salida.",
+      "focus_tags": [
+        "despedida profesional",
+        "libertad de expresión",
+        "radio mexicana"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria de Luis Cárdenas",
+          "text": "Luis Cárdenas es un comunicólogo y columnista mexicano con más de dos décadas de experiencia en radio, conocido por su programa matutino \"Primera Emisión\" en MVS Noticias."
+        },
+        {
+          "label": "Libertad de expresión en México",
+          "text": "México ocupa un puesto bajo en rankings internacionales de libertad de prensa, con varios casos de periodistas amenazados, desplazados o asesinados por su trabajo informativo."
+        },
+        {
+          "label": "Historia de MVS Noticias",
+          "text": "MVS Noticias, parte del grupo de medios MVS, es una de las principales cadenas de radio informativa de México, fundada en 1997 y conocida por su enfoque de cobertura de noticias de alcance nacional."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "402d780527ba",
+      "title": "México vs Canadá, EN VIVO: cuándo y dónde ver la Semifinal del Premundial Sub-20",
+      "summary": "La selección mexicana de fútbol sub‑20 se enfrentará a Canadá en la semifinal del Premundial Sub‑20 de la CONCACAF este viernes 7 de agosto, con la posibilidad de clasificar tanto al Mundial Sub‑20 2027 como a los Juegos Olímpicos de Los Ángeles 2028.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/07/mexico-vs-canada-en-vivo-cuando-y-donde-ver-la-semifinal-del-premundial-sub-20/",
+      "published_at": "2026-08-07T15:57:49+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto se limita a informar sobre el partido, horarios y canales de transmisión sin usar lenguaje cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centra en los aspectos deportivos del encuentro —horario, sede y repercusión competitiva— dejando de lado contextos sociales o políticos relacionados con el fútbol juvenil.",
+      "focus_tags": [
+        "fútbol sub‑20",
+        "semifinal",
+        "transmisión en línea"
+      ],
+      "context": [
+        {
+          "label": "torneo",
+          "text": "El Premundial Sub‑20 de la CONCACAF es el torneo clasificatorio para la Copa Mundial Sub‑20, donde los equipos de la región compiten por el título y los boletos al mundial."
+        },
+        {
+          "label": "rendimiento México",
+          "text": "La selección mexicana de fútbol sub‑20 llegó a semifinales tras vencer a Panamá 4‑0 en cuartos, demostrando un juego dominante aunque con momentos de desconcentración."
+        },
+        {
+          "label": "clasificación olímpica",
+          "text": "Además del pase al mundial, el campeonato sirve como vía de clasificación a los Juegos Olímpicos de Los Ángeles 2028, lo que añade importancia al resultado de la semifinal."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "aed021540666",
       "title": "¿Quiénes son los semifinalistas nacionales de ‘México Canta’ 2026? Lista completa, sedes y fechas rumbo a la final",
@@ -839,217 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.4
-      }
-    },
-    {
-      "id": "3c71541be696",
-      "title": "Fragmentos de un espejo roto: el eco de Pessoa en la noche de Lisboa",
-      "summary": "Una calle empedrada, húmeda bajo la lluvia de Lisboa, refleja la luz temblorosa de un farol, como los fragmentos de un espejo que sólo muestra partes de sí mismo. En esa penumbra, el libro de Fernando Pessoa, *El libro del desasosiego*, se vuelve un susurro que se escapa entre los ladrillos. Cada página es un espejo roto que, al recomponerse, revela la misma ausencia.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-07T15:07:46.838900+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, bajo el calor de un verano europeo, la fragmentación de la identidad parece resonar con la incertidumbre global. Elegí a Pessoa porque su obra ofrece una brújula para navegar la multiplicidad de voces que nos rodean. El ángulo del espejo roto permite explorar la belleza de lo incompleto sin buscar una solución definitiva.",
-      "focus_tags": [
-        "modernismo",
-        "Portugal",
-        "poesía"
-      ],
-      "context": [
-        {
-          "label": "Primer paso con Pessoa",
-          "text": "Comienza por leer los *Fragmentos* del *Libro del desasosiego*, una colección de notas que el propio autor dejó sin ordenar, ofreciendo una visión fragmentada del yo."
-        },
-        {
-          "label": "Explorar resonancias",
-          "text": "Descubre la afinidad con la prosa de Clarice Lispector, cuya escritura también navega entre la introspección y la incertidumbre, creando puentes entre continentes."
-        },
-        {
-          "label": "Entender el contexto",
-          "text": "Contextualiza la producción de Pessoa en la Lisboa de los años veinte, una ciudad que respiraba modernismo mientras sus cafés albergaban debates políticos y literarios."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "4825814c80b3",
-      "title": "¿Tienes un terreno? McDonald's busca espacios para expandir su red de restaurantes",
-      "summary": "Arcos Dorados, operador de McDonald’s en América Latina y el Caribe, ha lanzado un portal para que propietarios de terrenos comerciales presenten sus inmuebles y así ampliar la red de restaurantes de la cadena en la región, con especial énfasis en México donde cuenta con alrededor de 380 sucursales.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/econohabitat/tienes-terreno-mcdonald-s-busca-espacios-expandir-red-restaurantes-20260807-827100.html",
-      "published_at": "2026-08-07T15:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, sin lenguaje cargado ni selección de fuentes que favorezcan una posición política o ideológica.",
-      "focus_analysis": "El medio se centra en el ángulo económico y empresarial, describiendo la estrategia de expansión inmobiliaria de McDonald’s; omite análisis de impacto social o político del crecimiento de la cadena.",
-      "focus_tags": [
-        "expansión empresarial",
-        "real estate",
-        "McDonald's"
-      ],
-      "context": [
-        {
-          "label": "Operador principal",
-          "text": "Arcos Dorados es el mayor franquiciado independiente de McDonald’s a nivel mundial, gestionando más de 2,500 restaurantes en 21 territorios de América Latina y el Caribe."
-        },
-        {
-          "label": "Estrategia de crecimiento de McDonald’s",
-          "text": "A nivel global, McDonald’s prioriza la apertura de locales en zonas de alto tráfico y con formatos drive‑thru, una tendencia que impulsa su expansión en mercados latinoamericanos."
-        },
-        {
-          "label": "Mercado inmobiliario comercial en México",
-          "text": "En México, la demanda de terrenos comerciales ha aumentado, impulsada por inversionistas que buscan rentabilizar activos frente a tasas de interés relativamente bajas y un entorno económico favorable."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "e41aab2ffd1e",
-      "title": "Espliego, que no faneca (II)",
-      "summary": "En la columna de Letras Libres, Bárbara Mingo Costales y Aloma Rodríguez comparten una serie de postales y recuerdos de un viaje por Aragón y Teruel, describiendo paisajes, comidas y momentos familiares.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/espliego-que-no-faneca-ii/06/08/2026/",
-      "published_at": "2026-08-07T05:57:09+00:00",
-      "bias_score": -15,
-      "bias_reason": "El texto se centra exclusivamente en experiencias personales y descriptivas, sin referencias a política ni fuentes externas; el tono neutro y la ausencia de agenda explícita reflejan la ligera inclinación editorial de Letras Libres sin un sesgo evidente.",
-      "focus_analysis": "El medio elige un ángulo humano y cultural, resaltando la vida cotidiana, la naturaleza y la literatura, mientras omite cualquier análisis económico o político del contexto.",
-      "focus_tags": [
-        "viaje familiar",
-        "descripción sensorial",
-        "cultura regional"
-      ],
-      "context": [
-        {
-          "label": "Región de Aragón",
-          "text": "Aragón es una comunidad autónoma del noreste de España conocida por su paisaje de montaña, su patrimonio histórico y la tradición agrícola, lo que la convierte en un escenario frecuente de relatos de viaje y literatura."
-        },
-        {
-          "label": "Letras Libres",
-          "text": "Letras Libres es una revista cultural mexicana de tendencia progresista que publica ensayos, crónicas y literatura, y suele favorecer perspectivas críticas y reflexivas."
-        },
-        {
-          "label": "Intercambio de postales en la cultura hispana",
-          "text": "El envío de postales como forma de mantener vínculos familiares y compartir imágenes del entorno es una práctica tradicional en España y América Latina, utilizada frecuentemente en narrativas personales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "b9ced4359de4",
-      "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 7 de agosto? Reportan atrasos en 7 líneas del STC",
-      "summary": "El Sistema de Transporte Colectivo (STC) Metro y el Metrobús de la Ciudad de México presentaron este viernes 7 de agosto retrasos de más de diez minutos en siete líneas del metro y en la línea 7 del Metrobús, principalmente por congestión vehicular en la zona de Garibaldi, M. Lagunilla e Hidalgo, lo que ha obligado a los usuarios a buscar rutas alternativas.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/que-esta-pasando-en-el-metro-cdmx-y-metrobus-hoy-7-de-agosto/",
-      "published_at": "2026-08-07T14:55:54+00:00",
-      "bias_score": 2,
-      "bias_reason": "El texto se limita a describir los retrasos y sus causas inmediatas sin usar lenguaje cargado ni incluir opiniones, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en la interrupción del servicio de transporte y su impacto directo en los usuarios, dejando de lado cualquier análisis sobre causas estructurales, decisiones de gestión o implicaciones económicas.",
-      "focus_tags": [
-        "transporte público",
-        "retrasos",
-        "Metro CDMX"
-      ],
-      "context": [
-        {
-          "label": "Importancia del Metro",
-          "text": "El STC Metro es la columna vertebral del transporte urbano de la Ciudad de México, movilizando a varios millones de pasajeros cada día y siendo esencial para la movilidad laboral y educativa."
-        },
-        {
-          "label": "Rol del Metrobús",
-          "text": "El Metrobús, con más de 22 millones de usuarios al año, es el segundo medio de transporte más usado en la capital, complementando al Metro en corredores de alta demanda."
-        },
-        {
-          "label": "Congestión en Garibaldi",
-          "text": "La zona de Garibaldi y alrededores históricamente sufre de alta congestión vehicular, lo que frecuentemente genera demoras en la circulación de los autobuses y afecta la puntualidad del Metrobús."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "b8719da2bc3f",
-      "title": "Pero… ¿hubo alguna vez 11.000 reformistas? En memoria de Pablo Vázquez",
-      "summary": "Pablo Vázquez, gestor público español y director de la Fundación Reformismo21, es recordado por su integridad y su labor en la generación de ideas para la derecha política, mientras el autor lamenta la escasez de reformistas en la actualidad.",
-      "category": "politica",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/politica/pero-hubo-alguna-vez-11-000-reformistas-en-memoria-de-pablo-vazquez/07/08/2026/",
-      "published_at": "2026-08-07T08:18:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y elogioso sin emplear vocabulario cargado ni favorecer explícitamente a una corriente política; se centra en la figura del fallecido y en la reflexión sobre la falta de reformistas, lo que indica una posición centrada.",
-      "focus_analysis": "El medio elige un ángulo humano y moral, resaltando la personalidad y los valores de Pablo Vázquez, dejando de lado un análisis profundo de sus propuestas concretas o del impacto institucional de sus ideas.",
-      "focus_tags": [
-        "obituario",
-        "reformismo",
-        "política pública"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Pablo Vázquez",
-          "text": "Pablo Vázquez fue director de la Fundación de Reform21 y de la asociación Fedea, y desempeñó cargos en gobiernos de José María Aznar y en la empresa pública Renfe, dedicándose a la generación de propuestas de reforma económica e institucional."
-        },
-        {
-          "label": "Desafíos del reformismo en España",
-          "text": "El reformismo español ha enfrentado dificultades electorales y de financiación, lo que ha limitado la aparición de figuras que promuevan cambios estructurales en la política y la economía."
-        },
-        {
-          "label": "Entorno de los think tanks españoles",
-          "text": "Organizaciones como Reformismo21 y Fedea buscan influir en la agenda pública mediante la difusión de ideas, pero su impacto se ve reducido por la polarización política y la prevalencia de discursos partidistas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "781694942b14",
-      "title": "Se pone en marcha la fecha 4 del Torneo Clausura con dos partidos: todo lo que hay que saber",
-      "summary": "Este viernes comienza la fecha 4 del Torneo Clausura de la Liga Profesional de Fútbol de Argentina, con los encuentros Rosario Central‑Aldosivi a las 19:30 y Independiente Rivadavia‑Estudiantes de Río Cuarto a las 21:45.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/07/se-pone-en-marcha-la-fecha-4-del-torneo-clausura-con-dos-partidos-todo-lo-que-hay-que-saber/",
-      "published_at": "2026-08-07T14:30:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin adjetivos cargados ni fuentes con inclinación política; se limita a presentar alineaciones, resultados recientes y datos de calendario.",
-      "focus_analysis": "El medio se centra en el análisis deportivo de los equipos, su forma reciente y alineaciones, dejando de lado aspectos financieros del torneo o la opinión de los hinchas.",
-      "focus_tags": [
-        "fútbol argentino",
-        "torneo clausura",
-        "previsión de partidos"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento de Rosario Central",
-          "text": "Rosario Central llega a la fecha 4 con una racha negativa, habiendo perdido contra Gimnasia y Esgrima La Plata y Barracas Central, y solo sumó un punto ante Defensa y Justicia, pero se prepara para su debut en la Copa Libertadores contra Corinthians."
-        },
-        {
-          "label": "Situación de Independiente Rivadavia",
-          "text": "Independiente Rivadavia mantiene su puesto de privilegio en la Zona B de la tabla anual, buscando consolidarse mientras su rival, Estudiantes de Río Cuarto, lucha por sumar puntos fuera de casa."
-        },
-        {
-          "label": "Estado de Estudiantes de Río Cuarto",
-          "text": "Estudiantes de Río Cuarto comenzó el torneo con una victoria ante Tigre, sufrió una goleada frente a Argentinos y empató sin goles contra Banfield, por lo que ahora necesita sumar para evitar la zona de descenso."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
       }
     }
   ]
