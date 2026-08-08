@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-08T00:01:39.077722+00:00",
+  "generated_at": "2026-08-08T00:26:34.969207+00:00",
   "articles": [
+    {
+      "id": "e8d3747130bd",
+      "title": "Museo del Gato, una apuesta interactiva para contar la historia de los felinos",
+      "summary": "El Museo del Gato, inaugurado el 8 de agosto en Paseo de la Reforma de Ciudad de México, ofrece una visita de 45 minutos con salas interactivas, realidad virtual y un proyecto de recaudación para financiar una unidad móvil de esterilización de animales.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/arteseideas/museo-gato-apuesta-interactiva-contar-historia-felinos-20260807-827235.html",
+      "published_at": "2026-08-07T23:54:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir factual y objetivamente la inauguración, las instalaciones y el objetivo del museo, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio destaca el aspecto cultural y tecnológico del museo, así como su componente de bienestar animal, dejando de lado la discusión sobre políticas públicas de control de población animal o el impacto económico del proyecto.",
+      "focus_tags": [
+        "cultura interactiva",
+        "tecnología",
+        "bienestar animal"
+      ],
+      "context": [
+        {
+          "label": "Día Internacional del Gato",
+          "text": "El 8 de agosto se celebra mundialmente el Día Internacional del Gato, una fecha que promueve la adopción y el cuidado responsable de los felinos."
+        },
+        {
+          "label": "Museos interactivos en México",
+          "text": "En los últimos años, varias instituciones mexicanas han incorporado experiencias de realidad virtual y contenidos digitales para atraer a públicos más amplios y modernizar la oferta museística."
+        },
+        {
+          "label": "Programas de esterilización animal",
+          "text": "México cuenta con iniciativas gubernamentales y de ONG para esterilizar perros y gatos, pero la demanda supera los recursos disponibles, lo que genera la necesidad de fondos adicionales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "d19659095f53",
+      "title": "Disney Plus está probando una IA que entiende lo que quieres ver",
+      "summary": "Disney Plus, la plataforma de streaming de Disney, está probando una herramienta de inteligencia artificial que permite a los usuarios buscar contenido mediante lenguaje natural o voz, generando listas de recomendaciones personalizadas.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/disney-plus-busqueda-ia-recomendaciones/",
+      "published_at": "2026-08-07T19:36:21+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto se mantiene descriptivo y neutral, presenta hechos sobre la prueba de IA y menciona a competidores sin usar lenguaje cargado ni favorecer a ninguna empresa.",
+      "focus_analysis": "El artículo se centra en la innovación tecnológica de Disney Plus en la búsqueda y recomendación de contenidos, dejando de lado aspectos como la privacidad de datos o la repercusión comercial del cambio.",
+      "focus_tags": [
+        "IA en streaming",
+        "recomendaciones personalizadas",
+        "búsqueda por voz"
+      ],
+      "context": [
+        {
+          "label": "competidores",
+          "text": "Netflix introdujo en 2025 una búsqueda conversacional basada en OpenAI, mientras que Prime Video lanzó en 2024 recomendaciones impulsadas por IA bajo la colección \"Hechas para ti\"."
+        },
+        {
+          "label": "modelo tradicional",
+          "text": "Hasta ahora, Disney Plus se basaba principalmente en el historial de visualización para sugerir películas y series, un método que funciona bien cuando los gustos del usuario son constantes."
+        },
+        {
+          "label": "extensión deportiva",
+          "text": "La misma tecnología de IA será probada en ESPN, donde un chatbot responderá preguntas sobre partidos y eventos, ofreciendo estadísticas y recomendaciones personalizadas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "34cf221effee",
+      "title": "Amazon invierte en construcción de enorme planta de gas en EU para centros de datos",
+      "summary": "Amazon ha anunciado la financiación de una enorme planta de gas en Texas que generará energía eléctrica para sus centros de datos, una iniciativa que busca cubrir la alta demanda de energía impulsada por la inteligencia artificial aunque podría convertirse en una de las mayores fuentes de emisiones de gases de efecto invernadero en EE. UU.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/amazon-invierte-construccion-enorme-planta-gas-eu-centros-datos-20260807-827236.html",
+      "published_at": "2026-08-08T00:01:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y neutral, presentando tanto la justificación de Amazon como los posibles impactos ambientales sin usar un carga emotiva ni favorecer explícitamente a ninguna posición.",
+      "focus_analysis": "El medio se centra en el aspecto económico y tecnológico de la inversión de Amazon, resaltando la necesidad energética de la IA, mientras que el análisis profundo de las consecuencias medioambientales queda relegado.",
+      "focus_tags": [
+        "inversión energética",
+        "centros de datos",
+        "impacto ambiental"
+      ],
+      "context": [
+        {
+          "label": "Demanda de energía de la IA",
+          "text": "El rápido crecimiento de la inteligencia artificial ha incrementado notablemente el consumo eléctrico de los centros de datos en Estados Unidos, obligando a empresas tecnológicas a buscar fuentes de energía más inmediatas y a gran escala."
+        },
+        {
+          "label": "Emisiones de plantas de gas",
+          "text": "Las centrales de gas natural, aunque menos contaminantes que las de carbón, siguen siendo responsables de emisiones significativas de CO₂ y metano, y pueden afectar la calidad del aire y la salud de comunidades cercanas."
+        },
+        {
+          "label": "Política energética de Texas",
+          "text": "Texas posee un mercado eléctrico descentralizado y ha enfrentado críticas por su vulnerabilidad a cortes de energía y por la falta de regulación estricta de emisiones, lo que genera debates sobre nuevos proyectos de generación privada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "dca5f934ae28",
+      "title": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digital",
+      "summary": "Google eliminó de la Play Store las ediciones extendidas de la trilogía \"El Señor de los Anillos\" que varios usuarios habían comprado en 2022, lo que ha reavivado el debate sobre los derechos de los consumidores frente a la propiedad digital.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-digital/",
+      "published_at": "2026-08-07T21:04:54+00:00",
+      "bias_score": -35,
+      "bias_reason": "El texto enfatiza las quejas de los usuarios y la falta de reembolso, usando vocabulario negativo y sin presentar una defensa equilibrada de Google, lo que genera una perspectiva claramente crítica hacia la empresa.",
+      "focus_analysis": "El artículo se centra en el ángulo de los derechos del consumidor y la fragilidad de la propiedad digital, dejando de lado explicaciones técnicas o legales sobre los acuerdos de licenciamiento que podrían justificar la eliminación del contenido.",
+      "focus_tags": [
+        "propiedad digital",
+        "derechos del consumidor",
+        "Google Play"
+      ],
+      "context": [
+        {
+          "label": "cierre del servicio",
+          "text": "Google discontinuó su servicio de Películas y TV en enero de 2024, pero había prometido que los contenidos ya adquiridos permanecerían accesibles en las bibliotecas de los usuarios."
+        },
+        {
+          "label": "casos similares",
+          "text": "Sony retiró cientos de películas y series de su catálogo digital en 2023 y en 2026, citando acuerdos de licencia, y PlayStation informó a usuarios del Reino Unido que perderían acceso a contenidos de StudioCanal."
+        },
+        {
+          "label": "debate sobre la propiedad digital",
+          "text": "Expertos y defensores de los consumidores han señalado que la compra de contenidos digitales no garantiza su permanencia, lo que ha impulsado discusiones sobre la necesidad de regulaciones que protejan los derechos de los usuarios."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "e5b41c6292c3",
+      "title": "Examen de control de la UNAM; estos documentos debes llevar a tu cita; piden anticipar traslados a sedes",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) convocó a los aspirantes a presentar el examen de control presencial de ingreso a licenciatura 2026, indicando que deben llevar identificación oficial y la cita impresa, y que deben organizar con anticipación el transporte, hospedaje y alimentación para la sede asignada.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/examen-de-control-de-la-unam-estos-documentos-debes-llevar-a-tu-cita-piden-anticipar-traslados-a-sedes/",
+      "published_at": "2026-08-08T00:15:47+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y neutral, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El artículo se centra en el aspecto institucional y logístico del examen de control, proporcionando datos sobre documentos requeridos y planificación de traslado, mientras omite discusiones sobre la equidad del proceso o sus implicaciones sociales.",
+      "focus_tags": [
+        "examen de control",
+        "logística de traslado",
+        "UNAM"
+      ],
+      "context": [
+        {
+          "label": "Proceso de admisión UNAM",
+          "text": "La UNAM realiza un examen de control presencial como paso adicional después del concurso de selección, involucrando a decenas de miles de aspirantes cada año."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios, como Infobae y El Informador, mencionan sedes diferentes (Guanajuato y Baja California) y destacan el número total de aspirantes (58,783), lo que muestra variaciones en la información difundida."
+        },
+        {
+          "label": "Regionalización y costos",
+          "text": "La asignación de sedes se basa en criterios de regionalización para reducir tiempos y costos de traslado, aunque la UNAM advierte que no se permite cambiar de sede una vez asignada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "56f9c78cfc85",
+      "title": "El golazo desde la mitad de cancha que Aldosivi le convirtió a Rosario Central: “Le pegó desde Mar del Plata”",
+      "summary": "En el cuarto encuentro de la Zona B del Torneo Clausura, Aldosivi se impuso a Rosario Central gracias a un golazo de Alan Sosa, quien remató de izquierda desde la mitad de la cancha y sorprendió al arquero Jeremías Ledesma.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/08/el-golazo-desde-la-mitad-de-cancha-que-aldosivi-le-convirtio-a-rosario-central-le-pego-desde-mar-del-plata/",
+      "published_at": "2026-08-08T00:22:58+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir el hecho deportivo con tono neutro, sin usar adjetivos cargados ni citar fuentes parciales, por lo que no muestra sesgo político ni ideológico.",
+      "focus_analysis": "El medio se centra en la espectacularidad del gol y la ejecución del jugador, dejando de lado el análisis del impacto del resultado en la clasificación del torneo o en la actuación táctica de los equipos.",
+      "focus_tags": [
+        "golazo",
+        "fútbol argentino",
+        "Torneo Clausura"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "El partido se disputó en el Gigante de Arroyito, estadio de Rosario Central, y correspondía a la cuarta fecha de la zona B del Torneo Clausura de la Primera División argentina."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "Los goles desde la mitad de la cancha son raros en el fútbol profesional y suelen recibir gran atención mediática, como el famoso gol de Xabi Alonso contra el Real Madrid en 2009."
+        },
+        {
+          "label": "Postura de otros actores",
+          "text": "Tras el gol, el comentarista del partido describió la jugada como \"un remate desde Mar del Plata\", resaltando la distancia y la precisión del disparo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "f100ac8ff5a6",
       "title": "El gran gesto de Igor Lichnovsky en la comunidad de El Herrado, en Chiapas",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.6
-      }
-    },
-    {
-      "id": "c8ad8316eeb3",
-      "title": "Canales para ver Orlando City vs Club León, Inter de Miami vs Rayados y Chivas vs FC Dallas, partidos de Leagues Cup",
-      "summary": "El periódico AM de León informó sobre los canales de televisión y plataformas digitales donde se podrán seguir los partidos de la Leagues Cup del 8 de agosto, incluidos los encuentros de Club León contra Orlando City, Inter de Miami contra Rayados y Chivas contra FC Dallas.",
-      "category": "deportes",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/superdeportivo/2026/08/07/canales-para-ver-orlando-city-vs-club-leon-inter-de-miami-vs-rayados-y-chivas-vs-fc-dallas-partidos-de-leagues-cup-1828916.html",
-      "published_at": "2026-08-07T23:07:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos de transmisión y horarios sin usar lenguaje cargado ni citar fuentes con inclinación política, manteniendo un tono puramente informativo.",
-      "focus_analysis": "El medio eligió un ángulo informativo centrado en los canales de difusión y horarios de los partidos, dejando de lado análisis deportivos, opiniones de jugadores o contexto competitivo.",
-      "focus_tags": [
-        "televisión",
-        "Leagues Cup",
-        "canales"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la Leagues Cup",
-          "text": "La Leagues Cup es un torneo que reúne a equipos de la MLS y Liga MX, y su edición 2026 incluye varios partidos programados para el 8 de agosto."
-        },
-        {
-          "label": "Rendimiento reciente de Club León",
-          "text": "Club León llegó al partido contra Orlando City tras vencer a Nashville SC, lo que generó expectativa entre sus seguidores locales."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Mientras Periódico AM se centró en los canales de transmisión, medios como Infobae Deportes destacaron la estrategia del Inter de Miami para retener a Lionel Messi después de su retiro, mostrando un enfoque más centrado en la figura del jugador."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "d19659095f53",
-      "title": "Disney Plus está probando una IA que entiende lo que quieres ver",
-      "summary": "Disney Plus ha iniciado pruebas de una herramienta de IA que permite a los usuarios buscar contenido mediante lenguaje natural o voz, generando listas de recomendaciones personalizadas y ampliando el uso de la IA también a ESPN para consultas deportivas.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/disney-plus-busqueda-ia-recomendaciones/",
-      "published_at": "2026-08-07T19:36:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo utiliza un tono descriptivo y equilibrado, sin palabras cargadas ni una marcada inclinación política; simplemente informa sobre la prueba de la tecnología y la compara con iniciativas de la competencia.",
-      "focus_analysis": "El medio se centra en la innovación tecnológica y la mejora de la experiencia del usuario mediante IA, dejando de lado aspectos como la privacidad de datos o el impacto económico de la implementación.",
-      "focus_tags": [
-        "IA en streaming",
-        "búsqueda por voz",
-        "recomendaciones personalizadas"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de IA en streaming",
-          "text": "En 2025 Netflix lanzó una función de búsqueda conversacional basada en OpenAI, y en 2024 Prime Video introdujo recomendaciones impulsadas por IA, mostrando una tendencia del sector a integrar lenguaje natural en la interacción con los catálogos."
-        },
-        {
-          "label": "Modelo de recomendación de Disney Plus",
-          "text": "Tradicionalmente, Disney Plus ha dependido del historial de visualización y de secciones temáticas como Marvel, Star Wars o Pixar para sugerir contenido, lo que ha funcionado bien dado el tamaño más limitado de su catálogo."
-        },
-        {
-          "label": "Competencia y mercado",
-          "text": "El mercado de streaming está dominado por plataformas con extensos catálogos como Netflix y Prime Video, lo que genera una “parálisis por análisis” entre los usuarios y motiva a Disney a diferenciarse mediante herramientas de IA."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "ed1cc6a62395",
-      "title": "Protección Civil alerta por fuertes lluvias y altas temperaturas en el país: se activa la Alerta Amarilla por posible caída de granizo en la capital  | EN VIVO",
-      "summary": "La Coordinación Nacional de Protección Civil de México activó la Alerta Amarilla para la Ciudad de México y otras regiones, advirtiendo sobre lluvias intensas, posible granizo y temperaturas extremas que podrían afectar la salud de la población.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/07/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-7-de-agosto/",
-      "published_at": "2026-08-07T22:44:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar datos meteorológicos y recomendaciones oficiales usando un lenguaje neutro, sin citar fuentes con carga política ni destacar agendas partidistas.",
-      "focus_analysis": "El artículo se centra en el ángulo institucional y de salud pública, describiendo la alerta y las medidas preventivas, mientras omite el impacto humano y las cifras de mortalidad asociadas al calor extremo.",
-      "focus_tags": [
-        "alerta meteorológica",
-        "riesgo sanitario",
-        "Protección Civil"
-      ],
-      "context": [
-        {
-          "label": "antecedentes climáticos",
-          "text": "En los últimos años México ha registrado veranos con temperaturas superiores a 45 °C en varios estados, lo que ha provocado alertas de calor y episodios de granizo."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "El País América destacó que más de 3 400 personas habían fallecido en México desde junio por las altas temperaturas, subrayando la dimensión mortal del calor, aspecto que la nota de Infobae no menciona."
-        },
-        {
-          "label": "función de Protección Civil",
-          "text": "Al activar la Alerta Amarilla, la Coordinación Nacional de Protección Civil emite recomendaciones de prevención y coordina acciones de los gobiernos locales para mitigar riesgos de inundaciones, vientos fuertes y granizo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "ddea64ef97a5",
-      "title": "Marina asegura mil 170 kilos de cocaína frente a Guerrero",
-      "summary": "La Secretaría de Marina de México interceptó una embarcación frente a la costa de Guerrero y aseguró aproximadamente mil ciento setenta kilogramos de presunta cocaína, además de detener a seis tripulantes, tres mexicanos y tres ecuatorianos.",
-      "category": "politica",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/0708/mexico/marina-asegura-mil-170-kilos-de-cocaina-frente-a-guerrero/",
-      "published_at": "2026-08-07T22:43:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje factual y se basa en declaraciones oficiales sin adjetivos cargados ni citas de fuentes polémicas, lo que indica una cobertura neutra.",
-      "focus_analysis": "El medio destaca el ángulo institucional y de seguridad pública al describir la operación naval y la coordinación entre agencias, dejando de lado el contexto social o las motivaciones de los traficantes.",
-      "focus_tags": [
-        "seguridad pública",
-        "marina mexicana",
-        "intercepción marítima"
-      ],
-      "context": [
-        {
-          "label": "Rutas de tráfico en el Pacífico",
-          "text": "México es una zona de tránsito clave para el narcotráfico que envía cocaína desde Sudamérica hacia Estados Unidos, con la costa de Guerrero siendo una de las rutas más utilizadas."
-        },
-        {
-          "label": "Operaciones anteriores de la Marina",
-          "text": "En los últimos años, la Armada de México ha realizado varias incautaciones de toneladas de cocaína en aguas del Pacífico, reforzando su papel dentro de la Estrategia Nacional de Seguridad Pública."
-        },
-        {
-          "label": "Énfasis de otras coberturas",
-          "text": "Medios como Infobae México subrayaron la presencia de nacionalidades ecuatoriana y mexicana entre los detenidos, resaltando el carácter transnacional del delito, mientras que la nota de Aristegui se centró más en la operación y la seguridad nacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "dca5f934ae28",
-      "title": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digital",
-      "summary": "Google, la compañía tecnológica estadounidense, eliminó de la Play Store las películas de \"El Señor de los Anillos\" que varios usuarios habían comprado, reavivando el debate sobre si los contenidos digitales pueden considerarse propiedad permanente.",
-      "category": "sociedad",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/google-elimina-lotr-comprado-propiedad-digital/",
-      "published_at": "2026-08-07T21:04:54+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se mantiene informativo y crítico con la práctica de la empresa, pero no emplea lenguaje político ni favorece a ningún bloque ideológico, centrado en la experiencia del consumidor.",
-      "focus_analysis": "El medio opta por destacar el impacto en los usuarios y la cuestión de los derechos de propiedad digital, dejando de lado un análisis legal profundo o la perspectiva corporativa sobre licencias.",
-      "focus_tags": [
-        "propiedad digital",
-        "derechos del consumidor",
-        "licencias de contenido"
-      ],
-      "context": [
-        {
-          "label": "historial de servicio",
-          "text": "Google cerró su servicio de Películas y TV a finales de enero de 2024, pero había prometido que los contenidos adquiridos por los usuarios permanecerían accesibles en sus bibliotecas."
-        },
-        {
-          "label": "caso comparable",
-          "text": "Sony también retiró cientos de películas y series de su catálogo digital, argumentando que la decisión se debía a la expiración de acuerdos de licencia con los propietarios de los derechos."
-        },
-        {
-          "label": "debate más amplio",
-          "text": "El incidente alimenta la discusión sobre la diferencia entre comprar un producto físico y adquirir un contenido digital, donde defensores de los derechos del consumidor exigen garantías de acceso permanente."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "446f5d509bab",
-      "title": "La Casa de los Famosos México 2026 en vivo: no te pierdas la fiesta de este viernes 7 de agosto",
-      "summary": "El reality de Televisa La Casa de los Famosos México 2026 siguió su transmisión en vivo el viernes 7 de agosto, con una segunda fiesta temática, tensiones entre los concursantes y nominaciones que mantuvieron a la audiencia atenta mientras votaban por sus favoritos.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/04/la-casa-de-los-famosos-mexico-2026-en-vivo-llaga-la-cabina-de-las-tentaciones-a-cambio-de-un-sacrificio/",
-      "published_at": "2026-08-07T22:51:14+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los eventos del programa sin usar lenguaje cargado ni citar fuentes con inclinación política; el enfoque es puramente de entretenimiento.",
-      "focus_analysis": "El medio se centró en los aspectos humanos y de drama del reality, resaltando polémicas, alianzas y tareas domésticas, dejando de lado cualquier análisis de la producción o de la audiencia.",
-      "focus_tags": [
-        "reality TV",
-        "drama de famosos",
-        "entretenimiento"
-      ],
-      "context": [
-        {
-          "label": "formato del programa",
-          "text": "La Casa de los Famosos México es la versión local del reality internacional donde celebridades conviven bajo vigilancia constante y compiten por evitar la eliminación mediante nominaciones y votaciones del público."
-        },
-        {
-          "label": "plataforma y canal",
-          "text": "El programa se transmite 24/7 por el servicio de streaming ViX+ de Televisa, lo que permite a la audiencia seguir en tiempo real los eventos dentro de la casa."
-        },
-        {
-          "label": "impacto mediático",
-          "text": "Desde su debut, la edición 2026 ha generado alta interacción en redes sociales y ha sido cubierta por varios medios de entretenimiento, consolidándose como uno de los contenidos más seguidos en la televisión mexicana."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
