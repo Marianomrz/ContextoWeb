@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-08T02:16:58.942783+00:00",
-      "title": "Ser universitario",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes contrastadas y de verificación robusta reduce su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:17:07.495927+00:00",
-      "title": "Infiniti sustituye a la QX50 como vehículo de entrada con una nueva QX65 de carrocería fastback",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los requisitos editoriales, aunque la ausencia de fuentes múltiples y la verificación limitada de datos reducen ligeramente la puntuación total.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:20:41.371799+00:00",
-      "title": "Cuando la taza rota canta: la magia cotidiana de Pablo Neruda",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "originalidad_creatividad": 8,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 7,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares literarios del portal, ofreciendo creatividad y profundidad con un estilo evocador y una voz coherente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:20:49.656091+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y objetividad suficientes; aunque es actual y está bien estructurado, necesita fuentes más fiables y una presentación más neutral para cumplir con los estándares de calidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:20:54.496110+00:00",
-      "title": "Alerta en Celaya: Dos personas graves en el IMSS por tomar alcohol adulterado",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, la nota es reciente y bien estructurada, pero le falta respaldo de fuentes múltiples y citas específicas para mayor veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:21:06.121591+00:00",
-      "title": "Consejo agropecuario pide pruebas a EU antes de cerrar fronteras a alimentos; generalizar sospecha a",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es actual y objetivo, pero necesita mayor variedad de fuentes para cubrir todas las caras del conflicto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:21:13.045915+00:00",
-      "title": "Sin Machado, con reservas y en la penumbra: lo que se sabe de la nueva ronda de diálogos en Venezuel",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la cobertura incluyendo la perspectiva del gobierno venezolano para un contraste de fuentes más equilibrado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:21:21.626125+00:00",
-      "title": "Tras la victoria de Central, Independiente Rivadavia recibe a Estudiantes de Río Cuarto por la fecha",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial para una noticia deportiva, ofreciendo información reciente, objetiva y estructurada, aunque podría mejorar al citar fuentes adicionales para validar los datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:21:30.549181+00:00",
-      "title": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digita",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es informativo y actual, pero le falta diversidad de fuentes y mayor equilibrio para alcanzar una objetividad completa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:21:44.535368+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene información poco verificable y falta de fuentes contrastadas, lo que afecta su credibilidad, pero su estructura y actualidad son adecuadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:21:49.683965+00:00",
-      "title": "Atlas y Pachuca quedan al borde de la eliminación en la Leagues Cup tras sufrir su segunda derrota",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y objetividad, aunque podría mejorar la verificación mediante fuentes citadas. En general, es apto para publicación.",
-      "error": null
-    },
-    {
       "at": "2026-08-08T02:29:31.629486+00:00",
       "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
       "kind": "noticia",
@@ -3398,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la ausencia de citas directas y un leve sesgo reducen ligeramente la puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:04.781144+00:00",
+      "title": "Fragmentos de espejo: la polifonía de Fernando Pessoa",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares literarios del portal, ofreciendo una propuesta original y bien estructurada que estimula la reflexión sin infringir derechos de autor.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:12.033188+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero su falta de veracidad y contraste fiable lo hace inadecuado para publicación sin correcciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:16.458808+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo: Moisés salva a Gema Garoa y condena a Ximena, Memo Schut",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad; la única limitación es la dependencia de una sola fuente, lo que reduce la posibilidad de corroboración externa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:22.080600+00:00",
+      "title": "En 1942, Japón estaba desesperada por ganarle la guerra del Pacífico a EEUU: así que inventó el \"sub",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares editoriales, aunque podría reforzar la variedad y citación de fuentes para mayor robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:29.821863+00:00",
+      "title": "Mucho camarón para Roach",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta problemas de veracidad y falta de fuentes múltiples, aunque es actual y está bien estructurado; necesita mayor rigor informativo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:35.149866+00:00",
+      "title": "Últimas noticias | 08 agosto 2026 - Mañana",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:43.798690+00:00",
+      "title": "La historia de Joffre Guerrón, el ecuatoriano que tuvo un paso fugaz por Boca y luego se convirtió e",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete presenta problemas graves de veracidad y falta de fuentes contrastantes, además de un sesgo evidente; necesita corrección antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:07:56.615608+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, con buenas fuentes, pero contiene lenguaje subjetivo que compromete la imparcialidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:08:01.987049+00:00",
+      "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, ofreciendo información reciente y objetiva, aunque la falta de referencias explícitas a fuentes primarias reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:08:07.567811+00:00",
+      "title": "Clima en Ciudad de México hoy: el pronóstico para el sábado 8 de agosto de 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzar la veracidad con citas directas al SMN.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T07:08:12.558035+00:00",
+      "title": "Cómo evitar que la IA consuma toda la batería de tu móvil",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, contrastada y objetiva, presentada de forma clara y oportuna.",
       "error": null
     }
   ]
