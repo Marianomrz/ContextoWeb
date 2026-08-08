@@ -1,136 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-08T01:41:38.936277+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero presenta imprecisiones y falta de fuentes equilibradas, lo que compromete su objetividad y veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T01:41:44.095319+00:00",
-      "title": "¿Cuáles fueron las mayores causas de decesos en México durante 2025?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Unterminated string starting at: line 1 column 850 (char 849)"
-    },
-    {
-      "at": "2026-08-08T01:41:47.813976+00:00",
-      "title": "Chappell Roan organizará evento para recaudar fondos en apoyo a jóvenes trans y la comunidad LGBTQ+",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en general con los estándares de calidad editorial; solo se sugiere reforzar la verificación de cifras y datos específicos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T01:41:54.657884+00:00",
-      "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 7 de agosto? L1 del MB con retrasos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información precisa, objetiva y actual, aunque podría mejorar la citación de fuentes directas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:05:13.399815+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete muestra graves problemas de veracidad y contraste de fuentes, pese a su estructura y actualidad, por lo que no debería publicarse en su forma actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:05:22.095141+00:00",
-      "title": "Sin Machado, con reservas y en la penumbra: lo que se sabe de la nueva ronda de diálogos en Venezuel",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y actual, aunque necesita mayor diversidad de fuentes y citas verificables para reforzar la precisión y el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:05:26.541413+00:00",
-      "title": "El bug de Apple Private Relay que cualquier web puede explotar: tu IP real se filtra cuando usas pas",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la estructura y la objetividad, pero la falta de fuentes múltiples y la ausencia de evidencia verificable reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T02:05:30.961164+00:00",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 7 de agosto: Sheinbaum dijo cuál es el obje",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, actual y bien estructurada, aunque muestra una ligera inclinación editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-08T02:05:36.130854+00:00",
       "title": "Roberto Velasco sostiene llamada con Omar Bula, ministro de exteriores de Colombia; refrendan cooper",
       "kind": "noticia",
@@ -3392,6 +3262,142 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada. Se recomienda una ligera mejora en la consistencia temporal de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:20:48.114505+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es reciente y está estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:20:55.301805+00:00",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 8 de agosto: fuertes tormentas continuarán azotando vario",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, contraste, objetividad, actualidad y estructura, por lo que es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:21:04.686103+00:00",
+      "title": "De la Espriella promete derrotar al narcoterrorismo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la veracidad de los datos y la fiabilidad de las fuentes, aunque su estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:21:07.465209+00:00",
+      "title": "Últimas noticias | 08 agosto 2026 - Mañana",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente correcto y actual, pero la ausencia de fuentes múltiples y referencias precisas reduce ligeramente su puntuación de veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:21:18.823953+00:00",
+      "title": "La historia de Joffre Guerrón, el ecuatoriano que tuvo un paso fugaz por Boca y luego se convirtió e",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado, aunque contiene algunas afirmaciones que requieren verificación más rigurosa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:21:26.586588+00:00",
+      "title": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digita",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, aunque le falta contraste de fuentes y una mayor neutralidad en la presentación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:21:42.416215+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura reciente y bien estructurada, con solo pequeñas reservas sobre la verificación de cifras específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T06:21:53.530734+00:00",
+      "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque podría enriquecer la cobertura con fuentes complementarias para mayor contraste.",
       "error": null
     }
   ]
