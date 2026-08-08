@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-08T18:04:42.523669+00:00",
+  "generated_at": "2026-08-08T18:21:14.157427+00:00",
   "articles": [
+    {
+      "id": "a1ee7e5e6571",
+      "title": "¿Espionaje? Detectan drones sobre instalación militar estratégica de Alemania",
+      "summary": "Las autoridades alemanas investigan el sobrevuelo de drones sobre la instalación militar subterránea de Mechernich, donde se almacenan componentes del sistema de defensa antiaérea Patriot.",
+      "category": "internacional",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/espionaje-detectan-drones-sobre-instalacion-militar-estrategica-alemania-20260808-827285.html",
+      "published_at": "2026-08-08T18:15:45+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y citativo, sin adjetivos cargados ni fuentes partidistas, presentando los hechos y la investigación oficial sin atribuir culpabilidad.",
+      "focus_analysis": "El medio se centra en la dimensión de seguridad y espionaje, resaltando la posible amenaza a la defensa alemana y el contexto de tensiones entre la OTAN y Rusia, mientras omite detalles técnicos sobre los drones y el debate interno sobre la política de defensa.",
+      "focus_tags": [
+        "seguridad militar",
+        "tensiones NATO-Rusia",
+        "espionaje"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "El complejo de Mechernich, ubicado en el oeste de Alemania, alberga un depósito subterráneo de unos 30.000 m² donde se guardan componentes del sistema de defensa antiaérea Patriot, de fabricación estadounidense."
+        },
+        {
+          "label": "comparación",
+          "text": "En los últimos meses, varios países europeos han reportado avistamientos de drones sobre instalaciones militares, y en Leipzig se interceptó un dron cargado con explosivos cerca de un avión de carga ucraniano."
+        },
+        {
+          "label": "postura externa",
+          "text": "Según cobertura de DW Español, fueron dos drones los detectados sobre la base de Mechernich, lo que refuerza la preocupación sobre la vigilancia aérea en la región."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "45c6f1b02dda",
+      "title": "El espejismo económico del gobierno de México",
+      "summary": "La presidenta mexicana Claudia Sheinbaum presentó doce indicadores para argumentar que la economía del país está en buen estado, pero el artículo de Letras Libres muestra que esos datos ocultan problemas como la baja inversión neta, la caída de la productividad y el alto nivel de informalidad laboral.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/economia/el-espejismo-economico-del-gobierno-de-mexico/07/08/2026/",
+      "published_at": "2026-08-07T19:05:11+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto emplea un tono crítico y selecciona indicadores que desestiman la narrativa oficial, además de destacar problemas sociales y económicos sin citar fuentes gubernamentales, lo que refleja una postura editorial de izquierda.",
+      "focus_analysis": "El medio se centra en el análisis de los indicadores macroeconómicos y la calidad del crecimiento, dejando de lado la discusión de la agenda política del nuevo gobierno y sus propuestas sociales.",
+      "focus_tags": [
+        "economía mexicana",
+        "productividad y empleo",
+        "indicadores macro"
+      ],
+      "context": [
+        {
+          "label": "Situación macroeconómica reciente",
+          "text": "Según el Fondo Monetario Internacional, el crecimiento del PIB de México ha sido inferior al 1 % anual en los últimos años, con una inflación que ha rondado el 4 %."
+        },
+        {
+          "label": "Perfil de Claudia Sheinbaum",
+          "text": "Claudia Sheinbaum, exalcaldesa de la Ciudad de México y miembro del partido Morena, asumió la presidencia en diciembre de 2024, prometiendo una política económica orientada al desarrollo social y la reducción de la desigualdad."
+        },
+        {
+          "label": "Comparación con otros países de la OCDE",
+          "text": "En la OCDE, México presenta una tasa de informalidad laboral de alrededor del 55 %, muy por encima del promedio de los países miembros, mientras que la productividad laboral ha registrado caídas anuales en los últimos trimestres."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.2
+      }
+    },
+    {
+      "id": "e77648fb8822",
+      "title": "China ha encontrado un filón en las viejas minas de carbón abandonadas: refrescar los hogares",
+      "summary": "China ha puesto en marcha un proyecto piloto en la ciudad minera de Xuzhou, Jiangsu, que reutiliza el agua fría subterránea de una mina de carbón abandonada para proporcionar refrigeración y calefacción a unas cien viviendas, dentro de su estrategia de doble carbono.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/energia/china-ha-encontrado-filon-viejas-minas-carbon-abandonadas-refrescar-hogares",
+      "published_at": "2026-08-08T18:01:15+00:00",
+      "bias_score": 5,
+      "bias_reason": "El artículo usa un tono descriptivo y técnico, sin lenguaje cargado ni selección de fuentes polémicas; se centra en la innovación y los datos del proyecto, lo que indica una cobertura mayormente neutral con ligera inclinación positiva hacia la tecnología.",
+      "focus_analysis": "El medio elige destacar el aspecto tecnológico y ambiental del proyecto, resaltando la ingenieria de reutilizar minas para climatización; deja de lado el análisis económico detallado y el impacto social amplio.",
+      "focus_tags": [
+        "energía renovable",
+        "geotermia",
+        "reutilización de minas"
+      ],
+      "context": [
+        {
+          "label": "Objetivo nacional de carbono",
+          "text": "China ha fijado metas de 'doble carbono', buscando alcanzar su pico de emisiones en 2030 y la neutralidad climática para 2060, lo que impulsa iniciativas como la reutilización de minas para energía geotérmica."
+        },
+        {
+          "label": "Historial de reutilización de minas",
+          "text": "Desde principios del siglo XXI, China ha explorado la transformación de minas de carbón abandonadas en recursos geotérmicos, con varios proyectos en fase de planificación y algunos pilotos como el de Zhang Shuanglou que ya suministra calefacción y refrigeración."
+        },
+        {
+          "label": "Contexto global",
+          "text": "A nivel mundial, más de cincuenta sitios de minas están siendo evaluados o ya operan con sistemas geotérmicos, lo que sitúa el proyecto de Xuzhou dentro de una tendencia internacional de aprovechar infraestructuras mineras para energía sostenible."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "aa523b57b3f8",
+      "title": "Boca Juniors intentará acercarse a la punta ante el líder Vélez: hora, TV y formaciones",
+      "summary": "Boca Juniors, el club argentino, buscará acercarse a la punta de la tabla frente al líder Vélez Sársfield en el próximo encuentro de la liga, con información de hora, canal de transmisión y posibles alineaciones.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/08/boca-juniors-intentara-acercarse-a-la-punta-ante-el-lider-velez-hora-tv-y-formaciones/",
+      "published_at": "2026-08-08T18:15:25+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos del partido, horarios y canales, sin adjetivos cargados ni opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio optó por un ángulo centrado en la información deportiva del encuentro (fecha, hora, transmisión y posibles alineaciones), dejando de lado aspectos humanos o narrativas de los jugadores.",
+      "focus_tags": [
+        "deporte",
+        "fútbol",
+        "preview"
+      ],
+      "context": [
+        {
+          "label": "Posición de Boca Juniors",
+          "text": "Boca Juniors ocupa actualmente los últimos puestos de la tabla de la Primera División, buscando sumar puntos para acercarse a la zona de clasificación."
+        },
+        {
+          "label": "Líder del campeonato",
+          "text": "Vélez Sársfield lidera la tabla de la liga argentina con una ventaja de varios puntos sobre el resto de los equipos."
+        },
+        {
+          "label": "Difusión televisiva del fútbol argentino",
+          "text": "Los partidos de la Primera División se transmiten por canales de suscripción como ESPN Premium, que cubre la mayor parte de los encuentros del torneo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "c04c82c2fc3f",
+      "title": "Chivas vs FC Dallas: Horarios y canales para ver EN VIVO la Leagues Cup",
+      "summary": "El club mexicano Chivas de Guadalajara y el equipo estadounidense FC Dallas se enfrentarán este sábado a las 19:00 en la Leagues Cup 2026, y el artículo indica los canales (Canal 5, TUDN, Imagen TV y Apple TV) donde se podrá ver el partido en vivo.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/chivas-vs-fc-dallas-horarios-y-canales-para-ver-en-vivo-la-leagues-cup/",
+      "published_at": "2026-08-08T18:15:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar horarios y canales sin usar lenguaje cargado ni citar fuentes con sesgo; la redacción es meramente descriptiva.",
+      "focus_analysis": "El medio se centra en proporcionar la información práctica de transmisión y la necesidad de victoria de ambos equipos, dejando de lado el análisis táctico o el contexto histórico del torneo.",
+      "focus_tags": [
+        "horarios transmisión",
+        "canales en vivo",
+        "Leagues Cup"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento reciente de Chivas",
+          "text": "Chivas de Guadalajara llegó a la segunda jornada de la Leagues Cup 2026 con un empate 1‑1 contra Los Ángeles FC y una derrota en la tanda de penales, por lo que necesita sumar tres puntos para seguir en la competición."
+        },
+        {
+          "label": "Rendimiento reciente de FC Dallas",
+          "text": "FC Dallas ganó 2‑0 al Querétaro, con goles de Santiago Moreno y Joaquín Valiente, lo que le coloca en posición de asegurar su clasificación si triunfa contra Chivas."
+        },
+        {
+          "label": "Formato de la Leagues Cup",
+          "text": "La Leagues Cup 2026 es un torneo binacional que reúne equipos de la Liga MX y la MLS, con una fase de grupos seguida de eliminación directa, y la clasificación depende de los puntos obtenidos en los partidos de la jornada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "00f72f34978d",
+      "title": "Detienen a mujer ligada a red de huachicol fiscal atribuida a Ernesto Ruffo",
+      "summary": "La Fiscalía General de la República detuvo a Guadalupe Hernández Hinojosa, apoderada legal de Ingemar S.A. de C.V., por su presunta participación en la red de huachicol fiscal vinculada al exgobernador de Baja California, Ernesto Ruffo Appel. Con ella, el total de detenidos en el caso de contrabando de hidrocarburos asciende a nueve personas, según indicó la autoridad.",
+      "category": "politica",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/detienen-a-mujer-ligada-a-red-de-huachicol-fiscal-atribuida-a-ernesto-ruffo-20260808-0066.html",
+      "published_at": "2026-08-08T18:17:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos y citar a la Fiscalía, sin usar vocabulario cargado ni presentar opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y legal, describiendo la operación de la FGR y los cargos, mientras deja de lado el impacto humano o las motivaciones políticas de los implicados.",
+      "focus_tags": [
+        "huachicol fiscal",
+        "detención de funcionarios",
+        "Baja California"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "México ha enfrentado varios casos de huachicol fiscal que han generado pérdidas millonarias al erario y han llevado a operativos de la FGR contra redes de contrabando de combustible."
+        },
+        {
+          "label": "Personajes clave",
+          "text": "Ernesto Ruffo Appel, exgobernador de Baja California, ha sido señalado como cabeza de la red, mientras que Guadalupe Hernández Hinojosa era la apoderada legal de Ingemar, empresa utilizada para declarar volúmenes menores de hidrocarburos."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Universal destacó el número total de capturados y la vinculación directa a Ruffo, mientras que El Sol de México puso énfasis en el rol de la apoderada legal y la ubicación de la detención."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "bbfb24e2c139",
       "title": "Estudiantes de La Plata visita a Deportivo Riestra por la fecha 4 del Torneo Clausura",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "5e461a2e9fe7",
-      "title": "Muere hombre tras caer de una caminadora en gimnasio de Nuevo León",
-      "summary": "Un hombre de entre 30 y 35 años falleció en el gimnasio de San Nicolás de los Garza, Nuevo León, después de perder el equilibrio y caer de una caminadora, provocando un golpe en la cabeza. Las autoridades investigan el su y se discuten propuestas para reforzar los protocolos de emergencia en los centros deportivos.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/08/muere-hombre-tras-caer-de-una-caminadora-en-gimnasio-de-nuevo-leon/",
-      "published_at": "2026-08-08T17:16:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, reporta hechos sin cargar emotividad y presenta tanto la información del accidente como la propuesta legislativa, sin favorecer a ninguna posición política.",
-      "focus_analysis": "El medio se centra en la seguridad y los protocolos de emergencia en los gimnasios, resaltando la investigación oficial y la normativa propuesta, mientras que el aspecto humano del fallecido recibe poca atención.",
-      "focus_tags": [
-        "seguridad en gimnasios",
-        "accidentes deportivos",
-        "propuesta legislativa"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de muertes en gimnasios en México",
-          "text": "En los últimos años se han registrado varios fallecimientos en centros de ejercicio en México, como el caso de un hombre en un Smart Fit de Atizapán de Zaragoza en 2025, otro joven en Iztapalapa y una mujer de 39 años en Plaza Tlatelolco, lo que ha generado preocupación pública sobre la seguridad en estos lugares."
-        },
-        {
-          "label": "Propuesta de normativa de seguridad",
-          "text": "El diputado del PAN, Ricardo Rubio, presentó una iniciativa que busca obligar a los gimnasios a contar con personal capacitado en primeros auxilios, desfibriladores automáticos y protocolos de emergencia para atender rápidamente incidentes como colapsos o lesiones graves."
-        },
-        {
-          "label": "Responsabilidades de los gimnasios según la normativa mexicana",
-          "text": "La legislación sanitaria mexicana exige que los establecimientos deportivos mantengan equipos de atención médica básica y personal entrenado, y que sigan protocolos de prevención de accidentes para proteger a los usuarios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "aa523b57b3f8",
-      "title": "Boca Juniors intentará acercarse a la punta ante el líder Vélez: hora, TV y formaciones",
-      "summary": "El Xeneiza Boca Juniors buscará acercarse a la punta de la tabla del Torneo Clausura en su próximo encuentro contra el líder Vélez, con el partido programado para las 19:15 hora local y transmitido por ESPN Premium. El artículo también menciona la oferta rechazada por Boca a la MLS por el mediocampista Milton Delgado y otras noticias del club.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/08/boca-juniors-intentara-acercarse-a-la-punta-ante-el-lider-velez-hora-tv-y-formaciones/",
-      "published_at": "2026-08-08T16:37:37+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos del partido, horarios y transmisiones, sin usar lenguaje cargado ni presentar opiniones, lo que indica una cobertura neutral típica de la prensa deportiva.",
-      "focus_analysis": "El medio se centra en el preview del encuentro y los aspectos logísticos (hora, canal, alineaciones), dejando de lado análisis sobre la estrategia del equipo o el impacto financiero de los fichajes.",
-      "focus_tags": [
-        "fútbol",
-        "Torneo Clausura",
-        "Boca Juniors vs Vélez"
-      ],
-      "context": [
-        {
-          "label": "Posición en la tabla",
-          "text": "Vélez Sársfield lidera la clasificación del Torneo Clausura, mientras que Boca Juniors ocupa una posición intermedia, lo que hace crucial el duelo para reducir la brecha."
-        },
-        {
-          "label": "Rivalidad histórica",
-          "text": "Los enfrentamientos entre Boca Juniors y Vélez Sársfield son tradicionales en el fútbol argentino y suelen influir en la moral de ambos equipos durante la segunda mitad del campeonato."
-        },
-        {
-          "label": "Negociaciones de fichajes",
-          "text": "Boca Juniors rechazó recientemente una oferta de la MLS por el joven mediocampista Milton Delgado, manteniéndolo bajo una cláusula de rescisión de 25 millones de dólares, lo que refleja la política del club de proteger sus talentos emergentes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a369d95c8a8d",
-      "title": "Cómo cambiar de número en WhatsApp sin perder tus contactos",
-      "summary": "El artículo de El Universal explica paso a paso cómo usar la función de WhatsApp de Meta para cambiar el número de teléfono sin perder los contactos, destacando la necesidad de hacer una copia de seguridad y las limitaciones del proceso.",
-      "category": "tecnologia",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/techbit/como-cambiar-de-numero-en-whatsapp-sin-perder-tus-contactos/",
-      "published_at": "2026-08-08T17:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es meramente instructivo, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El medio se centra en el aspecto técnico‑práctico del cambio de número en WhatsApp, dejando de lado discusiones sobre privacidad, políticas de datos de Meta o comparaciones con otras apps de mensajería.",
-      "focus_tags": [
-        "WhatsApp",
-        "cambio de número",
-        "tutorial"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "WhatsApp, la plataforma de mensajería de Meta, introdujo en 2018 una herramienta que permite a los usuarios cambiar su número de teléfono manteniendo chats y contactos, siempre que se realice una copia de seguridad previa."
-        },
-        {
-          "label": "datos comparables",
-          "text": "Aplicaciones como Telegram o Signal también ofrecen mecanismos para migrar cuentas o contactos a un nuevo número, aunque sus requisitos y limitaciones técnicas difieren de los de WhatsApp."
-        },
-        {
-          "label": "posturas de otros actores",
-          "text": "Meta ha señalado que al cambiar el número se pierde el acceso a copias de seguridad anteriores y que la función no soporta números VoIP, líneas premium ni servicios de acceso universal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "567d75e518e5",
-      "title": "Banco Mundial insta a países en desarrollo a adoptar la IA para mejorar su gobernanza",
-      "summary": "El Banco Mundial instó a los países en desarrollo a incorporar herramientas de inteligencia artificial para modernizar su gobernanza y acelerar el crecimiento económico, advirtiendo que la falta de adopción podría dejarles rezagados.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/economia/banco-mundial-insta-paises-desarrollo-adoptar-ia-mejorar-gobernanza-20260808-827261.html",
-      "published_at": "2026-08-08T17:00:00+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto destaca los beneficios económicos de la IA y cita al Banco Mundial de manera favorable, usando un lenguaje optimista y sin presentar voces críticas, lo que indica un sesgo ligeramente pro‑mercado.",
-      "focus_analysis": "El medio se centra en el potencial económico y de mejora institucional de la IA en los países emergentes, dejando en segundo plano los riesgos sociales y medioambientales más profundos.",
-      "focus_tags": [
-        "IA y desarrollo",
-        "gobernanza digital",
-        "economías emergentes"
-      ],
-      "context": [
-        {
-          "label": "Rol del Banco Mundial",
-          "text": "El Banco Mundial, como institución financiera internacional, ha publicado informes anteriores que promueven la tecnología como motor de desarrollo y ha financiado proyectos de digitalización en regiones de bajos ingresos."
-        },
-        {
-          "label": "Adopción de IA en América Latina",
-          "text": "Según estudios recientes, más del 70 % de las organizaciones mexicanas ya reportan resultados relevantes al usar IA, reflejando una tendencia creciente en la región hacia la automatización y el análisis de datos."
-        },
-        {
-          "label": "Preocupaciones sobre IA",
-          "text": "Expertos en ética y medio ambiente señalan que los grandes modelos de IA requieren intensos recursos energéticos y pueden ampliar la brecha de desigualdad, lo que contrasta con la visión optimista del informe del Banco Mundial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "45c6f1b02dda",
-      "title": "El espejismo económico del gobierno de México",
-      "summary": "El artículo de Letras Libres argumenta que los 12 indicadores presentados por la presidenta Claudia Sheinbaum para demostrar una economía mexicana en buen estado ocultan fragilidades estructurales, como la baja inversión productiva, la alta informalidad laboral y un crecimiento del PIB muy lento.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/economia/el-espejismo-economico-del-gobierno-de-mexico/07/08/2026/",
-      "published_at": "2026-08-07T19:05:11+00:00",
-      "bias_score": 15,
-      "bias_reason": "Utiliza un lenguaje cargado como \"espejismo\" y \"engañoso\", se centra en los aspectos negativos de la gestión y omite logros sociales o políticos, lo que refleja una perspectiva crítica alineada con la derecha.",
-      "focus_analysis": "El medio elige un ángulo económico, analizando indicadores macroeconómicos y estructurales, mientras deja de lado la dimensión social y los posibles beneficios de las políticas de la administración.",
-      "focus_tags": [
-        "economía mexicana",
-        "indicadores macroeconómicos",
-        "crítica gubernamental"
-      ],
-      "context": [
-        {
-          "label": "Presidencia de Claudia Sheinbaum",
-          "text": "Claudia Sheinbaum, electa en 2024, ha impulsado un programa de reactivación económica basado en la inversión pública, la transición energética y la mejora de los salarios mínimos."
-        },
-        {
-          "label": "Inversión Extranjera Directa y productividad",
-          "text": "México se mantiene entre los diez principales destinos de IED, pero la mayor parte de la inversión son utilidades reinvertidas (68 % en 2025) y la productividad laboral ha caído 0.5 % anual en el primer trimestre de 2026."
-        },
-        {
-          "label": "Calificaciones de riesgo y perspectivas fiscales",
-          "text": "Agencias como Moody’s y S&P han emitido evaluaciones negativas sobre la sostenibilidad fiscal de México, señalando déficits estructurales y la necesidad de reformas tributarias."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "838c828e7a09",
-      "title": "Puerto Rico raciona el agua a 500.000 personas por la peor sequía desde 2015",
-      "summary": "El gobierno de Puerto Rico ha iniciado un plan de racionamiento de agua que afecta a 500 000 personas en siete municipios, tras el descenso del embalse Carraízo a niveles críticos y la sequía más severa registrada desde 2015.",
-      "category": "sociedad",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/2026/08/08/puerto-rico-raciona-el-agua-a-500000-personas-por-la-peor-sequia-desde-2015",
-      "published_at": "2026-08-08T16:42:29+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto presenta los hechos de forma descriptiva, sin usar lenguaje cargado ni destacar posiciones políticas; se limita a informar sobre la medida gubernamental y sus efectos.",
-      "focus_analysis": "El medio se centra en el impacto ambiental y de infraestructura de la sequía, describiendo el plan de racionamiento y sus consecuencias para la población, dejando de lado un análisis político profundo o de los debates sobre la gestión del agua.",
-      "focus_tags": [
-        "sequía",
-        "racionamiento de agua",
-        "Puerto Rico"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "El embalse Carraízo es la principal fuente de agua potable para la zona metropolitana de Puerto Rico; su nivel operativo mínimo está alrededor de los 30 metros, y ya en años anteriores ha sido objeto de ajustes por sequías."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "La sequía de 2026 supera la de 2015 en términos de precipitación, con solo 0,54 pulgadas en julio, aproximadamente un 9 % del promedio histórico, y se enmarca dentro del fenómeno de El Niño que eleva las temperaturas y reduce las lluvias."
-        },
-        {
-          "label": "Postura de otros actores",
-          "text": "Autoridades federales de EE. UU. y organizaciones de ayuda humanitaria suelen ofrecer asistencia en emergencias hídricas, aunque en esta ocasión el gobierno local ha tomado la iniciativa de crear puntos de distribución y programar cortes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
