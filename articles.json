@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-08T06:01:27.314543+00:00",
+  "generated_at": "2026-08-08T06:10:10.444851+00:00",
   "articles": [
+    {
+      "id": "0a8e1a881563",
+      "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
+      "summary": "El Economista resume los indicadores clave de la primera semana de agosto en México, destacando la desaceleración de la inflación a 3.12%, el crecimiento de las remesas a 5,472 millones de dólares y la cautelosa política monetaria del Banco de México, junto a mejoras marginales en la confianza del consumidor y empresarial.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-3-7-inflacion-remesas-politica-monetaria-mexico-20260807-827255.html",
+      "published_at": "2026-08-08T04:17:46+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y datos objetivos, sin lenguaje cargado ni selección sesgada de fuentes, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en los aspectos macroeconómicos —inflación, remesas, política monetaria y confianza— dejando de lado el análisis político o social de esas variables.",
+      "focus_tags": [
+        "inflación",
+        "remesas",
+        "política monetaria"
+      ],
+      "context": [
+        {
+          "label": "Inflación en México",
+          "text": "Según el INEGI, la inflación anual de México cayó a 3.12% en julio, acercándose al objetivo del 3% del Banco de México."
+        },
+        {
+          "label": "Remesas a México",
+          "text": "En junio, México recibió 5,472 millones de dólares en remesas, marcando el tercer mejor registro del año y cinco meses consecutivos de crecimiento anual."
+        },
+        {
+          "label": "Política monetaria del Banxico",
+          "text": "El Banco de México mantiene una política monetaria cautelosa, con una meta de inflación del 3% y un rango de variación de un punto porcentual, apoyándose en indicadores como el INPC y la inflación subyacente."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "45c6f1b02dda",
+      "title": "El espejismo económico del gobierno de México",
+      "summary": "El artículo de Letras Libres argumenta que los doce indicadores presentados por la presidenta de México, Claudia Sheinbaum, ocultan vulnerabilidades estructurales de la economía, como la baja productividad, la alta informalidad laboral y la dependencia de inversión extranjera reinvertida.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/economia/el-espejismo-economico-del-gobierno-de-mexico/07/08/2026/",
+      "published_at": "2026-08-07T19:05:11+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea vocabulario crítico como \"espejismo\" y selecciona datos que enfatizan los aspectos negativos del gobierno, mientras minimiza los logros señalados por la propia administración, lo que indica una inclinación ligeramente favorable a la oposición.",
+      "focus_analysis": "El medio se centra en un análisis macroeconómico de indicadores cuantitativos, dejando de lado la dimensión social y política de las políticas de Sheinbaum; no aborda los posibles efectos distributivos ni las reformas estructurales anunciadas.",
+      "focus_tags": [
+        "economía mexicana",
+        "indicadores macro",
+        "inversión extranjera"
+      ],
+      "context": [
+        {
+          "label": "Presidencia de Claudia Sheinbaum",
+          "text": "Claudia Sheinbaum asumió la presidencia de México en diciembre de 2024 con una agenda orientada a la transición energética, la reducción de la desigualdad y la reactivación económica tras la pandemia."
+        },
+        {
+          "label": "Tendencias de la IED y productividad",
+          "text": "Según datos del INEGI y la OCDE, la inversión extranjera directa en México ha mostrado una mayor proporción de utilidades reinvertidas que de nueva inversión, y la productividad laboral ha registrado caídas anuales desde 2025."
+        },
+        {
+          "label": "Comparaciones internacionales",
+          "text": "Diversos analistas internacionales señalan que comparar a México con economías avanzadas de la OCDE puede presentar una visión sesgada, pues al contrastarlo con países emergentes como Brasil o India el desempeño económico resulta menos favorable."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "15617fac4c05",
+      "title": "La historia de Joffre Guerrón, el ecuatoriano que tuvo un paso fugaz por Boca y luego se convirtió en leyenda de la Copa Libertadores",
+      "summary": "Joffre Guerrón, el futbolista ecuatoriano que jugó brevemente en las juveniles de Boca Juniors, se convirtió en una figura emblemática de la Copa Libertadores al liderar a Liga de Quito en 2008 y recibir el premio al mejor jugador del torneo.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/08/la-historia-de-joffre-guerron-el-ecuatoriano-que-tuvo-un-paso-fugaz-por-boca-y-luego-se-convirtio-en-leyenda-de-la-copa-libertadores/",
+      "published_at": "2026-08-08T04:25:05+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto utiliza adjetivos elogiosos y se centra en los logros deportivos del jugador, sin presentar críticas ni perspectivas políticas, lo que indica un ligero sesgo positivo hacia la figura.",
+      "focus_analysis": "El artículo privilegia la narrativa personal y heroica de la carrera de Guerrón, destacando su paso por Boca y su papel legendario en la Copa Libertadores, mientras omite análisis institucionales o económicos del fútbol.",
+      "focus_tags": [
+        "carrera deportiva",
+        "leyenda de la Copa Libertadores",
+        "paso por Boca Juniors"
+      ],
+      "context": [
+        {
+          "label": "Historia de ecuatorianos en Boca",
+          "text": "Hasta la fecha, el único jugador ecuatoriano que ha jugado en el primer equipo de Boca Juniors es el defensa Raúl Alfredo Pavo Noriega, quien disputó 23 partidos en la temporada 1993‑1994; Guerrón solo estuvo en las categorías juveniles y de reserva entre 2004 y 2006."
+        },
+        {
+          "label": "Triunfo de Liga de Quito 2008",
+          "text": "En 2008, Liga de Quito ganó la Copa Libertadores, eliminando a América de México y a Fluminense en penales; Guerrón anotó en cuartos, semifinales y la final, y fue elegido mejor jugador del torneo."
+        },
+        {
+          "label": "Trayectoria internacional de Guerrón",
+          "text": "Después de su paso por Boca, Guerrón jugó en Getafe (España), Cruzeiro y Atlético Paranaense (Brasil), Beijing Guoan (China) y Tigres de Monterrey (México), donde volvió a destacar en la Libertadores y ganó el premio al jugador más valioso."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "544ed79c24b4",
+      "title": "Últimas noticias | 08 agosto 2026 - Mañana",
+      "summary": "Euronews Español ofrece un boletín de video que reúne, en pocos minutos, los últimos acontecimientos de Europa y el mundo, abarcando política, economía, cultura, entretenimiento y viajes, con la intención de proporcionar una visión clara y fiable de la jornada.",
+      "category": "internacional",
+      "source_name": "Euronews Español",
+      "source_url": "http://es.euronews.com/video/2026/08/08/ultimas-noticias-08-agosto-2026-manana",
+      "published_at": "2026-08-08T05:00:08+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje neutro y descriptivo, sin términos cargados ni fuentes partidistas, y se presenta como una cobertura amplia y equilibrada de varios temas.",
+      "focus_analysis": "El medio opta por un enfoque panorámico que prioriza la variedad de noticias internacionales, económicas y culturales, dejando de lado un análisis profundo o investigativo de cada tema.",
+      "focus_tags": [
+        "resumen general",
+        "noticias europeas",
+        "cobertura múltiple"
+      ],
+      "context": [
+        {
+          "label": "Perfil del medio",
+          "text": "Euronews es una cadena de noticias europea que se caracteriza por su visión continental y su compromiso con la independencia editorial, ofreciendo contenidos en varios idiomas y enfocándose en una perspectiva europea de los hechos."
+        },
+        {
+          "label": "Formato de boletín",
+          "text": "Los boletines de video de Euronews siguen el modelo de 'últimas noticias', presentando breves segmentos de diferentes áreas temáticas para mantener al público informado rápidamente sobre los eventos más relevantes del día."
+        },
+        {
+          "label": "Temas de actualidad en Europa",
+          "text": "En los últimos meses, Europa ha enfrentado una ola de calor récord, crisis migratorias en Ceuta y debates sobre la regulación de la inteligencia artificial, temas que suelen aparecer con frecuencia en los resúmenes de Euronews."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "1169258fd560",
+      "title": "Grokipedia, la «Wikipedia alternativa sin sesgos» de Musk, lleva más de 3 meses sin actualizar ningún artículo",
+      "summary": "Grokipedia, la enciclopedia online creada por xAI, la compañía de Elon Musk, no ha registrado ninguna actualización de sus artículos desde el 24 de abril de 2026, según un informe de Lawfare, pese a recibir millones de visitas mensuales.",
+      "category": "tecnologia",
+      "source_name": "WWWhatsnew",
+      "source_url": "https://wwwhatsnew.com/2026/08/08/grokipedia-elon-musk-sin-actualizar-3-meses-agosto-2026/",
+      "published_at": "2026-08-08T06:00:48+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto emplea un tono crítico, resaltando la falta de comunicación y el riesgo de desinformación, y se apoya en el informe de Lawfare sin presentar contrapuntos de xAI, lo que genera una visión desfavorable del proyecto.",
+      "focus_analysis": "El medio se centra en la ausencia de actualizaciones y sus consecuencias informativas, dejando de lado cualquier análisis positivo sobre la tecnología subyacente o los motivos estratégicos de la empresa.",
+      "focus_tags": [
+        "actualización de contenidos",
+        "IA editorial",
+        "negocio de tecnología"
+      ],
+      "context": [
+        {
+          "label": "Modelo de Wikipedia",
+          "text": "Wikipedia se mantiene actualizada gracias a una comunidad global de editores voluntarios que pueden modificar artículos en minutos, lo que contrasta con el modelo de Grokipedia donde las decisiones de contenido son tomadas exclusivamente por la IA Grok."
+        },
+        {
+          "label": "Competencia en IA de conocimiento",
+          "text": "Otros proyectos de IA de conocimiento, como el modelo chino Kimi, continúan actualizando sus bases de datos, demostrando que la actualización continua es factible en entornos de IA open‑weight."
+        },
+        {
+          "label": "Adquisición y reestructura de xAI",
+          "text": "Tras la compra de xAI por SpaceX en febrero de 2026, la empresa fue renombrada como SpaceXAI y muchos de sus recursos y cofundadores originales fueron reorientados a otras prioridades, lo que coincide temporalmente con la paralización de Grokipedia."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.0
+      }
+    },
+    {
+      "id": "d9619c61e78d",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 8 de agosto: fuertes tormentas continuarán azotando varios estados este sábado",
+      "summary": "El Servicio Meteorológico Nacional de México pronostica fuertes tormentas que afectarán varios estados este sábado, con lluvias intensas en Sinaloa, Nayarit, Sonora, Chihuahua y Durango, mientras el norte del país seguirá bajo una ola de calor extremo.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/08/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-8-de-agosto-fuertes-tormentas-continuaran-azotando-varios-estados-este-sabado/",
+      "published_at": "2026-08-08T06:01:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje descriptivo y objetivo, sin adjetivos cargados ni fuentes con sesgo político, y se centra exclusivamente en el pronóstico meteorológico.",
+      "focus_analysis": "El artículo se centra en el pronóstico y las alertas climáticas, dejando fuera el impacto humano concreto y las medidas de respuesta de la población.",
+      "focus_tags": [
+        "clima",
+        "alertas meteorológicas",
+        "tormentas"
+      ],
+      "context": [
+        {
+          "label": "climatología",
+          "text": "El pronóstico indica que el monzón mexicano y la onda tropical 25 generarán lluvias intensas en gran parte del país, con mayor severidad en Sinaloa, Nayarit, Sonora, Chihuahua y Durango."
+        },
+        {
+          "label": "impacto histórico",
+          "text": "En años recientes, tormentas similares han provocado inundaciones y daños en infraestructura, especialmente en la zona norte donde se registran temperaturas superiores a 45 °C."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Otros medios como El Universal y El Sol de México destacaron la alerta roja y la presencia de vehículos varados y desbordes de ríos, subrayando la respuesta de la Secretaría de Gestión Integral de Riesgos y Protección Civil."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "0a8e1a881563",
       "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.2
-      }
-    },
-    {
-      "id": "99eda0a7ef6d",
-      "title": "Selección Mexicana consigue su boleto a Los Ángeles 2028 al avanzar a la final del Campeonato Sub-20 de la Concacaf",
-      "summary": "La selección mexicana de fútbol sub‑20 aseguró su plaza para los Juegos Olímpicos de Los Ángeles 2028 al vencer a Canadá 2‑1 en la semifinal del Campeonato Sub‑20 de la CONCACAF, y ya cuenta con el boleto al Mundial Sub‑20 2027.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/seleccion-mexicana-consigue-su-boleto-a-los-angeles-2028-avanza-a-la-final-del-campeonato-de-la-concacaf-sub-20/",
-      "published_at": "2026-08-08T05:04:14+00:00",
-      "bias_score": 15,
-      "bias_reason": "El texto usa un tono celebratorio y emotivo, destaca el orgullo nacional y no incluye voces críticas o análisis externo, lo que indica una ligera inclinación hacia una perspectiva nacionalista de centro‑derecha.",
-      "focus_analysis": "El medio se centró en el logro deportivo y la narrativa de superación del equipo mexicano, omitiendo aspectos estructurales como la gestión de la federación o el impacto económico del torneo.",
-      "focus_tags": [
-        "deporte",
-        "fútbol",
-        "olímpicos"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes recientes",
-          "text": "Previo a este triunfo, la selección sub‑20 de México ya había obtenido su clasificación al Mundial Sub‑20 2027, lo que subraya la continuidad del proyecto juvenil del fútbol mexicano."
-        },
-        {
-          "label": "Importancia del torneo",
-          "text": "El Campeonato Sub‑20 de la CONCACAF sirve como fase clasificatoria para los Juegos Olímpicos, por lo que alcanzar la final garantiza el puesto olímpico para la nación."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Periódico AM también resaltó la clasificación olímpica del equipo mexicano, mientras que Infobae centró su atención en comentarios de jugadores argentinos, mostrando que la prensa internacional puso énfasis en diferentes ángulos del mismo evento."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "5514af060a8c",
-      "title": "La crisis de Ceuta cuestiona una frontera en la que Interior ha invertido más de 37 millones desde 2019",
-      "summary": "El Ministerio del Interior de España ha gastado más de 37 millones de euros en la frontera de Ceuta desde 2019 y, pese a destinar 42,7 millones a reforzar Melilla, aún no ha presupuestado la barrera marítima de El Tarajal, lo que genera cuestionamientos sobre la gestión de la crisis migratoria en el enclave.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-08/la-crisis-de-ceuta-cuestiona-una-frontera-en-la-que-interior-ha-invertido-mas-de-37-millones-desde-2019.html",
-      "published_at": "2026-08-08T03:30:01+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto se centra en la crítica al gasto y la falta de presupuestación, omitiendo la dimensión humanitaria y usando un tono que cuestiona la gestión gubernamental, típico de una postura ligeramente izquierdista.",
-      "focus_analysis": "El artículo eló el ángulo institucional y económico, resaltando la inversión del Gobierno y la ausencia de la barrera marítima, mientras dejó de lado el impacto humanitario sobre los migrantes y la respuesta de la ciudadanía.",
-      "focus_tags": [
-        "gasto público",
-        "frontera de Ceuta",
-        "crisis migratoria"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Desde 2019, el Gobierno español ha incrementado la inversión en la seguridad de los enclaves de Ceuta y Melilla, destinando decenas de millones de euros a muros, vallas y sistemas de vigilancia."
-        },
-        {
-          "label": "Dimensión humanitaria",
-          "text": "Otros medios han señalado que la crisis ha dejado a cientos de menores migrantes sin alojamiento, obligando a residentes locales a ofrecer refugio, aspecto que el artículo de El País América no menciona."
-        },
-        {
-          "label": "Reacción internacional",
-          "text": "La situación ha generado tensiones diplomáticas, como la suspensión temporal del acuerdo Schengen por parte de Italia y el análisis del papel de la alianza EE.UU.-Marruecos en la gestión del flujo migratorio."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "98e5fe3fff9a",
-      "title": "Cae empresario “El Güino” en Torreón; fue detenido en un Costco",
-      "summary": "El empresario Ernesto \"N\", conocido como \"El Güino\", fue detenido por la Fiscalía de Coahuila en un supermercado Costco de Torreón tras un reporte de presencia de personas armadas al 911, bajo sospecha de participar en varios delitos.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/cae-empresario-el-guino-en-torreon-fue-detenido-en-un-costco/",
-      "published_at": "2026-08-08T04:29:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se basa en declaraciones oficiales y describe los hechos sin usar lenguaje cargado ni presentar opiniones, manteniendo un tono informativo y neutro.",
-      "focus_analysis": "El medio se centra en la seguridad y la acción policial, resaltando el operativo y la detención, mientras omite detalles sobre el contexto económico del empresario o el impacto social del hecho.",
-      "focus_tags": [
-        "seguridad",
-        "crimen",
-        "detención"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de violencia en Torreón",
-          "text": "Torreón, municipio de Coahuila, ha enfrentado episodios de violencia vinculada al crimen organizado, lo que ha llevado a las autoridades a intensificar operativos de seguridad en la zona."
-        },
-        {
-          "label": "Perfil de Ernesto \"El Güino\"",
-          "text": "Ernesto \"N\", apodado \"El Güino\", es un empresario local que ha sido mencionado en investigaciones previas por presuntas actividades ilícitas, aunque hasta la fecha no ha sido condenado."
-        },
-        {
-          "label": "Uso del Sistema Estatal de Emergencias 911",
-          "text": "El Sistema Estatal de Emergencias 911 de Coahuila permite que la ciudadanía reporte incidentes críticos, activando la respuesta coordinada de la Policía del Estado, la Agencia de Investigación Criminal y el Ejército Mexicano."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "3b19033eb7e1",
-      "title": "Crece el Festival Eat My Shorts y apuesta por el talento audiovisual guanajuatense",
-      "summary": "El Festival Eat My Shorts de León, en su cuarta edición, busca impulsar y profesionalizar el talento audiovisual de Guanajuato, ofreciendo master classes, talleres y una alianza con la televisora TV4 para difundir los proyectos de estudiantes.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/espectaculos/2026/08/07/festival-eat-my-shorts-leon-cuarta-edicion-forum-cultural-1829096.html",
-      "published_at": "2026-08-08T04:54:01+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto emplea un tono mayormente elogioso y promocional, resaltando el éxito del festival y la colaboración con TV4, sin presentar críticas ni perspectivas políticas, lo que indica un sesgo leve a favor de la iniciativa local.",
-      "focus_analysis": "El medio se centra en el aspecto cultural y educativo del festival, destacando la formación de jóvenes cineastas y la cooperación institucional, mientras deja de lado cualquier análisis económico o político más amplio.",
-      "focus_tags": [
-        "cultura audiovisual",
-        "talento juvenil",
-        "alianzas institucionales"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "El Festival Eat My Shorts se lanzó en 2020 como una iniciativa para exhibir cortometrajes de estudiantes de Guanajuato, y ha crecido cada año en número de participantes y alcance."
-        },
-        {
-          "label": "comparación",
-          "text": "Otros festivales estudiantiles en México, como el Festival de Cortometrajes de la UNAM, también buscan descentralizar la producción cinematográfica y dar visibilidad a voces fuera de los grandes centros."
-        },
-        {
-          "label": "institucional",
-          "text": "TV4, la cadena de televisión estatal de Guanajuato, ha fortalecido su papel como impulsor de la industria audiovisual regional al ofrecer infraestructura y plataformas de difusión a los jóvenes cineastas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "0a8e1a881563",
-      "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
-      "summary": "El Banco de México informó que la inflación anual de México se redujo a 3.12 % en julio, mientras que las remesas alcanzaron los 5,472 millones de dólares en junio y la confianza de consumidores y empresas mostró leves mejoras.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-3-7-inflacion-remesas-politica-monetaria-mexico-20260807-827255.html",
-      "published_at": "2026-08-08T04:17:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro y se basa en datos oficiales sin emplear términos cargados ni citar fuentes con sesgo político.",
-      "focus_analysis": "El artículo se centra en indicadores macro‑económicos como inflación, remesas, confianza y política monetaria, dejando de lado el análisis de sus implicaciones políticas o sociales.",
-      "focus_tags": [
-        "inflación",
-        "remesas",
-        "política monetaria"
-      ],
-      "context": [
-        {
-          "label": "Historial de inflación en México",
-          "text": "Desde 2020, la inflación anual de México ha fluctuado, alcanzando un pico del 8 % en 2022 y descendiendo gradualmente a cerca del 3 % en 2026, según el INEGI."
-        },
-        {
-          "label": "Importancia de las remesas",
-          "text": "Las remesas representan aproximadamente el 3 % del PIB mexicano y son una fuente crucial de ingresos para millones de hogares, según el Banco de México."
-        },
-        {
-          "label": "Política monetaria del Banxico",
-          "text": "El Banco de México mantiene una meta de inflación del 3 ± 1 % y ha señalado una postura cautelosa, ajustando la tasa de interés de acuerdo a la evolución de los precios y la actividad económica."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "3e535b74e638",
-      "title": "CDMX acumula 16.9 millones de metros cúbicos de lluvia esta noche; Foro Cultural Magdalena Contreras superó los 50 mm",
-      "summary": "La Ciudad de México acumuló 16.9 millones de metros cúbicos de lluvia durante la noche del 7 de agosto, con la estación Foro Cultural Magdalena Contreras registrando 58.75 mm, y la Secretaría de Gestión Integral del Agua desplegó brigadas para atender encharcamientos en varias alcaldías.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/cdmx-acumula-169-millones-de-metros-cubicos-de-lluvia-esta-noche-foro-cultural-magdalena-contreras-supero-los-50-mm/",
-      "published_at": "2026-08-08T04:34:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos meteorológicos y acciones operativas de la autoridad, sin usar vocabulario cargado ni incluir opiniones políticas.",
-      "focus_analysis": "El medio prioriza la información institucional y técnica sobre la precipitación y la respuesta de la gestión del agua, dejando de lado el impacto humano amplio y la discusión sobre cambio climático.",
-      "focus_tags": [
-        "lluvias CDMX",
-        "respuesta institucional",
-        "inundaciones"
-      ],
-      "context": [
-        {
-          "label": "comparación",
-          "text": "Otros medios como Infobae resaltaron la gravedad de las inundaciones y la presencia de granizo, mientras que El Universal se centró en los volúmenes acumulados y la labor de Segiagua."
-        },
-        {
-          "label": "datos históricos",
-          "text": "Durante la temporada de lluvias, la Ciudad de México suele registrar acumulados de varios millones de metros cúbicos, pero los 16.9 millones de esta noche superan los valores promedio de agosto."
-        },
-        {
-          "label": "autoridades",
-          "text": "La Secretaría de Gestión Integral del Agua (Segiagua) es la dependencia municipal encargada de operar bombas y desazolves para mitigar encharcamientos y desbordamientos de ríos en la capital."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
