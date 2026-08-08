@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-08T18:04:36.893516+00:00",
-      "title": "Los 10 mejores documentales de todos los tiempos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero la ausencia de fuentes múltiples y la naturaleza subjetiva de la lista limitan su objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:04:41.489155+00:00",
-      "title": "Estudiantes de La Plata visita a Deportivo Riestra por la fecha 4 del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad, actualidad y estructura periodística, presentando datos plausibles y bien organizados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:20:36.791390+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 3.0,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 2,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque mantiene una estructura adecuada; se recomienda rechazar su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:20:39.675685+00:00",
-      "title": "Detienen a mujer ligada a red de huachicol fiscal atribuida a Ernesto Ruffo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste de fuentes, objetividad, actualidad y estructura, y es apto para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:20:43.906846+00:00",
-      "title": "Chivas vs FC Dallas: Horarios y canales para ver EN VIVO la Leagues Cup",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y reciente, aunque podría mejorar la citación de fuentes externas para mayor robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:20:49.485464+00:00",
-      "title": "Boca Juniors intentará acercarse a la punta ante el líder Vélez: hora, TV y formaciones",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial para una noticia deportiva, ofreciendo información precisa, objetiva y actual con una estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:20:54.342093+00:00",
-      "title": "Avistamiento de drones sobre una base militar en Alemania",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido, pero la incorrecta identificación del ministro del Interior afecta la veracidad. Se recomienda corregir ese dato antes de la publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:20:58.207095+00:00",
-      "title": "China ha encontrado un filón en las viejas minas de carbón abandonadas: refrescar los hogares",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en calidad y en línea con los estándares periodísticos, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:21:08.408347+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple razonablemente con los estándares periodísticos, aunque podría mejorar la verificación de datos y la inclusión de fuentes oficiales para un contraste más equilibrado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:21:13.120105+00:00",
-      "title": "¿Espionaje? Detectan drones sobre instalación militar estratégica de Alemania",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la verificación de datos podría reforzarse con fuentes oficiales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T18:40:35.744458+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y estructurado, por lo que no cumple con los estándares editoriales.",
-      "error": null
-    },
-    {
       "at": "2026-08-08T18:40:40.143399+00:00",
       "title": "Estudiantes de La Plata visita a Deportivo Riestra por la fecha 4 del Torneo Clausura",
       "kind": "noticia",
@@ -3398,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzarse con fuentes adicionales y mayor neutralidad en el tono.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:20:36.173454+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la estructura y actualidad son adecuadas, la falta de precisión factual y la parcialidad hacen que el paquete no cumpla con los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:20:39.218094+00:00",
+      "title": "Chivas vs FC Dallas: Sigue el minuto a minuto del partido de la Leagues Cup 2026, jornada 2",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, imparcialidad y estructura, y está bien respaldado por fuentes fiables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:20:44.761988+00:00",
+      "title": "BJ realiza campaña de prevención ante posibles casos de despojos; reforzó las acciones de vigilancia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de precisión factual y de contraste de fuentes, aunque está actualizado y estructurado correctamente; necesita mayor rigor y pluralidad de voces para cumplir con los estándares de calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:20:49.034152+00:00",
+      "title": "Boca Juniors empata contra Vélez por la cuarta fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, objetiva y oportuna con una estructura clara.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:20:54.823963+00:00",
+      "title": "Más de 20.000 evacuaciones en Canadá por incendio forestal",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido, pero contiene errores verificables que comprometen su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:20:58.532955+00:00",
+      "title": "Los 10 mejores documentales de todos los tiempos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en general con los estándares de calidad, aunque la presencia de valoraciones subjetivas impide una completa objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:21:08.645627+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero carece de fuentes contrastantes y de la verificación de sus datos, presentando una visión claramente parcial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:21:11.868346+00:00",
+      "title": "FGR detiene a mujer por caso de combustible",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete es adecuado, aunque le falta mayor respaldo de fuentes y citaciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:21:16.443111+00:00",
+      "title": "FC Juárez ha ganado sus dos partidos de Leagues Cup y ya puede registrar refuerzos",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque muestra una ligera parcialidad y carece de fuentes oficiales que respalden completamente los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:21:22.373968+00:00",
+      "title": "Atentados marcan el primer día de gobierno del ultraderechista colombiano De la Espriella",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.2,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es reciente y sigue una estructura básica de pirámide invertida, pero falla gravemente en veracidad, contraste de fuentes y objetividad, por lo que no cumple los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T23:21:25.858449+00:00",
+      "title": "River sufrió otro duro golpe: perdió ante Tigre y sumó la sexta derrota consecutiva",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque algunos datos requieren mayor verificación para alcanzar la máxima precisión.",
       "error": null
     }
   ]
