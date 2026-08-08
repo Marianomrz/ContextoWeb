@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-08T05:51:16.288926+00:00",
-      "title": "Últimas noticias | 08 agosto 2026 - Mañana",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, objetiva y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T05:51:26.005646+00:00",
-      "title": "La historia de Joffre Guerrón, el ecuatoriano que tuvo un paso fugaz por Boca y luego se convirtió e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, aunque presenta ligera falta de imparcialidad por el uso de lenguaje valorativo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T05:51:33.150292+00:00",
-      "title": "Google borra las películas de ‘El Señor de los Anillos’ y reabre el debate sobre la propiedad digita",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero le falta contraste de fuentes y muestra cierto sesgo, aunque la veracidad parece razonable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T05:51:42.997996+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es reciente y estructurado, pero carece de fuentes contrastantes y de objetividad, lo que reduce su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T05:51:46.728104+00:00",
-      "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo se sugiere añadir referencias específicas para reforzar la verificabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T06:00:45.521194+00:00",
-      "title": "Luz quebrada: la noche fragmentada de Fernando Pessoa",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza agradable y reflexiva, aunque podría profundizar más en la originalidad y el estilo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T06:00:49.264246+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 3.8,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 8,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete no cumple con los estándares de veracidad y contraste de fuentes; por tanto, no es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T06:00:52.376844+00:00",
-      "title": "Temblor hoy en México: sismo de magnitud 3.9 en Veracruz",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares editoriales: es preciso, objetivo, actual y está bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T06:00:57.896593+00:00",
-      "title": "Selección Mexicana consigue su boleto a Los Ángeles 2028 al avanzar a la final del Campeonato Sub-20",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, destacando precisión y estructura, aunque la falta de fuentes múltiples reduce ligeramente el contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-08T06:01:01.966363+00:00",
       "title": "Últimas noticias | 08 agosto 2026 - Mañana",
       "kind": "noticia",
@@ -3392,6 +3239,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, objetiva y reciente, aunque podría reforzar la contracción de fuentes con citas oficiales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:00:40.428779+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 8,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad, pese a su buena estructura y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:00:48.116625+00:00",
+      "title": "De qué va ‘Insaciable’, la terrorífica película de terror que seguro no conoces y te soprenderá",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es estructuralmente sólido y objetivo, pero presenta imprecisiones factuales y una fuente única, lo que limita su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:00:51.991550+00:00",
+      "title": "Temblor hoy en México: Se reporta segundo sismo en Chiapas, ahora de magnitud 4.7",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares periodísticos de precisión, actualidad y objetividad; solo se podría mejorar la explicitación de la fuente oficial para reforzar el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:00:57.929766+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Primeros controles a viajeros desde I",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque podría enriquecer la pluralidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:01:02.230095+00:00",
+      "title": "Murió Jorge Messi, el papá de Lionel Messi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es estructuralmente sólido y objetivo, pero la falta de veracidad en la información central lo invalida como noticia fiable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:01:06.598231+00:00",
+      "title": "Sebastián Rulli le traduce la moda a Angelique Boyer… con Caperucita",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de veracidad, objetividad y actualidad; solo podría beneficiarse de fuentes adicionales para mayor profundidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:01:12.964495+00:00",
+      "title": "Ensayo en Sudáfrica",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información clara, actual y objetiva, con fuentes fiables y una estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:01:18.776468+00:00",
+      "title": "Las claves económicas de la semana (3 al 7): De inflación, remesas y política monetaria en México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, aunque podría reforzar la variedad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T10:01:24.926943+00:00",
+      "title": "Este accesorio convierte tu iPhone o Android en una cámara de visión térmica profesional por poco di",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzarse la credibilidad mediante fuentes más diversificadas y citaciones explícitas.",
       "error": null
     }
   ]
