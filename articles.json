@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-08T14:41:56.949549+00:00",
+  "generated_at": "2026-08-08T15:01:21.422866+00:00",
   "articles": [
+    {
+      "id": "6c4fa38bdd8d",
+      "title": "¿Cómo funcionan los antidepresivos? Estas son las claves para un tratamiento seguro",
+      "summary": "El Instituto Nacional de Geriatría de México describe el mecanismo de acción de los antidepresivos y ofrece pautas para su uso seguro, subrayando la importancia de la supervisión médica y la personalización del tratamiento.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/08/como-funcionan-los-antidepresivos-estas-son-las-claves-para-un-tratamiento-seguro/",
+      "published_at": "2026-08-08T14:52:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es informativo y neutro, utiliza lenguaje técnico sin adjetivos cargados y se basa en fuentes médicas oficiales, sin citar opiniones políticas ni partidistas.",
+      "focus_analysis": "El artículo se centra en el aspecto sanitario y educativo, explicando cómo funcionan los antidepresivos y los cuidados necesarios; omite cualquier discusión política, económica o de acceso al medicamento.",
+      "focus_tags": [
+        "salud mental",
+        "antidepresivos",
+        "seguridad farmacéutica"
+      ],
+      "context": [
+        {
+          "label": "prevalencia_depresión",
+          "text": "En México, la depresión afecta a aproximadamente el 9 % de la población adulta, convirtiéndose en una de las principales causas de discapacidad y demanda de atención médica."
+        },
+        {
+          "label": "instituto_geriatra",
+          "text": "El Instituto Nacional de Geriatría (INGER) es la autoridad sanitaria mexicana responsable de la investigación y la orientación clínica en salud de adultos mayores, y publica guías para el manejo de trastornos mentales."
+        },
+        {
+          "label": "dependencia_y_descontinuación",
+          "text": "Aunque los antidepresivos no generan adicción como sustancias ilícitas, su interrupción abrupta puede producir síndrome de discontinuación, por lo que se recomienda reducir la dosis gradualmente bajo supervisión médica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "a6f476407b97",
+      "title": "Las mejores series de Netflix (hasta agosto 2026)",
+      "summary": "El portal Hipertextual presenta una selección de las veintiséis mejores series de Netflix hasta agosto de 2026, basadas en la valoración de críticos y la puntuación media de FilmAffinity.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/las-mejores-series-de-netflix/",
+      "published_at": "2026-08-08T14:56:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono descriptivo y neutral, sin palabras cargadas ni fuentes con sesgo político; se limita a criterios de crítica y puntuación.",
+      "focus_analysis": "El artículo se centra en la valoración cultural y crítica de las series, dejando fuera datos de audiencia, costos de producción o análisis de la estrategia de negocio de Netflix.",
+      "focus_tags": [
+        "series Netflix",
+        "crítica",
+        "cultura popular"
+      ],
+      "context": [
+        {
+          "label": "historia Netflix",
+          "text": "Netflix lleva más de una década produciendo contenido original, acumulando un catálogo extenso que incluye dramas, thrillers, animaciones y comedias de distintas regiones."
+        },
+        {
+          "label": "criterios clasificación",
+          "text": "La lista se construyó cruzando la opinión de críticos habituales con la nota media de FilmAffinity, abarcando puntuaciones entre 6,0 y 8,2."
+        },
+        {
+          "label": "comparación con Apple TV",
+          "text": "Otros medios, como Applesfera, destacan las series de ciencia ficción de Apple TV como las mejores del momento, mostrando un enfoque centrado en otra plataforma que contrasta con la visión global de Netflix de Hipertextual."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "d938acac4f9d",
+      "title": "La fuerza muscular: el indicador de salud del que casi nadie habla",
+      "summary": "El Economista señala que la fuerza muscular, evaluada con pruebas sencillas como levantarse de una silla o medir la prensión manual, constituye un indicador fiable de mortalidad y riesgo de caídas, aunque suele estar ausente de los chequeos médicos habituales.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/arteseideas/fuerza-muscular-indicador-salud-nadie-habla-20260808-827269.html",
+      "published_at": "2026-08-08T14:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y neutral, sin lenguaje cargado ni referencias políticas, centrado en evidencia científica y recomendaciones de salud.",
+      "focus_analysis": "El artículo se enfoca en el aspecto sanitario y preventivo de la fuerza muscular, dejando de lado la dimensión de política pública o los costos económicos asociados a su implementación.",
+      "focus_tags": [
+        "salud preventiva",
+        "fuerza muscular",
+        "envejecimiento"
+      ],
+      "context": [
+        {
+          "label": "antecedente científico",
+          "text": "Diversos estudios epidemiológicos han demostrado que la baja fuerza muscular está asociada con un mayor riesgo de mortalidad por todas las causas y de caídas, independiente de otros indicadores como la glucosa o el colesterol."
+        },
+        {
+          "label": "recomendación institucional",
+          "text": "La Organización Mundial de la Salud recomienda incluir ejercicios de fuerza que involucren los principales grupos musculares al menos dos veces por semana para adultos."
+        },
+        {
+          "label": "cambio de criterio en sarcopenia",
+          "text": "El consenso europeo EWGSOP2 sobre sarcopenia ha invertido el orden tradicional, considerando la fuerza muscular baja como el primer criterio de alarma y la masa muscular reducida solo como confirmatorio."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "45c6f1b02dda",
+      "title": "El espejismo económico del gobierno de México",
+      "summary": "La presidenta Claudia Sheinbaum presentó doce indicadores para evidenciar una economía mexicana saludable, pero el análisis muestra que la inversión extranjera es mayormente reinvertida, la productividad se estanca y el crecimiento del PIB es muy bajo, revelando un panorama económico menos favorable del que sugiere el gobierno.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/economia/el-espejismo-economico-del-gobierno-de-mexico/07/08/2026/",
+      "published_at": "2026-08-07T19:05:11+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono analítico y se apoya en datos sin usar lenguaje emotivo ni citas que favorezcan a un bloque político; la crítica se centra en la interpretación de indicadores más que en una agenda ideológica.",
+      "focus_analysis": "El medio optó por un ángulo económico, desglosando indicadores macroeconómicos y su interpretación, dejando de lado aspectos políticos o sociales del gobierno.",
+      "focus_tags": [
+        "economía mexicana",
+        "indicadores macroeconómicos",
+        "crítica de políticas"
+      ],
+      "context": [
+        {
+          "label": "Gobierno de Claudia Sheinbaum",
+          "text": "Claudia Sheinbaum, presidenta de México desde diciembre de 2024, ha priorizado la recuperación post‑pandemia y la atracción de inversión extranjera directa como pilares de su programa económico."
+        },
+        {
+          "label": "Inversión Extranjera Directa (IED)",
+          "text": "En 2025, el 68 % de la IED en México correspondió a utilidades reinvertidas, mientras que la inversión nueva apenas representó el 18 %, una proporción mucho menor que el 44‑48 % registrado en 2021‑22."
+        },
+        {
+          "label": "Comparación internacional",
+          "text": "Según la OCDE, México se sitúa entre los diez principales destinos de IED, pero al compararse con economías emergentes como Brasil, India o Vietnam, los indicadores de crecimiento y productividad aparecen menos favorables."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "ea0a3bd451ca",
+      "title": "Crisis migratoria en Ceuta: ¿una acción orquestada?",
+      "summary": "France24 Español desmiente los videos que afirman que la policía de Marruecos organizó el cruce masivo de migrantes desde Marruecos hacia el enclave español de Ceuta, señalando que esas acusaciones son falsas y analizando la situación.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/video/20260808-crisis-migratoria-en-ceuta-una-accio%CC%81n-orquestada",
+      "published_at": "2026-08-08T14:33:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y neutral, sin lenguaje cargado ni fuentes partidistas, limitándose a verificar hechos y descartar rumores.",
+      "focus_analysis": "El medio se centra en la verificación de la supuesta participación de la policía marroquí, dejando de lado el análisis de las causas estructurales de la migración y las repercusiones políticas.",
+      "focus_tags": [
+        "verificación",
+        "migración",
+        "Ceuta"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes migratorios",
+          "text": "Ceuta, territorio español en el norte de África, ha experimentado repetidos picos de llegadas irregulares de migrantes procedentes de Marruecos, lo que genera tensiones humanitarias y de seguridad en la frontera."
+        },
+        {
+          "label": "Alianza EE. UU.-Marruecos",
+          "text": "Estados Unidos mantiene una relación estratégica con Marruecos desde el siglo XVIII, lo que influye en la política migratoria y en la percepción internacional de la gestión fronteriza en Ceuta."
+        },
+        {
+          "label": "Instrumentalización política",
+          "text": "Partidos de extrema derecha en España y en Europa han utilizado la crisis migratoria de Ceuta como argumento para reforzar sus agendas antiinmigración y ganar apoyo electoral."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "d9619c61e78d",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 8 de agosto: fuertes tormentas continuarán azotando varios estados este sábado",
+      "summary": "El Servicio Meteorológico Nacional de Conagua prevé fuertes tormentas y lluvias intensas en gran parte de México este sábado 8 de agosto, con riesgos de granizo, vientos fuertes y alertas rojas en la Ciudad de México y el Estado de México.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/08/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-8-de-agosto-fuertes-tormentas-continuaran-azotando-varios-estados-este-sabado/",
+      "published_at": "2026-08-08T14:56:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo usa un lenguaje descriptivo y objetivo, sin adjetivos cargados ni fuentes sesgadas; se limita a presentar datos meteorológicos y alertas oficiales.",
+      "focus_analysis": "El medio se centró en el pronóstico y los riesgos climáticos, omitiendo el impacto económico o social de las lluvias, como daños a la agricultura o interrupciones de servicios.",
+      "focus_tags": [
+        "clima",
+        "tormentas",
+        "México"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Las lluvias del viernes fueron intensas en el occidente y centro del país, provocando desbordamiento del río Magdalena en la CDMX y activando alertas rojas, lo que muestra la continuidad del patrón de monzón mexicano."
+        },
+        {
+          "label": "datos",
+          "text": "Conagua indica que la onda tropical número 25 y el monzón mexicano generarán lluvias muy fuertes en Sinaloa y Nayarit, mientras que en el norte se esperan temperaturas superiores a 45 °C, creando una combinación de calor extremo y precipitaciones intensas."
+        },
+        {
+          "label": "postura",
+          "text": "Otros medios como El Economista subrayan la interacción de varios sistemas atmosféricos, y El Informador destaca las restricciones de circulación en la zona metropolitana de la CDMX, ampliando la cobertura más allá del pronóstico técnico."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "aa523b57b3f8",
       "title": "Boca Juniors intentará acercarse a la punta ante el líder Vélez: hora, TV y formaciones",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.0
-      }
-    },
-    {
-      "id": "10208de9db12",
-      "title": "10 animes clásicos que debes ver apenas puedas",
-      "summary": "El portal Hipertextual presenta una selección de diez animes clásicos que, según el artículo, son esenciales para comprender los fundamentos artísticos y narrativos del anime contemporáneo.",
-      "category": "sociedad",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/10-animes-clasicos-que-debes-ver-apenas-puedas/",
-      "published_at": "2026-08-08T14:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin cargar palabras ni fuentes con agenda política, y se centra exclusivamente en la valoración cultural de las obras.",
-      "focus_analysis": "El medio elige un ángulo cultural‑histórico, resaltando la influencia artística y temática de los animes clásicos, mientras deja de lado el análisis de su éxito comercial o de tendencias actuales del mercado.",
-      "focus_tags": [
-        "anime clásico",
-        "legado cultural",
-        "temas existenciales"
-      ],
-      "context": [
-        {
-          "label": "pioneros del anime",
-          "text": "En la segunda mitad del siglo XX, creadores como Osamu Tezuka transformaron el anime de un formato infantil a una forma de narrativa compleja, estableciendo los tropos y técnicas que aún utilizan los estudios actuales."
-        },
-        {
-          "label": "reconocimiento internacional",
-          "text": "El anime ha pasado de ser una producción local japonesa a ser considerado una disciplina artística global, con festivales y críticos que analizan su capacidad para abordar temas filosóficos y sociales."
-        },
-        {
-          "label": "contraste con la producción actual",
-          "text": "A diferencia de muchos animes contemporáneos que priorizan la espectacularidad visual y la mercantilización, los clásicos citados se destacan por su ritmo pausado, profundidad psicológica y enfoque en dilemas existenciales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "3e8c3519af26",
-      "title": "Elon Musk y Steve Jobs utilizaron la \"Ley de Parkinson\" para llevar sus empresas a lo más alto. En qué consiste y cómo puede ayudarte",
-      "summary": "Elon Musk y Steve Jobs aplicaron la llamada Ley de Parkinson, que consiste en fijar plazos muy ajustados, para impulsar la rapidez y la eficiencia en sus compañías, y el artículo explica cómo esa técnica puede ser útil para cualquier proyecto.",
-      "category": "tecnologia",
-      "source_name": "Applesfera",
-      "source_url": "https://www.applesfera.com/curiosidades/elon-musk-steve-jobs-utilizaron-ley-parkinson-para-llevar-sus-empresas-a-alto-que-consiste-como-puede-ayudarte-1",
-      "published_at": "2026-08-08T11:01:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en describir la técnica de productividad y ejemplos de empresarios sin incorporar juicios políticos ni lenguaje cargado; el tono es informativo y promocional pero neutro respecto al espectro político.",
-      "focus_analysis": "El medio elige el ángulo de la gestión del tiempo y la productividad empresarial, resaltando casos de éxito de Musk y Jobs, mientras omite críticas a la presión laboral o a los posibles efectos negativos de plazos extremos.",
-      "focus_tags": [
-        "productividad",
-        "liderazgo empresarial",
-        "ley de Parkinson"
-      ],
-      "context": [
-        {
-          "label": "Orígenes de la Ley de Parkinson",
-          "text": "La Ley de Parkinson fue formulada en 1955 por el historiador británico Cyril Northcote Parkinson, quien observó que el trabajo tiende a expandirse para llenar el tiempo disponible."
-        },
-        {
-          "label": "Uso de plazos ajustados por Steve Jobs",
-          "text": "Steve Jobs era conocido por imponer fechas límite muy estrictas al desarrollo de productos como el primer iPhone, obligando a los equipos a centrarse en lo esencial y eliminar funciones superfluas."
-        },
-        {
-          "label": "Aplicación de la técnica por Elon Musk",
-          "text": "Elon Musk ha repetidamente establecido metas ambiciosas y plazos cortos en proyectos de Tesla y SpaceX, como el desarrollo del Model S y el cohete Falcon 1, para acelerar la innovación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "7542c67fec79",
-      "title": "Cómo hacer pinole y cuáles son sus beneficios",
-      "summary": "El pinole, un polvo tradicional mexicano elaborado a base de maíz, aporta fibra, minerales y antioxidantes que favorecen la energía y la salud ósea. El artículo de El Universal muestra cómo prepararlo en casa paso a paso.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/menu/como-hacer-pinole-y-cuales-son-sus-beneficios/",
-      "published_at": "2026-08-08T13:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la receta y los beneficios nutricionales sin usar lenguaje cargado ni citar fuentes con sesgo político; su tono es informativo y neutro.",
-      "focus_analysis": "El medio se centra en los aspectos culinarios y de salud del pinole, resaltando su valor nutricional y la tradición gastronómica, mientras deja de lado dimensiones económicas o de producción agrícola.",
-      "focus_tags": [
-        "nutrición tradicional",
-        "cultura mexicana",
-        "receta saludable"
-      ],
-      "context": [
-        {
-          "label": "origen",
-          "text": "El pinole tiene raíces prehispánicas y ha sido parte de la alimentación mexicana desde la época de los pueblos indígenas, utilizándose en bebidas y postres."
-        },
-        {
-          "label": "perfil nutricional",
-          "text": "Los productos a base de maíz, como el pinole, son fuente de fibra, carbohidratos complejos y minerales como calcio, potasio y magnesio, lo que los hace nutritivos."
-        },
-        {
-          "label": "evidencia científica",
-          "text": "Estudios de la Universidad Autónoma de Chihuahua indican que los compuestos bioactivos del pinole pueden contribuir a la energía natural y a la salud cardiovascular cuando se incluye en una dieta balanceada."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "d55351800d4f",
-      "title": "\"Hernán\" avanza en el Pacífico; ¿cuándo se formaría y afectaría a México?",
-      "summary": "El Servicio Meteorológico Nacional ha identificado tres zonas de baja presión en el Pacífico con potencial de convertirse en ciclones tropicales, siendo el más probable el que recibió el nombre de Hernán y que podría afectar la costa occidental de México en los próximos siete días.",
-      "category": "sociedad",
-      "source_name": "El Informador (GDL)",
-      "source_url": "https://www.informador.mx/mexico/ciclon-hernan-avanza-en-el-pacifico-cuando-podria-formarse-y-afectara-a-mexico-20260808-0044.html",
-      "published_at": "2026-08-08T13:47:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se basa en datos oficiales y evita un lenguaje cargado o opiniones, presentando la información de forma descriptiva y equilibrada.",
-      "focus_analysis": "El medio se centra en el monitoreo institucional y los riesgos meteorológicos, dejando de lado aspectos económicos o políticos del posible impacto del ciclón.",
-      "focus_tags": [
-        "clima",
-        "ciclón tropical",
-        "alerta meteorológica"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "En la temporada 2025 se registraron siete ciclones tropicales en el Pacífico, entre ellos el huracán Javier que provocó inundaciones y deslizamientos en la costa de Jalisco."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "Históricamente, la cuenca del Pacífico genera entre cinco y seis ciclones tropicales por año, y los sistemas que se forman cerca de la península de Baja California tienen alrededor de un 60 % de probabilidad de intensificarse."
-        },
-        {
-          "label": "Posturas de otros actores",
-          "text": "Conagua y la Coordinación Nacional de Protección Civil han emitido recomendaciones para que la población siga los canales oficiales y tome medidas de prevención ante posibles lluvias intensas y deslizamientos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "8877e7377b7b",
-      "title": "Las mejores series de ciencia ficción de 2026 hasta ahora",
-      "summary": "El portal Hipertextual publica una lista de las series de ciencia ficción más destacadas de 2026, señalando producciones de Disney+, Apple TV+, Netflix y Amazon Prime Video que han recibido elogios por su calidad y originalidad.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/las-mejores-series-de-ciencia-ficcion-de-2026-hasta-ahora/",
-      "published_at": "2026-08-08T12:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono informativo y promocional centrado en el entretenimiento, sin usar un cargados ni presentar una agenda política o ideológica.",
-      "focus_analysis": "El medio elige el ángulo cultural/entretenimiento al reseñar las series más relevantes, dejando fuera análisis de datos de audiencia, impacto económico o críticas sociopolíticas del género.",
-      "focus_tags": [
-        "ciencia ficción",
-        "series 2026",
-        "entretenimiento"
-      ],
-      "context": [
-        {
-          "label": "tendencia",
-          "text": "En 2026 la ciencia ficción ha experimentado un resurgimiento tanto en cine como en series, con varios lanzamientos que buscan revitalizar la esperanza y la imaginación del público."
-        },
-        {
-          "label": "plataforma",
-          "text": "Apple TV ha sido resaltado por medios especializados como Applesfera por su creciente catálogo de series de ciencia ficción, consolidándose como un referente del género."
-        },
-        {
-          "label": "industria",
-          "text": "Las plataformas de streaming continúan invirtiendo fuertemente en contenidos de ciencia ficción, diversificando sus catálogos para captar audiencias globales y competir en el mercado del entretenimiento digital."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "eefe449578af",
-      "title": "¡No te dejes engañar! ¿Qué es el quishing y cómo puedes evitarlo?",
-      "summary": "El artículo de El Universal describe el quishing, un fraude que utiliza códigos QR para dirigir a los usuarios a sitios maliciosos y robar sus datos personales y bancarios, y ofrece una serie de recomendaciones para evitar ser víctima de este tipo de estafa.",
-      "category": "tecnologia",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/techbit/no-te-dejes-enganar-que-es-el-quishing-y-como-puedes-evitarlo/",
-      "published_at": "2026-08-08T13:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta información técnica y consejos de seguridad sin inclinarse hacia ninguna posición política, usando fuentes como Kaspersky y expertos en ciberseguridad, y evita un lenguaje cargado o parcial.",
-      "focus_analysis": "El medio se centra en el aspecto de seguridad digital y la prevención del fraude mediante códigos QR, dejando de lado la discusión sobre la respuesta legal o regulatoria de las autoridades mexicanas.",
-      "focus_tags": [
-        "ciberseguridad",
-        "fraude QR",
-        "prevención"
-      ],
-      "context": [
-        {
-          "label": "Definición de phishing",
-          "text": "El phishing tradicional consiste en engañar a los usuarios mediante mensajes falsos para que revelen información confidencial; el quishing es una variante que emplea códigos QR para lograr el mismo objetivo."
-        },
-        {
-          "label": "Ciberdel en México",
-          "text": "Según datos de la ENISA y de la Policía Cibernética de México, el número de denuncias por fraudes digitales, incluidos los basados en QR, ha aumentado un 30% en los últimos dos años."
-        },
-        {
-          "label": "Marco regulatorio",
-          "text": "La Ley Federal de Protección de Datos Personales en Posesión de los Particulares y la reciente guía de la Procuraduría Federal del Consumidor advierten sobre la necesidad de validar la procedencia de códigos QR antes de interactuar con ellos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
       }
     }
   ]
