@@ -1,289 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-08T12:20:48.943435+00:00",
-      "title": "“Error autoritario, que un gobierno defina la verdad”: Francisco Valdés Ugalde",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero necesita fuentes más diversas y mayor equilibrio para cumplir plenamente con los estándares de objetividad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:20:52.808407+00:00",
-      "title": "La historia de Jorge Messi, el artífice silencioso que acompañó a su hijo para que cumpla sus sueños",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad, pese a una buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:20:57.850792+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Primeros controles a viajeros desde I",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete contiene datos poco fiables y falta de fuentes múltiples, lo que compromete su objetividad, aunque está actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:21:02.846908+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo: Moisés salva a Gema Garoa y condena a Ximena, Memo Schut",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 16 column 167 (char 1068)"
-    },
-    {
-      "at": "2026-08-08T12:21:09.060471+00:00",
-      "title": "Por increíble que parezca, acabamos de \"descubrir\" un nuevo 3.000 en el Pirineo:  la Agulla Sud de M",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque la falta de fuentes verificables reduce su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:21:18.764680+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado adecuadamente, pero necesita mayor diversidad de fuentes y citas verificables para alcanzar una cobertura más equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:21:24.417220+00:00",
-      "title": "¿Duermes bien y aun así estás agotado? Estas son las señales del síndrome de fatiga crónica",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "En general, el paquete cumple con los estándares editoriales, presentando información veraz, bien fuenteada y objetiva, aunque podría mejorar la precisión de referencias y la concreción del resumen.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:21:28.782432+00:00",
-      "title": "La crisis en Ceuta y la polarización migratoria",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado, pero presenta imprecisiones y falta de contraste suficiente, además de un sesgo evidente que afecta su objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:21:33.558537+00:00",
-      "title": "Boca Juniors intentará acercarse a la punta ante el líder Vélez: hora, TV y formaciones",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en general con los estándares de información, aunque presenta un error de nombre y podría beneficiarse de fuentes adicionales y citas directas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:21:39.456548+00:00",
-      "title": "Cómo los hermanos Batista levantaron el mayor imperio cárnico del mundo, cayeron en desgracia y volv",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, bien estructurada y objetiva, respaldada por una fuente confiable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:21:43.746598+00:00",
-      "title": "Afectaciones de este momento en las líneas del Metrobús hoy 8 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:40:43.187362+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 8,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es reciente y está estructurado, pero falla gravemente en veracidad y objetividad, presentando afirmaciones no verificables y sesgadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:40:48.647708+00:00",
-      "title": "Todd Blanche, el abogado de Trump, se convierte en fiscal general tras una ajustada votación de madr",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque cumple con actualidad y estructura; necesita fuentes y verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:40:53.123885+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo: Moisés salva a Gema Garoa y condena a Ximena, Memo Schut",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, objetiva y bien estructurada, respaldada por una fuente fiable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:40:59.162750+00:00",
-      "title": "Los aguacates escondían uno de los mayores misterios de la naturaleza. Unos científicos al fin lo ha",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la ausencia de citas precisas y de fuentes complementarias reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:41:03.773571+00:00",
-      "title": "Boca Juniors intentará acercarse a la punta ante el líder Vélez: hora, TV y formaciones",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada de la previa del partido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T12:41:08.919337+00:00",
-      "title": "“Error autoritario, que un gobierno defina la verdad”: Francisco Valdés Ugalde",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y actual, pero necesita mayor contraste de fuentes y equilibrio para cumplir con los estándares de objetividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-08T12:41:19.524453+00:00",
       "title": "El espejismo económico del gobierno de México",
       "kind": "noticia",
@@ -3392,6 +3109,295 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares periodísticos, aunque la falta de fuentes externas y el tono promocional reducen ligeramente la objetividad y el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:02.234011+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es reciente y la estructura es aceptable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:05.053717+00:00",
+      "title": "“¿Cómo es tu viejo?”: la profunda reflexión de Lionel Messi sobre su vínculo con Jorge",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene datos falsos sobre la muerte de Jorge Messi, lo que compromete gravemente su veracidad y lo hace inadecuado para publicación sin corrección.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:09.293057+00:00",
+      "title": "Profepa rescata a un coyote en vivienda del Edomex; el ejemplar estaba encadenado",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:14.409011+00:00",
+      "title": "Fue a pescar pero no regresó, un arpón dio esperanza y buzos lo salvaron tras 15 días atrapado en ce",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque presenta una pequeña inconsistencia entre título y contenido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:21.930502+00:00",
+      "title": "De la Espriella y el avance de la derecha: ¿qué cambia en Colombia y América Latina?",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete no cumple con los estándares de precisión y contraste requeridos para una noticia objetiva; necesita corroboración factual y fuentes más diversas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:27.003506+00:00",
+      "title": "Así ha cambiado la directiva de Apple en una década: varios ejecutivos han dejado la empresa (y otro",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "Aunque la pieza es reciente y mantiene neutralidad, su falta de veracidad y de fuentes contrastadas la hace inadecuada para publicación sin corrección.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:36.753424+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado adecuadamente, pero su falta de fuentes contrastantes limita la profundidad del análisis de contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:42.823467+00:00",
+      "title": "Apple y OpenAI escalan su batalla legal por robo de secretos comerciales",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete necesita mejorar la precisión de los datos y ampliar la variedad de fuentes para alcanzar un estándar periodístico más sólido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:46.947547+00:00",
+      "title": "El mensaje de la selección argentina tras la muerte de Jorge Messi y la decisión que tomó la AFA",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contrastada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:51.685887+00:00",
+      "title": "Afirma EAU que Irán atacó con proyectil a petrolero de Ormuz",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, contrastada y objetiva, con estructura adecuada y actualidad inmediata.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:58:57.209075+00:00",
+      "title": "Captan a Cuauhtémoc Blanco en restaurante de lujo en Barcelona: platillos cuestan hasta 5 mil pesos",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado y actual, pero necesita fuentes más variadas y citas verificables para reforzar su precisión y balance.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:59:01.846886+00:00",
+      "title": "¿Cómo el sistema Pix pasó de ser orgullo en Brasil a motivo de enojo para Trump?",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de precisión factual y de fuentes contrastantes, aunque está bien estructurado y actualizado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:59:06.781961+00:00",
+      "title": "¿No viste ‘Mortal Kombat 2’ en el cine? Te decimos dónde verla en streaming ahora mismo y te damos t",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete tiene buena actualidad y estructura, pero carece de precisión factual y objetividad, y su contraste de fuentes es limitado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:59:16.251439+00:00",
+      "title": "Ser universitario",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita fuentes más verificables y una mayor diversidad de perspectivas para cumplir con los estándares de precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:59:18.936267+00:00",
+      "title": "Irán y Omán \"muy cerca\" de lograr acuerdo sobre ruta marítima temporal por el estrecho de Ormuz",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial: es veraz, bien contrastado, objetivo, reciente y estructurado de forma adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:59:24.229183+00:00",
+      "title": "Murió Jorge Messi, en vivo: la resolución de la AFA para los partidos de todas las categorías del fú",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, pese a ser actual y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-08T15:59:29.920141+00:00",
+      "title": "Día del Gato: ¿por qué se celebra tres veces?; actividades en CDMX para festejar a los michis",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de calidad periodística, aunque se sugiere verificar la exactitud de la fecha del 20 de febrero para mejorar la veracidad.",
       "error": null
     }
   ]
