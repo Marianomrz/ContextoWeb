@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-08T23:41:31.154213+00:00",
+  "generated_at": "2026-08-08T23:57:35.416136+00:00",
   "articles": [
+    {
+      "id": "b279a4efcf30",
+      "title": "Perez Hilton, “grave pero estable”; requerirá cirugía",
+      "summary": "El actor y bloguero estadounidense Pérez Hilton, hospitalizado en Florida tras una presunta autolesión, se encuentra en estado grave pero estable y requerirá cirugía. Su familia solicitó privacidad mientras se lleva a cabo su tratamiento bajo la Ley Baker de Florida.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/perez-hilton-grave-pero-estable-requerira-cirugia/",
+      "published_at": "2026-08-08T23:44:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo mantiene un tono informativo y neutral, limitándose a citar al comunicado familiar y a los hechos médicos sin usar lenguaje cargado ni incluir opiniones.",
+      "focus_analysis": "El medio se enfoca en el estado de salud y la petición de privacidad de Pérez Hilton, omitiendo un análisis más amplio sobre la salud mental o la legislación del Baker Act.",
+      "focus_tags": [
+        "salud mental",
+        "celebridad",
+        "privacidad"
+      ],
+      "context": [
+        {
+          "label": "Ley Baker (Florida)",
+          "text": "La Ley Baker es una normativa de Florida que permite la detención involuntaria de personas en crisis de salud mental cuando representan un peligro para sí mismas o terceros."
+        },
+        {
+          "label": "Casos similares de celebridades",
+          "text": "Otros famosos, como Britney Spears o Demi Lovato, han experimentado crisis de salud mental que fueron ampliamente cubiertas por los medios, generando debates sobre privacidad y estigma."
+        },
+        {
+          "label": "Cobertura mediática mexicana de salud de celebridades",
+          "text": "Los medios mexicanos suelen informar sobre la salud de estrellas internacionales enfocándose en el aspecto humano y la solicitud de respeto a la familia, sin profundizar en políticas de salud."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "37b106059974",
+      "title": "Rodrigo Dourado, exfichaje estrella del América, es presentado oficialmente con Bravos de Juárez",
+      "summary": "Rodrigo Dourado, mediocampista brasileño y exjugador del Club América, fue presentado oficialmente como nuevo refuerzo de los Bravos de Juárez, marcando el primer fichaje del equipo tras la eliminación de la sanción de la FIFA. El club espera que su experiencia ayude a revertir la mala racha de tres derrotas consecutivas y a estabilizar la plantilla.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/08/rodrigo-dourado-exfichaje-estrella-del-america-es-presentado-oficialmente-con-bravos-de-juarez/",
+      "published_at": "2026-08-08T23:51:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos deportivos y institucionales sin usar lenguaje cargado ni favorecer una posición política; la cobertura es mayormente neutral.",
+      "focus_analysis": "El medio se centra en el aspecto institucional del fichaje, resaltando la recuperación del club tras la sanción de la FIFA y el papel de Dourado como símbolo de estabilidad, dejando de lado temas financieros, la reacción de la afición o el análisis de la estrategia del entrenador.",
+      "focus_tags": [
+        "transfer",
+        "Liga MX",
+        "recuperación institucional"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria reciente de Dourado en América",
+          "text": "Rodrigo Dourado llegó al Club América en enero de 2026 bajo la dirección de André Jardine, jugó 22 partidos y anotó un gol en la Concachampions, pero fue cedido tras la llegada del nuevo técnico Guillermo Almada, quien lo consideró prescindible."
+        },
+        {
+          "label": "Sanción de la FIFA a Bravos de Juárez",
+          "text": "Los Bravos de Juárez estuvieron imposibilitados de registrar jugadores por una sanción administrativa de la FIFA que se levantó el 7 de agosto de 2026, permitiendo su primer fichaje oficial después del veto."
+        },
+        {
+          "label": "Situación deportiva del equipo",
+          "text": "Antes del fichaje, el equipo de Juárez había sufrido tres derrotas consecutivas en la Apertura 2026 y había sustituido al técnico Pedro Caixinha por Salvador Valero como interino."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "1e8549e3a97f",
+      "title": "Más de 20.000 evacuaciones en Canadá por incendio forestal",
+      "summary": "El incendio forestal Bald Range en Columbia Británica, Canadá, obligó a evacuar a más de 20.000 personas y provocó la declaración de estado de emergencia por parte de las autoridades provinciales y federales.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/más-de-20-000-evacuaciones-en-canadá-por-incendio-forestal/a-78291521?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-08T22:56:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos oficiales y citas de funcionarios, sin usar vocabulario cargado ni presentar opiniones, lo que indica una cobertura neutra.",
+      "focus_analysis": "El enfoque está centrado en la respuesta institucional y la logística de evacuación, dejando fuera la discusión sobre el papel del cambio climático o los impactos económicos del incendio.",
+      "focus_tags": [
+        "evacuaciones masivas",
+        "estado de emergencia",
+        "incendio forestal"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Columbia Británica ha enfrentado incendios forestales de gran magnitud en los últimos años, como el incendio de 2023 que quemó más de 150.000 hectáreas y provocó evacuaciones a gran escala."
+        },
+        {
+          "label": "Factores climáticos",
+          "text": "Los científicos atribuyen el aumento de la frecuencia e intensidad de los incendios en Canadá a la combinación de veranos más calurosos y sequías prolongadas vinculadas al cambio climático."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "A diferencia de DW, El Universal y El Economista subrayaron la rapidez del avance del fuego y la necesidad de evacuaciones aéreas, mientras que Euronews enfocó su cobertura en otro incendio europeo, lo que muestra distintas prioridades informativas."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "535020258cdf",
+      "title": "Leagues Cup 2026: Chivas vs FC Dallas – Jornada 2",
+      "summary": "El club mexicano Chivas (Club Deportivo Guadalajara) se enfrenta a FC Dallas en la Jornada 2 de la Leagues Cup 2026, con la presión de ganar para seguir en el torneo.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/leagues-cup-2026-chivas-vs-fc-dallas-jornada-2/",
+      "published_at": "2026-08-08T23:49:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo utiliza un tono informativo y neutral, sin lenguaje cargado ni fuentes con sesgo político, centrado exclusivamente en la cobertura del partido.",
+      "focus_analysis": "El medio se concentra en el aspecto deportivo y la presión competitiva del encuentro, omitiendo análisis sobre el impacto económico del torneo o la opinión de los aficionados.",
+      "focus_tags": [
+        "fútbol",
+        "Leagues Cup",
+        "Chivas vs FC Dallas"
+      ],
+      "context": [
+        {
+          "label": "Resultado previo de Chivas",
+          "text": "Chivas había perdido en la penales contra LAFC en su partido anterior, lo que aumentó la necesidad de una victoria para mantenerse en la Leagues Cup."
+        },
+        {
+          "label": "Forma reciente de FC Dallas",
+          "text": "FC Dallas llegó al encuentro con una racha de resultados positivos en la MLS, buscando consolidarse en la fase de grupos del torneo binacional."
+        },
+        {
+          "label": "Formato de la Leagues Cup 2026",
+          "text": "La Leagues Cup 2026 reúne a equipos de México y Estados Unidos en una fase de grupos, donde cada victoria es crucial para avanzar a la fase de eliminación directa."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "aa523b57b3f8",
+      "title": "Boca Juniors empata contra Vélez por la cuarta fecha del Torneo Clausura",
+      "summary": "El club Boca Juniors de Argentina empató 1-1 contra el club Vélez Sarsfield en el Estadio Tomás Adolfo Ducó, en la cuarta fecha del Torneo Clausura.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/08/boca-juniors-intentara-acercarse-a-la-punta-ante-el-lider-velez-hora-tv-y-formaciones/",
+      "published_at": "2026-08-08T23:52:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido con un lenguaje neutro y sin opiniones ni carga ideológica, típico de la cobertura deportiva.",
+      "focus_analysis": "El medio se centró en los momentos clave del juego y el desempeño de los jugadores, dejando fuera cualquier análisis sobre repercusiones económicas, sociales o institucionales del resultado.",
+      "focus_tags": [
+        "deporte",
+        "fútbol",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del club",
+          "text": "Boca Juniors, fundado en 1905, es uno de los clubes más laureados del fútbol argentino, con múltiples títulos locales e internacionales."
+        },
+        {
+          "label": "Comparación con el rival",
+          "text": "Vélez Sarsfield, también de la Primera División argentina, es reconocido por su disciplina táctica y ha sido campeón del Torneo Clausura en varias ocasiones."
+        },
+        {
+          "label": "Marco institucional",
+          "text": "El Torneo Clausura forma parte del calendario oficial de la Liga Argentina de Fútbol (AFA), que regula la competencia y la organización de los partidos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
+    {
+      "id": "aab08d730ba9",
+      "title": "Cierres en Paseo Irapuato desatan tráfico; automovilistas piden soluciones",
+      "summary": "Los conductores de Irapuato expresan su malestar por los embotellamientos y la falta de sincronización de semáforos provocados por el cierre de carriles en Paseo Irapuato, mientras el Gobierno Municipal es llamado a ajustar la señalización para aliviar la congestión.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/irapuato/2026/08/08/cierres-en-paseo-irapuato-desatan-trafico-automovilistas-piden-soluciones-1829301.html",
+      "published_at": "2026-08-08T23:54:17+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva, incluye citas de usuarios y menciona la responsabilidad municipal sin usar lenguaje cargado ni favorecer a ninguna posición política.",
+      "focus_analysis": "El medio se centra en el inconveniente de tráfico y la reacción de los automovilistas, dejando de lado el análisis del costo económico del retraso o la planificación a largo plazo de la infraestructura vial.",
+      "focus_tags": [
+        "tráfico",
+        "obras viales",
+        "gestión municipal"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de obras viales en Irapuato",
+          "text": "Irapuato ha experimentado previamente cierres temporales de avenidas para trabajos de mantenimiento, como la rehabilitación de la Avenida Reforma, lo que generó congestiones similares y la necesidad de rutas alternas."
+        },
+        {
+          "label": "Responsabilidades del Gobierno Municipal en gestión de tráfico",
+          "text": "En México, los gobiernos municipales deben coordinar la señalización y los tiempos de los semáforos durante obras viales, además de informar a la ciudadanía sobre desvíos y medidas de mitigación."
+        },
+        {
+          "label": "Impacto económico del tráfico congestionado",
+          "text": "Los retrasos vehiculares pueden afectar la productividad de los trabajadores y el flujo comercial de los negocios locales, según estudios de movilidad urbana en ciudades mexicanas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "03dbf705dea9",
       "title": "8 frases del Chacho Coudet tras la derrota de River Plate ante Tigre: de los plazos para revertir la racha a su autocrítica",
@@ -839,217 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "04d1beee976a",
-      "title": "El tintinear de los recuerdos: Gabriela Mistral y la canción del viento",
-      "summary": "Un carillón de viento se balancea sobre el patio de una casa antigua, sus campanillas repican como sílabas que se escapan del papel. Cada golpe es una estrofa que el aire lleva a los oídos de quien se detiene, recordándonos que la poesía puede ser un susurro que se vuelve canto. En ese instante la voz de Gabriela Mistral se mezcla con el crujir de la madera, creando un eco que no conoce tiempo.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-08T22:59:24.351249+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, bajo el sol abrasador de agosto, los recuerdos de la infancia se despiertan con la brisa, y la obra de Mistral, cargada de lullabies y consuelo, se vuelve más pertinente. El ángulo del carillón permite explorar cómo su poesía trasciende la página y se vuelve sonido que abraza el entorno. Elegí este enfoque para mostrar que la literatura puede ser tan tangible como el tintineo de una campanilla.",
-      "focus_tags": [
-        "poesía",
-        "Chile",
-        "siglo XX"
-      ],
-      "context": [
-        {
-          "label": "Comienzo",
-          "text": "Para iniciarse, lea \"Desolación\" (1922), la primera colección que reveló la voz íntima y melancólica de Mistral, donde la naturaleza se vuelve espejo del sentir interno."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Explore \"Los versos del capitan\" (1952), un libro escrito como una carta de amor a su hijo imaginario, que muestra la capacidad de la poetisa para transformar la cotidianeidad en ritual de consuelo."
-        },
-        {
-          "label": "Trasfondo",
-          "text": "Mistral, primera mujer latinoamericana en recibir el Premio Nobel de Literatura (1945), cultivó una carrera como docente y diplomática, lo que le permitió impregnar su obra de una visión universalista y de compromiso social."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "fadc959fb40a",
-      "title": "EN VIVO | ¿Cómo está el tráfico hoy 8 de agosto? Bloqueos, accidentes y manifestaciones en el Valle de México",
-      "summary": "Las autoridades de la Ciudad de México y del Estado de México informaron sobre varios incidentes viales el 8 de agosto, incluyendo bloqueos, accidentes y manifestaciones que provocaron avances lentos en avenidas como Av. Central y la carretera México‑Texcoco, además de la implementación de modos reversibles en el Circuito Interior para mejorar la movilidad.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/08/en-vivo-como-esta-el-trafico-hoy-8-de-agosto-bloqueos-accidentes-y-manifestaciones-en-el-valle-de-mexico/",
-      "published_at": "2026-08-08T22:27:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos de tráfico con un tono informativo y sin usar vocabulario cargado ni fuentes partidistas, mostrando una cobertura neutra.",
-      "focus_analysis": "El medio se centró en el ángulo de la movilidad y la gestión del tráfico, resaltando los incidentes y las medidas de las autoridades; dejó de abordar el contexto sociopolítico de las manifestaciones ni el impacto económico del congestionamiento.",
-      "focus_tags": [
-        "tráfico",
-        "manifestaciones",
-        "medidas de movilidad"
-      ],
-      "context": [
-        {
-          "label": "Autoridades de tránsito",
-          "text": "En la Ciudad de México y el Estado de México, la Secretaría de Movilidad y la Secretaría de Seguridad Pública publican regularmente reportes de vialidad para advertir a los conductores sobre incidentes y recomendar rutas alternas."
-        },
-        {
-          "label": "Modo reversible",
-          "text": "El modo reversible en el Circuito Interior es una estrategia de gestión de tráfico que se activa en horas pico, permitiendo el flujo unidireccional para descongestionar la zona central."
-        },
-        {
-          "label": "Manifestaciones en el Valle de México",
-          "text": "En los últimos meses, diversas protestas y bloqueos han tenido lugar en avenidas principales del Valle de México, motivadas por reivindicaciones sociales y laborales, lo que ha generado interrupciones temporales del tráfico."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "ffc78fec3a7a",
-      "title": "River sufrió otro duro golpe: perdió ante Tigre y sumó la sexta derrota consecutiva",
-      "summary": "River Plate, el club argentino de fútbol, perdió 1-0 frente a Tigre en la cuarta fecha del Torneo Clausura, sumando su sexta derrota consecutiva y permaneciendo sin marcar goles en el certamen.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/08/river-plate-buscara-su-primera-victoria-en-el-torneo-clausura-en-su-visita-a-tigre-hora-tv-y-formaciones/",
-      "published_at": "2026-08-08T22:29:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido sin usar adjetivos cargados ni citar fuentes con sesgo político, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el desempeño deportivo y la racha de derrotas de River Plate, omitiendo análisis sobre la gestión del club, su situación financiera o repercusiones institucionales.",
-      "focus_tags": [
-        "River Plate",
-        "derrota",
-        "Tigre"
-      ],
-      "context": [
-        {
-          "label": "background",
-          "text": "River Plate es uno de los clubes más grandes y laureados del fútbol argentino, con una trayectoria que incluye múltiples títulos locales e internacionales."
-        },
-        {
-          "label": "recent_form",
-          "text": "Desde mediados de 2025, River Plate no ha ganado ningún partido a nivel local, acumulando seis derrotas consecutivas y sin anotar goles en el Torneo Clausura."
-        },
-        {
-          "label": "upcoming_fixtures",
-          "text": "Tras la derrota, River Plate enfrentará a Independiente Santa Fe en los octavos de final de la Copa Sudamericana y recibirá a Argentinos Juniors en la liga local."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "013b310b6431",
-      "title": "Swiatek reacciona a tiempo y se mete en cuartos de Toronto",
-      "summary": "La tenista polaca Iga Swiatek, campeona de cinco Grand Slam, venció a la ucraniana Marta Kostyuk en Toronto y se clasificó a los cuartos de final del torneo WTA 1000 de Canadá.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/deportes/swiatek-reacciona-mete-cuartos-toronto-20260808-827310.html",
-      "published_at": "2026-08-08T22:37:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo presenta los hechos del partido con un lenguaje neutro y descriptivo, sin adjetivos cargados ni fuentes que indiquen una inclinación política o editorial.",
-      "focus_analysis": "El medio priorizó la descripción del desempeño y la remontada de Swiatek en el encuentro, omitiendo análisis sobre la organización del torneo o implicaciones más amplias del circuito.",
-      "focus_tags": [
-        "tennis",
-        "WTA 1000",
-        "Swiatek"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Iga Swiatek, con cinco títulos de Grand Slam, ocupa el puesto ocho en el ranking mundial y ha alcanzado ya seis cuartos de final en la temporada actual."
-        },
-        {
-          "label": "comparación",
-          "text": "En el Roland Garros de mayo, Marta Kostyuk había eliminado a Swiatek en octavos de final, lo que hizo que la victoria en Toronto tuviera un significado especial para la polaca."
-        },
-        {
-          "label": "próximo rival",
-          "text": "Tras este triunfo, Swiatek se enfrentará a la rusa Diana Shnaider, quien recientemente superó a la favorita Jessica Pegula en semifinales."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "61cb36ed332e",
-      "title": "Los 10 mejores documentales de todos los tiempos",
-      "summary": "El portal Hipertextual ofrece una lista de los diez mejores documentales de la historia del cine, destacando su capacidad para preservar la memoria histórica y generar conciencia social a través de narrativas artísticas y testimonios reales.",
-      "category": "sociedad",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/los-10-mejores-documentales-de-todos-los-tiempos/",
-      "published_at": "2026-08-08T18:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, sin usar palabras cargadas ni citar fuentes con opiniones sesgadas; se centra en la valoración cultural del género sin inclinarse a una perspectiva política o ideológica.",
-      "focus_analysis": "El artículo se centra en el valor histórico, cultural y social de los documentales, resaltando su papel como archivo vivo y motor de debate; omite aspectos técnicos como la producción, distribución o recepción comercial de los filmes.",
-      "focus_tags": [
-        "memoria histórica",
-        "conciencia social",
-        "valor cultural"
-      ],
-      "context": [
-        {
-          "label": "Importancia del documental como registro histórico",
-          "text": "Los documentales se consideran una herramienta esencial para conservar testimonios y eventos que de otro modo podrían perderse, funcionando como archivos vivos que permiten a futuras generaciones comprender el pasado."
-        },
-        {
-          "label": "Ejemplos emblemáticos y su impacto",
-          "text": "Obras como \"Shoah\" (Claude Lanzmann) y \"The Act of Killing\" (Joshua Oppenheimer) han sido reconocidas por su capacidad de confrontar traumas y desafiar narrativas oficiales, influyendo en la percepción pública de hechos históricos."
-        },
-        {
-          "label": "Rol del documental en la conciencia social",
-          "text": "El género documental suele abordar problemáticas marginadas, como injusticias, crisis humanitarias y dilemas ambientales, sirviendo como catalizador para el activismo y la exigencia de rendición de cuentas a instituciones."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "7bbab9f0ade2",
-      "title": "Chiapas registra sismo de 4.1 de intensidad en Cd Hidalgo",
-      "summary": "El Servicio Sismológico Nacional de México informó que el 7 de agosto se registró un sismo de magnitud 4.1 con epicentro en el municipio de Ciudad Hidalgo, Chiapas, sin daños reportados hasta el momento.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/08/chiapas-registra-sismo-de-41-de-intensidad-en-cd-hidalgo/",
-      "published_at": "2026-08-08T22:30:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y cita exclusivamente fuentes oficiales, sin lenguaje cargado ni selección de opiniones que indiquen preferencia política.",
-      "focus_analysis": "El medio se centra en describir el evento sísmico y ofrecer recomendaciones de seguridad civil, dejando de lado cualquier análisis político, económico o de impacto social más amplio.",
-      "focus_tags": [
-        "sismo",
-        "seguridad civil",
-        "Chiapas"
-      ],
-      "context": [
-        {
-          "label": "Actividad sísmica histórica en México",
-          "text": "México se encuentra en una zona tectónica activa, con decenas de sismos diarios de baja magnitud y eventos históricos como los terremotos de 1985 y 2017 que causaron graves daños."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "El Servicio Sismológico Nacional y el Centro Nacional de Prevención de Desastres emiten alertas y recomendaciones para que la población revise su seguridad y evite rumores."
-        },
-        {
-          "label": "Riesgo tectónico de la región",
-          "text": "El estado de Chiapas está ubicado cerca de la Brecha de Guerrero, una zona que acumula energía sísmica y que podría generar terremotos de mayor magnitud en el futuro."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
