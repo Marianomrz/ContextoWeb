@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-09T02:20:54.497755+00:00",
-      "title": "ChatGPT Voice ya sabe cuándo callarse: hablar con una IA nunca había sido tan natural",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero carece de veracidad y fuentes fiables, y muestra un sesgo promocional que compromete su objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:20:59.016208+00:00",
-      "title": "Cáncer de Joe Bien “se ha extendido”, según su hijo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete no cumple con los estándares de veracidad y fuentes fiables, por lo que no es apto para publicación en su estado actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:21:08.309662+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "Aunque la pieza es actual y estructurada, su falta de fuentes contrastantes y el sesgo evidente comprometen la objetividad y la veracidad requerida para una noticia informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:21:12.199217+00:00",
-      "title": "CDMX activa Alerta Amarilla por lluvias y granizo esta noche; estas son las alcaldías afectadas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de alta calidad editorial, cumple con los criterios de veracidad, contraste de fuentes, objetividad y estructura, aunque podría reforzar la citación directa de la autoridad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:21:17.732085+00:00",
-      "title": "Chivas y FC Dallas empatan 0-0 y dejan todo para el segundo tiempo de la Leagues Cup 2026",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales; es preciso, objetivo, reciente y bien estructurado, con fuentes fiables y contraste adecuado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:21:23.457419+00:00",
-      "title": "Lionel Messi aterrizó en Rosario para estar presente en el último adiós a su padre Jorge",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido en estructura y objetividad, pero la imprecisión sobre la victoria en la Copa del Mundo 2026 reduce significativamente su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:21:27.268660+00:00",
-      "title": "Activa Alerta Amarilla por fuertes lluvias en la CDMX; estas son las alcaldías afectadas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares periodísticos de precisión, contraste, objetividad, actualidad y estructura, presentando una cobertura clara y bien organizada de la alerta meteorológica.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:21:32.131368+00:00",
-      "title": "Los 10 mejores documentales de todos los tiempos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple razonablemente con los estándares de veracidad y estructura, pero su falta de fuentes múltiples y la evidente parcialidad reducen la puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:21:36.827644+00:00",
-      "title": "Lionel Messi aterriza en Argentina tras el fallecimiento de su padre",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad, veracidad y actualidad, presentando la noticia de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:22:22.165442+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es reciente y estructurado; necesita fuentes verificables y mayor neutralidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T02:22:25.428204+00:00",
-      "title": "Chivas y FC Dallas empatan 0-0 y dejan todo para el segundo tiempo de la Leagues Cup 2026",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es mayormente adecuado para publicación, aunque necesita corregir la redacción ambigua y reforzar la verificación de datos específicos del partido.",
-      "error": null
-    },
-    {
       "at": "2026-08-09T02:22:30.479257+00:00",
       "title": "Inter Miami perdió 2-1 ante Rayados de Monterrey por la segunda fecha de la Leagues Cup",
       "kind": "noticia",
@@ -3398,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es actual y está bien estructurado, pero presenta un sesgo moderado y falta de verificación completa, lo que impide una puntuación perfecta.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:40:43.085589+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla en veracidad y equilibrio de fuentes, lo que lo hace inadecuado para publicación sin una verificación exhaustiva y mayor pluralidad de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:40:46.501367+00:00",
+      "title": "CFE restablece 62.1% de la luz en Cajeme tras fuertes lluvias y vientos en Sonora",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la verificación de cifras podría reforzarse con fuentes directas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:40:52.130414+00:00",
+      "title": "Lavado, estafas y crimen organizado: los casos más sonados con criptomonedas en América Latina",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la verificación de datos y ampliar la variedad de fuentes, aunque mantiene una buena actualidad y estructura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:40:57.675449+00:00",
+      "title": "Cuenta atrás para el acuerdo Irán-Omán, la delegación iraní espera un último aval",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, contrastada y objetiva, presentada de forma clara y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:41:04.082662+00:00",
+      "title": "Murió Jorge Messi, en vivo: Lionel despidió a su padre junto a familiares y amigos en Rosario",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general aceptable y bien estructurado, pero contiene imprecisiones que deberían corregirse antes de la publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:41:08.814495+00:00",
+      "title": "Los 10 mejores documentales de todos los tiempos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los criterios editoriales, pero la falta de atribución clara de valor afecta su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:41:17.780533+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es reciente y está bien estructurado, pero su falta de fuentes contrastantes y la evidente carga editorial reducen su fiabilidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:41:21.581023+00:00",
+      "title": "De Paul marca ante Monterrey y dedica el gol a Messi por la muerte de su padre",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y contraste de fuentes, aunque mantiene objetividad y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:41:25.106981+00:00",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 9 de agosto: este domingo se mantendrán las lluvias en bu",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque podría mejorar la precisión de la fuente meteorológica directa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:41:29.632653+00:00",
+      "title": "Criptomonedas, en medio de regulación desigual y controversias en América Latina",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete muestra buena objetividad y actualidad, pero necesita mejorar la precisión de los datos y la diversidad de fuentes para cumplir con los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T06:41:35.154355+00:00",
+      "title": "Irán plantea condiciones para reabrir el estrecho de Ormuz",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de precisión y objetividad, ofreciendo contraste de fuentes y una estructura clara, aunque la falta de citas verificables reduce ligeramente la puntuación de veracidad.",
       "error": null
     }
   ]
