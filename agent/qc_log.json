@@ -1,187 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-08T23:57:34.380553+00:00",
-      "title": "Perez Hilton, “grave pero estable”; requerirá cirugía",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en calidad y cumple con los criterios editoriales; solo se sugiere ampliar la variedad de fuentes para reforzar la credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:00:39.092639+00:00",
-      "title": "Taza agrietada: la literatura que sobrevive al silencio de la dictadura",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 16 column 181 (char 953)"
-    },
-    {
-      "at": "2026-08-09T00:00:42.635907+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y estructurado, pero contiene graves errores de veracidad y un sesgo evidente que comprometen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:00:47.146441+00:00",
-      "title": "Instalan Madres Guerreras de León bazar en el Arco para financiar marchas y búsquedas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de información y estructura, pese a una leve inconsistencia de ubicación y un tono ligeramente emotivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:00:55.626117+00:00",
-      "title": "Leagues Cup 2026: Chivas vs FC Dallas – Jornada 2",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de objetividad y actualidad; solo se sugiere una ligera mejora en la citación de fuentes primarias para mayor veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:01:01.592563+00:00",
-      "title": "Más de 20.000 evacuaciones en Canadá por incendio forestal",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple bien con los estándares de objetividad y actualidad, aunque la falta de datos precisos y citas verificables reduce la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:01:06.843977+00:00",
-      "title": "Los 10 mejores documentales de todos los tiempos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es adecuado para una publicación de lista cultural, pero podría beneficiarse de fuentes adicionales y datos más concretos para reforzar la veracidad y el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:01:18.042579+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero le falta contraste de fuentes y contiene juicios no atribuidos, lo que afecta su objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:01:23.116583+00:00",
-      "title": "Exabogado de Trump confirmado como fiscal general de EU",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene información probablemente falsa, pese a su estilo neutro y actualidad, lo que lo descalifica para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:01:27.643884+00:00",
-      "title": "‘House of the dragon’ termina: horario oficial en CDMX para el episodio FINAL de la tercera temporad",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y estructura, pero necesita mayor respaldo de fuentes y verificación de afirmaciones para alcanzar una calidad editorial óptima.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T00:01:32.007740+00:00",
-      "title": "Boca Juniors empata contra Vélez por la cuarta fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, con pequeñas áreas de mejora en la verificación de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-09T00:20:34.660784+00:00",
       "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
       "kind": "noticia",
@@ -3386,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de objetividad, actualidad y estructura, aunque podría incluir fuentes adicionales para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:00:39.878622+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es actual y está bien estructurado. No cumple los estándares de información fiable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:00:43.280810+00:00",
+      "title": "Fuerte tormenta inunda calles de Sonora; caen árboles y postes de la CFE",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares periodísticos de precisión, objetividad y presentación estructurada, ofreciendo una cobertura fiable y oportuna del evento.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:00:47.881013+00:00",
+      "title": "¿Eres el afortunado ganador de alguno de los sorteos de Gana Gato?",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, aunque debería incluir fuentes oficiales adicionales para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:00:53.138370+00:00",
+      "title": "EE.UU. presiona a su industria de defensa por más armas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque se beneficiaría de fuentes más precisas para validar los datos numéricos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:00:58.503864+00:00",
+      "title": "Murió Jorge Messi, en vivo: Lionel despidió a su padre junto a familiares y amigos en Rosario",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una información probablemente falsa y carece de verificación, aunque su estilo y estructura son adecuados y actuales. Se recomienda rechazar la publicación hasta confirmar los hechos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:01:03.598280+00:00",
+      "title": "Los 10 mejores documentales de todos los tiempos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque le falta contraste de fuentes y mayor objetividad; se recomienda mejorar la diversidad de referencias y equilibrar el tono.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:01:12.706762+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información reciente pero necesita más fuentes y mayor neutralidad para alcanzar los estándares de objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:01:17.059646+00:00",
+      "title": "De Paul marca ante Monterrey y dedica el gol a Messi por la muerte de su padre",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido en estructura y objetividad, pero la falta de verificación de hechos clave afecta su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:01:21.948249+00:00",
+      "title": "Chivas es víctima de los MEMES y de la burla del FC Dallas tras practicamente quedar eliminado de Le",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, contrastada y estructurada de manera adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:01:26.240932+00:00",
+      "title": "Reportan filtración de datos de 95 mil empleados de la Secretaría de Educación de Guanajuato",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, pero podría mejorar la veracidad y contraste de fuentes añadiendo corroboración oficial y más perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T05:01:31.402040+00:00",
+      "title": "Cómo Italia, un país famoso por la saludable dieta mediterránea, acabó teniendo tantos niños obesos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque debería mejorar la citación exacta de datos y corregir pequeños errores tipográficos.",
       "error": null
     }
   ]
