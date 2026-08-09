@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-09T18:01:27.295770+00:00",
-      "title": "Las empresas con propósito favorecen el bienestar de sus trabajadores",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mayor rigor factual y equilibrio de fuentes para cumplir con los estándares de calidad periodística, aunque está bien estructurado y es muy reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:01:30.843461+00:00",
-      "title": "Esta app gratis convierte tu viejo Android en una consola retro de videojuegos",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, objetiva y bien estructurada, aunque podría beneficiarse de citas más explícitas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:01:35.250117+00:00",
-      "title": "Impacto y vuelco: el terrible accidente en el TC 2000 en Toay",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la verificación de datos y la inclusión de fuentes múltiples, aunque mantiene objetividad y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:01:40.016353+00:00",
-      "title": "Recolectan firmas para devolver acceso gratuito los martes en el Museo Dolores Olmedo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de actualidad y estructura, pero necesita mayor contraste de fuentes y mayor respaldo verificable para mejorar su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:01:45.430100+00:00",
-      "title": "Prisión preventiva a Guadalupe ‘N’ por presunta red de huachicol relacionada con caso Ruffo Appel",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad informativa, pero necesita incorporar fuentes más diversas para ofrecer un contraste adecuado en un tema político.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:01:49.392709+00:00",
-      "title": "Netanyahu, en tono electoral, rechaza el plan de Trump para el desarme de Hamás en Gaza",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es reciente y objetivo, pero necesita mayor precisión y una gama más amplia de fuentes para cubrir todos los ángulos del conflicto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:20:35.881742+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 8,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a cumplir parcialmente con la estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:20:39.405697+00:00",
-      "title": "Pep Guardiola rechazó dirigir a Italia; Paolo Maldini revela que estuvo a un paso de aceptar",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo está bien estructurado y es objetivo, pero su veracidad y la falta de fuentes confiables lo hacen poco fiable para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:20:44.310215+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Las comunidades religiosas de Ceuta s",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete tiene buena cobertura y actualidad, pero contiene errores de factualidad que comprometen su precisión y necesita una mejor estructuración de la pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:20:47.984276+00:00",
-      "title": "San Lorenzo y Huracán animan una nueva edición del clásico en el Nuevo Gasómetro",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general de calidad, pero contiene una imprecisión importante sobre la identidad del capitán de la selección, lo que reduce la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:20:52.385580+00:00",
-      "title": "Detectan bacteria carnívora en aguas costeras de EU; autoridades de salud lanzan alerta",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los requisitos de actualidad y estructura, pero necesita fuentes más robustas y verificables para alcanzar una mayor precisión y contraste informativo.",
-      "error": null
-    },
-    {
       "at": "2026-08-09T18:20:56.755733+00:00",
       "title": "En 1979, un hombre decidió plantar árboles cada día para frenar la erosión. Hoy tiene un bosque giga",
       "kind": "noticia",
@@ -3392,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares, pero la falta de fuentes verificables y de voces contrastantes reduce su calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:00:41.508158+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual y estructurado, pero carece de veracidad y contraste de fuentes, y muestra una clara falta de objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:00:46.374297+00:00",
+      "title": "Argentinos Juniors y Racing se enfrentan por la cuarta fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con la mayoría de los criterios de calidad, aunque la referencia a una zona inexistente y la falta de fuentes múltiples reducen ligeramente la puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:00:52.013215+00:00",
+      "title": "Defiende INE contrato con empresa del fallido examen de la UNAM; descarta fallas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, pero debería incorporar más voces contrapuestas para reforzar el contraste de fuentes en temas conflictivos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:00:57.644616+00:00",
+      "title": "Aseguran 90 mil litros de combustible y cinco unidades de carga en Hidalgo; dos autotanques fueron r",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque la ausencia de citas verificables impide una puntuación perfecta en veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:01:02.144119+00:00",
+      "title": "El cáncer que padece el expresidente estadounidense Joe Biden es \"muy doloroso y debilitante\", revel",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque mantiene objetividad y estructura adecuada; no se recomienda su publicación sin verificación exhaustiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:01:05.437510+00:00",
+      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución est",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y objetivo, pero le falta verificación de datos y fuentes contrastantes, lo que limita su precisión y profundidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:01:15.324054+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero su falta de fuentes múltiples y la evidente parcialidad reducen su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:01:18.136941+00:00",
+      "title": "México va por 6.6 millones de árboles: Sheinbaum encabeza Jornada Nacional de Reforestación 2026",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando una información precisa, bien contrastada y objetiva, con estructura adecuada y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:01:23.475213+00:00",
+      "title": "Las vacaciones de Marcus Rashford en un lujoso yate con 10 mujeres antes de retornar al Manchester U",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete no cumple los estándares de veracidad y contraste de fuentes, por lo que no es apto para publicación en su estado actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:01:26.916035+00:00",
+      "title": "Asesinan a canadiense en Mazatlán; lo hallan con heridas de arma blanca y disparos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere ampliar la variedad de fuentes para reforzar la robustez informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:01:33.473381+00:00",
+      "title": "Cruz Azul vs New York City EN VIVO sigue el MINUTO A MINUTO del partido de Leagues Cup",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de precisión, objetividad y actualidad, aunque la falta de fuentes verificables para los resultados recientes reduce ligeramente la puntuación de veracidad.",
       "error": null
     }
   ]
