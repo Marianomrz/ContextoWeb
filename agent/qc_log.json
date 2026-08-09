@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-09T15:01:20.763042+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado correctamente, pero necesita mayor respaldo de fuentes y una presentación más equilibrada de voces para alcanzar una calidad editorial alta.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:01:23.817418+00:00",
-      "title": "Cohete de SpaceX se estrelló contra la Luna: ¿Qué dejó el impacto y qué buscan los científicos?",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es objetivo y actual, pero contiene errores de precisión y una cobertura de fuentes limitada, lo que merma su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:01:29.776639+00:00",
-      "title": "Amazon pone en rebaja un invento genial para escuchar la música de tu móvil en cualquier altavoz que",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y actual, pero el tono promocional y la falta de fuentes más robustas limitan su objetividad; sin embargo, cumple con los estándares básicos de una noticia informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:01:36.090260+00:00",
-      "title": "Ataque armado deja dos muertos y un herido en Mazatlán; despliegan operativo para localizar a respon",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:02:39.374354+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete carece de veracidad y equilibrio de fuentes, y muestra un sesgo claro; necesita revisión profunda antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:02:43.436815+00:00",
-      "title": "Diez veces que ‘Spider-Man’ ha sido el mejor héroe del cómic",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es veraz, actual y bien estructurado, pero podría enriquecer su contraste de fuentes para mayor robustez editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:02:48.950185+00:00",
-      "title": "Israel rechaza plan de paz de Trump para Gaza; Turquía y Egipto insisten en su implementación",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero contiene un error factual importante y una cobertura limitada de fuentes, lo que reduce su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:02:53.138208+00:00",
-      "title": "¿Cotizaste en IMSS e ISSSTE? Así puedes sumar periodos para obtener una pensión",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial y es apto para publicación, aunque podría beneficiarse de fuentes oficiales adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:03:00.031864+00:00",
-      "title": "Murió Jorge Messi, en vivo: la familia se prepara para el último adiós y los hinchas dejaron mensaje",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad, comprometiendo su idoneidad editorial, pese a una buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:03:05.951959+00:00",
-      "title": "¿Qué influencia tiene el príncipe heredero Reza Pahlavi en Irán?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz y reciente con una estructura adecuada, aunque podría reforzar la evidencia de fuentes y ampliar la variedad de voces en el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:03:14.838536+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y contraste de fuentes, y su tono parcial reduce la calidad informativa; sin embargo, es actual y sigue en estructura básica de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:03:19.431375+00:00",
-      "title": "Cohete de SpaceX se estrelló contra la Luna: ¿Qué dejó el impacto y qué buscan los científicos?",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta una narrativa plausible pero sin evidencia verificable; necesita fuentes fiables y corroboración antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:03:23.512620+00:00",
-      "title": "Amazon pone en rebaja un invento genial para escuchar la música de tu móvil en cualquier altavoz que",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para reforzar la credibilidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-09T15:03:29.205739+00:00",
       "title": "Ataque armado deja dos muertos y un herido en Mazatlán; despliegan operativo para localizar a respon",
       "kind": "noticia",
@@ -3398,6 +3177,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida los estándares de objetividad y actualidad, aunque podría mejorar el contraste de fuentes incluyendo la posición rusa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:40:39.040671+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta serias deficiencias de veracidad y objetividad, pese a estar actualizado y estructurado adecuadamente. Se recomienda rechazar la publicación hasta corregir los datos inexactos y equilibrar la presentación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:40:44.263285+00:00",
+      "title": "Sheinbaum firma decreto para establecer anualmente jornada de reforestación; se realizará el segundo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, pero se recomienda reforzar la verificación de cifras y añadir perspectivas críticas para mejorar el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:40:49.587529+00:00",
+      "title": "Huracán se impone sobre San Lorenzo en el Nuevo Gasómetro en una nueva edición del clásico",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:40:55.140639+00:00",
+      "title": "Dictan prisión preventiva a apoderada de Ingemar, vinculada a Ruffo Appel",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque podría reforzarse con fuentes múltiples y citas específicas para mejorar la verificación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:01.471262+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Las comunidades religiosas de Ceuta s",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero presenta imprecisiones de títulos y falta de fuentes contrastantes, lo que reduce su veracidad y equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:06.294378+00:00",
+      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución est",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es oportuno y estructurado correctamente, pero la falta de fuentes verificables y la naturaleza especulativa del dispositivo reducen su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:13.927921+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información reciente y bien estructurada, pero carece de fuentes verificables y de contraste de voces, lo que reduce su puntuación en veracidad y pluralidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:18.188549+00:00",
+      "title": "Mercados bursátiles de EU e Inglaterra podrían operar 24 horas al día; SEC debatirá transición",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y estructura, y mantiene una presentación objetiva, aunque necesita mayor diversidad de fuentes para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:23.956575+00:00",
+      "title": "Raúl Rocha Cantú, captado en Mónaco, a días de que FGR girará otra orden de aprehensión en su contra",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y objetivo, aunque necesita mayor diversidad de fuentes para reforzar la cobertura del tema legal.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:27.278758+00:00",
+      "title": "Murió Jorge Messi, en vivo: Lionel y su familia dieron el último adiós en una ceremonia íntima",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad, aunque su estructura y estilo son adecuados.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:30.521640+00:00",
+      "title": "Jürgen Damm se disculpa por comentario en vivo sobre las personas no nacidas en México y Faitelson l",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en y bien estructurado, aunque podría beneficiarse de una mayor diversidad de fuentes críticas para reforzar el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:34.612009+00:00",
+      "title": "Messi se despide de su padre en su ciudad natal, Rosario",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo presenta una grave inexactitud factual, lo que compromete su validez editorial a pesar de su estilo neutro y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:41:39.101430+00:00",
+      "title": "Esta app gratis convierte tu viejo Android en una consola retro de videojuegos",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, reciente y estructurada de forma objetiva.",
       "error": null
     }
   ]
