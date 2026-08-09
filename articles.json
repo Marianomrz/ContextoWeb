@@ -1,6 +1,213 @@
 {
-  "generated_at": "2026-08-09T00:21:29.163790+00:00",
+  "generated_at": "2026-08-09T00:41:51.345625+00:00",
   "articles": [
+    {
+      "id": "41507fb6f3e6",
+      "title": "Ser universitario",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) detectó anomalías en su examen de admisión en línea, lo que generó un debate sobre la confianza que la sociedad mexicana deposita en las universidades públicas y sobre el uso de la inteligencia artificial en los procesos de selección.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/politica/ser-universitario/07/08/2026/",
+      "published_at": "2026-08-07T17:47:05+00:00",
+      "bias_score": -30,
+      "bias_reason": "El artículo enfatiza la defensa de la función pública de la UNAM y critica la falta de seguridad del sistema, usando un tono que resalta la responsabilidad social y la confianza popular, típico de una línea editorial progresista.",
+      "focus_analysis": "El medio centra su atención en el aspecto institucional y de confianza en la educación superior, resaltando la dimensión humana del acceso universitario, mientras deja de lado el análisis económico del costo del examen o la posible responsabilidad política.",
+      "focus_tags": [
+        "educación superior",
+        "confianza institucional",
+        "inteligencia artificial"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la UNAM",
+          "text": "La UNAM, la universidad pública más grande de México, ha tradicionalmente realizado su examen de ingreso de forma presencial, pero en 2026 pasó a una modalidad totalmente en línea para más de 158 mil aspirantes."
+        },
+        {
+          "label": "Resultados atípicos",
+          "text": "Según datos de la propia UNAM, entre 2021 y 2025 solo el 3 % de los participantes obtuvo 100 o más aciertos de 120, mientras que en 2026 esa proporción subió a 16 %."
+        },
+        {
+          "label": "Confianza en las universidades",
+          "text": "La Encuesta Nacional de Calidad e Impacto Gubernamental 2025 del INEGI mostró que el 75,9 % de la población adulta urbana mexicana confía en las universidades públicas, superando ampliamente a los partidos políticos y al Congreso."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "3df540ba1bad",
+      "title": "Tropas israelíes retornan a zona bajo control de Líbano",
+      "summary": "Las tropas israelíes volvieron a entrar en la aldea libanesa de Zawtar al‑Gharbiya, bajo control del ejército libanés, y erigieron una barrera de tierra que bloquea la carretera, pese a que el acuerdo marco de junio, auspiciado por EE. UU., preveía la retirada gradual de Israel y el desarme de Hezbolá. Las autoridades libanesas calificaron el acto como una violación del acuerdo y señalaron que aún no está claro si permanecen fuerzas israelíes en la zona.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/tropas-israelíes-retornan-a-zona-bajo-control-de-líbano/a-78291560?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-09T00:06:00+00:00",
+      "bias_score": -25,
+      "bias_reason": "El texto utiliza expresiones cargadas como \"ejército de ocupación israelí\" y enfatiza las víctimas civiles y la supuesta violación del acuerdo, reflejando una postura crítica hacia Israel típica de medios con ligera tendencia de izquierda.",
+      "focus_analysis": "El medio se centra en el aspecto de seguridad y la repercusión humanitaria del ingreso israelí, dejando de lado la dimensión política de las negociaciones en Roma y los argumentos israelíes sobre la ausencia de conocimiento del incidente.",
+      "focus_tags": [
+        "conflicto Israel‑Líbano",
+        "seguridad fronteriza",
+        "desplazamiento civil"
+      ],
+      "context": [
+        {
+          "label": "acuerdo marco de junio 2026",
+          "text": "En junio de 2026 EE. UU. medió un acuerdo entre Israel y Líbano que establecía la retirada paulatina de las tropas israelíes del sur libanés y el desarme de Hezbolá, designando zonas piloto bajo control libanés."
+        },
+        {
+          "label": "cifras de víctimas y desplazados",
+          "text": "Desde el inicio de la invasión israelí en marzo, el Ministerio de Salud libanés ha reportado más de 4.300 muertos y cientos de miles de desplazados internos, reflejando una grave crisis humanitaria en el sur del país."
+        },
+        {
+          "label": "postura de EE. UU. y negociaciones",
+          "text": "Estados Unidos ha impulsado varias rondas de negociaciones en Roma para buscar una solución pacífica, aunque los líderes libaneses y los representantes de Hezbolá siguen expresando escepticismo respecto a los compromisos israelíes."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "5b7c677db905",
+      "title": "Tarde violenta en Valle de Santiago: Balean a mujer en consultorio y a trabajador",
+      "summary": "Dos disparos en Valle de Santiago, Guanajuato, dejaron gravemente herida a una mujer en un consultorio y a un trabajador de una empresa privada; las autoridades de la Fiscalía General del Estado investigan los hechos y aún no hay detenciones.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/guanajuato-sur/2026/08/08/tarde-violenta-en-valle-de-santiago-balean-a-mujer-en-consultorio-y-a-trabajador-1829321.html",
+      "published_at": "2026-08-09T00:30:37+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono descriptivo y neutral, sin adjetivos cargados ni opiniones, y solo cita a la Fiscalía y a los cuerpos de seguridad.",
+      "focus_analysis": "El medio se centra en los hechos violentos y la respuesta institucional, omitiendo motivaciones, contexto delictivo regional y reacciones de la comunidad.",
+      "focus_tags": [
+        "violencia armada",
+        "seguridad pública",
+        "Valle de Santiago"
+      ],
+      "context": [
+        {
+          "label": "Aumento de violencia en Guanajuato",
+          "text": "En los últimos meses, el estado de Guanajuato ha registrado un incremento de incidentes con armas de fuego, lo que ha llevado a las autoridades a reforzar la seguridad en varios municipios."
+        },
+        {
+          "label": "Sistema de alerta 911 en México",
+          "text": "El número 911 permite la notificación inmediata de emergencias y ha sido clave para la rápida intervención de la policía y los servicios de salud en casos de tiroteos."
+        },
+        {
+          "label": "Previos incidentes en Valle de Santiago",
+          "text": "Valle de Santiago ha sido escenario de episodios violentos anteriormente, como el tiroteo en una escuela en 2024, lo que evidencia una tendencia de inseguridad en la zona."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "61cb36ed332e",
+      "title": "Los 10 mejores documentales de todos los tiempos",
+      "summary": "Hipertextual presenta una selección de los diez documentales más emblemáticos, resaltando su capacidad para preservar la memoria histórica, denunciar injusticias y fomentar la reflexión crítica sobre la diversidad humana.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/los-10-mejores-documentales-de-todos-los-tiempos/",
+      "published_at": "2026-08-08T18:00:00+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto enfatiza el papel de los documentales como motores de conciencia social y como herramienta para visibilizar realidades marginadas, lo que evidencia una ligera inclinación hacia una perspectiva progresista sin adoptar un discurso partidista.",
+      "focus_analysis": "El medio opta por un enfoque cultural‑histórico, subrayando la importancia educativa y de transformación social de los documentales, mientras deja de lado aspectos técnicos, comerciales o de producción cinematográfica.",
+      "focus_tags": [
+        "cultura audiovisual",
+        "memoria histórica",
+        "conciencia social"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Los documentales han sido tradicionalmente utilizados como archivos vivos que capturan eventos, culturas y testimonios, contribuyendo a la construcción de la memoria colectiva de la humanidad."
+        },
+        {
+          "label": "dato comparativo",
+          "text": "Obras como 'Shoah' (Claude Lanzmann, 1985) son citadas como referencias clave que demuestran el poder del género para abordar traumas históricos con rigor y profundidad."
+        },
+        {
+          "label": "postura de actores",
+          "text": "Instituciones culturales y académicas, como la Biblioteca del Congreso de EE. UU., reconocen y archivan documentales por su valor educativo y su capacidad para generar debate público sobre temas críticos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "47f2d98896f7",
+      "title": "De un triciclo a una tradición: la historia de las tortas El Indio Triste",
+      "summary": "Tortas El Indio Triste, fundada en 1938 por José Lozano y Lorenza Hernández, pasó de vender en un triciclo a consolidarse como un símbolo gastronómico de León, manteniendo su tradición familiar y siendo parte del proyecto 450 Historias de León que celebra la historia de la ciudad.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/leon-450/2026/08/08/de-un-triciclo-a-una-tradicion-la-historia-de-las-tortas-el-indio-triste-1829332.html",
+      "published_at": "2026-08-09T00:31:31+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un tono celebratorio y emotivo, resaltando la tradición y el patrimonio sin presentar puntos de vista críticos; la selección de fuentes es interna y no incluye opiniones externas, lo que indica un sesgo leve positivo hacia la historia local.",
+      "focus_analysis": "El medio se centró en la dimensión cultural e histórica del negocio, destacando su legado y la identidad leonesa, mientras que dejó de lado cualquier análisis económico o social más amplio.",
+      "focus_tags": [
+        "cultura gastronómica",
+        "tradición local",
+        "historia de León"
+      ],
+      "context": [
+        {
+          "label": "Celebración de los 450 años de León",
+          "text": "El periódico inserta la historia de El Indio Triste dentro del proyecto 450 Historias de León, una iniciativa que busca preservar la memoria y la identidad de la ciudad en el marco de su cuadragésimo quinto centenario."
+        },
+        {
+          "label": "Importancia de la comida callejera en México",
+          "text": "Los puestos ambulantes y las tortas son parte esencial de la cultura alimentaria mexicana, con ejemplos como la torta ahogada de Guadalajara o la torta de milanesa de Ciudad de México, que también se han convertido en símbolos locales."
+        },
+        {
+          "label": "Negocios familiares como patrimonio económico",
+          "text": "Las empresas familiares como El Indio Triste representan una pieza clave del tejido económico de León, aportando empleo y manteniendo tradiciones que refuerzan el sentido de comunidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "31f442e131b4",
+      "title": "En el debut de Martín Palermo, Platense expone sus urgencias ante Independiente: hora, TV y formaciones",
+      "summary": "El exgoleador Martín Palermo debutó como entrenador de Platense en el enfrentamiento contra Independiente, partido que ambos equipos necesitan ganar para mejorar su posición en la Zona B del Torneo Clausura 2026.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/08/en-el-debut-de-martin-palermo-platense-expondra-sus-urgencias-ante-independiente-hora-tv-y-formaciones/",
+      "published_at": "2026-08-09T00:33:50+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos deportivos, alineaciones y contextos de los equipos sin usar lenguaje cargado ni favorecer a ninguna de las partes.",
+      "focus_analysis": "El medio se centra en el aspecto competitivo y el cambio de dirección técnica de Platense, dejando de lado la dimensión financiera del club o la política interna del torneo.",
+      "focus_tags": [
+        "debut de entrenador",
+        "clásico argentino",
+        "copa libertadores"
+      ],
+      "context": [
+        {
+          "label": "Forma reciente de Independiente",
+          "text": "Independiente empezó el torneo con dos victorias, pero cayó ante Vélez, lo que lo obligó a buscar recuperar puntos en casa para mantenerse entre los líderes de la zona."
+        },
+        {
+          "label": "Crisis de Platense",
+          "text": "Platense acumula solo 17 puntos en 19 partidos, ocupa el puesto 27 de la tabla anual y cuenta con apenas cuatro victorias, situación que motivó la contratación de Martín Palermo."
+        },
+        {
+          "label": "Próximo compromiso internacional de Platense",
+          "text": "Después del partido contra Independiente, Platense se prepara para los octavos de final de la Copa Libertadores contra Coquimbo Unido, un encuentro histórico para el club."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "167a7c4b4c8d",
       "title": "España impone controles fronterizos a viajeros de Italia en represalia por crisis de Ceuta",
@@ -832,216 +1039,6 @@
         {
           "label": "Situación reciente de Boca Juniors",
           "text": "Antes de este partido, Boca Juniors había obtenido resultados mixtos en sus primeros encuentros del torneo, alternando victorias y empates que mantenían al equipo en la mitad de la tabla."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "91f6d874cafa",
-      "title": "Ariadna Montiel reafirma necesidad de “ética” en Morena tras escándalo de diputadas de Puebla",
-      "summary": "Ariadna Montiel, dirigente nacional de Morena, reiteró ante el Consejo Consultivo la necesidad de reforzar la ética del partido tras el escándalo de diputadas de Puebla que hicieron comentarios despectivos contra adultos mayores. La presidenta Claudia Sheinbaum también condenó la discriminación y el movimiento se prepara para las elecciones de 2027.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/08/ariadna-montiel-reafirma-necesidad-de-etica-en-morena-tras-escandalo-de-diputadas-de-puebla/",
-      "published_at": "2026-08-08T23:38:26+00:00",
-      "bias_score": -15,
-      "bias_reason": "El texto enfatiza la postura interna del partido y usa términos como \"escándalo\" y \"despotricaron\" sin incluir voces de la oposición, lo que muestra una ligera inclinación favorable a Morena.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y ético del partido, resaltando la respuesta de sus líderes y la preparación electoral, mientras deja de lado el impacto humano sobre los adultos mayores y la crítica externa.",
-      "focus_tags": [
-        "ética política",
-        "Morena interna",
-        "elecciones 2027"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "En Puebla, diputadas de Morena provocaron polémica al hacer comentarios despectivos contra adultos mayores, generando un escándalo interno en el partido."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como Reforma y El Informador, subrayaron la falta de ética en Morena y anunciaron la suspensión de derechos de las legisladoras involucradas, mostrando un énfasis más crítico que el de Infobae."
-        },
-        {
-          "label": "Marco político",
-          "text": "Morena, liderada por la presidenta Claudia Sheinbaum, se prepara para las elecciones de 2027 y busca reforzar su imagen mediante la promoción de la ética y el trabajo territorial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "85706f3242ca",
-      "title": "Cae “El Fantasma” en Aldama, autoridades lo vinculan al mando de una célula delictiva en Chihuahua",
-      "summary": "La Secretaría de Seguridad Pública de Chihuahua detuvo a Adrián Alexis C.B., alias “El Fantasma”, de 26 años y originario de Ojinaga, quien según la autoridad lideraba una célula delictiva en la zona de Aldama y estaba buscado por una orden de aprehensión por delitos contra la salud.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/08/cae-el-fantasma-en-aldama-autoridades-lo-vinculan-al-mando-de-una-celula-delictiva-en-chihuahua/",
-      "published_at": "2026-08-08T23:34:45+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto usa un tono mayormente descriptivo y se centra en la acción policial, sin incluir opiniones políticas ni lenguaje cargado; la ligera inclinación hacia la seguridad pública se refleja en la selección de fuentes oficiales.",
-      "focus_analysis": "El medio prioriza el ángulo de seguridad y combate al crimen organizado, resaltando la operación policial y la captura, mientras omite análisis de causas sociales o económicas del narcotráfico en la región.",
-      "focus_tags": [
-        "seguridad pública",
-        "crimen organizado",
-        "operativo policial"
-      ],
-      "context": [
-        {
-          "label": "Violencia en Chihuahua",
-          "text": "El estado de Chihuahua ha sido históricamente una zona de conflicto entre cárteles, con frecuentes enfrentamientos entre grupos como Los Cabrera Sarabia y La Línea, lo que ha llevado a intensos operativos de seguridad."
-        },
-        {
-          "label": "Operativos previos en Aldama",
-          "text": "En diciembre de 2025 y abril de 2026, autoridades federales y estatales realizaron grandes operativos en Aldama y alrededores, deteniendo a varios miembros de organizaciones criminales y confiscando armas y explosivos."
-        },
-        {
-          "label": "Instituciones de seguridad locales",
-          "text": "La Secretaría de Seguridad Pública del Estado de Chihuahua (SSPE) y la Fiscalía General del Estado (FGE) son responsables de la investigación y persecución de delitos relacionados con el narcotráfico y la violencia en la región."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "fd7f59847a2c",
-      "title": "FGR detiene a mujer por caso de combustible",
-      "summary": "La Fiscalía General de la República de México detuvo a una mujer en el marco del caso de combustible vinculado al exgobernador de Baja California Sur, Ernesto Ruffo, elevando a nueve el número de personas aprehendidas en esa investigación.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/fgr-detiene-mujer-caso-combustible-20260808-827313.html",
-      "published_at": "2026-08-08T23:10:03+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar hechos sin usar un emotivo ni citar fuentes con carga política, manteniendo un tono neutral y descriptivo.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y judicial, reportando el número de detenciones, mientras omite detalles sobre la supuesta trama de combustible y sus implicaciones políticas.",
-      "focus_tags": [
-        "justicia",
-        "detención",
-        "combustible"
-      ],
-      "context": [
-        {
-          "label": "Caso Ruffo",
-          "text": "El caso de combustible investiga a Ernesto Ruffo, exgobernador de Baja California Sur, por presunta malversación de recursos vinculados a la compra y venta de combustible, lo que ha generado varias detenciones."
-        },
-        {
-          "label": "Detenciones previas",
-          "text": "Antes de la detención de la mujer, la FGR había aprehendido a ocho personas relacionadas con el mismo caso, ocho de las cuales ya fueron vinculadas a proceso."
-        },
-        {
-          "label": "Cobertura de casos similares",
-          "text": "Otros medios han destacado detenciones de exfuncionarios por casos de corrupción, como la detención del exgobernador de Guerrero, Ángel Aguirre, por el caso Ayotzinapa, evidenciando un patrón de atención mediática a escándalos políticos."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "61cb36ed332e",
-      "title": "Los 10 mejores documentales de todos los tiempos",
-      "summary": "El portal Hipertextual publica una selección de los diez documentales más destacados de la historia del cine, subrayando su papel como archivo vivo de la memoria histórica y como motor de conciencia social y debate público.",
-      "category": "sociedad",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/los-10-mejores-documentales-de-todos-los-tiempos/",
-      "published_at": "2026-08-08T18:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin emplear vocabulario cargado ni citar fuentes con sesgo político; se centra en la valoración cultural de los documentales.",
-      "focus_analysis": "El artículo se centra en el valor histórico y social de los documentales, destacando su capacidad para preservar la memoria y generar debate, mientras omite análisis sobre la industria del documental o su distribución digital.",
-      "focus_tags": [
-        "cultura cinematográfica",
-        "memoria histórica",
-        "conciencia social"
-      ],
-      "context": [
-        {
-          "label": "Historia del género",
-          "text": "Los documentales surgieron a principios del siglo XX como una forma de registrar hechos reales, evolucionando desde cortometrajes informativos hasta complejas obras de arte que combinan investigación y narrativa visual."
-        },
-        {
-          "label": "Impacto social",
-          "text": "A lo largo de las décadas, documentales como \"Shoah\" o \"The Act of Killing\" han influido en la opinión pública y en procesos judiciales, demostrando la capacidad del cine documental para incitar al activismo y a la rendición de cuentas."
-        },
-        {
-          "label": "Cobertura mediática comparada",
-          "text": "Otros medios especializados en cultura digital suelen enfocar sus listas de documentales en la disponibilidad en plataformas de streaming, un ángulo que Hipertextual no aborda en su selección."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "d6b05b59333e",
-      "title": "Detienen a sujeto por presuntas agresiones a su pareja en Iztacalco; tiene 133 presentaciones ante un juez cívico",
-      "summary": "La policía de la Ciudad de México detuvo a un hombre en la alcaldía Iztacalco acusado de agredir a su pareja sentimental, quien cuenta con 133 comparecencias ante un juez cívico y tres antecedentes de robo en el sistema penitenciario.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/detienen-a-sujeto-por-presuntas-agresiones-a-su-pareja-en-iztacalco-tiene-133-presentaciones-ante-un-juez-civico/",
-      "published_at": "2026-08-08T23:23:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, se limita a hechos reportados por la Secretaría de Seguridad Ciudadana y no incorpora opiniones ni carga ideológica.",
-      "focus_analysis": "El artículo se centra en la respuesta institucional y el historial delictivo del detenido, dejando de lado la perspectiva de la víctima y los factores sociales subyacentes a la violencia de género.",
-      "focus_tags": [
-        "violencia de género",
-        "seguridad pública",
-        "sistema judicial"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes judiciales",
-          "text": "En la Ciudad de México, el juez cívico atiende faltas menores y acumular 133 comparecencias es indicativo de un patrón de reincidencia del individuo."
-        },
-        {
-          "label": "Violencia contra la mujer en México",
-          "text": "Según datos oficiales, los casos de violencia de género han aumentado en los últimos años, con una creciente atención pública y políticas de prevención."
-        },
-        {
-          "label": "Política de seguridad en Iztacalco",
-          "text": "La alcaldía Iztacalco ha implementado alertas de seguridad y operativos de la Secretaría de Seguridad Ciudadana para responder rápidamente a incidentes de violencia contra la mujer."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "03dbf705dea9",
-      "title": "8 frases del Chacho Coudet tras la derrota de River Plate ante Tigre: de los plazos para revertir la racha a su autocrítica",
-      "summary": "El entrenador Eduardo Coudet asumió la responsabilidad tras la derrota 1-0 de River Plate ante Tigre, señalando la necesidad de adaptar a los nuevos refuerzos y prometiendo trabajar para revertir la mala racha del equipo.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/08/8-frases-del-chacho-coudet-tras-la-derrota-de-river-plate-ante-tigre-de-los-plazos-para-revertir-la-racha-a-su-autocritica/",
-      "published_at": "2026-08-08T23:32:16+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono informativo y neutral, citando al técnico sin usar vocabulario cargado ni favorecer a ninguna posición política o institucional.",
-      "focus_analysis": "El artículo se centra en la perspectiva del técnico y la dinámica interna del plantel, dejando de lado la reacción de la afición y el análisis financiero del club.",
-      "focus_tags": [
-        "River Plate",
-        "Crisis deportiva",
-        "Declaraciones del técnico"
-      ],
-      "context": [
-        {
-          "label": "Cobertura comparativa",
-          "text": "Mientras Infobae se enfoca en la autocrítica de Coudet y su plan de recuperación, El Economista describió la derrota como un 'toca fondo' y destacó la rareza de seis derrotas consecutivas en la liga local."
-        },
-        {
-          "label": "Historial del club",
-          "text": "River Plate, uno de los equipos más laureados de Argentina, rara vez ha experimentado una racha de seis derrotas seguidas; este descenso lo sitúa en la decimoquinta posición de la Zona B del Torneo Clausura."
-        },
-        {
-          "label": "Próximos compromisos",
-          "text": "Tras la derrota, River Plate debe prepararse para los octavos de final de la Copa Sudamericana contra Independiente Santa Fe, un desafío que podría revertir su mala racha."
         }
       ],
       "confidence": "alta",
