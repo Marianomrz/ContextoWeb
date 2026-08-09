@@ -1,187 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-09T08:01:20.021100+00:00",
-      "title": "De Paul marca ante Monterrey y dedica el gol a Messi por la muerte de su padre",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta problemas graves de veracidad, aunque su estructura y tono son adecuados; necesita fuentes más fiables y datos verificables antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:01:23.355769+00:00",
-      "title": "Chispazo: todos los números ganadores del sorteo del 8 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de información objetiva y actual, aunque podría mejorar la verificación al incluir los números ganadores específicos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:01:27.419573+00:00",
-      "title": "Alistan las reglas para cementerios verdes en el Edomex; panteones al máximo de su capacidad",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura, pero necesita mayor verificación de datos y contraste de fuentes para alcanzar un nivel editorial más alto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:01:31.983753+00:00",
-      "title": "Sé un loco, John",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta información poco verificable y con sesgo evidente, aunque es reciente y está estructurado de forma razonable. Necesita fuentes más fiables y un enfoque más objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:01:34.461497+00:00",
-      "title": "Se mudó a Europa a los dos años por el corralito, fue una promesa del tenis y hoy es el arquero reve",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en en actualidad y estructura, pero la precisión de algunos datos y la falta de fuentes múltiples reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:01:40.127521+00:00",
-      "title": "Hunter Biden dice que el cáncer de su padre, expresidente de EE.UU., ha llegado a los huesos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de objetividad, actualidad y estructura, aunque la ausencia de citas específicas reduce ligeramente la precisión de la información.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:01:50.001275+00:00",
-      "title": "Ser universitario",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y estructurado, pero presenta imprecisiones en los datos y una escasa variedad de fuentes, lo que afecta su veracidad y equilibrio editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:01:54.353374+00:00",
-      "title": "La rusa Alexandrova elimina a Aryna Sabalenka en octavos de WTA 1000 de Toronto",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Unterminated string starting at: line 16 column 25 (char 928)"
-    },
-    {
-      "at": "2026-08-09T08:01:58.857110+00:00",
-      "title": "CFE restablece 62.1% de la luz en Cajeme tras fuertes lluvias y vientos en Sonora",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo se podría reforzar la verificación de fuentes contrastantes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:10:55.848344+00:00",
-      "title": "Café y sombra: la modernidad literaria en los cafés de Viena",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "originalidad_creatividad": 4,
-        "riqueza_estilo": 5,
-        "estructura_narrativa": 5,
-        "voz_autor": 7,
-        "profundidad_tematica": 5
-      },
-      "observacion": "El pieza ofrece una descripción agradable pero convencional, con referencias inventadas que merman su credibilidad y originalidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T08:10:59.227580+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y presenta un sesgo evidente, lo que lo descalifica como noticia objetiva y fiable a pesar de su actualidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-09T08:11:04.099562+00:00",
       "title": "8BitDo lanza un nuevo mando que convierte tu móvil en una consola portátil clásica y sólo cuesta 30 ",
       "kind": "noticia",
@@ -3392,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzarse con fuentes adicionales para mayor verificación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:01.235746+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y objetividad, pese a presentar una estructura adecuada y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:06.061712+00:00",
+      "title": "El primer cable Ethernet de la historia era amarillo \"1968 Corvette\" por una razón que no tenía nada",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad informativa y estructural, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad de la anécdota del color.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:12.093709+00:00",
+      "title": "Cómo se encuentra la calidad del aire en la CDMX y Edomex",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad informativa, ofreciendo datos verificables, fuentes variadas y una presentación objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:16.403509+00:00",
+      "title": "Isaac del Toro y la historia detrás de su mural en Tijuana, tras brillar en el Tour de Francia",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete carece de verificación y contraste de fuentes, aunque mantiene una estructura adecuada y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:20.505644+00:00",
+      "title": "El incendio de Niebla (Huelva) mantiene a 467 personas desalojadas tras recorrer 8.000 hectáreas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, bien contextualizada y estructurada de manera clara y objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:26.030177+00:00",
+      "title": "Murió Jorge Messi, en vivo: la familia se prepara para el último adiós y los hinchas dejaron mensaje",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, lo que compromete su fiabilidad, aunque la presentación estructural y la actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:34.763887+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes verificables y de contraste suficiente reduce su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:38.877209+00:00",
+      "title": "De Paul marca ante Monterrey y dedica el gol a Messi por la muerte de su padre",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:43.517415+00:00",
+      "title": "Tras años de espera, Apple entrará en los plegables con un doble golpe: primero el iPhone, luego el ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de verificación y contraste de fuentes, y muestra sesgo favorable, aunque es actual y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:48.369216+00:00",
+      "title": "La Unión Tepito ya opera más allá de CDMX: autoridades detectan células en Edomex",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes adicionales y citas directas para elevar la precisión y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T11:38:54.490760+00:00",
+      "title": "Mode Orozco, el muralista que combate las malas noticias en Tijuana retratando a las figuras mexican",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares periodísticos, especialmente en actualidad y estructura, pero necesita mayor respaldo de fuentes y verificación de datos para alcanzar una mayor precisión.",
       "error": null
     }
   ]
