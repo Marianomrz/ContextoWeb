@@ -1,295 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-08T19:41:10.161029+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero presenta problemas de veracidad interna y falta de contraste de fuentes, además de un tono poco objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:41:15.635058+00:00",
-      "title": "Messi se pierde el juego ante Monterrey en Leagues Cup; viajará a Argentina para despedir a su padre",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, con pequeños márgenes de mejora en la variedad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:41:19.775817+00:00",
-      "title": "Estudiantes de La Plata visita a Deportivo Riestra por la fecha 4 del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares periodísticos de objetividad y actualidad; solo se podría enriquecer con fuentes adicionales, pero no es necesario para este tipo de informe.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:41:26.276613+00:00",
-      "title": "La Gira de Golf Profesional Mexicana merece más reflectores",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado, pero muestra sesgo promocional y falta de fuentes múltiples, lo que reduce su objetividad y robustez informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:41:30.261709+00:00",
-      "title": "Cumbre Latinoamericana otorga distinción de “Alcalde del Año” a Manuel Guerra Cavazos, edil de Garcí",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita mayor verificación de datos y fuentes más diversas para mejorar su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:09.337252+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a ser reciente y estructurado de forma aceptable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:13.180703+00:00",
-      "title": "Manuel Teil llega a León para revelar los secretos de un buen casting",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es informativo y está estructurado adecuadamente, pero debería incorporar fuentes más diversas y equilibrar el tono promocional para mejorar la objetividad y el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:18.523114+00:00",
-      "title": "El mensaje del Inter Miami tras la muerte de Jorge Messi: “Nuestro corazón está acompañando a nuestr",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, presentando la noticia de forma clara y estructurada, aunque el contraste de fuentes es moderado dada la falta de un conflicto real.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:24.736590+00:00",
-      "title": "Cuba avala normas para uso de energías renovables en medio de crisis energética; libra de impuesto a",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero presenta limitaciones de verificación y falta de fuentes diversas, lo que afecta su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:28.220025+00:00",
-      "title": "El partido gobernante de Hungría propone al jurista András Baka como nuevo presidente",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con precisión, neutralidad y estructura, aunque necesita mayor diversidad de fuentes y perspectivas opuestas para un tema político de conflicto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:32.812301+00:00",
-      "title": "Los 10 mejores documentales de todos los tiempos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque le falta mayor contraste de fuentes para sustentar la lista de los mejores documentales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:42.891628+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple razonablemente con los estándares periodísticos, aunque necesita mayor respaldo de datos y un contraste de fuentes más equilibrado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:48.080594+00:00",
-      "title": "Messi se pierde el juego ante Monterrey en Leagues Cup; viajará a Argentina para despedir a su padre",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando información veraz, contrastada, objetiva y estructurada de forma adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T19:56:54.075131+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo: inicia la dinámica por el premio",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, con pequeñas áreas de mejora en la citación de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T20:00:37.426865+00:00",
-      "title": "El teacup roto que susurra la literatura africana contemporánea",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "originalidad_creatividad": 9,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 7,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El fragmento cumple con los estándares editoriales y es apto para publicación, solo se sugiere una ligera afinación del ritmo para mayor fluidez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T20:00:39.973702+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es reciente y está bien estructurado; no cumple los estándares de una noticia informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-08T20:00:44.180559+00:00",
-      "title": "Alejandro Sanz y Edén Muñoz lanzan nueva colaboración: esto dice la letra de “Yo Era Poesía”",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado; solo se le resta unos puntos por la ausencia de fuentes externas explícitas que corroboren el lanzamiento.",
-      "error": null
-    },
-    {
       "at": "2026-08-08T20:00:50.086931+00:00",
       "title": "¿Quién es Lise Klaveness, la mujer que podría tomar el lugar de Gianni Infantino como presidente de ",
       "kind": "noticia",
@@ -3386,6 +3097,295 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, con puntuaciones altas en la mayoría de los criterios.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:00:40.349712+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 8,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete muestra una estructura adecuada y menciona fuentes, pero sus graves inexactitudes y sesgo lo hacen inadecuado para publicación sin corrección.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:00:45.071447+00:00",
+      "title": "Lionel Messi aterrizó en Rosario para estar presente en el último adiós a su padre Jorge",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta problemas de veracidad y fuentes poco verificables, aunque mantiene objetividad y estructura adecuada, y es altamente actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:00:50.441740+00:00",
+      "title": "Canciones sorpresa de Harry Styles en México, esta es la que se espera para hoy sábado 8 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es actual y estructurado, pero presenta errores de factualidad que reducen su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:00:54.647343+00:00",
+      "title": "Ariadna Montiel se reúne con Consejo Consultivo Nacional de Morena; analizan coyuntura para anticipa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando una noticia clara, reciente y bien estructurada, aunque el contexto de escándalos podría ampliarse para mayor profundidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:01.333707+00:00",
+      "title": "El exabogado de Trump, Todd Blanche, es confirmado como nuevo fiscal general de EE. UU.",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y objetividad, pese a estar actualizado y estructurado correctamente; necesita fuentes oficiales y un tono más neutral.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:05.765657+00:00",
+      "title": "Los 10 mejores documentales de todos los tiempos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los requisitos básicos de calidad editorial, aunque podría mejorar la sustentación de sus afirmaciones y la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:15.235745+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está estructurado correctamente, pero le falta contraste de fuentes y objetividad, presentando una visión sesgada del tema.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:20.585424+00:00",
+      "title": "Burritos, inflación y elecciones: el debate que incomoda al partido de Trump",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero carece de veracidad comprobada y de fuentes contrastadas, además muestra una clara parcialidad en el tono.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:24.968792+00:00",
+      "title": "En el debut de Martín Palermo, Platense expone sus urgencias ante Independiente: hora, TV y formacio",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta buena estructura y objetividad, pero la precisión de los datos y la falta de fuentes múltiples reducen su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:28.111014+00:00",
+      "title": "Santa Fe Klan regalará tatuajes, cortes de cabello y hasta boletos para pelea de Camila Zamorano",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo cumple con los estándares de actualidad y estructura, y es objetivo, aunque la veracidad podría reforzarse con fuentes y citas verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:34.429018+00:00",
+      "title": "Netflix encierra a un hombre durante tres días en una valla publicitaria para promocionar su nueva p",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado de forma clara, pero la falta de verificación y de fuentes múltiples limita su precisión y robustez informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:40.200986+00:00",
+      "title": "Tropas israelíes retornan a zona bajo control de Líbano",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque podría reforzar el contraste de fuentes añadiendo más voces externas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:46.039131+00:00",
+      "title": "¿Se acabó la fatiga del cine de superhéroes? 10 motivos por los que ‘Spider-Man: Brand New Day» desm",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta información poco verificable y parcialmente subjetiva, aunque está bien estructurado y es reciente; necesita fuentes más sólidas y una presentación más neutral.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:55.204864+00:00",
+      "title": "Ser universitario",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado adecuadamente, pero necesita fuentes más explícitas y una mayor variedad de voces para reforzar su veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:01:59.785135+00:00",
+      "title": "Exabogado de Trump confirmado como fiscal general de EU",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta buena estructura y objetividad, pero la falta de veracidad en los datos fundamentales compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:02:04.290186+00:00",
+      "title": "Murió Jorge Messi, en vivo: familiares y amigos de la familia ya despiden al padre de Lionel Messi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "La nota es actual y estructurada, pero carece de verificabilidad y muestra un sesgo afectuoso que disminuye su objetividad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T01:02:09.182009+00:00",
+      "title": "¡Dos de dos! León vence a Orlando City y está cerca de cuartos de final de la Leagues Cup",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, siendo apto para publicación.",
       "error": null
     }
   ]
