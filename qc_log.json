@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-09T15:03:29.205739+00:00",
-      "title": "Ataque armado deja dos muertos y un herido en Mazatlán; despliegan operativo para localizar a respon",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad, pero debería incorporar fuentes y perspectivas adicionales para mejorar el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:03:35.002039+00:00",
-      "title": "Centros de rehabilitación en Jalisco: por lo menos 14 han sido clausurados durante 2026",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque ganaría puntos con fuentes más múltiples y referencias verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:20:37.304424+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.0,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y estructurado razonablemente; necesita fuentes fiables y datos verificables antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:20:41.430626+00:00",
-      "title": "Murió Jorge Messi, en vivo: Lionel y su familia dieron el último adiós en una ceremonia íntima",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta graves deficiencias de veracidad y contraste de fuentes, pese a una estructura adecuada y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:20:45.052704+00:00",
-      "title": "Ni una hora en el gimnasio: cuánto hay que caminar al día para bajar el azúcar y el peso, según expe",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información reciente y objetiva con fuentes fiables, aunque podría mejorar la precisión mediante citas específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:20:50.591276+00:00",
-      "title": "¿Lloverá este domingo?; este es el clima hoy en la CDMX.",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, actual y estructurada de forma objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:20:56.026936+00:00",
-      "title": "Un ataque ruso destruye un almacén humanitario de la OMS en Ucrania",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión y objetividad, aunque podría mejorar la inclusión de fuentes contrastantes para ofrecer una visión más equilibrada del conflicto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:21:01.131328+00:00",
-      "title": "Hace tanto calor en Corea del Norte que el régimen ha recomendado un plato nacional para afrontar la",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo, aunque está actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:21:09.170959+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero necesita mayor respaldo de fuentes verificables y un equilibrio más neutral entre las distintas voces para alcanzar una calidad periodística óptima.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:21:14.162594+00:00",
-      "title": "Irán sostiene que acuerdo con Omán está en \"fases finales\", pero EU debe actuar para abrir Ormuz",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y bien estructurado, pero la imprecisión en la identificación del ministro afecta su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:21:18.794975+00:00",
-      "title": "Nuevo capítulo por el futuro de Julián Álvarez: la sentencia del Cholo Simeone en medio de la puja e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es reciente y objetivo, aunque le falta mayor variedad de fuentes y citas verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T15:39:57.918406+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque está actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
       "at": "2026-08-09T15:40:01.476987+00:00",
       "title": "La imagen de Lionel Messi en la íntima despedida a su padre Jorge en Rosario",
       "kind": "noticia",
@@ -3398,6 +3194,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, reciente y estructurada de forma objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:59:48.175120+00:00",
+      "title": "Cuando el té revela el jardín interior: Sadegh Hedayat y El búho ciego",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "originalidad_creatividad": 8,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 7,
+        "voz_autor": 9,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares de calidad editorial, ofreciendo una visión original y estilísticamente rica de la obra de Hedayat, con una voz coherente y una temática profunda.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:59:52.528545+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque está actualizado y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T19:59:56.549422+00:00",
+      "title": "Huracán se impone sobre San Lorenzo en el Nuevo Gasómetro en una nueva edición del clásico",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la precisión añadiendo datos concretos como el marcador y la fecha exacta del partido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:03.170944+00:00",
+      "title": "Toluca cae ante LAFC y el ‘Turco’ Mohamed’ se ‘engancha’ con aficionados angelinos",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado, aunque la falta de fuentes verificables reduce su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:08.877789+00:00",
+      "title": "PAN alista iniciativa para obtener derecho de réplica en la mañanera; acusa persecución “desde el pú",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de actualidad y estructura, pero necesita mayor contraste de fuentes y pruebas de veracidad para alcanzar una mayor objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:16.204512+00:00",
+      "title": "“Ceuta no se vende”: la ciudad se echa a la calle tras diez días de tensión",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado y bien estructurado, pero la falta de citas precisas y el tono ligeramente sesgado limitan su excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:21.317406+00:00",
+      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución est",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es neutral y oportuno, pero carece de verificación factual y de fuentes múltiples, lo que reduce su credibilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:29.657517+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta problemas de veracidad, contraste y objetividad, aunque es reciente y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:34.754650+00:00",
+      "title": "Mercados bursátiles de EU e Inglaterra podrían operar 24 horas al día; SEC debatirá transición",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los requisitos de actualidad y estructura, pero necesita mayor precisión en datos y fuentes contrastadas para alcanzar la calidad editorial completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:39.388781+00:00",
+      "title": "El básquet, de luto: murió Don Nelson, leyenda de la NBA",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo descalifica como noticia fiable a pesar de su buena estructura y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:44.644237+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 9 de agosto: dan prisión preventiva a impli",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y objetivo, aunque podría enriquecerse con fuentes contrastantes para ofrecer una visión más completa del conflicto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T20:00:50.758765+00:00",
+      "title": "Propone Sheinbaum renombrar  al 'Paso de Cortés' en Puebla",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y objetivo, pero necesita mayor diversidad de fuentes para equilibrar la cobertura del tema político.",
       "error": null
     }
   ]
