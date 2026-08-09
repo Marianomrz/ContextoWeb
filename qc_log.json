@@ -1,244 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-09T18:20:56.755733+00:00",
-      "title": "En 1979, un hombre decidió plantar árboles cada día para frenar la erosión. Hoy tiene un bosque giga",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y objetividad, aunque podría mejorar la diversificación de fuentes y la inclusión de referencias explícitas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:21:08.006533+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero carece de fuentes contrastantes y muestra sesgo en el lenguaje, lo que reduce su objetividad y precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:21:12.974094+00:00",
-      "title": "Gobierno licitará una red 5G para operar los nuevos trenes México-Querétaro-Irapuato y Saltillo-Nuev",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la verificación de cifras y ampliar fuentes para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:21:19.211225+00:00",
-      "title": "Presunto agente de la Fiscalía CDMX se disculpa tras acosar a una mujer en la Línea 3 del Metro: “Ya",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo reciente y objetivo, aunque podría mejorar la precisión añadiendo datos verificables y fuentes más específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:21:25.604372+00:00",
-      "title": "Netanyahu, en tono electoral, rechaza el plan de Trump para el desarme de Hamás en Gaza",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete está actualizado y bien estructurado, pero contiene errores de hecho y carece de fuentes diversas, lo que afecta su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:21:31.245278+00:00",
-      "title": "El comunicado que publicó la FIFA para respaldar a Infantino y criticar “los intentos de socavar el ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta la noticia de forma reciente y estructurada, pero la verificación de hechos y la diversidad de fuentes son limitadas, lo que reduce su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:21:36.217455+00:00",
-      "title": "Fallece la exluchadora Diana La Cazadora a los 48 años de edad; luto en la lucha libre mexicana",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:40:32.979668+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es inaceptable por su falta de veracidad y confusión de personajes, a pesar de una buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:40:37.574290+00:00",
-      "title": "México dominó a placer los Juegos Centroamericanos de Santo Domingo 2026",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y actualizado, pero la falta de fuentes oficiales y el tono parcial reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:40:41.970275+00:00",
-      "title": "San Lorenzo y Huracán animan una nueva edición del clásico en el Nuevo Gasómetro",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete está bien estructurado y es objetivo, pero la falta de verificabilidad de varios elementos compromete su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:40:46.265659+00:00",
-      "title": "Diputada de Morena impulsa que \"estafa romance\" sea considerada violencia contra la mujer; busca ref",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de precisión y actualidad, aunque podría mejorar la inclusión de fuentes contrastantes para reforzar el equilibrio informativo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:40:52.292899+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Las comunidades religiosas de Ceuta s",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Cumple con la actualidad y la estructura de pirámide invertida, pero necesita fuentes más verificables y mayor contraste de voces para reforzar su rigor editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:40:57.138362+00:00",
-      "title": "Ray-Ban Meta ya no son bienvenidas en los pubs del Reino Unido: el LED que nadie mira",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo está bien estructurado y es actual, pero su fiabilidad se ve comprometida por la falta de fuentes contrastadas y datos no verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-09T18:41:06.765055+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete contiene información reciente y estructurada, pero la falta de fuentes verificables y de voces contrastantes reduce su rigor periodístico.",
-      "error": null
-    },
-    {
       "at": "2026-08-09T18:41:11.197384+00:00",
       "title": "Cae el “rey” del crimen irlandés: Dubái extradita a Daniel Kinahan por narcotráfico y asesinato",
       "kind": "noticia",
@@ -3392,6 +3154,244 @@
         "estructura_piramide": 9
       },
       "observacion": "En general, el paquete cumple con los estándares de precisión, objetividad y actualidad, aunque la falta de fuentes verificables para los resultados recientes reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:20:38.171073+00:00",
+      "title": "El susurro del ático: Silvina Ocampo y la magia de lo cotidiano",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": false,
+      "overall": 3.0,
+      "scores": {
+        "originalidad_creatividad": 3,
+        "riqueza_estilo": 2,
+        "estructura_narrativa": 4,
+        "voz_autor": 3,
+        "profundidad_tematica": 3
+      },
+      "observacion": "El contenido cumple con la función informativa pero no alcanza los estándares de un texto literario con el que; el portal busca publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:20:44.574574+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad necesarios para una noticia informativa; se recomienda rechazar su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:20:49.384833+00:00",
+      "title": "El homenaje para Juan Manuel Fangio en el nuevo circuito de Buenos Aires para recibir a la Fórmula 1",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero carece de fuentes contrastadas y presenta sesgo positivo, lo que reduce su objetividad y veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:20:53.563470+00:00",
+      "title": "Caen 4 integrantes de \"Los Barretos\" en Tuxtla Gutiérrez, Chiapas; los acusan de robo violento de mo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, presentando la información de forma precisa, objetiva y reciente, aunque podría reforzar la verificación con citas o fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:20:58.531546+00:00",
+      "title": "Temblor hoy en México 9 de agosto: más de mil réplicas del sismo M7.4 en Chiapas ocurrido en julio",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando datos precisos y objetivos, bien estructurados y oportunos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:04.895130+00:00",
+      "title": "El cáncer que padece el expresidente estadounidense Joe Biden es \"muy doloroso y debilitante\", revel",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta información no verificable y falta de fuentes contrastadas, pese a su reciente publicación y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:07.213619+00:00",
+      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución est",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita fuentes más fiables y verificables para mejorar su veracidad y contraste, aunque es actual y objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:16.469086+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El artículo es reciente y estructurado razonablemente, pero presenta sesgo evidente y falta de contraste de fuentes, lo que compromete su objetividad y veracidad completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:20.342315+00:00",
+      "title": "México va por 6.6 millones de árboles: Sheinbaum encabeza Jornada Nacional de Reforestación 2026",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, aunque debería incorporar perspectivas críticas para mejorar el contraste de fuentes y la profundidad del análisis.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:24.054217+00:00",
+      "title": "Así están las posiciones del Torneo Clausura y de la Tabla Anual: los saltos de Huracán y Gimnasia y",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y bien estructurado, pero contiene una inexactitud importante sobre el fallecimiento de Jorge Messi, lo que afecta su puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:28.931901+00:00",
+      "title": "Transforman Pilares El Parián en Utopía Elena Poniatowska Amor en Coyoacán; beneficiará a 120 mil pe",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero presenta serios fallos de veracidad y ausencia de contraste de fuentes, lo que compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:33.390913+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 9 de agosto: dan prisión preventiva a impli",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, presentando la información de forma veraz, contrastada y objetiva, con una estructura adecuada y actualidad inmediata.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:38.603354+00:00",
+      "title": "Puerto Rico raciona el suministro de agua en medio de una intensa sequía",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, bien contrastada y objetiva con una estructura clara y actualizada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-09T23:21:43.160408+00:00",
+      "title": "Esta app gratis convierte tu viejo Android en una consola retro de videojuegos",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de manera clara y bien estructurada.",
       "error": null
     }
   ]
