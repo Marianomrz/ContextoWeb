@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-10T00:01:25.912609+00:00",
+  "generated_at": "2026-08-10T00:22:00.531922+00:00",
   "articles": [
+    {
+      "id": "82038e052ae8",
+      "title": "CNA alerta posible impacto a productores mexicanos ante medidas sanitarias de Estados Unidos",
+      "summary": "El Consejo Nacional Agropecuario (CNA) de México advirtió que las recientes alertas sanitarias de Estados Unidos sobre productos como lechuga, chile jalapeño, cilantro y perejil podrían afectar injustificadamente a productores, trabajadores y exportadores mexicanos, al no presentar evidencia científica concluyente ni trazabilidad clara.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/cna-alerta-posible-impacto-productores-mexicanos-medidas-sanitarias-estados-unidos-20260809-827358.html",
+      "published_at": "2026-08-09T23:43:32+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto emplea un tono crítico hacia las autoridades estadounidenses, resaltando la falta de pruebas y calificando las medidas de \"alarma innecesaria\" y \"generalizadas\", lo que refleja una postura favorable a los intereses mexicanos y desfavorable a la política sanitaria de EE. UU.",
+      "focus_analysis": "El medio se centra en el impacto económico y comercial de las restricciones sanitarias para los productores y exportadores mexicanos, dejando de lado un análisis más profundo de los riesgos sanitarios reales o de la perspectiva de salud pública estadounidense.",
+      "focus_tags": [
+        "agricultura",
+        "comercio internacional",
+        "regulación sanitaria"
+      ],
+      "context": [
+        {
+          "label": "Marco regulatorio estadounidense",
+          "text": "La Food Safety Modernization Act (FSMA) y la FDA permiten a Estados Unidos prohibir la importación de alimentos que consideren riesgos para la salud, aunque la aplicación de estas normas a veces se percibe como arbitraria por los socios comerciales."
+        },
+        {
+          "label": "Alertas previas a productos mexicanos",
+          "text": "En los últimos meses, EE. UU. emitió advertencias sobre lechuga, chile jalapeño, cilantro y perejil por posibles brotes de salmonela y ciclosporiasis, lo que generó suspensiones parciales y revisiones de trazabilidad en la cadena de suministro."
+        },
+        {
+          "label": "Importancia del sector agroalimentario mexicano",
+          "text": "México exporta miles de toneladas de frutas y hortalizas a EE. UU., y cualquier restricción sanitaria puede generar pérdidas económicas significativas y afectar la estabilidad laboral de miles de trabajadores del campo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "110f8d518340",
+      "title": "Trump dice que EE.UU. está bajando la tensión con Irán",
+      "summary": "El expresidente de Estados Unidos, Donald Trump, declaró que su administración está reduciendo la tensión con Irán al desistir de nuevos ataques militares y mantener la presión económica, mientras se negocia la reapertura del estrecho de Ormuz.",
+      "category": "politica",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/trump-dice-que-ee-uu-está-bajando-la-tensión-con-irán/a-78298290?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-09T23:28:00+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto presenta la declaración de Trump de forma descriptiva, cita fuentes como Axios y evita adjetivos cargados, mostrando un tono neutral.",
+      "focus_analysis": "El enfoque se centra en la diplomacia y la presión económica de EE.UU. sobre Irán, dejando de lado la perspectiva iraní y el contexto político interno estadounidense.",
+      "focus_tags": [
+        "diplomacia EE.UU.-Irán",
+        "presión económica",
+        "estrecho de Ormuz"
+      ],
+      "context": [
+        {
+          "label": "historia de tensión EE.UU.-Irán",
+          "text": "Las relaciones entre Estados Unidos e Irán se han caracterizado por décadas de sanciones, disputas nucleares y episodios de confrontación militar desde la Revolución de 1979."
+        },
+        {
+          "label": "impacto del cierre del estrecho de Ormuz",
+          "text": "El bloqueo del estrecho de Ormuz por parte de Irán ha elevado los precios del petróleo mundial, presionando la economía global y los consumidores estadounidenses."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "Mientras DW presenta la declaración de Trump de forma neutral, medios como Aristegui y El Economista subrayan la estrategia de presión económica de EE.UU. y la falta de recursos de Irán, ofreciendo una interpretación más crítica del conflicto."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "6975cdb3bc84",
+      "title": "Desde la cubierta de un barco",
+      "summary": "La columnista Cecilia Kühne de El Economista analiza la novela 'Moby‑Dick' de Herman Melville, resaltando cómo la obra utiliza la travesía marítima como metáfora del conocimiento y la obsesión humana.",
+      "category": "literatura",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/cubierta-barco-20260809-827359.html",
+      "published_at": "2026-08-10T00:11:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir y valorar la novela sin emplear lenguaje cargado ni citar fuentes con una inclinación política; su tono es neutral y cultural.",
+      "focus_analysis": "El artículo se centra en la dimensión literaria y filosófica de la obra, destacando sus metáforas y reflexiones, mientras deja de lado el contexto económico del siglo XIX o posibles lecturas críticas decoloniales.",
+      "focus_tags": [
+        "literatura clásica",
+        "metáfora del viaje",
+        "análisis cultural"
+      ],
+      "context": [
+        {
+          "label": "Antecedente literario",
+          "text": "Herman Melville escribió 'Moby‑Dick' entre 1850 y 1851; la novela, inicialmente poco reconocida, es hoy considerada una de las obras maestras de la literatura universal."
+        },
+        {
+          "label": "Contexto histórico del siglo XIX",
+          "text": "En la época de Melville, la caza de ballenas era una industria clave para la producción de aceite y combustible, lo que hacía que los navíos balleneros fueran motores económicos y de exploración."
+        },
+        {
+          "label": "Relevancia contemporánea",
+          "text": "Los críticos modernos siguen estudiando 'Moby‑Dick' como una reflexión sobre la obsesión, la naturaleza y la condición humana, influyendo en la literatura, el cine y la filosofía del siglo XXI."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "93ddd58ea297",
+      "title": "Líbano suma 4.335 muertos desde inicio de ofensiva israelí",
+      "summary": "El Ministerio de Salud Pública de Líbano informa que la ofensiva israelí iniciada el 2 de marzo ha causado 4.335 muertos y 12.277 heridos en el país.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/líbano-suma-4-335-muertos-desde-inicio-de-ofensiva-israelí/a-78298310?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-10T00:05:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se centra en cifras oficiales y hechos verificables, sin usar un lenguaje cargado ni favorecer a ninguna parte.",
+      "focus_analysis": "El medio destaca el impacto humanitario y las cifras de víctimas, dejando de lado un análisis profundo de los motivos políticos o estratégicos del conflicto.",
+      "focus_tags": [
+        "civiles",
+        "conflicto",
+        "humanitario"
+      ],
+      "context": [
+        {
+          "label": "origen del conflicto",
+          "text": "El enfrentamiento se intensificó en marzo de 2022 cuando Hezbollah lanzó cohetes contra Israel en solidaridad con Irán, provocando la respuesta militar israelí en el sur del Líbano."
+        },
+        {
+          "label": "acuerdo de seguridad de junio",
+          "text": "A finales de junio de 2022 Israel y el Gobierno libanés firmaron un acuerdo marco de seguridad que redujo temporalmente los bombardeos y permitió el acceso de equipos de rescate a zonas afectadas."
+        },
+        {
+          "label": "reacciones internacionales",
+          "text": "Organizaciones como Human Rights Watch han acusado a Israel de posibles crímenes de guerra por ataques a periodistas, mientras que la comunidad internacional sigue presionando por un alto el fuego duradero."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "f88356e65f87",
+      "title": "Argentinos Juniors empata con Racing por la cuarta fecha del Torneo Clausura",
+      "summary": "Argentinos Juniors y Racing empataron 1‑1 en La Paternal, con un gol de Ezequiel Cannavo y una expulsión temprana de Adrian Maravilla Martínez que marcó el encuentro de la Torneo Clausura 2026.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/09/continua-la-fecha-4-del-torneo-clausura-la-agenda-de-partidos-del-domingo/",
+      "published_at": "2026-08-10T00:06:23+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, sin cargar términos políticos ni citar fuentes con sesgo; se limita a relatar hechos del partido y su repercusión en la tabla.",
+      "focus_analysis": "El artículo se centra en los momentos clave del juego y su impacto en la clasificación del torneo, dejando de lado aspectos como la gestión financiera de los clubes o la reacción de los hinchas.",
+      "focus_tags": [
+        "resultado",
+        "torneo clausura",
+        "fútbol argentino"
+      ],
+      "context": [
+        {
+          "label": "tabla liga",
+          "text": "Tras el empate, Argentinos Juniors se mantiene entre los primeros puestos del Torneo Clausura, mientras que Racing queda fuera de los lugares que garantizan la participación en copas internacionales."
+        },
+        {
+          "label": "otros partidos",
+          "text": "En la misma jornada, Gimnasia La Plata venció a Barracas Central 2‑0 y Defensa y Justicia superó a Newell’s 2‑1, resultados que también modificaron la posición de sus grupos."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "A diferencia de Infobae, que enfocó su informe en el duelo de la Paternal, el periódico AM de León dedicó su espacio a la final del Torneo Leyendas Unidas, destacando la actuación de CEFOR Ortega, lo que evidencia distintas prioridades editoriales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "80398aa126aa",
+      "title": "Marcharán aspirantes seleccionados de la UNAM para rechazar evaluación presencial",
+      "summary": "Aspirantes seleccionados para el examen de control de la UNAM en León organizarán una marcha y se plantarán en la Torre de Rectoría para exigir que se respeten sus resultados y rechazar la evaluación presencial.",
+      "category": "politica",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/nacional/2026/08/09/marcharan-aspirantes-seleccionados-de-la-unam-para-rechazar-evaluacion-presencial-1829666.html",
+      "published_at": "2026-08-10T00:19:16+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, presenta tanto las demandas de los aspirantes como la respuesta oficial de la UNAM sin usar vocabulario cargado ni citar fuentes partidistas.",
+      "focus_analysis": "El medio se centra en la protesta estudiantil y en los aspectos logísticos del examen (asignación de sedes y costos de traslado), dejando de lado un análisis de las implicaciones políticas o de políticas educativas más amplias.",
+      "focus_tags": [
+        "protesta estudiantil",
+        "examen de control",
+        "UNAM"
+      ],
+      "context": [
+        {
+          "label": "registro",
+          "text": "La Dirección General de Administración Escolar de la UNAM informó que más de 41 000 aspirantes se habían inscrito para el examen de control, lo que equivale a aproximadamente el 70 % de los cupos disponibles."
+        },
+        {
+          "label": "ubicación",
+          "text": "El lugar designado para la evaluación presencial en León se encuentra en un hotel del bulevar Adolfo López Mateos, en la colonia Las Bugambilias, según reportó El Universal."
+        },
+        {
+          "label": "antecedente",
+          "text": "En años anteriores la UNAM ha usado exámenes de control para regular la admisión a sus carreras, y estas pruebas han generado protestas de aspirantes que consideran que la asignación de sedes implica gastos y tiempos de traslado considerados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "da54e345ee75",
       "title": "Cómo preparar y aplicar agua de romero para detener la caída del cabello",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "f88356e65f87",
-      "title": "Argentinos Juniors y Racing se enfrentan por la cuarta fecha del Torneo Clausura",
-      "summary": "Argentinos Juniors y Racing se enfrentarán en La Paternal en la cuarta fecha del Torneo Clausura, con ambos equipos buscando sumar puntos para mantenerse en la lucha por la clasificación a la Copa Libertadores 2027.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/09/continua-la-fecha-4-del-torneo-clausura-la-agenda-de-partidos-del-domingo/",
-      "published_at": "2026-08-09T22:54:10+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el encuentro, los resultados recientes y la relevancia deportiva sin usar vocabulario cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centra en el aspecto competitivo del fútbol, resaltando la posición en la tabla y la importancia del partido para la clasificación continental, dejando de lado cualquier enfoque humano o institucional.",
-      "focus_tags": [
-        "fútbol argentino",
-        "Torneo Clausura",
-        "Racing vs Argentinos"
-      ],
-      "context": [
-        {
-          "label": "Posición en la tabla",
-          "text": "Antes del partido, Argentinos Juniors ocupaba la cima de la Zona B con ocho puntos, mientras que Racing, con cuatro puntos, buscaba alejarse de la zona de descenso."
-        },
-        {
-          "label": "Rivalidad reciente",
-          "text": "Los últimos enfrentamientos entre ambos equipos han sido reñidos, con victorias alternadas que aumentan la expectativa de los aficionados en La Paternal."
-        },
-        {
-          "label": "Objetivo de clasificación",
-          "text": "El triunfo de Argentinos Juniors les acercaría al boleto a la Copa Libertadores 2027, mientras que Racing necesita una victoria para mantenerse en la lucha por los cupos internacionales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "41507fb6f3e6",
-      "title": "Ser universitario",
-      "summary": "La Universidad Nacional Autónoma de México (UNAM) detectó resultados anómalos en su examen de ingreso presencial y abrió un debate sobre la confianza de la sociedad en las universidades como generadoras y transmisoras de conocimiento, así como sobre el papel de la inteligencia artificial en los procesos de evaluación.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/politica/ser-universitario/07/08/2026/",
-      "published_at": "2026-08-07T17:47:05+00:00",
-      "bias_score": -25,
-      "bias_reason": "El texto emplea un tono crítico y reflexivo, enfatizando la falta de confianza institucional y la necesidad de mayor transparencia, lo cual coincide con la línea editorial progresista de Letras Libres; no se citan fuentes gubernamentales ni se presentan argumentos conservadores.",
-      "focus_analysis": "El medio se centró en la dimensión institucional y epistemológica del problema, resaltando la confianza social en la UNAM y la función educativa, mientras dejó de lado un análisis técnico profundo del fraude o de las posibles sanciones a los aspirantes.",
-      "focus_tags": [
-        "educación superior",
-        "confianza institucional",
-        "inteligencia artificial"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del examen",
-          "text": "Desde 2021, la UNAM había registrado que alrededor del 3 % de los aspirantes obtenían 100 o más aciertos en su examen de ingreso; en 2026 esa proporción subió a 16 %, y los resultados superiores a 110 aciertos se multiplicaron por seis."
-        },
-        {
-          "label": "Confianza en las universidades públicas",
-          "text": "Según la Encuesta Nacional de Calidad e Impacto Gubernamental 2025 del INEGI, el 75.9 % de la población adulta urbana mexicana confía en las universidades públicas, frente al 29.7 % en cámaras legislativas y 23.9 % en partidos políticos."
-        },
-        {
-          "label": "Debate nacional sobre IA en educación",
-          "text": "Diversos medios y académicos en México han señalado que la incorporación de herramientas de inteligencia artificial en evaluaciones académicas plantea riesgos de vulnerabilidad y requiere nuevos protocolos de seguridad y verificación de identidad."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "704b214fd8cc",
-      "title": "Esta app gratis convierte tu viejo Android en una consola retro de videojuegos",
-      "summary": "La aplicación iiSU, disponible de forma gratuita en GitHub, permite transformar un teléfono Android antiguo en una consola retro al ofrecer un lanzador visual inspirado en consolas clásicas y compatible con la emuladores y ROMs.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/mobile/iisu-launcher-android-juegos-retro/",
-      "published_at": "2026-08-09T16:00:00+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto usa un tono mayormente positivo y descriptivo, sin cargar con lenguaje político o polarizador, y se centra en aspectos técnicos y de experiencia del usuario.",
-      "focus_analysis": "El medio se centra en el ángulo tecnológico y de experiencia de usuario, describiendo funciones, diseño y compatibilidad, mientras omite el impacto comercial y los debates legales sobre la emulación de ROMs.",
-      "focus_tags": [
-        "gaming retro",
-        "launcher Android",
-        "emuladores"
-      ],
-      "context": [
-        {
-          "label": "Tendencia de emulación en móviles",
-          "text": "En los últimos años, ha aumentado la popularidad de aplicaciones y emuladores que permiten jugar títulos clásicos en dispositivos Android, ofreciendo a los usuarios una forma de revivir videojuegos de consolas anteriores."
-        },
-        {
-          "label": "Cuestiones legales de ROMs",
-          "text": "El uso de ROMs de videojuegos está sujeto a derechos de autor, y aunque los lanzadores como iiSU no incluyen emuladores ni ROMs, la distribución y uso de estos archivos sigue siendo un tema controvertido en la comunidad."
-        },
-        {
-          "label": "Cobertura comparativa de medios",
-          "text": "Otros medios, como El Androide Libre, enfocaron la noticia en un controlador físico (8BitDo) que convierte el móvil en una consola portátil, resaltando el aspecto de hardware en lugar del software presentado por Hipertextual."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "913cdc928b1e",
-      "title": "Vence Palou en Portland; Pato recupera puestos y acaba 11",
-      "summary": "El piloto español Álex Palou ganó el Gran Premio de Portland, asegurando su sexta victoria en la temporada 2026 de la IndyCar.",
-      "category": "deportes",
-      "source_name": "Reforma",
-      "source_url": "https://www.reforma.com/vence-palou-en-portland-pato-recupera-puestos-y-acaba-11/ar3255015",
-      "published_at": "2026-08-09T22:26:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a informar del resultado deportivo sin usar lenguaje emotivo ni citar fuentes con inclinación política.",
-      "focus_analysis": "El medio se centra en el desempeño deportivo y el triunfo de Palou, dejando de lado aspectos como la estrategia del equipo o el impacto económico del evento.",
-      "focus_tags": [
-        "deporte",
-        "IndyCar",
-        "victoria"
-      ],
-      "context": [
-        {
-          "label": "Posición en el campeonato",
-          "text": "Antes de Portland, Álex Palou lideraba la clasificación de conductores de la IndyCar 2026 con varios puntos de ventaja sobre sus rivales."
-        },
-        {
-          "label": "Rendimiento previo",
-          "text": "Palou ya había conseguido cinco victorias en la temporada, consolidándose como el piloto más dominante del año."
-        },
-        {
-          "label": "Importancia del GP de Portland",
-          "text": "El Gran Premio de Portland es una de las carreras más prestigiosas del calendario estadounidense, atrayendo a miles de espectadores y a importantes patrocinadores."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "7bbf158f1081",
-      "title": "Survivor México: quién sale eliminado hoy 9 de agosto",
-      "summary": "El programa de reality show Survivor México 2026 revelará este domingo quién será el cuarto eliminado, con el participante Abel del equipo Jaguares como principal candidato según filtraciones de redes sociales.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/09/survivor-mexico-quien-sale-eliminado-hoy-9-de-agosto/",
-      "published_at": "2026-08-09T22:35:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y rumores del programa sin usar lenguaje cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centra en la dinámica de competencia y la expectativa de eliminación del reality, dejando de lado cualquier análisis de la audiencia o impacto cultural del programa.",
-      "focus_tags": [
-        "reality show",
-        "eliminación",
-        "Survivor México"
-      ],
-      "context": [
-        {
-          "label": "Formato del programa",
-          "text": "Survivor México sigue la mecánica tradicional del reality, con dos tribus que compiten en pruebas físicas y sociales; cada domingo se realiza el Juego de Extinción, donde el participante con menos votos es eliminado."
-        },
-        {
-          "label": "Eliminaciones anteriores",
-          "text": "En la temporada 2026 ya fueron expulsados Bobby Larios y Erick del equipo Halcones, y Rey Grupero del equipo Jaguares, conforme a los resultados de los consejos tribales y duelos de inmunidad."
-        },
-        {
-          "label": "Popularidad del formato en México",
-          "text": "El programa ha mantenido una audiencia constante en Azteca Uno, convirtiéndose en uno de los reality shows más seguidos del país y generando gran interacción en redes sociales durante los episodios de eliminación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "f7b26ff3b389",
-      "title": "Plan Oriente: Más de 700 mil mujeres son beneficiarias de Mujeres con Bienestar del Gobierno de México y del Edoméx",
-      "summary": "El programa Plan Oriente, liderado por la presidenta de México Claudia Sheinbaum y la gobernadora del Estado de México Delfina Gómez, ha registrado a más de 700 mil mujeres entre 18 y 64 años en el esquema Mujeres con Bienestar, que les entrega pagos bimestrales de 2,500 a 3,100 pesos y acceso a servicios de salud, educación y asistencia jurídica.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/plan-oriente-700-mil-mujeres-son-beneficiarias-mujeres-bienestar-gobierno-mexico-edomex-20260809-827354.html",
-      "published_at": "2026-08-09T22:37:59+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo presenta únicamente datos y describ la acciones del gobierno sin usar lenguaje cargado ni incluir opiniones críticas, lo que indica una postura neutral.",
-      "focus_analysis": "El medio se enfoca en el impacto socio‑económico del programa, resaltando los beneficios monetarios y de servicios para mujeres vulnerables, mientras omite la discusión sobre el costo fiscal o posibles controversias políticas.",
-      "focus_tags": [
-        "política social",
-        "transferencias monetarias",
-        "igualdad de género"
-      ],
-      "context": [
-        {
-          "label": "Plan Oriente",
-          "text": "Plan Oriente forma parte de las 121 acciones prioritarias del gobierno de México destinadas a reducir el rezago histórico del oriente del Estado de México."
-        },
-        {
-          "label": "Mujeres con Bienestar",
-          "text": "Mujeres con Bienestar, lanzado en 2022, es un componente de los Programas para el Bienestar que brinda pagos bimestrales y una serie de servicios gratuitos a mujeres en situación de vulnerabilidad."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "En otras publicaciones, como El Informador, se puso énfasis en el calendario de registro y la cuantía de la Pensión Mujeres Bienestar, destacando la fase de inscripción y el monto del pago."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
