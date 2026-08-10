@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T11:01:14.621810+00:00",
-      "title": "El Corte Inglés deja a precio de liquidación los AirPods Max con unidades limitadas y un descuento d",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien contextualizada, objetiva y actual con una estructura clara.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:01:20.185217+00:00",
-      "title": "Mario Iván Martínez, al rescate de la sed del conocimiento y el gusto por los libros",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de claridad y actualidad, aunque podría mejorar la diversidad de fuentes y aportar citas verificables para reforzar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:01:26.750811+00:00",
-      "title": "Cuestión de pasos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, objetiva y bien estructurada sobre la recopilación de columnas de opinión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:20:45.420598+00:00",
-      "title": "Un marigold entre páginas: la soledad luminosa de Clarice Lispector",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza interesante y bien estructurada, aunque podría profundizar más en la innovación estilística.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:20:49.192011+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es actual y está bien estructurado; necesita fuentes fiables y un tono neutro para ser aceptable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:20:52.758719+00:00",
-      "title": "Crisis de agua potable en Puerto Rico: por qué el territorio estadounidense racionará este servicio ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión, actualidad y estructura, pero necesita mayor diversidad de fuentes para cubrir adecuadamente los diferentes actores involucrados en la crisis.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:20:58.399136+00:00",
-      "title": "Gobierno quita 164 mmdp a Pemex en subsidios; petrolera enfrenta reducción de ingresos, baja producc",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con la precisión, objetividad y estructura, pero necesita incorporar fuentes y perspectivas adicionales para ofrecer un contraste adecuado en un tema de conflicto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:21:02.714096+00:00",
-      "title": "¿Qué está pasando en el Metro y Metrobús hoy 10 de agosto?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque podría reforzar sus fuentes con citas oficiales para un contraste de fuentes más sólido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:21:08.034985+00:00",
-      "title": "Llevábamos casi un siglo sin poder resolver este enigma matemático de Einstein. Un investigador de l",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita fuentes más fiables y verificables para cumplir con los estándares de veracidad y contraste, aunque su redacción es objetiva y está bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:21:13.104809+00:00",
-      "title": "Thiago Almada llegó a la Argentina para sumarse a River Plate",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero contiene un error factual clave sobre el club de origen del jugador, lo que afecta su precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T11:21:22.818933+00:00",
       "title": "La brecha equivocada",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es reciente y está bien estructurado, pero necesita fuentes más verificables y mayor equilibrio de voces para alcanzar un nivel editorial más alto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:40:43.461080+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero carece de veracidad y contraste de fuentes confiables, lo que compromete su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:40:50.270614+00:00",
+      "title": "Sheinbaum asegura que corresponde al INE regular uso de IA en campañas electorales; \"no sé si lo har",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría mejorar la inclusión de voces contrapuestas para reforzar el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:40:55.599920+00:00",
+      "title": "EN VIVO | Clima en CDMX y resto de México hoy 10 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad, actualidad y estructura, y la información proviene de una fuente oficial fiable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:41:00.542357+00:00",
+      "title": "Última hora del terremoto en Colombia, en directo | Al menos 25 muertos por el terremoto de magnitud",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien fuente y estructurada de manera clara y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:41:07.003298+00:00",
+      "title": "\"Tiene motivos objetivos para temer\": acorralado y amenazado incluso en Rusia, Putin ha levantado un",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero su veracidad y equilibrio de fuentes son insuficientes, lo que limita su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:41:11.947845+00:00",
+      "title": "Los desgarradores gritos de la figura de Racing que sufrió una dura lesión en la derrota con Argenti",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:41:24.083436+00:00",
+      "title": "La brecha equivocada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero la falta de verificación clara de los datos y la ausencia de fuentes contrastantes limitan su rigor editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:41:29.256777+00:00",
+      "title": "BMV inicia la semana con pérdidas; Orbia y sector aéreo lideran los descensos",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares editoriales, aunque la falta de datos cuantitativos limita ligeramente la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:41:36.372767+00:00",
+      "title": "Barra de Abogados ve riesgo de censura en lineamientos de derechos de audiencias; llama a preservar ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, pero necesita mayor pluralidad de fuentes para equilibrar el contraste y reforzar la objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:41:42.994966+00:00",
+      "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy lunes 10 de agosto: solidaridad con Colombia, imp",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de calidad editorial, aunque podría beneficiarse de fuentes adicionales para reforzar el contraste de perspectivas.",
       "error": null
     }
   ]
