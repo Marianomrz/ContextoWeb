@@ -1,278 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T02:28:25.599079+00:00",
-      "title": "Niega SEG hackeo tras filtración de datos de 95 mil empleados en Guanajuato",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque la fuente y la falta de voces contrastantes limitan ligeramente la puntuación en contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:40:39.371176+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla en veracidad y objetividad, por lo que no debería publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:40:43.962445+00:00",
-      "title": "Taylor Farms retira salsas y guacamole por brote de salmonella en EU; se unen a la lechuga por diarr",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de calidad editorial; solo se sugiere añadir citas directas de fuentes oficiales para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:40:49.206189+00:00",
-      "title": "Cuántas veces se recomienda sacar a pasear a tu perro según su tamaño y necesidades",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, mostrando buena objetividad y fuentes confiables, aunque la falta de citas específicas limita la veracidad plena.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:40:54.990165+00:00",
-      "title": "Así están las posiciones del Clausura y de la Tabla Anual: los saltos de Huracán, Gimnasia y Racing ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo y objetivo sobre deportes, aunque la inclusión de fuentes adicionales podría reforzar la credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:41:02.099725+00:00",
-      "title": "\"Dolphin\" se debilita tras dejar 215.000 evacuados en China",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y objetividad, ofreciendo una cobertura reciente y bien estructurada del evento meteorológico.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:41:07.008512+00:00",
-      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución est",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Aunque la pieza es reciente y objetiva, la falta de fuentes verificables y la presencia de errores factuales hacen que el contenido no cumpla con los estándares de calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:41:15.884029+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y sigue la estructura adecuada, pero le falta evidencia verificable y contraste de fuentes, y su tono muestra parcialidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:41:19.322306+00:00",
-      "title": "Oro toca máximo en siete semanas tras débiles datos de empleo en EU",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque podría enriquecer la variedad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:41:24.463577+00:00",
-      "title": "Arriban al puerto de Acapulco dos toneladas de cocaína asegurada por la Semar; fueron localizadas en",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzar la veracidad citando fuentes oficiales específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:42:12.272861+00:00",
-      "title": "Cuando el polvo del Sahel se vuelve tinta: la magia de la narrativa africana",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "originalidad_creatividad": 8,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 7,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales y es apto para publicación, con pequeñas oportunidades de enriquecer el estilo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:42:17.800754+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero su falta de veracidad y el sesgo evidente comprometen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:42:24.067908+00:00",
-      "title": "Taylor Farms retira salsas y guacamole por brote de salmonella en EU; se unen a la lechuga por diarr",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares, pero la precisión de algunos datos es dudosa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:42:27.357862+00:00",
-      "title": "Cuántas veces se recomienda sacar a pasear a tu perro según su tamaño y necesidades",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, siendo apto para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:42:32.029166+00:00",
-      "title": "Así están las posiciones del Clausura y de la Tabla Anual: los saltos de Huracán, Gimnasia y Racing ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la precisión de los datos y la falta de fuentes contrastadas son problemáticas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T02:42:36.424848+00:00",
-      "title": "\"Dolphin\" se debilita tras dejar 215.000 evacuados en China",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, equilibrada y bien estructurada.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T02:42:42.019441+00:00",
       "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución est",
       "kind": "noticia",
@@ -3398,6 +3126,278 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando la información de forma clara, objetiva y actual, aunque podría mejorar la precisión citando directamente a los involucrados.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:00:43.484921+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta graves fallos de veracidad y falta de fuentes contrastantes, aunque es actual y sigue una estructura de pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:00:48.786982+00:00",
+      "title": "‘La Odisea’ ya es la película más taquillera de Christopher Nolan: sus números son un escándalo",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo tiene una buena estructura y actualidad, pero la falta de datos verificables y fuentes confiables reduce significativamente su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:00:52.153156+00:00",
+      "title": "Corrigen trazo en Mexicable; pasaba sobre campo militar",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, objetiva y actual, aunque podría beneficiarse de fuentes complementarias.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:00:57.809200+00:00",
+      "title": "La Casa de los Famosos México 2026 EN VIVO: Ximena Herrera se convirtió en la segunda eliminada y co",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de precisión, contraste de fuentes, objetividad y estructura, ofreciendo una noticia clara y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:04.131257+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Italia y Dinamarca rechazan “la inmig",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 5
+      },
+      "observacion": "El paquete presenta información reciente y en gran medida objetiva, pero le falta verificación de datos y una presentación más directa del hecho principal, lo que reduce su calidad periodística.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:12.897052+00:00",
+      "title": "La brecha equivocada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita fuentes verificables y mayor contraste de perspectivas para alcanzar una alta calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:17.544317+00:00",
+      "title": "El método de “La Fábrica”: cómo la cantera de Vélez vendió por más de USD 120 millones en diez años ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes específicas para la cifra reduce ligeramente la puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:23.889389+00:00",
+      "title": "Medios: Palacio tiene la última palabra",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete necesita mejorar la precisión de los datos, incluir fuentes contrastantes y eliminar contenido fuera de tema para cumplir con los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:30.031287+00:00",
+      "title": "Sorpresa en el Apple Watch Series 12: Apple revivirá un modelo icónico que los fans adoraban",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es actual y está bien estructurado, pero su fiabilidad se ve comprometida por la falta de fuentes contrastantes y un sesgo favorable hacia Apple.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:37.254147+00:00",
+      "title": "Biodiversidad: víctima del muro de Trump; casi 400 especies peligran",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y reciente, pero requiere mayor respaldo de fuentes y una presentación más equilibrada de perspectivas para alcanzar la excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:43.804446+00:00",
+      "title": "Lotería Nacional: resultados del Chispazo de este 9 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de veracidad, objetividad y actualidad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:01:51.505124+00:00",
+      "title": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está actualizado y bien estructurado, pero la falta de fuentes verificables y la ausencia de voces equilibradas limitan su precisión y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:02:00.573545+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta graves errores de factualidad y falta de contraste de fuentes, lo que compromete su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:02:05.658110+00:00",
+      "title": "Jugó con Redondo, convivió con Maradona, se retiró a los 25 años por una lesión y brilla como cantan",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la verificación de datos y la diversificación de fuentes, aunque mantiene una buena objetividad y estructura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:02:09.582593+00:00",
+      "title": "Motores apagados",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y reciente, aunque ganaría en contraste de fuentes y mayor neutralidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T08:02:16.420720+00:00",
+      "title": "El Xiaomi Mix Fold 5 se muestra en imágenes oficiales con un cambio que era muy esperado tras el éxi",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de un artículo informativo y objetivo, aunque podría reforzar la verificación citando fuentes adicionales.",
       "error": null
     }
   ]
