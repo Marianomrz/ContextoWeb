@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T01:21:17.403375+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es reciente y está estructurado razonablemente, pero la falta de fuentes contrastantes y la presencia de lenguaje sesgado reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:21:20.800648+00:00",
-      "title": "Fitch y HR Ratings elevan calificación crediticia de Zacatecas",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es informativo y estructurado, pero contiene errores factuales que deben corregirse antes de la publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:21:25.101288+00:00",
-      "title": "A 10 días de la crisis migratoria en Ceuta, habitantes salen a las calles y gritan \"¡Basta ya!\"",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero necesita fuentes más diversas y mayor rigor en la verificación de cifras para alcanzar un nivel editorial óptimo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:21:32.533251+00:00",
-      "title": "Cruz Azul 1-1 New York City EN VIVO sigue el MINUTO A MINUTO del partido de Leagues Cup",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es adecuado para una noticia deportiva, aunque la precisión de algunos datos y la falta de fuentes múltiples reducen ligeramente la puntuación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:21:37.841572+00:00",
-      "title": "Alejandro Moreno expresa sus condolencias por muerte de exlíder del PRI en Sinaloa",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo y objetivo, solo requiere fuentes más explícitas para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:40:42.955932+00:00",
-      "title": "Desierto espejo: identidad y exilio en 'Season of Migration to the North'",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 8,
-        "voz_autor": 7,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una visión original y bien estructurada aunque con espacio para enriquecer aún más el estilo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:40:48.057015+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es actual y está estructurado razonablemente, pero su falta de veracidad y de contraste de fuentes, junto con una evidente parcialidad, lo hacen inadecuado para publicación sin correcciones sustanciales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:40:51.796004+00:00",
-      "title": "El sencillo truco con vinagre blanco que te ayudará a eliminar el olor a humedad de tu auto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial y es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T01:40:56.517504+00:00",
-      "title": "Pasea Rocha Cantú en Mónaco mientras FGR lo indaga",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando una noticia reciente, clara y mayormente verificable, aunque podría reforzarse con fuentes directas o citas.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T01:41:01.446086+00:00",
       "title": "Argentinos Juniors le ganó 2-1 a Racing y es el único líder de la Zona B del Torneo Clausura",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales, mostrando precisión y objetividad, aunque podría reforzar la verificación con citas directas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:09.730729+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene graves inexactitudes factuales que comprometen su publicación; requiere corrección de datos y fuentes antes de considerarse apto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:12.733947+00:00",
+      "title": "Melate, Revancha y Revanchita resultados de hoy 9 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares periodísticos de precisión, objetividad y actualidad, presentando la información de manera clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:18.300346+00:00",
+      "title": "Biodiversidad: víctima del muro de Trump; casi 400 especies peligran",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero necesita mayor respaldo de datos y fuentes más equilibradas para cumplir con los estándares de veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:23.576624+00:00",
+      "title": "Comic Con Astana reúne a estrellas globales y miles de fans del cosplay en Kazajistán",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, actual y estructurada de manera objetiva, aunque podría beneficiarse de fuentes adicionales para reforzar la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:29.985313+00:00",
+      "title": "El método de “La Fábrica”: cómo la cantera de Vélez vendió por más de USD 120 millones en diez años ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de calidad editorial, con información reciente y estructurada, aunque la falta de citas específicas para la cifra de 120 millones de dólares impide una verificación completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:35.196776+00:00",
+      "title": "Cómo proteger tu cámara y tu móvil del eclipse para hacer fotos sin que se rompan: toda la preparaci",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, por lo que es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:46.436626+00:00",
+      "title": "El espejismo económico del gobierno de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 8,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información reciente pero carece de fuentes contrastantes y presenta ciertos datos sin verificación clara, lo que limita su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:52.784691+00:00",
+      "title": "Sancionan a 226 funcionarios en primer semestre del 2026",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría beneficiarse de fuentes adicionales para reforzar la robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T06:53:58.926109+00:00",
+      "title": "La Casa de los Famosos México 2026 EN VIVO: Ximena Herrera se convirtió en la segunda eliminada y co",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información objetiva y reciente, presentando los hechos de forma clara y con fuentes múltiples.",
       "error": null
     }
   ]
