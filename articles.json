@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-10T02:21:15.657785+00:00",
+  "generated_at": "2026-08-10T02:28:26.631352+00:00",
   "articles": [
+    {
+      "id": "f8c96db67b2b",
+      "title": "Niega SEG hackeo tras filtración de datos de 95 mil empleados en Guanajuato",
+      "summary": "La Secretaría de Educación del estado de Guanajuato informó que la filtración de datos de más de 95 mil empleados se debió a un acceso no autorizado mediante una credencial comprometida, y no a un hackeo a la infraestructura.",
+      "category": "tecnologia",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/guanajuato/2026/08/09/tras-filtracion-de-datos-de-95-mil-empleados-cae-sitio-web-de-la-seg-1829654.html",
+      "published_at": "2026-08-10T02:07:01+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo prioriza la versión oficial y emplea un tono descriptivo sin críticas, lo que muestra una ligera inclinación a favor del gobierno.",
+      "focus_analysis": "El medio se centró en la explicación institucional y técnica del incidente, dejando de lado el impacto personal de los empleados afectados.",
+      "focus_tags": [
+        "ciberseguridad",
+        "gobierno estatal",
+        "filtración de datos"
+      ],
+      "context": [
+        {
+          "label": "Ciberataques previos en Guanajuato",
+          "text": "En los últimos años, la Fiscalía General del Estado de Guanajuato y la Secretaría de Seguridad y Paz han sufrido varios incidentes de ciberataques que involucraron filtraciones de datos y críticas a la gestión de seguridad."
+        },
+        {
+          "label": "Riesgos de datos personales",
+          "text": "La exposición de información como RFC, CURP y domicilios puede facilitar delitos de phishing y robo de identidad, según expertos en protección de datos."
+        },
+        {
+          "label": "Respuesta institucional típica",
+          "text": "Las autoridades estatales suelen activar protocolos de seguridad, bloquear accesos comprometidos y comunicar comunicados oficiales para mitigar la percepción pública."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "f88356e65f87",
+      "title": "Argentinos Juniors le ganó 2-1 a Racing y es el único líder de la Zona B del Torneo Clausura",
+      "summary": "Argentinos Juniors venció a Racing por 2-1 y, con 12 puntos, se posicionó como el único líder de la Zona B del Torneo Clausura 2026.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/09/continua-la-fecha-4-del-torneo-clausura-la-agenda-de-partidos-del-domingo/",
+      "published_at": "2026-08-10T01:21:02+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido y la clasificación sin usar adjetivos cargados ni seleccionar fuentes con postura evidente.",
+      "focus_analysis": "El artículo se centra en el resultado del encuentro y su impacto en la tabla de posiciones, dejando de lado aspectos emocionales de los aficionados o análisis táctico profundo.",
+      "focus_tags": [
+        "resultado",
+        "liderazgo zona B",
+        "Torneo Clausura"
+      ],
+      "context": [
+        {
+          "label": "Formato del Torneo Clausura 2026",
+          "text": "La Liga Profesional de Argentina se divide en dos zonas (A y B); los equipos compiten por puntos para definir los clasificados a la fase final y los descendidos."
+        },
+        {
+          "label": "Racing Club, histórico",
+          "text": "Racing Club, uno de los cinco grandes del fútbol argentino, ha tenido una temporada irregular y actualmente lucha por escalar posiciones en la Zona B."
+        },
+        {
+          "label": "Trayectoria reciente de Argentinos Juniors",
+          "text": "Argentinos Juniors, tradicionalmente un equipo de la mitad de la tabla, ha mejorado su rendimiento en los últimos partidos, alcanzando la cabeza de la Zona B tras la victoria contra Racing."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "c2d29d14b076",
+      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución está en camino",
+      "summary": "El Samsung Galaxy S26 Ultra presenta una coloración rojiza en la pantalla que Samsung ha identificado como un fallo de software y ha anunciado que será corregido mediante una actualización de calibración, disponible de forma gratuita en tiendas o vía la aplicación Samsung Members.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/mobile/samsung-galaxy-s26-ultra-problema-pantalla-rojiza-tiene-solucion/",
+      "published_at": "2026-08-09T18:00:00+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto usa términos suaves como \"molesto\" y \"buena noticia\" pero principalmente informa de forma equilibrada, presentando tanto el problema como la solución sin cargar de carga política o ideológica.",
+      "focus_analysis": "El artículo se centra en el aspecto técnico y de consumo del problema de pantalla, explicando su causa y la solución de software; omite un análisis sobre la repercusión económica para los usuarios o la gestión de calidad de Samsung.",
+      "focus_tags": [
+        "tecnología",
+        "software",
+        "dispositivos móviles"
+      ],
+      "context": [
+        {
+          "label": "Declaración de Samsung",
+          "text": "Samsung ha comunicado que el tinte rojizo del Galaxy S26 Ultra es un problema de software y que lanzará una actualización de calibración que los usuarios podrán aplicar gratuitamente a través de la app Samsung Members o en sus tiendas físicas."
+        },
+        {
+          "label": "Patrón en la industria",
+          "text": "Los fallos de color en pantallas son recurrentes en smartphones de gama alta recién lanzados, a menudo requeridos de parches de software o reparaciones de hardware."
+        },
+        {
+          "label": "Énfasis de otros medios",
+          "text": "Otros medios tecnológicos, como El Androide Libre, han puesto el foco en las innovaciones de hardware de Samsung, destacando dispositivos como los Galaxy Watch Ultra 2, y no han abordado el problema de software del Galaxy S26 Ultra."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "7d6d737621b0",
+      "title": "\"Dolphin\" se debilita tras dejar 215.000 evacuados en China",
+      "summary": "El tifón Dolphin, el decimotercer de la temporada, tocó tierra en la provincia de Zhejiang, China, provocando fuertes vientos y lluvias torrenciales que obligaron a reubicar a más de 215 mil personas y generar alertas naranjas en Shanghái.",
+      "category": "sociedad",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/dolphin-se-debilita-tras-dejar-215-000-evacuados-en-china/a-78298484?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-10T01:16:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje neutro y factual, citando exclusivamente fuentes oficiales como el Centro Meteorológico Nacional, sin usar adjetivos cargados ni presentar opiniones políticas.",
+      "focus_analysis": "El artículo se centra en los efectos meteorológicos y la respuesta de seguridad pública del tifón, describiendo evacuaciones, alertas y suspensiones de transporte, sin abordar repercusiones económicas ni políticas.",
+      "focus_tags": [
+        "tifón Dolphin",
+        "evacuaciones en China",
+        "alertas meteorológicas"
+      ],
+      "context": [
+        {
+          "label": "Estacionalidad de tifones en China",
+          "text": "China experimenta una temporada de tifones activa cada verano, con Zhejiang y provincias costeras enfrentando frecuentemente tormentas que causan inundaciones y deslizamientos."
+        },
+        {
+          "label": "Sistema de alertas chinas",
+          "text": "El gobierno chino utiliza una escala de alertas que va de azul a rojo; en este caso mantuvo una alerta naranja por lluvias intensas tras la llegada del tifón Dolphin."
+        },
+        {
+          "label": "Cobertura de medios internacionales",
+          "text": "Otros medios, como France24 Español, ampliaron la perspectiva al señalar que Dolphin también afectó a Japón y Filipinas, resaltando impactos regionales más allá de China."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "9ee653ef70ad",
+      "title": "Línea 2 del Cablebús reanuda servicio este lunes 10 de agosto; Línea 1 inicia revisión anual del 10 al 23",
+      "summary": "La línea 2 del Cablebús de la Ciudad de México reanudó su servicio el lunes 10 de agosto tras una revisión anual, mientras que la línea 1 inició su inspección programada del 10 al 23 de agosto, con autobuses de la RTP ofreciendo traslado gratuito a los usuarios.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/linea-2-del-cablebus-reanuda-servicio-este-lunes-10-de-agosto-linea-1-inicia-revision-anual-del-10-al-23/",
+      "published_at": "2026-08-10T02:15:28+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene descriptivo y técnico, sin lenguaje cargado ni fuentes con carga política, centrado exclusivamente en la operatividad del sistema de transporte.",
+      "focus_analysis": "El medio eligió un ángulo de infraestructura y mantenimiento del transporte público, dejando de lado cualquier discusión sobre el impacto social, financiero o político del Cablebús.",
+      "focus_tags": [
+        "transporte público",
+        "mantenimiento",
+        "infraestructura"
+      ],
+      "context": [
+        {
+          "label": "Sistema Cablebús",
+          "text": "El Cablebús es un sistema de teleférico urbano de la Ciudad de México, inaugurado en 2021, que conecta zonas como Constitución de 1917 y Santa Marta (línea 2) y Indios Verdes y Cuautepec (línea 1)."
+        },
+        {
+          "label": "Revisión anual",
+          "text": "Cada línea del Cablebús realiza una revisión anual que incluye sustitución de rodamientos, mantenimiento de frenos y inspección de sistemas eléctricos, hidráulicos y mecánicos para garantizar la seguridad y el buen funcionamiento."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Otros medios, como Infobae, han puesto énfasis en la expansión del Cablebús señalando la futura Línea 5 como la más larga del mundo, un enfoque que el artículo de El Universal no menciona."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "8458997ba0ea",
+      "title": "El codazo de Maravilla Martínez por el que fue expulsado en la caída de Racing ante Argentinos: el gesto que llamó la atención",
+      "summary": "Adrián Maravilla Martínez fue expulsado con tarjeta roja directa durante el partido de la Torneo Clausura 2026 entre Racing Club y Argentinos Juniors tras codazoar a Gutiérrezrezrez, lo que dejó a Racing con un jugador menos y afectó su planteamiento táctico.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/10/el-codazo-de-maravilla-martinez-por-el-que-fue-expulsado-en-la-caida-de-racing-ante-argentinos-el-gesto-que-llamo-la-atencion/",
+      "published_at": "2026-08-10T02:23:37+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene neutral, describe hechos del partido y la sanción sin usar vocabulario cargado ni favorecer a alguna de las partes, y no incluye opiniones políticas.",
+      "focus_analysis": "El artículo se centra en el impacto disciplinario y táctico del codazo, dejando de lado un análisis más amplio sobre la política disciplinaria de la AFA o la tendencia de conductas violentas en el fútbol argentino.",
+      "focus_tags": [
+        "fútbol argentino",
+        "expulsiones",
+        "VAR"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "Racing Club, uno de los equipos más tradicionales de la Primera División argentina, participaba en la cuarta fecha del Torneo Clausura 2026 cuando se enfrentó a Argentinos Juniors."
+        },
+        {
+          "label": "Dato",
+          "text": "Adrián Maravilla Martínez acumula cinco expulsiones en 118 partidos con Racing, cuatro de ellas con tarjeta roja directa, y ya había sido expulsado por codazo en partidos anteriores."
+        },
+        {
+          "label": "Institucional",
+          "text": "La Asociación del Fútbol Argentino (AFA) ha implementado recientemente ajustes en su normativa disciplinaria que podrían reducir la duración de las sanciones por conductas violentas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "45c6f1b02dda",
       "title": "El espejismo económico del gobierno de México",
@@ -840,216 +1050,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.0
-      }
-    },
-    {
-      "id": "7d6d737621b0",
-      "title": "\"Dolphin\" se debilita tras dejar 215.000 evacuados en China",
-      "summary": "El tifón Dolphin, el decimotercer de la temporada, tocó tierra en la provincia de Zhejiang, China, provocando lluvias torrenciales y vientos fuertes que obligaron a trasladar preventivamente a más de 215 mil personas y a activar alertas naranjas en Shanghái y otras áreas del este del país.",
-      "category": "sociedad",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/dolphin-se-debilita-tras-dejar-215-000-evacuados-en-china/a-78298484?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-10T01:16:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje informativo y neutral, citando únicamente fuentes oficiales como el Centro Meteorológico Nacional y evitando adjetivos cargados o opiniones, lo que indica una cobertura equilibrada.",
-      "focus_analysis": "El medio se centra en los aspectos meteorológicos y de gestión de emergencias (alertas, evacuaciones, interrupciones de transporte), dejando de lado testimonios humanos o impactos económicos específicos.",
-      "focus_tags": [
-        "tifón Dolphin",
-        "evacuaciones en China",
-        "alertas meteorológicas"
-      ],
-      "context": [
-        {
-          "label": "Temporada de tifones en China",
-          "text": "Cada verano, la costa este de China experimenta una alta actividad de tifones, que con menudo generan lluvias intensas, inundaciones y deslizamientos, obligando a las autoridades a activar alertas y a evacuar a cientos de miles de residentes."
-        },
-        {
-          "label": "Comparación histórica",
-          "text": "En años recientes, tifones como Haikui (2023) y Noru (2024) también provocaron evacuaciones masivas y alertas de nivel naranja, mostrando un patrón recurrente de preparación y respuesta ante fenómenos climáticos extremos en la región."
-        },
-        {
-          "label": "Cobertura internacional",
-          "text": "Otros medios, como France24 Español, resaltan el efecto del tifón Dolphin más allá de China, señalando también los impactos en Japón y Filipinas, lo que subraya la dimensión regional del fenómeno."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "f88356e65f87",
-      "title": "Argentinos Juniors le gana Racing por la cuarta fecha del Torneo Clausura",
-      "summary": "Argentinos Juniors venció a Racing Club 2-1 en el encuentro de la cuarta fecha del Torneo Clausura, con goles de Tomás Molina y Hernán López Muñoz tras una temprana expulsión de un jugador de Racing.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/09/continua-la-fecha-4-del-torneo-clausura-la-agenda-de-partidos-del-domingo/",
-      "published_at": "2026-08-10T00:53:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido con un tono informativo y sin vocabulario cargado ni selección de fuentes que indique una inclinación política.",
-      "focus_analysis": "El artículo se centra en los momentos clave del juego, el desempeño de los jugadores y la repercusión en la tabla, dejando de lado aspectos como la reacción de la afición o la situación financiera de los clubes.",
-      "focus_tags": [
-        "resultado partido",
-        "torneo clausura",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Posición en la tabla",
-          "text": "Antes del encuentro, Argentinos Juniors y Racing Club estaban próximos a la cabeza del Torneo Clausura, con Argentinos buscando consolidar su puesto entre los líderes."
-        },
-        {
-          "label": "Impacto del resultado",
-          "text": "La victoria mantuvo a Argentinos Juniors en la lucha por un cupo a la Copa Libertadores 2027, mientras que Racing quedó más alejado de la zona de clasificación."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios deportivos, como Periódico AM, enfocaron su atención en torneos regionales y emplearon un lenguaje más sensacionalista, contrastando con el estilo sobrio de Infobae."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "d0305ebcde0e",
-      "title": "Así avanzan las negociaciones laborales",
-      "summary": "El Gobierno mexicano acordó que, a partir de 2027, los salarios tabulares se ajustarán en un porcentaje igual al índice de inflación publicado por el INEGI.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/asi-avanzan-negociaciones-laborales-20260809-827365.html",
-      "published_at": "2026-08-10T00:59:06+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje neutro y se limita a informar la medida sin usar adjetivos cargados ni citar fuentes con sesgo político.",
-      "focus_analysis": "El artículo se centra en el aspecto institucional y económico del acuerdo salarial, omitiendo la perspectiva de los trabajadores y el posible impacto social.",
-      "focus_tags": [
-        "salarios",
-        "inflación",
-        "negociaciones laborales"
-      ],
-      "context": [
-        {
-          "label": "Índice de inflación del INEGI",
-          "text": "El INEGI publica mensualmente el índice de precios al consumidor, que es el referente oficial para calcular la inflación en México y se utiliza frecuentemente como base para actualizar salarios y pensiones."
-        },
-        {
-          "label": "Historial de negociaciones salariales en México",
-          "text": "En los últimos años, los sindicatos y el gobierno han negociado ajustes salariales anuales, a menudo vinculados a la inflación, para mantener el poder adquisitivo de los trabajadores del sector público y privado."
-        },
-        {
-          "label": "Acuerdos salariales previos",
-          "text": "En 2024, se estableció un aumento salarial del 4,5 % para los empleados públicos, también basado en la inflación, lo que muestra una práctica recurrente de ajustar los salarios tabulares mediante este mecanismo."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "c2d29d14b076",
-      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución está en camino",
-      "summary": "Los usuarios del Samsung Galaxy S26 Ultra reportaron una coloración rojiza en la pantalla que, según Samsung, se trata de un error de software que será corregido mediante una futura actualización o calibración en tiendas oficiales.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/mobile/samsung-galaxy-s26-ultra-problema-pantalla-rojiza-tiene-solucion/",
-      "published_at": "2026-08-09T18:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutral, se limita a presentar los hechos y la respuesta del fabricante sin emplear vocabulario cargado ni favorecer a ninguna posición.",
-      "focus_analysis": "El artículo se centra en el problema técnico de la pantalla y la solución de software, dejando de lado el impacto comercial o la percepción del mercado sobre el fallo.",
-      "focus_tags": [
-        "pantalla rojiza",
-        "software",
-        "Galaxy S26 Ultra"
-      ],
-      "context": [
-        {
-          "label": "Problemas de pantalla en lanzamientos recientes",
-          "text": "Es frecuente que los smartphones de gama alta experimenten defectos de visualización al inicio de su comercialización, lo que genera queaciones entre los usuarios y requiere intervenciones rápidas del fabricante."
-        },
-        {
-          "label": "Política de actualizaciones de Samsung",
-          "text": "Samsung habitualmente soluciona fallos de software mediante actualizaciones OTA o procesos de calibración en sus centros de servicio, ofreciendo reparaciones gratuitas cuando el problema no es de hardware."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios, como El Androide Libre, han puesto el foco en los dispositivos Wearables de Samsung, mostrando que la atención editorial puede variar entre productos de la misma marca."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "047a40aaa0e8",
-      "title": "A 10 días de la crisis migratoria en Ceuta, habitantes salen a las calles y gritan \"¡Basta ya!\"",
-      "summary": "Los habitantes de Ceuta, ciudad española situada en el norte de África, se congregaron en una manifestación masiva para exigir al Gobierno español y a la UE una respuesta urgente a la crisis migratoria provocada por la llegada de decenas de miles de migrantes a finales de julio.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/europa/20260810-a-10-d%C3%ADas-de-la-crisis-migratoria-en-ceuta-habitantes-salen-a-las-calles-y-gritan-basta-ya",
-      "published_at": "2026-08-10T00:49:55+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta datos y declaraciones de distintos actores sin usar un lenguaje cargado ni favorecer explícitamente a ningún partido, manteniendo un tono informativo y equilibrado.",
-      "focus_analysis": "El medio centra la atención en la protesta ciudadana y la dimensión humanitaria de la crisis, dejando de lado un análisis profundo de las políticas migratorias nacionales y europeas.",
-      "focus_tags": [
-        "crisis migratoria",
-        "protesta ciudadana",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "cifras de la llegada",
-          "text": "El 30 de julio, según autoridades españolas, cruzaron ilegalmente a Ceuta alrededor de 72 000 migrantes, con al menos 82 fallecidos según el Instituto de Medicina Legal, mientras ONG reportan cifras de muertos superiores."
-        },
-        {
-          "label": "respuesta del gobierno español",
-          "text": "El Gobierno del PSOE anunció que trasladará a menores migrantes de los centros de acogida superpoblados de Ceuta a la península, como medida para aliviar la presión sobre el enclave."
-        },
-        {
-          "label": "situación de Ceuta y Melilla",
-          "text": "Ceuta y Melilla son ciudades españolas en el norte de África que, históricamente, han enfrentado oleadas migratorias y tensiones fronterizas, convirtiéndose en puntos críticos de la política migratoria europea."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "f5622d17dfeb",
-      "title": "Los polémicos posteos de Huracán tras la victoria en el clásico ante San Lorenzo",
-      "summary": "El club Atlético Huracán de Argentina provocó controversia en redes sociales tras vencer 2‑0 al clásico contra San Lorenzo, publicando videos con mensajes irónicos y referencias a la serie \"El Marginal\" que fueron percibidos como una falta de respeto hacia el rival.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/10/los-polemicos-posteos-de-huracan-tras-la-victoria-en-el-clasico-ante-san-lorenzo/",
-      "published_at": "2026-08-10T00:56:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos y reacciones sin usar lenguaje cargado ni favorecer a ningún club, manteniendo un tono informativo y neutro.",
-      "focus_analysis": "El artículo se centra en la polémica generada por los mensajes oficiales de Huracán y la reacción de los hinchas, dejando de lado el análisis del juego y la táctica del partido.",
-      "focus_tags": [
-        "polémica en redes",
-        "clásico argentino",
-        "celebración de gol"
-      ],
-      "context": [
-        {
-          "label": "Rivalidad histórica",
-          "text": "Huracán y San Lorenzo son dos equipos tradicionales del fútbol argentino cuyas confrontaciones, conocidas como el clásico del barrio, siempre generan gran expectación y rivalidad."
-        },
-        {
-          "label": "Sequía de victorias",
-          "text": "Antes del triunfo de 2026, Huracán no había ganado en el estadio Pedro Bidegain de San Lorenzo en 25 años, lo que hacía del resultado un hito para el club."
-        },
-        {
-          "label": "Cultura de redes en el fútbol",
-          "text": "En los últimos años, los clubes de fútbol argentinos utilizan sus cuentas oficiales para comunicarse con los seguidores, a veces provocando polémicas cuando los mensajes son percibidos como provocativos o ofensivos hacia los rivales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
