@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-10T16:26:35.446349+00:00",
+  "generated_at": "2026-08-10T16:41:45.649248+00:00",
   "articles": [
+    {
+      "id": "1cf877bdcb28",
+      "title": "Michoacán reanuda exportación de aguacate a EU; productores retoman corte y empaque tras tres días de suspensión",
+      "summary": "El estado de Michoacán retomó la exportación de aguacate a los Estados Unidos después de una pausa de tres días, reanudando las actividades de corte y empaque en los campos y plantas del sector.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/michoacan-reanuda-exportacion-de-aguacate-a-eu-productores-retoman-corte-y-empaque-tras-tres-dias-de-suspension/",
+      "published_at": "2026-08-10T16:21:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutro, sin adjetivos cargados ni citas que favorezcan una postura política; se limita a informar del anuncio del Departamento de Agricultura de EE. UU. y la reanudación de labores.",
+      "focus_analysis": "El artículo se centra en el aspecto económico del comercio de aguacate, resaltando la reanudación de la exportación, mientras omite la información sobre las amenazas a inspectores estadounidenses y la posible presión política que otros medios destacaron.",
+      "focus_tags": [
+        "economía agrícola",
+        "exportaciones",
+        "Michoacán"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En ocasiones anteriores, la exportación de aguacate mexicano a EE. UU. se ha detenido temporalmente por problemas de inspección sanitaria y por denuncias de amenazas contra inspectores, lo que ha generado tensiones comerciales."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "Estados Unidos es el principal destino del aguacate mexicano, absorbiendo la mayor parte de la producción de Michoacán, región que aporta la mayor proporción del suministro nacional."
+        },
+        {
+          "label": "Postura de otros medios",
+          "text": "Algunos medios informaron que la suspensión se debió a amenazas contra inspectores estadounidenses y que la presidenta de México, Andrés Manuel López Obrador, había señalado la intervención de grupos criminales, detalle que no aparece en la nota de El Universal."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "dae31f5e5d7d",
+      "title": "Cómo saben Google Maps y Apple Maps que hay atasco y por qué a veces falla al detectarlo",
+      "summary": "Google Maps y Apple Maps calculan la velocidad media de cada tramo usando datos anónimos de millones de dispositivos, combinándolos con históricos, reportes de usuarios y fuentes oficiales; Apple suele detectar menos atascos porque dispone de menos datos y aplica criterios más conservadores, mientras que Google tiende a marcar más rápidamente las ralentizaciones.",
+      "category": "tecnologia",
+      "source_name": "Applesfera",
+      "source_url": "https://www.applesfera.com/aplicaciones-ios/como-saben-google-maps-apple-maps-que-hay-atasco-que-a-veces-falla-al-detectarlo",
+      "published_at": "2026-08-10T15:31:16+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es descriptivo y técnico, sin lenguaje cargado ni sesgo político; se menciona la privacidad de Apple sin criticar, y no se favorece a ninguna empresa de forma evidente.",
+      "focus_analysis": "El medio se centra en el funcionamiento técnico y la privacidad de los datos de tráfico, dejando de lado el aspecto comercial y la experiencia de usuario de las apps.",
+      "focus_tags": [
+        "tráfico en tiempo real",
+        "privacidad de datos",
+        "comparación de apps"
+      ],
+      "context": [
+        {
+          "label": "Método general de detección de tráfico",
+          "text": "Las aplicaciones de navegación utilizan datos anónimos de GPS enviados por los usuarios para calcular la velocidad media de cada vía y detectar ralentizaciones, complementando con sensores, cámaras y reportes oficiales."
+        },
+        {
+          "label": "Enfoque de privacidad de Apple",
+          "text": "Apple procesa la información de rutas y patrones de movimiento en el propio dispositivo, almacenando los datos localmente y sin vincularlos a la cuenta del usuario, lo que refuerza su discurso de privacidad."
+        },
+        {
+          "label": "Cobertura alternativa",
+          "text": "Otros medios, como El Androide Libre, resaltan las nuevas funcionalidades y la integración comercial de Google Maps, enfocándose en la conveniencia y los servicios añadidos más que en la explicación técnica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "2faa39a71b15",
+      "title": "La sequía obliga a imponer restricciones de agua en casi 70% de Francia",
+      "summary": "El gobierno de Francia anunció que cerca del 70 % del territorio nacional está bajo restricciones de uso de agua debido a la grave sequía y las recientes olas de calor. Las limitaciones afectan riego, piscinas y lavado de vehículos, mientras que el agua se reserva para usos prioritarios como salud y suministro potable.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/sequia-obliga-imponer-restricciones-agua-70-francia-20260810-827474.html",
+      "published_at": "2026-08-10T16:33:10+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo emplea un tono informativo y se basa en declaraciones oficiales sin incluir opiniones políticas ni fuentes partidistas, lo que refleja una cobertura neutra.",
+      "focus_analysis": "El medio destaca el impacto ambiental y de recursos hídricos de la sequía, centrando la atención en las medidas de restricción y su vínculo con el cambio climático, pero no aborda la discusión política sobre la gestión del agua ni la reacción de la población.",
+      "focus_tags": [
+        "agua",
+        "sequía",
+        "restricciones"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En los últimos años, Europa ha registrado olas de calor récord y sequías más intensas, fenómenos asociados al cambio climático que han incrementado la escasez de agua en varias regiones."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "Francia ya había declarado estados de alerta hídrica en ocasiones anteriores, como en 2022, cuando se impusieron restricciones parciales en algunas áreas del sur del país."
+        },
+        {
+          "label": "Postura de actores",
+          "text": "El Ministerio de la Transición Ecológica ha señalado que la sequía se agrava por la falta de precipitaciones y el aumento de la demanda agrícola y turística, instando a adoptar medidas de ahorro."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "7d9df5acfeb5",
+      "title": "La brecha equivocada",
+      "summary": "El columnista Eduardo Rodríguez Manchón, en Letras Libres, muestra que aunque la diferencia de acceso a chatbots como ChatGPT entre hombres y mujeres en México se ha equilibrado, persiste una brecha de intensidad y de uso de herramientas de IA más avanzadas, donde los hombres predominan.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/politica/la-brecha-equivocada/10/08/2026/",
+      "published_at": "2026-08-10T06:58:33+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto enfatiza la desigualdad de género y utiliza un tono crítico que destaca la necesidad de corregir la brecha, lo que refleja una postura ligeramente progresista.",
+      "focus_analysis": "El artículo se centra en la perspectiva de género y en el uso intensivo de IA, dejando de lado la dimensión institucional y las políticas públicas que podrían influir en la brecha.",
+      "focus_tags": [
+        "género",
+        "IA",
+        "brecha tecnológica"
+      ],
+      "context": [
+        {
+          "label": "Dato global",
+          "text": "A nivel mundial, los hombres tienden a usar herramientas de inteligencia artificial orientadas a la programación y la creación de contenido de forma más frecuente que las mujeres, según estudios de Pew Research y otras encuestas internacionales."
+        },
+        {
+          "label": "Política pública mexicana",
+          "text": "El gobierno de México lanzó en 2023 su Estrategia Nacional de Inteligencia Artificial, que busca fomentar la adopción de IA en todos los sectores, pero todavía no incluye medidas específicas para reducir la brecha de género en el uso de estas tecnologías."
+        },
+        {
+          "label": "Postura de expertos",
+          "text": "Investigadores como Anders Humlum y Emilie Vestergaard ya habían señalado en 2023 una menor probabilidad de uso de chatbots por parte de mujeres danesas, lo que respalda la observación de Rodríguez Manchón sobre la persistencia de diferencias de intensidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "42aaa144028a",
+      "title": "Fallecen 7 personas por una bacteria carnívora en Luisiana y Florida; autoridades piden tomar precauciones",
+      "summary": "La bacteria Vibrio vulnificus, conocida como \"bacteria carnívora\", provocó la muerte de siete personas en los estados de Luisiana y Florida, EE. UU., y las autoridades sanitarias exhortan a la población a evitar entrar al mar con heridas abiertas o consumir mariscos crudos como medida de prevención.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/fallecen-7-personas-por-una-bacteria-carnivora-en-luisiana-y-florida-autoridades-piden-tomar-precauciones/",
+      "published_at": "2026-08-10T16:25:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y neutral, citando fuentes oficiales como el Departamento de Salud estatal y los CDC, sin emplear vocabulario cargado ni favorecer una postura política.",
+      "focus_analysis": "El medio se centró en el aspecto sanitario y de prevención de la infección bacteriana, dejando de lado el impacto económico en la industria pesquera y la respuesta política a nivel estatal o federal.",
+      "focus_tags": [
+        "salud pública",
+        "bacteria",
+        "precauciones marinas"
+      ],
+      "context": [
+        {
+          "label": "Incidencia nacional de Vibrio vulnificus",
+          "text": "Según los Centros para el Control y la Prevención de Enfermedades (CDC), cada año se reportan entre 150 y 200 casos de infección por Vibrio vulnificus en Estados Unidos, con una tasa de mortalidad cercana al 20% en los casos graves."
+        },
+        {
+          "label": "Vínculo con el cambio climático",
+          "text": "Un estudio del Departamento de Agricultura de EE. UU. (USDA) estima que, debido al aumento de la temperatura del mar, los casos de infecciones por esta bacteria podrían incrementarse en un 50% para 2090, generando costos de salud y ambientales significativos."
+        },
+        {
+          "label": "Recomendaciones de salud pública anteriores",
+          "text": "En años previos, los CDC y los departamentos de salud estatales han emitido alertas durante los meses de verano, aconsejando a los bañistas y consumidores de mariscos cerrar heridas antes de entrar al agua y cocinar bien los productos del mar para reducir el riesgo de infección."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "46805b59542a",
+      "title": "La Casa de los Famosos México EN VIVO: Ximena se convirtió en la segunda eliminada y comienza “El Exilio” junto a Mariana",
+      "summary": "La reality show La Casa de los Famosos México 2026 eliminó a Ximena Herrera, quien fue enviada al nuevo espacio llamado “El Exilio” junto a Mariana Ochoa, donde el público decidirá quién regresa al juego.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/09/la-casa-de-los-famosos-mexico-2026-en-vivo-quien-sera-el-segundo-eliminado/",
+      "published_at": "2026-08-10T16:36:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo describe de manera neutra los acontecimientos del programa, sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniéndose centrado en el entretenimiento.",
+      "focus_analysis": "El medio se enfocó en el aspecto humano y de espectáculo del reality, resaltando la eliminación y la dinámica del Exilio, dejando de lado la estrategia de producción o la repercusión en la industria televisiva.",
+      "focus_tags": [
+        "reality show",
+        "eliminación",
+        "dinámica de exilio"
+      ],
+      "context": [
+        {
+          "label": "Formato",
+          "text": "El concepto de “El Exilio” es una variante del formato de La Casa de los Famosos que ya se había usado en la versión estadounidense de Telemundo, aunque en México era desconocido hasta esta temporada."
+        },
+        {
+          "label": "Reacción del público",
+          "text": "Tras la llegada de Ximena y Mariana al Exilio, los internautas generaron numerosos memes y comentarios sobre su apariencia, evidenciando la interacción de la audiencia en redes sociales."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "El Sol de México resaltó la posibilidad de que Ximena Herrera regrese al juego si supera el Exilio, poniendo énfasis en el potencial de retorno, mientras que Infobae se limitó a describir la eliminación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "f92c9212a14b",
       "title": "Eclipse total de sol en España: ¿podrá verse desde México?",
@@ -840,216 +1050,6 @@
       "confidence": "media",
       "qc": {
         "overall": 9.6
-      }
-    },
-    {
-      "id": "fcfb55198716",
-      "title": "Sheinbaum asegura que corresponde al INE regular uso de IA en campañas electorales; \"no sé si lo harán o no\", dice",
-      "summary": "La presidenta de México, Claudia Sheinbaum Pardo, declaró que corresponde al Instituto Nacional Electoral regular la utilización de inteligencia artificial en las próximas campañas electorales, aunque admitió que desconoce si el INE emitirá dichos lineamientos.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/sheinbaum-asegura-que-corresponde-al-ine-regular-uso-de-ia-en-campanas-electorales-no-se-si-lo-haran-o-no-dice/",
-      "published_at": "2026-08-10T15:40:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, sin adjetivos cargados ni citas de fuentes opositoras, y se limita a presentar la postura de la presidenta y la competencia institucional del INE.",
-      "focus_analysis": "El artículo se centra en el aspecto institucional y regulatorio del uso de IA en la política electoral, dejando de lado la polémica mediática y los enfrentamientos políticos que aparecen en otras coberturas.",
-      "focus_tags": [
-        "regulación IA",
-        "instituciones electorales",
-        "política mexicana"
-      ],
-      "context": [
-        {
-          "label": "Institución electoral",
-          "text": "El Instituto Nacional Electoral (INE) es el organismo autónomo encargado de organizar y supervisar los procesos electorales en México, y tiene facultades para establecer normas que garanticen la equidad y la legalidad de la campaña."
-        },
-        {
-          "label": "Plan A de la reforma electoral",
-          "text": "En la propuesta conocida como Plan A, incluida en la reforma electoral, se contempló la regulación del uso de inteligencia artificial en campañas, pero la medida no fue aprobada en la legislación vigente."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios, como Etcetera, resaltaron que Sheinbaum también criticó a la cadena Tv Azteca y defendió que su gobierno no practica la censura, mostrando un enfoque más confrontacional y político."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "9b167feef383",
-      "title": "El EZLN busca manifestarse afuera de la Segob en su visita a la CDMX con personas buscadoras: “México no es la 4T”",
-      "summary": "El Ejército Zapatista de Liberación Nacional (EZLN) comunicó que organizará una marcha frente a la Secretaría de Gobernación en la Ciudad de México en diciembre, con el fin de encontrarse con familias de desaparecidos y manifestar que México no se rige por la Cuarta Transformación.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/10/ezln-realizaria-un-mitin-afuera-de-la-segob-en-su-visita-a-la-cdmx-con-personas-buscadoras-mexico-no-es-la-4t/",
-      "published_at": "2026-08-10T15:25:52+00:00",
-      "bias_score": -25,
-      "bias_reason": "El texto privilegia la voz del EZLN y su crítica al gobierno, usando términos como \"repudio\" y \"denuncia\" sin presentar respuestas oficiales, lo que le otorga un matiz ligeramente izquierdista.",
-      "focus_analysis": "El medio se centra en la perspectiva activista del EZLN y su demanda de verdad y justicia para los desaparecidos, dejando de lado el análisis del impacto político o económico del acto y la reacción del gobierno.",
-      "focus_tags": [
-        "derechos humanos",
-        "protesta política",
-        "desaparecidos"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "El EZLN surgió en 1994 en Chiapas como un movimiento indígena que ha mantenido una postura crítica frente al Estado mexicano y a los gobiernos federales."
-        },
-        {
-          "label": "Marco político",
-          "text": "La Cuarta Transformación, impulsada por el presidente Andrés Manuel López Obrador, es el proyecto político del gobierno actual que el EZLN cuestiona en su comunicado."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como Aristegui Noticias, mencionan el viaje del EZLN dentro de una agenda más amplia que incluye deportes y denuncias de corrupción, lo que muestra una presentación menos centrada en la postura zapatista."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "7d9df5acfeb5",
-      "title": "La brecha equivocada",
-      "summary": "En su columna de Letras Libres, Eduardo Rodríguez Manchón muestra que la brecha de género en la inteligencia artificial ya no se mide por la frecuencia de acceso, sino por la mayor intensidad y uso de herramientas de creación y programación por parte de los hombres, mientras que las mujeres la utilizan mayormente de forma ocasional.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/politica/la-brecha-equivocada/10/08/2026/",
-      "published_at": "2026-08-10T06:58:33+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se apoya en datos de encuestas y evita un lenguaje cargado o fuentes partidistas, presentando la cuestión de género de manera descriptiva y equilibrada.",
-      "focus_analysis": "Ángulo centrado en la diferencia de intensidad de uso de herramientas de IA entre hombres y mujeres, dejando fuera el análisis de causas estructurales y propuestas de políticas públicas.",
-      "focus_tags": [
-        "género y tecnología",
-        "brecha de uso",
-        "IA generativa"
-      ],
-      "context": [
-        {
-          "label": "Histórico",
-          "text": "Tradicionalmente, la participación femenina en campos de programación y desarrollo tecnológico ha sido menor que la masculina, lo que ha generado brechas de género en la industria digital."
-        },
-        {
-          "label": "Datos recientes",
-          "text": "Según la encuesta de Pew Research de junio de 2026, el uso de chatbots como ChatGPT es casi idéntico entre hombres y mujeres en México, pero los hombres lo utilizan con mayor frecuencia diaria y en herramientas más avanzadas como Claude o Copilot."
-        },
-        {
-          "label": "Marco legal",
-          "text": "En México, la Ley de Igualdad de Género (2020) busca reducir las brechas en acceso y participación en sectores tecnológicos, aunque los datos actuales indican que la desigualdad persiste en el uso intensivo de IA."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "83ede95a2fb6",
-      "title": "Los desgarradores gritos de la figura de Racing que sufrió una dura lesión en la derrota con Argentinos",
-      "summary": "Marcos Di Césare, defensor del Racing Club de Argentina, se rompió el peroné en el segundo tiempo del partido contra Argentinos Juniors del Torneo Clausura, quedando fuera de la acción durante varios meses.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/10/los-desgarradores-gritos-de-la-figura-de-racing-que-sufrio-una-dura-lesion-en-la-derrota-con-argentinos/",
-      "published_at": "2026-08-10T14:51:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir el incidente y sus consecuencias deportivas sin emplear un lenguaje cargado ni citar fuentes con inclinación política.",
-      "focus_analysis": "El medio se centró en el drama humano del jugador lesionado y el problema para el entrenador, omitiendo un análisis táctico más amplio del encuentro.",
-      "focus_tags": [
-        "lesión deportiva",
-        "impacto en equipo",
-        "Racing Club"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Racing Club ha tenido una temporada irregular en el Torneo Clausura, con resultados mixtos que lo mantienen en la mitad de la tabla."
-        },
-        {
-          "label": "dato comparativo",
-          "text": "Las fracturas de peroné son lesiones graves pero poco frecuentes en futbolistas, y suelen requerir entre tres y seis meses de rehabilitación."
-        },
-        {
-          "label": "postura de otro actor",
-          "text": "El VAR del fútbol argentino ha sido cada vez más decisivo en decisiones disciplinarias, como la expulsión de Maravilla Martínez tras revisión de un codazo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "a6302b496746",
-      "title": "Empresario \"El Güino\" y 17 personas ingresan a penal de Torreón; enfrentarán varios cargos tras operativo en Costco",
-      "summary": "El empresario lagunero Ernesto \"N\" conocido como \"El Güino\" y 17 personas fueron ingresados al Centro Penitenciario Varonil de Torreón tras ser detenidos por cargos de violencia contra miembros de seguridad, amenazas, cohecho y usurpación de funciones, como resultado de un operativo policial en la tienda Costco de la ciudad.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/empresario-el-guino-y-17-personas-ingresan-a-penal-de-torreon-enfrentaran-varios-cargos-tras-operativo-en-costco/",
-      "published_at": "2026-08-10T15:25:35+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje mayormente descriptivo y evita calificativos cargados; se limita a reportar hechos y cargos sin incluir opiniones ni fuentes con sesgo político.",
-      "focus_analysis": "El medio se centra en la dimensión de seguridad y criminalidad del hecho, resaltando la operatividad policial y los cargos, mientras omite el contexto económico del negocio ni el impacto social en la comunidad local.",
-      "focus_tags": [
-        "seguridad pública",
-        "delitos",
-        "operativo policial"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de inseguridad en Coahuila",
-          "text": "Coahuila ha registrado en los últimos años varios episodios de violencia vinculada a grupos delictivos, lo que ha llevado a las autoridades estatales a reforzar la presencia de la Guardia Nacional y el Ejército en la región."
-        },
-        {
-          "label": "Objetivo comercial como foco de delitos",
-          "text": "Tiendas de gran cadena como Costco han sido señaladas en ocasiones por ser blanco de extorsiones y actos de violencia, motivando operativos de seguridad para proteger a los consumidores y al personal."
-        },
-        {
-          "label": "Coordinación de fuerzas federales y locales",
-          "text": "El operativo que resultó en la detención de \"El Güino\" contó con la participación conjunta del Ejército Mexicano, la Guardia Nacional y el Mando Especial de La Laguna, reflejando la estrategia de intervención múltiple en casos de alto riesgo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "ffd2adeb1d1c",
-      "title": "Última hora del terremoto en Colombia, en directo | Al menos 25 muertos por el terremoto de magnitud 7,4 en Colombia",
-      "summary": "El terremoto de magnitud 7,4 que sacudió Colombia provocó al menos 25 fallecidos, dejó colapsadas más de veinte estructuras en Cali con personas dentro y causó heridos en Quibdó.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html",
-      "published_at": "2026-08-10T15:28:35+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos objetivos sin usar vocabulario cargado ni fuentes con carga ideológica; su estilo es similar al de otros medios internacionales que cubren el mismo hecho.",
-      "focus_analysis": "El artículo se centra en el número de víctimas y los daños inmediatos a la infraestructura, omitiendo el impacto económico a largo plazo y la respuesta institucional del gobierno.",
-      "focus_tags": [
-        "terremoto",
-        "colombia",
-        "daños infraestructura"
-      ],
-      "context": [
-        {
-          "label": "Epicentro y magnitud",
-          "text": "El sismo tuvo su epicentro en la zona de San José del Palmar, en el departamento de Chocó, y alcanzó una magnitud de 7,4 en la escala de Richter."
-        },
-        {
-          "label": "Histórico sísmico",
-          "text": "Colombia ha experimentado varios terremotos fuertes en las últimas décadas, como el de 1999 en Armenia, que dejó cientos de muertos y provocó la reconstrucción de amplias zonas urbanas."
-        },
-        {
-          "label": "Respuesta gubernamental",
-          "text": "Las autoridades locales declararon estado de emergencia, activaron brigadas de rescate y suspendieron operaciones en seis aeropuertos para garantizar la seguridad de los vuelos."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
