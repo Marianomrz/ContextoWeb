@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T13:25:15.069033+00:00",
-      "title": "Terremoto de 7,4 sacude a Colombia; gobernadora de Chocó reporta \"heridos y graves daños”",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere confirmar la exactitud de la cifra de magnitud y los daños una vez disponibles los informes oficiales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:25:21.514497+00:00",
-      "title": "Euro hoy en México: cotización de apertura del 10 de agosto",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando datos precisos y objetivos de manera clara y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:25:26.087690+00:00",
-      "title": "'La Odisea' le acaba de quitar un trono a 'Avatar: ya es la película más taquillera de la historia d",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la estructura y actualidad, pero falla gravemente en veracidad y contraste de fuentes, lo que compromete su publicación como noticia fiable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:25:31.238845+00:00",
-      "title": "Barcelona sólo ha reflejado el poder de La Masia en la Selección de España y tiene una deuda pendien",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta problemas graves de veracidad y falta de fuentes contrastadas, aunque mantiene objetividad y está bien estructurado y actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:25:40.809577+00:00",
-      "title": "La brecha equivocada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está estructurado adecuadamente, pero le falta contraste de fuentes y mayor evidencia verificable, lo que reduce su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:25:46.832323+00:00",
-      "title": "¿Plagio o coincidencia? El caso del Dr. Gualli y el parecido con el Dr. Simi",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple razonablemente con la estructura y actualidad, pero necesita más fuentes contrastantes y mayor precisión verificable para alcanzar un estándar editorial completo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:25:51.754871+00:00",
-      "title": "El homenaje para Juan Manuel Fangio en el nuevo circuito de Buenos Aires para recibir a la Fórmula 1",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando información veraz, actual y estructurada, aunque podría beneficiarse de fuentes adicionales para reforzar la credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:25:58.993396+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El presidente de Ceuta pide al Gobier",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la verificación de datos y la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:26:04.868548+00:00",
-      "title": "¿Qué está pasando en el Metro y Metrobús hoy 10 de agosto?: líneas 8 y B presentan marcha lenta",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con los estándares de objetividad y actualidad, pese a una menor imprecisión en la identificación de líneas y estaciones.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:36:09.215917+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete está actualizado y estructurado adecuadamente, pero contiene datos falsos y un claro sesgo, lo que compromete su veracidad y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:36:13.347766+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El presidente de Ceuta pide al Gobier",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, reciente y estructurada, aunque podría beneficiarse de una mayor variedad de fuentes para enriquecer el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T13:36:21.193695+00:00",
-      "title": "Ojo si compraste un Steam Machine o Steam Controller: tus datos pueden haberse filtrado en un hackeo",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y cumple con los criterios de calidad periodística, aunque podría reforzar la veracidad con fuentes citadas y datos específicos.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T13:36:28.157611+00:00",
       "title": "Grecia Quiroz exige justicia por Carlos Manzo durante su segundo informe",
       "kind": "noticia",
@@ -3392,6 +3188,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero presenta errores de precisión que deben corregirse antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:40:47.401579+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "Aunque la pieza es o y está bien estructurada, falla gravemente en veracidad, contraste de fuentes y objetividad, lo que la hace inadecuada para publicación sin corrección.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:40:52.171915+00:00",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy lunes 10 de agosto: vigilan dos zonas de baja presión sob",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de precisión, actualidad y objetividad, ofreciendo una cobertura clara y bien estructurada del tema meteorológico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:40:56.214120+00:00",
+      "title": "Última hora del terremoto en Colombia, en directo | Al menos 80 muertos por el terremoto de magnitud",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general estructurado y objetivo, pero contiene errores de veracidad que deben corregirse antes de la publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:01.888524+00:00",
+      "title": "Presidente de Colombia, Abelardo de la Espriella, declara desastre nacional tras terremoto en Colomb",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra buena estructura y objetividad, pero la falta de veracidad en datos clave (nombre del presidente y cifras) compromete su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:07.089451+00:00",
+      "title": "El reencuentro entre una actriz y una figura del fútbol que reavivó el triángulo amoroso con un camp",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo no cumple con los estándares de veracidad y fuentes confiables; necesita correcciones antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:10.922586+00:00",
+      "title": "Los Picos de Europa escondían otra montaña subterránea: más de mil kilos de basura, el efecto de año",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la robustez de sus fuentes y proporcionar citas verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:23.039765+00:00",
+      "title": "La brecha equivocada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero la falta de fuentes verificables y de perspectivas contrastantes afecta su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:27.888275+00:00",
+      "title": "China fija cuotas antidumping de entre 17.8% y 51.6% a las nueces pecanas de México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y objetivo, aunque la falta de fuentes explícitas para los datos numéricos reduce la certeza de la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:34.075137+00:00",
+      "title": "Quién fue “Diana La Cazadora”, exluchadora y reportera de Televisa que murió a las 48 años de edad",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando una noticia objetiva, actual y bien estructurada; solo se podría reforzar la diversidad de fuentes en contextos más polémicos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:39.921490+00:00",
+      "title": "Un hombre increpa a Bendodo en plena rueda de prensa del PP en Barcelona",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra inconsistencias internas y carece de fuentes contrastadas, aunque está bien estructurado y es actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:43.453799+00:00",
+      "title": "Riña en penal de Atlacholoaya deja un interno muerto; autoridades investigan ataque con armas blanca",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de rigor, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T17:41:47.493023+00:00",
+      "title": "Sigue la cuarta fecha del Torneo Clausura con dos partidos: Belgrano visitará a Banfield y Unión rec",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de manera clara y estructurada.",
       "error": null
     }
   ]
