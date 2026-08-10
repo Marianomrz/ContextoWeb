@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-10T03:41:15.983142+00:00",
+  "generated_at": "2026-08-10T04:05:58.059991+00:00",
   "articles": [
+    {
+      "id": "8520e20f302a",
+      "title": "Se registra sismo de 4.4 de magnitud",
+      "summary": "El Servicio Sismológico Nacional de México informó que un sismo de magnitud 4.4 se originó cerca de Puerto Vallarta, Jalisco, sin causar daños aparentes y recomendó a la población mantenerse alerta y seguir las indicaciones oficiales.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/10/se-registra-sismo-de-44-de-magnitud/",
+      "published_at": "2026-08-10T04:01:11+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y neutro, citando exclusivamente fuentes oficiales y evitando lenguaje cargado o juicios de valor.",
+      "focus_analysis": "El medio se centra en la descripción del evento sísmico y las recomendaciones de seguridad, dejando de lado cualquier análisis económico o de impacto humano directo.",
+      "focus_tags": [
+        "sismo",
+        "seguridad pública",
+        "alerta sísmica"
+      ],
+      "context": [
+        {
+          "label": "Entorno tectónico de México",
+          "text": "México se sitúa sobre la zona de subducción de la placa Cocos bajo la placa Norteamericana, lo que genera una actividad sísmica constante con numerosos temblores de baja magnitud al día."
+        },
+        {
+          "label": "Historia de terremotos graves",
+          "text": "Los terremotos de 1985 (magnitud 8.2) y 2017 (magnitud 7.1) causaron graves daños y pérdidas humanas en la Ciudad de México y áreas circundantes, marcando la memoria colectiva del país."
+        },
+        {
+          "label": "Sistema de alerta sísmica",
+          "text": "México cuenta con una red de sensores que cubre ocho ciudades, incluido Guadalajara, y que emite alertas tempranas cuando se detectan sismos suficientemente fuertes, aunque su alcance depende de la proximidad del epicentro."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
+    {
+      "id": "21c164873daa",
+      "title": "La AFAC establecerá nuevas bases para asignar slots en aeropuertos saturados",
+      "summary": "La Agencia Federal de Aviación Civil (AFAC) de México publicará pronto nuevas bases y prioridades para asignar los horarios de aterrizaje y despegue (slots) en aeropuertos declarados en saturación nivel 3, con el objetivo de hacerlo de forma imparcial, transparente y eficiente.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/afac-establecera-nuevas-bases-asignar-slots-aeropuertos-saturados-20260809-827389.html",
+      "published_at": "2026-08-10T03:57:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje técnico y descriptivo, sin palabras cargadas ni citas que favorezcan una posición política o empresarial específica.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y regulatorio de la asignación de slots, resaltando la normativa y la eficiencia operativa, mientras deja de lado el impacto directo en los pasajeros y las aerolíneas.",
+      "focus_tags": [
+        "regulación aérea",
+        "asignación de slots",
+        "infraestructura aeroportuaria"
+      ],
+      "context": [
+        {
+          "label": "Situación actual",
+          "text": "El Aeropuerto Internacional de la Ciudad de México (AICM) es el único aeropuerto mexicano clasificado en nivel 3 de saturación, con una capacidad de 46 slots por hora, aunque antes de la declaración de saturación alcanzaba alrededor de 70."
+        },
+        {
+          "label": "Normas internacionales",
+          "text": "Las nuevas bases de la AFAC se alinean con las Worldwide Airport Slot Guidelines (WASG), que son adoptadas por la mayoría de los operadores aéreos a nivel global para gestionar la asignación de horarios en aeropuertos congestionados."
+        },
+        {
+          "label": "Ejemplos de reformas similares",
+          "text": "En Estados Unidos y la Unión Europea se han implementado mecanismos de asignación de slots y comités de supervisión para mejorar la puntualidad y evitar el uso indebido de horarios en aeropuertos con alta demanda, como Chicago O'Hare y Londres Heathrow."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "c2d29d14b076",
+      "title": "No eres solo tú: el Galaxy S26 Ultra tiene un molesto problema en la pantalla, pero una solución está en camino",
+      "summary": "El Samsung Galaxy S26 Ultra presenta un tinte rojizo en la pantalla que, según la compañía coreana, se debe a un error de software y será corregido mediante una actualización o calibración gratuita en tiendas oficiales.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/mobile/samsung-galaxy-s26-ultra-problema-pantalla-rojiza-tiene-solucion/",
+      "published_at": "2026-08-09T18:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo mantiene un tono informativo y neutral, citando solo a Samsung sin usar lenguaje cargado ni presentar opiniones políticas o de competencia.",
+      "focus_analysis": "El medio se centra en el aspecto técnico y de consumo del fallo de pantalla y su solución, dejando de lado la perspectiva de responsabilidad corporativa o el impacto en la competitividad del mercado de smartphones.",
+      "focus_tags": [
+        "tecnología",
+        "smartphones",
+        "software"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Samsung ha experimentado en el pasado problemas de color en pantallas de lanzamientos recientes, como el Galaxy S21, los cuales fueron resueltos mediante actualizaciones de software."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "Es habitual que los smartphones de gama alta presenten fallos de software al inicio de su ciclo de vida, los cuales suelen corregirse con parches OTA, como ocurrió con problemas de calibración de color de Apple."
+        },
+        {
+          "label": "Postura de otros actores",
+          "text": "El medio El Androide Libre destacó la capacidad de Samsung para lanzar dispositivos de alta gama exitosos, lo que sugiere confianza en la rápida solución del problema del Galaxy S26 Ultra."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "b3a095848b3d",
+      "title": "Así están las posiciones del Clausura y de la Tabla Anual: los saltos de Huracán, Gimnasia y Racing y la dura situación de San Lorenzo",
+      "summary": "El portal Infobae Deportes informa que en la cuarta fecha del Torneo Clausura de la Primera División argentina, Huracán, Gimnasia y Racing lograron ascensos en la tabla, mientras que San Lorenzo quedó en el último lugar de la zona A tras perder contra Huracán, en un contexto marcado por la muerte del padre de Lionel Messi.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/09/asi-estan-las-posiciones-del-torneo-clausura-y-de-la-tabla-anual-los-saltos-de-huracan-y-gimnasia-y-la-dura-situacion-de-san-lorenzo/",
+      "published_at": "2026-08-10T02:35:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los resultados y cambios de posición de forma descriptiva, sin usar lenguaje cargado ni favorecer a ningún club, lo que indica una cobertura neutra.",
+      "focus_analysis": "El artículo se centra en el desempeño deportivo y la clasificación de los equipos en la liga, dejando de lado análisis de gestión institucional o repercusiones económicas del torneo.",
+      "focus_tags": [
+        "posiciones liga",
+        "torneo clausura",
+        "fútbol argentino"
+      ],
+      "context": [
+        {
+          "label": "Estructura del campeonato",
+          "text": "La Primera División de Argentina se divide en torneos Apertura y Clausura, con una tabla anual que determina los cupos para la Copa Libertadores y la Sudamericana, así como los descensos."
+        },
+        {
+          "label": "Muerte de Jorge Messi",
+          "text": "El fallecimiento de Jorge Messi, padre de Lionel Messi, provocó un minuto de silencio en los partidos del domingo y fue mencionado como un hecho que marcó la jornada."
+        },
+        {
+          "label": "Situación de San Lorenzo",
+          "text": "San Lorenzo ha atravesado una fase difícil en la zona A del Clausura, ocupando el último puesto tras la derrota contra Huracán, lo que pone en riesgo su permanencia en la categoría."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "d38c68750227",
+      "title": "¿Qué significa el punto azul que aparece en la pantalla de tu celular?",
+      "summary": "El punto azul que aparece en la barra de estado de los teléfonos Android indica que una aplicación está accediendo a la ubicación del dispositivo, una función de privacidad introducida por Google para que los usuarios detecten usos de permisos sensibles.",
+      "category": "tecnologia",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/techbit/que-significa-el-punto-azul-que-aparece-en-la-pantalla-de-tu-celular/",
+      "published_at": "2026-08-10T03:40:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se escribe con tono informativo y neutral, sin lenguaje cargado ni selección de fuentes que favorezcan una posición política o comercial.",
+      "focus_analysis": "El medio elige el ángulo tecnológico y de privacidad, explicando el funcionamiento del indicador y cómo revisarlo, mientras omite la discusión sobre riesgos de seguridad más amplios o el impacto de la legislación de protección de datos.",
+      "focus_tags": [
+        "privacidad",
+        "Android",
+        "indicador ubicación"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Android introdujo en 2020 indicadores de colores en la barra de estado —verde para cámara, naranja para micrófono— con el objetivo de hacer visibles los accesos a sensores sensibles."
+        },
+        {
+          "label": "Comparación internacional",
+          "text": "iOS de Apple muestra un punto azul en la barra superior cuando una aplicación usa la ubicación, lo que ha inspirado a Google a adoptar un mecanismo similar en Android."
+        },
+        {
+          "label": "Marco regulatorio",
+          "text": "Regulaciones como el GDPR en Europa y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares en México impulsan a los sistemas operativos a ofrecer mayor transparencia sobre el uso de datos personales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "6c22699cbd18",
+      "title": "¿Quieres saber quiénes ganaron en Tris? Aquí están los números afortunados",
+      "summary": "La Lotería Nacional de México dio a conocer los números ganadores de los distintos sorteos de Tris y detalló los documentos y plazos necesarios para que los participantes reclamen sus premios.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/10/quieres-saber-quienes-ganaron-en-tris-aqui-estan-los-numeros-afortunados/",
+      "published_at": "2026-08-10T04:01:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y descriptivo, sin palabras cargadas ni selección de fuentes que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El medio se centró en presentar los resultados del sorteo y los requisitos administrativos para cobrar los premios, dejando fuera cualquier análisis sobre el impacto social o económico del juego de lotería.",
+      "focus_tags": [
+        "lotería",
+        "resultados",
+        "trí"
+      ],
+      "context": [
+        {
+          "label": "modalidades_tris",
+          "text": "Tris es un juego de la Lotería Nacional que se realiza cinco veces al día con distintas modalidades (Mediodía, de las Tres, Extra, de las Siete y Clásico), cada una con su propio número de sorteo y premio potencial."
+        },
+        {
+          "label": "finanzas_publicas",
+          "text": "Los premios no reclamados dentro de los 60 días pasan a la Tesorería de la Federación, destinándose a la Asistencia Pública, lo que muestra cómo los ingresos de la lotería contribuyen al presupuesto estatal."
+        },
+        {
+          "label": "cobertura_otros_medios",
+          "text": "Otros medios mexicanos, como El Universal y Milenio, también publican los resultados de Tris, enfocándose en los números ganadores y en los pasos para reclamar los premios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "00ea30be58d6",
       "title": "EU registra una pérdida inesperada de puestos de trabajo",
@@ -839,217 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "5d196f46b67a",
-      "title": "Cuando el polvo del Sahel se vuelve tinta: la magia de la narrativa africana",
-      "summary": "Un vaso de barro roto, con la luz del atardecer filtrándose por sus grietas, deja ver cómo el polvo del Sahel se vuelve tinta. Esa luz que se cuela entre los fragmentos escribe la historia de autores que convierten la aridez en poesía, y nos invita a escuchar el rumor de los oasis que nunca existen. En la página, el silencio del desierto se vuelve canción, y el lector se vuelve viajero de un paisaje que no se dibuja, sino que se saborea.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-10T02:42:10.521133+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy el Sahel, bajo la presión del cambio climático, se vuelve símbolo de resiliencia y de imaginación desbordante. Elegí este ángulo para mostrar cómo la literatura africana contemporánea transforma la escasez en un festín de imágenes, ofreciendo una visión fresca y esperanzadora. Además, la metáfora del vaso roto refleja la fragmentación de la identidad y la capacidad de recomponerse en nuevas narrativas.",
-      "focus_tags": [
-        "realismo mágico",
-        "África",
-        "Siglo XXI"
-      ],
-      "context": [
-        {
-          "label": "Autor",
-          "text": "Nnedi Okorafor, escritora nigeriana‑estadounidense, combina ciencia ficción y mitología africana; su obra destaca por la capacidad de mezclar lo cotidiano con lo fantástico sin perder la raíz cultural."
-        },
-        {
-          "label": "Obras recomendadas",
-          "text": "‘La chica del agua’ (The Book of Phoenix) y ‘Binti’ son novelas cortas que convierten la travesía espacial en una odisea de pertenencia, donde la protagonista lleva consigo la savia de su planeta natal."
-        },
-        {
-          "label": "Contexto histórico",
-          "text": "Desde la década de 2000, la literatura africana ha experimentado un renacimiento de voces que adoptan el realismo mágico para abordar postcolonialismo, migración y tecnología, creando un mosaico de relatos que resisten la homogeneización global."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "71f94742d612",
-      "title": "Arriban al puerto de Acapulco dos toneladas de cocaína asegurada por la Semar; fueron localizadas en el Océano Pacífico",
-      "summary": "La Secretaría de Marina de México (Semar) interceptó dos toneladas de cocaína en el Océano Pacífico cerca de Acapulco y detuvo a seis personas, tres mexicanas y tres ecuatorianas, vinculadas al narcotráfico.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/arriba-al-puerto-de-acapulco-dos-toneladas-de-cocaina-asegurada-por-la-semar-fueron-localizadas-en-el-oceano-pacifico/",
-      "published_at": "2026-08-10T02:30:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin adjetivos cargados ni fuentes que favorezcan una postura política específica.",
-      "focus_analysis": "El artículo se centra en la acción institucional y de seguridad marítima de la Semar, dejando fuera el impacto social del narcotráfico y la perspectiva de los traficantes.",
-      "focus_tags": [
-        "seguridad marítima",
-        "operaciones de la Semar",
-        "intercepción de droga"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En los últimos años, la Marina de México ha intensificado sus operativos en el Pacífico, logrando varias incautaciones de drogas que superan las toneladas anuales."
-        },
-        {
-          "label": "datos comparables",
-          "text": "Según datos oficiales, en 2025 la Semar reportó la captura de aproximadamente 1,5 toneladas de cocaína en aguas mexicanas, lo que indica una tendencia al alza en la actividad delictiva marítima."
-        },
-        {
-          "label": "postura de otros actores",
-          "text": "Organizaciones internacionales como la ONU contra la Droga y el Delito han llamado a reforzar la cooperación regional para combatir el tráfico de estupefacientes en el océano Pacífico."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "d99d60ae58a2",
-      "title": "Oro toca máximo en siete semanas tras débiles datos de empleo en EU",
-      "summary": "El precio del oro alcanzó su nivel más alto en siete semanas después de que los datos de empleo de Estados Unidos mostraran una caída inesperada de las nóminas no agrícolas, lo que redujo las expectativas de una subida de tipos de la Reserva Federal.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/mercados/oro-toca-maximo-siete-semanas-debiles-datos-empleo-eu-20260809-827374.html",
-      "published_at": "2026-08-10T02:38:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono informativo y objetivo, citando datos oficiales y analistas sin usar lenguaje cargado ni favorecer a ninguna posición política.",
-      "focus_analysis": "El medio se centró en el impacto económico‑financiero del dato de empleo, destacando la reacción del mercado del oro y las expectativas de política monetaria, dejando de lado cualquier perspectiva humana o social del desempleo.",
-      "focus_tags": [
-        "mercado financiero",
-        "oro",
-        "empleo EE.UU."
-      ],
-      "context": [
-        {
-          "label": "Datos de empleo EE.UU.",
-          "text": "Según la Oficina de Estadísticas Laborales, las nóminas no agrícolas de julio disminuyeron en 23 000 puestos, muy por debajo de las previsiones de crecimiento de 80 000."
-        },
-        {
-          "label": "Política monetaria de la Fed",
-          "text": "Las expectativas de una política más restrictiva de la Reserva Federal se redujeron tras el informe de empleo, lo que suele impulsar la compra de activos refugio como el oro."
-        },
-        {
-          "label": "Oro como refugio",
-          "text": "Históricamente, el oro tiende a subir cuando el dólar se debilita y los rendimientos de los bonos bajan, y los bancos centrales han aumentado sus reservas de este metal en los últimos años."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "7d6d737621b0",
-      "title": "\"Dolphin\" se debilita tras dejar 215.000 evacuados en China",
-      "summary": "El tifón Dolphin, el décimotercer de la temporada, tocó tierra en la provincia de Zhejiang, China, provocó lluvias torrenciales y obligó a trasladar preventivamente a más de 215 mil personas de zonas de riesgo, mientras Shanghai activó alertas naranjas y restringió el transporte.",
-      "category": "sociedad",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/dolphin-se-debilita-tras-dejar-215-000-evacuados-en-china/a-78298484?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-10T01:16:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir hechos meteorológicos y medidas de evacuación con un lenguaje neutro, sin opiniones ni cargamento político.",
-      "focus_analysis": "El medio se centra en el aspecto meteorológico y la respuesta de seguridad, destacando evacuaciones y alertas, dejando de lado el impacto económico o la gestión política del desastre.",
-      "focus_tags": [
-        "tifón",
-        "evacuaciones",
-        "alertas meteorológicas"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes climatológicos",
-          "text": "China experimenta cada verano una temporada de tifones activa, con episodios anteriores que han causado inundaciones y deslizamientos, como el tifón Haikui en 2022 que provocó cientos de evacuaciones en la costa este."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "El Centro Meteorológico Nacional de China emite alertas de colores y coordina evacuaciones preventivas, mientras los gobiernos locales, como el de Shanghai, suspenden el transporte público y recomiendan a la población evitar desplazamientos innecesarios."
-        },
-        {
-          "label": "Cobertura internacional",
-          "text": "Otros medios, como France24 Español, resaltan el alcance regional del tifón, mencionando efectos en Japón y Filipinas y enfocando en daños a infraestructuras, lo que contrasta con el enfoque más centrado en la evacuación china de DW Español."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "b3a095848b3d",
-      "title": "Así están las posiciones del Clausura y de la Tabla Anual: los saltos de Huracán, Gimnasia y Racing y la dura situación de San Lorenzo",
-      "summary": "En la cuarta fecha del Torneo Clausura de la Liga Profesional de Fútbol de Argentina, Huracán, Gimnasia La Plata y Racing lograron subir posiciones, mientras que San Lorenzo cayó al último lugar de la zona A tras perder contra Huracán. Independiente Rivadavia se mantiene líder de la Tabla Anual con 41 puntos, a tres del Argentinos Juniors.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/09/asi-estan-las-posiciones-del-torneo-clausura-y-de-la-tabla-anual-los-saltos-de-huracan-y-gimnasia-y-la-dura-situacion-de-san-lorenzo/",
-      "published_at": "2026-08-10T02:35:36+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir resultados y posiciones sin usar adjetivos cargados ni favorecer a ningún club, manteniendo un tono informativo y equilibrado.",
-      "focus_analysis": "El medio se centró en el aspecto competitivo del torneo, detallando ascensos y descensos, dejando de lado el impacto humano de la muerte de Jorge Messi y otras historias de trasfondo.",
-      "focus_tags": [
-        "posiciones torneo",
-        "clasificación internacional",
-        "situación descenso"
-      ],
-      "context": [
-        {
-          "label": "estructura del torneo",
-          "text": "La Liga Profesional de Fútbol de Argentina se divide en torneos Apertura y Clausura, y la Tabla Anual determina los cupos a la Copa Libertadores y a la Copa Sudamericana."
-        },
-        {
-          "label": "historial de San Lorenzo",
-          "text": "San Lorenzo, tradicional club de la Primera División, ha enfrentado varias campañas de descenso en la última década, con recientes bajas en la zona A."
-        },
-        {
-          "label": "cambio de posición de Huracán",
-          "text": "Huracán, que históricamente ha ocupado puestos intermedios, ha experimentado una racha ganadora que lo ubicó cerca de los puestos de clasificación internacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "5af4a5f82a19",
-      "title": "Cuántas veces se recomienda sacar a pasear a tu perro según su tamaño y necesidades",
-      "summary": "Infobae México publica recomendaciones de expertos en comportamiento animal y veterinaria sobre la frecuencia y duración de los paseos para perros, según su tamaño, edad y estado de salud, resaltando los beneficios físicos y emocionales que aportan.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/10/cuantas-veces-se-recomienda-sacar-a-pasear-a-tu-perro-segun-su-tamano-y-necesidades/",
-      "published_at": "2026-08-10T02:36:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje informativo y neutral, sin expresiones cargadas ni selección de fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El artículo se centra en el bienestar y la salud de los perros, ofreciendo pautas prácticas para los dueños; no aborda aspectos económicos del cuidado de mascotas ni el impacto ambiental de los paseos en espacios públicos.",
-      "focus_tags": [
-        "salud canina",
-        "bienestar animal",
-        "recomendaciones de paseo"
-      ],
-      "context": [
-        {
-          "label": "Importancia del ejercicio canino",
-          "text": "Los perros que realizan caminatas regulares mantienen mejor su condición física, controlan su peso y reducen el riesgo de problemas articulares y metabólicos."
-        },
-        {
-          "label": "Guías de organizaciones veterinarias",
-          "text": "Instituciones como la American Veterinary Medical Association y la Sociedad Internacional de Medicina Deportiva Canina publican recomendaciones que varían la duración y frecuencia de los paseos según la raza, edad y nivel de actividad del animal."
-        },
-        {
-          "label": "Consecuencias de la falta de actividad",
-          "text": "La ausencia de estimulación física y mental puede generar comportamientos destructivos, ansiedad y problemas de conducta en los perros, lo que evidencia la necesidad de rutinas de paseo adecuadas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
