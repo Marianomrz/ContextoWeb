@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T05:41:31.714084+00:00",
-      "title": "Parques industriales prevén segunda ola de nearshoring en Jalisco",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares periodísticos, destacando en veracidad, objetividad y estructura, pero necesita mayor contraste de fuentes para enriquecer la cobertura.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T05:41:36.619648+00:00",
-      "title": "Advierten por bacteria ‘devoradora de carne’, que incluso lleva a la muerte en EU",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de objetividad y actualidad, aunque la ausencia de citas precisas disminuye ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:00:47.858264+00:00",
-      "title": "Entre hilos de tiempo: la urdimbre de Olga Tokarczuk",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 8,
-        "voz_autor": 9,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una presentación atractiva y bien estructurada de la obra de Tokarczuk, listo para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:00:53.070447+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete contiene datos no verificables y falta de fuentes fiables, aunque está actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:00:58.072436+00:00",
-      "title": "El exilio en La casa de los famosos México: Ximena Herrera llega tras ser eliminada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría reforzar la veracidad citando fuentes más oficiales y ampliar la variedad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:01:04.325470+00:00",
-      "title": "Así ha sido la Gala Starlite: del regreso de Antonio Banderas al inesperado dueto de Michael Bublé y",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la ausencia de fuentes múltiples limita la profundidad del contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:01:09.835848+00:00",
-      "title": "GEEKOM IT13 Max Mini PC con 15% de descuento: el Intel U9 que aspira a mejor relación calidad-precio",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y estructurado correctamente, pero su falta de fuentes múltiples y el tono promocional reducen su objetividad y rigor informativo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:01:16.476145+00:00",
-      "title": "Entrenador de Estados Unidos se rinde ante México: \"Sabíamos que iba a ser dificilísimo, fue un ambi",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, mostrando una cobertura fiable aunque ligeramente sesgada a favor de México.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:01:22.183918+00:00",
-      "title": "La selección argentina de básquet se consagró campeona del Sudamericano Femenino: le ganó 53-44 la f",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una noticia clara, veraz y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:01:32.464144+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado, pero carece de fuentes contrastantes y de citas verificables, y presenta valoraciones subjetivas sin atribución.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T06:01:38.647558+00:00",
-      "title": "Récord de calor en Europa",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los requisitos de actualidad, objetividad y estructura, aunque la falta de datos precisos y referencias disminuye ligeramente la veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T06:01:44.538954+00:00",
       "title": "Chiapas registra sismo de 4.2 de intensidad en Mapastepec",
       "kind": "noticia",
@@ -3398,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los requisitos de objetividad y actualidad, aunque podría mejorar la verificación de datos y la inclusión de fuentes más variadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:03.236544+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:07.895506+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP mantiene en el Senado la convoc",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es adecuado y objetivo, aunque podría mejorar la variedad de fuentes y la consistencia interna de los campos de sesgo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:12.107850+00:00",
+      "title": "Caen las ventas de tortillerías debido a nuevo estilo de vida",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y estructurado correctamente, pero la falta de fuentes verificables y datos precisos reduce su credibilidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:15.606825+00:00",
+      "title": "El Corte Inglés deja a precio de liquidación los AirPods Max con unidades limitadas y un descuento d",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y objetividad, aunque la variedad de fuentes podría ampliarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:21.452291+00:00",
+      "title": "Jalisco: así quedó el precio de la gasolina hoy lunes 10 de agosto",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta información esencial pero contiene datos no verificables y fuentes poco fiables, lo que compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:26.091406+00:00",
+      "title": "Jugó con Redondo, convivió con Maradona, se retiró a los 25 años por una lesión y brilla como cantan",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes verificables reduce la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:31.770524+00:00",
+      "title": "Estrella roja sobre México aborda los vínculos de la revolución china con la política nacional",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está actualizado y bien estructurado, pero presenta imprecisiones históricas y falta de objetividad, lo que afecta su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:35.475564+00:00",
+      "title": "Cuestión de pasos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística; solo se sugiere reforzar la verificación de los datos para mejorar la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:41.836041+00:00",
+      "title": "\"Los contenedores de basura del océano\": la dieta salvaje de los tiburones más temibles",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes y objetividad, y está bien estructurado y actualizado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:48.272086+00:00",
+      "title": "FGR detiene a nueve piezas clave en el entramado de Ingemar",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de una noticia reciente y bien estructurada, pero le falta mayor variedad de fuentes y una presentación más neutral.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T10:45:53.899257+00:00",
+      "title": "Xiaomi prepara el lanzamiento de un nuevo smartphone de entrada, que será uno de los más baratos de ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes adicionales y citas verificables para mejorar la precisión y el contraste de fuentes.",
       "error": null
     }
   ]
