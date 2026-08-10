@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T17:03:03.384925+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y equilibrio de fuentes, aunque está actualizado y estructurado adecuadamente; necesita corrección de hechos y mayor pluralidad de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:06.953396+00:00",
-      "title": "EEUU sigue siendo superior en modelos de IA para generar texto o código. Si hablamos de vídeo, hay u",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque cumple con actualidad y estructura; necesita fuentes fiables y datos verificables para ser publicado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:13.224033+00:00",
-      "title": "Sheinbaum garantiza seguridad permanente a productores de aguacate en Michoacán; reporta apertura de",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, destacando por su actualidad y estructura, pero necesita mayor contraste de fuentes y verificación externa de cifras para alcanzar la excelencia.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:20.221732+00:00",
-      "title": "Última hora del terremoto en Colombia, en directo | Al menos 70 muertos por el terremoto de magnitud",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo contiene errores de factualidad y fuentes limitadas, aunque es reciente y está bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:24.614942+00:00",
-      "title": "La Casa de los Famosos México EN VIVO: comienza la actividad en “El Exilio” con las eliminadas Maria",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, fuentes fiables, objetividad, actualidad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:29.198347+00:00",
-      "title": "Sigue la cuarta fecha del Torneo Clausura con dos partidos: Belgrano visitará a Banfield y Unión rec",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de un artículo informativo, aunque presenta pequeñas imprecisiones en la descripción de la posición de Belgrano.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:39.883130+00:00",
-      "title": "La brecha equivocada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, con una ligera reserva sobre la verificabilidad de algunas fuentes específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:45.245808+00:00",
-      "title": "La ilusión de la \"última oportunidad\": por qué las ofertas nos hacen comprar cosas que no planeamos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría enriquecer la variedad de fuentes para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:50.909551+00:00",
-      "title": "¿Cancelado el rediseño del iPhone 20 Aniversario? Podrían ser muy malas noticias para Apple",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y objetivo, pero la falta de fuentes verificables y de contraste con la postura oficial de Apple afecta su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T17:03:55.661314+00:00",
-      "title": "Ana Francisca Vega inicia ciclo en MVS tras Luis Cárdenas; “defensa de la libertad de expresión no e",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares, aunque podría reforzar la verificación de citas y añadir fuentes complementarias.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T17:20:42.333726+00:00",
       "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "En general, el paquete es reciente y bien estructurado, pero carece de fuentes múltiples y verificaciones concretas que reforzarían su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:40:45.992484+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete no cumple los estándares de veracidad y objetividad; se recomienda rechazar la publicación hasta corregir los datos y equilibrar la cobertura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:40:49.939104+00:00",
+      "title": "Paulina Rubio y \"Colate\" aún comparte la custodia de su hijo, pero el menor residirá con la cantante",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de manera precisa, equilibrada y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:40:56.062534+00:00",
+      "title": "Última hora del terremoto en Colombia, en directo | Más de un centenar de muertos por el terremoto d",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque su estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:41:00.117421+00:00",
+      "title": "Guanajuato rompe todos sus récords en Santo Domingo 2026 con 51 medallas; Celia Pulido y Laura Galvá",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, mostrando datos consistentes y fuentes contrastadas, aunque el tono celebratorio introduce una ligera parcialidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:41:05.623959+00:00",
+      "title": "El mensaje de Enzo Fernández a Thiago Almada tras ser presentado oficialmente en River Plate: “Habla",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la precisión de algunos datos podría mejorarse con fuentes oficiales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:41:10.605214+00:00",
+      "title": "Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual y ampliar la diversidad de fuentes, aunque mantiene buena objetividad, actualidad y estructura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:41:21.590996+00:00",
+      "title": "Gobernar las conciencias",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es informativo y está al día, pero la falta de fuentes contrastantes limita su completitud y rigor periodístico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:41:27.209821+00:00",
+      "title": "Presidenta Claudia Sheinbaum incorpora a Naucalpan al programa de bacheo del Plan Oriente",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información verificable, objetiva y bien estructurada, con solo una ligera limitación en la diversidad de fuentes, lo cual es aceptable para este tipo de anuncio.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:41:33.599432+00:00",
+      "title": "Citlalli Hernández denuncia acoso tras ser fotografiada en un restaurante de la CDMX; “si querían fo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En conjunto, el paquete cumple con los estándares de precisión y actualidad, pero necesita mayor contraste de fuentes para cubrir plenamente la complejidad del conflicto político.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T20:41:40.748471+00:00",
+      "title": "Desde Venezuela a Francia: la comunidad mundial vuelca su apoyo a Colombia ante el devastador terrem",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información reciente, bien contrastada y objetiva, con una estructura clara y coherente.",
       "error": null
     }
   ]
