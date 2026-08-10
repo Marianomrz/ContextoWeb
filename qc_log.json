@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T09:00:02.547588+00:00",
-      "title": "Medios: Palacio tiene la última palabra",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es actual y sigue una estructura básica de pirámide invertida, pero sufre de graves problemas de veracidad y falta de fuentes contrastantes, lo que compromete su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:00:07.705027+00:00",
-      "title": "Tom Hanks aprende y comparte la Historia",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de citas verificables impide una puntuación máxima en veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:00:12.906838+00:00",
-      "title": "Más de 250 organizaciones de la sociedad civil se han adherido ya al pacto de Estado frente a la eme",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita más fuentes y evidencia concreta para reforzar la veracidad y el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:00:17.922858+00:00",
-      "title": "Así fue el reencuentro de Ximena Herrera y Mariana Ochoa en el Exilio de La Casa de los Famosos Méxi",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero la falta de fuentes verificables y evidencia concreta reduce su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:00:23.361618+00:00",
-      "title": "‘La Odisea’ ya es la película más taquillera de Christopher Nolan: sus números son un escándalo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo hace inadecuado para publicación pese a su buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:00:32.687765+00:00",
-      "title": "El espejismo económico del gobierno de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "En general el paquete es reciente y bien estructurado, pero la falta de fuentes contrastantes y la ausencia de citas verificables limitan su rigor periodístico.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:25:12.589612+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y balance, aunque es actual y está bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:25:15.174125+00:00",
-      "title": "Jugó con Redondo, convivió con Maradona, se retiró a los 25 años por una lesión y brilla como cantan",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una narrativa interesante pero con datos no verificables, aunque mantiene neutralidad y buena estructuración. Se recomienda confirmar la existencia del protagonista antes de publicar.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:25:20.194838+00:00",
-      "title": "¿Se pagó otro dividendo de 1,2 millones la pareja de Ayuso o se equivocó en las cuentas?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita fuentes adicionales y mayor verificación para cumplir con los estándares de precisión y contraste exigidos en el periodismo objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:25:26.881469+00:00",
-      "title": "DJI y sus drones están en problemas. Los próximos modelos podrían ser más difíciles de volar",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es reciente y objetivo, pero necesita más fuentes y mayor precisión en los detalles.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:25:32.281340+00:00",
-      "title": "Mariana Ochoa sale por un beso de mamá",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado; el contraste de fuentes es adecuado pero podría ampliarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T09:25:37.260397+00:00",
-      "title": "Ximena Herrera confiesa a Mariana Ochoa que apoyar a Yanet García le costó seguir en La Casa de los ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, pese a la falta de verificación externa de las citas.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T09:25:47.031115+00:00",
       "title": "La brecha equivocada",
       "kind": "noticia",
@@ -3398,6 +3194,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información precisa, objetiva y bien estructurada sobre un tema cultural reciente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:40:46.134548+00:00",
+      "title": "Cuando el silencio se vuelve sombra: Rulfo y el eco del pueblo fantasma",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 6,
+        "estructura_narrativa": 7,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple bien con los estándares de calidad literaria, mostrando creatividad y profundidad, aunque el estilo podría enriquecerse más.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:40:50.127240+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad requeridos para una publicación informativa; necesita revisión profunda antes de considerarse apto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:40:55.830091+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El presidente de Ceuta pide al Gobier",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete es reciente y estructurado, pero la calidad del contraste de fuentes es limitada y la verificación de datos podría reforzarse con citas específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:00.369466+00:00",
+      "title": "El Exilio de La Casa de los Famosos México 2026: detalles de sus carencias y cómo ver en vivo el 24/",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es claro y estructurado, pero la falta de verificabilidad de los datos y la ausencia de fuentes múltiples reducen su puntuación en veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:04.869003+00:00",
+      "title": "Ojo si compraste un Steam Machine o Steam Controller: tus datos pueden haberse filtrado en un hackeo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura invertida y mantiene objetividad, pero necesita fuentes más robustas y evidencia verificable para alcanzar la excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:11.019690+00:00",
+      "title": "Grecia Quiroz exige justicia por Carlos Manzo durante su segundo informe",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y cumple con los estándares de objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para ofrecer un contraste más completo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:17.348054+00:00",
+      "title": "La revelación sobre el pase de Julián Álvarez del Atlético de Madrid al Barcelona que da que hablar ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad requeridos para una noticia informativa; pese a su actualidad y estructura, la falta de datos fiables y el sesgo evidente lo hacen inadecuado para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:27.736053+00:00",
+      "title": "La brecha equivocada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere mejorar la precisión de las referencias para alcanzar la máxima puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:34.178685+00:00",
+      "title": "Kimi K3 también se escapa de su entorno de pruebas, sumándose a los incidentes de Claude y ChatGPT",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y objetivo, pero carece de fuentes verificadas y contraste de voces, lo que reduce su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:38.862152+00:00",
+      "title": "Un terremoto de magnitud 7,4 sacude gran parte de Colombia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de precisión, fuentes, objetividad, actualidad y estructura; solo se podría enriquecer con testimonios humanos y mayor contexto económico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:43.894081+00:00",
+      "title": "EN VIVO | Clima en CDMX y resto de México hoy 10 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia de clima.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T13:41:50.877757+00:00",
+      "title": "La nueva predicción de la AEMET para el eclipse solar está lista: estos son los peores lugares para ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y cumple con los criterios editoriales, aunque podría mejorar la precisión de las fuentes citadas.",
       "error": null
     }
   ]
