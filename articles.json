@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-10T00:22:00.531922+00:00",
+  "generated_at": "2026-08-10T00:41:28.967713+00:00",
   "articles": [
+    {
+      "id": "672c21b7c7ea",
+      "title": "Mueren 3 estudiantes de la Universidad Rosario Castellanos en accidente de tránsito en Chiapas; chocaron con un tráiler",
+      "summary": "Tres estudiantes de la Universidad Rosario Castellanos, campus Comitán, Chiapas, fallecieron en un accidente de tránsito al colisionar con un tráiler, mientras otros dos jóvenes resultaron heridos y fueron hospitalizados.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/mueren-3-estudiantes-de-la-universidad-rosario-castellanos-en-accidente-de-transito-en-chiapas-chocaron-con-un-trailer/",
+      "published_at": "2026-08-10T00:37:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos con un tono informativo y sin uso de vocabulario cargado o fuentes con una política clara, mostrando una cobertura neutral.",
+      "focus_analysis": "El artículo se centra en la tragedia humana y la reacción institucional de la universidad, omitiendo un análisis más amplio sobre la seguridad vial en la región o medidas preventivas.",
+      "focus_tags": [
+        "accidente de tránsito",
+        "universidad",
+        "seguridad vial"
+      ],
+      "context": [
+        {
+          "label": "Seguridad vial en Chiapas",
+          "text": "Chiapas presenta una alta incidencia de accidentes de tránsito, particularmente en la carretera Panamericana, donde se han registrado varios choques mortales en los últimos años."
+        },
+        {
+          "label": "Universidad Rosario Castellanos",
+          "text": "La Universidad Rosario Castellanos, con sede en Comitán, es una institución pública de educación superior en Chiapas que ofrece carreras como Derecho y Criminalística."
+        },
+        {
+          "label": "Impacto de accidentes en estudiantes universitarios",
+          "text": "En México, los accidentes de tráfico constituyen una de las principales causas de muerte entre jóvenes universitarios, lo que ha impulsado debates sobre la mejora de la seguridad en rutas cercanas a campus."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "8abbaff9020b",
+      "title": "Dueño de Grupo Peñafiel reporta recuperación en México tras impacto del impuesto a bebidas",
+      "summary": "El director general de Keurig Dr Pepper, Timothy P. Cofer, anunció que el volumen de ventas de sus marcas en México, incluido Grupo Peñafiel, volvió a crecer en el segundo trimestre de 2026 tras la reducción del impacto del nuevo impuesto a las bebidas azucaradas.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/dueno-grupo-penafiel-reporta-recuperacion-mexico-impacto-impuesto-bebidas-20260809-827361.html",
+      "published_at": "2026-08-10T00:34:48+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un lenguaje empresarial y se centra en datos de ventas y precios, sin criticar el impuesto ni presentar perspectivas de salud pública, lo que refleja una ligera inclinación pro‑negocio.",
+      "focus_analysis": "El artículo se centra en el ángulo económico‑empresarial, resaltando la recuperación de ventas y la estrategia de precios, dejando de lado el impacto en la salud pública o la opinión de los consumidores.",
+      "focus_tags": [
+        "economía",
+        "ventas",
+        "impuesto a bebidas"
+      ],
+      "context": [
+        {
+          "label": "impuesto",
+          "text": "En enero de 2026 México elevó el Impuesto Especial sobre Producción y Servicios (IEPS) a bebidas azucaradas a 3.08 pesos por litro, casi duplicando la tasa anterior de 1.64 pesos."
+        },
+        {
+          "label": "rendimiento empresarial",
+          "text": "Keurig Dr Pepper reportó que su división internacional creció 12.4 % en ventas netas en el segundo trimestre de 2026, impulsada en parte por la recuperación del volumen en México."
+        },
+        {
+          "label": "perspectiva de consumo",
+          "text": "Otros medios han señalado que, pese al aumento del impuesto, los consumidores mexicanos están optando por bebidas más saludables, lo que beneficia a marcas como Peñafiel Twist y Ades."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "93ddd58ea297",
+      "title": "Líbano suma 4.335 muertos desde inicio de ofensiva israelí",
+      "summary": "Según el Ministerio de Salud Pública de Líbano, la ofensiva israelí iniciada el 2 de marzo ha causado 4.335 muertos y 12.277 heridos en el país, pese a un acuerdo de seguridad firmado en junio que ha facilitado el acceso de los equipos de rescate.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/líbano-suma-4-335-muertos-desde-inicio-de-ofensiva-israelí/a-78298310?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-10T00:05:00+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto emplea vocabulario como \"agresión\" y \"mártires\" y destaca las acusaciones de crímenes de guerra de Human Rights Watch, lo que muestra una postura crítica hacia Israel.",
+      "focus_analysis": "El medio prioriza el impacto humano y humanitario del conflicto, resaltando cifras de muertos y heridos, mientras que la dimensión política y militar queda menos desarrollada.",
+      "focus_tags": [
+        "civiles",
+        "conflicto",
+        "humanitario"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del conflicto",
+          "text": "Israel y Líbano mantienen una relación tensa desde la guerra de 2006, cuando Israel invadió el sur libanés en respuesta a los ataques de Hezbollah, y los enfrentamientos esporádicos han continuado durante años."
+        },
+        {
+          "label": "Acuerdo de seguridad de junio",
+          "text": "En junio de 2026 Israel y el gobierno libanés firmaron un acuerdo marco que buscaba reducir los bombardeos y permitir que los equipos de rescate accedieran a zonas afectadas, aunque los ataques de artillería israelí continuaron en localidades del sur."
+        },
+        {
+          "label": "Reacciones internacionales",
+          "text": "Organizaciones como Human Rights Watch han denunciado posibles crímenes de guerra por parte de Israel, y la comunidad internacional ha llamado a la reanudación de negociaciones de alto el fuego entre Beirut y Tel Aviv."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "4cbf4c3dfc57",
+      "title": "Línea 5 del Cablebús CDMX será la más larga del mundo: así será la ruta que va de Magdalena Contreras a Mixcoac",
+      "summary": "La Línea 5 del Cablebús de la Ciudad de México, iniciada bajo la gestión de la jefa de Gobierno Clara Brugada, conectará el CETRAM Mixcoac con las alcaldías de Álvaro Obregón y Magdalena Contreras a lo largo de 15,4 km, reduciendo el tiempo de viaje entre Oyamel y Mixcoac a 40 minutos.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/10/linea-5-del-cablebus-cdmx-sera-la-mas-larga-del-mundo-asi-sera-la-ruta-que-va-de-magdalena-contreras-a-mixcoac/",
+      "published_at": "2026-08-10T00:33:27+00:00",
+      "bias_score": 15,
+      "bias_reason": "El texto destaca los logros del proyecto y cita solo fuentes oficiales, sin incluir opiniones críticas ni contrastes, lo que indica una ligera inclinación favorable al gobierno.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y de infraestructura del nuevo Cablebús, resaltando la mejora de la conectividad y la reducción de tiempos; queda poco explorado el impacto humano directo en los usuarios.",
+      "focus_tags": [
+        "infraestructura urbana",
+        "movilidad",
+        "desarrollo regional"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del Cablebús",
+          "text": "Desde su lanzamiento en 2016, el sistema Cablebús de la CDMX ha operado cuatro líneas que conectan zonas de difícil acceso con el Metro y el Metrobús, mejorando la movilidad de cientos de miles de residentes."
+        },
+        {
+          "label": "Desafíos de movilidad en CDMX",
+          "text": "Los barrios periféricos de la capital, como Magdalena Contreras y Álvaro Obregón, enfrentan congestionamientos y tiempos de desplazamiento de una hora y media a dos horas, lo que ha impulsado la planificación de nuevos corredores de transporte rápido."
+        },
+        {
+          "label": "Gobierno de Clara Brugada",
+          "text": "Clara Brugada, jefa de Gobierno de la Ciudad de México, ha priorizado proyectos de transporte público masivo como parte de su agenda de modernización urbana y reducción de la dependencia del automóvil."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "f88356e65f87",
+      "title": "Argentinos Juniors empata con Racing por la cuarta fecha del Torneo Clausura",
+      "summary": "Los equipos de fútbol Argentinos Juniors y Racing Club de Argentina empataron 1‑1 en la cuarta fecha del Torneo Clausura, con un gol de Ezequiel Cannavo para los Juniors y otro de Tomás Molina para Racing, tras una expulsión temprana de un jugador de Racing.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/09/continua-la-fecha-4-del-torneo-clausura-la-agenda-de-partidos-del-domingo/",
+      "published_at": "2026-08-10T00:36:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido con un tono neutro, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centró en los momentos clave del encuentro (goles, expulsión, lesión) y en el impacto inmediato en la tabla, dejando de lado análisis más profundos sobre la campaña del torneo o la reacción de los aficionados.",
+      "focus_tags": [
+        "fútbol argentino",
+        "Torneo Clausura",
+        "partido empatado"
+      ],
+      "context": [
+        {
+          "label": "estructura_liga",
+          "text": "El Torneo Clausura es la segunda mitad del campeonato de la Liga Profesional de Fútbol de Argentina, donde los equipos compiten por la clasificación a toriones internacionales."
+        },
+        {
+          "label": "posiciones_actuales",
+          "text": "Tras el empate, Argentinos Juniors y Racing Club suman puntos que los mantienen en la zona media de la tabla, con los Juniors ligeramente por encima de Racing en la clasificación de la Zona B."
+        },
+        {
+          "label": "importancia_resultado",
+          "text": "Un punto en esta fecha es crucial para los equipos que aspiran a los cupos de la Copa Libertadores 2027, ya que la clasificación depende de la acumulación de puntos a lo largo del Torneo Clausura."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "ebf8ca2db8ff",
+      "title": "Cruz Azul 1-1 New York City EN VIVO sigue el MINUTO A MINUTO del partido de Leagues Cup",
+      "summary": "El club mexicano Cruz Azul y el equipo estadounidense New York City FC empataron 1‑1 en la jornada de la Leagues Cup 2026, manteniéndose en la lucha por los puestos de clasificación a cuartos de final.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/cruz-azul-vs-new-york-city-en-vivo-minuto-a-minuto-del-partido-de-leagues-cup/",
+      "published_at": "2026-08-10T00:38:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el desarrollo del partido y la reacción de los aficionados, sin usar vocabulario cargado ni citar fuentes con sesgo político; el enfoque es puramente deportivo.",
+      "focus_analysis": "El medio se centró en la crónica minuto a minuto del encuentro y la emoción de los seguidores, dejando de lado análisis de impacto económico o de política deportiva del torneo.",
+      "focus_tags": [
+        "fútbol",
+        "Leagues Cup",
+        "Cruz Azul"
+      ],
+      "context": [
+        {
+          "label": "Formato de la Leagues Cup",
+          "text": "La Leagues Cup 2026 es un torneo binacional que enfrenta a equipos de la MLS y la Liga MX, con una fase de grupos que determina los equipos que avanzan a los cuartos de final."
+        },
+        {
+          "label": "Rendimiento reciente de Cruz Azul",
+          "text": "Cruz Azul llegó al partido con una victoria de 3‑0 sobre Philadelphia Union, lo que le dio tres puntos y aumentó sus esperanzas de asegurar el pase a la siguiente ronda."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Mientras El Universal destacó el duelo contra New York City FC, medios como La Jornada pusieron el foco en la pesada derrota de Cruz Azul en la Liga MX Femenil, ofreciendo una perspectiva más crítica sobre el club."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "82038e052ae8",
       "title": "CNA alerta posible impacto a productores mexicanos ante medidas sanitarias de Estados Unidos",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "23f354dbb9a2",
-      "title": "Caen 4 integrantes de \"Los Barretos\" en Tuxtla Gutiérrez, Chiapas; los acusan de robo violento de motocicletas",
-      "summary": "La Fiscalía General del Estado y la Secretaría de Seguridad del Pueblo detuvieron a cuatro personas identificadas como miembros de la banda criminalLos Barretos\" en Tuxtla Gutiérrez, Chiapas, acusadas de robar motocicletas con violencia contra un ciudadano local.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/caen-4-integrantes-de-los-barretos-en-tuxtla-gutierrez-chiapas-los-acusan-de-robo-violento-de-motocicletas/",
-      "published_at": "2026-08-09T23:16:38+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutro, sin adjetivos cargados ni selección de fuentes que favorezcan una visión política o ideológica.",
-      "focus_analysis": "El medio se centra en la acción policial y el desmantelamiento de la banda, dejando fuera el análisis de las causas sociales o económicas del delito.",
-      "focus_tags": [
-        "seguridad",
-        "crimen",
-        "Tuxtla Gutiérrez"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la banda",
-          "text": "Los Barretos es una organización delictiva conocida en Chiapas por perpetrar robos de motocicletas y otros vehículos, operando principalmente en colonias y barrios de Tuxtla Gutiérrez."
-        },
-        {
-          "label": "Tendencias delictivas en la región",
-          "text": "En los últimos años, la tasa de robos de vehículos en Chiapas ha aumentado, lo que ha impulsado a las autoridades estatales a reforzar las operaciones de seguridad y vigilancia."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "La Fiscalía General del Estado y la Secretaría de Seguridad del Pueblo han intensificado sus esfuerzos de inteligencia y vigilancia con cámaras de seguridad para desarticular grupos criminales como Los Barretos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "ebf8ca2db8ff",
-      "title": "Cruz Azul vs New York City EN VIVO sigue el MINUTO A MINUTO del partido de Leagues Cup",
-      "summary": "El club mexicano Cruz Azul y el equipo estadounidense New York City FC disputan un encuentro de la Leagues Cup 2026, con ambos lados buscando la victoria para mantenerse en la lucha por los cuartos de final.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/cruz-azul-vs-new-york-city-en-vivo-minuto-a-minuto-del-partido-de-leagues-cup/",
-      "published_at": "2026-08-09T22:38:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la descripción del partido y la afición, sin usar lenguaje cargado ni citar fuentes con sesgo político; aunque muestra un leve entusiasmo por Cruz Azul, el tono es mayormente neutro.",
-      "focus_analysis": "El medio destaca la emoción del juego en la presencia de los aficionados y la importancia del resultado para la clasificación, dejando de lado análisis tácticos o valoraciones de los jugadores.",
-      "focus_tags": [
-        "Leagues Cup",
-        "Cruz Azul",
-        "NYFC"
-      ],
-      "context": [
-        {
-          "label": "Formato de la Leagues Cup 2026",
-          "text": "La Leagues Cup 2026 es un torneo binacional que reúne a equipos de la Liga MX y la MLS, con una fase de grupos que determina los equipos que avanzan a los cuartos de final."
-        },
-        {
-          "label": "Rendimiento reciente de Cruz Azul",
-          "text": "Cruz Azul llegó al partido con una victoria de 1-0 sobre Philadelphia Union, lo que le dio tres puntos y una posición favorable para seguir luchando por el pase a la siguiente ronda."
-        },
-        {
-          "label": "Rendimiento reciente de New York City FC",
-          "text": "New York City FC también entra al encuentro con una victoria de 2-0 contra Santos Laguna, manteniéndose dentro de los cuatro primeros del grupo de la MLS y con aspiraciones de avanzar al cuadro final."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "46130c97dc01",
-      "title": "Asesinan a canadiense en Mazatlán; lo hallan con heridas de arma blanca y disparos",
-      "summary": "Un ciudadano canadiense con residencia temporal en Mazatlán, Sinaloa, fue encontrado muerto con heridas de arma blanca y disparos cerca de la comunidad de El Quelite, y la Fiscalía General del Estado está investigando el homicidio y su posible vínculo con un robo previo.",
-      "category": "sociedad",
-      "source_name": "El Informador (GDL)",
-      "source_url": "https://www.informador.mx/mexico/asesinan-a-canadiense-en-mazatlan-investigan-homicidio-en-el-quelite-20260809-0081.html",
-      "published_at": "2026-08-09T22:45:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin vocabulario cargado ni fuentes que favorezcan una postura política; se limita a reportar los hechos y la investigación.",
-      "focus_analysis": "El medio se centra en el hecho del homicidio y la investigación policial, omitiendo el contexto de seguridad en Sinaloa y la repercusión de violencia contra extranjeros.",
-      "focus_tags": [
-        "homicidio",
-        "seguridad pública",
-        "investigación"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Sinaloa ha registrado históricamente altas tasas de homicidios, lo que ha generado preocupación sobre la seguridad pública en el estado."
-        },
-        {
-          "label": "datos comparables",
-          "text": "En los últimos años, se han reportado varios casos de agresiones y robos contra turistas y residentes extranjeros en diferentes regiones de México."
-        },
-        {
-          "label": "postura de actores",
-          "text": "La Fiscalía General del Estado de Sinaloa ha señalado su compromiso de investigar este caso y de identificar al responsable, siguiendo los protocolos habituales de investigación criminal."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "a26de98eb415",
-      "title": "México va por 6.6 millones de árboles: Sheinbaum encabeza Jornada Nacional de Reforestación 2026",
-      "summary": "La presidenta de México, Claudia Sheinbaum, encabezó la Jornada Nacional de Reforestación 2026, cuyo objetivo es plantar 6,6 millones de árboles y plantas en las 32 entidades del país. El evento, celebrado en Puebla, busca institucionalizar la reforestación como actividad anual cada segundo domingo de agosto.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/mexico-6-6-millones-arboles-sheinbaum-encabeza-jornada-nacional-reforestacion-20260809-827356.html",
-      "published_at": "2026-08-09T22:47:48+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo emplea un tono descriptivo y neutral, sin lenguaje cargado ni fuentes opositoras, limitándose a citar a la presidenta y al gobierno.",
-      "focus_analysis": "El medio se centra en la dimensión institucional y de movilización ciudadana del proyecto de reforestación, dejando de lado posibles críticas sobre la viabilidad o el seguimiento de los árboles plantados.",
-      "focus_tags": [
-        "reforestación nacional",
-        "política ambiental",
-        "participación ciudadana"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En años anteriores, el gobierno mexicano había planteado metas de reforestación que variaron entre 5 y 7 millones de árboles, con resultados mixtos en cuanto a supervivencia de los plantíos."
-        },
-        {
-          "label": "agenda de la presidenta",
-          "text": "Claudia Sheinbaum ha priorizado la agenda climática y la restauración de ecosistemas en su programa de gobierno, incluyendo la creación de la Estrategia Nacional de Cambio Climático."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "El Universal destacó la renombración del Paso de Cortés como 'Paso los Pueblos Indígenas' y la firma del decreto, mientras que La Jornada resaltó la convocatoria de la SADER y el detalle de especies y hectares involucrados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "8b8f2fe18d56",
-      "title": "Aseguran 90 mil litros de combustible y cinco unidades de carga en Hidalgo; dos autotanques fueron robados",
-      "summary": "Agentes de seguridad del estado de Hidalgo recuperaron 90 mil litros de combustible y cinco unidades de carga después de que dos autotanques fueran robados en los municipios de Tula y Singuilucan.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/aseguran-90-mil-litros-de-combustible-y-cinco-unidades-de-carga-en-hidalgo-dos-autotanques-fueron-robados/",
-      "published_at": "2026-08-09T22:45:06+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y acciones de la autoridad sin usar adjetivos cargados ni presentar opiniones, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en la acción policial y la recuperación del combustible, dejando de lado el contexto más amplio del delito de huachicol y sus repercusiones sociales y económicas.",
-      "focus_tags": [
-        "seguridad",
-        "robo de combustible",
-        "Hidalgo"
-      ],
-      "context": [
-        {
-          "label": "Problema nacional",
-          "text": "México enfrenta una crisis de huachicol, con pérdidas anuales estimadas en miles de millones de pesos debido al robo de combustible y la alteración de la cadena de suministro."
-        },
-        {
-          "label": "Incidentes previos",
-          "text": "En 2024, autoridades de Puebla recuperaron más de 120 mil litros de combustible tras un operativo contra grupos de ladrones de hidrocarburos, mostrando la recurrencia de este delito en la región central del país."
-        },
-        {
-          "label": "Respuesta gubernamental",
-          "text": "El Gobierno federal, a través de la Secretaría de Seguridad y la Guardia Nacional, ha lanzado la Operación  Huachicol, destinada a desarticular redes criminales y proteger la infraestructura energética."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "eb771842d0d7",
-      "title": "Defiende INE contrato con empresa del fallido examen de la UNAM; descarta fallas",
-      "summary": "El Instituto Nacional Electoral (INE) de México confirmó que mantiene vigente el contrato con la empresa Territorium Life para operar la plataforma tecnológica del Centro Virtual INE, y aseguró que el servicio no está relacionado con el examen de admisión de la Universidad Nacional Autónoma de México (UNAM) ni presenta incumplimientos. Al mismo tiempo, recordó que la UNAM canceló su propio contrato con la misma empresa tras las fallas técnicas del examen en línea.",
-      "category": "politica",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/nacional/2026/08/09/defiende-ine-contrato-con-empresa-del-fallido-examen-de-la-unam-descarta-fallas-1829626.html",
-      "published_at": "2026-08-09T22:49:25+00:00",
-      "bias_score": 15,
-      "bias_reason": "El texto utiliza un tono que resalta la legalidad y el cumplimiento del INE, citando exclusivamente a la propia institución y omitiendo voces críticas, lo que indica un ligero sesgo a favor del establecimiento.",
-      "focus_analysis": "El medio se centró en el aspecto institucional y contractual del INE, destacando la transparencia y la ausencia de fallas, mientras dejó de lado la polémica pública y las repercusiones para los estudiantes de la UNAM.",
-      "focus_tags": [
-        "contrato institucional",
-        "plataforma tecnológica",
-        "transparencia electoral"
-      ],
-      "context": [
-        {
-          "label": "Rol del INE",
-          "text": "El Instituto Nacional Electoral es el organismo autónomo encargado de organizar y supervisar los procesos electorales en México, y sus contratos de tecnología suelen estar sujetos a licitaciones públicas y a estrictos criterios de cumplimiento."
-        },
-        {
-          "label": "Falla del examen de la UNAM",
-          "text": "En 2024 la UNAM canceló un contrato de más de 69 millones de pesos con Territorium Life después de que el examen de admisión en línea presentara graves fallas técnicas y acusaciones de irregularidades."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios como La Jornada y Expansión enfocaron sus notas en la alta demanda de aspirantes y en los requisitos académicos del examen de la UNAM, resaltando la perspectiva estudiantil y laboral, en contraste con el énfasis institucional del Periódico AM."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
