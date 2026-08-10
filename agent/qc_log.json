@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T10:45:35.475564+00:00",
-      "title": "Cuestión de pasos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística; solo se sugiere reforzar la verificación de los datos para mejorar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T10:45:41.836041+00:00",
-      "title": "\"Los contenedores de basura del océano\": la dieta salvaje de los tiburones más temibles",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes y objetividad, y está bien estructurado y actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T10:45:48.272086+00:00",
-      "title": "FGR detiene a nueve piezas clave en el entramado de Ingemar",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de una noticia reciente y bien estructurada, pero le falta mayor variedad de fuentes y una presentación más neutral.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T10:45:53.899257+00:00",
-      "title": "Xiaomi prepara el lanzamiento de un nuevo smartphone de entrada, que será uno de los más baratos de ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes adicionales y citas verificables para mejorar la precisión y el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:00:48.452656+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es reciente y está estructurado adecuadamente; necesita revisión profunda antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:00:52.959640+00:00",
-      "title": "Todos necesitan a Trump: cómo EE.UU. tutela los intereses opuestos de gobierno y oposición en Venezu",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El artículo es reciente pero presenta graves errores de hecho y falta de equilibrio, lo que lo hace inadecuado para publicación sin correcciones sustanciales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:00:57.115197+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO: Ximena Herrera se convirtió en la segunda eliminada y co",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una cobertura clara y bien estructurada del hecho televisivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:01:02.731788+00:00",
-      "title": "José Manuel Recillas aborda a los genios alemanes de la música",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, bien estructurada y actual, con una presentación objetiva y basada en fuentes confiables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T11:01:07.746675+00:00",
-      "title": "Thiago Almada llegó a la Argentina para sumarse a River Plate",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y estructurado, pero contiene errores de veracidad que reducen su puntuación global.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T11:01:14.621810+00:00",
       "title": "El Corte Inglés deja a precio de liquidación los AirPods Max con unidades limitadas y un descuento d",
       "kind": "noticia",
@@ -3392,6 +3239,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de referencias verificables a los datos críticos impide una máxima puntuación en veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:05.259583+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y equilibrio, pese a estar actualizado y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:11.349725+00:00",
+      "title": "EN VIVO | Bloqueos en carreteras, accidente viales y manifestaciones hoy 10 de agosto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información reciente, contrastada y estructurada de manera objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:16.571305+00:00",
+      "title": "Última hora del terremoto en Colombia, en directo | Al menos 25 muertos por el terremoto de magnitud",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; sólo se podría mejorar la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:22.470273+00:00",
+      "title": "Empresario \"El Güino\" y 17 personas ingresan a penal de Torreón; enfrentarán varios cargos tras oper",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:28.883463+00:00",
+      "title": "OpenAI pisa el freno con su nueva IA por considerarla demasiado peligrosa",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta datos no verificables y carece de fuentes múltiples, lo que afecta su credibilidad, aunque mantiene una estructura y tono objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:34.343854+00:00",
+      "title": "Los desgarradores gritos de la figura de Racing que sufrió una dura lesión en la derrota con Argenti",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado, aunque la ausencia de fuentes específicas y el título sensacionalista reducen ligeramente la puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:45.876937+00:00",
+      "title": "La brecha equivocada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de objetividad y actualidad, aunque la precisión de los datos y la diversidad de fuentes podrían mejorarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:51.712645+00:00",
+      "title": "Banco Central de Brasil evalua ampliar el sistema de pagos Pix",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo cumple con la mayoría de los criterios de calidad periodística, pero necesita mayor corroboración de datos y fuentes más diversas para reforzar su veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-10T15:32:56.877819+00:00",
+      "title": "El EZLN busca manifestarse afuera de la Segob en su visita a la CDMX con personas buscadoras: “Méxic",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero necesita fuentes más verificables y mayor equilibrio de voces para alcanzar un nivel editorial más alto.",
       "error": null
     }
   ]
