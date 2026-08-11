@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T22:25:34.619201+00:00",
-      "title": "COPPPAL se solidariza con Colombia ante sismo de 7.4 grados; llama a integrantes a apoyar labores de",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En conjunto el paquete es aceptable, pero la falta de fuentes verificables para el dato del sismo limita la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:39.396020+00:00",
-      "title": "España lucha con más de 600 bomberos contra un incendio que avanza en el suroeste",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, actual y estructurada de forma objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:44.584564+00:00",
-      "title": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una cobertura neutral y estructurada, pero la falta de fuentes verificables y evidencia concreta reduce su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:51.756551+00:00",
-      "title": "Última hora del terremoto en Colombia, en directo | Más de un centenar de muertos por el terremoto d",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero contiene errores graves de veracidad y una limitada variedad de fuentes, lo que compromete su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:56.323822+00:00",
-      "title": "Exclusivo: por qué Buenos Aires es favorita en la puja por recibir a la F1 y cuál será la carrera cl",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita mayor verificación de datos y fuentes más equilibradas para cumplir con los estándares de objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:26:00.981550+00:00",
-      "title": "¿Qué está pasando en el Metro y Metrobús CDMX hoy 10 de agosto?: una persona falleció en la Línea 12",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la verificación citando fuentes oficiales directamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:40:44.090966+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es reciente y estructurado, pero falla gravemente en veracidad y equilibrio de fuentes, lo que compromete su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:40:49.283273+00:00",
-      "title": "Clima CDMX EN VIVO y resto de México hoy lunes 10 de agosto: activan alerta naranja por pronóstico d",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, presentando la información de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:40:54.308975+00:00",
-      "title": "Morena acusa a Mijes de usar recursos públicos para promover su imagen; denuncian gasto de casi 12 m",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, pero necesita mayor contraste de fuentes para cumplir con estándares de equilibrio.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:40:59.007875+00:00",
-      "title": "Por el terremoto en Colombia, se suspendió el partido entre River e Independiente Santa Fe",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares, aunque algunas cifras requieren verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:41:07.044788+00:00",
-      "title": "Quibdó, Cali, Pereira y Manizales: las cuatro ciudades donde se concentra el golpe del terremoto en ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de noticia, aunque presenta imprecisiones que afectan su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:41:10.587683+00:00",
-      "title": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta la información de forma clara y reciente, pero la falta de fuentes verificables y posibles inconsistencias reducen su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T22:41:19.841800+00:00",
       "title": "Gobernar las conciencias",
       "kind": "noticia",
@@ -3392,6 +3188,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, resultando apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:20:41.764653+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo hace inadecuado para publicación; aunque es reciente y está bien estructurado, la falta de datos verificables y el sesgo evidente son críticos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:20:48.484900+00:00",
+      "title": "Las últimas previsiones para Ciudad de México: temperatura, lluvias y viento este 11 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura y objetividad, pero la falta de fuentes meteorológicas oficiales reduce la precisión y el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:20:56.695159+00:00",
+      "title": "Embajador Johnson reconoce a Semar por aseguramiento de más de una tonelada de cocaína; celebra golp",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta datos no verificables y falta de fuentes múltiples, lo que compromete su fiabilidad y objetividad, pese a estar actualizado y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:01.677148+00:00",
+      "title": "Colombia: Valle del Cauca, Chochó y eje cafetero, las más afectadas por el terremoto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, aunque podría mejorar la verificación mediante citas más precisas y mayor diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:09.864778+00:00",
+      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales: es preciso, objetivo, actual y bien estructurado, con fuentes fiables y contexto adecuado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:16.800926+00:00",
+      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y redactado de forma neutral, pero carece de verificabilidad y de fuentes contrastadas, lo que afecta su precisión y robustez informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:29.030011+00:00",
+      "title": "Gobernar las conciencias",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta datos mayormente correctos y está actualizado, pero carece de fuentes múltiples y muestra sesgo editorial, lo que limita su objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:33.906174+00:00",
+      "title": "Puebla destina 19 millones de pesos a obras en la Mixteca",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero contiene errores de factualidad y falta de balance en la cobertura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:38.721625+00:00",
+      "title": "¿Qué está pasando en el Metro y Metrobús CDMX hoy 10 de agosto?: una persona falleció en la Línea 12",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de un artículo informativo reciente y objetivo, aunque podría mejorar la verificación citando fuentes oficiales adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:49.450319+00:00",
+      "title": "Donald Trump ve como \"un terrible error\" que Infantino salga de la FIFA",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete necesita mejorar la verificación de hechos y la diversidad de fuentes para alcanzar los estándares de objetividad y precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:21:56.761365+00:00",
+      "title": "\"Estamos en la calle\": desesperación en el Chocó, epicentro del mortífero terremoto en Colombia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete informa sobre un hecho reciente con una estructura adecuada, pero la falta de fuentes verificadas y la carga emotiva reducen su puntuación en veracidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:22:03.855939+00:00",
+      "title": "La inesperada reacción de Morena Beltrán con Galíndez luego de que el arquero de Huracán le dijera “",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es enmente sólido, con buena estructuración y objetividad, aunque podría reforzarse con fuentes múltiples para mayor robustez.",
       "error": null
     }
   ]
