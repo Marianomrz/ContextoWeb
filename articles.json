@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-11T10:41:34.587972+00:00",
+  "generated_at": "2026-08-11T11:00:29.208002+00:00",
   "articles": [
+    {
+      "id": "4cc347c36686",
+      "title": "Esdpectacular",
+      "summary": "El Economista publica una sección de \"cartones\" que recopila los últimos artículos de opinión y columnas, indicando título, autor y fecha de publicación.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/esdpectacular-20260811-827648.html",
+      "published_at": "2026-08-11T08:06:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a enumerar títulos y autores sin usar lenguaje cargado ni citar fuentes, por lo que no muestra sesgo político.",
+      "focus_analysis": "El medio elige destacar la variedad de sus columnas editoriales, enfocándose en la presentación de contenidos recientes y omitiendo análisis de fondo o contexto político.",
+      "focus_tags": [
+        "columnas editoriales",
+        "lista de artículos",
+        "cultura mediática"
+      ],
+      "context": [
+        {
+          "label": "El Economista",
+          "text": "El Economista es un diario económico de alcance nacional en español, conocido por su cobertura de finanzas, mercados y análisis político."
+        },
+        {
+          "label": "Cartón",
+          "text": "En la prensa hispana, el término \"cartón\" se usa para referirse a columnas de opinión o piezas editoriales que suelen abordar temas de actualidad con un tono más libre."
+        },
+        {
+          "label": "Tendencias editoriales",
+          "text": "Recientemente, los medios han aumentado la publicación de columnas cortas y multimedia para captar la atención de lectores jóvenes y diversificar su oferta de contenido."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "8c726a30b0ad",
+      "title": "La fotografía de Manuel Álvarez Bravo dialoga en Chiapas con el ingenio textil",
+      "summary": "La exposición de 84 fotografías de Manuel Álvarez Bravo, inaugurada en el Centro de Textiles del Mundo Maya de San Cristóbal de las Casas, ofrece al público una mirada sobre la vida cotidiana y la identidad cultural mexicana a través de la fotografía del siglo XX.",
+      "category": "sociedad",
+      "source_name": "La Jornada Cultura",
+      "source_url": "https://www.jornada.com.mx/2026/08/11/cultura/a04n1cul?partner=rss",
+      "published_at": "2026-08-11T08:52:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y elogioso sin emplear vocabulario cargado ni citar fuentes polémicas; se centra en la valoración cultural del artista y la exposición.",
+      "focus_analysis": "El medio eligió destacar el valor cultural y simbólico de la fotografía de Álvarez Bravo y su relación con el patrimonio textil, omitiendo cualquier análisis económico o político del evento.",
+      "focus_tags": [
+        "cultura mexicana",
+        "fotografía histórica",
+        "patrimonio textil"
+      ],
+      "context": [
+        {
+          "label": "Manuel Álvarez Bravo",
+          "text": "Manuel Álvarez Bravo (1902‑2002) es considerado uno de los fotógrafos más influyentes de México, cuya obra capturó la cotidianidad y la riqueza cultural del país durante casi siete décadas."
+        },
+        {
+          "label": "Centro de Textiles del Mundo Maya (CTMM)",
+          "text": "El CTMM, ubicado en el ex convento de Santo Domingo en San Cristóbal de las Casas, es una institución dedicada a la preservación, investigación y difusión del legado textil de los pueblos originarios de la región maya."
+        },
+        {
+          "label": "Tendencias de vinculación arte‑patrimonio en México",
+          "text": "En los últimos años, instituciones como Banamex Cultural y museos regionales han impulsado exposiciones que conectan la fotografía y otras artes visuales con tradiciones indígenas para reforzar la identidad nacional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f5d1317fa095",
+      "title": "Precio de la gasolina en Puebla hoy martes 11 de agosto: ¿En cuánto está el litro de Magna y Premium?",
+      "summary": "El 11 de agosto de 2026 la Comisión Nacional de Energía informó que el litro de gasolina Magna en Puebla cuesta 23.726 pesos y el de Premium 28.028 pesos, mientras que el diésel está a 26.998 pesos.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/11/precio-de-la-gasolina-en-puebla-hoy-martes-11-de-agosto-en-cuanto-esta-el-litro-de-magna-y-premium/",
+      "published_at": "2026-08-11T10:15:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos de precios y la función de la CNE sin usar lenguaje cargado ni favorecer a ningún grupo político.",
+      "focus_analysis": "El medio se centra en el aspecto económico de los precios de los combustibles y en la labor institucional de la CNE, dejando de lado un análisis más profundo de la política energética o del debate público sobre la inflación.",
+      "focus_tags": [
+        "precios de gasolina",
+        "Puebla",
+        "CNE"
+      ],
+      "context": [
+        {
+          "label": "Regulación energética",
+          "text": "Desde marzo de 2025 la Comisión Nacional de Energía (CNE) sustituyó a la Comisión Reguladora de Energía como único organismo encargado de supervisar precios y permisos en el sector energético de México."
+        },
+        {
+          "label": "Impacto económico",
+          "text": "Los precios de la gasolina y el diésel son factores clave que influyen en la inflación y en el gasto de los hogares mexicanos, especialmente en regiones con alta dependencia del transporte privado."
+        },
+        {
+          "label": "Política de precios",
+          "text": "En 2025 la presidenta Claudia Sheinbaum y representantes empresariales acordaron un techo de 24 pesos por litro para la gasolina tipo Magna, con el objetivo de contener los costos para los consumidores."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "18953cfb4adc",
+      "title": "Cuesta poco más que un AirTag, pero vienen cuatro unidades: así es el pack en oferta de los localizadores recargables de Ugreen",
+      "summary": "El pack de cuatro localizadores recargables Ugreen FineTrack Duo, vendido en Amazon por 32,29 €, se oferta como una opción más barata al AirTag de Apple, compatible con iOS y Android y con batería de 12 meses, aunque su precisión es inferior.",
+      "category": "tecnologia",
+      "source_name": "Applesfera",
+      "source_url": "https://www.applesfera.com/seleccion/cuesta-poco-que-airtag-vienen-cuatro-unidades-asi-pack-oferta-localizadores-recargables-ugreen",
+      "published_at": "2026-08-11T10:31:15+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto muestra un tono equilibrado al señalar tanto ventajas (precio, recargable, compatibilidad) como desventajas (menor precisión) y menciona la naturaleza afiliada sin adoptar un discurso ideológico.",
+      "focus_analysis": "El artículo se centra en la comparación de precios y funcionalidades del producto, resaltando su relación calidad‑precio para consumidores; omite análisis de impacto ambiental de las baterías recargables y la evolución del mercado de rastreadores Bluetooth.",
+      "focus_tags": [
+        "tecnología",
+        "gadgets",
+        "ofertas"
+      ],
+      "context": [
+        {
+          "label": "AirTag de Apple",
+          "text": "El AirTag, accesorio de Apple lanzado en 2021, utiliza una batería de celda reemplazable y ofrece alta precisión dentro de la red 'Buscar' de iOS, pero su precio suele ser superior al de alternativas de marcas genéricas."
+        },
+        {
+          "label": "Mercado de rastreadores Bluetooth",
+          "text": "Además de Apple, compañías como Tile y Samsung venden dispositivos de localización compatibles con iOS y Android, diversificando la oferta y generando competencia en precios y características."
+        },
+        {
+          "label": "Práctica de afiliados en medios tech",
+          "text": "Muchos sitios de tecnología incluyen enlaces de afiliados que generan comisiones, lo que puede influir en la presentación de productos pero tienden a destacar los aspectos positivos para incentivar la compra."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "dc802f77bb8f",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Albares asegura que “hasta la última persona” que entró irregularmente en Ceuta volverá a Marruecos",
+      "summary": "El ministro del Interior de España, Fernando Albares, y el presidente de la ciudad autónoma de Ceuta, Juan Carlos Bolaños, declararon que todos los migrantes que ingresaron irregularmente en Ceuta, especialmente los menores, serán repatriados a Marruecos.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-11/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-11T10:51:11+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto destaca la postura del gobierno y la urgencia de la expulsión sin presentar voces críticas o humanitarias, usando un lenguaje que refuerza la medida de control migratorio.",
+      "focus_analysis": "El artículo se centra en la perspectiva institucional y de seguridad del gobierno español respecto al retorno de migrantes, dejando de lado la dimensión de derechos humanos y la situación de los propios migrantes.",
+      "focus_tags": [
+        "inmigración",
+        "seguridad",
+        "política migratoria"
+      ],
+      "context": [
+        {
+          "label": "situación histórica",
+          "text": "Ceuta, enclave español en el norte de África, ha sido punto de entrada frecuente de migrantes procedentes de Marruecos, con picos de llegadas que ponen presión sobre las autoridades locales."
+        },
+        {
+          "label": "marco legal",
+          "text": "La normativa española, incluida la Ley de Extranjería y los decretos de retorno, permite la expulsión de personas que ingresan de forma irregular y prioriza la reunificación familiar de menores."
+        },
+        {
+          "label": "cobertura de otro medio",
+          "text": "Otros medios, como la BBC Mundo, han señalado que redes sociales han fomentado los cruces y que Meta ha retirado publicaciones que incitan al movimiento masivo, enfocándose en la dimensión digital del fenómeno."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "1c965bfa7eac",
+      "title": "Fallece Miguel Mancera Aguayo, primer gobernador de Banxico tras su autonomía",
+      "summary": "Miguel Mancera Aguayo, el primer gobernador autónomo del Banco de México, falleció a los 93 años después de una carrera de más de cuatro décadas en la política monetaria y la academia mexicana.",
+      "category": "economia",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/1108/mexico/fallece-miguel-mancera-aguayo-primer-gobernador-de-banxico-tras-su-autonomia/",
+      "published_at": "2026-08-11T10:55:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono descriptivo y equilibrado, citando tanto a instituciones como al Banco de México y al IPAB como a una figura política de Morena, sin usar lenguaje cargado ni favorecer una visión particular.",
+      "focus_analysis": "El medio se centró en el legado institucional y la contribución de Mancera Aguayo a la estabilidad financiera de México, dejando de lado aspectos personales o controversias específicas de su gestión.",
+      "focus_tags": [
+        "economía mexicana",
+        "Banxico",
+        "legado institucional"
+      ],
+      "context": [
+        {
+          "label": "Autonomía de Banxico",
+          "text": "En 1994, reformas legales otorgaron autonomía al Banco de México, marcando un hito en la política monetaria del país y permitiendo mayor independencia frente al gobierno."
+        },
+        {
+          "label": "Crisis y reformas monetarias",
+          "text": "Durante los años noventa, México enfrentó crisis cambiarias, incluida la devaluación del peso en 1994, en la que el Banco de México jugó un papel crucial bajo la dirección de Mancera Aguayo."
+        },
+        {
+          "label": "Cobertura de medios",
+          "text": "Otros medios destacaron diferentes ángulos: Expansión subrayó la transición a la autonomía, Infobae resaltó la duración de su mandato y El Sol de México enfatizó su gestión durante periodos de crisis económicas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "4cc347c36686",
       "title": "Esdpectacular",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.4
-      }
-    },
-    {
-      "id": "19ce30f51efb",
-      "title": "Tras ocho años la Fortaleza, Domingo Santana vivirá nuevamente PlayOffs en LMB",
-      "summary": "Los Bravos de León, equipo de béisbol de la Liga Mexicana de Beisbol, volverán a los Playoffs después de ocho años, enfrentándose a los Olmecas de Tabasco en el Estadio Domingo Santana de León, Guanajuato.",
-      "category": "deportes",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/superdeportivo/2026/08/11/tras-ocho-anos-la-fortaleza-domingo-santana-vivira-nuevamente-playoffs-en-lmb-1830056.html",
-      "published_at": "2026-08-11T10:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono entusiasta y localista, resaltando el orgullo de la afición, pero no incluye lenguaje cargado ni sesgo político, limitándose a describir el evento deportivo.",
-      "focus_analysis": "El medio se centra en el aspecto humano y festivo del regreso a los Playoffs y la tradición del club, dejando de lado análisis económicos o de seguridad relacionados con el evento.",
-      "focus_tags": [
-        "deportes",
-        "playoffs",
-        "León"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "Los Bravos de León no habían participado en una serie de postemporada desde 2018, cuando fueron eliminados por los Leones de Yucatán con un marcador de 5‑1."
-        },
-        {
-          "label": "Formato de la LMB",
-          "text": "En 2018 la Liga Mexicana de Beisbol adoptó un formato de dos torneos cortos, Primavera y Otoño, que modificó la estructura de la temporada y los criterios de clasificación a los Playoffs."
-        },
-        {
-          "label": "Impacto regional",
-          "text": "Los partidos de Playoffs en León suelen generar una importante afluencia de aficionados, lo que beneficia a los comercios locales y refuerza la identidad deportiva de la ciudad."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "4cc347c36686",
-      "title": "Esdpectacular",
-      "summary": "El Economista presentó una lista de sus últimos 'cartones' publicados por los autores Chavo del Toro y Perujo, que abordan temas como fauna, censura, política y economía.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/cartones/esdpectacular-20260811-827648.html",
-      "published_at": "2026-08-11T08:06:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a enumerar contenidos sin usar un cargado ni ofrecer opiniones, por lo que mantiene una postura neutral.",
-      "focus_analysis": "El medio se centra en catalogar sus piezas de opinión y humor gráfico, dejando de lado un análisis más profundo de los asuntos políticos o económicos que tratan.",
-      "focus_tags": [
-        "cultura",
-        "entretenimiento",
-        "cartoon"
-      ],
-      "context": [
-        {
-          "label": "Sección de cartones",
-          "text": "El Economista cuenta con una sección dedicada a 'cartones', que son piezas breves de opinión o sátira acompañadas de ilustraciones."
-        },
-        {
-          "label": "Autores habituales",
-          "text": "Chavo del Toro y Perujo son colaboradores recurrentes de la sección, conocidos por su estilo crítico y humorístico sobre temas de actualidad."
-        },
-        {
-          "label": "Temas de la lista",
-          "text": "Los títulos mencionados, como 'Censura', 'INE Nueva generación' y 'Nicaragua', reflejan debates políticos y sociales relevantes en la región latinoamericana."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "dd6d49bb5871",
-      "title": "Fue una estrella del deporte, pero se convirtió en una de las mayores villanas de la historia y Los Simpson la hicieron meme",
-      "summary": "Tonya Harding, ex patinadora artística de Estados Unidos, pasó de ser una estrella del patinaje a ser recordada como la protagonista del escándalo de 1994 en que se intentó lesionar a Nancy Kerrigan, hecho que la convirtió en una figura controvertida y objeto de memes en La serie Los Simpson.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/11/fue-una-estrella-del-deporte-pero-se-convirtio-en-una-de-las-mayores-villanas-de-la-historia-y-los-simpson-la-hicieron-meme/",
-      "published_at": "2026-08-11T05:47:19+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono mayormente descriptivo y equilibrado, presentando tanto los logros como los errores de Harding sin emplear un lenguaje cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El artículo se centra en la historia personal y la dimensión mediática del escándalo, resaltando la rivalidad socio‑económica y la representación cultural, mientras deja de lado un análisis profundo de los procesos judiciales y las repercusiones institucionales en el deporte.",
-      "focus_tags": [
-        "deporte",
-        "escándalo",
-        "cultura popular"
-      ],
-      "context": [
-        {
-          "label": "Escándalo de 1994",
-          "text": "En enero de 1994, un hombre encapuchado atacó a Nancy Kerrigan en la Cobo Arena de Detroit con el objetivo de impedir su participación en los Juegos Olímpicos de Lillehammer, un hecho que desencadenó una gran cobertura mediática y la caída de la carrera de Tonya Harding."
-        },
-        {
-          "label": "Contraste socio‑económico",
-          "text": "Harding provenía de una familia con dificultades económicas y una infancia conflictiva, mientras que Kerrigan representaba la imagen glamorosa y patrocinada del patinaje artístico, una disparidad que los medios explotaron como símbolo de la brecha entre clases en EE. UU."
-        },
-        {
-          "label": "Memes y cultura popular",
-          "text": "El incidente y la figura de Harding fueron incorporados a la cultura popular, incluida una referencia en la serie animada Los Simpson, lo que consolidó su reputación como 'villana' en la imaginación colectiva."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "15e3378b2402",
-      "title": "Espliego, que no faneca (III)",
-      "summary": "En esta postal literaria, la escritora mexicana Bárbara Mingo Costales y la mexicana Aloma Rodríguez comparten recuerdos de golondrinas, piscinas y paisajes de Medinaceli y Cantavieja, mezclando descripciones de la naturaleza con anécdotas personales.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/espliego-que-no-faneca-iii/11/08/2026/",
-      "published_at": "2026-08-11T07:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a una narración poética y descriptiva sin usar vocabulario cargado ni citar fuentes políticas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio elige un ángulo estético‑personal, resaltando detalles sensoriales y recuerdos de viaje, mientras omite cualquier análisis político o social.",
-      "focus_tags": [
-        "viaje",
-        "naturaleza",
-        "descripción literaria"
-      ],
-      "context": [
-        {
-          "label": "Medio",
-          "text": "Letras Libres es una revista cultural mexicana que publica ensayos, literatura y artículos de opinión, con una línea editorial que combina lo intelectual y lo progresista."
-        },
-        {
-          "label": "Género",
-          "text": "La pieza forma parte de la tradición de las \"postales\" literarias, un formato de intercambio epistolar que se utiliza en la literatura mexicana para compartir impresiones de viajes y observaciones cotidianas."
-        },
-        {
-          "label": "Escenario geográfico",
-          "text": "Los lugares descritos, Medinaceli y Cantavieja, son pueblos históricos de España conocidos por su arquitectura medieval y su entorno natural, lo que brinda un contexto cultural y turístico a la narración."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "4481a2228263",
-      "title": "Katy Perry en la FENAPO 2026: precios y zonas de boletos con costo en el Foro de las Estrellas",
-      "summary": "La cantante estadounidense Katy Perry se presentará el 25 de agosto de 2026 en el Foro de las Estrellas de la Feria Nacional Potosina en San Luis Potosí, México, con acceso general gratuito pero zonas preferenciales que cuestan hasta 6 500 pesos.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/11/katy-perry-en-la-fenapo-2026-precios-y-zonas-de-boletos-con-costo-en-el-foro-de-las-estrellas/",
-      "published_at": "2026-08-11T08:58:33+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono mayormente informativo y positivo, resaltando la gratuidad del evento y citando elogios del gobernador, sin presentar opiniones controversiales ni lenguaje cargado.",
-      "focus_analysis": "El medio se centra en los aspectos logísticos y de precios del concierto, destacando la oferta de zonas VIP y la organización del Patronato, mientras omite el análisis del impacto económico del evento o posibles discusiones sobre la equidad del acceso.",
-      "focus_tags": [
-        "evento musical",
-        "precios boletos",
-        "FENAPO 2026"
-      ],
-      "context": [
-        {
-          "label": "FENAPO histórico",
-          "text": "La Feria Nacional Potosina, conocida como FENAPO, se celebra anualmente desde 1942 en San Luis Potosí y reúne artistas nacionales e internacionales, atrayendo a miles de visitantes."
-        },
-        {
-          "label": "Política de acceso gratuito",
-          "text": "En eventos públicos de gran escala en México, es habitual que el acceso general sea gratuito mientras que zonas premium se venden para financiar la organización y ofrecer experiencias diferenciadas."
-        },
-        {
-          "label": "Otros eventos similares",
-          "text": "Conciertos gratuitos de artistas internacionales, como el festival Vive Latino o la Expo de la Canción, también han implementado áreas VIP con precios elevados, generando debate sobre la equidad del acceso."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "3741b97f9757",
-      "title": "\"Soy Frankelda\"  llegará al streaming y va por nominación al Oscar",
-      "summary": "La película mexicana de stop‑motion \"Soy Frankelda\", dirigida por los hermanos Roy y Arturo Ambriz, será lanzada en Netflix y aspira a una nominación al Oscar tras haber superado ampliamente su presupuesto en taquilla.",
-      "category": "economia",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/soy-frankelda-llegara-al-streaming-y-va-por-nominacion-al-oscar/",
-      "published_at": "2026-08-11T09:34:56+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono mayormente positivo, destacando el éxito comercial y la proyección internacional, sin presentar críticas ni opiniones contrapuestas, lo que indica una ligera inclinación favorable hacia la producción cinematográfica.",
-      "focus_analysis": "El medio se centra en el éxito económico y la estrategia de distribución de la película, resaltando la recaudación y la llegada a plataformas de streaming, mientras deja de lado un análisis crítico de la calidad artística o del contexto político del sector audiovisual.",
-      "focus_tags": [
-        "cine mexicano",
-        "streaming",
-        "Oscar"
-      ],
-      "context": [
-        {
-          "label": "Crecimiento del cine mexicano en plataformas digitales",
-          "text": "En los últimos años, varias producciones mexicanas han firmado acuerdos con servicios de streaming internacionales, lo que ha ampliado su alcance y ha facilitado la participación en premios internacionales."
-        },
-        {
-          "label": "Proceso de nominación al Oscar para animación",
-          "text": "Para que una película animada sea elegible al Oscar, debe cumplir requisitos de exhibición en salas de cine y, en algunos casos, de disponibilidad en plataformas digitales que cumplan con los criterios de la Academia."
-        },
-        {
-          "label": "Impacto de la piratería en cineastas independientes",
-          "text": "Los creadores de obras independientes a menudo enfrentan pérdidas económicas por la venta de mercancía no autorizada, lo que los lleva a buscar nuevas vías de monetización y a considerar la distribución digital como una solución."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
       }
     }
   ]
