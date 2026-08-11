@@ -1,142 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T05:41:49.881424+00:00",
-      "title": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastadas, pese a cumplir con la actualidad y la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:42:00.429585+00:00",
-      "title": "Jan Martínez Ahrens: “Los periodistas tenemos que ser capaces de la autocrítica”",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y bien estructurado, pero carece de contraste de fuentes y muestra un sesgo editorial evidente, lo que limita su completitud informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:42:07.367300+00:00",
-      "title": "Carta abierta a dos diputadas poblanas",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita mayor contraste de fuentes y mayor objetividad para cumplir plenamente con los estándares de una nota informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:59:11.661148+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque es actual y estructurado, por lo que no cumple con los estándares editoriales de información factual y neutral.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:59:17.651551+00:00",
-      "title": "Gobernadora anuncia 17 proyectos de inversión por 2 mil 558 mdd",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, aunque una mayor referencia a fuentes oficiales para validar cifras mejoraría la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:59:25.384694+00:00",
-      "title": "Fue una estrella del deporte, pero se convirtió en una de las mayores villanas de la historia y Los ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión y estructura, aunque podría mejorar la variedad de fuentes para ofrecer un contraste más completo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:59:32.570422+00:00",
-      "title": "Mapa de sitios donde ver el eclipse total: EL PAÍS completa un buscador con casi 500 miradores ofici",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque algunos detalles podrían requerir verificación adicional y el tono crítico del medio reduce ligeramente la puntuación de objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:59:40.064941+00:00",
-      "title": "CIRT destaca avances con la Comisión Regulatoria en derechos de las audiencias; descarta censura e i",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares básicos de calidad editorial, aunque podría reforzar la verificación de afirmaciones con fuentes directas.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T05:59:46.804776+00:00",
       "title": "Desde cortes de tráfico hasta cómo fotografiarlo: las apps que necesitas para no perderte ningún det",
       "kind": "noticia",
@@ -3392,6 +3256,142 @@
         "estructura_piramide": 8
       },
       "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, pero presenta pequeñas imprecisiones y errores de forma que le restan puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:00:42.832617+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es reciente y está estructurado de forma razonable, pero falla gravemente en veracidad y objetividad, lo que lo hace inadecuado para publicación sin correcciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:00:47.293984+00:00",
+      "title": "Tras ocho años la Fortaleza, Domingo Santana vivirá nuevamente PlayOffs en LMB",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los criterios editoriales; sólo el título requiere corrección para evitar confusión y mejorar la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:00:53.629216+00:00",
+      "title": "Matías Grande destaca el trabajo de Marc Dellenbach rumbo a Los Ángeles 2028",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de fuentes verificables reduce la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:00:59.708088+00:00",
+      "title": "Última hora del terremoto en Colombia, en directo | Continúan durante la noche las labores de rescat",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la pieza muestra una estructura adecuada y tono objetivo, contiene errores graves de factualidad que comprometen su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:01:03.181887+00:00",
+      "title": "Motorola confirma los 52 móviles que reciben Android 17 de forma oficial (lista completa)",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzarse con fuentes adicionales para las comparaciones y afirmaciones no citadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:01:14.117060+00:00",
+      "title": "Espliego, que no faneca (III)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de un artículo informativo, aunque su carácter literario limita la necesidad de contraste de fuentes y de rigor factual exhaustivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:01:18.804824+00:00",
+      "title": "Fue una estrella del deporte, pero se convirtió en una de las mayores villanas de la historia y Los ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y objetivo, pero necesita mayor diversidad de fuentes para cubrir adecuadamente los diferentes puntos de vista del caso.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T10:01:24.871154+00:00",
+      "title": "Esdpectacular",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de datos verificables y fechas precisas reduce ligeramente su puntuación en veracidad.",
       "error": null
     }
   ]
