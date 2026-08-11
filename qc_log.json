@@ -1,187 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T17:21:44.309219+00:00",
-      "title": "EN VIVO | Bloqueos en carreteras, accidentes viales y manifestaciones hoy 11 de agosto: manifestante",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de una noticia objetiva y oportuna, aunque podría mejorar la verificación de fuentes y la inclusión de perspectivas oficiales para reforzar la credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:21:49.123051+00:00",
-      "title": "\"Objeto indefinido hecho de aluminio y cristal\". Así es el superyate diseñado por Steve Jobs que nun",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es preciso y objetivo, pero la ausencia de fuentes múltiples disminuye su solidez editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:30:32.859321+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en precisión y contraste de fuentes, lo que lo hace poco fiable pese a estar actualizado y estructurado de forma razonable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:30:42.951115+00:00",
-      "title": "Abaten policías a presunto asaltante tras enfrentamiento en la Cortazar-Celaya",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere añadir fuentes o citas directas para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:30:49.095260+00:00",
-      "title": "Rusia libera a exmarine de Estados Unidos; Trump dice que obtuvo la liberación durante una conversac",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mayor rigor factual y fuentes más equilibradas, aunque cumple con la actualidad y la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:30:53.495591+00:00",
-      "title": "Spotify por fin toma medidas contra los artistas generados por IA: los marcará y eliminará de las re",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actual, pero la falta de fuentes verificables y de contraste suficiente reduce su fiabilidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:31:01.357563+00:00",
-      "title": "Última hora del terremoto en Colombia, en directo | Asciende a 224 la cifra de muertos por el seísmo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 12 column 157 (char 663)"
-    },
-    {
-      "at": "2026-08-11T17:31:09.453918+00:00",
-      "title": "Ceuta y la migración como arma",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero la ausencia de fuentes diversas y su claro sesgo ideológico limitan su objetividad y rigor informativo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:31:14.352096+00:00",
-      "title": "Boca Juniors jugará contra Recoleta en la cancha de Huracán por la ida de los octavos de la Copa Sud",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría mejorar la objetividad y la diversificación de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:31:24.174367+00:00",
-      "title": "Tom Holland y Zendaya suman 65 millones de dólares de patrimonio tras sus éxitos en cine",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y estructurado correctamente, pero la precisión de los datos es cuestionable por la metodología de cálculo del patrimonio y la falta de fuentes verificables para las películas mencionadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T17:31:30.870952+00:00",
-      "title": "Alfredo Ramírez Bedolla celebra detención de 12 presuntos sicarios del CJNG y Los Caballeros Templar",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es oportuno y estructurado, pero su tono celebratorio y la falta de fuentes críticas limitan su objetividad y contraste de perspectivas.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T17:31:36.959920+00:00",
       "title": "Sargazo rompe récord en 2026 con más de 90 mil toneladas diarias; alga golpea playas, turismo y salu",
       "kind": "noticia",
@@ -3386,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, aunque podría mejorar la verificación mediante fuentes oficiales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:23:39.539097+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero presenta graves fallos de veracidad y parcialidad, con escaso contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:23:47.264165+00:00",
+      "title": "Gemini, la IA de Google, alcanza los mil millones de usuarios",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la pieza es muy reciente y está bien estructurada, carece de verificación de datos y de fuentes contrastadas, y muestra un claro sesgo promocional que compromete su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:23:51.767362+00:00",
+      "title": "Boca Juniors se enfrenta a Recoleta en la cancha de Huracán por la ida de los octavos de la Copa Sud",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una cobertura clara y bien estructurada del encuentro deportivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:23:57.489373+00:00",
+      "title": "Temblor hoy 11 de agosto en México: se registró un sismo de magnitud 4.2 en la costa de Coyuca de Be",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, objetiva y bien estructurada sobre el sismo reciente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:24:03.962398+00:00",
+      "title": "Polémica por la forma en que Trump salió de Ankara",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual y la diversidad de fuentes para cumplir con los estándares de objetividad y veracidad, aunque su actualidad y estructura son adecuados.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:24:08.659265+00:00",
+      "title": "El Galaxy S26 FE filtra todas sus características y ya no quedan sorpresas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general de buena calidad, con información reciente y presentación clara, aunque podría reforzarse con fuentes verificables para mejorar la precisión de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:24:22.028552+00:00",
+      "title": "La voluntad de los muertos",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita mayor verificación de hechos y fuentes más diversas para alcanzar los estándares de objetividad y rigor.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:24:26.916523+00:00",
+      "title": "Peso mexicano toca su mejor nivel del año frente al dólar antes del dato clave de inflación de EU",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, presentando datos verificados, fuentes confiables y una estructura clara.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:24:32.778688+00:00",
+      "title": "Aylín Mujica dedica desgarradora felicitación a su hijo Mauro a un mes de su muerte: \"Te prometo que",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando una noticia reciente, bien estructurada y basada en fuentes fiables, con un enfoque objetivo y sin sesgo evidente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:24:37.047509+00:00",
+      "title": "Independiente Rivadavia visita a Fluminense en el Maracaná por los octavos de final de la Libertador",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es objetivo y actual, pero presenta graves deficiencias de veracidad y falta de fuentes contrastantes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T21:24:40.826938+00:00",
+      "title": "Santiago Giménez ya habría acordado y estaría a una firma de llegar al Porto",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de buena calidad editorial, cumple con los estándares de objetividad y actualidad, aunque podría reforzar la verificación de cifras económicas.",
       "error": null
     }
   ]
