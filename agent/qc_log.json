@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T03:01:33.035725+00:00",
-      "title": "Los aliados acusan a la FIFA de “engaño” en relación con los planes para la Copa del Mundo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística; solo se sugiere añadir fuentes verificables para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:01:42.349510+00:00",
-      "title": "VANS Warped Tour México: Simple Plan, Destroy Boys, Escape the Fate y más en el cartel completo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la robustez de fuentes añadiendo referencias adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:01:49.403494+00:00",
-      "title": "Fallece Miguel Mancera Aguayo,  ex Gobernador de Banxico",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, resultando apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:20:41.764653+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.4,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo hace inadecuado para publicación; aunque es reciente y está bien estructurado, la falta de datos verificables y el sesgo evidente son críticos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:20:48.484900+00:00",
-      "title": "Las últimas previsiones para Ciudad de México: temperatura, lluvias y viento este 11 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la estructura y objetividad, pero la falta de fuentes meteorológicas oficiales reduce la precisión y el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:20:56.695159+00:00",
-      "title": "Embajador Johnson reconoce a Semar por aseguramiento de más de una tonelada de cocaína; celebra golp",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta datos no verificables y falta de fuentes múltiples, lo que compromete su fiabilidad y objetividad, pese a estar actualizado y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:21:01.677148+00:00",
-      "title": "Colombia: Valle del Cauca, Chochó y eje cafetero, las más afectadas por el terremoto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, aunque podría mejorar la verificación mediante citas más precisas y mayor diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:21:09.864778+00:00",
-      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales: es preciso, objetivo, actual y bien estructurado, con fuentes fiables y contexto adecuado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:21:16.800926+00:00",
-      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y redactado de forma neutral, pero carece de verificabilidad y de fuentes contrastadas, lo que afecta su precisión y robustez informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:21:29.030011+00:00",
-      "title": "Gobernar las conciencias",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta datos mayormente correctos y está actualizado, pero carece de fuentes múltiples y muestra sesgo editorial, lo que limita su objetividad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:21:33.906174+00:00",
-      "title": "Puebla destina 19 millones de pesos a obras en la Mixteca",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero contiene errores de factualidad y falta de balance en la cobertura.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:21:38.721625+00:00",
-      "title": "¿Qué está pasando en el Metro y Metrobús CDMX hoy 10 de agosto?: una persona falleció en la Línea 12",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de un artículo informativo reciente y objetivo, aunque podría mejorar la verificación citando fuentes oficiales adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:21:49.450319+00:00",
-      "title": "Donald Trump ve como \"un terrible error\" que Infantino salga de la FIFA",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita mejorar la verificación de hechos y la diversidad de fuentes para alcanzar los estándares de objetividad y precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T03:21:56.761365+00:00",
       "title": "\"Estamos en la calle\": desesperación en el Chocó, epicentro del mortífero terremoto en Colombia",
       "kind": "noticia",
@@ -3398,6 +3177,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para ofrecer un mayor contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:14.789194+00:00",
+      "title": "Una estrella que se cuela entre la rutina",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "originalidad_creatividad": 5,
+        "riqueza_estilo": 5,
+        "estructura_narrativa": 4,
+        "voz_autor": 5,
+        "profundidad_tematica": 6
+      },
+      "observacion": "El material muestra una idea interesante y un estilo razonable, pero necesita una narrativa más completa y una voz más singular para alcanzar la calidad editorial esperada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:20.089914+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 8,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad requeridos para una publicación informativa; necesita corrección de datos y mayor equilibrio de fuentes antes de considerarse apto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:26.472210+00:00",
+      "title": "Filtración de ‘Star Wars’ apunta al fichaje de una gran estrella de ‘Guardianes de la Galaxia’ de Ma",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta la información con rapidez y estructura adecuada, pero la falta de fuentes verificadas y la dependencia de un rumor reducen su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:32.201181+00:00",
+      "title": "En directo: Colombia sigue bajo alerta por réplicas tras el terremoto de magnitud 7,4",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de rigor, objetividad y estructura esperados para una nota informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:38.529556+00:00",
+      "title": "La Casa de los Famosos México EN VIVO: Brianda Deyanara es la líder de la tercera semana",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, actual y estructurada con fuentes apropiadas y sin sesgo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:45.434524+00:00",
+      "title": "Ángel Aguirre controlaba crimen y policía, indican testigos; ordenó a destruir evidencias del caso A",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y sigue la pirámide invertida, pero sufre de falta de verificación de datos, ausencia de fuentes contrastantes y sesgo en la presentación, lo que afecta su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:54.420007+00:00",
+      "title": "Espliego, que no faneca (III)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 4
+      },
+      "observacion": "El paquete corresponde a una columna literaria, no a una noticia factual; cumple con precisión y neutralidad, pero carece de la estructura y contraste de fuentes requeridos para un artículo periodístico tradicional.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:45:59.763129+00:00",
+      "title": "Fue una estrella del deporte, pero se convirtió en una de las mayores villanas de la historia y Los ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y estructurado, pero presenta imprecisiones y falta de fuentes contrastantes, y el tono cargado reduce su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:46:04.099763+00:00",
+      "title": "El auge de las cadenas de tiendas económicas",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y reciente, aunque podría reforzarse con fuentes adicionales y datos verificables para elevar la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:46:08.248601+00:00",
+      "title": "La nueva función de ChatGPT es una maravilla: adiós a la pereza de reservar mesa en un restaurante",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero muestra un sesgo favorable y una cobertura de fuentes limitada, lo que reduce su objetividad e imparcialidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:46:13.303555+00:00",
+      "title": "Trump fue evacuado en secreto de Turquía ante una amenaza iraní de asesinato",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la pieza está bien estructurada y es objetiva, falla gravemente en veracidad al presentar hechos no verificables y una afirmación incorrecta sobre la presidencia de Trump, lo que la hace inadecuada para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:46:17.365243+00:00",
+      "title": "Ryan Hoffman revela detalles de su historia con Brianda Deyanara y le envía un mensaje en La Casa de",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y bien estructurado, aunque la falta de evidencia directa reduce la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:46:23.202498+00:00",
+      "title": "Galilea Montijo remonta con comercial de tintes de pelo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzar la veracidad con fuentes más explícitas.",
       "error": null
     }
   ]
