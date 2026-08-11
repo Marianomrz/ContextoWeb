@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T22:10:08.379263+00:00",
-      "title": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero muestra serias deficiencias de veracidad y objetividad, con datos no corroborados y falta de contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:10:12.887296+00:00",
-      "title": "El día que los adolescentes Guillermo Coria, David Nalbandian y Antonio Pastorino hicieron historia:",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la precisión factual y la corroboración de fuentes, aunque su tono es objetivo y está bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:10:17.428706+00:00",
-      "title": "Cómo una anotación en un diario personal me ayudó a resolver un asesinato",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta la información de forma estructurada y objetiva, pero la falta de verificabilidad de los datos clave reduce su credibilidad general.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:10:27.188301+00:00",
-      "title": "Jan Martínez Ahrens: “Los periodistas tenemos que ser capaces de la autocrítica”",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la precisión factual y ampliar la variedad de fuentes para cumplir con los estándares de veracidad y contraste. En su forma actual, la información es reciente y bien estructurada, pero la exactitud y la neutralidad son insuficientes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:10:32.601678+00:00",
-      "title": "Eclipse de agosto: México quedará fuera de la totalidad",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría mejorar citando fuentes adicionales como agencias espaciales para reforzar la autoridad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:10:38.415155+00:00",
-      "title": "No se reportan mexicanos afectados por sismo en Colombia; piden revisar estatus de vuelos",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando datos precisos, fuentes fiables y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:11.060659+00:00",
-      "title": "Bajo la flauta de bambú: la escarcha de 'País de nieve'",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 7,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una perspectiva interesante y una voz consistente, aunque podría enriquecer su estilo retórico.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:16.461329+00:00",
-      "title": "Los participantes chillan como cerdos en el campeonato de un pueblo francés",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es claro y objetivo, pero la precisión de los datos y la falta de fuentes múltiples reducen su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:22.049374+00:00",
-      "title": "El entrenador que nunca se fue: 20 años junto a una tenista que peleó contra las lesiones, la falta ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo, aunque podría reforzar la veracidad con fuentes más explícitas y diversificar las referencias.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:25:27.798435+00:00",
-      "title": "Progol 2345: resultados ganadores del lunes 10 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es objetivo y actual, pero la ausencia de datos verificables y de fuentes oficiales limita su precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T22:25:34.619201+00:00",
       "title": "COPPPAL se solidariza con Colombia ante sismo de 7.4 grados; llama a integrantes a apoyar labores de",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "En general, el paquete es informativo y bien estructurado, pero contiene un error factual sobre el presidente, lo que le resta credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:00:42.678517+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla en veracidad y objetividad, aunque está bien estructurado y actualizado; requiere fuentes fiables y un tono más neutral para cumplir con los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:00:48.252008+00:00",
+      "title": "Alito Moreno acusa a Movimiento Ciudadano de hacerle “el trabajo sucio” al régimen de la 4T",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en general con los estándares de un artículo informativo, aunque la falta de fuentes verificables y la escasa diversidad de voces reducen ligeramente la puntuación de veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:00:57.349971+00:00",
+      "title": "Donald Trump ve como \"un terrible error\" que Infantino salga de la FIFA",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque está actualizado y estructurado adecuadamente. Necesita fuentes fiables y un enfoque más equilibrado antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:01:01.192484+00:00",
+      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:01:10.202923+00:00",
+      "title": "\"Estamos en la calle\": desesperación en el Chocó, epicentro del mortífero terremoto en Colombia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero la ausencia de verificación externa del terremoto disminuye ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:01:15.202156+00:00",
+      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y redactado de forma objetiva, pero la falta de fuentes verificables y la ausencia de evidencia concreta sobre la función de iOS 27 reducen su puntuación de veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:01:27.921226+00:00",
+      "title": "Gobernar las conciencias",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es preciso y oportuno, pero su falta de fuentes contrastantes reduce la amplitud del análisis y la capacidad de ofrecer una visión equilibrada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:01:33.035725+00:00",
+      "title": "Los aliados acusan a la FIFA de “engaño” en relación con los planes para la Copa del Mundo",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística; solo se sugiere añadir fuentes verificables para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:01:42.349510+00:00",
+      "title": "VANS Warped Tour México: Simple Plan, Destroy Boys, Escape the Fate y más en el cartel completo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la robustez de fuentes añadiendo referencias adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T03:01:49.403494+00:00",
+      "title": "Fallece Miguel Mancera Aguayo,  ex Gobernador de Banxico",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, resultando apto para publicación.",
       "error": null
     }
   ]
