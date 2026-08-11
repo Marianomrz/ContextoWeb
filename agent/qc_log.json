@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T18:01:15.149838+00:00",
-      "title": "Claude empezará a poner una marca invisible en todo lo que escribe para que sepas que es de una IA",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de veracidad, objetividad y actualidad, aunque podría reforzarse con fuentes primarias y mayor contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:01:26.790380+00:00",
-      "title": "Ceuta y la migración como arma",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete no cumple con los estándares de precisión y equilibrio requeridos para una noticia objetiva; necesita fuentes múltiples y verificación de datos antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:01:33.350764+00:00",
-      "title": "Ivonne Mejía dirigirá Microsoft México durante la expansión de su infraestructura de inteligencia ar",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, siendo apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:01:41.214191+00:00",
-      "title": "Morena tacha de hipócrita a Alito Moreno por denuncia del INE en EEUU: lo califica de “traidor a la ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta problemas de precisión por la inconsistencia de nombres, pero en general respeta la estructura invertida y ofrece contraste de fuentes; se recomienda corregir el error de nombre antes de la publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:01:49.694401+00:00",
-      "title": "Boca Juniors jugará contra Recoleta en la cancha de Huracán por la ida de los octavos de la Copa Sud",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete informa el partido pero contiene errores factuales que comprometen su veracidad; necesita verificación de datos antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:01:55.968671+00:00",
-      "title": "Senado alista reforma que garantiza autonomía de 70 pueblos indígenas; beneficia a 25 millones de pe",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero carece de fuentes contrastantes y de equilibrio objetivo, lo que limita su calidad periodística.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:02:01.933231+00:00",
-      "title": "Última hora del terremoto en Colombia, en directo | Asciende a 224 la cifra de muertos por el seísmo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes, objetividad, actualidad y estructura, siendo apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:02:09.412031+00:00",
-      "title": "Las plantas solares en España tienen un problema: bandas organizadas de ladrones que les están roban",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y estructurado correctamente, pero necesita fuentes más diversificadas y datos verificables para reforzar su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:02:17.890969+00:00",
-      "title": "Espliego, que no faneca (III)",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple adecuadamente con los estándares de un artículo informativo, pese a su naturaleza literaria, y es apto para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T18:20:45.739051+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y fuentes fiables, aunque es reciente y está bien estructurado.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T18:20:50.991227+00:00",
       "title": "Última hora del terremoto en Colombia, en directo | Asciende a 224 la cifra de muertos por el seísmo",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, actual y estructurada de manera objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:00:53.073602+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y precisión, lo que compromete su calidad editorial, aunque cumple con actualidad y estructura. Se recomienda revisión profunda de datos antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:00:58.092035+00:00",
+      "title": "“¡Vamos a sorprenderlo!”: el enorme gesto del piloto de Fórmula 2 Nico Varrone con un pequeño fan",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de una noticia objetiva y reciente, aunque podría mejorar la verificación con fuentes externas y mayor contraste de voces.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:02.767677+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 11 de agosto: Detienen a 12 presuntos integ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y estructura, aunque la falta de citas verificables reduce la precisión de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:08.530672+00:00",
+      "title": "Un usuario le pidió a su agente de IA que le reservase hora en el gimnasio. Lo logró expulsando prim",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero necesita más evidencia y fuentes contrastantes para reforzar su veracidad y contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:15.312194+00:00",
+      "title": "Adal Ramones será, nuevamente, titular en la conducción de \"La granja VIP\"; en redes opinan \"dejen s",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, bien contextualizada y estructurada de forma clara.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:22.069028+00:00",
+      "title": "Jódar vence a Fils en dos sets y llega por primera vez a unas semifinales de Masters 1000",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el artículo es objetivo y actual, pero presenta errores factuales que disminuyen su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:31.933274+00:00",
+      "title": "La voluntad de los muertos",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta graves problemas de veracidad y falta de fuentes contrastadas, pese a su actualidad y estructura razonable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:34.378479+00:00",
+      "title": "Cristiano Ronaldo y Georgina Rodríguez se casan en una ceremonia íntima en Portugal",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la presentación es estructuralmente correcta y neutral, la falta de evidencia verificable sobre la boda hace que el artículo no cumpla con los estándares de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:39.229445+00:00",
+      "title": "Boca Juniors se enfrenta a Recoleta en la cancha de Huracán por la ida de los octavos de la Copa Sud",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, con una estructura clara, aunque podría reforzar la verificación con fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T22:01:47.814950+00:00",
+      "title": "Quién es Da’vian Kimbrough, el talento juvenil que rechazó a Estados Unidos y apuesta por el Tri",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, con solo pequeñas áreas de mejora en la diversificación de fuentes.",
       "error": null
     }
   ]
