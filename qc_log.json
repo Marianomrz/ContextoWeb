@@ -1,261 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T04:46:01.024844+00:00",
-      "title": "Trayectoria de aumentos de tasas del BOJ se topa con problemas del mercado de bonos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene errores de veracidad que comprometen su fiabilidad, aunque mantiene una estructura clara y tono objetivo; necesita fuentes más diversificadas y corregir datos incorrectos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T04:46:05.637202+00:00",
-      "title": "Matan a balazos a un hombre en la División del Norte, en Salvatierra",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de objetividad y actualidad; sólo necesita fuentes más verificables para reforzar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T04:46:09.859081+00:00",
-      "title": "Colombia amanece bajo el estado de emergencia por el terremoto que deja más de 130 muertos",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la estructura y la actualidad, pero la veracidad de los datos es dudosa y la evidencia de fuentes es limitada, lo que reduce su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T04:46:13.703925+00:00",
-      "title": "Terremoto en Colombia suma 132 muertos y más de 570 heridos; declaran desastre nacional",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, bien contrastada y objetiva, con estructura adecuada y actualidad inmediata.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T04:46:20.813996+00:00",
-      "title": "La inesperada reacción de Morena Beltrán con Galíndez luego de que el arquero de Huracán le dijera “",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado en objetividad y actualidad, aunque podría reforzarse la verificación de algunos datos y la inclusión de fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:00:47.141690+00:00",
-      "title": "Una lámpara en la lluvia: la luz de Clarice Lispector",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 8,
-        "voz_autor": 9,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una perspectiva interesante y una presentación clara, pese a algunos giros temáticos algo familiares.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:00:51.911540+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en precisión y objetividad, aunque está actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:00:59.162861+00:00",
-      "title": "Donald Trump sale al rescate de su amigo Gianni Infantino",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete muestra buena actualidad y estructura, pero carece de evidencia verificable y fuentes directas, lo que afecta su precisión y la fuerza del contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:01:04.417548+00:00",
-      "title": "Lluvias afectan operación del transporte público en CDMX; suspenden servicio de la Línea 2 del Cable",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; es preciso, bien fuenteado, objetivo, reciente y estructurado de forma adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:01:11.225006+00:00",
-      "title": "La UAM reporta fuera de peligro a estudiantes en Colombia tras sismo",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información reciente, estructurada y objetiva, aunque podría reforzar la verificabilidad con fuentes citadas directamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:01:18.376659+00:00",
-      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría beneficiarse de referencias adicionales para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:01:23.911397+00:00",
-      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo presenta una estructura clara y tono objetivo, pero su falta de evidencia verificable y de fuentes múltiples compromete la fiabilidad del contenido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:01:33.515992+00:00",
-      "title": "Gobernar las conciencias",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete muestra buena actualidad y estructura, pero su precisión y contraste de fuentes son insuficientes, lo que compromete la objetividad del artículo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:01:40.672017+00:00",
-      "title": "De la Espriella hereda una Colombia blindada",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque está bien estructurado y es actual; requiere revisión profunda antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T05:01:46.265788+00:00",
-      "title": "Perú convoca a embajador ruso por caso de peruanos reclutados",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzarse con fuentes múltiples para mejorar el contraste de perspectivas.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T05:01:53.357093+00:00",
       "title": "Bills prometen solucionar críticas por asientos con vista obstruida en su nuevo estadio",
       "kind": "noticia",
@@ -3399,6 +3144,255 @@
       },
       "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la precisión de los datos podría mejorarse con fuentes y fechas verificables.",
       "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:04.402739+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.0,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 8,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, por lo que no cumple los estándares editoriales para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:09.698913+00:00",
+      "title": "Jordi Nebot, experto en soluciones de pago: \"Muy mal se tiene que dar para que hayas sido víctima de",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado adecuadamente, pero la falta de fuentes verificables para la entidad y el experto reduce su precisión factual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:16.878324+00:00",
+      "title": "Trump defiende a Infantino: ‘Sería un terrible error reemplazarlo’",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 8,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la veracidad y la variedad de fuentes para cumplir con los estándares de información objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:22.530366+00:00",
+      "title": "Katy Perry en la FENAPO 2026: precios y zonas de boletos con costo en el Foro de las Estrellas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad, actualidad y estructura, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:27.518499+00:00",
+      "title": "Detenido un hombre por el asesinato de su pareja en Marbella",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, y es adecuado para publicación inmediata.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:36.994620+00:00",
+      "title": "Espliego, que no faneca (III)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 4.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 5,
+        "estructura_piramide": 4
+      },
+      "observacion": "El paquete es una pieza literaria más que una noticia informativa; no satisface los requisitos de objetividad y contraste requeridos para un artículo de noticias.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:40.976524+00:00",
+      "title": "Fue una estrella del deporte, pero se convirtió en una de las mayores villanas de la historia y Los ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es reciente, pero necesita mejorar la precisión factual, diversificar fuentes y eliminar lenguaje valorativo para alcanzar mayor objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:43.594408+00:00",
+      "title": "Esdpectacular",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de objetividad y actualidad, aunque la falta de fuentes verificables para los autores citados limita ligeramente su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:50.427288+00:00",
+      "title": "Filtran la batería del iPhone 18 Pro Max: será salvaje y dejará atrás a cualquier otro modelo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta información no verificada y sesgada; requiere fuentes fiables y un enfoque más objetivo antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:10:55.995387+00:00",
+      "title": "Tribunal de Disciplina ya suspendió jueces por diferencias de criterio: Javier Laynez",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de noticia objetiva y actual, aunque necesita mayor contraste de fuentes y mayor neutralidad en el lenguaje para reforzar su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:11:03.814651+00:00",
+      "title": "Detienen y liberan al alcalde de Kinchil, Irvin Pisté Canul: qué se sabe del caso",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad informativa, aunque podría beneficiarse de una mayor variedad de voces en el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:11:08.925333+00:00",
+      "title": "Última hora del terremoto en Colombia, en directo | Continúan durante la noche las labores de rescat",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra buena estructura y objetividad, pero la precisión de los datos y la falta de fuentes verificables reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:11:17.519185+00:00",
+      "title": "Gobernar las conciencias",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero necesita mayor contraste de fuentes y verificación de las afirmaciones para alcanzar un nivel editorial más alto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:11:23.635015+00:00",
+      "title": "Fue el heredero de la 10 de Messi en Barcelona, superó graves lesiones y se lanzó como artista music",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero necesita mejorar la verificación de datos y la objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T09:11:28.492074+00:00",
+      "title": "Fauna 4Ternaria",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 16 column 198 (char 1052)"
     }
   ]
 }
