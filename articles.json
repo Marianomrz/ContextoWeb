@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-11T17:41:55.009298+00:00",
+  "generated_at": "2026-08-11T18:02:18.932555+00:00",
   "articles": [
+    {
+      "id": "15e3378b2402",
+      "title": "Espliego, que no faneca (III)",
+      "summary": "Bárbara Mingo Costales y Aloma Rodríguez, colaboradoras de la revista literaria Letras Libres, intercambian en una serie de cartas una descripción poética de su viaje, destacando la presencia de golondrinas sobre la piscina y recuerdos de lugares como Cantavieja.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/espliego-que-no-faneca-iii/11/08/2026/",
+      "published_at": "2026-08-11T07:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono lírico y personal sin referencias políticas ni carga ideológica; la selección de contenido se centra en la experiencia cotidiana y la observación de la naturaleza.",
+      "focus_analysis": "El medio eló un ángulo íntimo y estético, resaltando la observación de la naturaleza y la memoria del viaje, dejando de lado cualquier análisis social, político o económico.",
+      "focus_tags": [
+        "viaje",
+        "naturaleza",
+        "memoria"
+      ],
+      "context": [
+        {
+          "label": "perfil_revista",
+          "text": "Letras Libres es una revista cultural mexicana conocida por publicar ensayos, crónicas y literatura que tienden a un enfoque intelectual y a menudo de izquierda, pero sin una agenda política directa en sus se literarias."
+        },
+        {
+          "label": "tradicion_carta_literaria",
+          "text": "El intercambio de cartas entre autores forma parte de una larga tradición en la literatura hispana, donde los escritos epistolares sirven como vehículo para explorar lo cotidiano y lo simbólico."
+        },
+        {
+          "label": "simbolismo_golondrinas",
+          "text": "En la poesía y la narrativa española y latinoamericana, las golondrinas suelen simbolizar la libertad, el paso del tiempo y la llegada de la primavera, lo que enriquece la carga emotiva del relato."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "0eba5cfdc73d",
+      "title": "Última hora del terremoto en Colombia, en directo | Asciende a 224 la cifra de muertos por el seísmo en Colombia de magnitud 7,4",
+      "summary": "El terremoto de magnitud 7,4 que sacudió el occidente de Colombia ha dejado 224 muertos y 164 ciudadanos españoles sin localizar, según el Ministerio de Exteriores de Colombia.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/america-colombia/2026-08-11/ultima-hora-del-terremoto-en-colombia-en-directo.html",
+      "published_at": "2026-08-11T17:49:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar cifras y datos oficiales sin emplear vocabulario cargado ni citar fuentes con inclinación política, manteniendo un tono informativo y objetivo.",
+      "focus_analysis": "El medio prioriza el impacto humano y la situación de los españoles afectados, dejando de lado el análisis económico, los daños a la infraestructura y la respuesta política nacional.",
+      "focus_tags": [
+        "impacto humano",
+        "civiles",
+        "sismología"
+      ],
+      "context": [
+        {
+          "label": "official",
+          "text": "El Ministerio de Exteriores de Colombia comunicó que 164 ciudadanos españoles están desaparecidos tras el sismo."
+        },
+        {
+          "label": "other_media",
+          "text": "BBC News Mundo resaltó que el epicentro del terremoto se ubicó en el departamento del Chocó y afectó a ciudades como Cali, Manizales, Pereira y Quibdó."
+        },
+        {
+          "label": "historical",
+          "text": "Colombia ha enfrentado terremotos devastadores en el pasado, como el sismo de Armenia en 1999, que causó más de mil muertos y dejó amplios daños estructurales."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "1711278b4f28",
+      "title": "Ivonne Mejía dirigirá Microsoft México durante la expansión de su infraestructura de inteligencia artificial",
+      "summary": "Ivonne Mejía, ingeniera electrónica y MBA, asumirá la dirección general de Microsoft México el 1 de septiembre, convirtiéndose en la primera mujer en ocupar el cargo, mientras la compañía despliega una inversión de 1.300 millones de dólares para ampliar su infraestructura de nube e inteligencia artificial en el país.",
+      "category": "tecnologia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/tecnologia/ivonne-mejia-dirigira-microsoft-mexico-expansion-infraestructura-inteligencia-artificial-20260811-827692.html",
+      "published_at": "2026-08-11T17:57:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo utiliza un tono mayorista y se basa en datos y declaraciones oficiales de Microsoft, sin emplear lenguaje cargado ni presentar opiniones políticas, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el aspecto económico‑tecnológico de la expansión de IA y la inversión de Microsoft, dejando de lado implicaciones sociales más amplias o debates críticos sobre la IA.",
+      "focus_tags": [
+        "inversión tecnológica",
+        "liderazgo femenino",
+        "expansión IA"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de inversión de Microsoft en México",
+          "text": "Microsoft anunció en 2024 una inversión de 1.300 millones de dólares para crear la región de nube de hiperescala en Querétaro, con el objetivo de mantener datos en territorio nacional y reforzar su presencia en América Latina."
+        },
+        {
+          "label": "Adopción de IA en el mercado mexicano",
+          "text": "Según el Microsoft AI Economy Institute, el 20,1 % de la población laboral mexicana utilizó productos de IA generativa en el primer trimestre de 2026, superando el promedio mundial de 17,8 %, mientras que la adopción en la manufactura alcanzó el 4,8 % entre empresas de más de diez trabajadores."
+        },
+        {
+          "label": "Visiones críticas y corporativas de la IA",
+          "text": "Otros medios ofrecen marcos diferentes: Letras Libres plantea que la IA podría profundizar desigualdades y crear nuevas clases sociales, mientras que El Sol de México destaca la velocidad con la que empresas y medios están adoptando la tecnología."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "d0e86495c18d",
+      "title": "Claude empezará a poner una marca invisible en todo lo que escribe para que sepas que es de una IA",
+      "summary": "Anthropic ha anunciado que su modelo de IA Claude incorporará una marca de agua invisible en los textos e imágenes que genere, para cumplir con la nueva normativa europea de transparencia en inteligencia artificial.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-marca-agua-textos-imagenes-ia/",
+      "published_at": "2026-08-11T17:46:02+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir la medida y la normativa sin usar lenguaje cargado ni presentar opiniones, manteniendo un tono objetivo y descriptivo.",
+      "focus_analysis": "El medio se centra en el cumplimiento regulatorio y la implementación técnica del watermark, dejando de lado el impacto en los usuarios y posibles críticas a la normativa.",
+      "focus_tags": [
+        "IA regulación",
+        "marca de agua",
+        "transparencia"
+      ],
+      "context": [
+        {
+          "label": "Regulación europea",
+          "text": "La Ley de IA de la Unión Europea, vigente desde julio de 2026, obliga a los sistemas de IA a identificar contenido sintético para prevenir engaños, y el Artículo 50 establece requisitos de transparencia."
+        },
+        {
+          "label": "Tecnología de marcas de agua",
+          "text": "Google ya emplea la técnica de lista verde y lista roja en su herramienta SynthID, y el estándar C2PA se usa para incrustar metadatos de procedencia en imágenes, similar a lo que Anthropic implementará en Claude."
+        },
+        {
+          "label": "Postura de Anthropic",
+          "text": "Anthropic firmó el Código de Buenas Prácticas sobre Transparencia del Contenido Generado por IA y ha declarado que la marca de agua será obligatoria y no se podrá desactivar, aunque no ofrece un verificador público como Google."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "b47efb3798fa",
+      "title": "Cristian Castro, captado con una nueva mujer; no es la joven con que presumía un noviazgo hace unos días",
+      "summary": "El cantante mexicano Cristian Castro fue fotografiado al llegar al Auditorio Nacional acompañado de una mujer distinta a Ángela, la joven con la que había sido vinculado días antes, mientras iniciaba su gira \"Nada… sólo éxitos Tour\".",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/cristian-castro-captado-con-una-nueva-mujer-no-es-la-joven-con-que-presumia-un-noviazgo-hace-unos-dias/",
+      "published_at": "2026-08-11T17:56:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo mantiene un tono descriptivo y neutral, limitándose a relatar los hechos y las declaraciones del artista sin usar vocabulario cargado ni expresar opiniones políticas.",
+      "focus_analysis": "El medio se centró en el aspecto sentimental del artista, resaltando la aparición de una nueva acompañante y la reacción de la prensa, mientras dejó de lado la evaluación de su concierto o su trayectoria musical.",
+      "focus_tags": [
+        "celebrity gossip",
+        "personal life",
+        "mexican pop"
+      ],
+      "context": [
+        {
+          "label": "Artist background",
+          "text": "Cristian Castro, hijo de la reconocida actriz Verónica Castro, es uno de los cantantes más exitosos de la música pop mexicana, con una carrera que comenzó en los años 90 y que ha incluido numerosos discos y giras internacionales."
+        },
+        {
+          "label": "Recent dating rumor",
+          "text": "A mediados de julio, los medios mexicanos difundieron que Cristian Castro salía con Ángela, una joven que él describió como \"muy guapa\", pero la aparición en el Auditorio Nacional sugiere que la relación habría terminado o se mantiene ambigua."
+        },
+        {
+          "label": "Media and public interest",
+          "text": "La vida sentimental de Cristian Castro suele generar gran expectación en la prensa del espectáculo, donde sus encuentros con diferentes acompañantes son cubiertos con detalle, reflejando la fuerte cultura de celebrity gossip en México."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "f145fddbbc1d",
+      "title": "No solo se pagan con impuestos: así financian los bonos verdes el Metro, el Cablebús y el agua en México",
+      "summary": "En México, el Gobierno está financiando proyectos de transporte público como el Metro y el Cablebús, así como la gestión del agua, mediante la emisión de bonos verdes, un tipo de deuda que destina recursos a iniciativas con beneficios ambientales y sociales.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/11/no-solo-se-pagan-con-impuestos-asi-financian-los-bonos-verdes-el-metro-el-cablebus-y-el-agua-en-mexico/",
+      "published_at": "2026-08-11T17:59:38+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono informativo y neutral, citando a académicos de la UNAM y presentando datos sin usar vocabulario cargado ni favorecer a ningún actor político.",
+      "focus_analysis": "El medio se centra en el aspecto financiero y ambiental de los bonos verdes, resaltando su papel en la infraestructura pública, mientras deja de lado cualquier discusión sobre la política fiscal o posibles controversias sobre la efectividad de estos instrumentos.",
+      "focus_tags": [
+        "financiamiento verde",
+        "infraestructura pública",
+        "sostenibilidad"
+      ],
+      "context": [
+        {
+          "label": "Concepto global",
+          "text": "Los bonos verdes son instrumentos de deuda que los gobiernos y empresas utilizan a nivel mundial para captar capital destinado a proyectos que reducen emisiones, mejoran la eficiencia energética o protegen recursos naturales."
+        },
+        {
+          "label": "Posición de México en América Latina",
+          "text": "Según datos de 2020, México se ubicó en el tercer lugar de la región en emisión de bonos verdes, destinando la mayor parte de los recursos a transporte sostenible, energía renovable y gestión del agua."
+        },
+        {
+          "label": "Ejemplos internacionales",
+          "text": "Otros países latinoamericanos, como Chile y Brasil, también han recurrido a bonos verdes para financiar sistemas de metro y proyectos de energía limpia, demostrando una tendencia regional hacia la financiación sostenible."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "3251fb80d308",
       "title": "Sismo en Colombia: complejo de apartamentos colapsa en el sur de Cali",
@@ -837,216 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "9e22c9d1c99c",
-      "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia",
-      "summary": "Un terremoto de magnitud 7.4 sacudió el occidente de Colombia, dejando al menos 169 muertos y más de 900 heridos, con graves daños en edificios, aeropuertos y la infraestructura de varios departamentos, mientras que gobiernos y organizaciones internacionales ofrecen ayuda para el rescate.",
-      "category": "sociedad",
-      "source_name": "BBC News Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cjd4824d9ljo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-11T17:04:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, se apoya en fuentes oficiales y de agencias de noticias sin emplear términos cargados ni presentar una agenda política.",
-      "focus_analysis": "El medio se centra en el impacto humano y material del sismo, describiendo víctimas, daños y la respuesta de autoridades y ayuda internacional; queda menos desarrollado el análisis económico o de políticas de gestión de riesgos.",
-      "focus_tags": [
-        "terremoto Colombia",
-        "desastres naturales",
-        "respuesta humanitaria"
-      ],
-      "context": [
-        {
-          "label": "cifras de fallecidos",
-          "text": "Los primeros reportes mostraron cifras distintas: la Asociación Colombiana de Ciudades Capitales indicó 169 muertos, mientras que Reuters reportó 224, evidenciando la incertidumbre inicial en la contabilización de víctimas."
-        },
-        {
-          "label": "respuesta internacional",
-          "text": "Países como Estados Unidos, Ecuador, Brasil, El Salvador y Venezuela, además de la Unión Europea, ofrecieron equipos de rescate y asistencia humanitaria para apoyar a Colombia en la fase de búsqueda y recuperación."
-        },
-        {
-          "label": "impacto histórico",
-          "text": "Con una magnitud de 7.4 y una profundidad de 107 km, el sismo ha sido catalogado como el más fuerte sentido en Colombia en la última década, superando a eventos sísmicos previos en la región del Pacífico."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
-      }
-    },
-    {
-      "id": "bc1fc01dcc85",
-      "title": "Stefano Di Carlo, presidente de River Plate: “Nos han perjudicado en los últimos cinco partidos, es evidente”",
-      "summary": "El presidente de River Plate, Stefano Di Carlo, acusó en una conferencia de prensa que los árbitros habían perjudicado al equipo en los últimos cinco partidos, señalando también problemas internos de rendimiento.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/11/stefano-di-carlo-presidente-de-river-plate-nos-han-perjudicado-en-los-ultimos-cinco-partidos-es-evidente/",
-      "published_at": "2026-08-11T16:28:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a reproducir las declaraciones del dirigente sin añadir juicios ni lenguaje cargado, manteniendo un tono mayorativo y neutral.",
-      "focus_analysis": "El medio prioriza la visión institucional del club y la crítica al arbitraje, mientras deja de lado la perspectiva de los jugadores y la reacción de los hinchas.",
-      "focus_tags": [
-        "árbitraje",
-        "crítica a la AFA",
-        "rendimiento del equipo"
-      ],
-      "context": [
-        {
-          "label": "historial de controversias arbitrales",
-          "text": "River Plate ha manifestado en varias ocasiones, como en la semifinal contra Rosario Central y en partidos anteriores, su descontento con decisiones arbitrales que considera parciales."
-        },
-        {
-          "label": "últimos resultados",
-          "text": "En los cinco encuentros más recientes el equipo perdió cinco veces, incluyendo la eliminación ante Aldosivi en la Copa Argentina y derrotas en el Torneo Clausura contra Barracas Central, Gimnasia, Rosario Central y Tigre."
-        },
-        {
-          "label": "percepción del público",
-          "text": "Muchos aficionados al fútbol argentino comparten la idea de que hay un 'manoseo' generalizado en los partidos, una opinión que el presidente de River también menciona."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "d1389f6abb80",
-      "title": "México descarta presencia de Cyclospora en hoteles de la Riviera Maya ante denuncias de casos en turistas del Reino Unido",
-      "summary": "La Secretaría de Salud de México, a través de la COFEPRIS, informó que los análisis de alimentos y agua en 16 hoteles de la Riviera Maya no detectaron el parásito Cyclospora cayetanensis, descartando su presencia pese a los casos reportados en turistas del Reino Unido.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/11/mexico-descarta-presencia-de-cyclospora-en-hoteles-de-la-riviera-maya-ante-denuncias-de-casos-en-turistas-del-reino-unido/",
-      "published_at": "2026-08-11T16:55:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a citar a oficiales y presentar datos de los análisis sin usar un lenguaje cargado ni ofrecer opiniones críticas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centró en el ángulo de la seguridad sanitaria y la respuesta institucional, dejando de lado el impacto humano de los casos entre los turistas y la posible repercusión en la percepción del destino turístico.",
-      "focus_tags": [
-        "salud pública",
-        "seguridad alimentaria",
-        "turismo"
-      ],
-      "context": [
-        {
-          "label": "Alerta del Reino Unido",
-          "text": "La Agencia de Seguridad Sanitaria del Reino Unido (UKHSA) había emitido una alerta por un aumento de infecciones por Cyclospora en viajeros que regresaron de la Riviera Maya, reportando 67 casos confirmados entre abril y julio."
-        },
-        {
-          "label": "Procedimiento de la COFEPRIS",
-          "text": "La COFEPRIS realizó 43 análisis (32 de alimentos y 11 de agua) en los hoteles, usando PCR en tiempo real, y no encontró rastros de Cyclospora ni de contaminación microbiológica."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Sol de México también informó que la COFEPRIS descartó la presencia del parásito en los hoteles, reforzando la narrativa oficial de que no hay riesgo sanitario activo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "c49874d5f0c3",
-      "title": "Despliegan 9,500 militares para proteger producción de aguacate en Michoacán",
-      "summary": "El gobierno federal de México desplegó 9,500 militares, incluidos 1,500 destinados específicamente a proteger la producción de aguacate en Michoacán, bajo la coordinación de la presidenta Claudia Sheinbaum y el secretario de Defensa Ricardo Trevilla Trejo.",
-      "category": "politica",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/1108/mexico/despliegan-9500-militares-para-proteger-produccion-de-aguacate-en-michoacan/",
-      "published_at": "2026-08-11T16:55:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos oficiales sin usar adjetivos cargados ni presentar opiniones, y cite fuentes gubernamentales, lo que indica una cobertura neutra.",
-      "focus_analysis": "El artículo se centra en la respuesta de seguridad del Estado para proteger la cadena productiva del aguacate, dejando de lado el impacto económico en los productores y la discusión sobre la militarización de la zona.",
-      "focus_tags": [
-        "seguridad",
-        "agricultura",
-        "Michoacán"
-      ],
-      "context": [
-        {
-          "label": "Importancia del aguacate",
-          "text": "Michoacán es el principal estado productor de aguacate de México, responsable de más del 80 % del suministro nacional y una parte significativa de las exportaciones."
-        },
-        {
-          "label": "Violencia y extorsión en la región",
-          "text": "En los últimos años, grupos criminales han acosado a productores y transportistas de aguacate, generando extorsiones y ataques que han afectado la seguridad de la cadena de valor."
-        },
-        {
-          "label": "Cobertura de El Economista",
-          "text": "Otro medio resaltó que el gobierno añadió 1,500 efectivos adicionales para reforzar la seguridad tras la suspensión temporal de inspecciones estadounidenses, subrayando la relación entre la presión exterior y la respuesta militar."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "9ceef0c1bda8",
-      "title": "¡Tómalo en cuenta! Simulación de una relación laboral puede costarte la pensión del IMSS",
-      "summary": "El Instituto Mexicano del Seguro Social (IMSS) advierte que la simulación de una relación laboral, es decir, contratar a un empleador ficticio para pagar cuotas al IMSS sin un contrato real, puede resultar en la eliminación de semanas cotizadas, la cancelación de la pensión y sanciones legales. El artículo explica cómo la entidad auditoría a los patrones y usa tecnología como la inteligencia artificial para detectar estos fraudes.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/finanzaspersonales/tomalo-cuenta-simulacion-relacion-laboral-costarte-pension-imss-20260811-825312.html",
-      "published_at": "2026-08-11T17:00:00+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto utiliza un tono mayoritariamente informativo y advertencial, sin criticar a partidos o gobiernos, pero enfatiza la ilegalidad y el riesgo de fraude, lo que refleja una postura ligeramente orientada a la defensa del orden institucional y económico.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y económico, describiendo los riesgos financieros y legales de la simulación laboral y el papel del IMSS y la tecnología en su detección; omite el impacto humano personal y el contexto de vulnerabilidad social de los trabajadores informales.",
-      "focus_tags": [
-        "pensión IMSS",
-        "simulación laboral",
-        "fraude previdencial"
-      ],
-      "context": [
-        {
-          "label": "Política del IMSS",
-          "text": "El IMSS tiene la facultad de auditar a los patrones y eliminar los aseguramientos ilegales, según su comunicado de 2022, donde define la simulación laboral como fraude y establece sanciones penales."
-        },
-        {
-          "label": "Prevalencia del fraude laboral en México",
-          "text": "Diversas investigaciones y reportes de la autoridad fiscal y de seguridad social indican que la contratación ficticia es una práctica frecuente en el sector informal mexicano, generando pérdidas significativas en las cotizaciones de pensiones."
-        },
-        {
-          "label": "Uso de tecnología para la detección",
-          "text": "El IMSS, en coordinación con el SAT y la CONSAR, emplea inteligencia artificial y cruce de datos para identificar patrones sospechosos de simulación laboral, fortaleciendo la supervisión de los aportes al sistema de pensiones."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "faab09245ef7",
-      "title": "Un histórico club de Inglaterra cambió su nombre como parte de una campaña publicitaria",
-      "summary": "El club inglés Crewe Alexandra, que compite en la League Two, adoptó temporalmente el nombre y el escudo de la mascota de la compañía Compare the Market como parte de una campaña publicitaria de una semana, para volver a su identidad original al terminar la activación.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/11/un-historico-club-de-inglaterra-cambio-su-nombre-como-parte-de-una-campana-publicitaria/",
-      "published_at": "2026-08-11T16:51:19+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y declaraciones de fuentes, sin usar lenguaje cargado ni favorecer a algún punto de vista político o institucional.",
-      "focus_analysis": "El artículo se centra en el aspecto económico y de marketing del club, resaltando la necesidad de ingresos externos, mientras deja de lado un análisis profundo del impacto deportivo o cultural del cambio de nombre.",
-      "focus_tags": [
-        "marketing deportivo",
-        "cambio de nombre",
-        "finanzas club"
-      ],
-      "context": [
-        {
-          "label": "Patrocinio en fútbol de baja categoría",
-          "text": "Los equipos de la League Two y de la English Football League frecuentemente buscan acuerdos de patrocinio y activaciones de marca para complementar sus escasos presupuestos."
-        },
-        {
-          "label": "Mascota Aleksandr Orlov de Compare the Market",
-          "text": "Compare the Market es conocida en el Reino Unido por su campaña publicitaria con el suricato Aleksandr Orlov, que ha sido utilizada en varios medios para promover sus servicios de comparación de precios."
-        },
-        {
-          "label": "Situación financiera de Crewe Alexandra",
-          "text": "Crewe Alexandra ha sido señalado como uno de los clubes con los presupuestos más bajos de la League Two, lo que hace que cualquier apoyo financiero externo sea crucial para su operatividad."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
