@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T21:41:42.027359+00:00",
-      "title": "Aspirantes de la UNAM presionan a Rectoría para conservar los lugares asignados",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzar la variedad de voces incluyendo la posición oficial de la Rectoría.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:41:47.420928+00:00",
-      "title": "Un fuerte terremoto de magnitud 7,4 golpea Colombia, causando más de un centenar de muertos e import",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es estructuralmente sólido y objetivo, pero falla gravemente en precisión factual, lo que compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:41:52.597113+00:00",
-      "title": "El impactante recibimiento de los hinchas de la Roma a Nahuel Molina en el aeropuerto",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta información con errores verificables y depende de una única fuente, lo que reduce su fiabilidad, aunque cumple con la actualidad y la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:41:56.835961+00:00",
-      "title": "Zuckerberg pide menos barreras para la IA de código abierto",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero la falta de fuentes verificables y de contraste de voces limita su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:42:02.550046+00:00",
-      "title": "Microsoft admite que no copiará el Liquid Glass del iPhone en Windows 11 y tiene una buena razón",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una información mayormente neutral y bien estructurada, pero la falta de veracidad en datos clave y la escasa variedad de fuentes reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:42:12.110724+00:00",
-      "title": "Jan Martínez Ahrens: “Los periodistas tenemos que ser capaces de la autocrítica”",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la precisión del cargo atribuido a Jan Martínez Ahrens debería verificarse para mejorar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:52:30.149986+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, lo que lo hace inadecuado para publicación sin correcciones sustanciales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:52:36.061384+00:00",
-      "title": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta datos no verificables y falta de fuentes externas, lo que compromete su credibilidad a pesar de estar actualizado y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:52:41.747265+00:00",
-      "title": "Cómo una anotación en un diario personal me ayudó a resolver un asesinato",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra buena estructura y neutralidad, pero la falta de verificación de los datos clave reduce su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:52:45.734089+00:00",
-      "title": "Un ex futbolista de Boca reveló qué les dijo Riquelme cuando bajó al plantel del micro tras una estr",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando un relato factual y objetivo con fuentes fiables y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T21:52:54.279036+00:00",
-      "title": "Trump emite nuevas recomendaciones sobre vacunas infantiles; busca separar dosis contra sarampión, p",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo hace inadecuado para publicación; aunque es reciente y está bien estructurado, la falta de datos fiables y el sesgo evidente comprometen su calidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T21:52:59.633952+00:00",
       "title": "Aspirantes de la UNAM presionan a Rectoría para conservar los lugares asignados",
       "kind": "noticia",
@@ -3392,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría mejorar la inclusión de voces directamente involucradas para reforzar el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:40:48.892863+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 8,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a ser reciente y estar estructurado de forma aceptable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:40:54.733988+00:00",
+      "title": "Clima CDMX EN VIVO y resto de México hoy lunes 10 de agosto: activan alerta naranja por pronóstico d",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque la variedad de fuentes podría ampliarse ligeramente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:01.309694+00:00",
+      "title": "Unión pierde con Central Córdoba de Santiago del Estero por la cuarta fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo podría mejorar con fuentes adicionales, pero es aceptable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:06.768720+00:00",
+      "title": "Inicia juicio contra el padre de Dafne Zapata por abuso sexual; defensa asegura que demostrará su in",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la verificación de nombres y añadir citas directas para mayor rigor.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:16.208980+00:00",
+      "title": "Un terremoto en Colombia deja más de un centenar de muertos y decenas de heridos y desaparecidos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de manera precisa, objetiva y oportuna, con una estructura adecuada y fuentes variadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:20.309335+00:00",
+      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado adecuadamente, pero la falta de fuentes múltiples y la ausencia de evidencia verificable reducen su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:32.066391+00:00",
+      "title": "Gobernar las conciencias",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero le falta contraste de fuentes y evidencia verificable suficiente, lo que limita su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:37.041981+00:00",
+      "title": "Mazda CX-50 2027: nuevo motor y precio más bajo para competir con todo en México",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la verificación de datos y la citación de fuentes, pero cumple con la objetividad, actualidad y estructura invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:42.325816+00:00",
+      "title": "Mazda celebra el torneo “Pequeños Campeones” para fomentar el bienestar de la niñez guanajuatense",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información reciente, estructurada y mayormente objetiva, aunque podría beneficiarse de fuentes más diversificadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:51.087309+00:00",
+      "title": "El inquietante efecto que causó en el Galatasaray la salida de Mauro Icardi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque el artículo es oportuno y neutral, su falta de precisión factual y de fuentes contrastadas compromete la calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T01:41:57.528881+00:00",
+      "title": "En menos de dos años, detienen a 60 policías de la SSC CDMX por órdenes de aprehensión; mil 74 fuero",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de fuentes específicas reduce la verificabilidad de los números presentados.",
       "error": null
     }
   ]
