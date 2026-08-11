@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-11T03:41:50.773005+00:00",
+  "generated_at": "2026-08-11T04:02:07.265680+00:00",
   "articles": [
+    {
+      "id": "0b54f340bf36",
+      "title": "\"Estamos en la calle\": desesperación en el Chocó, epicentro del mortífero terremoto en Colombia",
+      "summary": "El terremoto de magnitud 7,4 que sacudió Colombia el 10 de agosto dejó decenas de muertos y cientos de heridos, con el epicentro en San José del Palmar, Chocó, donde los habitantes de Quibdó están sin techo y solicitan ayuda al gobierno.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/am%C3%A9rica-latina/20260811-estamos-en-la-calle-desesperaci%C3%B3n-en-el-choc%C3%B3-epicentro-del-mort%C3%ADfero-terremoto-en-colombia",
+      "published_at": "2026-08-11T02:35:56+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto enfatiza la desesperación y la vulnerabilidad histórica de la región, usando vocabulario cargado como \"desesperación\" y \"población empobrecida\", y centra la narrativa en testimonios de víctimas más que en un análisis político objetivo.",
+      "focus_analysis": "El medio eligió un ángulo humanitario, resaltando el sufrimiento de los residentes del Chocó y su petición de asistencia, dejando en segundo plano la evaluación de la respuesta institucional y el impacto económico del desastre.",
+      "focus_tags": [
+        "humanitario",
+        "desastre natural",
+        "vulnerabilidad social"
+      ],
+      "context": [
+        {
+          "label": "histórico",
+          "text": "El departamento del Chocó ha sido históricamente afectado por el conflicto armado y la marginación estructural, lo que lo convierte en una de las zonas más vulnerables de Colombia frente a eventos catastróficos."
+        },
+        {
+          "label": "gubernamental",
+          "text": "El presidente Abelardo de la Espriella declaró el sismo como \"desastre nacional\" y activó operativos de rescate, mientras que Estados Unidos anunció una ayuda de 15,5 millones de dólares para la emergencia."
+        },
+        {
+          "label": "comparativo",
+          "text": "Otros medios como El Universal y BBC News Mundo subrayan la magnitud de las víctimas y los daños en ciudades como Pereira y Cali, ampliando la visión del impacto más allá del Chocó."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "2c65594f7cf4",
+      "title": "Nuevas reglas para bancos y sus clientes: Hacienda cambia las normas contra el lavado",
+      "summary": "La Secretaría de Hacienda de México publicó en el Diario Oficial de la Federación un nuevo conjunto de reglas de carácter general de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, introduciendo un enfoque basado en riesgo que obliga a bancos y otras entidades a evaluar y documentar los riesgos según el nivel de exposición a actividades vulnerables.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/11/nuevas-reglas-para-bancos-y-sus-clientes-hacienda-cambia-las-normas-contra-el-lavado/",
+      "published_at": "2026-08-11T03:52:23+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la normativa oficial sin usar adjetivos cargados ni presentar opiniones, citando únicamente comunicados de la autoridad y manteniendo un tono informativo.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y regulatorio del nuevo marco anti‑lavado, destacando el enfoque basado en riesgo y los cambios procedimentales, mientras deja de lado el impacto económico concreto para los bancos y la opinión de expertos del sector.",
+      "focus_tags": [
+        "regulación financiera",
+        "prevención de lavado",
+        "enfoque basado en riesgo"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes legislativos",
+          "text": "En 2025 y 2026 se iniciaron reformas a la LFPIORPI que buscaban modernizar la normativa anti‑lavado, pero la implementación quedó pendiente de un modelo de riesgo que ahora se incorpora."
+        },
+        {
+          "label": "Práctica internacional",
+          "text": "Muchos países han adoptado ya enfoques basados en riesgo para la prevención del lavado de dinero, lo que permite a los supervisores focalizar recursos en sectores con mayor exposición."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "En la publicación de Expansión se subraya que la normativa afecta a actividades vulnerables como juegos de apuesta y tarjetas de crédito fuera de bancos, enfatizando la obligación de identificar y clasificar riesgos asociados a clientes y operaciones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "00ed3d1874f6",
+      "title": "Terremoto en Colombia suma 132 muertos y más de 570 heridos; declaran desastre nacional",
+      "summary": "El terremoto de magnitud 7.4 que sacudió el centro‑oeste de Colombia dejó al menos 132 muertos y más de 570 heridos, y el presidente Abelardo de la Espriella declaró desastre nacional mientras se activan operativos de rescate y militarización en ciudades como Pereira y Cali.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/terremoto-en-colombia-suma-132-muertos-y-mas-de-570-heridos-declaran-desastre-nacional/",
+      "published_at": "2026-08-11T03:49:28+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un tono mayormente descriptivo y cite fuentes oficiales, sin lenguaje cargado ni opiniones; la cobertura se centra en datos y acciones gubernamentales, similar a la presentación de otros medios.",
+      "focus_analysis": "El medio eligió un ángulo institucional y humanitario, resaltando la respuesta del gobierno y las cifras de víctimas, mientras omite análisis de riesgos sísmicos o planes de reconstrucción a largo plazo.",
+      "focus_tags": [
+        "terremoto Colombia",
+        "desastre nacional",
+        "respuesta gubernamental"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes sísmicos",
+          "text": "Colombia ha experimentado terremotos de gran magnitud en las últimas décadas, como el sismo de 1999 en Armenia, que también provocó cientos de muertos y una respuesta de emergencia a nivel nacional."
+        },
+        {
+          "label": "Reacción del presidente recién inaugurado",
+          "text": "El presidente Abelardo de la Espriella, quien asumió el cargo hace apenas tres días, ha encabezado la visita a las zonas afectadas y ha declarado la situación de desastre nacional, una acción destacada también por la BBC al señalar su reciente toma de posesión."
+        },
+        {
+          "label": "Apoyo internacional",
+          "text": "Estados Unidos anunció una ayuda de 15,5 millones de dólares para la emergencia, según la cobertura de El País América, lo que complementa los recursos nacionales ya movilizados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "127473429346",
+      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
+      "summary": "En la cuarta fecha del Torneo Clausura 2026, Belgrano, dirigido por Ricardo Zielinski, venció 2-0 a Banfield en el estadio Florencio Sola, mientras que Central Córdoba de Sebastián Domínguez superó 2-1 a Unión de Santa Fe en el estadio 15 de Abril.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/10/sigue-la-cuarta-fecha-del-torneo-clausura-con-dos-partidos-belgrano-visitara-a-banfield-y-union-recibira-a-central-cordoba/",
+      "published_at": "2026-08-11T02:39:30+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta solo datos de los partidos, sin lenguaje cargado ni selección de fuentes que favorezcan a alguna postura política o deportiva.",
+      "focus_analysis": "El medio se centró en el resultado de los encuentros y los protagonistas deportivos, dejando de lado análisis tácticos profundos o la repercusión en la tabla de posiciones.",
+      "focus_tags": [
+        "resultados de fútbol",
+        "torneo clausura",
+        "liga profesional argentina"
+      ],
+      "context": [
+        {
+          "label": "estructura del torneo",
+          "text": "El Torneo Clausura 2026 forma parte del calendario de la Liga Profesional de Fútbol de Argentina, donde los equipos compiten en dos zonas (A y B) para determinar los clasificados a los play‑offs."
+        },
+        {
+          "label": "situación de Belgrano",
+          "text": "Con la victoria ante Banfield, Belgrano sumó tres puntos que lo mantienen en la parte alta de la tabla de la Zona B, consolidando un buen arranque de campaña."
+        },
+        {
+          "label": "situación de Central Córdoba",
+          "text": "El triunfo de Central Córdoba sobre Unión le otorga seis puntos, ubicándolo en la séptima posición de la Zona A, a cuatro puntos del líder Vélez Sársfield."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "94e62cf22127",
+      "title": "Colombia: Valle del Cauca, Chochó y eje cafetero, las más afectadas por el terremoto",
+      "summary": "El terremoto de magnitud 7,4 que sacudió a Colombia el 10 de agosto de 2026 provocó graves daños en los departamentos de Valle del Cauca, Chochó y en el eje cafetero, afectando ciudades como Quibdó, Cali, Pereira y Manizales.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/video/20260811-colombia-valle-del-cauca-choch%C3%B3-y-eje-cafetero-las-m%C3%A1s-afectadas-por-el-terremoto",
+      "published_at": "2026-08-11T03:05:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin adjetivos cargados ni fuentes que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El medio se centra en la geografía del daño y la magnitud del sismo, dejando de lado la cobertura de la respuesta gubernamental y los testimonios humanos.",
+      "focus_tags": [
+        "geografía",
+        "desastre natural",
+        "infraestructura"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "El terremoto de 1999 en el eje cafetero dejó cientos de muertos y generó una percepción de vulnerabilidad sízon la región."
+        },
+        {
+          "label": "respuesta institucional",
+          "text": "En eventos síantes, el gobierno colombiano ha declarado estado de emergencia y ha movilizado equipos de rescate y apoyo humanitario."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Otros medios, como Expansión y El Universal, reportaron cifras de fallecidos superiores a 100 y declararon desastre nacional, énfasis que la nota de France24 no detalla."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "0bd5f5e6c490",
+      "title": "¿Qué está pasando en el Metro y Metrobús CDMX hoy 10 de agosto?: Lluvia de la noche provoca caos en toda la Red",
+      "summary": "La lluvia nocturna del 10 de agosto provocó demoras y marcha lenta en varias líneas del Metro y Metrobús de la Ciudad de México, con el Sistema de Transporte Colectivo (STC) activando medidas de seguridad y avisando a los usuarios en tiempo real.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/10/que-esta-pasando-en-el-metro-y-metrobus-hoy-10-de-agosto/",
+      "published_at": "2026-08-11T03:52:27+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos operativos del servicio de transporte sin usar vocabulario cargado ni citar fuentes con sesgo político; la información es presentada de forma neutral y descriptiva.",
+      "focus_analysis": "El medio se centró en el impacto inmediato del clima sobre la operatividad del Metro y Metrobús, destacando retrasos, marchas de seguridad y la información en vivo para los usuarios; quedó fuera el análisis de causas estructurales o políticas del manejo de la infraestructura ante eventos climáticos.",
+      "focus_tags": [
+        "transporte público",
+        "lluvia",
+        "retrasos"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "El Sistema de Transporte Colectivo (STC) es la entidad responsable de la operación del Metro y Metrobús en la Ciudad de México, gestionando más de 1.5 millones de viajes diarios."
+        },
+        {
+          "label": "comparativo",
+          "text": "En años anteriores, lluvias intensas han causado interrupciones similares en la red de transporte, como los eventos de 2020 y 2023 cuando se suspendieron estaciones y se redujo la frecuencia de trenes."
+        },
+        {
+          "label": "actores externos",
+          "text": "Autoridades de la Secretaría de Medio Ambiente de la CDMX han advertido sobre la frecuencia creciente de lluvias intensas y su efecto en la infraestructura urbana, aunque este artículo no aborda esas declaraciones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "162632aebe8d",
+      "title": "Entre linternas y continentes imaginados: el Africanfuturismo de Nnedi Okorafor",
+      "summary": "Una linterna titila en un ático azotado por el viento, proyectando sombras sobre mapas que nunca existieron. Cada destello revela una constelación de relatos donde el futuro se escribe con las raíces del pasado. Así, Nnedi Okorafor convierte la noche en un laboratorio de futuros africanos.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-11T04:00:47.038863+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy la voz africana se vuelve imprescindible en la conversación global sobre ciencia ficción, y Okorafor encarna esa intersección de tradición y tecnología. Su obra reciente, traducida al español, abre puertas a lectores que buscan mundos que no son ni utopía ni distopía, sino una fusión de ambas. Además, la próxima Feria del Libro de Lagos celebrará la literatura afro‑futurista, lo que hace oportuno destacar su trayectoria.",
+      "focus_tags": [
+        "Afrofuturismo",
+        "Ficción especulativa",
+        "Nigeria"
+      ],
+      "context": [
+        {
+          "label": "Quién es Nnedi Okorafor",
+          "text": "Nacida en 1974 en los EE. UU. pero criada entre la cultura nigeriana, Okorafor combina formación en biología y escritura para crear universos donde la ciencia y la mitología coexisten. Su carrera despegó con la trilogía Binti, que le valió el premio Hugo en 2016."
+        },
+        {
+          "label": "Obras recomendadas",
+          "text": "Comienza con Who Fears Death, una novela que reimagina un continente post‑apocalíptico bajo una magia ancestral. Continúa con Binti, una joven piloto que lleva la tradición ha su pueblo a la academia intergaláctica, y Laguna, una fusión de mitos yoruba y tecnología que explora la identidad en un futuro urbano."
+        },
+        {
+          "label": "Contexto y recursos",
+          "text": "El Africanfuturismo surge como respuesta a la escasa representación africana en la ciencia ficción tradicional. Para profundizar, consulta el ensayo “Afrofuturism: Black Magic, Black Science” de Ytasha Womack y la antología The Future is African, editada por Wole Soyinka. Las traducciones al español están disponibles en la colección de literatura especulativa de la editorial Alfaguara."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.4
+      }
+    },
     {
       "id": "8b8be82f105b",
       "title": "VIDEOS: Pasajeros y obreros viven momentos de terror durante terremoto en Colombia; grúas y cabinas se sacuden",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.4
-      }
-    },
-    {
-      "id": "127473429346",
-      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
-      "summary": "En la cuarta fecha del Torneo Clausura 2026 de la Liga Profesional de Fútbol argentina, Belgrano venció 2‑0 a Banfield en el estadio Florencio Sola, mientras que Central Córdoba superó 2‑1 a Unión en el Estadio 15 de Abril, consolidando sus posiciones en la tabla.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/10/sigue-la-cuarta-fecha-del-torneo-clausura-con-dos-partidos-belgrano-visitara-a-banfield-y-union-recibira-a-central-cordoba/",
-      "published_at": "2026-08-11T02:39:30+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir resultados y hechos del juego sin usar adjetivos cargados ni favorecer a ningún club, manteniendo un tono objetivo y equilibrado entre los dos partidos.",
-      "focus_analysis": "El medio se centró en el desempeño deportivo y los momentos clave de los partidos, dejando fuera la reacción de los hinchas y el impacto financiero de los resultados.",
-      "focus_tags": [
-        "resultados de fútbol",
-        "Torneo Clausura",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Posición en la tabla",
-          "text": "Tras la victoria, Belgrano se ubicó en la parte alta de la zona B con tres puntos, mientras que Central Córdoba quedó séptimo en la zona A con seis puntos."
-        },
-        {
-          "label": "Antecedentes de Banfield",
-          "text": "Banfield, dirigido por Pedro Troglio, ha atravesado una serie de resultados adversos en la temporada, lo que ha incrementado la presión sobre el equipo para evitar la zona de descenso."
-        },
-        {
-          "label": "Estructura de la LPF",
-          "text": "La Liga Profesional de Fútbol (LPF) es la máxima categoría del fútbol argentino y el Torneo Clausura 2026 constituye la segunda mitad del campeonato anual."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "4c4dbc7c7c6c",
-      "title": "Detienen en Acapulco a dos funcionarios de Medio Ambiente del Edomex; los investigan por extorsión a verificentros",
-      "summary": "Dos directores de la Secretaría del Medio Ambiente del Estado de México fueron detenidos en Acapulco y la Ciudad de México por presuntamente liderar una red que extorsionaba a propietarios de verificentros y estaciones de servicio, según la Fiscalía General de Justicia del Estado de México.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/detienen-en-acapulco-a-dos-funcionarios-de-medio-ambiente-del-edomex-los-investigan-por-extorsion-a-verificentros/",
-      "published_at": "2026-08-11T02:10:35+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje neutro, se basa en declaraciones oficiales y no incluye adjetivos cargados ni fuentes partidistas, lo que indica una cobertura equilibrada.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y legal del caso, describiendo la detención y la investigación, mientras que minimiza la perspectiva de los afectados y el impacto social de la extorsión.",
-      "focus_tags": [
-        "corrupción pública",
-        "extorsión",
-        "autoridades mexicanas"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de corrupción en la Secretaría del Medio Ambiente",
-          "text": "En los últimos años, la Secretaría del Medio Ambiente del Estado de México ha sido objeto de varias investigaciones por presuntos actos de corrupción, incluidos casos de uso indebido de recursos y favorecimiento irregular."
-        },
-        {
-          "label": "Verificentros y su vulnerabilidad a extorsiones",
-          "text": "Los verificentros, encargados de la inspección de emisiones y calidad del combustible, han sido históricamente blanco de extorsiones y presiones por parte de funcionarios locales que buscan cobrar cuotas ilegales para permitir su operación."
-        },
-        {
-          "label": "Operativos de seguridad y lucha contra la corrupción",
-          "text": "La Guardia Nacional y la Secretaría de Seguridad y Protección Ciudadana suelen participar en operativos conjuntos con fiscalías estatales para desarticular redes de corrupción que involucran a servidores públicos y particulares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "46805b59542a",
-      "title": "La Casa de los Famosos México EN VIVO: los habitantes se preparan para la final de la prueba del líder",
-      "summary": "La Casa de los Famosos México 2026 presentó su segunda gala de eliminación, donde Ximena Herrera, Memo Schutz, Ernesto Laguardia y Masad Altamimi compiten en la prueba del líder para evitar ser expulsados de la casa.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/09/la-casa-de-los-famosos-mexico-2026-en-vivo-quien-sera-el-segundo-eliminado/",
-      "published_at": "2026-08-11T02:15:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es descriptivo y se limita a relatar los acontecimientos del programa sin usar lenguaje cargado ni presentar opiniones políticas, manteniendo un tono neutral.",
-      "focus_analysis": "El artículo se centra en el aspecto de entretenimiento y la dinámica de la competencia del reality show, dejando de lado cualquier análisis cultural o crítico sobre el formato.",
-      "focus_tags": [
-        "reality show",
-        "competencia",
-        "entretenimiento"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del programa",
-          "text": "La Casa de los Famosos México es la versión mexicana del formato internacional de reality show donde celebridades conviven en una casa aislada y compiten en pruebas para evitar la eliminación."
-        },
-        {
-          "label": "Dinámica de la prueba del líder",
-          "text": "En la prueba del líder, los participantes deben superar pruebas de destreza y resistencia; el ganador obtiene inmunidad y el perdedor queda expuesto a la eliminación."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Mientras Infobae se centra en la transmisión en vivo y los detalles de la competencia, medios como Hipertextual abordaron el mismo tipo de contenido con un enfoque narrativo y de análisis de trama, resaltando el aspecto dramático y los spoilers."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "ffd2adeb1d1c",
-      "title": "Última hora del terremoto en Colombia, en directo | Al menos 132 muertos y 570 heridos por el terremoto de magnitud 7,4 en Colombia",
-      "summary": "El presidente de Colombia, Abelardo de la Espriella, visitó la zona afectada en Chocó tras el terremoto de magnitud 7,4 que dejó al menos 132 muertos y 570 heridos, mientras EE. UU. destinó 15,5 millones de dólares para la emergencia y continúan las labores de rescate.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/america-colombia/2026-08-10/ultima-hora-del-terremoto-en-colombia-en-directo.html",
-      "published_at": "2026-08-11T02:07:24+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y cifras sin usar vocabulario cargado ni citar fuentes polémicas, manteniendo un tono informativo y equilibrado.",
-      "focus_analysis": "El medio se centra en el impacto humano y la respuesta de rescate y ayuda internacional, dejando de lado análisis político o críticas a la gestión gubernamental.",
-      "focus_tags": [
-        "terremoto Colombia",
-        "rescate y ayuda",
-        "respuesta gubernamental"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes sísmicos",
-          "text": "Colombia ha experimentado varios sismos de gran magnitud en la última década, como el terremoto de 6,8 grados en 2017 que también afectó la región del Pacífico y generó una respuesta de emergencia nacional."
-        },
-        {
-          "label": "Política interna",
-          "text": "Abelardo de la Espriella asumió la presidencia en junio de 2026 y ha buscado consolidar su gestión mediante la declaración de emergencias y la coordinación con organismos internacionales tras desastres."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Mientras BBC News Mundo y France24 enfatizaron la declaración de desastre nacional y la magnitud del sismo, El Economista puso más atención en los daños materiales y la situación de emergencia declarada."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "d887a9243c50",
-      "title": "De José Alfredo a Liszt, el viaje musical de la Segunda Gala de Concertistas de Bellas Artes",
-      "summary": "La Segunda Gala de Concertistas de Bellas Artes 2026, organizada por el Instituto Nacional de Bellas Artes y Literatura, se presentará el 16 de agosto en la Sala Principal del Palacio de Bellas Artes, ofreciendo un programa que recorre obras de los siglos XIX y XX y destaca la música mexicana e iberoamericana, con artistas como el violonchelista Miguel Ángel Villeda y la soprano Zulyamir Lópezríos.",
-      "category": "sociedad",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/1008/cultura/de-jose-alfredo-a-liszt-el-viaje-musical-de-la-segunda-gala-de-concertistas-de-bellas-artes/",
-      "published_at": "2026-08-11T02:12:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el programa y los artistas con un tono informativo y sin lenguaje cargado ni selección de fuentes que favorezcan una postura ideológica.",
-      "focus_analysis": "El medio se centró en la dimensión cultural y musical del evento, resaltando la diversidad del repertorio y la participación de los artistas; dejó de lado aspectos como la respuesta del público, la financiación del espectáculo o su relevancia política.",
-      "focus_tags": [
-        "cultura musical",
-        "gala de concierto",
-        "diversidad repertorio"
-      ],
-      "context": [
-        {
-          "label": "Instituto",
-          "text": "El Instituto Nacional de Bellas Artes y Literatura (INBAL) es la entidad gubernamental mexicana encargada de promover y difundir las artes, organizando eventos como la Gala de Concertistas para apoyar a músicos emergentes y consolidados."
-        },
-        {
-          "label": "Palacio",
-          "text": "El Palacio de Bellas Artes, ícono arquitectónico de la Ciudad de México, alberga la Sala Principal, un espacio histórico que ha sido escenario de importantes conciertos y presentaciones culturales desde su inauguración en 1934."
-        },
-        {
-          "label": "Repertorio",
-          "text": "En galas anteriores del Instituto, ha sido habitual incluir piezas de la música popular mexicana, como canciones rancheras, dentro del repertorio clásico, reflejando una tendencia a integrar tradiciones folklóricas en el concierto de alta cultura."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "127473429346",
-      "title": "Central Córdoba de Santiago del Estero venció 2-1 a Unión en Santa Fe por el Torneo Clausura",
-      "summary": "El equipo de Central Córdoba de Santiago del Estero ganó 2-1 como visitante contra Unión de Santa Fe en el Estadio 15 de Abril, sumando tres puntos en la cuarta fecha del Torneo Clausura de la Liga Profesional de Fútbol. Con este triunfo, Central Córdoba se ubicó en el séptimo lugar de la Zona A, mientras que Unión quedó en la décima posición.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/10/sigue-la-cuarta-fecha-del-torneo-clausura-con-dos-partidos-belgrano-visitara-a-banfield-y-union-recibira-a-central-cordoba/",
-      "published_at": "2026-08-11T02:16:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir los hechos del partido y la tabla sin usar lenguaje cargado ni incluir opiniones, lo que indica un encuadre neutral.",
-      "focus_analysis": "El medio se centra en el resultado del encuentro y su repercusión en la clasificación, omitiendo aspectos humanos, emocionales o de contexto social de los jugadores.",
-      "focus_tags": [
-        "resultado",
-        "torneo clausura",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Posiciones previas",
-          "text": "Antes del partido, Central Córdoba tenía 3 puntos y ocupaba el séptimo puesto de la Zona A, mientras que Unión contaba con 4 puntos y estaba en la décima posición."
-        },
-        {
-          "label": "Rendimiento reciente",
-          "text": "En la jornada anterior, Central Córdoba perdió 0-2 frente a Banfield, mientras que Unión también cayó 0-2 contra Belgrano, evidenciando dificultades para ambos equipos."
-        },
-        {
-          "label": "Próximos compromisos",
-          "text": "Tras la victoria, Central Córdoba recibirá a Instituto el domingo, y Unión viajará a San Lorenzo el sábado, partidos que podrían modificar sus posiciones en la tabla."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "474c9406730e",
-      "title": "Temblor hoy en México: noticias actividad sísmica 10 de agosto de 2026",
-      "summary": "El Servicio Sismológico Nacional informó que el 10 de agosto de 2026 se registraron varios sismos de magnitud moderada en el sur y occidente de México, principalmente en Chiapas, Guerrero, Oaxaca y Michoacán, con epicentros a varios cientos de kilómetros de ciudades como Ciudad Hidalgo y Mapastepec.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/10/temblor-hoy-en-mexico-noticias-actividad-sismica-10-de-agosto-de-2026/",
-      "published_at": "2026-08-11T02:18:59+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos técnicos y fuentes oficiales, sin lenguaje cargado ni selección de fuentes que favorezca una postura política.",
-      "focus_analysis": "El medio se centró en la información científica y de monitoreo sísmico, dejando de lado el impacto humano inmediato o la respuesta de autoridades locales.",
-      "focus_tags": [
-        "sismicidad",
-        "actualizaciones",
-        "cinturón de fuego"
-      ],
-      "context": [
-        {
-          "label": "Institución de monitoreo",
-          "text": "El Servicio Sismológico Nacional de México es la autoridad encargada de registrar y difundir en tiempo real los eventos sísmicos en el territorio nacional."
-        },
-        {
-          "label": "Riesgo sísmico histórico",
-          "text": "México se encuentra sobre el Cinturón de Fuego del Pacífico, una zona con alta actividad tectónica que ha generado terremotos de gran magnitud, como el de 7.7 en 2022 en Michoacán."
-        },
-        {
-          "label": "Actividad sísmica en Latinoamérica",
-          "text": "En los últimos años, la región latinoamericana ha experimentado varios sismos de gran magnitud, incluyendo un terremoto de 7.4 en Colombia en agosto de 2026, lo que subraya la vulnerabilidad sísmica del área."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
