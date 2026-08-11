@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T02:41:33.106825+00:00",
-      "title": "Gobernar las conciencias",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "La pieza es o y bien estructurada, pero su falta de fuentes contrastantes y la evidente parcialidad comprometen su objetividad y equilibrio editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T02:41:38.690362+00:00",
-      "title": "Wall Street se asociará con NVIDIA",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es oportuno y bien estructurado, pero la falta de evidencia verificable sobre el acuerdo de 500 mil millones de dólares con NVIDIA compromete su precisión global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T02:41:44.623158+00:00",
-      "title": "La inesperada reacción de Morena Beltrán con Galíndez luego de que el arquero de Huracán le dijera “",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta inconsistencias en los datos y falta de fuentes múltiples, lo que compromete su veracidad, aunque es reciente y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T02:41:49.215587+00:00",
-      "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es informativo y bien estructurado, pero contiene un error factual sobre el presidente, lo que le resta credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:00:42.678517+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla en veracidad y objetividad, aunque está bien estructurado y actualizado; requiere fuentes fiables y un tono más neutral para cumplir con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:00:48.252008+00:00",
-      "title": "Alito Moreno acusa a Movimiento Ciudadano de hacerle “el trabajo sucio” al régimen de la 4T",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en general con los estándares de un artículo informativo, aunque la falta de fuentes verificables y la escasa diversidad de voces reducen ligeramente la puntuación de veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:00:57.349971+00:00",
-      "title": "Donald Trump ve como \"un terrible error\" que Infantino salga de la FIFA",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, aunque está actualizado y estructurado adecuadamente. Necesita fuentes fiables y un enfoque más equilibrado antes de publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:01:01.192484+00:00",
-      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:01:10.202923+00:00",
-      "title": "\"Estamos en la calle\": desesperación en el Chocó, epicentro del mortífero terremoto en Colombia",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero la ausencia de verificación externa del terremoto disminuye ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:01:15.202156+00:00",
-      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y redactado de forma objetiva, pero la falta de fuentes verificables y la ausencia de evidencia concreta sobre la función de iOS 27 reducen su puntuación de veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T03:01:27.921226+00:00",
-      "title": "Gobernar las conciencias",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es preciso y oportuno, pero su falta de fuentes contrastantes reduce la amplitud del análisis y la capacidad de ofrecer una visión equilibrada.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T03:01:33.035725+00:00",
       "title": "Los aliados acusan a la FIFA de “engaño” en relación con los planes para la Copa del Mundo",
       "kind": "noticia",
@@ -3398,6 +3211,193 @@
         "estructura_piramide": 10
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:20:48.650721+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 7,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta graves inexactitudes factuales y una fuente poco fiable para el hecho central, lo que compromete su idoneidad editorial a pesar de una estructura adecuada y actualidad aparente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:20:55.672697+00:00",
+      "title": "Ángel Aguirre controlaba crimen y policía, indican testigos; ordenó a destruir evidencias del caso A",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta información reciente pero con veracidad y balance de fuentes limitados, y muestra sesgo en el lenguaje, por lo que necesita mejoras antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:20:59.708873+00:00",
+      "title": "Última hora del terremoto en Colombia, en directo | Al menos 132 muertos y 570 heridos por el seísmo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una buena estructura y actualidad, pero contiene errores graves de veracidad y un limitado contraste de fuentes locales, lo que reduce su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:05.966931+00:00",
+      "title": "Ryan Hoffman revela detalles de su historia con Brianda Deyanara y le envía un mensaje en La Casa de",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere reforzar la verificación con citas directas o fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:13.519780+00:00",
+      "title": "Faltan 24 horas para el eclipse y al fin doy con la app perfecta para saber si será visible en mi zo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, con pequeñas áreas de mejora en la profundidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:23.920552+00:00",
+      "title": "Espliego, que no faneca (III)",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial para una nota literaria, presentando información precisa, fuente fiable y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:32.136456+00:00",
+      "title": "Fue una estrella del deporte, pero se convirtió en una de las mayores villanas de la historia y Los ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero necesita fuentes más diversas y un tono más neutro para cumplir plenamente con los estándares de objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:38.941270+00:00",
+      "title": "El auge de las cadenas de tiendas económicas",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero carece de fuentes contrastadas y muestra cierta parcialidad, lo que limita su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:45.223590+00:00",
+      "title": "Galilea Montijo remonta con comercial de tintes de pelo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de un artículo informativo y objetivo, con buena estructura y fuentes fiables, aunque podría reforzar la verificación con citas concretas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:51.062815+00:00",
+      "title": "El incendio de Huelva amenaza viviendas: 800 evacuados en plena sequía",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura objetiva y actual de un hecho real, con una estructura clara y fuentes razonablemente contrastadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T07:21:59.749361+00:00",
+      "title": "Retiran sellos de aseguramiento al salón donde fue asesinada Valeria Márquez: el local es remodelado",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para ofrecer un mayor contraste de perspectivas.",
       "error": null
     }
   ]
