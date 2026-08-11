@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-10T22:09:12.345263+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete no cumple con los estándares de veracidad y objetividad, pese a estar actualizado y estructurado de forma aceptable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:17.577556+00:00",
-      "title": "Hidalgo reduce 42% su deuda heredada; ingresos propios aumentan 96% desde 2021",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y cumple con los estándares de objetividad y actualidad, aunque la falta de citas directas a los datos financieros reduce ligeramente su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:21.699394+00:00",
-      "title": "Escapan por el quemacocos: Familia se salva de ahogarse tras caer en canal de Coria",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes oficiales para mayor veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:27.690041+00:00",
-      "title": "Lo que pierdes al cambiar de iPhone a Android (y lo que ganas, sin trampa)",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero la veracidad de los datos y la profundidad de fuentes contrastantes son limitadas, lo que reduce su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:32.782831+00:00",
-      "title": "Belgrano visita a Banfield por la cuarta fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, fuentes múltiples, objetividad y estructura, siendo una pieza informativa y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:38.623262+00:00",
-      "title": "Última hora del terremoto en Colombia, en directo | Más de un centenar de muertos por el terremoto d",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete contiene errores factuales graves que comprometen su veracidad, por lo que no debería publicarse en su estado actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:48.293004+00:00",
-      "title": "Gobernar las conciencias",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero le falta contraste de fuentes y verificación completa de algunos datos, lo que reduce su rigor editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:52.790601+00:00",
-      "title": "Persiste preocupación por reactor nuclear de Rumanía ante previsiones de nivel del agua del Danubio",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de objetividad y actualidad, aunque la precisión de los datos y la diversidad de fuentes podrían mejorarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:09:58.010074+00:00",
-      "title": "Instituto Electoral de la CDMX ajusta calendario; precampañas iniciarán en enero de 2027",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, pero necesita incorporar más voces y perspectivas para cumplir plenamente con el criterio de contraste en temas políticos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-10T22:10:02.907395+00:00",
-      "title": "Famosos colombianos reaccionan al terremoto: Llaman a la ayuda con mensajes de solidaridad",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y estructurado correctamente, pero la falta de fuentes fiables y verificables reduce su credibilidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-10T22:10:08.379263+00:00",
       "title": "La nueva IA de ChatGPT ya encuentra fallos de seguridad antes que los hackers",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es mayormente sólido y objetivo, pero necesita mayor contraste de fuentes para cubrir todas las voces relevantes en un caso de corrupción.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:40:50.785639+00:00",
+      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque es reciente y está bien estructurado; necesita fuentes verificables y corrección de datos antes de publicarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:40:55.559521+00:00",
+      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad periodística, cumple con los estándares de veracidad, objetividad y estructura, y es suficientemente reciente para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:03.664363+00:00",
+      "title": "\"Estamos en la calle\": desesperación en el Chocó, epicentro del mortífero terremoto en Colombia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero la falta de fuentes múltiples y verificables reduce su puntuación en veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:08.622599+00:00",
+      "title": "VANS Warped Tour México: Simple Plan, Destroy Boys, Escape the Fate y más en el cartel completo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales y es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:16.808253+00:00",
+      "title": "Burhan Can Terzim, periodista deportivo turco, es detenido por \"fake news\"",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es oportuno y estructurado, pero la falta de verificación y de fuentes múltiples compromete su precisión y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:21.147786+00:00",
+      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y objetivo, aunque le falta mayor respaldo de fuentes y citas específicas para maximizar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:33.106825+00:00",
+      "title": "Gobernar las conciencias",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "La pieza es o y bien estructurada, pero su falta de fuentes contrastantes y la evidente parcialidad comprometen su objetividad y equilibrio editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:38.690362+00:00",
+      "title": "Wall Street se asociará con NVIDIA",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es oportuno y bien estructurado, pero la falta de evidencia verificable sobre el acuerdo de 500 mil millones de dólares con NVIDIA compromete su precisión global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:44.623158+00:00",
+      "title": "La inesperada reacción de Morena Beltrán con Galíndez luego de que el arquero de Huracán le dijera “",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta inconsistencias en los datos y falta de fuentes múltiples, lo que compromete su veracidad, aunque es reciente y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-11T02:41:49.215587+00:00",
+      "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es informativo y bien estructurado, pero contiene un error factual sobre el presidente, lo que le resta credibilidad.",
       "error": null
     }
   ]

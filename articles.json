@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-11T02:21:41.348345+00:00",
+  "generated_at": "2026-08-11T02:41:50.255816+00:00",
   "articles": [
+    {
+      "id": "9e22c9d1c99c",
+      "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia",
+      "summary": "El sismo de magnitud 7,4 que sacudió el occidente de Colombia el 10 de agosto dejó al menos 132 muertos, más de 500 heridos y provocó el colapso de cientos de edificios, especialmente en los departamentos de Chocó, Valle del Cauca y Risaralda.",
+      "category": "sociedad",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cjd4824d9ljo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-11T02:30:47+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo emplea un tono informativo y equilibrado, citando a autoridades locales, internacionales y a organismos científicos sin usar lenguaje emotivo ni sesgado.",
+      "focus_analysis": "La cobertura se centra en el impacto humano y la respuesta de autoridades y equipos de rescate, mientras que el análisis económico de los daños queda poco desarrollado.",
+      "focus_tags": [
+        "terremoto Colombia",
+        "impacto humanitario",
+        "respuesta institucional"
+      ],
+      "context": [
+        {
+          "label": "Historial sísmico",
+          "text": "Colombia ha experimentado varios terremotos de gran magnitud en las últimas décadas, como el sismo de 1999 en Armenia, lo que ha generado una alta vulnerabilidad en regiones del Pacífico y la zona cafetera."
+        },
+        {
+          "label": "Respuesta gubernamental",
+          "text": "El presidente Abelardo de La Espriella declaró emergencia nacional y solicitó la intervención del gobierno central para coordinar el rescate y la atención de los heridos en los departamentos más afectados."
+        },
+        {
+          "label": "Apoyo internacional",
+          "text": "Estados Unidos, la Unión Europea y varios países vecinos ofrecieron equipos de rescate y asistencia financiera, mientras que el Servicio Geológico de EE. UU. proporcionó datos técnicos sobre la magnitud y profundidad del sismo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "3db5d5577d9e",
+      "title": "Wall Street se asociará con NVIDIA",
+      "summary": "Un consorcio de fondos de inversión, entre ellos Apollo Global, Blackstone, BlackRock, Brookfield Asset Management, Goldman Sachs y KKR, está negociando con NVIDIA para crear un paquete de financiación de 500 mil millones de dólares que apoye el desarrollo de infraestructuras de inteligencia artificial. El acuerdo refleja la creciente demanda de capital para la expansión de centros de datos y chips de IA.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/wall-street-asociara-nvidia-20260810-827579.html",
+      "published_at": "2026-08-11T02:19:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo mantiene un tono informativo y neutro, sin usar lenguaje cargado ni seleccionar fuentes con sesgo político; se limita a describir la operación financiera.",
+      "focus_analysis": "El medio priorizó la perspectiva económica y de mercado de la alianza, dejando de lado el impacto tecnológico y social de la expansión de la IA.",
+      "focus_tags": [
+        "finanzas",
+        "inteligencia artificial",
+        "alianzas corporativas"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "NVIDIA ya había recaudado miles de millones de dólares mediante emisiones de bonos para financiar la producción de sus chips de IA, como la emisión de 30 mil millones en 2023."
+        },
+        {
+          "label": "Comparación",
+          "text": "Empresas como Google y Amazon también han financiado sus propios procesadores de IA mediante bonos verdes y emisiones de deuda, lo que muestra una tendencia del sector tecnológico a buscar capital externo para infraestructura."
+        },
+        {
+          "label": "Postura de otros actores",
+          "text": "Microsoft ha anunciado planes para desarrollar su propio chip de IA y reducir la dependencia de los procesadores de NVIDIA, mientras que los reguladores financieros de EE. UU. han señalado un aumento en la emisión de deuda destinada a proyectos de tecnología avanzada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "ef3ee4be5761",
+      "title": "El iPhone tendrá una función para demostrar que una foto es real y no de IA",
+      "summary": "Apple está desarrollando una función para iOS 27 que certifica, mediante datos del sensor del iPhone, que una foto fue capturada por la cámara del dispositivo y no es una imagen generada por inteligencia artificial.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/apple/apple-reference-image-iphone-autenticar-fotos/",
+      "published_at": "2026-08-10T23:40:12+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y técnico sin términos cargados ni opiniones, y se limita a explicar la funcionalidad y su proceso de privacidad, sin favorecer ni criticar a la compañía.",
+      "focus_analysis": "El artículo se centra en el aspecto tecnológico y de privacidad de la nueva herramienta, dejando de lado el impacto social y legal de los deepfakes y la regulación de contenidos generados por IA.",
+      "focus_tags": [
+        "tecnología",
+        "privacidad",
+        "IA"
+      ],
+      "context": [
+        {
+          "label": "Política de privacidad de Apple",
+          "text": "Apple ha mantenido históricamente una política de procesamiento de datos en el dispositivo y de no subir contenido original a sus servidores, lo que respalda la implementación de la función de certificación de fotos en Private Cloud Compute."
+        },
+        {
+          "label": "Iniciativas de otras compañías",
+          "text": "Google y Meta ya incluyen marcas de agua invisibles para identificar imágenes generadas por IA, lo que muestra una tendencia de la industria hacia la detección y etiquetado de contenido artificial."
+        },
+        {
+          "label": "Preocupación pública por deepfakes",
+          "text": "El aumento de imágenes creadas por IA que pueden confundirse con fotografías reales ha generado debates sobre la veracidad de los contenidos visuales y la necesidad de herramientas de autenticación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "76f431bbd797",
+      "title": "VANS Warped Tour México: Simple Plan, Destroy Boys, Escape the Fate y más en el cartel completo",
+      "summary": "El Vans Warped Tour México llegará a la Ciudad de México los días 12 y 13 de septiembre, ofreciendo más de 90 bandas de rock y géneros alternativos en el Autódromo Hermanos Rodríguez, con boletos vendidos a ciegas y actividades de skate.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/11/vans-warped-tour-mexico-simple-plan-destroy-boys-escape-the-fate-y-mas-en-el-cartel-completo/",
+      "published_at": "2026-08-11T02:32:38+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y neutral, sin cargar palabras ni fuentes con inclinación política; se limita a informar sobre el evento cultural.",
+      "focus_analysis": "El medio se enfocó en la programación musical y la experiencia alternativa del festival, omitiendo aspectos económicos, de seguridad o de impacto social más amplio.",
+      "focus_tags": [
+        "festival de música",
+        "cultura alternativa",
+        "evento en CDMX"
+      ],
+      "context": [
+        {
+          "label": "histórico",
+          "text": "El Vans Warped Tour nació en Estados Unidos a finales de los años 90 y se ha caracterizado por su formato itinerante, carteles sorpresa y combinación de conciertos con actividades deportivas como el skate."
+        },
+        {
+          "label": "lugar",
+          "text": "El Autódromo Hermanos Rodríguez, ubicado en la capital mexicana, ha sido sede de conciertos masivos, como el festival Vive Latino y eventos deportivos, lo que facilita la organización de un festival de gran escala."
+        },
+        {
+          "label": "tendencia",
+          "text": "En los últimos años, México ha visto crecer la oferta de festivales de música alternativa, como Corona Capital y Festival NRM, reflejando una mayor demanda del público joven por eventos que mezclan música, arte y cultura urbana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "0b54f340bf36",
+      "title": "\"Estamos en la calle\": desesperación en el Chocó, epicentro del mortífero terremoto en Colombia",
+      "summary": "El terremoto de magnitud 7,4 que sacudió Colombia el 10 de agosto dejó decenas de muertos y cientos de viviendas destruidas en el departamento del Chocó, donde residentes de Quibdó describen estar sin techo y claman por ayuda del Estado.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/am%C3%A9rica-latina/20260811-estamos-en-la-calle-desesperaci%C3%B3n-en-el-choc%C3%B3-epicentro-del-mort%C3%ADfero-terremoto-en-colombia",
+      "published_at": "2026-08-11T02:35:56+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto emplea un tono emotivo y se centra en testimonios de víctimas, subrayando la vulnerabilidad del Chocó y la falta de respuesta eficaz, sin equilibrar con análisis técnico o perspectivas oficiales, lo que indica una ligera inclinación hacia la izquierda.",
+      "focus_analysis": "El medio elige un ángulo humanitario, resaltando el sufrimiento de la población y la negligencia histórica del territorio; quedan poco cubiertos los aspectos económicos de la reconstrucción y la gestión institucional del gobierno.",
+      "focus_tags": [
+        "humanitario",
+        "vulnerabilidad social",
+        "desastre natural"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del Chocó",
+          "text": "El departamento del Chocó ha sido históricamente una de las regiones más pobres y afectadas por el conflicto armado en Colombia, lo que ha limitado su capacidad de respuesta ante desastres naturales."
+        },
+        {
+          "label": "datos del sismo",
+          "text": "El 10 de agosto de 2026, el Servicio Geológico Colombiano registró un terremoto de magnitud 7,4 con epicentro en San José del Palmar, Chocó, a 82 km de profundidad, provocando colapsos de edificios y graves daños en varias ciudades del occidente del país."
+        },
+        {
+          "label": "respuesta internacional y gubernamental",
+          "text": "El presidente Abelardo la Espriella declaró el sismo un desastre nacional y visitó el Chocó; según otros medios, Estados Unidos destinó 15,5 millones de dólares para la emergencia y se suspendieron eventos como un partido de la Copa Sudamericana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "127473429346",
+      "title": "Belgrano le ganó a Banfield y Central Córdoba a Unión por la cuarta fecha del Torneo Clausura",
+      "summary": "En la cuarta fecha del Torneo Clausura 2026 de la Liga Profesional de Fútbol argentina, Belgrano venció 2‑0 a Banfield en el estadio Florencio Sola, mientras que Central Córdoba superó 2‑1 a Unión en el Estadio 15 de Abril, consolidando sus posiciones en la tabla.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/10/sigue-la-cuarta-fecha-del-torneo-clausura-con-dos-partidos-belgrano-visitara-a-banfield-y-union-recibira-a-central-cordoba/",
+      "published_at": "2026-08-11T02:39:30+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir resultados y hechos del juego sin usar adjetivos cargados ni favorecer a ningún club, manteniendo un tono objetivo y equilibrado entre los dos partidos.",
+      "focus_analysis": "El medio se centró en el desempeño deportivo y los momentos clave de los partidos, dejando fuera la reacción de los hinchas y el impacto financiero de los resultados.",
+      "focus_tags": [
+        "resultados de fútbol",
+        "Torneo Clausura",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Posición en la tabla",
+          "text": "Tras la victoria, Belgrano se ubicó en la parte alta de la zona B con tres puntos, mientras que Central Córdoba quedó séptimo en la zona A con seis puntos."
+        },
+        {
+          "label": "Antecedentes de Banfield",
+          "text": "Banfield, dirigido por Pedro Troglio, ha atravesado una serie de resultados adversos en la temporada, lo que ha incrementado la presión sobre el equipo para evitar la zona de descenso."
+        },
+        {
+          "label": "Estructura de la LPF",
+          "text": "La Liga Profesional de Fútbol (LPF) es la máxima categoría del fútbol argentino y el Torneo Clausura 2026 constituye la segunda mitad del campeonato anual."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "4c4dbc7c7c6c",
       "title": "Detienen en Acapulco a dos funcionarios de Medio Ambiente del Edomex; los investigan por extorsión a verificentros",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "85c7367beb35",
-      "title": "Ecatepec aumenta cobertura de agua al 85 por ciento; rehabilita 24 pozos para ampliar el servicio",
-      "summary": "El gobierno municipal de Ecatepec, Estado de México, comunicó que ha elevado la cobertura de agua potable al 85 % de su población y ha rehabilitado 24 pozos, como parte del Plan Integral de la Zona Oriente impulsado por la gobernadora Delfina Gómez Álvarez y la presidenta municipal Azucena Cisneros Coss.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/ecatepec-aumenta-cobertura-de-agua-al-85-por-ciento-rehabilita-24-pozos-para-ampliar-el-servicio/",
-      "published_at": "2026-08-11T01:19:51+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto utiliza un tono mayormente elogioso, destaca logros y omite críticas o voces contrarias, enfocándose en declaraciones oficiales y en el éxito del plan sin mencionar posibles dificultades.",
-      "focus_analysis": "El medio se centra en el desarrollo infraestructural y la mejora de servicios públicos, dejando de lado la perspectiva de los residentes sobre la calidad del agua o los posibles retos de implementación.",
-      "focus_tags": [
-        "infraestructura agua",
-        "desarrollo regional",
-        "política pública"
-      ],
-      "context": [
-        {
-          "label": "Cobertura histórica",
-          "text": "Antes de la actual administración, la cobertura de agua potable en Ecatepec rondaba el 35 % de la población, según datos municipales publicados en 2022."
-        },
-        {
-          "label": "Plan Integral de la Zona Oriente",
-          "text": "El proyecto, respaldado por la presidenta de México Claudia Sheinbaum y la gobernadora del Estado de México Delfina Gómez Álvarez, cuenta con una inversión de 75,786 millones de pesos para 121 acciones dirigidas a mejorar agua, salud, educación y seguridad en 11 municipios."
-        },
-        {
-          "label": "Participación de Conagua",
-          "text": "La Comisión Nacional del Agua (Conagua) ha financiado la rehabilitación de pozos y la construcción de tanques maestros en distintas regiones del país, como parte de su programa nacional de ampliación de infraestructura hídrica."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "f6044e16f54d",
-      "title": "Clima CDMX EN VIVO y resto de México hoy lunes 10 de agosto: activan alerta naranja por pronóstico de granizo",
-      "summary": "El Servicio Meteorológico Nacional y la Secretaría de Gestión Integral de Riesgos y Protección Civil de México activaron una alerta naranja en la Ciudad de México para la tarde del lunes 10 de agosto, advirtiendo la posibilidad de granizo y lluvias intensas en varias alcaldías.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/10/en-vivo-clima-en-cdmx-y-resto-de-mexico-hoy-10-de-agosto/",
-      "published_at": "2026-08-11T00:56:59+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro y se basa exclusivamente en fuentes oficiales sin emplear vocabulario cargado ni presentar opiniones, lo que indica una cobertura centrada y sin sesgo político.",
-      "focus_analysis": "El medio se concentra en informar sobre las alertas meteorológicas y la seguridad ciudadana, dejando de lado posibles impactos económicos o debates sobre cambio climático.",
-      "focus_tags": [
-        "clima",
-        "alerta naranja",
-        "CDMX"
-      ],
-      "context": [
-        {
-          "label": "Instituciones meteorológicas",
-          "text": "En México, el Servicio Meteorológico Nacional (SMN) y la Comisión Nacional del Agua (CONAGUA) son las entidades encargadas de monitorear y difundir pronósticos y alertas climáticas a nivel nacional."
-        },
-        {
-          "label": "Sistema de alertas de riesgo",
-          "text": "La Secretaría de Gestión Integral de Riesgos y Protección Civil (SGIRPC) utiliza una escala de colores—naranja para riesgo alto y amarilla para riesgo moderado—para comunicar la gravedad de fenómenos como lluvias intensas y granizo."
-        },
-        {
-          "label": "Cobertura en otras regiones",
-          "text": "Otros medios, como El Informador, publicaron pronósticos para ciudades costeras como Cancún, mostrando que las alertas climáticas se adaptan a las condiciones específicas de cada zona del país."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a105bd51d292",
-      "title": "ondusef renueva insignia a Afore XXI Banorte por servicio de excelencia a adultos mayores",
-      "summary": "La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF) renovó la insignia de \"Compromiso en la Atención a Personas Adultas Mayores\" a Afore XXI Banorte, reconociendo sus medidas para ofrecer un servicio financiero accesible, inclusivo y de alta calidad a la población mayor de México.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/ondusef-renueva-insignia-afore-xxi-banorte-servicio-excelencia-adultos-mayores-20260810-827560.html",
-      "published_at": "2026-08-11T00:57:25+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono elogioso y solo cita a funcionarios de la CONDUSEF y de la Afore, sin presentar críticas ni voces opositoras, lo que indica una ligera inclinación favorable al sector financiero.",
-      "focus_analysis": "El medio se centra en el reconocimiento institucional y la inclusión financiera de adultos mayores, dejando de lado el análisis del impacto económico de la medida o posibles desafíos operativos.",
-      "focus_tags": [
-        "inclusión financiera",
-        "adultos mayores",
-        "Afore XXI Banorte"
-      ],
-      "context": [
-        {
-          "label": "Regulación financiera en México",
-          "text": "La CONDUSEF es la autoridad mexicana encargada de proteger los derechos de los usuarios de servicios financieros y de promover la transparencia y la equidad en el sector."
-        },
-        {
-          "label": "Desafíos de inclusión para adultos mayores",
-          "text": "México enfrenta un envejecimiento poblacional acelerado, lo que genera la necesidad de adaptar los productos y canales financieros para que sean accesibles y seguros para personas mayores."
-        },
-        {
-          "label": "Historial de Afore XXI Banorte",
-          "text": "Afore XXI Banorte recibió su primera validación de la insignia de atención a adultos mayores en 2024, consolidándose como una de las administradoras de fondos de pensiones que prioriza la accesibilidad y la atención personalizada."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "b0853f22250b",
-      "title": "Turquía aprueba una ley histórica para la reintegración de los combatientes del PKK",
-      "summary": "El parlamento de Turquía aprobó una ley histórica que permite la reintegración a la vida civil de los combatientes del PKK que abandonen las armas, sin incluir una amnistía general ni definir la situación del líder Abdullah Öcalan. La medida, respaldada por una amplia mayoría, se presenta como un paso clave en el proceso de paz de cuatro décadas entre el Estado turco y la insurgencia kurda.",
-      "category": "politica",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/europa/20260811-turqu%C3%ADa-aprueba-una-ley-hist%C3%B3rica-para-la-reintegraci%C3%B3n-de-los-combatientes-del-pkk",
-      "published_at": "2026-08-11T00:45:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, citando a representantes del gobierno, la oposición y la comunidad kurda sin emplear vocabulario cargado ni favorecer a una parte específica.",
-      "focus_analysis": "El artículo se centra en el ángulo institucional y político del proceso de paz, describiendo la legislación y los debates parlamentarios, mientras que deja de lado el impacto humano directo sobre los combatientes y sus familias.",
-      "focus_tags": [
-        "paz y seguridad",
-        "reintegración de combatientes",
-        "política turca"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del conflicto",
-          "text": "El PKK lleva más de cuarenta años en una lucha armada contra el Estado turco, con un estimado de 50 000 muertos desde 1984 y una larga historia de negociaciones fallidas."
-        },
-        {
-          "label": "Posición de Abdullah Öcalan",
-          "text": "Abdullah Öcalan, fundador y líder del PKK, está encarcelado en Turquía desde 1999; la nueva ley no aborda su situación, lo que mantiene una cuestión pendiente en el proceso de paz."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Según DW Español, la legislación también busca la reintegración de miles de combatientes que aún se encuentran en los bastiones del PKK en el norte de Irak, un enfoque que la nota de France24 menciona solo de forma marginal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "ec0b5594e6ef",
-      "title": "Tamaulipas impulsa el \"Fara Fara\" como herramienta de cultura de paz; buscan fortalecer la identidad comunitaria",
-      "summary": "El gobernador de Tamaulipas, Américo Villarreal Anaya, lanzó el proyecto “Fara Fara” para usar la música norteña como herramienta de cultura de paz y reforzar la identidad comunitaria en Río Bravo.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/tamaulipas-impulsa-el-fara-fara-como-herramienta-de-cultura-de-paz-buscan-fortalecer-la-identidad-comunitaria/",
-      "published_at": "2026-08-11T00:55:12+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto utiliza un tono elogioso hacia el mandatario de Morena y omite voces críticas o datos que cuestionen la iniciativa, lo que indica una ligera inclinación favorable a la izquierda.",
-      "focus_analysis": "El medio se centra en el aspecto cultural y de cohesión social del proyecto, dejando de lado la persistente violencia y los retos de seguridad que afectan a Tamaulipas.",
-      "focus_tags": [
-        "cultura de paz",
-        "identidad comunitaria",
-        "música norteña"
-      ],
-      "context": [
-        {
-          "label": "Violencia en Tamaulipas",
-          "text": "Tamaulipas ha sido uno de los estados mexicanos con mayores índices de criminalidad y conflicto armado, lo que ha limitado el uso público de espacios comunitarios."
-        },
-        {
-          "label": "Tradición del Fara Fara",
-          "text": "El “Fara Fara” es una expresión musical tradicional de la frontera norte de México, transmitida de generación en generación y vinculada a la vida cotidiana de los ejidos."
-        },
-        {
-          "label": "Política cultural federal",
-          "text": "La Secretaría de Cultura del Gobierno de México ha impulsado programas que promueven la cultura regional como motor de desarrollo social, similar a iniciativas en otros estados como Oaxaca y Chiapas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "76d244a6cbe9",
-      "title": "Thiago Almada firmó el contrato con River Plate: sus primeras fotos con la camiseta del club",
-      "summary": "El mediocampista argentino Thiago Almada firmó un contrato de cuatro años y medio con River Plate, convirtiéndose en la transferencia más costosa de la historia del fútbol argentino, y presentó oficialmente la camiseta del club tras su llegada desde el Atlético de Madrid.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/10/thiago-almada-firmo-el-contrato-con-river-plate-sus-primeras-fotos-con-la-camiseta-del-club/",
-      "published_at": "2026-08-11T00:58:02+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y elogios institucionales sin usar un lenguaje cargado ni presentar críticas, manteniendo un tono informativo y promocional propio de la prensa deportiva.",
-      "focus_analysis": "El artículo se centra en la perspectiva institucional del club y el aspecto financiero del fichaje, resaltando la necesidad de mejorar el rendimiento deportivo; omite la reacción de la afición y el análisis del mercado internacional.",
-      "focus_tags": [
-        "fichaje",
-        "River Plate",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "River Plate venía de una racha de cuatro derrotas consecutivas en el Torneo Clausura y había sido eliminado en los dieciseisavos de la Copa Argentina, lo que generó presión para reforzar el plantel."
-        },
-        {
-          "label": "datos comparables",
-          "text": "La operación de USD 20 millones supera cualquier transferencia anterior realizada por un club argentino, marcando un récord de inversión en el mercado local."
-        },
-        {
-          "label": "postura de actores",
-          "text": "Almada, quien formó parte del plantel campeón del Mundial de Qatar 2022 y jugó 40 partidos con el Atlético de Madrid, regresó al país con una trayectoria internacional que el presidente de River, Stefano Di Carlo, consideró clave para revitalizar el equipo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
