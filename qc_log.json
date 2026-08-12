@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T20:25:39.142759+00:00",
-      "title": "La voluntad de los muertos",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero la veracidad de la fecha de fallecimiento y la falta de fuentes contrastantes reducen ligeramente su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:25:45.739379+00:00",
-      "title": "México reporta caída de 51% en homicidios dolosos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero la precisión de los datos y la diversidad de fuentes podrían mejorarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:25:52.173420+00:00",
-      "title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la únic",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita mayor respaldo de fuentes y un tono más neutro para alcanzar la máxima calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:40:44.286630+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla en veracidad y objetividad, aunque está bien estructurado y es reciente; necesita fuentes verificables y un lenguaje más neutral.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:40:51.682513+00:00",
-      "title": "Rafa Jódar - Arthur Fils en directo | Se reanuda el partido tras las lluvias en Canadá",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo la ausencia de citas explícitas reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:40:57.555939+00:00",
-      "title": "Los Knicks deben decidir: asegurar a Towns con un contrato millonario o cuidar el futuro del equipo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Debido a errores de veracidad significativos, el paquete no cumple los estándares de calidad editorial y requiere corrección antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:02.087106+00:00",
-      "title": "Inmueble se derrumba en Viaducto y Minería en CDMX e invade vialidad; esto se sabe del incidente (VI",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste, objetividad y actualidad, presentando la noticia de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:08.451434+00:00",
-      "title": "BID activa 300 mdd en financiación de emergencia para Colombia; agrega 500 mil dólares para asistenc",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, contrastada, objetiva y oportuna con una estructura clara.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:13.499996+00:00",
-      "title": "Elon Musk lanza una IA que trabaja por ti las 24 horas con solo enviar un mensaje",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita corregir errores de nombres y ampliar sus fuentes, pero en general mantiene una presentación objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:24.204555+00:00",
-      "title": "La voluntad de los muertos",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mayor verificación de datos y fuentes más diversas; aunque es actual y bien estructurado, la precisión y objetividad son limitadas.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T20:41:30.258295+00:00",
       "title": "Precios del petróleo suben ante desacuerdos entre Estados Unidos e Irán",
       "kind": "noticia",
@@ -3398,6 +3228,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, imparcialidad y actualidad, presentando la noticia de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:08:38.939748+00:00",
+      "title": "Jenna Ortega recuerda sus inicios como actriz: pasaba “todo el día sin comer ni beber” en los sets",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, con solo pequeñas áreas de mejora en la estructuración de la pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:08:43.644729+00:00",
+      "title": "El dato que pone en jaque al calendario del tenis tras la ola de abandonos en Canadá: las lesiones a",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta la noticia de forma estructurada y neutral, pero la falta de fuentes verificables y de contraste real reduce su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:08:47.148858+00:00",
+      "title": "Gobierno de México lanza acciones en todo el país por el Día Internacional de la Juventud",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete muestra buena actualidad y estructura, pero contiene inexactitudes y una cobertura parcial que reducen su veracidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:08:54.306345+00:00",
+      "title": "Equipo infantil de futbol de Tijuana pide ayuda para salir tras terremoto en Colombia",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida los estándares de calidad editorial, con ligera reserva por la verificabilidad de algunos datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:08:59.518946+00:00",
+      "title": "Estrella de ‘Superman’ se une a la serie de ‘Harry Potter’ para interpretar a un profesor inolvidabl",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque es objetivo, actual y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:09:03.332330+00:00",
+      "title": "Venezuela e Israel acuerdan restablecer servicios consulares tras una ruptura diplomática de 17 años",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual y la variedad de fuentes, aunque mantiene buena objetividad y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:09:14.395902+00:00",
+      "title": "La voluntad de los muertos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y estructurado, pero presenta problemas de veracidad y falta de fuentes contrastadas, además de una evidente parcialidad ideológica.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:09:17.903814+00:00",
+      "title": "Detienen en Hermosillo a exrecepcionista de médico buscado por caso de \"sueros vitaminados\"; lo acus",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una cobertura precisa, objetiva y oportuna del su.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:09:22.705842+00:00",
+      "title": "El codazo de Báez sobre Flores que le costó la expulsión a Recoleta ante Boca por la Copa Sudamerica",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, objetiva y reciente, estructurada de forma adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:09:27.887823+00:00",
+      "title": "Andy López Beltrán asegura que la oposición busca manchar la imagen de AMLO",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares, pero la falta de fuentes opositoras limita su contraste.",
       "error": null
     }
   ]
