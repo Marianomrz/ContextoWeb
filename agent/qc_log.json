@@ -1,278 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T20:41:30.258295+00:00",
-      "title": "Precios del petróleo suben ante desacuerdos entre Estados Unidos e Irán",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es oportuno y está bien estructurado, pero la inexactitud sobre el estatus de Trump y la escasa variedad de fuentes reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:36.616842+00:00",
-      "title": "Colombia se vuelca en el rescate de los supervivientes del terremoto: “No se desgasten aquí, la únic",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta graves deficiencias de veracidad que comprometen su idoneidad editorial, pese a una buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:42.062220+00:00",
-      "title": "El influencer que hizo viral a Tim Payne le hizo una particular propuesta al Pollo Vignolo para “jug",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado en actualidad y estructura, pero la falta de verificación y pequeñas inconsistencias reducen su puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:46.928833+00:00",
-      "title": "Asciende a 240 cifra de muertos por devastador terremoto en Colombia",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, presentando datos recientes y bien contextualizados, aunque muestra un leve sesgo en la presentación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:41:53.757295+00:00",
-      "title": "¿Qué es el \"Cinturón de Fuego\"?; estos son los países que comprenden la zona con mayor actividad sís",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En conjunto, el paquete cumple con los estándares de precisión y objetividad, aunque la falta de fuente para el terremoto colombiano impide una verificación total.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:57:37.597012+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta graves imprecisiones factuales y falta de fuentes contrastadas, pese a su actualidad y estructura razonable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:57:43.531022+00:00",
-      "title": "Rafa Jódar - Arthur Fils en directo | Se reanuda el partido tras las lluvias en Canadá",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es objetivo y está bien estructurado, pero contiene errores de factualidad que comprometen su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:57:46.331617+00:00",
-      "title": "Los Knicks deben decidir: asegurar a Towns con un contrato millonario o cuidar el futuro del equipo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo descalifica para publicación a pesar de su buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:57:52.614164+00:00",
-      "title": "Solo ocho equipos mexicanos se mantienen con aspiraciones a las finales de la Leagues Cup",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad; es apto para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:57:58.491025+00:00",
-      "title": "Metro se resiste a publicar contrato de candelabros y obras en Hidalgo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque podría mejorar el contraste de fuentes al incluir declaraciones de los actores involucrados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:58:04.046470+00:00",
-      "title": "Elon Musk lanza una IA que trabaja por ti las 24 horas con solo enviar un mensaje",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero contiene errores factuales y un sesgo positivo que reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:58:15.591782+00:00",
-      "title": "La voluntad de los muertos",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta información actual pero con posibles imprecisiones y un sesgo notable; necesita fuentes más variadas y mayor neutralidad para alcanzar estándares periodísticos más altos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:58:20.931656+00:00",
-      "title": "Precios del petróleo suben ante desacuerdos entre Estados Unidos e Irán",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo necesita corregir errores fácticos y ampliar la variedad de fuentes para cumplir con los estándares de veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:58:25.741885+00:00",
-      "title": "¿Dónde habrá nubes durante el eclipse? Consulte cómo estarán los cielos y el horizonte en cada munic",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales: es preciso, objetivo, actual y está bien estructurado, aunque podría enriquecer la variedad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:58:34.131520+00:00",
-      "title": "River completó el rediseño que había anunciado Di Carlo y se retiró del mercado de pases",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido, aunque necesita mayor respaldo de fuentes para algunas cifras específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T20:58:40.769801+00:00",
-      "title": "Caos en Viaducto Miguel Alemán por colapso en obra: suspenden trabajos y cierran circulación en CDMX",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque debería corregir la posible inexactitud del nombre del alcalde y agregar citas verificables para reforzar la veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T20:58:48.649977+00:00",
       "title": "Caen 10 del Cártel de Sinaloa, 7 son colombianos; aseguran inmueble, armas largas y droga",
       "kind": "noticia",
@@ -3398,6 +3126,278 @@
         "estructura_piramide": 8
       },
       "observacion": "El paquete cumple con la mayoría de los estándares, pero la falta de fuentes opositoras limita su contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:20:43.685736+00:00",
+      "title": "Disney+ transmitirá carreras de la Fórmula E en 144 países desde diciembre",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete tiene problemas de veracidad que requieren corrección, aunque la estructura y la actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:20:49.323994+00:00",
+      "title": "Talleres recibe a Lanús en el cierre de la fecha 4 del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Buena estructura y objetividad, pero la veracidad de varios datos es cuestionable y la ausencia de fuentes múltiples reduce la calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:20:54.722789+00:00",
+      "title": "Tigres podría perder a Brunetta tras recibir una oferta millonaria desde Arabia",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad y estructura, y mantiene objetividad, pero necesita fuentes más múltiples y evidencia que respalde la cifra de la oferta para mejorar veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:01.612460+00:00",
+      "title": "Milena Quiroga pedirá peritaje federal a video de mantas en su contra en BCS; busca identificar a re",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es preciso y actual, pero necesita mayor contraste de fuentes y presenta un leve sesgo que reduce su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:05.708261+00:00",
+      "title": "Estrella de ‘Superman’ se une a la serie de ‘Harry Potter’ para interpretar a un profesor inolvidabl",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta la información de forma estructurada y objetiva, pero la falta de verificación y de fuentes contrastadas compromete su fiabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:12.691687+00:00",
+      "title": "Venezuela e Israel acuerdan restablecer servicios consulares tras una ruptura diplomática de 17 años",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, contrastada y objetiva, con una estructura clara y reciente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:28.246308+00:00",
+      "title": "La voluntad de los muertos",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero la falta de verificación de datos y de contraste de fuentes limita su fiabilidad periodística.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:32.482576+00:00",
+      "title": "60 años de Ford: Un legado que va más allá de la movilidad",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información con errores de factualidad y un sesgo evidente, aunque es reciente y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:40.478879+00:00",
+      "title": "El dato que pone en jaque al calendario del tenis tras la ola de abandonos en Canadá: las lesiones a",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita mayor verificación de datos y fuentes más diversas para reforzar su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:44.907746+00:00",
+      "title": "Hugo Sánchez responde a Martinoli, quien aseguró que ‘Penta’ “era mejor que Lewandowski y que Haalan",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Buena estructura y actualidad, pero la imprecisión factual y la falta de fuentes contrastantes disminuyen la calidad del paquete.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:50.538691+00:00",
+      "title": "Defensa de Aguirre presenta 31 pruebas para tumbar acusación de la FGR; excolaboradores declaran a s",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar al incluir fuentes directas de la FGR para un contraste más equilibrado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:21:56.832435+00:00",
+      "title": "El Galaxy S26 FE filtra todas sus características y ya no quedan sorpresas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero la falta de verificación independiente de los datos reduce su puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:22:02.820363+00:00",
+      "title": "Siria condena el reconocimiento de Colombia de la soberanía israelí sobre los Altos de Golán",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en estilo y actualidad, pero la falta de verificación de actores clave y de fuentes contrapuestas reduce su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:22:14.549514+00:00",
+      "title": "Ceuta y la migración como arma",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual y la diversidad de fuentes para cumplir con los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:22:21.444391+00:00",
+      "title": "Un hospital de Cali parcialmente destruido tras terremoto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero le falta verificación de fuentes y mayor contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T00:22:27.636613+00:00",
+      "title": "El codazo de Báez sobre Flores que le costó la expulsión a Recoleta ante Boca por la Copa Sudamerica",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque la falta de fuentes verificables impide confirmar plenamente la veracidad de los detalles.",
       "error": null
     }
   ]
