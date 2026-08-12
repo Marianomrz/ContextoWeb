@@ -1,6 +1,251 @@
 {
-  "generated_at": "2026-08-12T19:41:51.494740+00:00",
+  "generated_at": "2026-08-12T20:01:51.271373+00:00",
   "articles": [
+    {
+      "id": "774c2470f395",
+      "title": "Casas abandonadas en la Roma generan alerta por posibles despojos: vecinos ubican 120 inmuebles en riesgo",
+      "summary": "Los vecinos de la colonia Roma de la Ciudad de México entregaron a la autoridad una lista con unas 120 casas abandonadas o intestadas que consideran en riesgo de ser despojadas, y solicitaron que se revise su situación jurídica para evitar ocupaciones irregulares.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/12/casas-abandonadas-en-la-roma-generan-alerta-por-posibles-despojos-vecinos-ubican-120-inmuebles-en-riesgo/",
+      "published_at": "2026-08-12T19:57:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y cita tanto a la fundación local como a autoridades y datos oficiales, sin usar vocabulario cargado ni favorecer a alguna posición política.",
+      "focus_analysis": "El medio se centra en el riesgo de despojo de inmuebles abandonados y la preocupación de los residentes, resaltando el aspecto de seguridad urbana y derechos de propiedad, mientras deja de lado un análisis profundo de las políticas públicas o de la respuesta institucional a largo plazo.",
+      "focus_tags": [
+        "despojo urbano",
+        "propiedades abandonadas",
+        "seguridad ciudadana"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "En la Ciudad de México, el delito de despojo está tipificado en el Código Penal del Distrito Federal y contempla sanciones para quienes ocupen o utilicen inmuebles sin derecho, especialmente cuando se emplean documentos falsos o se vulneran a personas vulnerables."
+        },
+        {
+          "label": "Datos de despojo",
+          "text": "Según la fiscal general Bertha Alcalde Luján, en agosto de 2026 se registraron 1 966 casos de despojo en la capital, con una tasa de 21,4 por cada 100 mil habitantes; la alcaldía Cuauhtémoc, donde está la Roma, reportó 205 casos, la más alta de la ciudad."
+        },
+        {
+          "label": "Problemas similares en otras zonas",
+          "text": "Otros barrios de alto valor como Condesa y del Centro Histórico también han enfrentado denuncias de ocupación de inmuebles abandonados, lo que ha motivado a organizaciones vecinales a presentar listas a las autoridades locales para buscar soluciones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "a2396e4c6036",
+      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
+      "summary": "El artículo de Letras Libres publica una carta inédita de Octavio Paz, poeta y Nobel mexicano, a su amigo el pintor Juan Soriano, revelando la intimidad y el humor que marcó su larga amistad artística.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/buzon-de-fantasmas-una-carta-de-octavio-paz-a-juan-soriano/12/08/2026/",
+      "published_at": "2026-08-12T19:35:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la valoración literaria y biográfica de los autores, sin emplear un lenguaje cargado ni citar fuentes políticas, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio elige un ángulo cultural‑literario, resaltando la relación personal y creativa entre Paz y Soriano, mientras deja de lado el contexto político y social de la época.",
+      "focus_tags": [
+        "cultura literaria",
+        "amistad artística"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "Octavio Paz (1914‑1998) fue poeta, ensayista y diplomático mexicano, galardonado con el Premio Nobel de Literatura en 1990, y sus escritos a menudo combinaron reflexión estética con crítica política."
+        },
+        {
+          "label": "Dato comparativo",
+          "text": "Juan Soriano (1920‑2006) es uno de los pintores más influyentes de México, reconocido por su estilo neoclásico y por retratar figuras simbólicas, y mantuvo una relación cercana con destacados intelectuales de su generación."
+        },
+        {
+          "label": "Postura de otro actor",
+          "text": "Durante la segunda mitad del siglo XX, la escena cultural mexicana estuvo marcada por tensiones entre el oficialismo del gobierno y los círculos bohemios, lo que influyó en la producción y difusión de obras de autores como Paz y Soriano."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "13d33fd0650f",
+      "title": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador",
+      "summary": "Microsoft Corporation lanzó un parche urgente para Windows 10 y Windows 11 que corrige la vulnerabilidad crítica CVE‑2026‑68820, la cual permite a atacantes con acceso local ejecutar código con privilegios de sistema.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/seguridad/microsoft-parchea-fallo-critico-windows-explotado-activamente/",
+      "published_at": "2026-08-12T19:38:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo emplea un tono técnico y neutral, describe tanto el problema como la solución sin usar lenguaje cargado ni favorecer una postura política o comercial.",
+      "focus_analysis": "El medio se centra en el aspecto de seguridad informática del fallo y la respuesta de Microsoft, omitiendo análisis sobre el impacto económico o la respuesta de usuarios y organizaciones.",
+      "focus_tags": [
+        "seguridad informática",
+        "vulnerabilidad Windows",
+        "parche de emergencia"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de vulnerabilidades de Windows",
+          "text": "En años recientes, Microsoft ha tenido que publicar parches críticos como los de Spectre/Meltdown y PrintNightmare, que también exigieron actualizaciones rápidas para proteger a los usuarios."
+        },
+        {
+          "label": "mecanismo de actualización Patch Tuesday",
+          "text": "La compañía mantiene la práctica mensual de Patch Tuesday, donde entrega simultáneamente actualizaciones de seguridad para sus sistemas operativos y servidores."
+        },
+        {
+          "label": "problemas de seguridad en Windows Defender",
+          "text": "Investigaciones externas, como la divulgación de ShieldBreak por BleepingComputer, han demostrado que el antivirus integrado Windows Defender también puede ser vulnerado, resaltando la necesidad de medidas de defensa en profundidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "49772f50731c",
+      "title": "Revelaron el conmovedor gesto que tuvo Jorge Messi con médicos de Rosario: “Se ocupaba de todos los detalles”",
+      "summary": "Jorge Messi, padre del futbolista argentino Lionel Messi, impulsó mediante la Fundación Leo Messi un programa de formación en trasplantes de médula ósea pediátrica en Rosario, Argentina, que permitió al hospital local atender a 100 niños sin cobertura social.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/12/revelaron-el-conmovedor-gesto-que-tuvo-jorge-messi-con-medicos-de-rosario-se-ocupaba-de-todos-los-detalles/",
+      "published_at": "2026-08-12T19:52:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en una historia humanitaria y emotiva sin emplear lenguaje partidista ni citar fuentes con sesgo político; el enfoque es descriptivo y elogioso.",
+      "focus_analysis": "El medio eligió un ángulo humanitario y filantrópico, resaltando la participación personal de Jorge Messi y el impacto en la salud pública de Rosario; se omiten aspectos económicos o políticos del sistema de salud.",
+      "focus_tags": [
+        "salud pública",
+        "filantropía deportiva",
+        "programa de trasplantes"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de la Fundación Leo Messi",
+          "text": "La Fundación Leo Messi, creada por la familia del futbolista, ha financiado proyectos de salud y educación en Argentina, incluyendo iniciativas para niños con enfermedades graves."
+        },
+        {
+          "label": "situación de los trasplantes de médula ósea en Rosario antes del programa",
+          "text": "Antes de la intervención de Jorge Messi, el hospital de Rosario no contaba con capacidad para realizar trasplantes de médula ósea en niños sin obra social, limitando el acceso a tratamientos vitales."
+        },
+        {
+          "label": "enfoque de otras coberturas",
+          "text": "Otros medios, como BBC News Mundo, centraron la historia en el vínculo futbolístico de la familia Messi y una anécdota de fichaje, mientras que Infobae Deportes destaca la dimensión sanitaria y filantrópica del gesto."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "74b05381d8e4",
+      "title": "Osmar Olvera presume el éxito de México: Hoy demostramos que se puede poner al país en lo más alto",
+      "summary": "El clavadista mexicano Osmar Olvera celebró los tres oros obtenidos en los Juegos Centroamericanos y del Caribe 2026, atribuyendo el éxito al esfuerzo colectivo y al respaldo del gobierno, y anunció la meta de seguir brillando en los Juegos Olímpicos de Los Ángeles 2028.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/osmar-olvera-presume-el-exito-de-mexico-hoy-demostramos-que-se-puede-poner-al-pais-en-lo-mas-alto/",
+      "published_at": "2026-08-12T19:54:48+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto usa un tono laudatorio y destaca el apoyo del gobierno sin presentar críticas ni puntos de vista contrapuestos, lo que indica una ligera inclinación favorable al poder institucional.",
+      "focus_analysis": "El artículo se centra en el logro deportivo y el orgullo nacional, resaltando la labor de los atletas y el respaldo institucional; omite análisis sobre la política de financiamiento deportivo o posibles desafíos estructurales.",
+      "focus_tags": [
+        "deporte nacional",
+        "orgullo mexicano",
+        "preparación olímpica"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En los Juegos Centroamericanos y del Caribe de Santo Domingo 2026 México alcanzó un récord histórico de 407 medallas, la mayor cantidad lograda por el país en esa competencia."
+        },
+        {
+          "label": "Apoyo institucional",
+          "text": "La presidenta de México, Claudia Sheinbaum, ha reiterado su compromiso con el deporte, destinando recursos y programas de entrenamiento para los atletas que se preparan para Los Ángeles 2028."
+        },
+        {
+          "label": "Comparación regional",
+          "text": "Mientras el fútbol sigue dominando la atención mediática, los deportes olímpicos en México han registrado un crecimiento sostenido en resultados internacionales durante la última década."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "017628d1a2ed",
+      "title": "Llega a Celaya la Temporada de Música con conciertos y la Romería al Río Laja",
+      "summary": "El Instituto de Arte y Cultura de Celaya (INSMACC) lanzó la Temporada de Música, un ciclo de cinco conciertos del 5 al 28 de agosto que incluye un homenaje a México, la participación del dúo internacional Buena Fe y la Romería al Río Laja, una tradición centenaria del municipio.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/cultura/2026/08/12/llega-a-celaya-la-temporada-de-musica-con-conciertos-y-la-romeria-al-rio-laja-1831021.html",
+      "published_at": "2026-08-12T19:57:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y neutral, citando a funcionarios locales sin emplear vocabulario cargado ni presentar una agenda política.",
+      "focus_analysis": "El medio enfatiza la dimensión cultural y comunitaria del evento, resaltando la música y la tradición de la Romería, mientras omite cualquier análisis económico o político del festival.",
+      "focus_tags": [
+        "cultura local",
+        "música en vivo",
+        "tradiciones populares"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "El Instituto de Arte y Cultura de Celaya (INSMACC) es la entidad municipal encargada de promover actividades artísticas y culturales en la ciudad, organizando eventos como la Temporada de Música para dinamizar los espacios escénicos."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "La Romería al Río Laja, celebrada desde 1809 tras la construcción del puente de Francisco Eduardo Tresguerras, es una de las festividades más antiguas de Celaya y se combina habitualmente con venta de artesanías y gastronomía local."
+        },
+        {
+          "label": "Posturas de otros actores",
+          "text": "Autoridades municipales y organizadores culturales destacan la importancia de estos eventos para fortalecer la identidad leonesa y atraer al público de todas las edades, sin referirse a impactos económicos o políticos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "6d78758615ab",
+      "title": "Vinilos rotos y almas en fuga: descubriendo 'Los Siete Lunas de Maali Almeida'",
+      "summary": "Un vinilo agrietado gira en la penumbra, sus surcos repiten la voz de un periodista que nunca llegó a publicar. Cada salto del brazo del reproductor revela un fragmento de la vida de Maali, atrapado entre la sangre del conflicto y la luz de la eternidad.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-12T20:00:44.619017+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, al cerrar los ojos y escuchar el crujido del vinilo, recuerdo que la historia reciente de Sri Lanka aún vibra en sus grietas. El libro de Karunatilaka ofrece una brújula para entender el dolor y la ironía de una nación que busca su propia canción.",
+      "focus_tags": [
+        "Ficción contemporánea",
+        "Sri Lanka",
+        "Premio Booker"
+      ],
+      "context": [
+        {
+          "label": "Sobre el autor",
+          "text": "Shehan Karunatilaka, escritor cingolés, combina humor negro con una profunda melancolía; su trayectoria incluye la novela 'Chinaman' y la colección de cuentos 'The 8th Wall'."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si el eco de Maali resuena, pruebe 'El dios de las pequeñas cosas' de Arundhati Roy o 'La canción de Aquiles' de Madeline Miller, que también entrelazan pasado y mito."
+        },
+        {
+          "label": "Trasfondo histórico",
+          "text": "La Guerra Civil de Sri Lanka (1983‑2009) dejó cicatrices indelebles; el libro sitúa su trama en los últimos días del conflicto, cuando la muerte se vuelve un espejo que refleja la culpa colectiva."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "2a2301288e6d",
       "title": "Desmantelan red que organizó más de 1,000 matrimonios falsos para obtener residencias legales en EU",
@@ -804,251 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "79cae3b80df9",
-      "title": "Lluvia de estrellas Perseidas 2026: el truco para ver hasta 100 meteoros por hora desde México",
-      "summary": "La lluvia de meteoros Perseidas 2026 alcanzará su máximo entre la madrugada del 12 y 13 de agosto, y en México se podrá observar a simple vista entre 50 y 100 estrellas fugaces por hora bajo cielos despejados y ausencia de luz lunar.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/09/pico-maximo-de-la-lluvia-de-estrellas-perseidas-en-agosto-2026-fechas-y-horarios-para-poder-verlas-sin-telescopio/",
-      "published_at": "2026-08-12T18:58:07+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin lenguaje cargado ni fuentes con sesgo político; se centra en datos astronómicos y consejos prácticos.",
-      "focus_analysis": "El artículo se enfoca en el aspecto astronómico y práctico de la observación de las Perseidas, ofreciendo trucos y horarios, mientras omite la discusión sobre la investigación científica del cometa o el impacto ambiental de la contaminación lumínica.",
-      "focus_tags": [
-        "astronomía",
-        "observación nocturna",
-        "consejos prácticos"
-      ],
-      "context": [
-        {
-          "label": "evento anual",
-          "text": "Las Perseidas son una lluvia de meteoros anual originada por los restos del cometa Swift‑Tuttle, visible cada agosto en el hemisferio norte con un pico de actividad alrededor del 12 de agosto."
-        },
-        {
-          "label": "contaminación lumínica",
-          "text": "La visibilidad de los meteoros depende de la oscuridad del cielo; áreas rurales y zonas alejadas de la iluminación urbana ofrecen mejores condiciones de observación."
-        },
-        {
-          "label": "evento astronómico relacionado",
-          "text": "El 12 de agosto de 2026 se produjo un eclipse solar total visible en Europa, y la luna nueva que precedió al pico de las Perseidas favoreció una noche sin luz lunar en México."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "ad426132d135",
-      "title": "México recórd en Centroamericanos aumentan becas",
-      "summary": "La delegación mexicana cerró los Juegos Centroamericanos y del Caribe con 407 medallas, lo que llevó al gobierno federal a incrementar las becas para los atletas y a modificar el esquema de estímulos económicos por premios.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/mexico-record-centroamericanos-aumentan-becas-20260812-827907.html",
-      "published_at": "2026-08-12T18:35:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje neutro y se limita a describir hechos sin usar adjetivos cargados ni citar fuentes con sesgo político; la cobertura se centra en la noticia deportiva y la medida gubernamental sin enfatizar posiciones ideológicas.",
-      "focus_analysis": "El medio eligió un ángulo institucional y económico, resaltando la política de becas y los estímulos financieros del gobierno, mientras dejó de lado el aspecto humano y las historias personales de los deportistas.",
-      "focus_tags": [
-        "deportes",
-        "política de becas",
-        "logro histórico"
-      ],
-      "context": [
-        {
-          "label": "histórico deportivo",
-          "text": "En ediciones anteriores de los Juegos Centroamericanos y del Caribe, México obtenía menos de 300 medallas, por lo que el total de 407 representa un nuevo récord para la delegación."
-        },
-        {
-          "label": "política de apoyo deportivo",
-          "text": "El gobierno mexicano, a través de la Comisión Nacional de Cultura Física y Deporte (CONADE), ha financiado programas de becas para atletas, pero la última medida amplía el número de beneficiarios y ajusta los montos de los estímulos por medalla."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "Otros medios, como El Sol de México, destacaron la participación de la presidenta de México, Claudia Sheinbaum, en el anuncio del aumento de becas, subrayando el componente político de la decisión."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "020e13dbde5a",
-      "title": "Trump cambia de estrategia en Irán: ¿por qué apuesta por la presión económica?",
-      "summary": "El ex presidente de Estados Unidos, Donald Trump, declaró en una entrevista con Axios que la administración estadounidense dejará de considerar opciones militares contra Irán y optará por ejercer presión económica para debilitar al país.",
-      "category": "internacional",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/programas/expreso-de-oriente/20260812-trump-cambia-de-estrategia-en-ir%C3%A1n-por-qu%C3%A9-apuesta-por-la-presi%C3%B3n-econ%C3%B3mica",
-      "published_at": "2026-08-12T18:28:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a reproducir declaraciones de Trump sin usar adjetivos cargados ni citar fuentes críticas, manteniendo un tono informativo y neutro.",
-      "focus_analysis": "El artículo se centra en la estrategia económica de EE. UU. frente a Irán, dejando de lado la perspectiva iraní y el análisis de las posibles repercusiones regionales.",
-      "focus_tags": [
-        "EE. UU. política",
-        "Irán economía",
-        "geopolítica Oriente Medio"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de sanciones",
-          "text": "Desde 2015, Estados Unidos ha impuesto sanciones económicas a Irán para presionar sobre su programa nuclear y su participación en el comercio de petróleo, una política que ha generado tensiones y ha sido un elemento central de la relación bilateral."
-        },
-        {
-          "label": "Control del estrecho de Ormuz",
-          "text": "Otros medios, como El Economista, destacaron la afirmación de Trump de que EE. UU. controla el estratégico estrecho de Ormuz, un punto no mencionado en la nota de France24 pero relevante para la dinámica de presión."
-        },
-        {
-          "label": "Reacción iraní",
-          "text": "Irán ha respondido históricamente a la presión económica con contra‑sanciones y retórica de resistencia, lo que sugiere que la estrategia de “asfixia económica” podría desencadenar una escalada de tensiones en la región."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 7.2
-      }
-    },
-    {
-      "id": "905682b51de1",
-      "title": "Estrafalarios e íntimos",
-      "summary": "El artículo de Letras Libres, escrito por Bárbara Mingo Costales, reflexiona sobre la película independiente \"Rubin y Ed\" de 1991, dirigida por Trent Harris, y su rareza y resonancia en la década de los noventa.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/revista/estrafalarios-e-intimos/12/08/2026/",
-      "published_at": "2026-08-12T14:01:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se mantiene descriptivo y nostálgico, sin usar lenguaje cargado ni citar fuentes con carga política; el enfoque es cultural y personal, sin sesgo ideológico evidente.",
-      "focus_analysis": "El medio elige un ángulo cultural y nostálgico, resaltando la experiencia personal del autor con el cine de autor de los noventa; omite análisis de la industria cinematográfica o de los impactos comerciales de la película.",
-      "focus_tags": [
-        "cine independiente",
-        "nostalgia años 90",
-        "cultura pop"
-      ],
-      "context": [
-        {
-          "label": "Cine de autor en los años 90",
-          "text": "Durante la década de los noventa, la programación de cadenas como Televisión Española incluía ciclos de autor que presentaban películas poco comerciales, fomentando la difusión de obras marginales y experimentales."
-        },
-        {
-          "label": "Trent Harris y Sundance",
-          "text": "Trent Harris, director de \"Rubin y Ed\", es conocido por su participación en el Festival de Sundance, donde se consolidó la reputación del cine independiente estadounidense de la época."
-        },
-        {
-          "label": "Resurgimiento de películas raras en plataformas digitales",
-          "text": "Muchas obras cinematográficas consideradas perdidas o de acceso limitado han encontrado nueva audiencia a través de YouTube y otras plataformas de streaming, a menudo con subtítulos o doblajes en idiomas inesperados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "f9bf34fccb80",
-      "title": "Día Mundial de la Juventud: mercado laboral y educación le dan la espalda a 14.9 millones de jóvenes",
-      "summary": "Según la Alianza Jóvenes con Trabajo Digno, en México 14,9 millones de jóvenes entre 15 y 29 años están fuera del sistema educativo y sin empleo, principalmente por bajos ingresos familiares y responsabilidades de cuidado no remuneradas.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/capital-humano/dia-mundial-juventud-mercado-laboral-educacion-le-dan-espalda-14-9-millones-jovenes-20260812-827903.html",
-      "published_at": "2026-08-12T18:37:35+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto enfatiza la falta de acción del Estado y utiliza un lenguaje crítico (“le está fallando”, “exclusión estructural”), lo que refleja una perspectiva ligeramente izquierdista sin llegar a ser abiertamente partidista.",
-      "focus_analysis": "El medio se centra en el ángulo socio‑económico y de derechos humanos, resaltando barreras estructurales y la necesidad de un sistema de cuidados, mientras que omite detalles sobre políticas públicas específicas o iniciativas gubernamentales recientes.",
-      "focus_tags": [
-        "juventud",
-        "exclusión laboral",
-        "educación"
-      ],
-      "context": [
-        {
-          "label": "Datos históricos de empleo juvenil",
-          "text": "En los últimos diez años, la tasa de desempleo de los jóvenes en México ha permanecido por encima del 12 %, y la proporción de empleo informal entre este grupo supera el 50 %, según datos del INEGI."
-        },
-        {
-          "label": "Políticas gubernamentales recientes",
-          "text": "El gobierno mexicano lanzó en 2025 el programa \"Jóvenes al Trabajo\", que busca vincular a jóvenes con empresas mediante subsidios salariales, aunque los informes indican una cobertura limitada y poca penetración en zonas rurales."
-        },
-        {
-          "label": "Contexto internacional",
-          "text": "El Día Internacional de la Juventud, celebrado el 12 de agosto, suele acompañarse de informes de la ONU que señalan que alrededor del 30 % de los jóvenes a nivel global enfrentan exclusión educativa o laboral, situando a México por encima del promedio mundial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "6f40f3abffe2",
-      "title": "Eclipse solar en España, en directo | El eclipse total finaliza en el Mediterráneo",
-      "summary": "El eclipse solar parcial que cubrirá gran parte de España el 12 de agosto será seguido por la fase total que concluirá sobre el Mediterráneo, convirtiéndose en un acontecimiento astronómico destacado para el país.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/ciencia/2026-08-12/ultima-hora-del-eclipse-solar-de-agosto-en-espana-en-directo.html",
-      "published_at": "2026-08-12T18:38:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el fenómeno con lenguaje neutro y sin referencias políticas o ideológicas; no emplea vocabulario cargado ni selecciona fuentes con sesgo evidente.",
-      "focus_analysis": "El medio centra su cobertura en el carácter histórico y visual del eclipse, dejando de lado aspectos como la preparación científica, el impacto turístico o las recomendaciones de seguridad para el público.",
-      "focus_tags": [
-        "astronomía",
-        "evento natural",
-        "cultura popular"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Los eclipses solares totales son eventos raros que sólo se observan en una franja estrecha de la Tierra; el anterior eclipse total visible en Europa ocurrió en 2008."
-        },
-        {
-          "label": "comparación internacional",
-          "text": "Mientras España vivirá la fase total, en Francia solo será visible de forma parcial, y en otros continentes el eclipse será apenas perceptible, según la cobertura de medios como France24."
-        },
-        {
-          "label": "relevancia social",
-          "text": "Autoridades locales y organizaciones científicas han advertido sobre la necesidad de usar protección ocular adecuada y han promocionado actividades educativas y turísticas alrededor del eclipse."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "678b18d9e108",
-      "title": "Kenny Avilés es la tercer participante confirmada de ‘La Granja VIP México 2′",
-      "summary": "Kenny Avilés fue anunciada como la tercera concursante confirmada de la segunda temporada del reality show La Granja VIP México, presentada en Venga la Alegría de TV Azteca.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/12/kenny-aviles-es-la-tercer-participante-confirmada-de-la-granja-vip-mexico-2/",
-      "published_at": "2026-08-12T18:39:04+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el anuncio del participante sin usar vocabulario cargado ni incluir opiniones o fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El medio se centró en el aspecto humano‑celebrity del programa, destacando la presentación de Kenny Avilés y su estilo, mientras omite cualquier análisis sobre la estrategia de producción del reality o su impacto en la industria televisiva mexicana.",
-      "focus_tags": [
-        "reality show",
-        "celebrity reveal",
-        "TV Azteca"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del programa",
-          "text": "La Granja VIP México es la versión local del formato de granja de celebridades que se transmite en TV Azteca, y ha generado gran expectación al combinar dinámicas de convivencia con pruebas de resistencia."
-        },
-        {
-          "label": "Perfil de Kenny Avilés",
-          "text": "Kenny Avilés es una modelo y presentadora mexicana conocida por su participación en diversos programas de entretenimiento y por su estilo distintivo, lo que la convierte en una figura atractiva para el público del reality."
-        },
-        {
-          "label": "Tendencia de revelaciones en realities",
-          "text": "Los realities mexicanos suelen emplear presentaciones espectaculares, como la salida de un huevo gigante, para generar impacto mediático, una estrategia similar a la utilizada en formatos como La Casa de los Famosos."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
