@@ -1,153 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-12T13:41:37.226930+00:00",
-      "title": "El Gobierno de Colombia decreta tres días de duelo nacional por las víctimas del terremoto",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la falta de precisión en datos críticos como el nombre del presidente compromete su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T13:41:42.590512+00:00",
-      "title": "Colombia decreta tres días de duelo por fallecidos en el sismo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Aunque la estructura y la objetividad son adecuadas, la falta de veracidad en los datos clave impide que el artículo sea publicado sin corrección.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T13:41:55.273660+00:00",
-      "title": "La voluntad de los muertos",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la precisión de los datos y ampliar la variedad de fuentes para ofrecer una cobertura más equilibrada, aunque cumple con la actualidad y la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T13:42:00.842087+00:00",
-      "title": "La OMS acusa que la ofensiva de Trump contra las vacunas contradice la evidencia científica",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la precisión de los datos y ofrecer una mayor variedad de fuentes para lograr un equilibrio objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T13:42:05.358708+00:00",
-      "title": "EN VIVO | Clima CDMX y México hoy 12 de agosto: dónde lloverá y qué zonas tendrán mejores condicione",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de alta calidad y cumple con los requisitos editoriales, aunque podría mejorar al incluir fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T13:59:17.923665+00:00",
-      "title": "Entrevista con Alberto Sedano: “La creación de la clasificación S es el momento más fascinante de la",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El artículo presenta información interesante y reciente, pero necesita mayor verificación de datos y una gama más amplia de fuentes para alcanzar un nivel editorial más sólido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T13:59:23.910441+00:00",
-      "title": "El mensaje de Lionel Messi a la gente tras la muerte de su padre: “Gracias por respetar nuestro dolo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información verificable, fuentes contrastadas y una estructura adecuada, aunque la exactitud completa de la cita no puede confirmarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T13:59:32.617604+00:00",
-      "title": "Colombia restringe ingreso de Topos Tlatelolco tras sismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 16 column 166 (char 976)"
-    },
-    {
-      "at": "2026-08-12T13:59:37.507670+00:00",
-      "title": "Jenna Ortega preocupa a sus fans mexicanos tras radical cambio físico y actriz revela la verdad: “Ni",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo carece de veracidad y fuentes fiables, pese a estar bien estructurado y ser reciente.",
-      "error": null
-    },
-    {
       "at": "2026-08-12T13:59:44.152327+00:00",
       "title": "Trump se escondió en un contenedor de comida para cambiar de avión en secreto por una amenaza de Irá",
       "kind": "noticia",
@@ -3392,6 +3245,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, mostrando buena objetividad y actualidad, aunque la precisión de los datos podría reforzarse con fuentes específicas y corrección de errores tipográficos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:00:44.593900+00:00",
+      "title": "\"No sé qué voy a hacer sin vos, no sé cómo seguir\": el emotivo mensaje de Lionel Messi tras la muert",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo presenta graves errores de factualidad pese a una estructura adecuada y tono objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:00:51.139186+00:00",
+      "title": "Lluvia de estrellas Perseidas 2026: el truco para ver hasta 100 meteoros por hora desde México",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere reforzar la referencia a fuentes primarias para mayor precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:00:59.366326+00:00",
+      "title": "Unión Europea restringe el uso de \"contaminantes eternos\"; aplica nuevas reglas sobre envases de plá",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzar la precisión de fuentes y la citación de datos específicos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:01:08.605898+00:00",
+      "title": "El impactante Haka en solitario que protagonizó una leyenda del rugby ante Nueva Zelanda",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo presenta buena estructura y neutralidad, pero la falta de verificación y posibles inconsistencias hacen que su precisión factual sea baja.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:01:18.604351+00:00",
+      "title": "La UNT busca reinventarse, luego de dos décadas en las que ha perdido interlocución",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es objetivo y actual, pero necesita incorporar fuentes adicionales para cumplir con el estándar de contraste de fuentes en temas políticos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:01:23.880559+00:00",
+      "title": "Samsung ya está usando Claude Code para acelerar el desarrollo de sus chips para móviles",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general adecuado, aunque la falta de evidencia concreta sobre la magnitud del ahorro de tiempo reduce ligeramente su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:01:35.211940+00:00",
+      "title": "Estrafalarios e íntimos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares periodísticos, aunque la falta de fuentes externas y la afirmación no verificada del doblaje al telugu evitan una puntuación perfecta.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:01:44.135994+00:00",
+      "title": "Eclipse solar en España, en directo | El eclipse total finaliza en el Mediterráneo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de veracidad, actualidad y objetividad, presentando una cobertura equilibrada del eclipse, aunque podría reforzar la variedad de fuentes técnicas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T19:01:53.130705+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 12 de agosto: conceden amparos a Ernesto Ru",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y objetivo, pero necesita fuentes más diversas y verificables para reforzar la precisión y el contraste informativo.",
       "error": null
     }
   ]
