@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-11T22:21:10.606171+00:00",
-      "title": "OpenAI paraliza el desarrollo de Astra porque no puede descartar que sea capaz de ciberataques autón",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y fuentes confiables, pese a estar bien estructurado y actualizado; necesita verificación y fuentes más robustas antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:21:22.421849+00:00",
-      "title": "La voluntad de los muertos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, pero le falta verificación de algunos hechos y una mayor diversidad de fuentes para reforzar su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:21:29.319183+00:00",
-      "title": "Distinguen al Centro Histórico de Querétaro como destino turístico inteligente",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de precisión, objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para reforzar el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:23:06.439285+00:00",
-      "title": "Adolescente de 16 años muere tras estrellar su moto en una barda, en Cortazar",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y actual, aunque podría mejorar la verificación directa de los datos del hecho.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:23:13.380174+00:00",
-      "title": "Sorpresa: incautaron 86 kilos de marihuana en el micro del plantel del San Pablo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y está bien estructurado, pero la ligera discrepancia en la cantidad y la ausencia de fuentes oficiales limitan su precisión y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:23:21.328009+00:00",
-      "title": "Nuevo León impulsa contratación pública abierta; PROVEE NL reúne a empresas y mipymes en Monterrey",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque podría mejorar la pluralidad de fuentes y la neutralidad del tono.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:40:42.193008+00:00",
-      "title": "Abelardo de la Espriella cambia la paz total de Petro por una política de mano dura en Colombia",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:40:46.803018+00:00",
-      "title": "Yahir revela que tiene la misma enfermedad de Cynthia Klitbo: estos son los síntomas y el nivel de p",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-11T22:40:53.707663+00:00",
-      "title": "Andy López Beltrán rechaza acusaciones que lo vinculan con huachicol fiscal; señala a la oposición d",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de un artículo informativo objetivo y reciente, aunque podría mejorar la precisión añadiendo fuentes verificables y citas directas.",
-      "error": null
-    },
-    {
       "at": "2026-08-11T22:40:58.821592+00:00",
       "title": "Sorpresa: Boca Juniors pierde ante Recoleta por la ida de los octavos de la Copa Sudamericana",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando la información de forma clara, reciente y objetiva, aunque podría mejorar la precisión con datos concretos y fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:40:42.243191+00:00",
+      "title": "Oro con ligera baja a la espera de dato de inflación en EU",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y estructurado, pero presenta imprecisiones y falta de fuentes múltiples, lo que afecta su veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:40:48.986017+00:00",
+      "title": "¿Para qué sirve colocar una bolsa de plástico en la escoba?; descubre los beneficios de este truco d",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero carece de fuentes verificables y citas específicas que respalden sus afirmaciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:40:57.482448+00:00",
+      "title": "Pumas se despide de Leagues Cup sin ninguna victoria y con seis goles en contra",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad, actualidad y estructura, y presenta fuentes contrastadas, aunque la verificación externa de los datos es limitada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:41:03.315018+00:00",
+      "title": "Estudiantes empató 1-1 con Universidad Católica por la ida de los octavos de final de la Copa Libert",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad para una nota deportiva, ofreciendo información precisa, objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:41:09.411968+00:00",
+      "title": "Colombia: Refugios improvisados reciben a damnificados por el terremoto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en su y y actualidad, pero la precisión de algunos datos requiere verificación adicional.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:41:12.991290+00:00",
+      "title": "Estrella de ‘Superman’ se une a la serie de ‘Harry Potter’ para interpretar a un profesor inolvidabl",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta problemas de veracidad y falta de fuentes contrastadas, aunque mantiene objetividad, actualidad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:41:24.444534+00:00",
+      "title": "La voluntad de los muertos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta datos inexactos y carece de contraste de fuentes, lo que afecta gravemente su veracidad y equilibrio editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:41:32.615501+00:00",
+      "title": "Intel amplió oferta de acciones a 20,000 millones de dólares",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y objetivo, pero se beneficiaría de una mayor diversidad de fuentes para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-12T02:41:40.342628+00:00",
+      "title": "Pumas recibe burlas y LOS MEJORES MEMES tras perder por penales en Leagues Cup",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares periodísticos, aunque la precisión de algunos datos y el tono sensacionalista limitan su puntuación en veracidad y objetividad.",
       "error": null
     }
   ]
