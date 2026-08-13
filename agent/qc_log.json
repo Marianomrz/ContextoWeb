@@ -1,142 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-13T01:01:02.661738+00:00",
-      "title": "Suprema Corte reitera que la UIF puede bloquear cuentas en investigaciones nacionales",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los criterios de calidad periodística, aunque debería incorporar fuentes contrastantes y citas verificables para reforzar la precisión y el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T01:01:13.575656+00:00",
-      "title": "Terremoto en Colombia: el impacto del sismo en los hospitales tiene la atención \"desbordada\"",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la precisión de los datos y ampliar fuentes oficiales, pero cumple con la estructura y la actualidad requerida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T01:01:19.672203+00:00",
-      "title": "Cruz Azul ya no es un equipo \"pecho frio\"; Joel Huiqui presume la nueva identidad de La Máquina",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 8,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una estructura adecuada pero contiene inexactitudes temporales y falta de fuentes contrastantes, lo que compromete su veracidad y equilibrio editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T01:01:25.860218+00:00",
-      "title": "El actor de Kratos lanza una fuerte crítica contra la serie de ‘God of War’ y otras adaptaciones",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es actual y estructurado correctamente, pero la falta de verificación en algunos datos y la ausencia de voces contrapuestas reducen su puntuación en precisión y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T01:01:37.307194+00:00",
-      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales; es preciso, actual y bien estructurado, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T01:01:44.276149+00:00",
-      "title": "La SCJN reconoció la validez de Fondo de Pensiones para el Bienestar",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y cumple con la mayoría de los estándares editoriales, aunque podría mejorarse la variedad de fuentes para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T01:01:51.101219+00:00",
-      "title": "Impacto en la Copa Argentina: Independiente perdió 4-0 ante Atlético Tucumán y quedó eliminado",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y estructura; solo se sugiere incluir una segunda fuente para reforzar la verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T01:01:57.493902+00:00",
-      "title": "Inter Miami vs León, ¿cómo va el partido con el regreso de Messi?",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero contiene un error grave de veracidad sobre la muerte del padre de Messi, lo que compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-13T01:02:02.101306+00:00",
       "title": "Buenaventura y San José del Palmar: incomunicados y sin servicios tras terremoto de 7,4",
       "kind": "noticia",
@@ -3398,6 +3262,142 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la diversidad de fuentes para mayor robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:20:46.940202+00:00",
+      "title": "Militar dispara accidentalmente durante jornada de desarme en Michoacán y hiere a cuatro personas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presenta la información de forma clara y objetiva, y muestra un buen contraste de fuentes y estructura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:20:58.196139+00:00",
+      "title": "Con bloqueo, vecinos exigen obras de mitigación en Chalco por paso de Trolebús",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría mejorar al incorporar declaraciones oficiales para reforzar el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:21:06.229678+00:00",
+      "title": "MySpace quiere volver en plena era de TikTok e Instagram. Su oportunidad está en todo aquello que la",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual y la diversificación de fuentes, pero mantiene una buena objetividad, actualidad y estructura narrativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:21:11.461620+00:00",
+      "title": "El encarecimiento del gasóleo obliga al Gobierno a elevar la rebaja fiscal a 20 céntimos en septiemb",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque podría enriquecer el contraste con fuentes adicionales o comparativas internacionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:21:20.779454+00:00",
+      "title": "El Taco de Ormuz y el Plan México",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta datos falsos y falta de fuentes contrastantes, aunque mantiene una estructura clara y actualidad; necesita mejoras en veracidad y pluralidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:21:31.430999+00:00",
+      "title": "Lo entrena su mamá, tiene el único rincón femenino del mundo y triunfa en el trap: “Rateka” Sánchez,",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de calidad periodística, con datos razonablemente precisos y una estructura clara, aunque podría beneficiarse de fuentes adicionales para reforzar la verificación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:21:43.526123+00:00",
+      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando información veraz, objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T07:21:54.103850+00:00",
+      "title": "Explosión en restaurante de la colonia Roma en CDMX, reportan 13 heridos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando una noticia clara, actual y bien contextualizada.",
       "error": null
     }
   ]
