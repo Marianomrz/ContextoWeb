@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-13T13:37:42.591210+00:00",
+  "generated_at": "2026-08-13T13:41:41.831531+00:00",
   "articles": [
+    {
+      "id": "66c2b7457398",
+      "title": "Linus Torvalds, desarrollador y fundador de Linux, sobre dirigir su empresa hoy: \"Ya no soy programador\"",
+      "summary": "Linus Torvalds, creador del kernel Linux, declaró en el Open Source Summit India 2026 que ya no se considera programador y su labor se centra en la coordinación del proyecto y la revisión de cambios, apoyándose en herramientas como Git y el correo electrónico.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/aplicaciones/no-soy-programador-linus-torvalds-explica-que-dirigir-linux-no-consiste-programar",
+      "published_at": "2026-08-13T13:31:15+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje descriptivo y neutro, sin cargamento político ni opiniones sesgadas, enfocándose en hechos técnicos y la perspectiva del propio Linus.",
+      "focus_analysis": "El medio se centra en el aspecto organizacional y tecnológico del cambio de rol de Linus Torvalds y en el uso de IA en el desarrollo de Linux, dejando de lado consideraciones económicas o de impacto social más amplio.",
+      "focus_tags": [
+        "cambio de rol",
+        "gestión de proyectos",
+        "IA en código abierto"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Linus Torvalds creó el kernel Linux en 1991 y ha sido la figura central del proyecto de código abierto durante más de tres décadas."
+        },
+        {
+          "label": "evento reciente",
+          "text": "En el Open Source Summit India 2026, Torvalds explicó que ahora se dedica principalmente a la supervisión del proyecto y a la revisión de pull requests, en vez de escribir código directamente."
+        },
+        {
+          "label": "tendencia del sector",
+          "text": "La incorporación de herramientas de inteligencia artificial en el desarrollo de software es una tendencia creciente en la comunidad de código abierto, aunque los mantenedores siguen enfatizando la necesidad de supervisión humana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "7b1da6bb3d84",
+      "title": "Detuvieron a un periodista deportivo turco acusado de dar una falsa información de una transferencia: el descargo en sus redes",
+      "summary": "El periodista deportivo turco Burhan Can Terzi fue detenido en Estambul tras afirmar que el Galatasaray había cerrado la incorporación del futbolista alemán Jamal Musiala, información que el club negó y que llevó a una investigación de la Fiscalía de Bakırköy. Tras prestar declaración, Terzi quedó en libertad mientras sus abogados alegan que la denuncia provino del propietario belga del club Westerlo.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/13/detuvieron-a-un-periodista-deportivo-turco-acusado-de-dar-una-falsa-informacion-de-una-transferencia-el-descargo-en-sus-redes/",
+      "published_at": "2026-08-13T13:27:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje neutro, presenta declaraciones tanto del club como del periodista y no utiliza vocabulario cargado ni favorece a ninguna de las partes.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y legal del caso, resaltando la detención y la reacción del club, mientras que el impacto personal del periodista y la posible repercusión en la opinión pública están menos desarrollados.",
+      "focus_tags": [
+        "deporte",
+        "legal",
+        "transferencias"
+      ],
+      "context": [
+        {
+          "label": "Club involucrado",
+          "text": "Galatasaray es uno de los clubes de fútbol más grandes de Turquía, con una larga historia de fichajes de alto perfil y una fuerte presencia mediática que suele generar rumores sobre posibles incorporaciones."
+        },
+        {
+          "label": "Jugador mencionado",
+          "text": "Jamal Musiala, internacional alemán y figura destacada del Bayern Munich, ha sido objeto de constantes especulaciones de transferencia en los últimos meses, lo que alimenta rumores en los medios deportivos."
+        },
+        {
+          "label": "Libertad de prensa en Turquía",
+          "text": "En los últimos años, Turquía ha enfrentado críticas internacionales por la detención de periodistas bajo cargos de difundir información falsa o desinformación, lo que genera un contexto de tensión entre los medios y las autoridades."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "f05d2f84fab8",
+      "title": "Gobierno de México repatría a 36 connacionales afectados por el sismo en Colombia",
+      "summary": "El gobierno de México, bajo la dirección de la presidenta Claudia Sheinbaum, evacuó a 36 ciudadanos mexicanos que se encontraban en situación de vulnerabilidad en Colombia tras el terremoto de 7.4 grados, mediante una operación conjunta de la Secretaría de Relaciones Exteriores y la Secretaría de la Defensa Nacional.",
+      "category": "internacional",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/13/gobierno-de-mexico-repatria-a-36-connacionales-afectados-por-el-sismo-en-colombia/",
+      "published_at": "2026-08-13T13:37:02+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva, usando mayormente fuentes oficiales y sin lenguaje cargado; no muestra una inclinación clara hacia la izquierda ni la derecha.",
+      "focus_analysis": "El artículo se centra en la respuesta institucional del gobierno mexicano y la logística de la repatriación, dejando de lado testimonios personales o el impacto humano directo de los afectados.",
+      "focus_tags": [
+        "gobierno",
+        "repatriación",
+        "sismo"
+      ],
+      "context": [
+        {
+          "label": "magnitud y daño del sismo",
+          "text": "El terremoto de 10 de agosto de 2026 en Colombia tuvo una magnitud de 7.4, con epicentro cerca de San José del Palmar, Chocó, provocando graves daños estructurales y cientos de muertos y desaparecidos."
+        },
+        {
+          "label": "cooperación binacional",
+          "text": "México y Colombia han coordinado acciones humanitarias, como el envío de ayuda desde México y la facilitación de la evacuación de ciudadanos mexicanos por parte de la Cancillería colombiana."
+        },
+        {
+          "label": "enfoques de otros medios",
+          "text": "France24 Español enfatizó la saturación del sistema de salud colombiano tras el sismo, mientras que El Informador destacó la decisión de no enviar a la organización Tlatelolco a Colombia y enfocarse en la ayuda humanitaria."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "c7f8f1fb7b48",
+      "title": "Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes",
+      "summary": "El ministro del Interior de España, Fernando Grande‑Marlaska, ha enviado una veintena de agentes de extranjería a Ceuta para acelerar la expulsión de unos 5 000 migrantes y ha anunciado la incorporación de 50 nuevos efectivos para reforzar la seguridad ciudadana.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-13/marlaska-envia-a-ceuta-mas-policias-de-extranjeria-para-acelerar-la-expulsion-de-migrantes.html",
+      "published_at": "2026-08-13T12:43:31+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto emplea expresiones como 'acelerar la expulsión' y 'garantizar la seguridad ciudadana' sin carga emotiva explícita, manteniéndose informativo; el medio, El País, tiende a una línea editorial de centro‑izquierda, lo que sugiere un sesgo leve hacia la crítica de políticas de control migratorio.",
+      "focus_analysis": "El artículo se centra en el ángulo institucional y de seguridad, resaltando la acción del Gobierno para gestionar la migración, mientras omite el impacto humano y las condiciones de los migrantes expulsados.",
+      "focus_tags": [
+        "seguridad pública",
+        "política migratoria",
+        "Ceuta"
+      ],
+      "context": [
+        {
+          "label": "situación en Ceuta",
+          "text": "Ceuta, enclave español en el norte de África, recibe anualmente miles de personas que intentan entrar a la UE, lo que genera tensiones migratorias y demandas de refuerzo policial."
+        },
+        {
+          "label": "historial de despliegues policiales",
+          "text": "En años anteriores, el Gobierno español ha incrementado la presencia de la Policía de Extranjería en Ceuta y Melilla para controlar flujos migratorios, como en 2022 cuando se desplegaron 30 agentes adicionales."
+        },
+        {
+          "label": "reacciones de organizaciones internacionales",
+          "text": "Diversas ONG y organismos internacionales han criticado las políticas de expulsión masiva de España, argumentando que vulneran los derechos humanos de los migrantes."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "4bf81ee8ecea",
+      "title": "La mañanera de Sheinbaum, 13 de agosto, minuto a minuto",
+      "summary": "La presidenta de México, Claudia Sheinbaum, llevó a cabo la conferencia de prensa \"Mañanera del Pueblo\" el 13 de agosto, donde presentó los temas más relevantes de su gestión y respondió preguntas de los periodistas.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-13-de-agosto-minuto-a-minuto-2/",
+      "published_at": "2026-08-13T13:26:38+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto usa un tono descriptivo y neutral, sin adjetivos cargados ni fuentes opositoras, enfocándose en la información oficial del gobierno.",
+      "focus_analysis": "El medio se centra en el ángulo institucional, resaltando la agenda y decisiones de la presidenta, mientras omite perspectivas humanas o críticas de la oposición.",
+      "focus_tags": [
+        "politica gubernamental",
+        "agenda presidencial",
+        "conferencia prensa"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del gobierno de Sheinbaum",
+          "text": "Claudia Sheinbaum, presidenta de México desde diciembre de 2024, ha impulsado políticas de seguridad social y transición energética, y mantiene una agenda de comunicación diaria a través de la Mañanera del Pueblo."
+        },
+        {
+          "label": "Comparación con otras coberturas",
+          "text": "El Universal ofrece un registro minuto a minuto de la conferencia, mientras que Infobae se centra en la transmisión en vivo y destaca la cobertura de temas internacionales, mostrando una ligera diferencia en el énfasis informativo."
+        },
+        {
+          "label": "Reacción de la oposición",
+          "text": "Partidos de oposición como el PAN y el PRD han criticado la falta de profundidad en los informes de la Mañanera, señalando que se enfocan más en la imagen del gobierno que en el análisis crítico."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "78c2ed8846e0",
+      "title": "Sal y agua mineral: El truco casero para desaparecer manchas de café en la alfombra",
+      "summary": "Infobae México explica que la combinación de sal y agua mineral con gas puede ayudar a tratar manchas de café recién derramadas en alfombras, pero que los expertos en limpieza la consideran solo una ayuda temporal que debe complementarse con detergentes suaves y vinagre blanco para obtener resultados efectivos.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/13/sal-y-agua-mineral-el-truco-casero-para-desaparecer-manchas-de-cafe-en-la-alfombra/",
+      "published_at": "2026-08-13T13:40:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y cita a varias instituciones de consumo sin emplear un cargado político ni favorecer una postura ideológica.",
+      "focus_analysis": "El artículo se centra en el consejo práctico para consumidores sobre cómo manejar manchas de café en alfombras, resaltando la limitada utilidad del truco casero y recomendando métodos respaldados por expertos; no aborda aspectos comerciales del producto ni análisis químicos profundos.",
+      "focus_tags": [
+        "limpieza del hogar",
+        "consejos caseros",
+        "manchas de café"
+      ],
+      "context": [
+        {
+          "label": "Guías de instituciones de consumo",
+          "text": "Consumer Reports, Good Housekeeping y Real Simple recomiendan secar primero la mancha y luego usar una mezcla de detergente, vinagre y agua tibia, indicando que la soda o la sal solo pueden servir como paso intermedio."
+        },
+        {
+          "label": "Análisis científico",
+          "text": "Scientific American ha revisado la supuesta superioridad del club soda para eliminar manchas y concluye que su efectividad se debe más a la rapidez de la intervención que a cualquier propiedad química especial."
+        },
+        {
+          "label": "Recomendaciones para alfombras de lana",
+          "text": "Los fabricantes de alfombras de fibras naturales advierten que el exceso de agua o productos caseros pueden dañar el respaldo y sugieren recurrir a servicios profesionales para manchas persistentes."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "a2396e4c6036",
       "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
@@ -839,217 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.2
-      }
-    },
-    {
-      "id": "7d63dbf14f14",
-      "title": "Una farol en la noche de Río: la luz diminuta de Clarice Lispector",
-      "summary": "En una calle empapada de la madrugada, la farol de un barrio marginal parpadea como un latido que se resiste a apagarse. Ese titilar, tan frágil como una hoja al viento, encierra la voz de Clarice Lispector, que en \"La hora de la estrella\" ilumina la existencia de los invisibles con la precisión de una aguja.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-13T12:40:42.229519+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, a 13 de agosto, celebramos el 106.º aniversario del nacimiento de Lispector, y la ciudad de Río se prepara para la exposición \"Luz y sombra\" que revive su legado. El tema de la luz que se abre paso entre la oscuridad urbana resuena con la incertidumbre del mundo actual, donde la voz de los marginados vuelve a buscar espacio. Conectar su estilo fragmentario con la realidad cotidiana permite redescubrir la capacidad del relato para ser un farol que guía al lector.",
-      "focus_tags": [
-        "Ficción latinoamericana",
-        "Siglo XX",
-        "Mujer escritora"
-      ],
-      "context": [
-        {
-          "label": "Primeros pasos con Lispector",
-          "text": "Comienza leyendo la biografía breve en la obra \"Clarice Lispector: La vida en la escritura\" de Benjamin Moser, que revela cómo su infancia en Ucrania y la emigración a Brasil moldearon su visión del mundo."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Si buscas resonancias, prueba \"La Casa de los Espíritus\" de Isabel Allende, cuyo realismo mágico comparte la sensibilidad de Lispector por los recuerdos que se escapan entre los pliegues del tiempo."
-        },
-        {
-          "label": "Contexto histórico",
-          "text": "Entender la dictadura militar brasileña (1964‑1985) ayuda a captar la carga subversiva de \"La hora de la estrella\", donde la protagonista, Macabéa, navega entre la invisibilidad y la esperanza de un futuro mejor."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "82d30217f033",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta | Robles anuncia que no comparecerá la próxima semana en el Senado y apunta a la vuelta del verano",
-      "summary": "La ministra de Defensa de España, Margarita Robles, anunció que no comparecerá en el Senado el 18 de agosto para tratar la crisis migratoria de Ceuta, mientras la Guardia Civil instaló una nueva barrera marítima en Melilla y el Defensor del Pueblo inició un análisis de la situación humanitaria de los migrantes que permanecen en la ciudad autónoma.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-13/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta.html",
-      "published_at": "2026-08-13T12:11:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono informativo y balanceado, menciona tanto la postura del Gobierno como la del Defensor del Pueblo sin usar lenguaje cargado ni favorecer a ninguna fuerza política.",
-      "focus_analysis": "El artículo se centra en la respuesta institucional y de seguridad a la crisis migratoria, dejando en segundo plano el relato de la situación de los migrantes y sus condiciones de vida.",
-      "focus_tags": [
-        "política migratoria",
-        "seguridad fronteriza",
-        "respuesta institucional"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la crisis migratoria",
-          "text": "En los últimos meses Ceuta ha registrado entradas masivas de migrantes que cruzan la frontera desde Marruecos, saturando el Centro de Estancia Temporal y provocando que muchos menores pasen la noche al aire libre."
-        },
-        {
-          "label": "Marco legal y judicial",
-          "text": "El Tribunal Supremo de España prohibió las \"devoluciones en caliente\", lo que ha obligado a las administraciones a buscar nuevas medidas de control fronterizo, como la instalación de barreras marítimas."
-        },
-        {
-          "label": "Postura de otras instituciones",
-          "text": "El Defensor del Pueblo, Ángel Gabilondo, ha solicitado información sobre la situación de los migrantes y ha iniciado un procedimiento de oficio para evaluar la respuesta humanitaria de las administraciones."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "a2396e4c6036",
-      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
-      "summary": "El artículo de Letras Libres explora la amistad y el intercambio creativo entre el poeta y diplomático Octavio Paz y el pintor mexicano Juan Soriano, destacando una carta de 1963 que revela su vínculo personal y artístico.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/buzon-de-fantasmas-una-carta-de-octavio-paz-a-juan-soriano/12/08/2026/",
-      "published_at": "2026-08-12T19:35:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la descripción de la relación artística y literaria sin usar lenguaje cargado ni citar fuentes con carga ideológica; su tono es neutro y cultural.",
-      "focus_analysis": "El medio eligió el ángulo humano y artístico, resaltando la intimidad y el valor literario de la carta, mientras deja de lado el contexto político y social de la época.",
-      "focus_tags": [
-        "relación artística",
-        "carta literaria",
-        "cultura mexicana"
-      ],
-      "context": [
-        {
-          "label": "Octavio Paz",
-          "text": "Octavio Paz, poeta mexicano y premio Nobel de Literatura en 1990, también se desempeñó como diplomático y ensayista, influyendo en la cultura mexicana del siglo XX."
-        },
-        {
-          "label": "Juan Soriano",
-          "text": "Juan Soriano, destacado pintor y escultor mexicano, fue una figura clave del arte contemporáneo en México, reconocido por su estilo expresivo y sus retratos de personajes culturales."
-        },
-        {
-          "label": "Letras Libres",
-          "text": "Letras Libres es una revista cultural de tendencia progresista que suele publicar ensayos y análisis literarios con enfoque crítico y reflexivo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "549e22e66b17",
-      "title": "El PIB de Reino Unido repunta en junio, impulsado por la geopolítica, el Mundial y el buen tiempo",
-      "summary": "El Producto Interior Bruto del Reino Unido creció un 0,3 % en junio, impulsado por una pausa en el aumento de los precios de la energía tras el conflicto en Irán, el inicio del Mundial de fútbol masculino de2026 y las altas temperaturas, según datos de la Oficina Nacional de Estadística.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/economia/pib-reino-unido-repunta-junio-impulsado-geopolitica-mundial-buen-20260813-828067.html",
-      "published_at": "2026-08-13T12:12:16+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono mayormente descriptivo y cita fuentes oficiales sin usar lenguaje cargado ni favorecer a ningún actor político, lo que indica una cobertura centrada y ligeramente inclind a la derecha por su énfasis en datos económicos.",
-      "focus_analysis": "El medio se centra en la explicación económica del repunte del PIB, resaltando factores externos como la geopolítica, el deporte y el clima, mientras deja de lado un análisis profundo de las implicaciones políticas o sociales del crecimiento.",
-      "focus_tags": [
-        "crecimiento económico",
-        "factores externos",
-        "sector servicios"
-      ],
-      "context": [
-        {
-          "label": "Tendencias de crecimiento del PIB británico",
-          "text": "El Reino Unido había registrado un crecimiento nulo en mayo y una desaceleración en el segundo trimestre, con un aumento del 0,4 % en los tres primeros meses del año, lo que sitúa su ritmo de expansión por encima del promedio histórico."
-        },
-        {
-          "label": "Impacto del conflicto en Irán sobre la energía",
-          "text": "La guerra en Irán había elevado los precios de la energía en Europa, pero un alto el fuego reciente redujo la presión sobre los costos energéticos, beneficiando a las empresas británicas."
-        },
-        {
-          "label": "Efectos del Mundial de fútbol 2026 en la economía",
-          "text": "El inicio del Mundial de fútbol masculino 2026 generó un aumento del consumo en sectores como hostelería, venta de merchandising y turismo, fenómeno observado también en otras economías anfitrionas y vecinas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "08c7a7500daa",
-      "title": "Hoy en Lidl una batidora de vaso color pastel para preparar batidos fresquitos este verano",
-      "summary": "Xataka presenta la batidora de vaso de Lidl, modelo Silvercrest en color pastel, que combina diseño retro y una capacidad de 1,75 L por menos de 24 €, destacando su buena relación calidad‑precio para preparar batidos ver verano.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/seleccion/hoy-lidl-batidora-vaso-color-pastel-para-preparar-batidos-fresquitos-este-verano",
-      "published_at": "2026-08-13T12:15:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir características y precio del producto, sin usar lenguaje cargado ni favorecer ideologías políticas; la única inclinación es comercial, típica de reseñas de tecnología.",
-      "focus_analysis": "El artículo se centra en el ángulo económico‑consumista, resaltando precio, diseño y funcionalidad del electrodoméstico; omite aspectos medioambientales, comparativas de durabilidad a largo plazo o el impacto de la producción de estos artículos.",
-      "focus_tags": [
-        "ofertas tecnología",
-        "electrodomésticos",
-        "precio‑calidad"
-      ],
-      "context": [
-        {
-          "label": "Estrategia de Lidl en electrodomésticos",
-          "text": "Lidl ha ampliado su catálogo de productos para el hogar ofreciendo aparatos de bajo coste y diseño atractivo, con el objetivo de captar a consumidores que buscan opciones económicas sin sacrificar estilo."
-        },
-        {
-          "label": "Tendencia de colores pastel en cocina",
-          "text": "Los últimos años han visto una creciente popularidad de utensilios de cocina en tonos pastel, que buscan aportar un toque de frescura y modernidad a los interiores domésticos."
-        },
-        {
-          "label": "Demanda estacional de batidoras",
-          "text": "Durante el verano, la demanda de batidoras de vaso aumenta por su utilidad en la preparación de batidos y smoothies, productos que los consumidores consumen más en climas cálidos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "1bdf8d197c7d",
-      "title": "Predicción del estado del tiempo en el puerto de Veracruz para este 13 de agosto",
-      "summary": "El puerto de Veracruz, México, tiene pronóstico para el 13 de agosto de una temperatura máxima de 26 °C, vientos leves de 8 km/h, nubosidad del 4 % y probabilidad de lluvia del 0 % antes del anochecer.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/13/prediccion-del-estado-del-tiempo-en-el-puerto-de-veracruz-para-este-13-de-agosto/",
-      "published_at": "2026-08-13T12:16:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje meramente informativo, sin adjetivos cargados ni fuentes con sesgo, y se limita a datos meteorológicos y contexto turístico.",
-      "focus_analysis": "El medio se centra en ofrecer el pronóstico del tiempo y su relevancia para actividades turísticas y logísticas, dejando de lado análisis económicos o de seguridad relacionados con condiciones climáticas adversas.",
-      "focus_tags": [
-        "clima",
-        "Veracruz",
-        "turismo"
-      ],
-      "context": [
-        {
-          "label": "Clima típico de Veracruz",
-          "text": "Veracruz, ubicada en la costa del Golfo de México, presenta un clima cálido y húmedo durante la mayor parte del año, con una temperatura media anual alrededor de 25 °C y una temporada de lluvias que va de junio a octubre."
-        },
-        {
-          "label": "Importancia del clima para la actividad portuaria",
-          "text": "Los puertos y la industria del transporte marítimo y aéreo en Veracruz dependen del pronóstico del tiempo para planificar operaciones y evitar retrasos o incidentes causados por condiciones meteorológicas adversas."
-        },
-        {
-          "label": "Cambio de fecha del Carnaval de Veracruz",
-          "text": "Desde 2022 el Carnaval de Veracruz se trasladó al verano para atraer a más visitantes, lo que incrementa la relevancia de los pronósticos climáticos durante esa época."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
