@@ -1,278 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-13T06:42:21.995884+00:00",
-      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presenta información veraz y estructurada, y es adecuado para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:42:41.406248+00:00",
-      "title": "Drogas en México, dinero en EU y armas en Europa",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero contiene errores de veracidad y carece de fuentes suficientemente contrastadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:42:54.118360+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo: Memo, Arantza, Masad, Luis, Moisés, Yanet y Flor, los nu",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de manera objetiva y actual, aunque podría reforzar la verificabilidad de los datos con fuentes citadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:59:07.185009+00:00",
-      "title": "Marcelo Ebrard afirma que México es líder en biotecnología",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la pieza es o y está bien estructurada, los errores de factualidad y la falta de fuentes contrastantes la hacen poco fiable para una noticia objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:59:12.763303+00:00",
-      "title": "En Sinaloa, Michoacán y Tamaulipas, 65% de los drones asegurados",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actual, pero la falta de fuentes verificables y de perspectivas contrastantes reduce su puntuación en veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:59:19.095422+00:00",
-      "title": "Un vertido de un petrolero ruso alcanza la costa de Omán, según las autoridades de Mascate",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado adecuadamente, pero carece de evidencia verificable y de fuentes contrastadas, lo que limita su precisión y profundidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:59:25.041378+00:00",
-      "title": "Lo entrena su mamá, tiene el único rincón femenino del mundo y triunfa en el trap: “Rateka” Sánchez,",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando una pieza informativa bien estructurada y objetiva, aunque se podría reforzar la verificación de algunos datos con fuentes directas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:59:32.428332+00:00",
-      "title": "Así es el Pixel Tag, el nuevo rival de Google para los AirTag de Apple al que llega a imitar incluso",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la estructura y objetividad, pero la precisión de algunos datos y la falta de fuentes múltiples reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:59:43.168798+00:00",
-      "title": "Gobierno de Ecatepec rehabilita línea del Cutzamala; usa tecnología alemana para reparar fugas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y actual, aunque le falta mayor respaldo de datos y fuentes múltiples.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T06:59:54.002789+00:00",
-      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, siendo apropiado para publicación en el portal.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T07:00:01.077835+00:00",
-      "title": "Detienen a dos presuntos extorsionadores que se hicieron pasar por trabajadores de CFE en Edomex",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión con datos más concretos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T07:00:46.989025+00:00",
-      "title": "Una piedra pulida que oculta un corazón de terciopelo: 'La elegancia del erizo'",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 5,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "Texto estéticamente sólido y con voz adecuada, pero la referencia a un premio inexistente afecta su credibilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T07:00:55.924199+00:00",
-      "title": "El Taco de Ormuz y el Plan México",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta graves imprecisiones y falta de fuentes contrastantes, pese a estar actualizado y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T07:01:02.239830+00:00",
-      "title": "Farage contra el Conde Cubo de Basura: el líder ultra fuerza la elección con más candidatos en la hi",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de precisión y equilibrio, aunque es actual y está estructurado razonablemente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T07:01:08.160418+00:00",
-      "title": "Marcelo Ebrard afirma que México es líder en biotecnología",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta serias imprecisiones y falta de contraste de fuentes, comprometiendo su fiabilidad y objetividad, a pesar de estar actualizado y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T07:01:14.476545+00:00",
-      "title": "Lo entrena su mamá, tiene el único rincón femenino del mundo y triunfa en el trap: “Rateka” Sánchez,",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El artículo está bien estructurado y es reciente, pero su falta de verificación de datos y su tono claramente promocional comprometen la objetividad y la robustez de la información.",
-      "error": null
-    },
-    {
       "at": "2026-08-13T07:01:21.087968+00:00",
       "title": "Así es el Pixel Tag, el nuevo rival de Google para los AirTag de Apple al que llega a imitar incluso",
       "kind": "noticia",
@@ -3392,6 +3120,278 @@
         "estructura_piramide": 8
       },
       "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la diversidad de fuentes para ofrecer un contraste más completo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:40:46.197896+00:00",
+      "title": "Una farol en la noche de Río: la luz diminuta de Clarice Lispector",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 7,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una experiencia estética y reflexiva, aunque podría explorar una mayor originalidad en su enfoque.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:40:56.801894+00:00",
+      "title": "Las sentidas palabras de Maxi Rodríguez sobre Jorge Messi tras su muerte: “No es fácil ser padre, am",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque mantiene una estructura adecuada y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:41:07.053646+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta | Robles anuncia que no comparecerá la próxima sema",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero la precisión de los datos y la falta de fuentes contrastantes reducen su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:41:15.292826+00:00",
+      "title": "Irán se incorporará pronto al banco de desarrollo de los BRICS",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es neutral y está bien estructurado, pero contiene errores de factualidad y carece de fuentes múltiples, lo que limita su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:41:28.652562+00:00",
+      "title": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy jueves 13 de agosto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y estructura, aunque la falta de verificabilidad de los datos futuros reduce su puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:41:40.210362+00:00",
+      "title": "Cientos de piscinas en España se enfrentan a un peligro de salud pública: el \"reto marrón\"",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y objetivo, pero la falta de fuentes múltiples y verificables reduce su puntuación de veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:41:48.854081+00:00",
+      "title": "Pancho López, 25 años del picnic",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presenta información precisa, objetiva y actual, con una estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:42:04.661043+00:00",
+      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información objetiva y bien estructurada; es apto para publicación en el portal Contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:42:18.859344+00:00",
+      "title": "Rosario Central, con Di María, abrirá su serie ante Corinthians por los octavos de final de la Copa ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque su estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:42:39.268727+00:00",
+      "title": "El primer juez del ‘caso Leire’ apunta a personas de mayor “jerarquía” en la trama que la exmilitant",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero necesita mayor precisión y fuentes contrastantes para cumplir con los estándares de objetividad y veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:42:49.103036+00:00",
+      "title": "El Banco de Noruega mantiene las tasas de interés sin cambios, pero todavía proyecta una subida",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, presentando la noticia de forma clara y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:43:06.790590+00:00",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 13 de agosto: onda tropical causará fuertes lluvias en má",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia de información meteorológica.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:43:10.534477+00:00",
+      "title": "El trágico caso de la persona más joven jamás diagnosticada con Alzheimer: fue diagnosticado cuando ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta la noticia de forma clara y actual, aunque la falta de fuentes médicas sólidas reduce su veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:43:27.230435+00:00",
+      "title": "Adriana Bellamy explora el mundo de Kieślowski en su nuevo libro",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque muestra un tono ligeramente promocional y depende de una única fuente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:43:51.859834+00:00",
+      "title": "Las cucarachas y las máquinas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero carece de verificación de datos y de contraste de fuentes, y muestra una clara parcialidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T12:43:59.298155+00:00",
+      "title": "La sorprendente reflexión de Casemiro sobre la vuelta de Messi al Inter Miami tras la muerte de su p",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes y estructura, ofreciendo una cobertura objetiva y oportuna del hecho.",
       "error": null
     }
   ]
