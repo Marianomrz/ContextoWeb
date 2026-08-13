@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-12T19:41:45.675954+00:00",
-      "title": "Rusia sufre una nueva crisis de combustible con escasez en 16 regiones",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y estructurado, pero carece de fuentes contrastantes y muestra sesgo hacia la perspectiva ucraniana, reduciendo su objetividad y veracidad percibida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T19:41:50.448369+00:00",
-      "title": "Desmantelan red que organizó más de 1,000 matrimonios falsos para obtener residencias legales en EU",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la verificación con citas y añadir la perspectiva de los involucrados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T20:00:47.590349+00:00",
-      "title": "Vinilos rotos y almas en fuga: descubriendo 'Los Siete Lunas de Maali Almeida'",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "originalidad_creatividad": 8,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El contenido cumple con los estándares literarios de Contexto; es original, bien escrito y temáticamente rico, apto para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T20:00:53.744613+00:00",
-      "title": "Llega a Celaya la Temporada de Música con conciertos y la Romería al Río Laja",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una cobertura adecuada del evento cultural.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T20:01:02.139323+00:00",
-      "title": "Eclipse solar en España, en directo | El eclipse se despide de España en Canarias",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero la imprecisión histórica reduce su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T20:01:07.874237+00:00",
-      "title": "Precios del petróleo recortan alza ante previsiones a la baja de la demanda mundial",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene datos inexactos que comprometen su veracidad, aunque la estructura y la objetividad son buenas y la actualidad es excelente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T20:01:15.023158+00:00",
-      "title": "Osmar Olvera presume el éxito de México: Hoy demostramos que se puede poner al país en lo más alto",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple razonablemente con los estándares de información reciente y estructurada, pero la precisión de los datos y la ausencia de fuentes verificables reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T20:01:22.305073+00:00",
-      "title": "Revelaron el conmovedor gesto que tuvo Jorge Messi con médicos de Rosario: “Se ocupaba de todos los ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes verificables para cifras concretas reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-12T20:01:30.710871+00:00",
-      "title": "Windows tiene un fallo que ya usan atacantes para tomar el control de tu ordenador",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien con la precisión, objetividad y estructura, pero podría mejorar al incluir fuentes adicionales para reforzar el contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-12T20:01:41.912752+00:00",
       "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
       "kind": "noticia",
@@ -3392,6 +3239,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de información objetiva y reciente, solo se mejora la diversidad de fuentes para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:40:41.163551+00:00",
+      "title": "Dos militares muertos en Texas tras accidente de helicóptero del ejército de Estados Unidos",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma precisa, objetiva y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:40:47.816862+00:00",
+      "title": "Cruz Azul quiere hacer historia en la Leagues Cup; Huiqui va por el paso perfecto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo necesita corregir errores fácticos y ampliar fuentes para mejorar su veracidad y contraste, pero en términos de estilo y actualidad cumple con los estándares básicos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:40:51.995581+00:00",
+      "title": "Impacto en la Copa Argentina: Independiente perdió 4-0 ante Atlético Tucumán y quedó eliminado",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría enriquecer con fuentes complementarias para mayor robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:40:57.775554+00:00",
+      "title": "No fue en papel: la UNAM aplica su examen presencial de control con computadoras",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los criterios editoriales de calidad, presentando información verificable, contrastada y objetiva, con una estructura clara y actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:41:04.239459+00:00",
+      "title": "Preparan juicio contra Meta por presunta adicción de menores",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero la precisión de los datos y la falta de contraste de fuentes limitan su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:41:10.002670+00:00",
+      "title": "El actor de Kratos lanza una fuerte crítica contra la serie de ‘God of War’ y otras adaptaciones",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura y la objetividad, pero presenta datos no corroborados y carece de fuentes contrastantes, lo que reduce su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:41:19.176090+00:00",
+      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada de la noticia cultural.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:41:23.879946+00:00",
+      "title": "Yucatán presenta Plan Bienestar Metropolitano",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, aunque podría mejorar al incluir fuentes contrastantes para ofrecer una visión más completa del debate.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T00:41:28.669020+00:00",
+      "title": "Rescatan con vida de un incendio a dos perros en la Benito Juárez; un policía sufrió intoxicación",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo una información veraz, objetiva y bien estructurada, con fuentes confiables y contexto adecuado.",
       "error": null
     }
   ]
