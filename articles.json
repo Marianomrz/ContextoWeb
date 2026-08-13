@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-13T13:41:41.831531+00:00",
+  "generated_at": "2026-08-13T14:01:03.372638+00:00",
   "articles": [
+    {
+      "id": "a2396e4c6036",
+      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
+      "summary": "El escritor mexicano Octavio Paz y el pintor Juan Soriano intercambiaron cartas que revelan una amistad profunda y una intimidad marcada por diferencias sexuales, destacando su vínculo artístico entre los años 1940 y 1960.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/buzon-de-fantasmas-una-carta-de-octavio-paz-a-juan-soriano/12/08/2026/",
+      "published_at": "2026-08-12T19:35:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la descripción literaria y biográfica sin emplear lenguaje político cargado ni seleccionar fuentes con sesgo ideológico.",
+      "focus_analysis": "El medio eligió un ángulo cultural y artístico, resaltando la relación personal y el valor literario de la correspondencia, mientras dejó fuera la dimensión política de la vida de Paz y el contexto histórico de México.",
+      "focus_tags": [
+        "cultura literaria",
+        "amistad artística",
+        "carta histórica"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "Octavio Paz (1914‑1998) fue un poeta, ensayista y diplomático mexicano, ganador del Premio Nobel de Literatura en 1990, conocido también por su compromiso político y crítico con los gobiernos de México."
+        },
+        {
+          "label": "Dato comparativo",
+          "text": "Juan Soriano (1920‑2008) fue uno de los pintores más destacados del arte mexicano del siglo XX, cuyas obras se relacionan con el muralismo y el expresionismo, y mantuvo una estrecha relación con figuras literarias como Paz."
+        },
+        {
+          "label": "Postura de otros",
+          "text": "La carta fue hallada entre los papeles de Soriano por el coleccionista Marek Keller, quien la entregó a la Fundación Juan Soriano, resaltando su valor literario y la curiosidad por la “comunicación mental” que describen ambos artistas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "238948d2a714",
+      "title": "Morir mayor no es cuidar la vida",
+      "summary": "El columnista invitado Rafael Lozano, en El Economista, sostiene que la medicina debe pasar de sólo prolongar la vida a garantizar años saludables, señalando que el sistema de salud mexicano y global se centra en intervenciones agudas y que el concepto de healthspan está siendo capturado por intereses privados.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/morir-mayor-cuidar-vida-20260813-828080.html",
+      "published_at": "2026-08-13T13:18:50+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto critica fuertemente al sector privado y al modelo de salud basado en intervenciones de alta complejidad, usando un lenguaje que favorece una visión más progresista y de reforma pública.",
+      "focus_analysis": "El artículo se concentra en el ángulo institucional y económico del sistema de salud, resaltando la falta de continuidad en la atención crónica y la influencia del capital privado, mientras deja de lado la perspectiva de los pacientes individuales y los avances biomédicos específicos.",
+      "focus_tags": [
+        "salud pública",
+        "healthspan",
+        "sistema de salud"
+      ],
+      "context": [
+        {
+          "label": "origen del concepto healthspan",
+          "text": "En 1980 el médico James Fries introdujo la idea de comprimir el período de enfermedad al final de la vida, una propuesta que ha evolucionado hasta el concepto actual de healthspan."
+        },
+        {
+          "label": "cambio global en la carga de enfermedad",
+          "text": "Según la edición 2023 de la Carga Global de la Enfermedad, la mortalidad prematura ha disminuido relativamente mientras que la discapacidad y la enfermedad crónica representan una proporción mayor de los años vividos."
+        },
+        {
+          "label": "financiamiento privado del anti‑envejecimiento",
+          "text": "En 2024 el capital privado destinó más de siete mil millones de dólares a la ciencia del healthspan, con inversiones destacadas de Silicon Valley y la Fundación Hevolution de Arabia Saudita."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "e86580d12c33",
+      "title": "Twitch se sincera y revela por qué el uso de tus contenidos para entrenar la IA de Amazon está activado por defecto",
+      "summary": "Twitch explicó que la opción de usar los streams, videos y chats de sus usuarios para entrenar la IA de Amazon está activada por defecto y que los creadores deben desactivarla manualmente, lo que ha generado críticas por el modelo opt‑out.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/twitch-uso-contenidos-por-defecto-entrenar-ia-amazon/",
+      "published_at": "2026-08-13T13:48:39+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto emplea expresiones cargadas como \"fuerte críticas\" y \"no les importa\", resaltando la insatisfacción de los usuarios y presentando la política de Twitch de forma negativa, lo que indica una ligera inclinación crítica hacia la empresa.",
+      "focus_analysis": "El artículo se centra en la privacidad de los usuarios y la controversia sobre el uso de sus datos para IA, dejando de lado el potencial económico o los argumentos de la empresa sobre la necesidad tecnológica.",
+      "focus_tags": [
+        "privacidad de datos",
+        "IA generativa",
+        "política de opt‑out"
+      ],
+      "context": [
+        {
+          "label": "práctica de la industria",
+          "text": "Muchas plataformas digitales, como Google y Meta, también utilizan contenidos generados por usuarios para entrenar sus modelos de IA, a menudo bajo configuraciones predeterminadas que requieren que el usuario se excluya explícitamente."
+        },
+        {
+          "label": "marco regulatorio",
+          "text": "En la Unión Europea, la Ley de Servicios Digitales y la normativa de protección de datos (GDPR) exigen mayor transparencia y consentimiento explícito para el uso de datos personales, lo que ha impulsado debates sobre modelos opt‑in versus opt‑out."
+        },
+        {
+          "label": "reacción de la comunidad",
+          "text": "Los usuarios de Twitch han expresado su descontento en foros y redes sociales, exigiendo que la plataforma cambie a un modelo opt‑in, y algunos creadores han amenazado con suspender sus transmisiones si no se respetan sus derechos de datos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "0716fb98edd4",
+      "title": "Repatrian a 36 mexicanos desde Colombia tras terremoto",
+      "summary": "La Secretaría de Relaciones Exteriores de México repatrió a 36 ciudadanos que se encontraban en Colombia tras el terremoto de magnitud 7.4 que afectó al país sudamericano.",
+      "category": "internacional",
+      "source_name": "Reforma",
+      "source_url": "https://www.reforma.com/repatrian-a-36-mexicanos-desde-colombia-tras-terremoto/ar3257244",
+      "published_at": "2026-08-13T13:49:33+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar datos oficiales sin usar lenguaje cargado ni incluir opiniones, manteniendo un tono neutral y descriptivo.",
+      "focus_analysis": "El medio eligió un ángulo institucional, resaltando la acción del gobierno mexicano de repatriar a sus ciudadanos, mientras dejó fuera la cobertura de la magnitud del desastre y la situación de los damnificados en Colombia.",
+      "focus_tags": [
+        "repatriación",
+        "sismo Colombia",
+        "Gobierno México"
+      ],
+      "context": [
+        {
+          "label": "Política de repatriación de la SRE",
+          "text": "La Secretaría de Relaciones Exteriores de México suele organizar la repatriación de sus nacionales cuando se presentan emergencias en el extranjero, coordinando con autoridades locales y consulados."
+        },
+        {
+          "label": "Impacto del terremoto en Colombia",
+          "text": "El sismo de 7.4 que sacudió Colombia en agosto de 2026 provocó cientos de muertos y desaparecidos, con operaciones de búsqueda y rescate que continúan varios días después del evento."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Medios como Infobae, France24 y Euronews enfocaron sus notas en la situación de los damnificados, la búsqueda de supervivientes y la ayuda internacional, contrastando con la nota de Reforma que se centró únicamente en la repatriación de mexicanos."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "c7f8f1fb7b48",
+      "title": "Marlaska envía a Ceuta más policías de Extranjería para acelerar la expulsión de 5.000 migrantes",
+      "summary": "El ministro del Interior de España, Fernando Grande‑Marlaska, anunció el envío a Ceuta de decenas de agentes de la Brigada Central de Extranjería y de unidades de prevención para acelerar la expulsión de unos 5 000 migrantes irregulares que permanecen tras la llegada masiva del 30 de julio.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-13/marlaska-envia-a-ceuta-mas-policias-de-extranjeria-para-acelerar-la-expulsion-de-migrantes.html",
+      "published_at": "2026-08-13T13:51:16+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto utiliza un tono mayormente descriptivo pero incluye expresiones como “mafias” y “amenaza yihadista” que reflejan una perspectiva de seguridad, al tiempo que menciona las críticas de la oposición y Sumar, lo que indica una ligera inclinación progresista sin llegar a ser marcadamente partidista.",
+      "focus_analysis": "El medio se centra en la dimensión de seguridad y la respuesta institucional del Gobierno para expulsar a los migrantes, dejando de lado la perspectiva humanitaria y los testimonios de los propios migrantes.",
+      "focus_tags": [
+        "seguridad pública",
+        "inmigración irregular",
+        "política de interior"
+      ],
+      "context": [
+        {
+          "label": "Entrada masiva del 30‑julio",
+          "text": "El 30 de julio de 2026, miles de migrantes cruzaron la frontera marítima de Ceuta desde Marruecos, provocando una crisis que según datos oficiales alcanzó entre 72 000 y 80 000 personas."
+        },
+        {
+          "label": "Despliegues anteriores de fuerzas de seguridad",
+          "text": "Tras la crisis, el Gobierno español había enviado inicialmente alrededor de 350 agentes de la Policía Nacional y unidades de la Guardia Civil, además de contingentes de las Fuerzas Armadas, para reforzar la seguridad en la ciudad autónoma."
+        },
+        {
+          "label": "Debate político y cooperación marroquí",
+          "text": "Partidos de la oposición y la coalición Sumar han cuestionado la gestión del Gobierno, mientras que el ministro ha destacado la colaboración de Marruecos como clave para el retorno del 90 % de los migrantes irregulares."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "d7c1a41182c2",
+      "title": "Tormenta tropical Cristobal se forma en el Atlántico: Conagua revela su trayectoria y alerta a las Costas de México por fuertes lluvias",
+      "summary": "La Tormenta Tropical Cristobal, que se formó en el océano Atlántico, se encuentra a más de 4 500 km de la península de Yucatán y, según el Servicio Meteorológico Nacional, no representa riesgo de lluvias, vientos fuertes ni oleaje para las costas mexicanas en los próximos días.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/12/tormenta-tropical-cristobal-se-forma-en-el-oceano-atlantico-afectara-costas-de-mexico-los-proximos-dias/",
+      "published_at": "2026-08-13T13:53:52+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono informativo y neutral, citando únicamente a fuentes oficiales sin usar vocabulario cargado ni presentar opiniones.",
+      "focus_analysis": "El medio se centra en el pronóstico meteorológico y la alerta oficial, omitiendo análisis sobre posibles repercusiones económicas o el contexto del cambio climático.",
+      "focus_tags": [
+        "meteorología",
+        "tormenta tropical",
+        "alerta costera"
+      ],
+      "context": [
+        {
+          "label": "ciclo de tormentas atlánticas",
+          "text": "Las tormentas tropicales que se forman en el Atlántico suelen seguir rutas que pueden alejarse del continente americano o acercarse a la costa del Caribe, dependiendo de los vientos de sotavento y la presión atmosférica."
+        },
+        {
+          "label": "caso histórico",
+          "text": "En 2020, el huracán Hanna impactó la costa de Quintana Roo, provocando lluvias intensas y afectando la actividad turística, lo que muestra que no todas las tormentas tropicales permanecen lejos de México."
+        },
+        {
+          "label": "función de Conagua",
+          "text": "Conagua, a través del Servicio Meteorológico Nacional, emite avisos y alertas para la población y sectores marítimos, basándose en modelos de predicción y datos satelitales para decidir cuándo activar medidas preventivas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "7d63dbf14f14",
+      "title": "El eco de una taza rota: Natsume Sōseki y la soledad que nos habla",
+      "summary": "Una taza de cerámica, agrietada por el tiempo, deja filtrar el calor del té mientras el vapor se escapa como recuerdos no dichos. En esa fisura se refleja la voz de Sōseki, que escribe sobre la distancia entre el corazón y la palabra. Cada sorbo es una conversación con el vacío que nos acompaña en la era digital.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-13T13:59:59.403550+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, bajo el sol de agosto, la sensación de estar conectados pero solos se vuelve palpable; la novela de Sōseki ofrece un espejo de esa paradoja. Elegí la imagen de la taza rota para ilustrar cómo lo frágil puede contener una intensidad inesperada, tal como la literatura japonesa del siglo XX.",
+      "focus_tags": [
+        "Japón",
+        "Novela moderna",
+        "Siglo XX"
+      ],
+      "context": [
+        {
+          "label": "Primer paso: Natsume Sōseki",
+          "text": "Nacido en 1867, Sōseki estudió en la Universidad de Tokio y, tras un viaje a Inglaterra, regresó para convertirse en uno de los pilares de la literatura japonesa moderna. Su estilo combina ironía sutil con una profunda introspección psicológica, creando personajes que luchan contra la modernidad sin perder su humanidad."
+        },
+        {
+          "label": "Obra clave: Kokoro",
+          "text": "Publicada en 1914, Kokoro narra la relación entre un joven estudiante y un hombre mayor llamado «el Sensei», cuya confesión final desgarra la ilusión de la amistad. La novela explora la culpa, la soledad y el peso del pasado, todo ello bajo la metáfora del corazón como un recinto sellado que a veces se abre sin aviso."
+        },
+        {
+          "label": "Lecturas afines: la soledad en la literatura contemporánea",
+          "text": "Para seguir el hilo de la soledad moderna, pruebe con \"La soledad de los números primos\" de Paolo Giordano, una novela italiana que dibuja la incomunicación entre dos almas. También \"Los detectives salvajes\" de Roberto Bolaño, que muestra cómo la búsqueda de sentido puede convertirse en un desierto de silencios."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "66c2b7457398",
       "title": "Linus Torvalds, desarrollador y fundador de Linux, sobre dirigir su empresa hoy: \"Ya no soy programador\"",
@@ -799,251 +1045,6 @@
         {
           "label": "Participantes destacados",
           "text": "Los nominados de la última edición incluyen a Memo Schutz, Arantza Ruiz, Masad Altamimi, Luis Chaparro, Moisés Peñaloza, Yanet García y Flor Vigna, figuras conocidas en la televisión y redes sociales mexicanas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "e21990b86201",
-      "title": "El 44% de las pymes mexicanas dedica hasta 10 horas semanales a tareas repetitivas",
-      "summary": "Según el informe Pulso Pymes LATAM 2026, el 44 % de las pequeñas y medianas empresas mexicanas dedica entre cinco y diez horas semanales a tareas administrativas repetitivas, y su principal obstáculo para automatizar es la falta de conocimientos y acompañamiento, más que la disponibilidad financiera.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/el-empresario/44-pymes-mexicanas-dedica-10-horas-semanales-tareas-repetitivas-20260813-827899.html",
-      "published_at": "2026-08-13T13:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje neutro, presenta datos de un estudio y no emplea vocabulario cargado ni favorece a ninguna posición política o empresarial.",
-      "focus_analysis": "El artículo se centra en los retos operativos y de capacitación que enfrentan las pymes mexicanas para adoptar la automatización e inteligencia artificial, dejando de lado el análisis de costos o de políticas públicas que podrían impulsar la digitalización.",
-      "focus_tags": [
-        "automatización",
-        "pymes mexicanas",
-        "inteligencia artificial"
-      ],
-      "context": [
-        {
-          "label": "Adopción regional",
-          "text": "En Latinoamérica, el 74 % de las pymes operan con bajos niveles de automatización, según estudios regionales, lo que sitúa a México ligeramente por encima del promedio regional."
-        },
-        {
-          "label": "Importancia de la IA",
-          "text": "A nivel global, la inteligencia artificial se considera un motor clave para mejorar la productividad de las pequeñas empresas, aunque su adopción está limitada por la escasez de habilidades técnicas."
-        },
-        {
-          "label": "Política pública mexicana",
-          "text": "El Gobierno de México ha lanzado programas como el Programa Nacional de Transformación Digital para Pymes, que buscan ofrecer capacitación y subsidios para la implementación de tecnologías digitales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "fd65fbf9bba5",
-      "title": "La sorprendente reflexión de Casemiro sobre la vuelta de Messi al Inter Miami tras la muerte de su padre",
-      "summary": "El mediocampista Casemiro elogió el compromiso y liderazgo de Lionel Messi al regresar a Inter Miami en la Leagues Cup pocos días después de la muerte de su padre, resaltando la motivación que su presencia generó en el equipo.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/13/la-sorprendente-reflexion-de-casemiro-sobre-la-vuelta-de-messi-al-inter-miami-tras-la-muerte-de-su-padre/",
-      "published_at": "2026-08-13T10:46:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se centra en la dimensión humana y deportiva, usando un tono elogioso pero sin inclinarse hacia posiciones políticas o ideológicas; sus fuentes son jugadores y el entrenador, sin sesgo evidente.",
-      "focus_analysis": "El medio eligió un ángulo humano y de solidaridad del equipo, destacando la emotividad y el liderazgo de Messi; no abordó aspectos tácticos o económicos del club.",
-      "focus_tags": [
-        "human interest",
-        "team solidarity",
-        "leadership"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Lionel Messi perdió a su padre, Jorge Messi, a los 68 años, lo que provocó su ausencia en los partidos de Inter Miami antes de su regreso en la Leagues Cup."
-        },
-        {
-          "label": "Resultado del partido",
-          "text": "Inter Miami fue eliminado de la Leagues Cup tras perder 3-2 contra León, aunque Messi volvió a jugar en el segundo tiempo y recibió una ovación del público."
-        },
-        {
-          "label": "Cobertura externa",
-          "text": "Otros medios, como BBC News Mundo, destacaron el mensaje emotivo de Messi tras la muerte de su padre, mientras que La Jornada Deportes informó del avance de León y la victoria sobre Inter Miami."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "7492f15950c1",
-      "title": "Adriana Bellamy explora el mundo de Kieślowski en su nuevo libro",
-      "summary": "La investigadora y escritora mexicana Adriana Bellamy presentó su nuevo libro \"Epifanías de la luz\", que analiza la obra del cineasta polaco Krzysztof Kieslowski desde sus primeros filmes hasta sus documentales, destacando su uso del azar y la luz.",
-      "category": "internacional",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/adriana-bellamy-explora-el-mundo-de-kieslowski-en-su-nuevo-libro/",
-      "published_at": "2026-08-13T12:18:51+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto utiliza un tono mayormente elogioso y promocional, resaltando la importancia del libro y del autor sin presentar críticas ni opiniones divergentes, lo que indica una ligera inclinación positiva.",
-      "focus_analysis": "El medio eligió un ángulo cultural y académico, centrado en la interpretación estética y metafísica de la obra de Kieslowski, mientras dejó de lado un análisis más amplio de su impacto histórico o controversias políticas.",
-      "focus_tags": [
-        "cultura",
-        "cine",
-        "análisis artístico"
-      ],
-      "context": [
-        {
-          "label": "Krzysztof Kieslowski",
-          "text": "Krzysztof Kieslowski (Polonia, 1941‑1996) fue un director reconocido mundialmente por su trilogía \"Tres colores\" y por obras que combinaron crítica política con reflexiones metafísicas."
-        },
-        {
-          "label": "Adriana Bellamy",
-          "text": "Adriana Bellamy, nacida en la Ciudad de México en 1979, es investigadora y escritora especializada en cine, con publicaciones anteriores sobre teoría audiovisual."
-        },
-        {
-          "label": "Cineteca Nacional y Semana de Cine Polaco",
-          "text": "La Cineteca Nacional de México organiza anualmente la Semana de Cine Polaco, una retrospectiva que busca difundir la obra de directores como Kieslowski y que fue el contexto para la publicación del libro de Bellamy."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "fc0a5d4e989e",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy 13 de agosto: onda tropical causará fuertes lluvias en más de 10 estados",
-      "summary": "El Servicio Meteorológico Nacional de México advierte que la onda tropical 26 provocará lluvias intensas y tormentas con granizo en más de diez estados del país entre el 12 y el 15 de agosto.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/13/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-13-de-agosto/",
-      "published_at": "2026-08-13T12:31:03+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos técnicos y pronósticos sin lenguaje cargado ni opiniones, citando únicamente al Servicio Meteorológico Nacional.",
-      "focus_analysis": "El medio se centró en el aspecto meteorológico y de alertas, omitiendo posibles repercusiones económicas o sociales de las lluvias.",
-      "focus_tags": [
-        "clima",
-        "pronóstico",
-        "alerta"
-      ],
-      "context": [
-        {
-          "label": "Institución",
-          "text": "El Servicio Meteorológico Nacional (SMN) es la autoridad oficial de México para la emisión de pronósticos y alertas climáticas."
-        },
-        {
-          "label": "Fenómeno",
-          "text": "Las ondas tropicales suelen generar lluvias intensas en la región occidental y sur de México, con riesgos de inundaciones y deslizamientos."
-        },
-        {
-          "label": "Impacto histórico",
-          "text": "En eventos previos, lluvias intensas en estados como Jalisco y Veracruz han causado daños materiales y interrupciones en la logística agrícola."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "3fd3a7bc4f9c",
-      "title": "El Banco de Noruega mantiene las tasas de interés sin cambios, pero todavía proyecta una subida",
-      "summary": "El Banco de Noruega dejó sin cambios la tasa de interés oficial en 4.25% el 13 de agosto de 2026, pero la gobernadora Ida Wolden Bache advirtió que podría ser necesario volver a subirla si la inflación persiste alta.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/banco-noruega-mantiene-tasas-interes-cambios-todavia-proyecta-subida-20260813-828069.html",
-      "published_at": "2026-08-13T12:26:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la decisión del banco central y citar a la gobernadora, sin usar vocabulario cargado ni presentar opiniones partidistas; la información proviene de fuentes institucionales y de una encuesta de Reuters, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centró en el aspecto económico de la política monetaria noruega, destacando la tasa de interés y la inflación, mientras dejó de lado posibles repercusiones políticas o sociales de la medida.",
-      "focus_tags": [
-        "política monetaria",
-        "inflación Noruega",
-        "tasas de interés"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "El Norges Bank había indicado en meses anteriores que una nueva subida de la tasa de interés era probable durante el año, reflejando una postura preventiva frente a la inflación."
-        },
-        {
-          "label": "Datos de inflación",
-          "text": "Durante el verano boreal, la inflación en Noruega se moderó por debajo de lo esperado, aunque la gobernadora señaló que sigue siendo demasiado alta para descartar futuros ajustes."
-        },
-        {
-          "label": "Comparación internacional",
-          "text": "A diferencia de la Reserva Federal de EE. UU., que ha mantenido una política más agresiva, el Banco central Noruega muestra cautela, manteniendo la tasa estable mientras observa la evolución de los precios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a2396e4c6036",
-      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
-      "summary": "El artículo de Letras Libres muestra una carta inédita escrita en 1963 por el poeta y Nobel mexicano Octavio Paz a su amigo el pintor Juan Soriano, revelando la intimidad y el intercambio artístico que marcó su larga amistad.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/buzon-de-fantasmas-una-carta-de-octavio-paz-a-juan-soriano/12/08/2026/",
-      "published_at": "2026-08-12T19:35:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la relación personal y literaria, utiliza un tono descriptivo y no emplea lenguaje cargado ni fuentes políticas, manteniéndose neutral.",
-      "focus_analysis": "El medio privilegia el ángulo humano y artístico, resaltando la amistad y la creatividad de Paz y Soriano, mientras deja de lado el contexto político o social de la época.",
-      "focus_tags": [
-        "amistad artística",
-        "carta literaria",
-        "cultura mexicana"
-      ],
-      "context": [
-        {
-          "label": "Octavio Paz",
-          "text": "Octavio Paz (1914‑1998) fue un poeta, ensayista y diplomático mexicano, ganador del Premio Nobel de Literatura en 1990, conocido por su obra que combina tradición mexicana y modernismo."
-        },
-        {
-          "label": "Juan Soriano",
-          "text": "Juan Soriano (1920‑2006) fue uno de los más destacados pintores y escultores mexicanos del siglo XX, reconocido por su estilo singular y su participación en movimientos artísticos internacionales."
-        },
-        {
-          "label": "Círculo artístico de mediados del siglo XX",
-          "text": "Durante la década de 1940‑50, la escena cultural mexicana giraba en torno a lugares como el Café París, donde intelectuales, poetas y artistas como Paz, Soriano y Cardoza intercambiaban ideas, en un contexto marcado por la posguerra y la búsqueda de identidad nacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "9fc683cd036a",
-      "title": "Pancho López, 25 años del picnic",
-      "summary": "El artista mexicano Pancho López, de 54 años, con 25 años de su carrera en el performance con la exposición \"El picnic y la sobremesa\" en el Museo Morelense de Arte Contemporáneo Juan Soriano (MACC). La muestra recorre su obra centrada en la comida, desde sus icónicos picnics formales hasta proyectos recientes como Historias de café.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/pancho-lopez-25-anos-del-picnic/",
-      "published_at": "2026-08-13T12:23:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin palabras cargadas ni selección de fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El medio opta por un ángulo cultural y artístico, resaltando la trayectoria, la temática gastronómica y la exposición del artista, mientras omite análisis sociales o críticos sobre el impacto de su obra.",
-      "focus_tags": [
-        "arte performance",
-        "cultura mexicana",
-        "exposición MACC"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Pancho López",
-          "text": "Desde finales de los años 90, Pancho López se hizo conocido internacionalmente por sus performances de picnic formal, en los que consumía alimentos sofisticados como chiles en nogada y paella valenciana en espacios públicos."
-        },
-        {
-          "label": "Comida en el arte contemporáneo mexicano",
-          "text": "Varios artistas mexicanos contemporáneos, como Gabriel Orozco y Teresa Margolles, han incorporado la comida como símbolo de identidad cultural, crítica social y exploración sensorial."
-        },
-        {
-          "label": "Rol del MACC en la escena artística",
-          "text": "El Museo Morelense de Arte Contemporáneo Juan Soriano (MACC) es una institución clave en Morelos que promueve exposiciones de artistas nacionales e internacionales, fomentando la difusión de propuestas experimentales."
         }
       ],
       "confidence": "alta",
