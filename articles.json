@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-13T03:11:02.726588+00:00",
+  "generated_at": "2026-08-13T03:21:33.173629+00:00",
   "articles": [
+    {
+      "id": "a2396e4c6036",
+      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
+      "summary": "La revista Letras Libres publica una carta inédita escrita por el poeta mexicano Octavio Paz a su amigo el pintor Juan Soriano, revelando la intimidad y el intercambio artístico que marcaron su relación durante la década de 1970. El texto, hallado entre los documentos de Soriano, muestra cómo ambos artistas se describían con humor y afecto, aludiendo a sus diferencias sexuales y al círculo cultural que compartían.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/buzon-de-fantasmas-una-carta-de-octavio-paz-a-juan-soriano/12/08/2026/",
+      "published_at": "2026-08-12T19:35:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir la carta y el vínculo personal entre los dos artistas, usando un tono descriptivo y sin cargar de juicios políticos ni seleccionar fuentes con agenda ideológica.",
+      "focus_analysis": "El medio eló el ángulo literario‑artístico, resaltando la amistad y la creatividad de Paz y Soriano, mientras deja de lado el contexto político y social de México en los años setenta.",
+      "focus_tags": [
+        "literatura mexicana",
+        "arte contemporáneo",
+        "correspondencia artística"
+      ],
+      "context": [
+        {
+          "label": "Octavio Paz",
+          "text": "Octavio Paz (1914‑1998) fue un poeta, ensayista y diplomático mexicano, ganador del Premio Nobel de Literatura en 1990, y una de las figuras más influyentes de la cultura del siglo XX en México."
+        },
+        {
+          "label": "Juan Soriano",
+          "text": "Juan Soriano (1920‑2006) fue un pintor y escultor mexicano reconocido internacionalmente por su estilo expresivo y por retratar a figuras como Elena Garro, convirtiéndose en un referente del arte mexicano del siglo XX."
+        },
+        {
+          "label": "Entorno cultural de la época",
+          "text": "Durante la década de 1970, el círculo intelectual mexicano se reunía en lugares como el Café París y en grupos como Poesía en Voz Alta, donde artistas y escritores intercambiaban ideas en un contexto marcado por la posrevolución y la apertura cultural."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "a14909eebf6c",
+      "title": "El actor de Kratos lanza una fuerte crítica contra la serie de ‘God of War’ y otras adaptaciones",
+      "summary": "Christopher Judge, el actor que dio voz a Kratos en los últimos videojuegos de God of War, criticó en un panel del FanExpo que Hollywood no incorpora a los creadores originales al adaptar series de videojuegos, señalando el caso de la serie de Amazon y comparándola con otras adaptaciones como The Last of Us.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/christopher-judge-kratos-critica-serie-god-of-war-guionistas/",
+      "published_at": "2026-08-12T21:35:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la opinión del actor y ejemplos de la industria sin usar un cargados ni citar fuentes con inclinación política, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centró en la crítica institucional sobre la falta de participación de los creadores en las adaptaciones de videojuegos, dejando de lado aspectos económicos o la reacción del público en general.",
+      "focus_tags": [
+        "adaptaciones de videojuegos",
+        "crítica institucional",
+        "participación de creadores"
+      ],
+      "context": [
+        {
+          "label": "precedente de participación de creadores",
+          "text": "En la adaptación de The Last of Us para HBO, el creador del juego Neil Druckmann actuó como showrunner, lo que fue destacado como un modelo positivo de inclusión de los autores originales."
+        },
+        {
+          "label": "ejemplo de adaptación polémica",
+          "text": "La serie de Halo en Paramount+ recibió críticas por alejarse del material original, ejemplificando los riesgos de excluir a los involucrados en los videojuegos."
+        },
+        {
+          "label": "situación actual de God of War",
+          "text": "La producción de la serie de God of War de Amazon se ha detenido tras un accidente que dejó fuera al actor principal, y la empresa está considerando a Dave Bautista como posible sustituto."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "629438fcd660",
+      "title": "“Me da mucha vergüenza”: la brutal autocrítica de Quinteros tras la histórica eliminación de Independiente en la Copa Argentina",
+      "summary": "El entrenador Gustavo Quinteros del club Independiente de Avellaneda admitió una gran vergüenza tras la derrota 4-0 ante Atlético Tucumán en los octavos de final de la Copa Argentina, asumiendo la responsabilidad y pidiendo apoyo para revertir la situación.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/13/me-da-mucha-verguenza-la-brutal-autocritica-de-quinteros-tras-la-historica-eliminacion-de-independiente-en-la-copa-argentina/",
+      "published_at": "2026-08-13T02:12:50+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a reproducir declaraciones del entrenador y describir hechos sin usar vocabulario cargado ni favorecer a ninguna postura política o deportiva.",
+      "focus_analysis": "El medio se centró en la autocrítica del entrenador y la situación institucional del club, dejando de lado análisis tácticos profundos o la reacción de la afición.",
+      "focus_tags": [
+        "autocrítica del entrenador",
+        "situación del club",
+        "Copa Argentina"
+      ],
+      "context": [
+        {
+          "label": "Historia del club",
+          "text": "Independiente es uno de los cinco grandes del fútbol argentino, con siete Copas Libertadores, pero lleva varios años sin conseguir títulos importantes."
+        },
+        {
+          "label": "Trayectoria de Gustavo Quinteros",
+          "text": "Gustavo Quinteros, exjugador boliviano y exdirector técnico de la selección de Bolivia, tomó el cargo de director técnico de Independiente en 2024."
+        },
+        {
+          "label": "Importancia de la Copa Argentina",
+          "text": "La Copa Argentina es un torneo de eliminación directa que frecuentemente genera sorpresas; la derrota de Independiente ante Atlético Tucumán, equipo de la segunda categoría, se consideró una eliminación histórica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "6cf3f9febf80",
+      "title": "Terremoto en Colombia:  Kiara, símbolo de la vulnerabilidad y resistencia de los animales en la tragedia",
+      "summary": "La perra criolla Kiara, de dos años, fue rescatada tras pasar 24 horas atrapada en un quinto piso sin paredes en un edificio colapsado de Dosquebradas, Risaralda, Colombia, simbolizando la vulnerabilidad y resistencia de los animales durante el terremoto. El rescate, realizado por bomberos y el concejal Héctor Hernández, también puso en evidencia la brecha entre el protocolo oficial de atención animal y su aplicación práctica.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/am%C3%A9rica-latina/20260813-terremoto-en-colombia-kiara-s%C3%ADmbolo-de-la-vulnerabilidad-y-resistencia-de-los-animales-en-la-tragedia",
+      "published_at": "2026-08-13T02:41:00+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea un lenguaje emotivo y destaca la falta de implementación del protocolo de animales, lo que genera una ligera crítica a la gestión institucional; no se incluyen datos políticos ni se favorece a ningún grupo político.",
+      "focus_analysis": "El medio eligió centrar la cobertura en la historia de Kiara y la vulnerabilidad de los animales, dejando de lado la magnitud del desastre, el número de víctimas humanas y la respuesta gubernamental a gran escala.",
+      "focus_tags": [
+        "animales",
+        "rescate",
+        "desastre"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del sismo",
+          "text": "El 10 de agosto de 2026 un terremoto de magnitud 7,4 sacudió el centro y occidente de Colombia, afectando especialmente la región de Risaralda y provocando el colapso de varios edificios y cientos de muertes."
+        },
+        {
+          "label": "Protocolo de atención animal",
+          "text": "Colombia cuenta con una normativa que establece la asistencia a animales en emergencias, pero según el concejal Héctor Hernández, su aplicación es insuficiente y depende de iniciativas informales y redes sociales."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Universal puso a Kiara como símbolo mundial del rescate, Expansión centró su informe en el rescate de una niña y el elevado número de fallecidos, mientras que Euronews destacó la declaración de tres días de luto nacional y la presión sobre el sistema sanitario."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "1dbe56a734a6",
+      "title": "UNAM concluye primera jornada de examen de control en León, Guanajuato; mañana arranca prueba en Oaxaca",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) concluyó la primera jornada del examen de control presencial en León, Guanajuato, con 501 aspirantes, y anunció que la prueba continuará mañana en Oaxaca.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/unam-concluye-primera-jornada-de-examen-de-control-en-leon-guanajuato-manana-arranca-prueba-en-oaxaca/",
+      "published_at": "2026-08-13T03:07:19+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje informativo y neutral, citando únicamente a autoridades de la UNAM sin incluir opiniones políticas ni vocabulario cargado.",
+      "focus_analysis": "El medio se centró en la logística institucional y la intención de equidad del examen, dejando de lado las experiencias personales de los aspirantes y los posibles obstáculos socioeconómicos.",
+      "focus_tags": [
+        "examen de control",
+        "equidad educativa",
+        "UNAM"
+      ],
+      "context": [
+        {
+          "label": "Cobertura de El Informador",
+          "text": "Otro medio resaltó la presencia de jóvenes de varios estados que se alojaron en un hotel local para rendir la prueba, enfocándose en el ambiente y la participación regional."
+        },
+        {
+          "label": "Cobertura de Infobae",
+          "text": "Infobae reportó que un aspirante resolvió el examen en menos de una hora y lo calificó de más justo, subrayando la percepción de rapidez y equidad entre los candidatos."
+        },
+        {
+          "label": "Cobertura de Reforma",
+          "text": "Reforma destacó la incertidumbre y la esperanza de los aspirantes, mencionando que algunos no pudieron presentarse por falta de recursos, lo que introduce una dimensión socioeconómica al relato."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.6
+      }
+    },
+    {
+      "id": "59562a1d3166",
+      "title": "Predicción del clima: estas son las temperaturas en Culiacán Rosales",
+      "summary": "El pronóstico del tiempo para el jueves 13 de agosto indica que en Culiacán Rosales, Sinaloa, México, la temperatura oscilará entre 24.3°C y 36.1°C, con una probabilidad de lluvia del 10 %, nubosidad del 36 % durante el día y del 83 % por la noche, y vientos moderados de 7.4 km/h y 5.6 km/h respectivamente.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/13/prediccion-del-clima-estas-son-las-temperaturas-en-culiacan-rosales/",
+      "published_at": "2026-08-13T03:17:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos objetivos y no emplea lenguaje cargado ni citas que favorezcan una visión política o ideológica.",
+      "focus_analysis": "El medio se centra en proporcionar información detallada del pronóstico climático, dejando de lado aspectos como el impacto del calor en la salud pública, la agricultura o la economía local.",
+      "focus_tags": [
+        "clima",
+        "Culiacán",
+        "temperaturas"
+      ],
+      "context": [
+        {
+          "label": "Clima de la región",
+          "text": "Culiacán Rosales, capital de Sinaloa, tiene un clima cálido semiárido, con veranos muy calurosos y lluvias escasas, mientras que los inviernos son más templados."
+        },
+        {
+          "label": "Pronóstico oficial",
+          "text": "El Servicio Meteorológico Nacional emite pronósticos diarios que incluyen temperatura máxima y mínima, probabilidad de precipitación, nubosidad y velocidad del viento para ciudades mexicanas."
+        },
+        {
+          "label": "Cambio climático en México",
+          "text": "Expertos advierten que el cambio climático está incrementando la frecuencia e intensidad de olas de calor y sequías en México, afectando a sectores como la agricultura y la disponibilidad de recursos hídricos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "dead3af1ff08",
       "title": "Amigos y familiares despiden al poeta, ensayista y profesor universitario Vicente Quirarte",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.0
-      }
-    },
-    {
-      "id": "dfd843ab69bc",
-      "title": "La SCJN rechaza recurso de Vera Carrizal sobre el amparo del caso María Elena Ríos",
-      "summary": "La Suprema Corte de Justicia de la Nación (SCJN) de México rechazó el recurso de Juan Antonio Vera Carrizal que pretendía bloquear la revisión del amparo relacionado con el caso de María Elena Ríos, víctima de intento de feminicidio cuya absolución de 2024 fue anulada.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/13/la-scjn-rechaza-recurso-de-vera-carrizal-sobre-el-amparo-del-caso-maria-elena-rios/",
-      "published_at": "2026-08-13T02:32:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la decisión judicial sin usar adjetivos cargados ni fuentes con sesgo, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y legal al describir la resolución de la SCJN, dejando de lado el impacto humano y el contexto de violencia de género del caso.",
-      "focus_tags": [
-        "justicia",
-        "amparo",
-        "corte suprema"
-      ],
-      "context": [
-        {
-          "label": "Caso María Elena Ríos",
-          "text": "María Elena Ríos fue víctima de un intento de feminicidio en Oaxaca; en 2024 una sentencia absolutoria fue anulada, reabriendo la posibilidad de un juicio de amparo."
-        },
-        {
-          "label": "Competencia de la SCJN",
-          "text": "La Suprema Corte de Justicia de la Nación es la máxima autoridad judicial en México y tiene la facultad de revisar y resolver recursos de amparo que provienen de tribunales inferiores."
-        },
-        {
-          "label": "Debate sobre violencia de género",
-          "text": "El caso se inscribe en un contexto de creciente presión social y de organizaciones de derechos humanos para fortalecer la protección legal contra la violencia de género en México."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "026d39ea13cc",
-      "title": "El Bogueto llevará su música al medio tiempo del Atlante vs Toluca",
-      "summary": "El cantante mexicano El Bogueto se presentará durante el medio tiempo del partido entre Atlante FC y Toluca FC, programado para el 15 de agosto en el Estadio Azteca como parte de la jornada 3 del Apertura 2026 de la Liga MX.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/13/el-bogueto-llevara-su-musica-al-medio-tiempo-del-atlante-vs-toluca/",
-      "published_at": "2026-08-13T02:19:00+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo emplea un tono meramente informativo y descriptivo, sin usar vocabulario cargado ni citar fuentes con una orientación política marcada.",
-      "focus_analysis": "El texto prioriza el aspecto de entretenimiento del espectáculo de medio tiempo, omitiendo el análisis táctico o el desempeño reciente de los equipos.",
-      "focus_tags": [
-        "entretenimiento",
-        "fútbol",
-        "cultura popular"
-      ],
-      "context": [
-        {
-          "label": "rivalidad histórica",
-          "text": "Atlante FC y Toluca FC son dos clubes tradicionales de la Liga MX que han protagonizado varios clásicos a lo largo de la historia del fútbol mexicano."
-        },
-        {
-          "label": "práctica de espectáculos",
-          "text": "En la Liga MX es frecuente que los encuentros incluyan presentaciones musicales durante el medio tiempo para atraer a la afición y crear un ambiente más festivo."
-        },
-        {
-          "label": "perfil del artista",
-          "text": "El Bogueto es un cantante y compositor mexicano reconocido por sus éxitos en géneros urbanos y colaboraciones con artistas de reggaetón, lo que le ha permitido participar en eventos de gran visibilidad pública."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a2396e4c6036",
-      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
-      "summary": "El artículo de Letras Libres analiza una carta de 1963 escrita por el poeta y diplomático mexicano Octavio Paz a su amigo el pintor Juan Soriano, resaltando la profunda amistad, la intimidad emocional y los intercambios artísticos que marcaron su relación durante la segunda mitad del siglo XX.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/buzon-de-fantasmas-una-carta-de-octavio-paz-a-juan-soriano/12/08/2026/",
-      "published_at": "2026-08-12T19:35:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la correspondencia y la relación entre los dos artistas, sin emplear vocabulario cargado ni citar fuentes con agenda política; el enfoque es cultural y descriptivo.",
-      "focus_analysis": "El medio eligió un ángulo literario‑histórico, centrado en la amistad y la producción artística de Paz y Soriano, dejando de lado cualquier análisis político o económico de la época.",
-      "focus_tags": [
-        "cultura literaria",
-        "amistad artística",
-        "carta histórica"
-      ],
-      "context": [
-        {
-          "label": "Octavio Paz",
-          "text": "Octavio Paz (1914‑1998) fue un poeta, ensayista y diplomático mexicano, ganador del Premio Nobel de Literatura en 1990, cuya obra influyó profundamente en la cultura mexicana del siglo XX."
-        },
-        {
-          "label": "Juan Soriano",
-          "text": "Juan Soriano (1920‑2006) fue uno de los pintores y escultores más destacados de México, conocido por su estilo expresionista y por su participación en círculos artísticos como el Café París."
-        },
-        {
-          "label": "Entorno artístico de la época",
-          "text": "Durante los años 1940‑1960, la escena cultural mexicana se concentró en lugares como el Café París, donde se reunían escritores, pintores y músicos, y en proyectos como el grupo teatral Poesía en Voz Alta, que fomentaron la colaboración entre Paz y Soriano."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "f022cf6ae51a",
-      "title": "Aiper IrriSense 2, análisis: el aspersor inteligente que convence en jardines medianos con una condición importante",
-      "summary": "El analista Alejandro Alcolea de Xataka revisa el Aiper IrriSense 2, un aspersor inteligente de suelo que permite programar zonas de riego desde el móvil, pero advierte que requiere una toma de corriente y agua cercana, lo que puede ser una sorpresa para quienes no lo conocen.",
-      "category": "tecnologia",
-      "source_name": "WWWhatsnew",
-      "source_url": "https://wwwhatsnew.com/2026/08/13/aiper-irrisense-2-analisis-aspersor-inteligente-jardin/",
-      "published_at": "2026-08-13T02:00:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono objetivo, describiendo tanto ventajas como desventajas del producto sin cargar lenguaje político ni favorecer a ninguna marca o posición ideológica.",
-      "focus_analysis": "El artículo se centra en la funcionalidad, instalación y relación calidad‑precio del dispositivo, dejando de lado aspectos como su impacto ambiental o la evolución del mercado de domótica.",
-      "focus_tags": [
-        "smart irrigation",
-        "DIY garden",
-        "product review"
-      ],
-      "context": [
-        {
-          "label": "Mercado de riego inteligente",
-          "text": "En los últimos años ha crecido la oferta de sistemas de riego conectados, que combinan sensores de humedad y control vía apps, orientados a usuarios domésticos que buscan automatizar el mantenimiento de jardines medianos."
-        },
-        {
-          "label": "Comparación de precios",
-          "text": "Los robots cortacésped de gama media suelen costar alrededor de 1 000 €, mientras que el IrriSense 2 se sitúa entre 399 € y 499 €, lo que lo posiciona como una alternativa más accesible dentro del segmento de domótica del jardín."
-        },
-        {
-          "label": "Transparencia del producto",
-          "text": "Es frecuente que los fabricantes oculten en la publicidad la necesidad de cables de alimentación y agua, lo que puede generar sorpresas desagradables para los consumidores al momento de la instalación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "629438fcd660",
-      "title": "“Me da mucha vergüenza”: la brutal autocrítica de Quinteros tras la histórica eliminación de Independiente en la Copa Argentina",
-      "summary": "El entrenador Gustavo Quinteros, de Independiente de Avellaneda, calificó de vergonzoso el 4-0 que sufrió contra Atlético Tucumán en los octavos de final de la Copa Argentina y asumió la responsabilidad del fracaso, al tiempo que aseguró que permanecerá al mando del club.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/13/me-da-mucha-verguenza-la-brutal-autocritica-de-quinteros-tras-la-historica-eliminacion-de-independiente-en-la-copa-argentina/",
-      "published_at": "2026-08-13T02:12:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a reproducir declaraciones del entrenador y datos del partido sin usar vocabulario cargado ni citar fuentes con agenda política, manteniendo un tono descriptivo y neutral.",
-      "focus_analysis": "El medio se centró en la dimensión humana y emocional del discurso del técnico y en la situación institucional del club, dejando de lado un análisis táctico profundo o la reacción de la afición.",
-      "focus_tags": [
-        "autocrítica",
-        "copa argentina",
-        "independiente"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del club",
-          "text": "Independiente, uno de los equipos más laureados del fútbol argentino, lleva varios años sin ganar títulos mayores y ha atravesado una fase de resultados inconsistentes en la liga."
-        },
-        {
-          "label": "Rendimiento del entrenador",
-          "text": "Gustavo Quinteros asumió la dirección técnica de Independiente en 2025 y ha tenido dificultades para reforzar la plantilla, lo que ha limitado la competitividad del equipo."
-        },
-        {
-          "label": "Importancia de la Copa Argentina",
-          "text": "La Copa Argentina es un torneo de eliminación directa que ofrece a los equipos una vía para obtener un título nacional y, en algunos casos, acceso a competiciones internacionales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "6fb09f8a5a5f",
-      "title": "Sismo de magnitud 5.5 sacude El Salvador, Honduras y Nicaragua; autoridades descartan daños",
-      "summary": "Un sismo de magnitud 5.5 sacudió el 12 de agosto a El Salvador, Honduras y Nicaragua, con epicentro frente a la costa de Usulután en El Salvador, y las autoridades de los tres países confirmaron que no hubo víctimas ni daños materiales.",
-      "category": "internacional",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/sismo-de-magnitud-55-sacude-el-salvador-honduras-y-nicaragua-autoridades-descartan-danos/",
-      "published_at": "2026-08-13T02:16:03+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y citaciones fuentes oficiales como el USGS y observatorios locales, sin emplear vocabulario cargado ni presentar opiniones políticas.",
-      "focus_analysis": "El medio se centró en los aspectos científicos del temblor —magnitud, profundidad, ubicación y ausencia de daños— dejando de lado el impacto humano, social o económico del evento.",
-      "focus_tags": [
-        "sismo",
-        "Centroamérica",
-        "geología"
-      ],
-      "context": [
-        {
-          "label": "antecedentes tectónicos",
-          "text": "Centroamérica se encuentra en la zona de convergencia de las placas tectónicas Caribe y Cocos, lo que genera una alta actividad sísmica y frecuentes temblores en la región."
-        },
-        {
-          "label": "evento reciente en Colombia",
-          "text": "Dos días antes del temblor en Centroamérica, un terremoto de magnitud 7.4 en Colombia provocó cientos de muertos y miles de heridos, resaltando la vulnerabilidad sísmica de la zona."
-        },
-        {
-          "label": "cobertura comparada",
-          "text": "Otros medios, como Infobae México, enfocaron la noticia en un sismo de magnitud 5 registrado en Chiapas, México, demostrando una atención distinta a los eventos sísmicos locales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
