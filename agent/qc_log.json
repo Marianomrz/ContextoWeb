@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-13T11:02:22.588111+00:00",
-      "title": "Amazon deja a precio de liquidación el iMac M4 y se queda más barato que antes de la subida de preci",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta la información de forma estructurada y actual, pero la falta de verificación del producto y de fuentes múltiples reduce su fiabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:02:28.701891+00:00",
-      "title": "ONU: las muertes de civiles en Ucrania alcanzaron en julio su nivel más alto desde mayo de 2022",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere añadir cifras concretas y fuentes directas para reforzar la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:20:47.408738+00:00",
-      "title": "El mapa oculto en la taza rota: Lina Meruane y la fragilidad del cuerpo",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "originalidad_creatividad": 6,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 7,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una visión estética y reflexiva, aunque podría profundizar más en la originalidad del lenguaje.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:21:00.022351+00:00",
-      "title": "Grok 4.6 acaba de entrar en el club de los mejores modelos del mundo. Y lo ha hecho compitiendo en p",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo evidente, aunque es actual y está bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:21:07.383898+00:00",
-      "title": "Valeria Marín responde a rumores de crisis matrimonial con Julián Gil tras su salida de TUDN",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, actual y estructurada de manera objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:21:19.831980+00:00",
-      "title": "De la Espriella anuncia medidas de emergencia económica, incluido el \"Fondo Milagro\"",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría beneficiarse de una mayor variedad de fuentes independientes para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:21:32.365763+00:00",
-      "title": "Tienden cerco  a 'Alito';  cae otro colaborador",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de una noticia objetiva y actual, pero podría mejorar la veracidad y el contraste al incluir fuentes directas de los implicados y más evidencias verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:21:39.424645+00:00",
-      "title": "La sorprendente reflexión de Casemiro sobre la vuelta de Messi al Inter Miami tras la muerte de su p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y actualizado, con fuentes variadas, pero la falta de verificación de los hechos principales reduce su confiabilidad general.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:21:44.066923+00:00",
-      "title": "Centro de Textiles del Mundo Maya recibe premio del Museo Británico",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y estructura, aunque la falta de fuentes verificables reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:21:56.540708+00:00",
-      "title": "Derecho de réplica",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los criterios, aunque la falta de fuentes explícitas impide una puntuación perfecta.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T11:22:03.509500+00:00",
-      "title": "XTREM Inno funda para iPhone, análisis: parece una funda normal hasta que descubres lo que puede hac",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la verificación de datos y la variedad de fuentes, pero cumple con la actualidad y la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
       "at": "2026-08-13T11:22:13.491823+00:00",
       "title": "EN VIVO | Clima CDMX y resto de México hoy 13 de agosto: onda tropical causará fuertes lluvias en má",
       "kind": "noticia",
@@ -3392,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es reciente y objetivo, pero contiene algunas inexactitudes sobre la legislación específica, lo que reduce la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:27:43.689912+00:00",
+      "title": "Cuando la lluvia escribe: la poesía de la diáspora africana",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares literarios del portal, ofreciendo una experiencia estética y reflexiva adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:28:00.506884+00:00",
+      "title": "Piden otra certificación: Colombia frena a brigada de rescatistas mexicanos",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero su falta de fuentes contrastantes y de objetividad completa impide que alcance la excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:28:06.205822+00:00",
+      "title": "Gustavo Quinteros dejará de ser el entrenador de Independiente tras la categórica derrota ante Atlét",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de un artículo informativo y objetivo, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:28:17.395450+00:00",
+      "title": "EU contra el \"Made in China\"; afirma que 40 países, incluido México, sirven para reenviar productos ",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con la mayoría de los estándares, aunque la falta de fuentes contrastantes y la ausencia de verificación concreta reducen su puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:28:32.687319+00:00",
+      "title": "Alemania, vulnerable ante la amenaza de los drones",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero contiene errores fácticos y falta de fuentes diversas, lo que compromete su credibilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:28:38.777945+00:00",
+      "title": "Sheinbaum destaca mejora en aduanas pese a caída de 10% en la recaudación",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque la precisión de algunos datos y errores menores reducen ligeramente la puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:28:51.096250+00:00",
+      "title": "El precio de la comodidad, o cómo evitar tener problemas de almacenamiento a largo plazo en iPhone y",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información verificable, fuente adecuada y presentación objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:29:02.314940+00:00",
+      "title": "Buzón de fantasmas: una carta de Octavio Paz a Juan Soriano",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es de alta calidad editorial, cumple con la mayoría de los criterios y solo necesita una mayor diversidad de fuentes para alcanzar la excelencia completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:29:17.658071+00:00",
+      "title": "El indignante recibimiento a los Topos Azteca en Colombia que hizo enfurecer al rescatista Héctor Mé",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes oficiales y el tono sensacional reducen su objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:29:29.946862+00:00",
+      "title": "Aryna Sabalenka fue tapa de una reconocida revista: la muerte de su ex pareja, las redes “terapéutic",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es actual y está bien estructurado, pero la falta de fuentes verificables y de contraste de voces afecta su precisión y profundidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-13T16:29:35.239613+00:00",
+      "title": "América vs Austin FC: Horario y canales para ver EN VIVO la Leagues Cup HOY 13 de agosto",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es preciso y actual, pero muestra un sesgo favorable hacia el Club América que reduce su objetividad.",
       "error": null
     }
   ]
