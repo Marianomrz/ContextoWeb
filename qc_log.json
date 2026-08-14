@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-13T21:57:23.851811+00:00",
-      "title": "Tribunal de EU respalda a Trump en aranceles a paquetes pequeños; avala fin de exención",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta graves errores de factualidad y un sesgo evidente a favor de Trump, aunque está actualizado y estructurado razonablemente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T21:57:28.974128+00:00",
-      "title": "Le ganó dos finales a la selección argentina, fue multicampeón en Europa y anunció su retiro a los 3",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla en veracidad y objetividad, y carece de fuentes diversas, aunque está actualizado y estructurado correctamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T21:57:33.495359+00:00",
-      "title": "Peso mexicano se aprecia frente al dólar tras dato de precios al productor de EU",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y reciente, con sólo pequeñas áreas de mejora en la precisión de los datos y la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:00:46.734913+00:00",
-      "title": "Termina reunión de Sheinbaum con la Sección 22 de la CNTE: Mario Delgado anuncia más plazas para mae",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzar la variedad de fuentes para una cobertura más equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:01:00.430957+00:00",
-      "title": "Batres acusa “animadversión insana” en la Corte; \"todo lo que he escuchado han sido puntos de vista ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste y actualidad, presentando la información de forma clara y objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:01:10.089808+00:00",
-      "title": "Kia conectará a México con red de carga rápida para impulsar el EV3",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero contiene datos no corroborados y falta de equilibrio, lo que afecta su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:01:18.092684+00:00",
-      "title": "Matthew McConaughey revela por qué rechazó ser Joel en ‘The Last of Us’",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de objetividad y actualidad, aunque la falta de fuentes múltiples y de citas verificables reduce ligeramente su puntuación de veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:01:26.900578+00:00",
-      "title": "Japón llama a consultas al embajador ruso tras la visita de Putin a las islas Kuriles, en disputa",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares editoriales, aunque podría reforzar la evidencia directa y la inclusión de la perspectiva rusa para mayor contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:01:36.985704+00:00",
-      "title": "“El arte trata de apresar la evanescencia”. Entrevista a Dorothy Cross",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, objetiva y bien estructurada, aunque podría enriquecer la variedad de fuentes de contexto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:01:40.789066+00:00",
-      "title": "Revelan sanción para Sandber Pimentel de Bravos de León, después de golpe a José Godoy",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzarse la verificación con fuentes o citas específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-13T22:20:40.377185+00:00",
-      "title": "Termina reunión de Sheinbaum con la Sección 22 de la CNTE: Mario Delgado anuncia más plazas para mae",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en actualidad y estructura, pero necesita mayor verificación de datos y fuentes contrastantes para alcanzar mayor rigor periodístico.",
-      "error": null
-    },
-    {
       "at": "2026-08-13T22:20:46.071518+00:00",
       "title": "Sinaloa alcanza crecimiento industrial anual de 10.4%; se coloca en el sexto lugar en México",
       "kind": "noticia",
@@ -3398,6 +3211,187 @@
         "estructura_piramide": 9
       },
       "observacion": "En general el paquete cumple con los estándares informativos, aunque la precisión de algunos datos de jugadores es dudosa y la falta de fuentes múltiples reduce ligeramente la puntuación de contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:08:19.380111+00:00",
+      "title": "Cenizas de estrellas: la ciencia ficción africana de Nnedi Okorafor",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 8,
+        "voz_autor": 9,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto es sólido, bien escrito y cumple con los estándares editoriales para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:08:30.593528+00:00",
+      "title": "Dinastía Lizárraga está de luto por muerte del músico ‘Betón’ Lizárraga, hijo de don Cruz",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial para una noticia de obituario: es preciso, objetivo, actual y bien estructurado, con fuentes razonablemente confiables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:08:48.430362+00:00",
+      "title": "Putin, un dron con explosivos",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero presenta serias deficiencias de veracidad, contraste de fuentes y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:08:55.970945+00:00",
+      "title": "El Rosario Central de Di María empató 0-0 con Corinthians por la ida de los octavos de final de la C",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque la estructura y la actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:09:09.213710+00:00",
+      "title": "Alcalde se contradice: descarta que periodistas formen parte de la ‘red’ que ella misma presentó",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y reciente, aunque el estilo crítico reduce un poco la objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:09:18.396267+00:00",
+      "title": "Federación de Nueva Zelanda retira su apoyo a Infantino",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es puntual y bien estructurado, pero su falta de evidencia verificable y de fuentes múltiples compromete su fiabilidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:09:26.807715+00:00",
+      "title": "Matthew McConaughey revela por qué rechazó ser Joel en ‘The Last of Us’",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es objetivo, pero necesita fuentes más sólidas y verificables para respaldar la afirmación central.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:09:35.218383+00:00",
+      "title": "“El arte trata de apresar la evanescencia”. Entrevista a Dorothy Cross",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada de la entrevista.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:09:44.381318+00:00",
+      "title": "Cruz Azul vs Chicago Fire EN VIVO: la Máquina pierde el partido de la Leagues Cup en los últimos min",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la verificación con fuentes citadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-14T03:09:51.160176+00:00",
+      "title": "Peso, cada vez más fuerte; cerca de los $17 por dólar",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 15 column 4 (char 876)"
+    },
+    {
+      "at": "2026-08-14T03:09:59.050553+00:00",
+      "title": "Cuatro tenistas argentinos salen a la cancha en el Masters 1000 de Cincinnati: hora, rivales y cómo ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, presentando información veraz, actual y estructurada, aunque podría beneficiarse de fuentes adicionales para reforzar el contraste.",
       "error": null
     }
   ]
