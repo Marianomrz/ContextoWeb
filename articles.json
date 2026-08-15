@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-15T10:33:02.238036+00:00",
+  "generated_at": "2026-08-15T10:41:21.911002+00:00",
   "articles": [
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres explora el temor histórico a ser enterrado vivo, analizando cómo Edgar Allan Poe y otros autores como Benito Jerónimo Feijoo y San Juan de la Cruz describieron esta angustia en la literatura y la cultura occidental.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene en un tono descriptivo y académico, sin usar lenguaje cargado ni citar fuentes con una agenda política clara.",
+      "focus_analysis": "Se centra en el análisis literario e histórico del miedo al entierro prematuro, dejando de lado cualquier enfoque contemporáneo o político sobre el tema.",
+      "focus_tags": [
+        "análisis literario",
+        "miedo histórico",
+        "cultura occidental"
+      ],
+      "context": [
+        {
+          "label": "histórico",
+          "text": "En los siglos XVIII y XIX, el temor a ser enterrado vivo era frecuente en Occidente, motivando prácticas como la espera de varios días antes de la sepultura, como describió el erudito español Benito Jerónimo Feijoo."
+        },
+        {
+          "label": "literario",
+          "text": "Edgar Allan Poe popularizó el tema en su cuento “El entierro prematuro”, donde describió la experiencia como la más terrorífica y angustiante posible."
+        },
+        {
+          "label": "cultural",
+          "text": "Letras Libres, una revista mexicana de cultura, suele vincular obras clásicas a reflexiones sobre la condición humana, situando el miedo al entierro dentro de una tradición literaria que incluye a San Juan de la Cruz y a autores latinoamericanos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "e07b9278a559",
+      "title": "Activan fase de emergencia ante el riesgo sísmico tras el terremoto de magnitud 5 en Alhendín, España",
+      "summary": "El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, activó la fase de emergencia operativa 1 del Plan de Emergencia de Andalucía después del terremoto de magnitud 5 que sacudió Alhendín, y recomendó a la población evitar desplazarse innecesariamente y mantenerse alejada de estructuras vulnerables. El sismo provocó más de 80 llamadas al 112 pero no se registraron víctimas ni daños graves.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/activan-fase-emergencia-riesgo-sismico-terremoto-magnitud-5-alhendin-espana-20260814-828423.html",
+      "published_at": "2026-08-15T03:47:24+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutro, se basa exclusivamente en declaraciones oficiales y no incluye opiniones ni carga política, manteniendo un encuadre informativo y objetivo.",
+      "focus_analysis": "El artículo se centra en la respuesta institucional y las medidas de seguridad adoptadas por la Junta de Andalucía, dejando de lado el relato humano de los afectados y los detalles de los daños materiales.",
+      "focus_tags": [
+        "emergencia sísmica",
+        "autoridades andaluzas",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "Precedente sísmico",
+          "text": "Horas antes del sismo de magnitud 5 en Alhendín, se registró un temblor de magnitud 3.7 en La Zubia, lo que indica una actividad sísmica reciente en la zona de Granada."
+        },
+        {
+          "label": "Marco institucional",
+          "text": "La Junta de Andalucía cuenta con un Plan de Emergencia que contempla diferentes fases operativas; la fase 1, activada por Antonio Sanz, permite la coordinación de los servicios de emergencias y la emisión de recomendaciones a la ciudadanía."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios como DW Español y El País América destacaron la ausencia de víctimas y los temores de los residentes, mientras que El Sol de México informó sobre la narración en vivo de un streamer, mostrando enfoques más humanos y de entretenimiento."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e7d0f9d4675d",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos bloquea el paso a Ceuta de cientos de migrantes subsaharianos",
+      "summary": "El gobierno de Marrueco impidió el paso de cientos de migrantes subsaharianos a la ciudad española de Ceuta, mientras que la Policía, la Guardia Civil y los militares reforzaron la zona del paso de El Tarajal.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-15/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-15T10:24:11+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea un tono que enfatiza la situación de los migrantes y la respuesta humanitaria, evitando un lenguaje alarmista o de seguridad exagerada, lo que indica una ligera inclinación hacia la perspectiva de la izquierda.",
+      "focus_analysis": "El medio se centra en la gestión fronteriza y la presencia policial, resaltando la situación de los migrantes; deja de lado el análisis del impacto económico o el debate político interno en España y Marrueco.",
+      "focus_tags": [
+        "migración",
+        "frontera",
+        "seguridad"
+      ],
+      "context": [
+        {
+          "label": "situación migratoria en Ceuta",
+          "text": "Ceuta, enclave español en el norte de África, ha sido históricamente punto de entrada para migrantes que intentan llegar a Europa, con episodios de llegadas masivas que generan tensiones diplomáticas con Marrueco."
+        },
+        {
+          "label": "política de migración de la UE",
+          "text": "La Unión Europea ha presionado a Marrueco para que refuerce la seguridad en sus fronteras y ha financiado iniciativas de control migratorio en Ceuta y Melilla."
+        },
+        {
+          "label": "reacción de organizaciones humanitarias",
+          "text": "Diversas ONG han denunciado la situación de los migrantes atrapados en la frontera, exigiendo que se les garantice acceso a asistencia y que se respeten sus derechos humanos."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "a777867c09d9",
+      "title": "España vive una brutal escalada de precios de la vivienda. En el interior de Ourense tienes palacios por 40.000 euros",
+      "summary": "España experimenta una fuerte subida de los precios de la vivienda a nivel nacional, mientras que en municipios rurales de la provincia de Ourense los precios son extremadamente bajos, con casas de 100 m² que cuestan alrededor de 45 000 euros, lo que permite comprar una vivienda completa con el ahorro medio necesario para una entrada en ciudades como Madrid o Barcelona.",
+      "category": "economia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/magnet/pueblos-gallegos-estan-vendiendo-sus-casas-a-precio-saldo-mejor-oportunidad-para-mudarse",
+      "published_at": "2026-08-15T10:30:38+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se basa en datos de Idealista, INE y otros informes oficiales, utiliza un tono descriptivo y evita lenguaje cargado o juicios de valor, manteniéndose neutral respecto a la cuestión política.",
+      "focus_analysis": "El artículo se centra en el ángulo económico del mercado inmobiliario, comparando precios entre zonas rurales y urbanas y señalando la presión compradora y la brecha de precios; deja de lado un análisis profundo de las consecuencias sociales de la despoblación o de la política habitacional.",
+      "focus_tags": [
+        "precios vivienda",
+        "rural Spain",
+        "despoblación"
+      ],
+      "context": [
+        {
+          "label": "Precio medio nacional",
+          "text": "Según Idealista, el precio medio de la vivienda usada en España alcanzó en junio de 2026 los 2 823 €/m², con Madrid alrededor de 6 013 €/m² y Barcelona entre 5 150 y 5 400 €/m²."
+        },
+        {
+          "label": "Demografía de Galicia",
+          "text": "Ourense es la provincia con mayor porcentaje de mayores de 65 años en España, lo que reduce la demanda de primera vivienda y contribuye a que los precios en sus municipios pequeños se mantengan muy bajos."
+        },
+        {
+          "label": "Política de vivienda",
+          "text": "El Plan de Vivenda 2025‑2028 y el Plan Estatal de Vivienda 2026‑2030 destinan fondos a la rehabilitación y compra de viviendas en municipios de menos de 10 000 habitantes, aunque partidos como el BNG y el PSdeG consideran insuficientes esas medidas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "435f1e4d3686",
+      "title": "Boca Juniors visita a Platense en Vicente López por la quinta fecha del Torneo Clausura: hora, TV y formaciones",
+      "summary": "El club argentino Boca Juniors se enfrentará a Platense en Vicente López en la quinta fecha del Torneo Clausura, con el partido transmitido por TNT Sports y se detallan los horarios, alineaciones probables y una posible transferencia del mediocampista chileno Williams Alarcón a Atlanta United.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/15/boca-juniors-visita-a-platense-en-vicente-lopez-por-la-quinta-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
+      "published_at": "2026-08-15T10:30:38+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin adjetivos cargados ni selección de fuentes que favorezcan a un equipo sobre el otro.",
+      "focus_analysis": "El artículo se centra en la información institucional del partido (fecha, hora, TV, alineaciones y rumor de transferencia), dejando de lado el impacto en los aficionados o la narración de la rivalidad histórica entre ambos equipos.",
+      "focus_tags": [
+        "fútbol argentino",
+        "Torneo Clausura",
+        "preview de partido"
+      ],
+      "context": [
+        {
+          "label": "Objetivo de Boca Juniors",
+          "text": "Boca Juniors mantiene su mirada en la Copa Libertadores mientras busca sumar puntos en la liga local para consolidarse en la zona de clasificación."
+        },
+        {
+          "label": "Forma reciente de Platense",
+          "text": "Platense atraviesa una de sus mejores etapas en el Torneo Clausura, habiendo obtenido resultados positivos en sus últimos encuentros."
+        },
+        {
+          "label": "Rumor de transferencia",
+          "text": "El mediocampista chileno Williams Alarcón ha sido excluido de la lista de concentrados, lo que ha sido interpretado como un indicio de negociaciones avanzadas para un préstamo a Atlanta United de la MLS."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "9397708c9ef0",
+      "title": "La Leagues Cup volvió a ser dominada por la MLS en la primera fase",
+      "summary": "En la fase inicial de la cuarta edición de la Leagues Cup, los equipos de la Major League Soccer (MLS) siguieron predominando sobre los de la Liga MX, con 27 victorias frente a 19 de los clubes mexicanos, lo que ha generado críticas sobre la equidad del formato del torneo.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/la-leagues-cup-volvio-a-ser-dominada-por-la-mls-en-la-primera-fase/",
+      "published_at": "2026-08-15T10:32:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir resultados y señalar cuestionamientos sobre la ventaja percibida de la MLS, sin emplear un lenguaje cargado ni favorecer a ninguna de las partes, manteniendo un tono informativo.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y de competitividad del torneo, resaltando la estructura y la supuesta desigualdad de oportunidades, mientras deja de lado historias personales de jugadores o impactos sociales más amplios.",
+      "focus_tags": [
+        "dominancia MLS",
+        "competencia Leagues Cup",
+        "desempeño Liga MX"
+      ],
+      "context": [
+        {
+          "label": "Historial de la Leagues Cup",
+          "text": "Desde su creación en 2023, la Leagues Cup ha sido dominada por equipos de la MLS, que han ganado las ediciones anteriores y han mantenido una ventaja numérica en victorias frente a los clubes de la Liga MX."
+        },
+        {
+          "label": "Críticas a la localía",
+          "text": "Se ha señalado que la organización del torneo favorece a los equipos estadounidenses al ubicar la mayoría de los partidos en territorio de la MLS, lo que genera percepciones de injusticia entre los clubes y aficionados mexicanos."
+        },
+        {
+          "label": "Comparación de fortalezas",
+          "text": "En los últimos años, la MLS ha incrementado su inversión y nivel competitivo, mientras que la Liga MX, pese a su tradición, ha enfrentado desafíos para igualar la profundidad de plantillas y recursos financieros de sus homólogos norteamericanos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "6474de5e6fac",
       "title": "Precios de la gasolina hoy en Jalisco: Litro de Magna, Premium y Diésel este viernes 14 de agosto",
@@ -838,216 +1048,6 @@
         }
       ],
       "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "7d8e94e48d45",
-      "title": "Portada impresa del 15 de agosto de 2026",
-      "summary": "El Universal lanzó su portada impresa del 15 de agosto de 2026, accesible únicamente para sus suscriptores.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/portada-impresa/portada-impresa-del-15-de-agosto-de-2026/",
-      "published_at": "2026-08-15T09:44:25+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es meramente informativo y no contiene lenguaje cargado, fuentes ni encuadre político.",
-      "focus_analysis": "El medio se centra en la difusión institucional de su edición impresa y la oferta a sus lectores, sin abordar aspectos políticos, económicos o humanos.",
-      "focus_tags": [
-        "portada impresa",
-        "suscripción",
-        "medios"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del medio",
-          "text": "El Universal es uno de los periódicos más antiguos y de mayor circulación en México, con una trayectoria que incluye tanto versiones impresas como digitales."
-        },
-        {
-          "label": "Tendencias de la prensa impresa",
-          "text": "A nivel global, la prensa impresa ha experimentado una disminución en sus lectores, lo que ha llevado a muchos diarios a reforzar suscripciones y contenido exclusivo."
-        },
-        {
-          "label": "Modelo de suscripción",
-          "text": "Los periódicos como El Universal utilizan la suscripción como estrategia para generar ingresos, ofreciendo contenidos y ediciones especiales solo a sus suscriptores."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "281fe0e7eb0e",
-      "title": "Estudiantes recibe a Gimnasia en una nueva edición del clásico de La Plata por el Torneo Clausura: hora, TV y formaciones",
-      "summary": "El clásico de La Plata entre Estudiantes de La Plata y Club de Gimnasia y Esgrima La Plata se jugará el 15 de agosto de 2026 a las 16:45 (hora local) en el Estadio Juan C. López, con transmisión por ESPN Premium y con los once iniciales de ambos equipos ya publicados.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/15/estudiantes-recibe-a-gimnasia-en-una-nueva-edicion-del-clasico-de-la-plata-por-el-torneo-clausura-hora-tv-y-formaciones/",
-      "published_at": "2026-08-15T09:30:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a ofrecer información factual sobre la fecha, hora, canal y alineaciones del partido, sin usar lenguaje cargado ni incluir opiniones o fuentes que favorezcan a un club sobre el otro.",
-      "focus_analysis": "El medio se centró en los aspectos logísticos y técnicos del encuentro (horario, difusión y plantillas), dejando de lado la dimensión histórica del clásico y el impacto del resultado en la tabla del torneo.",
-      "focus_tags": [
-        "clásico de La Plata",
-        "torneo clausura",
-        "alineaciones"
-      ],
-      "context": [
-        {
-          "label": "Rivalidad histórica",
-          "text": "El enfrentamiento entre Estudiantes y Gimnasia, conocido como el clásico de La Plata, es uno de los derbis más tradicionales del fútbol argentino, con décadas de partidos que han marcado la identidad deportiva de la ciudad."
-        },
-        {
-          "label": "Situación en la liga",
-          "text": "En el Torneo Clausura, Estudiantes persigue un puesto que le permita clasificar a la Copa Libertadores, mientras que Gimnasia busca consolidarse en la zona B para aspirar a los playoffs de la liga."
-        },
-        {
-          "label": "Cobertura televisiva",
-          "text": "ESPN Premium es el canal de suscripción que transmite los partidos más relevantes del fútbol argentino, ofreciendo cobertura en vivo y análisis de expertos para la audiencia nacional e internacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "e07b9278a559",
-      "title": "Activan fase de emergencia ante el riesgo sísmico tras el terremoto de magnitud 5 en Alhendín, España",
-      "summary": "El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, declaró fase de emergencia operativa 1 tras el sismo de magnitud 5 que sacudió Alhendín, Granada, recomendando a la población evitar desplazamientos innecesarios.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/activan-fase-emergencia-riesgo-sismico-terremoto-magnitud-5-alhendin-espana-20260814-828423.html",
-      "published_at": "2026-08-15T03:47:24+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos y las recomendaciones oficiales, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "Se centra en la activación institucional del plan de emergencias y las recomendaciones de seguridad, omitiendo el relato de la experiencia de la población y el impacto emocional.",
-      "focus_tags": [
-        "seguridad pública",
-        "plan de emergencia",
-        "sismo"
-      ],
-      "context": [
-        {
-          "label": "antecedentes sísmicos",
-          "text": "Siete horas antes del temblor de magnitud 5 en Alhendín, se registró en La Zubia, Granada, un sismo de magnitud 3.7, lo que incrementó la preocupación por la actividad sísmica en la región."
-        },
-        {
-          "label": "marco institucional",
-          "text": "La Junta de Andalucía cuenta con un Plan de Emergencia ante riesgos sísmicos que contempla distintas fases operativas; la fase 1 se activó tras el sismo de Alhendín, habilitando la coordinación de los servicios de emergencias y la emisión de recomendaciones a la ciudadanía."
-        },
-        {
-          "label": "perspectiva de otros medios",
-          "text": "Otros medios, como DW Español y El País América, señalaron que el terremoto no provocó víctimas y solo causó daños materiales, resaltando el temor de la población y la ausencia de heridos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "eec4b3b40e33",
-      "title": "Clara Brugada destaca la disminución de homicidios dolosos  en la alcaldía Cuajimalpa",
-      "summary": "Clara Brugada, jefa de Gobierno de la Ciudad de México, anunció que los homicidios dolosos en la alcaldía Cuajimalpa se redujeron un 40%, acompañados de disminuciones en otros delitos de alto impacto y una mayor presencia de videovigilancia.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/15/clara-brugada-destaca-la-disminucion-de-homicidios-dolosos-en-la-alcaldia-cuajimalpa/",
-      "published_at": "2026-08-15T09:02:20+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto reproduce exclusivamente declaraciones oficiales con tono elogioso y omite voces críticas o datos contrapuestos, lo que favorece una visión favorable del gobierno de izquierda.",
-      "focus_analysis": "El artículo se centra en el ángulo institucional y de seguridad pública, resaltando cifras y coordinación entre autoridades, mientras deja de lado la perspectiva de la comunidad y los factores estructurales de la violencia.",
-      "focus_tags": [
-        "seguridad pública",
-        "reducción de homicidios",
-        "coordinación institucional"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Clara Brugada es la jefa de Gobierno de la Ciudad de México, electa en 2024 bajo la coalición encabezada por el partido Morena, y ha puesto énfasis en políticas de seguridad como prioridad de su administración."
-        },
-        {
-          "label": "dato comparable",
-          "text": "Los informes de la Fiscalía General de Justicia indican que la tasa de homicidios dolosos en la Ciudad de México había descendido aproximadamente un 30% entre 2022 y 2024, aunque la reducción varía significativamente entre alcaldías."
-        },
-        {
-          "label": "postura externa",
-          "text": "En otras publicaciones, como El Informador, Brugada fue mencionada en un contexto político al respaldar a un funcionario en un caso de retiro de visa, lo que evidencia que su figura también está vinculada a controversias más allá de la seguridad."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "e7d0f9d4675d",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos dice que ha frustrado un nuevo intento de alcanzar Ceuta de cientos de migrantes",
-      "summary": "Las fuerzas de seguridad de Marruecos anunciaron que han frustrado un nuevo intento de cientos de migrantes de cruzar irregularmente la frontera con la ciudad española de Ceuta, mientras que en el lado español la situación se mantiene tranquila.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-15/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-15T09:33:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y neutral, citando únicamente a fuentes oficiales marroquíes y la agencia Efe, sin usar vocabulario cargado ni favorecer a ninguna parte.",
-      "focus_analysis": "El artículo se centra en la dimensión de seguridad y la respuesta institucional de ambos países, dejando de lado la perspectiva humanitaria de los migrantes y el impacto social de la crisis.",
-      "focus_tags": [
-        "seguridad fronteriza",
-        "migración irregular",
-        "Ceuta-Marruecos"
-      ],
-      "context": [
-        {
-          "label": "Antecedente reciente",
-          "text": "A finales de julio de 2026, más de 70.000 migrantes lograron entrar en Ceuta desde Marruecos, saturando los recursos locales y generando una situación de emergencia humanitaria."
-        },
-        {
-          "label": "Cooperación bilateral",
-          "text": "España, como Estado miembro de la UE, mantiene acuerdos de cooperación con Marruecos para reforzar la vigilancia fronteriza y gestionar los flujos migratorios irregulares."
-        },
-        {
-          "label": "Reacciones de ONG",
-          "text": "Organizaciones internacionales de derechos humanos han denunciado los empujones y la falta de asistencia adecuada a los migrantes en la frontera entre Ceuta y Marruecos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "84eadc64d4c7",
-      "title": "Sismo de 7.7 sacude costa de Indonesia",
-      "summary": "Un terremoto de magnitud 7.7 sacudió la costa de Indonesia, cerca de la isla de Flores, según informó el Servicio Geológico de Estados Unidos (USGS), que provocó evacuaciones en la zona.",
-      "category": "internacional",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/sismo-de-77-sacude-costa-de-indonesia/",
-      "published_at": "2026-08-15T09:36:07+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos geográficos y operativos con un lenguaje neutro, sin usar vocabulario cargado ni citar fuentes políticas o partisanas.",
-      "focus_analysis": "El medio se centró en la descripción del sismo y la orden de evacuaciones, dejando fuera información sobre víctimas mortales, heridos y la alerta de tsunami que otros medios destacaron.",
-      "focus_tags": [
-        "sismo",
-        "Indonesia",
-        "evacuación"
-      ],
-      "context": [
-        {
-          "label": "antecedentes sísmicos",
-          "text": "Indonesia forma parte del Anillo de Fuego del Pacífico, una zona de alta actividad tectónica donde con terremotos de gran magnitud son comunes."
-        },
-        {
-          "label": "fuente USGS",
-          "text": "El Servicio Geológico de Estados Unidos (USGS) es una autoridad internacional que proporciona datos y magnitud y profundidad de los sismos, y fue la fuente principal citada por el medio."
-        },
-        {
-          "label": "cobertura comparada",
-          "text": "Otros medios como La Jornada y Expansión informaron que el terremoto dejó al menos 20 muertos, causó heridos y activó una alerta de tsunami, datos que el artículo de El Universal no menciona."
-        }
-      ],
-      "confidence": "media",
       "qc": {
         "overall": 9.0
       }
