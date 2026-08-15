@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-15T07:21:19.721300+00:00",
+  "generated_at": "2026-08-15T07:37:46.995944+00:00",
   "articles": [
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El ensayo de David Toscana publicado en Letras Libres explora, a través de referencias literarias e históricas, el temor occidental a ser enterrado vivo, analizando ejemplos desde Poe hasta el tratado de Feijoo y su impacto cultural.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la descripción literaria e histórica sin usar un cargada ni citar fuentes con sesgo político; el tono es neutral y académico.",
+      "focus_analysis": "El medio eligió un ángulo literario‑cultural, resaltando la tradición del miedo al entierro prematuro y su representación en la literatura, dejando de lado cualquier enfoque político o social contemporáneo.",
+      "focus_tags": [
+        "literatura",
+        "historia cultural",
+        "temor a la muerte"
+      ],
+      "context": [
+        {
+          "label": "Miedo histórico al entierro prematuro",
+          "text": "Durante varios siglos en Occidente existió el temor de ser enterrado vivo, lo que llevó a la creación de dispositivos de seguridad en los ataúdes y a la aparición de relatos de terror que reflejaban esa ansiedad."
+        },
+        {
+          "label": "Influencia de Edgar Allan Poe",
+          "text": "Poe, con su cuento \"El entierro prematuro\", consolidó el tema como un motivo recurrente en la literatura gótica, describiendo la angustia física y mental de estar atrapado bajo tierra."
+        },
+        {
+          "label": "Tratado de Benito Jerónimo Feijoo",
+          "text": "En el siglo XVIII, el erudito español Feijoo abordó el tema en sus cartas, señalando la necesidad de esperar varios días antes de enterrar a los fallecidos para evitar casos de entierro vivo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "e07b9278a559",
+      "title": "Activan fase de emergencia ante el riesgo sísmico tras el terremoto de magnitud 5 en Alhendín, España",
+      "summary": "El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, declaró fase de emergencia operativa 1 tras el terremoto de magnitud 5 que tuvo epicentro en Alhendín, Granada, y recomendó precauciones para la población.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/activan-fase-emergencia-riesgo-sismico-terremoto-magnitud-5-alhendin-espana-20260814-828423.html",
+      "published_at": "2026-08-15T03:47:24+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un lenguaje neutro y se basa exclusivamente en declaraciones oficiales, sin incluir opiniones ni carga emotiva; la cobertura es informativa y no muestra favorecimiento político.",
+      "focus_analysis": "El artículo se centra en la respuesta institucional y las recomendaciones de seguridad, dejando de lado los detalles sobre los daños materiales y la ausencia de víctimas.",
+      "focus_tags": [
+        "emergencia",
+        "sismo",
+        "Andalucía"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes sísmicos en la zona",
+          "text": "Ese mismo día se registró un sismo de magnitud 3.7 en La Zubia, lo que muestra una actividad sísmica creciente en la provincia de Granada."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "La Junta de Andalucía cuenta con un Plan de Emergencia sísmico y, bajo la autoridad del consejero Antonio Sanz, activó la fase operativa 1 para coordinar recursos y alertar a la ciudadanía."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Medios como DW Español y El País América señalaron que el terremoto no provocó víctimas ni heridos, aunque generó llamadas al 112 y algunos daños materiales, información que complementa la versión de El Economista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e4c0b4156f44",
+      "title": "Cómo será la cancha que se utilizará en Neuquén para enfrentar a Turquía por la Copa Davis: las razones y los detalles de construcción",
+      "summary": "El Estadio Ruca Che de Neuquén será el escenario de los play‑offs de la Copa Davis entre Argentina y Turquía, donde se instalará una pista de superficie dura de pintura acrílica construida por la empresa española GreenSet bajo la supervisión del gerente deportivo de la AAT, Eddie Fiumara.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/15/como-sera-la-cancha-que-se-utilizara-en-neuquen-para-enfrentar-a-turquia-por-la-copa-davis-las-razones-y-los-detalles-de-construccion/",
+      "published_at": "2026-08-15T04:29:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir datos técnicos y logísticos sin usar vocabulario cargado ni presentar opiniones, manteniendo un tono objetivo y descriptivo.",
+      "focus_analysis": "El medio eló en el detalle de la construcción y los criterios de selección de la superficie, dejando de lado el aspecto competitivo y la expectativa de resultados del encuentro.",
+      "focus_tags": [
+        "canchas de tenis",
+        "copa Davis",
+        "construcción deportiva"
+      ],
+      "context": [
+        {
+          "label": "Historial de partidos en casa",
+          "text": "Argentina había jugado previamente en la Copa Davis en territorio nacional en Mar del Plata 2008, Tecnópolis 2015 y Aldo Cantoni en San Juan 2018, usando principalmente superficies de polvo de ladrillo o rápidas."
+        },
+        {
+          "label": "Empresa constructora",
+          "text": "GreenSet, fundada por el ex tenista Javier Sánchez Vicario y adquirida en 2023 por el fondo europeo BD‑Capital, es la encargada de suministrar los materiales y la tecnología para la pista de Neuquén."
+        },
+        {
+          "label": "Decisión de la superficie",
+          "text": "El capitán Javier Frana y los jugadores prefirieron una superficie dura similar a la de los torneos asiáticos y de eventos como el Australian Open, para evitar la readaptación a polvo de ladrillo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "8385dc84a7c0",
+      "title": "Las mejores series españolas de intriga en Netflix (Agosto 2026)",
+      "summary": "El portal Hipertextual ofrece una selección de once series españolas de intriga disponibles en Netflix, describiendo sus tramas, ambientaciones rurales y formato de una o dos temporadas.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/las-mejores-series-espanolas-de-intriga-en-netflix/",
+      "published_at": "2026-08-15T07:03:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir las series sin emplear un cargado ni citar fuentes externas, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centra en la oferta cultural y narrativa de la producción española de thriller en la plataforma, omitiendo datos de audiencia, análisis económicos o críticas profesionales.",
+      "focus_tags": [
+        "series españolas",
+        "thriller",
+        "Netflix"
+      ],
+      "context": [
+        {
+          "label": "context",
+          "text": "Netflix ha incrementado su inversión en contenido español en los últimos años, lanzando varias series originales y adquiriendo derechos de producciones locales."
+        },
+        {
+          "label": "context",
+          "text": "El género de intriga y thriller ha ganado popularidad en la televisión española, con autores como Javier Castillo alcanzando bestseller y sus obras adaptadas a la pantalla."
+        },
+        {
+          "label": "context",
+          "text": "Las series de una o dos temporadas son habituales en plataformas de streaming, favoreciendo el consumo binge‑watch y la renovación rápida de catálogos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "50457dff43f1",
+      "title": "\"Realidad en movimiento\"",
+      "summary": "Ángel Gilberto Adame reseña en El Universal la obra 'Realidad en movimiento' de Maarten van Delden, un estudio que analiza críticamente la obra y la vida del poeta mexicano Octavio Paz, abordando sus vínculos políticos y su relación con Estados Unidos y el feminismo.",
+      "category": "literatura",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/opinion/angel-gilberto-adame/realidad-en-movimiento/",
+      "published_at": "2026-08-15T07:14:24+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono académico y descriptivo, sin vocabulario cargado ni fuentes partidistas, enfocándose en la valoración literaria más que en argumentos políticos.",
+      "focus_analysis": "El medio opta por un ángulo literario‑histórico, profundizando en la complejidad intelectual de Octavio Paz, mientras omite aspectos de su vida personal y la recepción comercial del libro.",
+      "focus_tags": [
+        "literatura",
+        "análisis crítico",
+        "historia cultural"
+      ],
+      "context": [
+        {
+          "label": "Octavio Paz",
+          "text": "Octavio Paz (1914‑1998) fue un poeta, ensayista y diplomático mexicano, ganador del Premio Nobel de Literatura en 1990, cuya obra combina una profunda reflexión filosófica con un compromiso político complejo."
+        },
+        {
+          "label": "Libro original",
+          "text": "El estudio 'Realidad en movimiento' fue publicado por primera vez en los Estados Unidos en 2021, donde Maarten van Delden ofreció una lectura crítica de la obra y la vida de Paz, enfocándose en sus tensiones ideológicas."
+        },
+        {
+          "label": "Traducción y editorial",
+          "text": "La traducción al español, realizada por el propio autor, fue editada por la casa Grano de Sal, que destacó la precisión documental y la claridad de los argumentos para lectores hispanohablantes."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "054e28e0b633",
+      "title": "Chispazo hoy 14 de agosto: todos los resultados ganadores del último sorteo de la Lotería Nacional",
+      "summary": "La Lotería Nacional de México, a través de Pronósticos para la Asistencia Pública, dio a conocer los números ganadores del sorteo Chispazo del 14 de agosto y explicó los requisitos y plazos para cobrar los premios.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/15/chispazo-hoy-14-de-agosto-todos-los-resultados-ganadores-del-ultimo-sorteo-de-la-loteria-nacional/",
+      "published_at": "2026-08-15T07:31:02+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar los resultados y los pasos para reclamar, usando un tono informativo y sin lenguaje emotivo ni fuentes con inclinación política.",
+      "focus_analysis": "El artículo se enfocó en la información práctica de los números ganadores y los trámites de cobro, omitiendo cualquier discusión sobre el impacto social del juego o los riesgos asociados.",
+      "focus_tags": [
+        "lotería",
+        "resultados",
+        "tramites"
+      ],
+      "context": [
+        {
+          "label": "Regulación",
+          "text": "El juego Chispazo está regulado por la Ley del Impuesto sobre la Renta, artículo 163, y sus ingresos se destinan a la Asistencia Pública mediante la Tesorería de la Federación."
+        },
+        {
+          "label": "Procedimiento de cobro",
+          "text": "Para retirar un premio, el ganador debe presentar el boleto original, identificación oficial, CURP, RFC y comprobante de domicilio dentro de los 60 días naturales posteriores al sorteo."
+        },
+        {
+          "label": "Ámbito de los sorteos",
+          "text": "Chispazo realiza dos sorteos diarios, el de la mañana y el de la noche, y forma parte de los juegos de azar más populares en México, gestionados por Pronósticos para la Asistencia Pública."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
     {
       "id": "fd11bd5a72c5",
       "title": "Cynthia Klitbo llora al ver una foto de su hija en La Casa de los Famosos 2026: “El milagro más grande de mi vida”",
@@ -840,213 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.2
-      }
-    },
-    {
-      "id": "79627ab82bfd",
-      "title": "José María Micó obtiene el Premio Alfonso Reyes 2026",
-      "summary": "El poeta y filólogo barcelonés José María Micó fue anunciado como ganador del Premio Internacional Alfonso Reyes 2026 por la Secretaría de Cultura y el INBAL, destacándose por su labor en investigación, ensayo, traducción y creación.",
-      "category": "literatura",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/jose-maria-mico-obtiene-el-premio-alfonso-reyes-2026/",
-      "published_at": "2026-08-15T06:47:45+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono elogioso y enfatiza la importancia del galardón sin presentar críticas ni perspectivas políticas, lo que indica una ligera inclinación positiva pero esencialmente centrada.",
-      "focus_analysis": "El medio se enfocó en el prestigio cultural y la trayectoria literaria del galardonado, dejando de lado cualquier análisis de política cultural o impacto social del premio.",
-      "focus_tags": [
-        "cultura literaria",
-        "premio internacional",
-        "filología"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del premio",
-          "text": "El Premio Internacional Alfonso Reyes, creado en honor al escritor mexicano Alfonso Reyes, reconoce a escritores y humanistas de renombre mundial; entre sus galardonados anteriores se encuentran Jorge Luis Borges, Octavio Paz y George Steiner."
-        },
-        {
-          "label": "Trayectoria de José María Micó",
-          "text": "José María Micó, poeta, filólogo y traductor barcelonés, ha publicado obras como 'Primeras voluntades' y ha escrito estudios sobre Góngora y Dante, además de traducir autores de distintas épocas."
-        },
-        {
-          "label": "Instituciones y cobertura",
-          "text": "El anuncio fue emitido por la Secretaría de Cultura y el Instituto Nacional de Bellas Artes y Literatura (INBAL); medios como Aristegui Noticias subrayaron su especialización en autores del Siglo de Oro, la Edad Media y el Renacimiento."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "0d2b02c7e256",
-      "title": "Tras inspección a delfinario en Cancún, Profepa descarta trasladar a 9 animales; padecen graves enfermedades",
-      "summary": "La Procuraduría Federal de Protección al Ambiente (Profepa) determinó que no trasladará a los nueve delfines del delfinario Dolphin Connection Cancún porque su avanzada edad y graves enfermedades los ponen en riesgo, y centró sus esfuerzos en mejorar las condiciones del recinto clausurado.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/tras-inspeccion-a-delfinario-en-cancun-profepa-descarta-trasladar-a-9-animales-padecen-graves-enfermedades/",
-      "published_at": "2026-08-15T05:45:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono informativo y cita exclusivamente a la autoridad y a la organización Veeleaf, sin lenguaje cargado ni opiniones, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se enfocó en la perspectiva institucional y de bienestar animal, describiendo las decisiones de la Profepa y el estado de salud de los delfines; omite el impacto económico o turístico del cierre del parque.",
-      "focus_tags": [
-        "bienestar animal",
-        "regulación ambiental",
-        "cierre de parque"
-      ],
-      "context": [
-        {
-          "label": "historial de inspecciones",
-          "text": "Profepa realizó varias inspecciones al delfinario entre 2024 y 2025, lo que culminó en su clausura en octubre de 2025."
-        },
-        {
-          "label": "condiciones de salud de los delfines",
-          "text": "Los nueve delfines de la especie Tursiops aduncus presentan problemas graves como inflamación corneal, lesiones dentales, ulceraciones linguales y, en un caso, carcinoma que afecta gran parte de la lengua."
-        },
-        {
-          "label": "postura de organizaciones de derechos animales",
-          "text": "La agrupación Veeleaf denunció la calidad del agua y la cloración del recinto, cuestionando el manejo del entorno y el bienestar de los animales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "49c23f977f45",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy 15 de agosto",
-      "summary": "El pronóstico del tiempo publicado por Infobae México para el 15 de agosto de 2026 indica lluvias muy fuertes en Oaxaca y intensas en varios estados del centro y occidente, con riesgos de descargas eléctricas y vientos de hasta 60 km/h.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/15/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-15-de-agosto/",
-      "published_at": "2026-08-15T06:15:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir datos meteorológicos sin usar lenguaje cargado ni citar fuentes con sesgo, manteniendo un tono factual y objetivo.",
-      "focus_analysis": "El medio se centra en el ángulo meteorológico, detallando precipitaciones, intensidades y zonas afectadas, mientras omite el impacto humano o económico de los eventos climáticos.",
-      "focus_tags": [
-        "clima",
-        "precipitación",
-        "monzón"
-      ],
-      "context": [
-        {
-          "label": "Patrón estacional",
-          "text": "Durante los meses de junio a septiembre México experimenta la temporada de monzón, que genera lluvias intensas principalmente en el sur y occidente del país."
-        },
-        {
-          "label": "Eventos recientes",
-          "text": "En 2025, el estado de Oaxaca sufrió inundaciones graves tras lluvias intensas, lo que motivó la emisión de alertas tempranas por parte de autoridades locales."
-        },
-        {
-          "label": "Instituciones meteorológicas",
-          "text": "El Servicio Meteorológico Nacional de México emite pronósticos y alertas de clima severo, coordinándose con la Conagua para informar a la población."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres explora el temor histórico a ser enterrado vivo, analizando cómo autores como Edgar Allan Poe y el erudito español Benito Jerónimo Feijoo describieron esta horrorosa posibilidad en la literatura y la reflexión cultural.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en un análisis literario e histórico sin usar lenguaje cargado ni presentar una agenda política, manteniéndose neutral en su enfoque.",
-      "focus_analysis": "El medio elige un ángulo cultural y literario, resaltando la representación del miedo a la sepultura prematura en la literatura occidental; deja de lado aspectos médicos o sociales contemporáneos del tema.",
-      "focus_tags": [
-        "literatura",
-        "historia",
-        "miedo"
-      ],
-      "context": [
-        {
-          "label": "práctica histórica",
-          "text": "En el siglo XIX, la falta de métodos forenses fiables provocó que en Europa se temiera la sepultura prematura, lo que llevó a la creación de dispositivos de seguridad en ataúdes y a debates sobre la necesidad de observar signos de vida antes del entierro."
-        },
-        {
-          "label": "Edgar Allan Poe",
-          "text": "El escritor estadounidense Edgar Allan Poe publicó en 1844 el cuento \"El entierro prematuro\", donde explora la angustia psicológica de ser enterrado vivo y la considera una de las peores tragedias imaginables."
-        },
-        {
-          "label": "Benito Jerónimo Feijoo",
-          "text": "El monje y ensayista español Benito Jerónimo Feijoo, en sus cartas del siglo XVIII, describió casos de supuestos enterramientos vivos y recomendó esperar varios días antes de enterrar a los fallecidos para evitar errores mortales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "e07b9278a559",
-      "title": "Activan fase de emergencia ante el riesgo sísmico tras el terremoto de magnitud 5 en Alhendín, España",
-      "summary": "El consejero de Presidencia, Sanidad y Emergencias de la Junta de Andalucía, Antonio Sanz, declaró fase de emergencia operativa 1 del Plan de Emergencia de Andalucía tras el sismo de magnitud 5 en Alhendín, Granada, que provocó más de 80 llamadas al 112 en toda la comunidad.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/activan-fase-emergencia-riesgo-sismico-terremoto-magnitud-5-alhendin-espana-20260814-828423.html",
-      "published_at": "2026-08-15T03:47:24+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje neutro y se limita a citar al funcionario y a la agencia de noticias Europa Press, sin incluir opiniones ni vocabulario cargado.",
-      "focus_analysis": "El artículo enfatiza la respuesta institucional y las recomendaciones de seguridad, mientras omite detalles sobre el daño material y el impacto humano del sismo.",
-      "focus_tags": [
-        "seguridad pública",
-        "gestión de emergencias",
-        "autoridades regionales"
-      ],
-      "context": [
-        {
-          "label": "antecedentes sísmicos",
-          "text": "Horas antes del sismo de magnitud 5 en Alhendín, se registró otro temblor de magnitud 3.7 en La Zubia, indicando una actividad sísmica reciente en la zona de Granada."
-        },
-        {
-          "label": "respuesta institucional",
-          "text": "El Plan de Emergencia de Andalucía contempla diferentes fases operativas; la fase 1 permite activar recursos y recomendaciones para la población ante riesgos sísmicos."
-        },
-        {
-          "label": "perspectiva de medios",
-          "text": "Otros medios como DW Español y El País América destacaron que el terremoto no causó víctimas y se centraron en los daños materiales y el número de llamadas al 112, subrayando la ausencia de heridos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "e4c0b4156f44",
-      "title": "Cómo será la cancha que se utilizará en Neuquén para enfrentar a Turquía por la Copa Davis: las razones y los detalles de construcción",
-      "summary": "La selección argentina de tenis jugará contra Turquía en Neuquén en los play‑offs de la Copa Davis, y la pista será una cancha dura de pintura acrílica construida por la empresa española GreenSet bajo la supervisión del gerente deportivo de la AAT, Eddie Fiumara.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/15/como-sera-la-cancha-que-se-utilizara-en-neuquen-para-enfrentar-a-turquia-por-la-copa-davis-las-razones-y-los-detalles-de-construccion/",
-      "published_at": "2026-08-15T04:29:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se centra en describir la construcción y la elección de la superficie sin usar lenguaje cargado ni presentar opiniones políticas, manteniendo un tono informativo y neutro.",
-      "focus_analysis": "El medio destaca los aspectos técnicos y logísticos de la pista, dejando fuera la dimensión humana de los jugadores y la expectativa del resultado del encuentro.",
-      "focus_tags": [
-        "corte de tenis",
-        "construcción de cancha",
-        "Copa Davis"
-      ],
-      "context": [
-        {
-          "label": "historial de partidos en casa",
-          "text": "Argentina ha jugado la Copa Davis en casa en cinco ocasiones, incluyendo partidos en Mar del Plata (2008), Tecnópolis (2015) y Aldo Cantoni (2018), siempre sobre superficies duras o rápidas."
-        },
-        {
-          "label": "importancia de la superficie",
-          "text": "Los jugadores y el capitán Javier Frana prefirieron una pista rápida similar a la de los torneos asiáticos y del Australian Open, para evitar la readaptación a polvo de ladrillo."
-        },
-        {
-          "label": "empresa constructora",
-          "text": "GreenSet, fundada por el ex tenista Javier Sánchez Vicario y adquirida por el fondo BD‑Capital, es la compañía española elegida para instalar la pista, destacando su experiencia en eventos de alto nivel."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
