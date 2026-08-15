@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-15T16:22:02.915347+00:00",
+  "generated_at": "2026-08-15T16:36:25.005936+00:00",
   "articles": [
+    {
+      "id": "ae91c2db2a4c",
+      "title": "Mucho ojo con estas alertas de Chrome. Pueden instalar malware en tu ordenador",
+      "summary": "Los usuarios de Google Chrome están recibiendo notificaciones falsas de actualización que, al pulsarlas, descargan archivos ejecutables con malware; la mayoría de los casos apunta a la extensión \"Enable Right Click & Copy Smart Unlock + OCR\", que aún está disponible en la Chrome Web Store.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/seguridad/alertas-google-chrome-malware/",
+      "published_at": "2026-08-15T16:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo utiliza un tono informativo y de advertencia, sin recurrir a fuentes políticas o cargadas, y se basa en testimonios de usuarios y datos técnicos, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el riesgo de seguridad informática y la protección del usuario, dejando de lado el análisis de la política de la Chrome Web Store o la responsabilidad de Google en la gestión de extensiones maliciosas.",
+      "focus_tags": [
+        "seguridad cibernética",
+        "malware",
+        "extensiones de Chrome"
+      ],
+      "context": [
+        {
+          "label": "Política de extensiones de Chrome",
+          "text": "Google ha enfrentado episodios anteriores donde extensiones maliciosas fueron publicadas en la Chrome Web Store, lo que ha llevado a la compañía a reforzar sus procesos de revisión y eliminación de software dañino."
+        },
+        {
+          "label": "Estafas de actualización falsas",
+          "text": "Los ataques de notificaciones falsas de actualización no son exclusivos de Chrome; navegadores basados en Chromium como Brave y Opera también han reportado incidentes similares, aprovechando la confianza del usuario en los mensajes de actualización."
+        },
+        {
+          "label": "Eficacia de antivirus y Windows Defender",
+          "text": "Mientras algunos usuarios informan que su antivirus tradicional no detectó la amenaza, Windows Defender de Microsoft sí bloqueó la descarga, subrayando la variabilidad en la detección de malware por parte de diferentes herramientas de seguridad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "3a089b15ccda",
+      "title": "En el Gurugú ya solo quedan los monos",
+      "summary": "El monte Gurugú, situado en Marruecos y que durante años albergó a migrantes subsaharianos que intentaban cruzar a España por la ciudad de Melilla, ha quedado sin campamentos.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-15/en-el-gurugu-ya-solo-quedan-los-monos.html",
+      "published_at": "2026-08-15T16:28:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin palabras cargadas ni fuentes que inclinen la visión política.",
+      "focus_analysis": "El artículo se centra en el aspecto humanitario y migratorio al señalar el abandono del campamento, dejando de lado los debates políticos o de seguridad sobre la gestión de la frontera.",
+      "focus_tags": [
+        "migración",
+        "Melilla",
+        "Gurugú"
+      ],
+      "context": [
+        {
+          "label": "situación de Melilla",
+          "text": "Melilla es una ciudad autónoma española en el norte de África que funciona como uno de los principales puntos de entrada para migrantes subsaharianos que buscan llegar a Europa."
+        },
+        {
+          "label": "historia del Gurugú",
+          "text": "El monte Gurugú, ubicado en la zona fronteriza de Marruecos, ha sido durante años el lugar donde se establecían campamentos informales de migrantes antes de intentar el cruce hacia Melilla."
+        },
+        {
+          "label": "cambios en la gestión fronteriza",
+          "text": "En los últimos meses, las autoridades españolas y marroquíes han intensificado los controles y han desmantelado varios campamentos, lo que ha provocado el vaciamiento del Gurugú."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres explora, a través de referencias literarias y históricas, el temor que durante siglos ha existido en Occidente al ser enterrado vivo, analizando ejemplos desde Edgar Allan Poe hasta el tratado del siglo XVIII de Benito Jerónimo Feijoo.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono descriptivo y académico, sin usar vocabulario cargado ni citar fuentes con agenda política; se centra exclusivamente en la dimensión cultural y literaria del tema.",
+      "focus_analysis": "El medio elige un enfoque histórico‑literario, resaltando cómo la literatura y los escritos del pasado han retratado el miedo al entierro prematuro, mientras omite aspectos médicos o científicos contemporáneos sobre la prevención de este riesgo.",
+      "focus_tags": [
+        "miedo histórico",
+        "literatura gótica",
+        "cultura occidental"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes históricos",
+          "text": "Desde la época medieval hasta el siglo XIX, la posibilidad de ser enterrado vivo alimentó leyendas y relatos de terror en Europa y América, influyendo en obras como “El entierro prematuro” de Edgar Allan Poe."
+        },
+        {
+          "label": "Tratado de Feijoo",
+          "text": "En el siglo XVIII, el erudito español Benito Jerónimo Feijoo abordó el tema en sus cartas, denunciando la práctica de enterrar rápidamente a los enfermos y proponiendo esperas para confirmar la muerte."
+        },
+        {
+          "label": "Prácticas actuales",
+          "text": "Hoy en día, los protocolos médicos y forenses incluyen observación prolongada y pruebas de vitalidad para evitar entierros prematuros, reduciendo significativamente el riesgo que históricamente generaba temor."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "645b5be09a2d",
+      "title": "Sorpresa en Independiente: el brasileño Jadson Viera se convertirá en el nuevo entrenador tras la salida de Quinteros",
+      "summary": "Jadson Viera Castro, el brasileño nacionalizado uruguayo, está a punto de asumir la dirección técnica del Club Atlético Independiente tras la salida de Gustavo Quinteros, con un contrato de un año y una cláusula de rescisión anticipada.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/15/sorpresa-en-independiente-el-brasileno-jadson-viera-se-convertira-en-el-nuevo-entrenador-tras-la-salida-de-quinteros/",
+      "published_at": "2026-08-15T16:13:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es mayormente descriptivo y objetivo, sin usar adjetivos cargados ni destacar una postura política; se limita a informar sobre el nombramiento y los antecedentes del entrenador.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y deportivo del cambio de entrenador, describiendo el contrato y la trayectoria de Viera, mientras omite la reacción de la afición y el contexto financiero del club.",
+      "focus_tags": [
+        "cambio de entrenador",
+        "Independiente",
+        "Copa Sudamericana"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento reciente de Independiente",
+          "text": "El equipo de Avellaneda había sido eliminado de la Copa Argentina tras una derrota 0‑4 a Atlético Tucumán, lo que impulsó el despido de Gustavo Quinteros y dejó al club en una posición intermedia en la tabla del Torneo Clausura."
+        },
+        {
+          "label": "Trayectoria de Jadson Viera",
+          "text": "Viera, de 45 años, había dirigido a Boston River y Nacional en Uruguay, donde destacó por un estilo ofensivo y una victoria en la final del Campeonato Uruguayo 2025, antes de ser relevado de su último cargo por resultados desfavorables."
+        },
+        {
+          "label": "Elecciones internas del club",
+          "text": "Independiente debe celebrar elecciones presidenciales antes de 2027; el contrato de Viera incluye una cláusula que permite su rescisión en diciembre de 2026, anticipando posibles cambios en la dirección del club."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "a16cfbe3eaa9",
+      "title": "Sismo de 4.3 de magnitud se registra en Chiapas",
+      "summary": "El Servicio Sismológico Nacional informó que un sismo de magnitud 4.3 se originó en Pijijiapan, Chiapas, a las 09:56 horas, sin que se hayan reportado daños ni víctimas.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/15/sismo-de-43-de-magnitud-se-registra-en-chiapas/",
+      "published_at": "2026-08-15T16:30:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje informativo y neutral, citando únicamente fuentes oficiales como el SSN y Cenapred, sin emplear vocabulario cargado ni presentar opiniones políticas.",
+      "focus_analysis": "Infobae se centró en describir el evento sísmico y ofrecer recomendaciones de seguridad pública, omitiendo cualquier análisis económico o político del terremoto.",
+      "focus_tags": [
+        "sismo",
+        "seguridad civil",
+        "prevención"
+      ],
+      "context": [
+        {
+          "label": "Antecedente tectónico",
+          "text": "México se encuentra en una zona sísmicamente activa donde se registran decenas de temblores diarios, la mayoría de baja magnitud."
+        },
+        {
+          "label": "Histórico sísmico",
+          "text": "Los terremotos de mayor magnitud en la historia de México, como los de 1985, 2017 y 1787, dejaron graves daños y recuerdan la vulnerabilidad del país."
+        },
+        {
+          "label": "Comparación de cobertura",
+          "text": "Otros medios, como Expansión, destacaron alertas de tsunami tras sismos de gran magnitud en Indonesia, mientras que la nota de Infobae no menciona riesgo de tsunami para el sismo de Chiapas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "3f59763f5817",
+      "title": "Israel lanza sus ataques más letales desde junio en Líbano y causa al menos 11 muertos",
+      "summary": "Israel llevó a cabo dos bombardeos en el sur del Líbano que dejaron al menos 11 muertos, entre ellos tres niños y dos mujeres, mientras que el gobierno libanés denuncia que los ataques no fueron contra infraestructura militar y el ejército israelí los justifica como respuesta a un asalto de Hezbolá.",
+      "category": "internacional",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/medio-oriente/20260815-israel-lanza-sus-ataques-m%C3%A1s-letales-desde-junio-en-l%C3%ADbano-y-causa-al-menos-11-muertos",
+      "published_at": "2026-08-15T16:33:38+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto emplea expresiones como \"más letales\" y \"socava los esfuerzos\" que resaltan la gravedad de los ataques israelíes y enfatiza la denuncia libanesa, mostrando una ligera inclinación crítica hacia Israel.",
+      "focus_analysis": "El artículo se centra en el impacto humano y la controversia política del ataque, dejando de lado un análisis profundo de los objetivos militares o de la estrategia regional.",
+      "focus_tags": [
+        "conflicto Israel‑Líbano",
+        "civiles muertos",
+        "tregua frágil"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del conflicto",
+          "text": "Desde junio de 2026 Israel y Líbano firmaron un alto el fuego relativo mediado por Estados Unidos, aunque Israel sigue ocupando zonas del sur libanés y se han registrado violaciones esporádicas."
+        },
+        {
+          "label": "Reacción libanesa",
+          "text": "Autoridades libanesas, incluido el primer ministro Nawaf Salam, denunciaron los bombardeos como ataques a civiles y afirmaron que los fallecidos no eran objetivos militares."
+        },
+        {
+          "label": "Cobertura de El País América",
+          "text": "El País América describió los ataques como una de las ofensivas más letales desde el cese al fuego de junio y subrayó la mediación estadounidense, enmarcando el hecho como una escalada significativa."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "761018ba9e9c",
+      "title": "Cuando el teacup se rompe: la fragilidad de la memoria en la literatura latinoamericana",
+      "summary": "Un teacup de porcelana, agrietado por la mano del tiempo, descansa sobre el alféizar mientras la luz del alba lo descompone en mil fragmentos que se reflejan en el suelo. Cada pieza parece un recuerdo suspendido, una historia que se rehúsa a recomponerse por completo. Así, la novela de Carlos Fuentes nos invita a caminar entre los escombros de una vida que se cuenta en retrospectiva.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-15T16:35:01.084319+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, bajo el calor de la madrugada de agosto, el gesto de romper y recomponer me recuerda la forma en que la historia personal y colectiva se deshilacha y se vuelve a tejer en la literatura. Elegí este ángulo porque la fragilidad del teacup simboliza la vulnerabilidad de la memoria, un tema que resuena en la obra de Fuentes y en la experiencia de lectores que buscan reconstruir su pasado. Además, la fecha coincide con la celebración de la independencia en varios países latinoamericanos, lo que subraya la relación entre memoria nacional y narrativa personal.",
+      "focus_tags": [
+        "Novela",
+        "Siglo XX",
+        "Latinoamérica"
+      ],
+      "context": [
+        {
+          "label": "Autor",
+          "text": "Carlos Fuentes, nacido en Panamá en 1928 y criado en México, fue una de las voces más influyentes del Boom latinoamericano. Su estilo combina la erudición histórica con una prosa lúdica, y su obra explora la identidad mexicana a través de la política, el mito y la memoria."
+        },
+        {
+          "label": "Obra recomendada",
+          "text": "«La muerte de Artemio Cruz» (1962) narra, en forma de monólogo interior, los últimos momentos de un hombre que revisa su vida mientras yace en su lecho de muerte. La novela descompone la cronología tradicional, presentando recuerdos como piezas de cristal que se encajan y se deslizan, revelando la ambigüedad moral del protagonista y la historia de México."
+        },
+        {
+          "label": "Conexiones temáticas",
+          "text": "Si la fragmentación de la memoria le fascina, pruebe con «Rayuela» de Julio Cortázar, una novela que invita a leer los capítulos en distintos órdenes, o con «Pedro Páramo» de Juan Rulfo, donde los vivos y los muertos conviven en un mismo espacio narrativo. Ambas obras comparten la inquietud por los límites entre pasado y presente."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "99843661d094",
       "title": "Cae 23% la cifra de jóvenes que buscan empleo en México este 2026",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "018b39e9e7b2",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 15 de agosto: balacera entre militares y civiles deja tres muertos en La Piedad, Michoacán",
-      "summary": "Una balacera entre el Ejército Mexicano y civiles en la carretera La Piedad‑Zamora, Michoacán, dejó tres muertos y un adolescente herido, en medio de la escalada de violencia vinculada al narcotráfico en la región.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/15/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-15-de-agosto-balacera-entre-militares-y-civiles-deja-tres-muertos-en-la-piedad-michoacan/",
-      "published_at": "2026-08-15T15:37:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos con un lenguaje neutro y sin juicios políticos, citando solo datos oficiales y sin destacar posturas ideológicas.",
-      "focus_analysis": "El medio prioriza el ángulo de seguridad y criminalidad, resaltando los enfrentamientos armados y las detenciones, mientras omite el contexto socioeconómico y las repercusiones para la comunidad local.",
-      "focus_tags": [
-        "seguridad",
-        "violencia",
-        "Michoacán"
-      ],
-      "context": [
-        {
-          "label": "Contexto de violencia en Michoacán",
-          "text": "Michoacán ha sido escenario de enfrentamientos entre grupos criminales y fuerzas armadas durante años, con altas tasas de homicidios y desapariciones vinculadas al narcotráfico."
-        },
-        {
-          "label": "Rol del Ejército en la seguridad pública",
-          "text": "Desde 2019, el Gobierno mexicano ha desplegado al Ejército Mexicano en tareas de seguridad pública, lo que ha generado debates sobre la militarización y la efectividad contra los cárteles."
-        },
-        {
-          "label": "Cobertura de medios sobre la región",
-          "text": "Otros medios, como Aristegui Noticias, señalaron la destitución del jefe de Seguridad de José Sixto Verduzco por casos de desapariciones, subrayando la crisis institucional que alimenta la violencia en Michoacán."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "d8358ae1dd98",
-      "title": "Walmart México rebaja lavadora Whirlpool de 21 Kg en menos de 9 mil pesos; aprovecha el ahorro de 7 mil pesos",
-      "summary": "Walmart México ofrece una lavadora Whirlpool de 21 kg a $8,999, lo que representa un ahorro de aproximadamente $7,000 respecto al precio habitual.",
-      "category": "economia",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/descubre-y-compra/walmart-mexico-rebaja-lavadora-whirlpool-de-21-kg-en-menos-de-9-mil-pesos-aprovecha-el-ahorro-de-7-mil-pesos/",
-      "published_at": "2026-08-15T15:25:05+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono promocional, destaca el ahorro y la conveniencia sin presentar comparativas de precios ni opiniones críticas, lo que indica una ligera inclinación favorable hacia la oferta comercial.",
-      "focus_analysis": "El medio se centra en el beneficio económico para el consumidor y la capacidad del electrodoméstico, dejando de lado el contexto del mercado de lavadoras, la competencia de precios o consideraciones medioambientales.",
-      "focus_tags": [
-        "descuentos",
-        "electrodomésticos",
-        "consumo familiar"
-      ],
-      "context": [
-        {
-          "label": "Posición de Walmart México",
-          "text": "Walmart México es una de las cadenas minoristas más grandes del país y frecuentemente lanza promociones de precios bajos para atraer a compradores sensibles al costo."
-        },
-        {
-          "label": "Reputación de la marca Whirlpool",
-          "text": "Whirlpool es una marca reconocida en México por ofrecer electrodomésticos duraderos y con buena capacidad de carga, lo que la hace popular entre familias numerosas."
-        },
-        {
-          "label": "Precio promedio de lavadoras de 21 kg",
-          "text": "En el mercado mexicano, una lavadora Whirlpool de 21 kg suele costar entre $15,000 y $18,000, por lo que la oferta de $8,999 representa una reducción significativa."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres explora el miedo histórico a ser enterrado vivo, combinando referencias literarias como el cuento de Edgar Allan Poe y análisis de ensayos del ilustrado español Benito Jerónimo Feijoo, para describir cómo este temor ha sido tratado en la literatura y la cultura occidental.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en una exposición cultural y literaria sin usar un lenguaje cargado ni favorecer una posición política; la selección de fuentes es académica y neutral.",
-      "focus_analysis": "El medio optó por un enfoque histórico‑cultural, resaltando la tradición literaria y los relatos de miedo, dejando de lado análisis científicos o médicos sobre la práctica del entierro prematuro.",
-      "focus_tags": [
-        "miedo histórico",
-        "literatura",
-        "cultura"
-      ],
-      "context": [
-        {
-          "label": "Historia del entierro prematuro",
-          "text": "Durante los siglos XVIII y XIX, en Europa se difundió el temor de ser enterrado vivo, lo que llevó a la creación de dispositivos de vigilancia en los ataúdes y a la promulgación de leyes que exigían la espera de varios días antes de la inhumación."
-        },
-        {
-          "label": "Poe y el terror",
-          "text": "Edgar Allan Poe popularizó el tema en su cuento 'The Premature Burial', donde describe la angustia psicológica de la posible muerte en la tumba, influyendo en la literatura gótica y en la percepción popular del miedo a la sepultura prematura."
-        },
-        {
-          "label": "Feijoo y la ilustración",
-          "text": "El escritor y filósofo español Benito Jerónimo Feijoo, en sus 'Cartas', criticó los excesos del miedo al entierro vivo y propuso criterios más racionales para confirmar la muerte antes de la inhumación, reflejando la influencia de la Ilustración en la práctica funeraria."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a2455431efd7",
-      "title": "Apple Maps también tiene avisos de accidentes y tras topármelos este fin de semana he llegado a una conclusión",
-      "summary": "Apple Maps, la aplicación de mapas de Apple, ha empezado a mostrar avisos de accidentes y otras incidencias reportados por usuarios en Zaragoza, lo que según el autor de Applesfera mejora su funcionalidad y la acerca a la de Google Maps y Waze.",
-      "category": "tecnologia",
-      "source_name": "Applesfera",
-      "source_url": "https://www.applesfera.com/servicios-apple/apple-maps-tambien-tiene-avisos-accidentes-toparmelos-este-fin-semana-he-llegado-a-conclusion",
-      "published_at": "2026-08-15T15:00:48+00:00",
-      "bias_score": 15,
-      "bias_reason": "El texto destaca de forma positiva las mejoras de Apple Maps y compara favorablemente su detalle de carriles y la nueva capacidad colaborativa, sin presentar críticas ni opiniones negativas sobre la empresa.",
-      "focus_analysis": "El artículo se centra en la experiencia del usuario y la funcionalidad de los avisos de tráfico en Apple Maps, dejando de lado aspectos técnicos más profundos o la estrategia comercial de Apple.",
-      "focus_tags": [
-        "funcionalidades de mapas",
-        "tráfico colaborativo",
-        "comparación con Google"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Apple Maps incorpora desde hace años la posibilidad de reportar incidencias como accidentes, obras o controles de velocidad, aunque la participación de usuarios externos era escasa."
-        },
-        {
-          "label": "Comparación",
-          "text": "A diferencia de Google Maps y Waze, que dependen ampliamente de reportes de la comunidad, Apple Maps empezaba a mostrar pocos avisos de terceros, pero recientemente ha empezado a recibir más contribuciones en ciudades como Zaragoza."
-        },
-        {
-          "label": "Impacto",
-          "text": "Una mayor cantidad de reportes de usuarios puede mejorar la fiabilidad de la información de tráfico en Apple Maps, beneficiando a conductores que buscan alternativas a las aplicaciones de navegación más populares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "645b5be09a2d",
-      "title": "Sorpresa en Independiente: el brasileño Jadson Viera se convertirá en el nuevo entrenador tras la salida de Quinteros",
-      "summary": "El Club Atlético Independiente de Argentina anunció que el brasileño nacionalizado uruguayo Jadson Viera Castro será su nuevo entrenador principal, sustituyendo a Gustavo Quinteros después de su salida. El acuerdo contempla un contrato de un año con cláusula de rescisión unilateral al final del año.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/15/sorpresa-en-independiente-el-brasileno-jadson-viera-se-convertira-en-el-nuevo-entrenador-tras-la-salida-de-quinteros/",
-      "published_at": "2026-08-15T15:16:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos, como el nombramiento, antecedentes y condiciones contractuales, sin usar adjetivos cargados ni fuentes parcializadas.",
-      "focus_analysis": "El medio se centra en el aspecto institucional del cambio de técnico y en el currículum del nuevo entrenador, dejando de lado la reacción de la afición o las implicaciones deportivas a corto plazo.",
-      "focus_tags": [
-        "cambio de entrenador",
-        "Independiente",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento reciente de Independiente",
-          "text": "Independiente había liderado su zona en la Copa Sudamericana 2025 pero fue eliminado tras una derrota contra Universidad de Chile, y en el Torneo Clausura 2026 ocupaba una posición intermedia bajo la dirección de Julio Vaccari."
-        },
-        {
-          "label": "Salida de Gustavo Quinteros",
-          "text": "Gustavo Quinteros dejó el cargo de entrenador de Independiente en agosto de 2026 tras una serie de resultados inconsistentes, lo que motivó la búsqueda de un reemplazo."
-        },
-        {
-          "label": "Trayectoria de Jadson Viera",
-          "text": "Jadson Viera Castro, de 45 años, entrenó a Boston River y Nacional en Uruguay y jugó como defensa central en Lanús, donde ganó el campeonato argentino de 2007, y ha sido asistente de Marcelo Gallardo en Vélez y Talleres."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "2693aaf4e322",
-      "title": "Detuvieron al Director de Seguridad Pública de Atlixco por cohecho tras un asalto a un cuentahabiente en Puebla",
-      "summary": "Antonio Hernández Pacheco, secretario de Seguridad Ciudadana de Atlixco, Puebla, fue detenido por la Fiscalía de Puebla bajo sospecha de abuso de autoridad y cohecho tras un asalto a un cliente bancario, y quedó a prisión preventiva mientras se decide su proceso.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/15/detuvieron-al-director-de-seguridad-publica-de-atlixco-por-cohecho-tras-un-asalto-a-un-cuentahabiente-en-puebla/",
-      "published_at": "2026-08-15T15:24:38+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y se basa en declaraciones oficiales y datos judiciales, sin emplear vocabulario cargado ni presentar opiniones partidistas.",
-      "focus_analysis": "El enfoque se dirige a la dimensión institucional y legal del caso, resaltando la detención y la campaña contra mandos municipales, mientras se omite la perspectiva de las víctimas y el impacto social del robo.",
-      "focus_tags": [
-        "corrupción policial",
-        "detención de funcionarios",
-        "crackdown en Puebla"
-      ],
-      "context": [
-        {
-          "label": "Operativo estatal contra mandos municipales",
-          "text": "En los últimos meses la Fiscalía de Puebla ha llevado a cabo una serie de operativos que han resultado en la detención de al menos siete secretarios de Seguridad Pública municipal, como parte de una estrategia para desarticular presuntas redes de protección criminal."
-        },
-        {
-          "label": "Función del secretario de Seguridad Ciudadana",
-          "text": "Los secretarios de Seguridad Ciudadana a nivel municipal en México son responsables de la coordinación de la policía local y de la prevención del delito, y su actuación está sujeta a la legislación federal y estatal contra el abuso de autoridad y la corrupción."
-        },
-        {
-          "label": "Marco legal del proceso",
-          "text": "Según la Constitución mexicana, toda persona detenida debe ser puesta a disposición de la autoridad judicial en un plazo máximo de 144 horas, y la legislación penal contempla delitos como abuso de autoridad y cohecho, que pueden conllevar prisión preventiva."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "e031a0bff9da",
-      "title": "Cinco años de la caída de Kabul: mujeres bajo un “apartheid de género”",
-      "summary": "Cinco años después de la caída de Kabul, las mujeres afganas viven bajo estrictas restricciones que les impiden acceder a la educación, al trabajo y a la vida pública, lo que según France24 se asemeja a un ‘apartheid de género’.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/video/20260815-cinco-a%C3%B1os-de-la-ca%C3%ADda-de-kabul-mujeres-bajo-un-apartheid-de-g%C3%A9nero",
-      "published_at": "2026-08-15T15:25:19+00:00",
-      "bias_score": -30,
-      "bias_reason": "El artículo emplea un lenguaje cargado como ‘apartheid de género’, se centra en la victimización de las mujeres y no incluye voces del régimen talibán ni datos que justifiquen su posición, lo que indica una perspectiva crítica y de izquierda.",
-      "focus_analysis": "El medio prioriza el ángulo de derechos humanos y la situación de las mujeres, dejando de lado el contexto político y de seguridad del gobierno talibán.",
-      "focus_tags": [
-        "derechos humanos",
-        "Afganistán",
-        "género"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "El 15 de agosto de 2021, el Talibán tomó el control de Kabul, instaurando una administración que impuso normas restrictivas para las mujeres, como la prohibición de asistir a la educación y trabajar en la esfera pública."
-        },
-        {
-          "label": "Datos de la ONU",
-          "text": "Según informes de la ONU, más de 2,4 millones de niñas afganas están fuera de la escuela y las mujeres enfrentan limitaciones severas a su movilidad y participación laboral."
-        },
-        {
-          "label": "Cobertura internacional",
-          "text": "Diversos medios internacionales, como la BBC y Al Jazeera, han señalado la creciente vulnerabilidad de las mujeres afganas bajo el régimen talibán, coincidiendo en describir la situación como una violación sistemática de derechos."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 7.6
       }
     }
   ]
