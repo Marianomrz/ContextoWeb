@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-14T21:01:31.681881+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, bien contextualizada y presentada de forma objetiva y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:01:40.637211+00:00",
-      "title": "EU retirá 19 millones de huevos del mercado por bacteria potencialmente mortal",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actual, pero la inconsistencia entre título y contenido compromete su veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:01:46.202581+00:00",
-      "title": "Hallan depósito clandestino de huachicol en Hidalgo; recuperan 33 unidades de transporte federal rob",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y su estructura sigue la pirámide invertida; se considera apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:20:46.583961+00:00",
-      "title": "Piden celeridad para definir entrega de locales en mercado de Purísima",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, contrastada, objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:20:51.293465+00:00",
-      "title": "Hallan muerto a Jason Arday, el profesor de la Universidad de Cambridge acusado de plagio",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete tiene una estructura y tono adecuados, pero la falta de verificación de hechos críticos, especialmente la supuesta muerte, compromete su credibilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:20:57.651939+00:00",
-      "title": "Trump dice que “pronto” el estrecho de Ormuz será “territorio de EEUU”",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la pieza es reciente y está bien estructurada, falla gravemente en veracidad y contraste de fuentes, lo que la hace inadecuada para publicación sin verificación adicional.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:21:04.396902+00:00",
-      "title": "El fútbol femenino estrena la Copa Raíces en homenaje al Día de la Futbolista Argentina: el cronogra",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la precisión de algunos datos históricos podría revisarse para mayor exactitud.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:21:10.813957+00:00",
-      "title": "Peso mexicano registra mejor cierre frente al dólar desde mayo de 2024 y avanza en la semana",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido en fuentes y objetividad, pero necesita corregir contradicciones de datos para alcanzar alta precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-14T21:21:19.273825+00:00",
-      "title": "Microsoft tira la toalla con Mico, el asistente de voz de Copilot y sucesor de Clippy",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de veracidad, fuentes, objetividad, actualidad y estructura, por lo que es apto para publicación.",
-      "error": null
-    },
-    {
       "at": "2026-08-14T21:21:33.182187+00:00",
       "title": "Nada tan angustioso en la tierra",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 8
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información precisa, objetiva y reciente, con una estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:10.978983+00:00",
+      "title": "Terremoto en Colombia: ¿qué pasa con los contratos de arrendamiento y seguros inmobiliarios?",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y estructurado, pero carece de verificación de datos y de fuentes múltiples, lo que reduce su credibilidad y profundidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:15.218989+00:00",
+      "title": "Aguinaldo del Inapam, esta es la verdad sobre el supuesto pago de 9 mil 500 pesos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los criterios editoriales, ofreciendo una cobertura objetiva y reciente, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:23.107968+00:00",
+      "title": "Banfield le dio otro golpe a Racing: lo venció 1-0 en Avellaneda y le provocó su tercera derrota seg",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información objetiva y reciente, aunque podría mejorar la verificación de datos específicos con fuentes adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:28.794643+00:00",
+      "title": "Efraín Juárez mete presión a Esteban Solari: “Las bases están para que Pumas sea campeón”",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares básicos de calidad informativa, aunque muestra un leve sesgo elogioso y podría beneficiarse de fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:35.240039+00:00",
+      "title": "Meta enfrenta demanda de 193,000 mdd",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en su mayoría sólido y bien estructurado, aunque la precisión de los números financieros necesita mayor respaldo documental.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:40.704081+00:00",
+      "title": "Marvel dice adiós a sus series de Disney Plus:  VisionQuest será la última",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero carece de veracidad y fuentes contrastantes, lo que lo hace poco fiable como noticia informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:48.372488+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, cumple con los criterios de veracidad, objetividad y actualidad; solo se le resta un punto por la escasa diversidad de fuentes, lo cual es aceptable dado el carácter del tema.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:54.055739+00:00",
+      "title": "Trump eleva la tensión con Irán por Ormuz y pide a los hogares de EE. UU. soportar el golpe económic",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque es actual y está estructurado razonablemente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T01:49:59.912621+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 14 de agosto: Detienen al director y tres e",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y reciente, pero presenta una ligera imprecisión y falta de contraste de fuentes más amplio.",
       "error": null
     }
   ]
