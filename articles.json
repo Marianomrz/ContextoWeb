@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-15T16:41:40.761664+00:00",
+  "generated_at": "2026-08-15T16:53:34.692637+00:00",
   "articles": [
+    {
+      "id": "3593d80e479d",
+      "title": "Reportan nuevos ataques israelíes en el Líbano; dejan 11 muertos y cientos de desplazados, según ONU",
+      "summary": "Israel intensificó sus ataques aéreos en el sur del Líbano, dejando al menos 11 muertos y cientos de desplazados, según la ONU; el presidente libanés Joseph Aoun condenó los bombardeos como violaciones del acuerdo de cese al fuego mediado por EE. UU.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/reportan-nuevos-ataques-israelies-en-el-libano-dejan-11-muertos-y-cientos-de-desplazados-segun-onu/",
+      "published_at": "2026-08-15T16:45:28+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto enfatiza las víctimas civiles y la condena libanesa, usa vocabulario crítico como ‘violaciones’ y no incluye la versión israelí de manera destacada, lo que indica un ligero sesgo crítico hacia Israel.",
+      "focus_analysis": "El medio se centró en el impacto humanitario y la reacción política libanesa, dejando en segundo plano la justificación de seguridad israelí y la respuesta de Hezbolá.",
+      "focus_tags": [
+        "humanitario",
+        "conflicto Israel-Líbano",
+        "desplazamiento"
+      ],
+      "context": [
+        {
+          "label": "acuerdo marco",
+          "text": "En junio de 2026 Israel y el Líbano firmaron un acuerdo de cese al fuego mediado por Estados Unidos, que preveía la retirada gradual de tropas israelíes del sur libanés y la reducción de hostilidades."
+        },
+        {
+          "label": "historial de ataques",
+          "text": "Desde la firma del acuerdo, Israel ha mantenido una serie de bombardeos en el sur del Líbano, mientras que Hezbolá ha lanzado cohetes contra territorio israelí, creando un ciclo de violencia recurrente."
+        },
+        {
+          "label": "postura de medios",
+          "text": "Otros medios, como El País y France24, también resaltan la mortalidad de los ataques pero añaden la justificación israelí de responder a un ataque de Hezbolá, lo que contrasta con la ausencia de esa perspectiva en El Universal."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El ensayo de David Toscana en Letras Libres explora, desde la literatura y la historia, el temor a ser enterrado vivo que ha perseguido a Occidente durante siglos, citando ejemplos desde la obra de Edgar Allan Poe hasta crónicas del siglo XVIII. El artículo muestra cómo este miedo ha sido narrado en la ficción y reflexiona sobre su carga psicológica y cultural.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene descriptivo y literario, sin usar un cargada ni citar fuentes con orientación política; el enfoque es cultural e histórico, sin sesgo ideológico evidente.",
+      "focus_analysis": "El medio el el ángulo literario‑histórico, resaltando la representación del entierro prematuro en la literatura y la tradición cultural, dejando de lado aspectos médicos o científicos del tema.",
+      "focus_tags": [
+        "literatura",
+        "historia",
+        "cultura"
+      ],
+      "context": [
+        {
+          "label": "Miedo histórico",
+          "text": "Desde la Edad Media hasta el siglo XVIII, la posibilidad de ser enterrado vivo generó rituales y normas que exigían la espera de varios días antes de la sepultura para evitar errores mortales."
+        },
+        {
+          "label": "Influencia literaria",
+          "text": "Escritores como Edgar Allan Poe popularizaron el terror del entierro prematuro en la ficción, utilizándolo como símbolo de la angustia física y mental."
+        },
+        {
+          "label": "Relevancia contemporánea",
+          "text": "El tema sigue presente en la cultura popular, apareciendo en películas y series que exploran el horror de la claustrofobia y la muerte prematura, reflejando un miedo persistente en la sociedad actual."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "ae91c2db2a4c",
+      "title": "Mucho ojo con estas alertas de Chrome. Pueden instalar malware en tu ordenador",
+      "summary": "Los usuarios de Google Chrome están recibiendo notificaciones falsas de actualizaciones que, al aceptarlas, descargan archivos ejecutables con malware, principalmente a través de la extensión \"Enable Right Click & Copy Smart Unlock + OCR\".",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/seguridad/alertas-google-chrome-malware/",
+      "published_at": "2026-08-15T16:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el problema técnico usando testimonios de usuarios y recomendaciones de seguridad, sin lenguaje cargado ni sesgo político.",
+      "focus_analysis": "El artículo se centra en el riesgo de seguridad informática y en la vulnerabilidad de extensiones del navegador, dejando de lado aspectos como la política de revisión de la Chrome Web Store o el panorama general de ciberamenazas.",
+      "focus_tags": [
+        "seguridad informática",
+        "malware",
+        "extensiones Chrome"
+      ],
+      "context": [
+        {
+          "label": "Historial de extensiones maliciosas",
+          "text": "En los últimos años, la Chrome Web Store ha albergado extensiones que, tras ser instaladas, ejecutan código dañino, lo que ha llevado a Google a reforzar sus procesos de detección y eliminación de software malicioso."
+        },
+        {
+          "label": "Ataques de notificaciones falsas en navegadores Chromium",
+          "text": "Los navegadores basados en Chromium, como Opera y Brave, también han sido objetivo de campañas de notificaciones falsas que imitan actualizaciones críticas para engañar a los usuarios y distribuir malware."
+        },
+        {
+          "label": "Recomendaciones de expertos en ciberseguridad",
+          "text": "Especialistas recomiendan desactivar las notificaciones de actualizaciones no verificadas, revisar las extensiones instaladas y usar herramientas antimalware actualizadas para prevenir infecciones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "173f1cd908c4",
+      "title": "Al menos 47 muertos en el este de Indonesia tras terremoto de magnitud 7.7",
+      "summary": "El terremoto de magnitud 7.7 que sacudió la costa este de la provincia de Nusa Tenggara Oriental, Indonesia, dejó al menos 47 fallecidos y provocó deslizamientos de tierra que aislaron a la región de Nagekeo, dificultando los trabajos de rescate.",
+      "category": "internacional",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/47-muertos-indonesia-terremoto-magnitud-7-20260815-828439.html",
+      "published_at": "2026-08-15T16:24:11+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, citando únicamente a autoridades oficiales y evitando vocabulario cargado o juicios políticos.",
+      "focus_analysis": "El medio se centró en el impacto humano y las dificultades logísticas del rescate, mientras que dejó de lado aspectos económicos y de reconstrucción a largo plazo.",
+      "focus_tags": [
+        "sismo",
+        "Indonesia",
+        "desastres naturales"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Indonesia está situada en el Cinturón de Fuego del Pacífico, una zona con alta actividad sísmica que ha registrado terremotos destructivos en años anteriores, como el de 1992 y el devastador sismo de Palu en 2018."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Otros medios, como Euronews, enfatizaron que las réplicas del terremoto continuaban, mientras que El Sol de México destacó la evacuación de aproximadamente dos mil residentes, información no resaltada en la nota de El Economista."
+        },
+        {
+          "label": "Reacción institucional",
+          "text": "La Agencia Nacional de Mitigación de Desastres (BNPB) y el centro de alerta de tsunamis de Australia declararon que no había riesgo de tsunami para el territorio continental australiano, y el gobernador de Nusa Tenggara Oriental anunció evacuaciones y daños en viviendas y escuelas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "fb2cf127de94",
+      "title": "San Lorenzo se enfrenta a Unión de Santa Fe en la continuidad de la fecha 5",
+      "summary": "El club argentino San Lorenzo de Almagro recibirá a Unión de Santa Fe en la continuación de la quinta fecha del Torneo Clausura, con ambos equipos buscando recuperarse tras resultados adversos recientes.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/15/continua-la-fecha-5-del-torneo-clausura-con-varios-partidos-hora-tv-formaciones-y-agenda-del-sabado/",
+      "published_at": "2026-08-15T16:46:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el encuentro, los antecedentes deportivos y la transmisión, sin usar lenguaje cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centra en el análisis del desempeño y la necesidad de puntos de los equipos, dejando de lado cualquier aspecto económico, institucional o social del fútbol.",
+      "focus_tags": [
+        "fútbol",
+        "torneo clausura",
+        "previa de partido"
+      ],
+      "context": [
+        {
+          "label": "situación de San Lorenzo",
+          "text": "San Lorenzo de Almagro llegó a esta fecha con una derrota 2-0 ante Huracán y una eliminación temprana de la Copa Argentina, lo que incrementa la presión para obtener un triunfo y alejarse de la zona de descenso."
+        },
+        {
+          "label": "forma de Unión de Santa Fe",
+          "text": "Unión de Santa Fe presenta resultados mixtos en la temporada, con algunas victorias pero también derrotas que lo sitúan en la mitad de la tabla, buscando consolidarse con un buen desempeño en casa."
+        },
+        {
+          "label": "contexto del Torneo Clausura 2026",
+          "text": "La quinta jornada del Torneo Clausura de la Primera División argentina incluye seis partidos, con transmisiones en ESPN Premium y TNT Sports, y es clave para definir los puestos de clasificación y relegación a mitad de temporada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "74060fd8d93e",
+      "title": "Marruecos frustra el intento de cientos de migrantes subsaharianos de alcanzar Ceuta",
+      "summary": "Las fuerzas de seguridad de Marruecos detuvieron a más de ciento por migrantes subsaharianos que intentaban cruzar irregularmente la frontera de lauta, trasladándolos a distintas regiones del país.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-15/marruecos-frustra-el-intento-de-cientos-de-migrantes-subsaharianos-de-alcanzar-ceuta.html",
+      "published_at": "2026-08-15T16:51:14+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto enfatiza las cifras de detenciones y menciona muertes según organizaciones humanitarias, usando un tono que subraya la dimensión humanitaria, lo que le confiere una ligera inclinación hacia la izquierda.",
+      "focus_analysis": "Se centra en la respuesta policial y militar de Marruecos y España, resaltando el despliegue de seguridad, mientras deja de lado la discusión sobre las causas estructurales de la migración y la situación de los migrantes.",
+      "focus_tags": [
+        "seguridad fronteriza",
+        "migración irregular",
+        "intervención marroquí"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "Ceuta, enclave español en el norte de África, ha sido punto de entrada frecuente para migrantes subsaharianos, con episodios de cruce masivo que han provocado cientos de muertes en los últimos años."
+        },
+        {
+          "label": "Dato comparativo",
+          "text": "En julio de 2024, una oleada de 80 000 migrantes intentó cruzar a Ceuta, lo que llevó a un colapso de la ciudad y a la pérdida de 141 vidas según organizaciones humanitarias."
+        },
+        {
+          "label": "Postura externa",
+          "text": "Otros medios, como DW Español, subrayan la convocatoria en redes sociales para nuevos cruces y resaltan el número de agentes españoles y militares desplegados, enfocándose más en la amenaza de una nueva ola migratoria."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
     {
       "id": "f5f074777683",
       "title": "Nada tan angustioso en la tierra",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "dfe7526f6e19",
-      "title": "Claves de la destrucción sísmica en Colombia: muros sin anclaje, construcciones informales y norma incumplida",
-      "summary": "El terremoto de magnitud 7.4 que sacudió el occidente de Colombia el 10 de agosto de 2026 provocó graves daños porque muchas edificaciones no cumplen la Norma Sismorresistente NSR‑10, presentan muros sin anclaje y se construyen de forma informal.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/claves-destruccion-sismica-colombia-muros-anclaje-construcciones-informales-norma-incumplida-20260815-828434.html",
-      "published_at": "2026-08-15T16:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono técnico y descriptivo, sin lenguaje cargado ni fuentes políticas, centrado en datos estructurales y normativos, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio eligió un ángulo estructural y normativo, analizando la falta de cumplimiento de la normativa sismorresistente y las prácticas de construcción, dejando de lado el aspecto humano y las respuestas de emergencia.",
-      "focus_tags": [
-        "norma NSR-10",
-        "construcción informal",
-        "vulnerabilidad estructural"
-      ],
-      "context": [
-        {
-          "label": "sismo histórico en Armenia 1999",
-          "text": "El terremoto de 1999 en Armenia, Quindío, con magnitud 6.2, destruyó más de sesenta edificios históricos y dejó una referencia de los daños que pueden generar construcciones vulnerables en Colombia."
-        },
-        {
-          "label": "cumplimiento de la norma sismorresistente",
-          "text": "Según estudios locales, solo alrededor del 40 % de los edificios en Bogotá cumplen la Norma NSR‑10, mientras que el 60 % restante está expuesto a riesgos sísmicos."
-        },
-        {
-          "label": "actividad sísmica del Pacífico colombiano",
-          "text": "La zona del Pacífico colombiano, especialmente el departamento de Chocó, ha registrado varios sismos de gran magnitud, como los eventos de 1906, 1962 y 1979, lo que evidencia una alta vulner sí sísmica en la región."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "e031a0bff9da",
-      "title": "Cinco años de la caída de Kabul: mujeres bajo un \"apartheid de género\"",
-      "summary": "Cinco años después de la caída de Kabul, las mujeres afganas viven bajo estrictas restricciones que les impiden estudiar, trabajar y participar en la vida pública, una situación que el medio describe como un “apartheid de género”.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/video/20260815-cinco-a%C3%B1os-de-la-ca%C3%ADda-de-kabul-mujeres-bajo-un-apartheid-de-g%C3%A9nero",
-      "published_at": "2026-08-15T15:25:19+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto usa expresiones cargadas como “apartheid de género”, se centra en la victimización de las mujeres y omite voces del régimen talibán, mostrando una postura crítica y de izquierda.",
-      "focus_analysis": "El artículo prioriza la perspectiva de derechos humanos y género, dejando de lado el contexto político‑militar y las explicaciones que el Talibán podría ofrecer.",
-      "focus_tags": [
-        "derechos humanos",
-        "género",
-        "Afganistán"
-      ],
-      "context": [
-        {
-          "label": "Caída de Kabul 2021",
-          "text": "En agosto de 2021, los talibanes tomaron el control de Kabul, poniendo fin al gobierno respaldado por EE. UU. y marcando el inicio de un nuevo régimen que ha impuesto normas conservadoras basadas en su interpretación de la ley islámica."
-        },
-        {
-          "label": "Restricciones a mujeres",
-          "text": "Desde entonces, el gobierno talibán ha prohibido la educación secundaria y superior para las niñas, limitado el acceso de las mujeres al trabajo y impuesto normas de vestimenta y movilidad que restringen su participación pública."
-        },
-        {
-          "label": "Datos de UNICEF",
-          "text": "Según UNICEF, más de 2,4 millones de niñas afganas están fuera de la escuela, y organizaciones de derechos humanos reportan que la libertad de movimiento de las mujeres está severamente limitada."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "725baa1c4a57",
-      "title": "Terremoto en Colombia: la última llamada de la pareja mexicana con sus familiares antes de desaparecer es la pista con las que los buscan",
-      "summary": "La pareja mexicana Mario Zapata y Brenda Flores, que se encontraban de vacaciones en Pereira, Colombia, desapareció después del terremoto de magnitud 7.4 del 10 de agosto, y sus familiares están intentando localizarla mientras la embajada de México coordina la búsqueda.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/terremoto-en-colombia-la-ultima-llamada-de-la-pareja-mexicana-con-sus-familiares-antes-de-desaparecer-es-la-pista-con-las-que-los-buscan/",
-      "published_at": "2026-08-15T15:32:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y citaciones directas de familiares y la embajada, sin emplear vocabulario cargado ni favorecer una posición política.",
-      "focus_analysis": "El medio prioriza el ángulo humano y familiar de la desaparición, resaltando la incertidumbre de los parientes y la respuesta de la embajada; deja de lado el contexto amplio del desastre, como el número de víctimas y la operación de rescate general.",
-      "focus_tags": [
-        "desaparición de mexicanos",
-        "terremoto en Colombia",
-        "búsqueda familiar"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del sismo",
-          "text": "El 10 de agosto de 2026 un terremoto de magnitud 7.4 sacudió la ciudad cafetera de Pereira, Colombia, provocando cientos de muertos y miles de heridos, según reportes internacionales."
-        },
-        {
-          "label": "Rol de la embajada mexicana",
-          "text": "La embajada de México en Colombia tiene la responsabilidad de asistir a sus nacionales desaparecidos, coordinando con la Cruz Roja colombiana y las autoridades locales para incluir a los desaparecidos en la lista oficial y facilitar la búsqueda."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios, como El Economista, enfocaron la noticia en la operación de rescate y la búsqueda de sobrevivientes, mientras que El Universal centra su relato en la historia personal de la pareja mexicana y la angustia de sus familiares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres explora, a través de referencias literarias y históricas, el temor que ha existido en Occidente durante siglos a ser enterrado vivo, analizando obras de Edgar Allan Poe, testimonios del siglo XVIII y relatos de la tradición cristiana.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y académico, sin emplear lenguaje cargado ni seleccionar fuentes con clara carga política; se centra en la literatura y la historia más que en debates ideológicos.",
-      "focus_analysis": "El medio elige un ángulo literario‑histórico que examina el miedo al entierro prematuro mediante ejemplos de Poe, Feijoo y la tradición cristiana, dejando de lado cualquier análisis de su relevancia contemporánea o de implicaciones socioculturales actuales.",
-      "focus_tags": [
-        "literatura histórica",
-        "temor a entierro",
-        "cultura occidental"
-      ],
-      "context": [
-        {
-          "label": "Miedo histórico al entierro prematuro",
-          "text": "Durante los siglos XVIII y XIX, la posibilidad de ser enterrado vivo generó la invención de ataúdes de seguridad y la proliferación de relatos de terror que reflejaban la ansiedad pública ante esta eventualidad."
-        },
-        {
-          "label": "Edgar Allan Poe y el cuento \"El entierro prematuro\"",
-          "text": "Poe, autor estadounidense del siglo XIX, escribió un cuento que describe la angustia de un hombre que se encuentra atrapado bajo tierra, consolidando el tema como un clásico del género gótico."
-        },
-        {
-          "label": "Benito Jerónimo Feijoo y la ilustración española",
-          "text": "El monje y ensayista del Siglo de las Luces, Feijoo, abordó el tema en sus cartas, analizando casos reales y recomendando prácticas para evitar el enterramiento vivo, reflejando la preocupación iluminista por la salud pública."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "a3c14c147cdd",
-      "title": "De Venezuela a Colombia: los terremotos más mortales y poderosos que han marcado 2026",
-      "summary": "En 2026, varios terremotos de magnitud superior a 7 sacudieron regiones de América Latina y Asia; Venezuela sufrió la mayor cifra de fallecidos con más de 6 000 personas tras un doble sismo en junio, mientras Colombia registró 281 muertos en un temblor de 7.4 en agosto, y Filipinas y Japón experimentaron movimientos más fuertes pero con menos víctimas mortales.",
-      "category": "internacional",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/venezuela-colombia-terremotos-mortales-poderosos-han-marcado-20260815-827964.html",
-      "published_at": "2026-08-15T15:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje neutro y se apoya en fuentes oficiales como USGS, SGC y autoridades locales, sin incluir opiniones políticas ni carga emotiva.",
-      "focus_analysis": "El medio se centra en los datos técnicos y humanos de los sismos, destacando magnitud, profundidad y cifras de víctimas, mientras omite la respuesta gubernamental, el impacto económico y la reconstrucción a largo plazo.",
-      "focus_tags": [
-        "sismos 2026",
-        "impacto humano",
-        "cifras de mortalidad"
-      ],
-      "context": [
-        {
-          "label": "Actividad sísmica global 2026",
-          "text": "Durante el año 2026 se han registrado varios terremotos de gran magnitud en diferentes continentes, lo que ha generado un aumento notable en la atención internacional sobre la gestión de desastres naturales."
-        },
-        {
-          "label": "Vulnerabilidad sísmica de Venezuela",
-          "text": "Venezuela ha experimentado históricamente eventos sísmicos significativos, y la combinación de alta densidad poblacional y construcciones vulnerables ha incrementado el riesgo de altas cifras de muertos en casos de grandes temblores."
-        },
-        {
-          "label": "Cobertura humana alternativa",
-          "text": "Otros medios, como BBC News Mundo, han puesto énfasis en historias personales, como la de dos adolescentes que perdieron a su madre en el sismo venezolano y luego vivieron otro terremoto en Colombia, resaltando el impacto psicológico y social."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "a2455431efd7",
-      "title": "Apple Maps también tiene avisos de accidentes y tras topármelos este fin de semana he llegado a una conclusión",
-      "summary": "El autor comenta que, tras observar avisos de accidentes generados por otros usuarios en Zaragoza, concluye que la función de reportes de tráfico de Apple Maps está funcionando de forma comparable a la de Google Maps y Waze, y que su uso colectivo mejora la fiabilidad del servicio.",
-      "category": "tecnologia",
-      "source_name": "Applesfera",
-      "source_url": "https://www.applesfera.com/servicios-apple/apple-maps-tambien-tiene-avisos-accidentes-toparmelos-este-fin-semana-he-llegado-a-conclusion",
-      "published_at": "2026-08-15T15:00:48+00:00",
-      "bias_score": 15,
-      "bias_reason": "El texto destaca los aspectos positivos de Apple Maps con un tono entusiasta y no presenta críticas ni opiniones contrarias, lo que indica una ligera inclinación favorable hacia la marca.",
-      "focus_analysis": "Se centra en la experiencia práctica y la utilidad de los avisos de tráfico de Apple Maps, dejando de lado temas como la privacidad de los datos o la estrategia competitiva de la empresa.",
-      "focus_tags": [
-        "Apple Maps",
-        "traffic alerts",
-        "user experience"
-      ],
-      "context": [
-        {
-          "label": "Competencia de mapas",
-          "text": "Google Maps y Waze ya permiten a los usuarios reportar incidentes en tiempo real y cuentan con una amplia comunidad que alimenta sus alertas de tráfico."
-        },
-        {
-          "label": "Historia de Apple Maps",
-          "text": "Apple Maps lanzó su sistema de avisos de tráfico hace varios años, pero la participación de la comunidad ha sido históricamente baja en comparación con sus rivales."
-        },
-        {
-          "label": "Evaluación de informes por Apple",
-          "text": "Apple revisa la fiabilidad de los reportes antes de mostrarlos a demás usuarios, lo que puede retrasar la difusión de la información pero busca evitar falsos positivos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
       }
     }
   ]
