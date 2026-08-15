@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-15T17:41:52.473810+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Rabat expulsa a los periodistas de Ef",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la estructura invertida y la actualidad, pero necesita mayor contraste de fuentes y evidencia verificable para reforzar su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:42:05.743852+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de alta calidad editorial, cumple con los criterios de precisión, objetividad y estructura, y solo necesita una ligera ampliación de fuentes externas para alcanzar la excelencia completa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:42:11.954914+00:00",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 15 de agosto: balacera entre militares y ci",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque la precisión de algunos datos y la amplitud de fuentes podrían mejorarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:49:08.893944+00:00",
-      "title": "Jason Arday, el profesor negro más joven en la historia de Cambridge, hallado muerto tras una \"campa",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es reciente y estructurado razonablemente, pero carece de verificación factual y muestra un sesgo pronunciado, lo que compromete su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:49:13.549283+00:00",
-      "title": "Temblor hoy en México: se registra sismo de 4.3 en Chiapas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia de hecho verificable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:49:18.998975+00:00",
-      "title": "Revista Vehicular 2026 arrancará el lunes 17 de agosto para transporte de carga y pasajeros en CDMX",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque podría beneficiarse de fuentes adicionales para reforzar la verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:49:27.716488+00:00",
-      "title": "Muere Daniela Largo tras sobrevivir casi 37 horas bajo los escombros del terremoto en Colombia",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad para una noticia objetiva y reciente, aunque podría beneficiarse de fuentes adicionales para reforzar el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:49:35.327918+00:00",
-      "title": "El efecto dominó tras el frustrado pase del japonés Zion Suzuki al PSG que podría sacar a Dibu Martí",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita reforzar la verificación de hechos y diversificar sus fuentes, aunque mantiene una buena objetividad y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T17:49:38.287813+00:00",
-      "title": "Windows 11 se actualiza y corrige más de 400 fallos en su parche de agosto",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de información objetiva y oportuna, aunque podría reforzarse con fuentes oficiales para mayor veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-15T17:49:50.941934+00:00",
       "title": "Nada tan angustioso en la tierra",
       "kind": "noticia",
@@ -3386,6 +3233,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad periodística, aunque podría reforzar la verificación con fuentes concretas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:31:39.865782+00:00",
+      "title": "Tazas rotas y palabras que se escapan: la magia fragmentaria de Clarice Lispector",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 8,
+        "voz_autor": 9,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una perspectiva original y bien estructurada sobre Lispector, con estilo sólido y profundidad temática.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:31:44.067958+00:00",
+      "title": "Atlante vs. Toluca EN VIVO: partido de la Jornada 4 del Apertura 2026 en el Estadio Azteca",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de una noticia deportiva objetiva y actual, con una estructura clara y fuentes razonables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:31:50.888416+00:00",
+      "title": "Tras victoria de San Lorenzo ante Unión, Newell’s recibe a Riestra y Belgrano a Independiente Rivada",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los requisitos de objetividad, actualidad y estructura, pero presenta errores de veracidad y falta de fuentes contrastantes que reducen su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:31:53.960570+00:00",
+      "title": "‘Al que quieren no es al chico sino al grande’: José Ramiro López Obrador acusa que EE. UU. busca da",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y cumple con los estándares de objetividad y actualidad, aunque podría mejorar la inclusión de fuentes estadounidenses para un contraste más equilibrado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:32:00.370984+00:00",
+      "title": "LeBron James, Messi y Cristiano Ronaldo: cómo construyen su fortuna tras el deporte",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría enriquecer la variedad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:32:06.381993+00:00",
+      "title": "El Sevilla remonta de penalti ante un Rayo muy flojo",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la precisión de los datos y ampliar la variedad de fuentes, pero la estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:32:12.013094+00:00",
+      "title": "Todo lo que debes saber de Linterna Verde antes de ver ‘Linternas’, la nueva serie de DC en HBO Max",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado pero necesita mayor verificación de datos y fuentes más variadas para alcanzar la calidad editorial completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:32:22.480171+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, objetiva y bien estructurada, con fuentes confiables y actualidad reciente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T22:32:28.646900+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 15 de agosto: Marina decomisa 1.9 toneladas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes oficiales y mayor contraste de voces.",
       "error": null
     }
   ]
