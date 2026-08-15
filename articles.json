@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-15T04:21:24.216887+00:00",
+  "generated_at": "2026-08-15T04:45:30.836763+00:00",
   "articles": [
+    {
+      "id": "be0590092973",
+      "title": "Cofepris descarta salmonella en chiles jalapeños de Nuevo León; mantienen vigilancia permanente",
+      "summary": "La Cofepris de México informó que, tras inspeccionar una empacadora de chiles jalapeños en Nuevo León, no se detectó Salmonella Javiana en las muestras analizadas, aunque mantiene vigilancia permanente ante el brote registrado en Estados Unidos.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/cofepris-descarta-salmonella-en-chiles-jalapenos-de-nuevo-leon-mantienen-vigilancia-permanente/",
+      "published_at": "2026-08-15T04:17:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y citeivo, citando únicamente fuentes oficiales como Cofepris, FDA y CDC, sin emplear lenguaje cargado ni favorecer una postura política.",
+      "focus_analysis": "El medio se centró en la respuesta sanitaria y la ausencia de contaminación, dejando de lado los posibles impactos económicos para los productores y la percepción pública del riesgo.",
+      "focus_tags": [
+        "salud pública",
+        "seguridad alimentaria",
+        "vigilancia sanitaria"
+      ],
+      "context": [
+        {
+          "label": "Notificación de la FDA",
+          "text": "La Administración de Alimentos y Medicamentos de EE. UU. alertó a México sobre un brote de Salmonella Javiana vinculado a chiles jalapeños importados, lo que motivó la inspección de Cofepris."
+        },
+        {
+          "label": "Datos del CDC",
+          "text": "Los Centros para el Control y la Prevención de Enfermedades reportaron 345 casos de salmonelosis en EE. UU. relacionados con los jalapeños, con 36 hospitalizaciones, principalmente en Minnesota y Colorado."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros periódicos, como Aristegui Noticias y El Informador, destacaron la magnitud del brote en EE. UU. y la posible subestimación de casos, reforzando la importancia de la vigilancia sanitaria."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "982922a4e759",
+      "title": "Sismo de 4.7 de magnitud se registra en Chiapas",
+      "summary": "El Servicio Sismológico Nacional de México reportó que un sismo de magnitud 4.7 se originó cerca de Pijijiapan, Chiapas, sin causar daños reportados, y recordó a la población mantenerse alerta y seguir las recomendaciones de protección civil.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/15/sismo-de-47-de-magnitud-se-registra-en-chiapas/",
+      "published_at": "2026-08-15T04:30:58+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono estrictamente informativo, citando solo fuentes oficiales como el SSN y Cenapred, sin usar lenguaje cargado ni presentar opiniones.",
+      "focus_analysis": "El artículo se enfocó en los datos técnicos del temblor y en las pautas de seguridad, omitiendo testimonios de víctimas o análisis de posibles implicaciones políticas.",
+      "focus_tags": [
+        "sismo",
+        "seguridad civil",
+        "alerta sísmica"
+      ],
+      "context": [
+        {
+          "label": "antecedentes sísmicos de México",
+          "text": "México se encuentra sobre la zona de subducción de la placa de Cocos, lo que genera cientos de sismos diarios, aunque la mayoría son de baja magnitud y apenas perceptibles."
+        },
+        {
+          "label": "historial de terremotos graves",
+          "text": "Los terremotos más devastadores en la historia reciente del país fueron el de 1985 en la Ciudad de México (magnitud 8.2) y el de 2017 en Puebla‑Morelos (magnitud 6.9), que causaron cientos de muertes y amplios daños."
+        },
+        {
+          "label": "enfoques de otros medios",
+          "text": "A diferencia de la cobertura de Infobae, medios como Expansión y El Sol de México resaltaron eventos sísmicos en Indonesia y España, centrando la atención en alertas de tsunami o en la reacción de streamers, lo que muestra una diferencia de enfoque entre la información local y la dramatización internacional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres analiza el cuento “El entierro prematuro” de Edgar Allan Poe, situándolo dentro de la larga tradición occidental de temor a ser enterrado vivo y citando ejemplos históricos como los de Feijoo y la literatura del siglo XVIII.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y académico, sin emplear vocabulario cargado ni presentar una agenda política; se centra en la literatura y la historia cultural.",
+      "focus_analysis": "El medio elige un ángulo literario‑histórico, resaltando el miedo a los entierros prematuros y su representación en la obra de Poe, mientras omite cualquier enfoque político o social contemporáneo.",
+      "focus_tags": [
+        "literatura",
+        "historia cultural",
+        "miedo a la muerte"
+      ],
+      "context": [
+        {
+          "label": "Miedo histórico a los entierros prematuros",
+          "text": "Durante siglos, en Europa y América, la idea de ser enterrado con vida generó pánico y llevó a la creación de medidas como los dispositivos de detección de vida y los protocolos de observación antes del entierro."
+        },
+        {
+          "label": "Edgar Allan Poe y la literatura gótica",
+          "text": "Poe, autor del cuento “El entierro prematuro”, es una figura central de la literatura gótica del siglo XIX, cuyas obras exploraban temores humanos profundos y fenómenos sobrenaturales."
+        },
+        {
+          "label": "Benito Jerónimo Feijoo y la reflexión del siglo XVIII",
+          "text": "El monje y escritor español Feijoo abordó el tema del entierro vivo en sus cartas del siglo XVIII, criticando la falta de rigor científico y proponiendo criterios para confirmar la muerte antes del entierro."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e07b9278a559",
+      "title": "Activan fase de emergencia ante el riesgo sísmico tras el terremoto de magnitud 5 en Alhendín, España",
+      "summary": "El consejero de la Junta de Andalucía, Antonio Sanz, declaró fase de emergencia operativa 1 en Granada tras el terremoto de magnitud 5 en Alhendín, y recomendó a la población evitar desplazarse innecesariamente y alejarse de elementos estructurales peligrosos.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/activan-fase-emergencia-riesgo-sismico-terremoto-magnitud-5-alhendin-espana-20260814-828423.html",
+      "published_at": "2026-08-15T03:47:24+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a reproducir la información oficial y las recomendaciones de seguridad sin emplear lenguaje emotivo ni citar fuentes con sesgo evidente.",
+      "focus_analysis": "El medio se centró en la respuesta institucional y las medidas de precaución, dejando de lado la evaluación de daños materiales y el impacto humano del sismo.",
+      "focus_tags": [
+        "seguridad pública",
+        "gestión de emergencias",
+        "sismología"
+      ],
+      "context": [
+        {
+          "label": "Riesgo sísmico en Andalucía",
+          "text": "Andalucía cuenta con un plan de emergencia sísmica que se activa cuando se detectan eventos de magnitud significativa, como el reciente sismo de 5,0 en Alhendín."
+        },
+        {
+          "label": "Procedimientos de la Junta de Andalucía",
+          "text": "El Plan de Emergencia de Andalucía establece distintas fases operativas; la fase 1 implica la activación de protocolos de alerta y la difusión de recomendaciones a la ciudadanía."
+        },
+        {
+          "label": "Cobertura de medios vecinos",
+          "text": "Otros medios, como DW Español, señalaron que no se reportaron heridos y que los daños materiales fueron limitados, reforzando la visión de una situación bajo control."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e4c0b4156f44",
+      "title": "Cómo será la cancha que se utilizará en Neuquén para enfrentar a Turquía por la Copa Davis: las razones y los detalles de construcción",
+      "summary": "El estadio Ruca Che de Neuquén será el escenario de los play‑offs de la Copa Davis entre Argentina y Turquía, y la pista se construirá con una superficie dura de pintura acrílica provista por la empresa española GreenSet.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/15/como-sera-la-cancha-que-se-utilizara-en-neuquen-para-enfrentar-a-turquia-por-la-copa-davis-las-razones-y-los-detalles-de-construccion/",
+      "published_at": "2026-08-15T04:29:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir de forma factual los aspectos técnicos y las declaraciones de funcionarios, sin emplear lenguaje cargado ni favorecer a ninguna de las partes involucradas.",
+      "focus_analysis": "El medio elige cubrir los detalles técnicos y logísticos de la construcción de la pista, dejando de lado el componente deportivo y la expectativa del público.",
+      "focus_tags": [
+        "corte técnico",
+        "infraestructura deportiva",
+        "Copa Davis"
+      ],
+      "context": [
+        {
+          "label": "historial de canchas",
+          "text": "Argentina ya había jugado la Copa Davis en rec cubiertas en Mar del Plata (2008), Tecnópolis (2015) y Aldo Cantoni (2018), alternando entre polvo de ladrillo y superficies rápidas."
+        },
+        {
+          "label": "preferencias de los jugadores",
+          "text": "El capitán Javier Frana y los tenistas argentinos optaron por una superficie dura para evitar la adaptación antes de los próximos torneos asiáticos de hard court."
+        },
+        {
+          "label": "empresa constructora",
+          "text": "GreenSet, fundada por el ex tenista Javier Sánchez Vicario y adquirida por el fondo europeo BD‑Capital, suministra la capa de pintura acrílica y los materiales procedentes de España para la pista de Neuquén."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "ebbb33b7d83c",
+      "title": "Noche de nostalgia, lluvia y fe: El Unión de Curtidores celebra 98 años",
+      "summary": "El club de fútbol Unión de Curtidores, con sede en León, México, celebró su 98.º aniversario con una misa y partidos de exhibición que reunieron a veteranos, exgobernador y jóvenes del equipo.",
+      "category": "deportes",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/superdeportivo/2026/08/14/noche-de-nostalgia-lluvia-y-fe-el-union-de-curtidores-celebra-98-anos-1832563.html",
+      "published_at": "2026-08-15T04:31:50+00:00",
+      "bias_score": 5,
+      "bias_reason": "El artículo utiliza un tono nostálgico y elogioso, resaltando la tradición y la unidad del club sin presentar críticas ni puntos de vista contrapuestos.",
+      "focus_analysis": "El medio se centró en la dimensión histórica y comunitaria del aniversario, destacando la emoción de los aficionados y la continuidad del club; no abordó aspectos económicos ni de desempeño deportivo actual.",
+      "focus_tags": [
+        "deporte local",
+        "aniversario",
+        "cultura leonesa"
+      ],
+      "context": [
+        {
+          "label": "origen",
+          "text": "El Unión de Curtidores se fundó en 1928 y ha sido uno de los equipos más representativos del fútbol de León, con una larga trayectoria en divisiones profesionales."
+        },
+        {
+          "label": "rivalidad",
+          "text": "El club mantiene una histórica rivalidad con el Salamanca, enfrentándose en partidos de veteranos que recuerdan los clásicos del pasado."
+        },
+        {
+          "label": "proyección",
+          "text": "La dirigencia ya está planificando los festejos para el centenario en 2028, lo que muestra la intención de preservar la identidad y la afición del equipo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "edcf6fd432e7",
+      "title": "Cuando el polvo se vuelve río: la magia de Yvonne Owuor",
+      "summary": "Un puñado de polvo se eleva bajo la luz del atardecer, girando como una corriente diminuta que busca su cauce entre los recuerdos de un pueblo. En esa danza, la novela *Dust* de Yvonne Adhiambo Owuor surge como un espejo roto que refleja la historia de Kenia con la claridad de un espejo de agua.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-15T04:44:34.581440+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Escogí este tema porque el verano africano, con su polvo y su luz abrasadora, invita a transformar lo efímero en relato permanente. La obra de Owuor muestra cómo el pasado, aunque fragmentado, puede fluir como río bajo la superficie de la memoria. En el día de hoy, esa transformación resuena como un llamado a escuchar los susurros del tiempo.",
+      "focus_tags": [
+        "Ficción africana",
+        "Contemporáneo",
+        "Kenya"
+      ],
+      "context": [
+        {
+          "label": "Biografía esencial",
+          "text": "Nacida en Nairobi en 1968, Yvonne Adhiambo Owuor estudió literatura en la Universidad de York antes de regresar a Kenia, donde su escritura se nutre de la historia oral y los paisajes urbanos de su tierra natal."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si la resonancia de *Dust* le atrae, explore también *Half of a Yellow Sun* de Chimamanda Ngozi Adichie y *The Shadow of the Sun* de Ryszard Kapuściński, que comparten la capacidad de mezclar crónica histórica con voz poética."
+        },
+        {
+          "label": "Trasfondo histórico",
+          "text": "La novela se sitúa en la Kenia postcolonial, entre la era de la independencia y los golpes de Estado de los años setenta, ofreciendo una perspectiva íntima de la violencia y la esperanza que marcó esa época."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "f5f074777683",
       "title": "Nada tan angustioso en la tierra",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "f39e63327175",
-      "title": "Al menos cinco muertos tras un terremoto de 7,7 de magnitud en Indonesia",
-      "summary": "El sismo de magnitud 7,7 que sacudió Indonesia dejó al menos cinco muertos y provocó una alerta temprana de tsunami para zonas costeras del archipiélago.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/internacional/2026-08-14/un-terremoto-de-77-de-magnitud-sacude-la-costa-de-indonesia.html",
-      "published_at": "2026-08-15T03:46:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a informar datos del terremoto y la alerta de tsunami sin usar lenguaje cargado ni fuentes con sesgo; la única diferencia con otras coberturas es el número de fallecidos, pero no hay tono sensacionalista.",
-      "focus_analysis": "Se centra en el número de víctimas y la alerta de tsunami, dejando de lado los impactos económicos o los daños estructurales del sismo.",
-      "focus_tags": [
-        "sismo",
-        "alerta de tsunami",
-        "víctimas"
-      ],
-      "context": [
-        {
-          "label": "Riesgo sísmico de Indonesia",
-          "text": "Indonesia está ubicada en el Cinturón de Fuego del Pacífico y ha experimentado numerosos terremotos y tsunamis, como el devastador de 2004 que causó cientos de miles de muertos."
-        },
-        {
-          "label": "Discrepancia en cifras de muertos",
-          "text": "Mientras El País informa al menos cinco fallecidos, otros medios como El Economista, El Universal y DW Español reportan entre uno y dos muertos, lo que refleja variaciones en la información disponible en los primeros momentos del su."
-        },
-        {
-          "label": "Alerta temprana de tsunami",
-          "text": "La agencia geofísica del archipiélago emitió una alerta temprana de tsunami para varias regiones costeras, una medida estándar tras sismos de gran magnitud en la zona."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "28f9714a5ede",
-      "title": "‘Kingdom Hearts’ se convertirá en una serie para Disney+ y ya tiene primera imagen",
-      "summary": "Disney+ anunció que producirá una serie basada en el videojuego Kingdom Hearts, revelada en la convención D23 2026 con su primera imagen y bajo la colaboración de Disney, Square Enix y el creador Tetsuya Nomura.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/cine-television/kingdom-hearts-se-convertira-en-una-serie-para-disney-y-ya-tiene-primera-imagen/",
-      "published_at": "2026-08-15T03:29:00+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono celebratorio y solo cita a representantes de Disney, sin incluir opiniones críticas ni fuentes independientes, lo que le otorga una ligera inclinación positiva.",
-      "focus_analysis": "El artículo se centra en el anuncio institucional y la emoción de los fans, dejando de lado cualquier análisis sobre la viabilidad artística o comercial de la adaptación.",
-      "focus_tags": [
-        "entretenimiento",
-        "videojuegos",
-        "series streaming"
-      ],
-      "context": [
-        {
-          "label": "Franquicia",
-          "text": "Kingdom Hearts es una saga de videojuegos lanzada en 2002 por Square Enix, conocida por mezclar personajes y escenarios de Disney con elementos de Final Fantasy."
-        },
-        {
-          "label": "Estrategia Disney+",
-          "text": "Disney+ ha venido expandiendo su catálogo con series originales basadas en propiedades existentes, como \"The Mandalorian\" y \"WandaVision\", para atraer a suscriptores y aprovechar sus franquicias."
-        },
-        {
-          "label": "Reacción del público",
-          "text": "Los seguidores de la saga han expresado entusiasmo en foros y redes sociales ante la noticia, aunque también se plantean dudas sobre cómo se traducirá la experiencia interactiva del juego a un formato televisivo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres explora, con referencias a Edgar Allan Poe, Benito Jerónimo Feijoo y otros autores, el histórico temor a ser enterrado vivo en Occidente, describiendo sus raíces culturales y los relatos que lo ilustran.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y literario, sin usar vocabulario cargado ni citar fuentes políticas, enfocándose únicamente en la tradición cultural y literaria del tema.",
-      "focus_analysis": "El medio elige un ángulo cultural‑histórico, analizando el miedo al entierro prematuro mediante obras literarias y referencias históricas; omite una perspectiva médica o sociológica contemporánea.",
-      "focus_tags": [
-        "temas literarios",
-        "historia del miedo",
-        "cultura occidental"
-      ],
-      "context": [
-        {
-          "label": "antecedentes históricos",
-          "text": "En los siglos XVIII y XIX, el temor a ser enterrado vivo era frecuente en Europa, lo que llevó a la adopción de protocolos como la observación de varios días antes del entierro para confirmar la muerte."
-        },
-        {
-          "label": "influenza literaria",
-          "text": "Edgar Allan Poe popularizó el terror del entierro prematuro en su cuento \"El entierro prematuro\", y autores como Feijoo y San Juan de la Cruz también abordaron el tema en sus escritos."
-        },
-        {
-          "label": "perspectiva contemporánea",
-          "text": "Hoy en día, la medicina moderna y los reglamentos funerarios incluyen requisitos de certificación de muerte y períodos de observación que reducen significativamente el riesgo de entierros vivos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "a2ee3c7ce05e",
-      "title": "El comunicado de Rosario Central tras la grave denuncia que hizo el arquero de Corinthians en el partido de Copa Libertadores",
-      "summary": "Rosario Central, club de fútbol argentino, emitió un comunicado oficial en el que rechaza cualquier forma de discriminación y solicita a la CONMEBOL investigar los presuntos insultos racistas denunciados por el arquero brasileño Hugo Souza del Corinthians durante el partido de ida de los octavos de final de la Copa Libertadores.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/15/el-comunicado-de-rosario-central-tras-la-grave-denuncia-que-hizo-el-arquero-de-corinthians-en-el-partido-de-copa-libertadores/",
-      "published_at": "2026-08-15T01:53:23+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo reproduce de forma equilibrada las declaraciones de Rosario Central y de Hugo Souza, sin emplear vocabulario cargado ni favorecer explícitamente a ninguna de las partes.",
-      "focus_analysis": "El medio se centró en la respuesta institucional de Rosario Central y en el procedimiento antirracista de la CONMEBOL, dejando de lado un análisis más profundo sobre la prevalencia del racismo en el fútbol sudamericano.",
-      "focus_tags": [
-        "racismo en fútbol",
-        "declaración institucional",
-        "Copa Libertadores"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "En los últimos años, la Copa Libertadores ha registrado varios incidentes de racismo, como el caso de 2023 en el que jugadores argentinos denunciaron insultos en un partido contra un club brasileño, lo que ha llevado a la CONMEBOL a reforzar sus protocolos antirracistas."
-        },
-        {
-          "label": "Protocolo CONMEBOL",
-          "text": "La CONMEBOL cuenta con un protocolo antirracista que permite suspender el juego y exigir investigaciones cuando se reportan insultos discriminatorios, y ha impuesto sanciones a clubes y aficiones en situaciones similares."
-        },
-        {
-          "label": "Reacción de Corinthians",
-          "text": "Corinthians, por su parte, emitió una declaración oficial exigiendo una respuesta contundente del organizador del torneo y respaldando la denuncia del arquero Hugo Souza sobre los supuestos insultos racistas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "3ff70ca71e0a",
-      "title": "Terremoto de magnitud 5 en España deja daños materiales",
-      "summary": "El terremoto de magnitud 5 que se sintió en el sur de España, con epicentro en Alhendín (provincia de Granada, Andalucía), provocó daños materiales sin causar heridos, y las autoridades activaron la fase de emergencia del Plan ante el Riesgo Sísmico.",
-      "category": "sociedad",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/terremoto-de-magnitud-5-en-españa-deja-daños-materiales/a-78378360?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-15T03:18:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, se apoya en fuentes oficiales y no incluye palabras cargadas ni encuadres políticos.",
-      "focus_analysis": "El artículo se centra en los efectos materiales del sismo y la respuesta institucional de seguridad, dejando de lado un análisis de la vulnerabilidad sísmica de la región o la historia de terremotos en España.",
-      "focus_tags": [
-        "sismo",
-        "andalucía",
-        "seguridad pública"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes sísmicos",
-          "text": "La zona de Granada ha experimentado varios temblores de magnitud moderada en los últimos años, lo que motivó a la comunidad autónoma a elaborar un Plan ante el Riesgo Sísmico."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "El Gobierno regional de Andalucía activó la fase operativa 1 del plan sísmico y la Diputación de Granada convocó a un comité técnico para inspeccionar los edificios afectados."
-        },
-        {
-          "label": "Comparación europea",
-          "text": "A diferencia de otros sismos recientes en Europa, como el de 4,8 en Italia en 2025, el terremoto español no provocó víctimas y los daños se limitaron a desprendimientos y cortes de energía."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "7625c0314b77",
-      "title": "Comentarista se despide de Televisa tras más de una década: \"Llegó el capítulo final\"",
-      "summary": "Juan Carlos Díaz Murrieta, destacado comentarista deportivo de Televisa y TUDN, anunció en sus redes sociales que tras 12 años de labor en la cadena su etapa llega a su ‘capítulo final’, agradeciendo a colegas y seguidores.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/comentarista-se-despide-de-televisa-tras-mas-de-una-decada-llego-el-capitulo-final/",
-      "published_at": "2026-08-15T03:33:22+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta la información de forma factual y neutra, sin usar vocabulario cargado ni seleccionar fuentes que favorezcan una postura política o institucional.",
-      "focus_analysis": "El medio se centró en la dimensión humana y profesional del despedida del comentarista, resaltando sus sentimientos y trayectoria, mientras dejó de lado el impacto institucional o económico de su salida para Televisa.",
-      "focus_tags": [
-        "carrera deportiva",
-        "despedida profesional",
-        "medios deportivos"
-      ],
-      "context": [
-        {
-          "label": "Televisa y TUDN",
-          "text": "Televisa, a través de su división deportiva TUDN, es uno de los principales productores de contenido deportivo en México, con una amplia audiencia tanto en señal abierta como en plataformas digitales."
-        },
-        {
-          "label": "Movimientos en el periodismo deportivo mexicano",
-          "text": "En los últimos años, varios periodistas y comentaristas de alto perfil han cambiado de empresa o dejado sus puestos, reflejando una dinámica de reestructuración y competencia entre cadenas de deportes."
-        },
-        {
-          "label": "Trayectoria de Juan Carlos Díaz Murrieta",
-          "text": "Durante más de una década, Díaz Murrieta se consolidó como narrador y analista de fútbol, cubriendo partidos tanto en México como en la liga de Estados Unidos, y ha sido reconocido por su profesionalismo y capacidad bilingüe."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "d0b8326f3a56",
-      "title": "Apio Quijano responde a los fandoms de La Casa de los Famosos México tras criticar a los habitantes",
-      "summary": "El cantante mexicano Apio Quijano, exintegrante de Kabah, respondió a los fandoms de La Casa de los Famosos México después de haber calificado a varios concursantes de \"fodongos\" y \"fachosos\", defendiendo sus comentarios como una opinión solicitada y rechazando las acusaciones de clasismo.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/15/apio-quijano-responde-a-los-fandoms-de-la-casa-de-los-famosos-mexico-tras-criticar-a-los-habitantes/",
-      "published_at": "2026-08-15T03:37:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono mayormente neutro, reproduce citas del propio Quijano y no emplea lenguaje cargado ni selecciones de fuentes que favorezcan una postura política clara.",
-      "focus_analysis": "El medio se centra en la defensa de la libertad de expresión del cantante y en la polémica generada en redes sociales, dejando de lado un análisis más profundo del impacto de sus comentarios en la percepción del reality y en la dinámica de los fandoms.",
-      "focus_tags": [
-        "libertad de expresión",
-        "cultura de reality",
-        "controversia en redes"
-      ],
-      "context": [
-        {
-          "label": "Programa de televisión",
-          "text": "La Casa de los Famosos México es una versión local del reality show internacional donde celebridades conviven bajo vigilancia constante y compiten por el voto del público."
-        },
-        {
-          "label": "Controversias previas",
-          "text": "En temporadas anteriores, los participantes han sido criticados por su estilo y comportamiento, generando reacciones intensas de los seguidores y debates sobre el dress code y la etiqueta dentro del programa."
-        },
-        {
-          "label": "Debate sobre clasismo",
-          "text": "En el discurso público mexicano, el término \"clasismo\" se ha vuelto frecuente en polémicas mediáticas, y varios analistas han señalado que su uso a veces sirve para descalificar críticas sin profundizar en el contenido."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]
