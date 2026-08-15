@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-15T10:00:55.384397+00:00",
-      "title": "Vídeo, caos mientras un fuerte terremoto sacude Indonesia",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y actual, aunque podría reforzar la veracidad con fuentes más específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:01:03.387032+00:00",
-      "title": "Llevo dos meses usando iOS 27 y tengo clara una cosa: es lo que tenía que haber tenido el iPhone sie",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete carece de veracidad y contraste de fuentes, y presenta una visión demasiado subjetiva, aunque es actual y sigue en parte la estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:01:06.248608+00:00",
-      "title": "Fidel, un hombre de “carne y hueso” en La contraofensiva estratégica",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido, con buena cobertura de fuentes y estructura, aunque algunos datos requieren verificación adicional.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:01:16.954665+00:00",
-      "title": "Activan fase de emergencia ante el riesgo sísmico tras el terremoto de magnitud 5 en Alhendín, Españ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría reforzar la diversidad de fuentes para alcanzar la excelencia plena.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:01:25.390594+00:00",
-      "title": "Clara Brugada destaca la disminución de homicidios dolosos  en la alcaldía Cuajimalpa",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los requisitos estructurales y de actualidad, pero la falta de fuentes verificables y la parcialidad implícita reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:01:31.590119+00:00",
-      "title": "Portada impresa del 15 de agosto de 2026",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales: es veraz, actual, objetivo y bien estructurado, aunque su profundidad es limitada al anuncio de la edición impresa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:20:45.192924+00:00",
-      "title": "El eco de una taza rota: la familia en la novela de Christina Stead",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "originalidad_creatividad": 6,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 9,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto es sólido y evocador, aunque recurre a algunos recursos habituales y una referencia inventada que debilita su originalidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:20:51.779709+00:00",
-      "title": "Precios de la gasolina hoy en Jalisco: Litro de Magna, Premium y Diésel este viernes 14 de agosto",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una noticia factual, actual y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T10:20:58.321923+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos dice que ha frustrado un nu",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, pero podría enriquecer su contraste de fuentes añadiendo perspectivas adicionales y datos verificables.",
-      "error": null
-    },
-    {
       "at": "2026-08-15T10:21:05.126739+00:00",
       "title": "Thiago Tirante enfrenta a Novak Djokovic en el Masters 1000 de Cincinnati: hora y cómo verlo en vivo",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 10
       },
       "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y presenta la información de manera objetiva y bien contextualizada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:00:44.562170+00:00",
+      "title": "De Venezuela a Colombia: los terremotos más mortales y poderosos que han marcado 2026",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es actual y está bien estructurado, pero la falta de verificación de datos y de fuentes contrastantes compromete su fiabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:00:53.285710+00:00",
+      "title": "3 razones para ver ‘La última casa’, la nueva película de terror y ciencia ficción de Netflix",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es reciente y estructurado, pero presenta errores de factualidad y carece de fuentes contrastadas, lo que afecta su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:00:58.511165+00:00",
+      "title": "Sorpresa en Independiente: el brasileño Jadson Viera se convertirá en el nuevo entrenador tras la sa",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado, pero los errores sobre la identidad del entrenador afectan su veracidad y requieren corrección.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:01:04.341617+00:00",
+      "title": "Terremoto frente a la costa de Indonesia deja al menos 47 muertos; reportan edificios colapsados",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, pluralidad de fuentes, objetividad, actualidad y estructura de pirámide invertida, siendo apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:01:13.034931+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Rabat expulsa a los periodistas de Ef",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado y actual, pero la redacción contiene juicios no atribuidos que comprometen la objetividad; se recomienda suavizar el lenguaje para cumplir plenamente con la imparcialidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:01:17.958282+00:00",
+      "title": "Sufre Guardia Nacional fractura expuesta  al derrapar su moto durante persecución en Celaya",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, con una ligera reserva por la falta de fuentes múltiples, pero en general es preciso, actual y objetivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:01:32.365415+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, neutral y oportuna con una estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:01:38.966056+00:00",
+      "title": "Fertilidad en América Latina: el problema de desarrollo que ningún ministerio cree que le correspond",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y objetivo, pero podría reforzarse con fuentes más diversas y verificar la exactitud de la tasa de caída anual citada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T15:01:47.388149+00:00",
+      "title": "Google Maps te muestra los incendios que hay activos en España casi en tiempo real para que tengas c",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando datos precisos y de forma objetiva, con buena estructura y actualidad.",
       "error": null
     }
   ]
