@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-15T00:21:17.786384+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando información verificable y objetiva con una estructura adecuada; solo podría enriquecer la variedad de fuentes en futuros artículos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:21:25.345045+00:00",
-      "title": "Venezuela anuncia la excarcelación de más de 130 personas detenidas por motivos políticos",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero requiere mayor respaldo de fuentes verificables y un equilibrio de voces para alcanzar plenamente los estándares de objetividad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:21:30.408858+00:00",
-      "title": "De la patrulla a las aulas: Se gradúan primeros policías abogados en León",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque la ausencia de voces críticas afecta ligeramente la objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:21:36.900974+00:00",
-      "title": "Sam Smith: del pub a los grandes escenarios, así fue el camino antes de convertirse en estrella del ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales; solo se sugiere añadir fuentes complementarias para mayor robustez, pero en general es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:40:56.071831+00:00",
-      "title": "Cuando la luz del faro escribe cartas de amor: Bioy Casares y su obra inmortal",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "originalidad_creatividad": 6,
-        "riqueza_estilo": 6,
-        "estructura_narrativa": 6,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto es agradable y ofrece una perspectiva interesante, pero los errores históricos y la falta de mayor originalidad reducen su puntuación editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:41:00.969861+00:00",
-      "title": "En un duelo de necesitados, Racing pierde contra Banfield en el inicio de la fecha 5 del Torneo Clau",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, objetiva y reciente con una estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:41:07.097930+00:00",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 14 de agosto: Detienen al director y tres e",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere reforzar la citación de fuentes específicas para alcanzar la perfección.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:41:12.754640+00:00",
-      "title": "Amancio Ortega, fundador de Inditex, entra en Australia tras cerrar compra de Qube",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales; solo necesita fuentes adicionales para reforzar la verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:41:16.230154+00:00",
-      "title": "Terremoto de magnitud 7.7 sacude a Indonesia",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares periodísticos, ofreciendo datos precisos, fuentes fiables, objetividad y una estructura clara.",
-      "error": null
-    },
-    {
-      "at": "2026-08-15T00:41:22.190094+00:00",
-      "title": "Terremoto magnitud 7,7 en Indonesia, ordenan evacuaciones",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 10,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares editoriales: es preciso, bien contrastado, objetivo, actual y estructurado según la pirámide invertida.",
-      "error": null
-    },
-    {
       "at": "2026-08-15T00:41:27.463944+00:00",
       "title": "Marvel dice adiós a sus series de Disney Plus:  VisionQuest será la última",
       "kind": "noticia",
@@ -3398,6 +3228,176 @@
         "estructura_piramide": 8
       },
       "observacion": "En general, el paquete cumple con los estándares de objetividad y actualidad, aunque podría enriquecer la contextualización con fuentes externas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:40:41.012572+00:00",
+      "title": "El espejo empañado que revela una ciudad imposible",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 6,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, muestra una voz coherente y una temática reflexiva, y está listo para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:40:45.220693+00:00",
+      "title": "Disney anuncia ‘Zootrópolis 3’ durante la D23: estos son los primeros detalles",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta la información de forma clara y actual, pero la falta de precisión en los datos y la escasez de fuentes comprometen su fiabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:40:49.029243+00:00",
+      "title": "La Casa de los Famosos México 2026 EN VIVO: Moisés Peñaloza se salva a sí mismo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales de precisión, imparcialidad y actualidad, aunque la falta de fuentes verificables limita ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:40:55.281844+00:00",
+      "title": "China se queja ante Japón por visita a santuario  de Yasukuni",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita corregir datos clave y ampliar fuentes para mejorar la precisión y el contraste, pero su estructura y actualidad son adecuados.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:41:01.191582+00:00",
+      "title": "Cómo será la cancha que se utilizará en Neuquén para enfrentar a Turquía por la Copa Davis: las razo",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple bien con los estándares de precisión, objetividad y actualidad, aunque algunos detalles de la empresa constructora podrían requerir mayor verificación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:41:08.041399+00:00",
+      "title": "Importante, que se conozca motivo de retiro de visa de Andy López, dice Kenia López; podría haber do",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura, pero carece de evidencia verificable y de fuentes contrastantes, lo que reduce su precisión y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:41:14.021728+00:00",
+      "title": "Activan fase de emergencia ante el riesgo sísmico tras el terremoto de magnitud 5 en Alhendín, Españ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presenta información veraz, contrastada y objetiva, y está bien estructurado y actualizado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:41:22.953517+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una nota clara, reciente y bien estructurada, aunque una mayor diversificación de fuentes podría fortalecer la evaluación de contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:41:28.557844+00:00",
+      "title": "Pixar anuncia su nueva película, ‘Ghost Market’: será una historia de fantasmas y ya tiene tráiler",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma veraz, objetiva y bien estructurada, aunque podría reforzar la verificación con fuentes primarias.",
+      "error": null
+    },
+    {
+      "at": "2026-08-15T05:41:33.552517+00:00",
+      "title": "Andrés Manuel López Beltrán convoca a defender “la soberanía nacional” ante embestida de EEUU",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la veracidad de los hechos no está suficientemente sustentada y el tono muestra parcialidad, lo que reduce su puntuación global.",
       "error": null
     }
   ]
