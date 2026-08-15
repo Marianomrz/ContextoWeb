@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-15T17:42:13.011256+00:00",
+  "generated_at": "2026-08-15T17:50:01.010469+00:00",
   "articles": [
+    {
+      "id": "aaa7e41c6404",
+      "title": "Los incendios obligan a desalojar a más de 1.000 personas en Huesca y a casi 200 en Zamora",
+      "summary": "Los incendios forestales en Huesca y Zamora, Aragón, han provocado el desalojo de más de 1.000 personas en Huesca y cerca de 200 en Zamora; mientras tanto, los bomberos aragoneses mantienen una huelga indefinida desde el 18 de agosto y el Gobierno de Aragón ha solicitado refuerzos a Francia.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/sociedad/2026-08-15/mas-de-1000-personas-desalojadas-en-el-incendio-de-huesca-que-amenaza-municipios-y-el-monasterio-de-san-juan-de-la-pena.html",
+      "published_at": "2026-08-15T17:38:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje neutro y se limita a describir hechos (evacuaciones, huelga y solicitud de ayuda) sin usar vocabulario cargado ni citar fuentes partidistas, lo que indica una cobertura equilibrada.",
+      "focus_analysis": "El medio se centra en el impacto humano de los incendios y en la respuesta institucional (huelga de bomberos y solicitud de refuerzos), dejando de lado el análisis económico de los daños y la dimensión ambiental del fenómeno.",
+      "focus_tags": [
+        "evacuaciones masivas",
+        "huelga de bomberos",
+        "refuerzos internacionales"
+      ],
+      "context": [
+        {
+          "label": "Herramientas de alerta",
+          "text": "Plataformas como Google Maps ofrecen capas en tiempo real de incendios forestales, ayudando a la población a identificar zonas de riesgo y planificar desplazamientos seguros."
+        },
+        {
+          "label": "Reacción de agricultores",
+          "text": "Algunos agricultores de la zona han negado ser responsables de los focos y piden que se explique la magnitud de los incendios sin culpabilizarlos como pirómanos."
+        },
+        {
+          "label": "Tendencia histórica",
+          "text": "En los últimos años, la frecuencia e intensidad de los incendios forestales en Aragón han aumentado, atribuido a factores climáticos y a la gestión del territorio."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo \"Nada tan angustioso en la tierra\" de David Toscana en Letras Libres explora el temor histórico a ser enterrado vivo en Occidente, citando a Edgar Allan Poe, al jesuita Benito Jerónimo Feijoo y a otras fuentes literarias.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en un análisis literario e histórico sin usar lenguaje cargado ni seleccionar fuentes con agenda política, manteniendo un tono neutral.",
+      "focus_analysis": "El medio elige un ángulo histórico‑cultural, resaltando la presencia del miedo al entierro prematuro en la literatura y la tradición europea, mientras deja de lado perspectivas médicas o sociológicas contemporáneas.",
+      "focus_tags": [
+        "historia literaria",
+        "miedo al entierro",
+        "cultura occidental"
+      ],
+      "context": [
+        {
+          "label": "antecedentes históricos",
+          "text": "Durante los siglos XVIII y XIX en Europa se difundió el temor de ser enterrado vivo, lo que llevó a la invención de dispositivos de detección de vida y a la construcción de mausoleos con ventilación."
+        },
+        {
+          "label": "referencia literaria clásica",
+          "text": "Edgar Allan Poe escribió el cuento \"El entierro prematuro\", en el que reflexiona sobre la imposibilidad de representar en ficción eventos demasiado terribles, usando el tema como símbolo de angustia extrema."
+        },
+        {
+          "label": "contribución de la ilustración española",
+          "text": "El escritor y monje benéfico Benito Jerónimo Feijoo, en el siglo XVIII, abordó el tema del entierro prematuro en sus cartas, advertiendo sobre los peligros de la precipitación en los ritos funerarios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "c6ec458e3850",
+      "title": "Windows 11 se actualiza y corrige más de 400 fallos en su parche de agosto",
+      "summary": "Microsoft lanzó el parche de agosto para Windows 11, corrigiendo más de 400 vulnerabilidades, incluidas tres de día cero, y añadió mejoras de accesibilidad, gestión de archivos y soporte para lectores de huellas externas.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/software/windows-11-actualizacion-agosto-2026/",
+      "published_at": "2026-08-15T17:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir técnicamente las actualizaciones y vulnerabilidades sin usar lenguaje cargado ni presentar opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El artículo se centra en los aspectos técnicos y de seguridad del parche, destacando correcciones y nuevas funciones, mientras omite impactos en el rendimiento del sistema o la percepción de los usuarios.",
+      "focus_tags": [
+        "seguridad",
+        "actualizaciones",
+        "Windows 11"
+      ],
+      "context": [
+        {
+          "label": "histórico",
+          "text": "Microsoft publica mensualmente los parches de seguridad conocidos como Patch Tuesday, una práctica que se lleva a cabo desde hace años para mantener sus sistemas operativos protegidos."
+        },
+        {
+          "label": "comparación",
+          "text": "En julio de 2026 el parche de Windows 11 corrigió más de 600 vulnerabilidades, superando la cifra de agosto, lo que muestra una variación mensual en la cantidad de fallos detectados."
+        },
+        {
+          "label": "amenaza",
+          "text": "El grupo de hackers norcoreano Lazarus había explotado una vulnerabilidad de WinSock en versiones anteriores, lo que subraya la importancia de aplicar rápidamente los parches de seguridad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "ec5a2882d364",
+      "title": "Muere Daniela Largo tras sobrevivir casi 37 horas bajo los escombros del terremoto en Colombia",
+      "summary": "Daniela Largo, de 32 años, falleció en un hospital días después de haber sido rescatada con vida tras pasar casi 37 horas atrapada bajo los escombros del terremoto de magnitud 7.4 que devastó a Colombia, convirtiéndose en símbolo de esperanza para la nación.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/muere-daniela-sobrevivir-37-horas-escombros-terremoto-colombia-20260815-828442.html",
+      "published_at": "2026-08-15T17:34:10+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo mantiene un tono neutro, combina datos objetivos sobre el sismo con la historia personal sin usar lenguaje cargado ni favorecer a actores políticos específicos.",
+      "focus_analysis": "El medio se enfocó en la dimensión humana y la respuesta solidaria tras el terremoto, dejando de lado un análisis profundo de la responsabilidad institucional y de la falta de cumplimiento de normas de construcción.",
+      "focus_tags": [
+        "humanidad",
+        "desastre",
+        "solidaridad"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del sismo",
+          "text": "El terremoto de magnitud 7.4 que sacudió a Colombia el 10 de agosto de 2026 dejó al menos 294 muertos y cerca de 4,000 heridos, con ciudades como Cali y Pereira entre las más afectadas."
+        },
+        {
+          "label": "Impacto estructural y social",
+          "text": "Las investigaciones han señalado que la falta de cumplimiento de normas de construcción y la prevalencia de edificaciones informales contribuyeron a la gran cantidad de derrumbes y a la pérdida de viviendas, un tema destacado por analistas del sector."
+        },
+        {
+          "label": "Consecuencias económicas regionales",
+          "text": "En el Quindío, zona cafetera del país, el terremoto amenazó la producción de café y el sustento de los recolectores, generando preocupación por la pérdida de ingresos y la necesidad de apoyo económico."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a365df6d1695",
+      "title": "Revista Vehicular 2026 arrancará el lunes 17 de agosto para transporte de carga y pasajeros en CDMX",
+      "summary": "La Secretaría de Movilidad de la Ciudad de México (Semovi) anunció que la Revista Vehicular 2026 comenzará el lunes 17 de agosto, estableciendo un proceso escalonado de revisión documental y unacción físico‑mecánica para los vehículos de carga y pasajeros, con pagos y requisitos específicos.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/revista-vehicular-2026-arrancara-el-lunes-17-de-agosto-para-transporte-de-carga-y-pasajeros-en-cdmx/",
+      "published_at": "2026-08-15T17:39:25+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el procedimiento oficial sin usar lenguaje cargado ni incluir opiniones, manteniendo un tono totalmente informativo.",
+      "focus_analysis": "El medio se centró en el aspecto administrativo y procedural de la Revista Vehicular, detallando fechas, pagos y documentación, dejando de lado el impacto económico o social en los transportistas.",
+      "focus_tags": [
+        "trámites vehiculares",
+        "transporte CDMX",
+        "revisión documental"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la Revista Vehicular",
+          "text": "La Revista Vehicular es una inspección anual obligatoria en la Ciudad de México que verifica que los vehículos de transporte público, privado y de carga cumplan con normas de seguridad y documentación, y que se lleva a cabo desde hace varios años."
+        },
+        {
+          "label": "Procedimiento de pago y documentación",
+          "text": "Los propietarios deben pagar derechos de 1,716 pesos mediante la Secretaría de Administración y Finanzas, presentar identificación, póliza de seguro, comprobante de domicilio y factura de origen, todo en formato PDF y antes de iniciar la revisión documental."
+        },
+        {
+          "label": "Impacto en transportistas y normativa",
+          "text": "El proceso busca regularizar la circulación de unidades de carga y pasajeros, mejorar la seguridad vial y evitar sanciones, mientras que los talleres autorizados por Semovi realizan la inspección físico‑mecánica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "224521ad99a2",
+      "title": "Temblor hoy en México: se registra sismo de 4.3 en Chiapas",
+      "summary": "El Servicio Sismológico Nacional informó que este sábado 15 de agosto se registró en Chiapas un sismo de magnitud 4.3, con epicentro a 82 km al suroeste de Pijijiapan y una profundidad de 14 km.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/15/temblor-hoy-en-mexico-noticias-actividad-sismica-15-de-agosto-de-2026/",
+      "published_at": "2026-08-15T17:41:27+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos técnicos y no contiene lenguaje cargado ni selección de fuentes que favorezcan una posición ideológica.",
+      "focus_analysis": "El medio se centra en la información técnica y el monitoreo sísmico, omitiendo el impacto humano o las respuestas de la población local.",
+      "focus_tags": [
+        "sismo",
+        "Chiapas",
+        "monitoreo sísmico"
+      ],
+      "context": [
+        {
+          "label": "Geología de México",
+          "text": "México está ubicado sobre la intersección de cinco placas tectónicas, lo que lo convierte en una zona de alta actividad sísmica."
+        },
+        {
+          "label": "Actividad sísmica reciente",
+          "text": "El 17 de julio de 2026 se produjo en Ciudad Hidalgo, Chiapas, un sismo de magnitud 7.4 que generó más de 1,600 réplicas, la más fuerte de 6.5."
+        },
+        {
+          "label": "Instituciones de monitoreo",
+          "text": "El Servicio Sismológico Nacional es la autoridad encargada de vigilar en tiempo real los movimientos telúricos en todo el país y difundir la información a la población."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "018b39e9e7b2",
       "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 15 de agosto: balacera entre militares y civiles deja tres muertos en La Piedad, Michoacán",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.2
-      }
-    },
-    {
-      "id": "a7efed620997",
-      "title": "Qué ocurre después del ‘match’: citas, sexo y relaciones en las aplicaciones de citas",
-      "summary": "El estudio analizado por El Economista muestra que, tras el primer \"match\" en aplicaciones de citas como Tinder y Meetic, la mayoría de los usuarios llegan a encuentros presenciales, pero solo una pequeña proporción culmina en relaciones estables, con diferencias marcadas según género, orientación sexual y edad.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/arteseideas/ocurre-match-citas-sexo-relaciones-aplicaciones-citas-20260815-828431.html",
-      "published_at": "2026-08-15T17:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo emplea un tono descriptivo y se basa en datos de una investigación, sin usar lenguaje cargado ni citar fuentes con sesgo político, lo que indica una cobertura neutra.",
-      "focus_analysis": "El medio se centra en el aspecto social y de comportamiento de los usuarios de apps de citas, resaltando diferencias de género y edad, mientras deja fuera análisis económicos o de privacidad de los datos.",
-      "focus_tags": [
-        "relaciones digitales",
-        "género y sexualidad",
-        "citas presenciales"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Desde mediados de la década de 2010, las aplicaciones de citas se han convertido en una vía principal para conocer parejas, con plataformas como Tinder presentes en más de 185 países y disponibles en más de 60 idiomas."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "Investigaciones previas han documentado fenómenos como el \"ghosting\" y una mayor frecuencia de citas presenciales entre hombres que entre mujeres, reflejando patrones de interacción similares a los hallazgos de este estudio."
-        },
-        {
-          "label": "Posturas de actores",
-          "text": "Organizaciones de defensa de derechos digitales han señalado la necesidad de mayor protección de la privacidad en estas plataformas, un aspecto no abordado en la nota de El Economista."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "3593d80e479d",
-      "title": "Reportan nuevos ataques israelíes en el Líbano; dejan 11 muertos y cientos de desplazados, según ONU",
-      "summary": "Israel intensificó sus ataques aéreos en el sur del Líbano, dejando al menos 11 muertos y cientos de desplazados, según la ONU; el presidente libanés Joseph Aoun condenó los bombardeos como violaciones del acuerdo de cese al fuego mediado por EE. UU.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/reportan-nuevos-ataques-israelies-en-el-libano-dejan-11-muertos-y-cientos-de-desplazados-segun-onu/",
-      "published_at": "2026-08-15T16:45:28+00:00",
-      "bias_score": -5,
-      "bias_reason": "El texto enfatiza las víctimas civiles y la condena libanesa, usa vocabulario crítico como ‘violaciones’ y no incluye la versión israelí de manera destacada, lo que indica un ligero sesgo crítico hacia Israel.",
-      "focus_analysis": "El medio se centró en el impacto humanitario y la reacción política libanesa, dejando en segundo plano la justificación de seguridad israelí y la respuesta de Hezbolá.",
-      "focus_tags": [
-        "humanitario",
-        "conflicto Israel-Líbano",
-        "desplazamiento"
-      ],
-      "context": [
-        {
-          "label": "acuerdo marco",
-          "text": "En junio de 2026 Israel y el Líbano firmaron un acuerdo de cese al fuego mediado por Estados Unidos, que preveía la retirada gradual de tropas israelíes del sur libanés y la reducción de hostilidades."
-        },
-        {
-          "label": "historial de ataques",
-          "text": "Desde la firma del acuerdo, Israel ha mantenido una serie de bombardeos en el sur del Líbano, mientras que Hezbolá ha lanzado cohetes contra territorio israelí, creando un ciclo de violencia recurrente."
-        },
-        {
-          "label": "postura de medios",
-          "text": "Otros medios, como El País y France24, también resaltan la mortalidad de los ataques pero añaden la justificación israelí de responder a un ataque de Hezbolá, lo que contrasta con la ausencia de esa perspectiva en El Universal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El ensayo de David Toscana en Letras Libres explora, desde la literatura y la historia, el temor a ser enterrado vivo que ha perseguido a Occidente durante siglos, citando ejemplos desde la obra de Edgar Allan Poe hasta crónicas del siglo XVIII. El artículo muestra cómo este miedo ha sido narrado en la ficción y reflexiona sobre su carga psicológica y cultural.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se mantiene descriptivo y literario, sin usar un cargada ni citar fuentes con orientación política; el enfoque es cultural e histórico, sin sesgo ideológico evidente.",
-      "focus_analysis": "El medio el el ángulo literario‑histórico, resaltando la representación del entierro prematuro en la literatura y la tradición cultural, dejando de lado aspectos médicos o científicos del tema.",
-      "focus_tags": [
-        "literatura",
-        "historia",
-        "cultura"
-      ],
-      "context": [
-        {
-          "label": "Miedo histórico",
-          "text": "Desde la Edad Media hasta el siglo XVIII, la posibilidad de ser enterrado vivo generó rituales y normas que exigían la espera de varios días antes de la sepultura para evitar errores mortales."
-        },
-        {
-          "label": "Influencia literaria",
-          "text": "Escritores como Edgar Allan Poe popularizaron el terror del entierro prematuro en la ficción, utilizándolo como símbolo de la angustia física y mental."
-        },
-        {
-          "label": "Relevancia contemporánea",
-          "text": "El tema sigue presente en la cultura popular, apareciendo en películas y series que exploran el horror de la claustrofobia y la muerte prematura, reflejando un miedo persistente en la sociedad actual."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "ae91c2db2a4c",
-      "title": "Mucho ojo con estas alertas de Chrome. Pueden instalar malware en tu ordenador",
-      "summary": "Los usuarios de Google Chrome están recibiendo notificaciones falsas de actualizaciones que, al aceptarlas, descargan archivos ejecutables con malware, principalmente a través de la extensión \"Enable Right Click & Copy Smart Unlock + OCR\".",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/seguridad/alertas-google-chrome-malware/",
-      "published_at": "2026-08-15T16:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el problema técnico usando testimonios de usuarios y recomendaciones de seguridad, sin lenguaje cargado ni sesgo político.",
-      "focus_analysis": "El artículo se centra en el riesgo de seguridad informática y en la vulnerabilidad de extensiones del navegador, dejando de lado aspectos como la política de revisión de la Chrome Web Store o el panorama general de ciberamenazas.",
-      "focus_tags": [
-        "seguridad informática",
-        "malware",
-        "extensiones Chrome"
-      ],
-      "context": [
-        {
-          "label": "Historial de extensiones maliciosas",
-          "text": "En los últimos años, la Chrome Web Store ha albergado extensiones que, tras ser instaladas, ejecutan código dañino, lo que ha llevado a Google a reforzar sus procesos de detección y eliminación de software malicioso."
-        },
-        {
-          "label": "Ataques de notificaciones falsas en navegadores Chromium",
-          "text": "Los navegadores basados en Chromium, como Opera y Brave, también han sido objetivo de campañas de notificaciones falsas que imitan actualizaciones críticas para engañar a los usuarios y distribuir malware."
-        },
-        {
-          "label": "Recomendaciones de expertos en ciberseguridad",
-          "text": "Especialistas recomiendan desactivar las notificaciones de actualizaciones no verificadas, revisar las extensiones instaladas y usar herramientas antimalware actualizadas para prevenir infecciones."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "173f1cd908c4",
-      "title": "Al menos 47 muertos en el este de Indonesia tras terremoto de magnitud 7.7",
-      "summary": "El terremoto de magnitud 7.7 que sacudió la costa este de la provincia de Nusa Tenggara Oriental, Indonesia, dejó al menos 47 fallecidos y provocó deslizamientos de tierra que aislaron a la región de Nagekeo, dificultando los trabajos de rescate.",
-      "category": "internacional",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/47-muertos-indonesia-terremoto-magnitud-7-20260815-828439.html",
-      "published_at": "2026-08-15T16:24:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, citando únicamente a autoridades oficiales y evitando vocabulario cargado o juicios políticos.",
-      "focus_analysis": "El medio se centró en el impacto humano y las dificultades logísticas del rescate, mientras que dejó de lado aspectos económicos y de reconstrucción a largo plazo.",
-      "focus_tags": [
-        "sismo",
-        "Indonesia",
-        "desastres naturales"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Indonesia está situada en el Cinturón de Fuego del Pacífico, una zona con alta actividad sísmica que ha registrado terremotos destructivos en años anteriores, como el de 1992 y el devastador sismo de Palu en 2018."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como Euronews, enfatizaron que las réplicas del terremoto continuaban, mientras que El Sol de México destacó la evacuación de aproximadamente dos mil residentes, información no resaltada en la nota de El Economista."
-        },
-        {
-          "label": "Reacción institucional",
-          "text": "La Agencia Nacional de Mitigación de Desastres (BNPB) y el centro de alerta de tsunamis de Australia declararon que no había riesgo de tsunami para el territorio continental australiano, y el gobernador de Nusa Tenggara Oriental anunció evacuaciones y daños en viviendas y escuelas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "fb2cf127de94",
-      "title": "San Lorenzo se enfrenta a Unión de Santa Fe en la continuidad de la fecha 5",
-      "summary": "El club argentino San Lorenzo de Almagro recibirá a Unión de Santa Fe en la continuación de la quinta fecha del Torneo Clausura, con ambos equipos buscando recuperarse tras resultados adversos recientes.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/15/continua-la-fecha-5-del-torneo-clausura-con-varios-partidos-hora-tv-formaciones-y-agenda-del-sabado/",
-      "published_at": "2026-08-15T16:46:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el encuentro, los antecedentes deportivos y la transmisión, sin usar lenguaje cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centra en el análisis del desempeño y la necesidad de puntos de los equipos, dejando de lado cualquier aspecto económico, institucional o social del fútbol.",
-      "focus_tags": [
-        "fútbol",
-        "torneo clausura",
-        "previa de partido"
-      ],
-      "context": [
-        {
-          "label": "situación de San Lorenzo",
-          "text": "San Lorenzo de Almagro llegó a esta fecha con una derrota 2-0 ante Huracán y una eliminación temprana de la Copa Argentina, lo que incrementa la presión para obtener un triunfo y alejarse de la zona de descenso."
-        },
-        {
-          "label": "forma de Unión de Santa Fe",
-          "text": "Unión de Santa Fe presenta resultados mixtos en la temporada, con algunas victorias pero también derrotas que lo sitúan en la mitad de la tabla, buscando consolidarse con un buen desempeño en casa."
-        },
-        {
-          "label": "contexto del Torneo Clausura 2026",
-          "text": "La quinta jornada del Torneo Clausura de la Primera División argentina incluye seis partidos, con transmisiones en ESPN Premium y TNT Sports, y es clave para definir los puestos de clasificación y relegación a mitad de temporada."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
