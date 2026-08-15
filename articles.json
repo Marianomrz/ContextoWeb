@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-15T02:01:26.834966+00:00",
+  "generated_at": "2026-08-15T02:21:52.686554+00:00",
   "articles": [
+    {
+      "id": "e357ec4baf25",
+      "title": "Terremoto de magnitud 7.7 en Indonesia deja al menos 2 muertos",
+      "summary": "El sismo de magnitud 7.7 que sacudió la isla de Flores, en la provincia indonesia de Nusa Tenggara Oriental, causó al menos dos fallecidos y motivó la evacuación de residentes costeros ante una alerta de tsunami que luego fue cancelada.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/terremoto-magnitud-7-7-indonesia-deja-2-muertos-20260814-828415.html",
+      "published_at": "2026-08-15T01:55:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y equilibrado, citando fuentes oficiales como el USGS, la agencia de desastres BNPB y la BMKG, sin emplear vocabulario cargado ni favorecer una perspectiva política.",
+      "focus_analysis": "El medio se centró en el impacto humano y la respuesta de seguridad (evacuaciones, alerta de tsunami), dejando de lado aspectos económicos o de infraestructura a largo plazo.",
+      "focus_tags": [
+        "sismo",
+        "evacuación",
+        "alerta de tsunami"
+      ],
+      "context": [
+        {
+          "label": "antecedentes sísmicos",
+          "text": "Indonesia está ubicada en el Cinturón de Fuego del Pacífico, una zona propensa a terremotos fuertes, como el de 2004 en Sumatra que provocó más de 200 000 muertes."
+        },
+        {
+          "label": "respuesta institucional",
+          "text": "Tras el temblor, las autoridades indonesias activaron una alerta de tsunami y ordenaron la evacuación de áreas costeras, medida que se retiró cuando no se observaron olas peligrosas."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "Otros periódicos, por ejemplo Periódico AM, destacaron el pánico entre la población y la posterior cancelación de la alerta de tsunami, subrayando la incertidumbre inicial."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.6
+      }
+    },
+    {
+      "id": "e649b8e503cd",
+      "title": "Morena apela a la soberanía para rechazar cancelación de visa a ‘Andy’ López Beltrán",
+      "summary": "El partido Morena, bajo la presidencia de Claudia Sheinbaum, denunció la revocación de la visa estadounidense de Andrés Manuel López Beltrán, hijo del expresidente Andrés Manuel López Obrador, calificándola como una injerencia contra la soberanía nacional de México.",
+      "category": "politica",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/1408/mexico/morena-apela-a-la-soberania-para-rechazar-cancelacion-de-visa-a-andy-lopez-beltran/",
+      "published_at": "2026-08-15T02:06:16+00:00",
+      "bias_score": -50,
+      "bias_reason": "El texto emplea vocabulario cargado como \"injerencia\" y \"arrogante proceder\", se centra en la reacción de Morena sin presentar la posición oficial de EE. UU., y destaca la defensa de la soberanía, lo que indica una perspectiva claramente de izquierda.",
+      "focus_analysis": "El medio se enfocó en el ángulo político‑soberano, resaltando la protesta de Morena contra EE. UU., mientras dejó de lado el contexto legal de la cancelación de visas y la posible justificación de la administración estadounidense.",
+      "focus_tags": [
+        "política mexicana",
+        "soberanía nacional",
+        "relaciones México‑EEUU"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Los Estados Unidos tienen la facultad de revocar visas a individuos considerados políticamente expuestos, lo que en ocasiones ha generado fricciones diplomáticas con gobiernos de América Latina."
+        },
+        {
+          "label": "actor político",
+          "text": "Andrés Manuel López Beltrán, llamado \"Andy\", es hijo del expresidente Andrés Manuel López Obrador y figura prominente dentro de la corriente 4T de Morena, lo que le confiere un peso mediático y político importante."
+        },
+        {
+          "label": "postura de la oposición",
+          "text": "Otros medios señalaron que partidos como el PRI y el PAN solicitaron a la Fiscalía General de la República investigar a López Beltrán por presuntos delitos, ofreciendo una visión crítica diferente a la defensa de soberanía de Morena."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "8c206bfb226c",
+      "title": "Pánico en Indonesia: Terremoto de 7.7 deja dos muertos, derrumbes y alerta de tsunami",
+      "summary": "Un terremoto de magnitud 7.7 sacudió la zona costera de la isla de Flores en Indonesia, dejando al menos dos muertos, varios heridos y graves daños en edificios, mientras la alerta de tsunami fue emitida y luego cancelada por las autoridades.",
+      "category": "internacional",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/mundo/2026/08/14/panico-en-indonesia-terremoto-de-7-7-deja-dos-muertos-derrumbes-y-alerta-de-tsunami-1832480.html",
+      "published_at": "2026-08-15T02:17:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y se basa en fuentes oficiales sin usar adjetivos cargados ni presentar opiniones políticas, manteniendo una postura neutra.",
+      "focus_analysis": "El medio se centró en el impacto humano y la respuesta de emergencia (muertes, heridos, evacuaciones y alerta de tsunami), dejando fuera la dimensión económica del desastre y cualquier análisis político o de largo plazo.",
+      "focus_tags": [
+        "desastre natural",
+        "evacuación",
+        "alerta de tsunami"
+      ],
+      "context": [
+        {
+          "label": "historial sísmico de Indonesia",
+          "text": "Indonesia está ubicada en el Cinturón de Fuego del Pacífico, una zona con alta actividad tectónica que ha generado numerosos sismos y tsunamis, como el terremoto de 1992 en Flores que causó alrededor de 2 500 muertes."
+        },
+        {
+          "label": "gestión de alertas de tsunami",
+          "text": "La Agencia de Meteorología, Climatología y Geofísica de Indonesia (BMKG) emite alertas de tsunami tras sismos costeros y las revoca rápidamente cuando el monitoreo del nivel del mar no indica amenaza, siguiendo protocolos de mitigación de riesgos."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "A diferencia del enfoque humano de Periódico AM, El Economista prioriza datos técnicos del USGS, mientras que El Sol de México destaca la evacuación y la alerta de tsunami, evidenciando distintos ángulos informativos en la cobertura del mismo hecho."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres explora, desde la perspectiva literaria e histórica, el temor a ser enterrado vivo que ha inspirado a autores como Edgar Allan Poe y a pensadores del siglo XVIII como Benito Jerónimo Feijoo, analizando cómo este miedo se ha plasmado en cuentos, cartas y relatos religiosos.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene en un registro cultural y descriptivo, sin usar vocabulario cargado ni citar fuentes con sesgo político; se centra en la literatura y la historia más que en posiciones ideológicas.",
+      "focus_analysis": "El medio elige un ángulo literario‑histórico, resaltando la aparición del tema en la obra de Poe y en escritos del Siglo de Oro español; omite cualquier enfoque económico, político o de seguridad contemporáneo.",
+      "focus_tags": [
+        "literatura",
+        "historia",
+        "miedo"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes históricos",
+          "text": "En el siglo XVIII, el médico y ensayista español Benito Jerónimo Feijoo denunció la práctica de enterrar a los moribundos antes de confirmar su muerte, alertando sobre los riesgos de la prematura sepultura y describiendo casos reales de personas que despertaron bajo tierra."
+        },
+        {
+          "label": "Influencia literaria",
+          "text": "Edgar Allan Poe, en su cuento “El entierro prematuro”, utilizó la obsesión victoriana por el miedo a ser enterrado vivo como símbolo de terror psicológico, estableciendo un modelo que ha inspirado a numerosos autores posteriores."
+        },
+        {
+          "label": "Eco cultural en América Latina",
+          "text": "En la tradición popular mexicana circula el mito de que el actor Joaquín Pardavé fue enterrado vivo, una anécdota que, aunque falsa, refleja la persistencia del temor a la sepultura prematura en la narrativa latinoamericana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "a2ee3c7ce05e",
+      "title": "El comunicado de Rosario Central tras la grave denuncia que hizo el arquero de Corinthians en el partido de Copa Libertadores",
+      "summary": "Rosario Central emitió un comunicado oficial rechazando los presuntos insultos racistas denunciados por el arquero del Corinthians, Hugo Souza, durante el partido de ida de los octavos de final de la Copa Libertadores, y solicitó a la CONMEBOL que investigue los hechos y provea pruebas concretas.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/15/el-comunicado-de-rosario-central-tras-la-grave-denuncia-que-hizo-el-arquero-de-corinthians-en-el-partido-de-copa-libertadores/",
+      "published_at": "2026-08-15T01:53:23+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo presenta tanto la versión del club argentino como la denuncia del jugador brasileño sin usar un cargado emocional y citando fuentes oficiales, lo que indica una cobertura equilibrada.",
+      "focus_analysis": "El medio se centró en la postura institucional de Rosario Central y en los procedimientos antirracistas, dejando de lado el impacto humano y la reacción del público en general.",
+      "focus_tags": [
+        "racismo en fútbol",
+        "declaración institucional",
+        "Copa Libertadores"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de denuncias de racismo en el fútbol sudamericano",
+          "text": "En los últimos años, varios partidos de la Copa Libertadores y torneos regionales han registrado acusaciones de insultos racistas por parte de aficionados, como el caso de 2023 entre River Plate y Flamengo, lo que ha llevado a la CONMEBOL a reforzar sus protocolos antirracistas."
+        },
+        {
+          "label": "Procedimientos de la CONMEBOL contra la discriminación",
+          "text": "La CONMEBOL cuenta con un protocolo que permite la suspensión de partidos, multas y sanciones a los clubes cuando se comprueban actos de racismo, y ha impuesto castigos en casos anteriores tras la presentación de pruebas visuales y testimonios."
+        },
+        {
+          "label": "Reacción de Corinthians y Hugo Souza",
+          "text": "Corinthians emitió una declaración repudiando cualquier acto racista y respaldó la denuncia de su arquero, Hugo Souza, quien afirmó haber escuchado insultos durante todo el encuentro y solicitó una investigación inmediata por parte de los organizadores del torneo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "fc04ac8aaaaf",
+      "title": "Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia",
+      "summary": "Un terremoto de magnitud 7,7 sacudió la isla Flores en Indonesia, provocando al menos dos muertos, derrumbes de edificios y una alerta de tsunami que luego fue cancelada.",
+      "category": "internacional",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260815-al-menos-dos-muertos-y-estructuras-derrumbadas-tras-un-poderoso-sismo-de-7-7-en-indonesia",
+      "published_at": "2026-08-15T02:05:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo presenta los hechos de forma descriptiva, usando fuentes oficiales como USGS y agencias indonesias, y testimonios locales sin emplear lenguaje cargado ni selección sesgada de fuentes, manteniendo un tono neutral.",
+      "focus_analysis": "El medio se centra en el impacto humano y la respuesta de emergencia, resaltando testimonios de residentes y la gestión de la alerta de tsunami, mientras omite análisis económico o de infraestructura a largo plazo.",
+      "focus_tags": [
+        "sismo",
+        "humanitario",
+        "alerta de tsunami"
+      ],
+      "context": [
+        {
+          "label": "antecedentes sísmicos",
+          "text": "Indonesia se encuentra en el Anillo de Fuego del Pacífico, una zona con alta actividad sísmica y volcánica, lo que la hace propensa a terremotos y tsunamis."
+        },
+        {
+          "label": "evento histórico",
+          "text": "En diciembre de 1992, un terremoto en la isla de Flores generó un tsunami que causó aproximadamente 2.500 muertes, subrayando la vulnerabilidad de la región a eventos sísmicos."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Otros medios, como El Economista y Periódico AM, enfatizaron la magnitud y el pánico generado, mientras que Expansión destacó la alerta de tsunami, mostrando distintas prioridades informativas respecto al mismo sismo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "edcf6fd432e7",
+      "title": "Cuando el silencio se vuelve guardián: la extraña polis de la memoria",
+      "summary": "Una hoja de papel, arrugada por el viento, se convierte en el mapa de una isla donde los recuerdos desaparecen como niebla al amanecer. En esa geografía de lo no‑dicho, la protagonista lucha contra una policía que borra palabras y rostros, dejando sólo ecos de lo que fue. La historia nos recuerda que la ausencia de memoria es también una forma de violencia silenciosa.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-15T02:20:38.817476+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Elegí este libro porque el clima de incertidumbre global hace que la fragilidad de la memoria sea un tema urgente y, a la vez, poético. La metáfora del papel arrugado permite explorar la tensión entre lo que se conserva y lo que se pierde en una sociedad que se auto‑censa.",
+      "focus_tags": [
+        "ficción distópica",
+        "Japón",
+        "siglo XXI"
+      ],
+      "context": [
+        {
+          "label": "Primer paso",
+          "text": "Comienza por sumergirte en la obra de Yōko Ogawa, cuya prosa escultural y precisa construye atmósferas de inquietante belleza. Su estilo minimalista, cargado de silencios, se revela como la llave para descifrar la trama de \"The Memory Police\"."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si buscas resonancias, explora \"El cuento de la criada\" de Margaret Atwood y \"Los deshabitados\" de Valeria Luiselli, novelas que también examinan la erosión del lenguaje como herramienta de control."
+        },
+        {
+          "label": "Trasfondo",
+          "text": "La novela se inscribe en la tradición japonesa de la literatura de lo absurdo, influenciada por autores como Haruki Murakami y Kobo Abe, y refleja la ansiedad contemporánea ante la pérdida de identidad cultural en la era digital."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.0
+      }
+    },
     {
       "id": "e357ec4baf25",
       "title": "Terremoto de magnitud 7.7 en Indonesia deja al menos 2 muertos",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "c3956c738437",
-      "title": "Banfield le dio otro golpe a Racing: lo venció 1-0 en Avellaneda y le provocó su tercera derrota seguida en el Torneo Clausura",
-      "summary": "El club Banfield venció por 1‑0 al Racing Club en el Estadio Presidente Perón de Avellaneda, provocando la tercera derrota consecutiva del equipo de la Academia en el Torneo Clausura 2026.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/14/en-un-duelo-de-necesitados-racing-recibira-a-banfield-en-el-inicio-de-la-quinta-fecha-hora-tv-y-formaciones/",
-      "published_at": "2026-08-15T01:37:08+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido, usando un lenguaje neutro y sin citar fuentes con carga política ni comentarios ideológicos.",
-      "focus_analysis": "El artículo se centra en el relato del encuentro, destacando la táctica, los goles y las ausencias de jugadores, dejando de lado el impacto del resultado en la tabla de posiciones o la reacción de los hinchas.",
-      "focus_tags": [
-        "fútbol argentino",
-        "Torneo Clausura",
-        "victoria visitante"
-      ],
-      "context": [
-        {
-          "label": "Racing Club reciente",
-          "text": "Antes del encuentro, Racing había perdido dos partidos consecutivos en el Clausura, por lo que la derrota frente a Banfield marcó su tercera pérdida seguida."
-        },
-        {
-          "label": "Banfield en visitante",
-          "text": "Banfield no había conseguido ninguna victoria como visitante en el torneo hasta este partido, convirtiéndose en su primera victoria fuera de casa en la edición 2026."
-        },
-        {
-          "label": "Lesiones y cambios en la plantilla",
-          "text": "Racing jugó sin Marco Di Cesare, lesionado, y sin Franco Pardo, transferido, mientras que Banfield incorporó al joven Alexander Machado, quien debutó y anotó el gol del triunfo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "55f5b1efba3a",
-      "title": "Autoridades de Indonesia piden evacuar zonas costeras de isla de Flores tras terremoto magnitud 7.7",
-      "summary": "Las autoridades de Indonesia, a través de la agencia nacional de desastres BNPB, ordenaron a los residentes de la isla de Flores que se alejen de la costa y se trasladen a zonas más altas tras un terremoto de magnitud 7.7 que generó una alerta de tsunami.",
-      "category": "internacional",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/autoridades-indonesia-piden-evacuar-zonas-costeras-isla-flores-terremoto-magnitud-7-20260814-828407.html",
-      "published_at": "2026-08-15T00:47:55+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, citando exclusivamente a fuentes oficiales sin emplear vocabulario cargado ni inclinarse hacia ninguna posición política.",
-      "focus_analysis": "El medio se centró en el aspecto de seguridad y la respuesta inmediata ante el sismo, dejando de lado cualquier análisis económico o político del impacto del terremoto.",
-      "focus_tags": [
-        "seguridad pública",
-        "desastres naturales",
-        "evacuación"
-      ],
-      "context": [
-        {
-          "label": "Riesgo sísmico en Indonesia",
-          "text": "Indonesia está situada en el Cinturón de Fuego del Pacífico, una zona con alta actividad tectónica que frecuentemente genera terremotos y tsunamis."
-        },
-        {
-          "label": "Historia de terremotos graves",
-          "text": "En 2018, el sismo de magnitud 7.5 en Palu provocó la muerte de aproximadamente 2,200 personas, subrayando la vulnerabilidad de la población frente a eventos sísmicos de gran escala."
-        },
-        {
-          "label": "Enfoques de otros medios",
-          "text": "Coberturas como la de DW Español enfatizaron la orden de evacuación, Aristegui Noticias resaltó las réplicas posteriores y El País América destacó la alerta temprana de tsunami, mostrando distintas prioridades informativas."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "396acaaf9788",
-      "title": "Detienen a director de Seguridad Pública de Sixto Verduzco, Michoacán y a tres elementos más; enfrentan cargos por  desaparición",
-      "summary": "José Manuel Tapia Hernández, director de Seguridad Pública Municipal de José Sixto Verduzco, Michoacán, fue detenido junto a tres policías municipales bajo sospecha de participación en desapariciones de personas, tras operativos de la Fiscalía, la Guardia Nacional y la Guardia Civil.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/detienen-a-director-de-seguridad-publica-de-sixto-verduzco-michoacan-y-a-tres-elementos-mas-enfrentan-cargos-por-desaparicion/",
-      "published_at": "2026-08-15T01:09:03+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y fuentes oficiales sin usar adjetivos cargados ni opiniones, lo que indica una cobertura neutra.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y legal de la detención, dejando de lado el impacto en las víctimas y el contexto de violencia en la región.",
-      "focus_tags": [
-        "seguridad pública",
-        "desapariciones",
-        "Michoacán"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de violencia",
-          "text": "Michoacán ha sido una de las regiones más afectadas por desapariciones forzadas y enfrentamientos entre grupos delictivos y fuerzas de seguridad, con cifras que superan los mil casos en los últimos años."
-        },
-        {
-          "label": "Acción de autoridades federales",
-          "text": "La Fiscalía General del Estado, junto a la Guardia Nacional y la Guardia Civil, ha intensificado operativos en municipios como José Sixto Verduzco y La Piedad para combatir la criminalidad y esclarecer delitos de desaparición."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros periódicos, como Infobae México, Aristegui Noticias y Reforma, también reportaron la detención del mando policial, enfatizando la lucha contra la corrupción dentro de las fuerzas de seguridad."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "132fc86756ca",
-      "title": "Aguinaldo del Inapam, esta es la verdad sobre el supuesto pago de 9 mil 500 pesos",
-      "summary": "El Instituto Nacional de las Personas Adultas Mayores (INAPAM) de México aclaró que el pago de 9 500 pesos mensuales no es una pensión automática, sino el salario base de vacantes laborales gestionadas a través del programa de Vinculación Productiva, al que sólo pueden acceder los adultos mayores que cumplen con el proceso de selección y firmen un contrato con una empresa vinculada.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/15/aguinaldo-del-inapam-esta-es-la-verdad-sobre-el-supuesto-pago-de-9-mil-500-pesos/",
-      "published_at": "2026-08-15T01:16:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro y se limita a explicar la información oficial del INAPAM, sin recurrir a adjetivos cargados ni a fuentes con tono ideológico.",
-      "focus_analysis": "El medio se centró en la explicación institucional y económica del programa, dejando de lado testimonios personales o el impacto social directo en los adultos mayores.",
-      "focus_tags": [
-        "beneficios sociales",
-        "empleo adulto mayor",
-        "clarificación rumor"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "El INAPAM es la entidad pública mexicana encargada de la atención y bienestar de las personas mayores, y ha implementado diversos programas de apoyo económico y capacitación a lo largo de los años."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "Otros países, como Argentina y Colombia, también ofrecen programas de inserción laboral para adultos mayores, donde el ingreso depende de un contrato laboral y no de una pensión universal."
-        },
-        {
-          "label": "Posturas de actores",
-          "text": "El gobierno federal, a través de la Secretaría del Trabajo y Previsión Social, ha reiterado que el beneficio del programa de Vinculación Productiva está condicionado a la contratación formal y no constituye un pago directo del Estado a todos los titulares de la credencial del INAPAM."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de David Toscana en Letras Libres explora, a través de referencias literarias y históricas, el temor arraigado en la cultura occidental a ser enterrado vivo, citando a Edgar Allan Poe, al jesuita Benito Jerónimo Feijoo y a otras fuentes.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el tema desde una perspectiva literaria e histórica, sin usar lenguaje cargado ni presentar una agenda política.",
-      "focus_analysis": "El medio opta por un enfoque histórico‑literario que examina el miedo al entierro prematuro mediante ejemplos de la literatura y la filosofía, dejando de lado análisis médicos modernos o implicaciones sociales contemporáneas.",
-      "focus_tags": [
-        "miedo histórico",
-        "literatura gótica",
-        "cultura occidental"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "Durante los siglos XVIII y XIX, la posibilidad de ser enterrado vivo generó la creación de sociedades de vigilancia y la popularización de dispositivos como los 'cofres de seguridad' para evitar este riesgo."
-        },
-        {
-          "label": "Referencia literaria",
-          "text": "Edgar Allan Poe, en su cuento 'El entierro prematuro', describe la angustia de la muerte viviente y la considera una de las peores tragedias que puede sufrir el ser humano."
-        },
-        {
-          "label": "Perspectiva ilustrada",
-          "text": "El escritor español del Ilustración, Benito Jerónimo Feijoo, abordó el tema en sus cartas, criticando la práctica de enterrar rápidamente a los enfermos y señalando los peligros de despertar bajo tierra."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a8fac6d7e9c5",
-      "title": "Las claves económicas de la semana (10 al 14): De inflación en EU y Líneas de Pobreza en México",
-      "summary": "El Economista resume los indicadores económicos más relevantes de la segunda semana de agosto: la inflación anual de Estados Unidos se moderó al 3.4 % y la confianza de los consumidores cayó, mientras que en México el Instituto Nacional de Estadística y Geografía informó que la canasta básica urbana costó 4,884 pesos en julio, reflejando un aumento del 3.5 % anual.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-10-14-inflacion-eu-lineas-pobreza-mexico-20260814-828409.html",
-      "published_at": "2026-08-15T01:14:01+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar datos oficiales y gráficos sin usar adjetivos cargados ni seleccionar fuentes con sesgo; el tono es informativo y equilibrado entre EE. UU. y México.",
-      "focus_analysis": "El medio se centra en los indicadores macroeconómicos, dejando de lado el análisis de políticas públicas o de consecuencias sociales más amplias.",
-      "focus_tags": [
-        "inflación EE. UU.",
-        "líneas de pobreza México",
-        "actividad industrial"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes EE. UU.",
-          "text": "Desde 2021 la inflación de Estados Unidos ha permanecido por encima del objetivo del 2 % de la Reserva Federal, lo que ha impulsado debates sobre la política monetaria y el ajuste de tasas de interés."
-        },
-        {
-          "label": "Datos México",
-          "text": "El costo de la canasta básica en México ha registrado aumentos anuales superiores a la inflación general en los últimos años, lo que ha generado presión sobre los hogares de menores ingresos."
-        },
-        {
-          "label": "Instituciones",
-          "text": "El Instituto Nacional de Estadística y Geografía (INEGI) publica mensualmente indicadores de pobreza y actividad industrial, que son utilizados por el gobierno y analistas para diseñar políticas económicas y sociales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "c3956c738437",
-      "title": "En un duelo de necesitados, Racing pierde contra Banfield en el inicio de la fecha 5 del Torneo Clausura",
-      "summary": "Racing Club perdió 1-0 frente a Banfield en el encuentro inaugural de la fecha 5 del Torneo Clausura 2026, ambos equipos con escasos puntos y en busca de salir de la zona B.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/14/en-un-duelo-de-necesitados-racing-recibira-a-banfield-en-el-inicio-de-la-quinta-fecha-hora-tv-y-formaciones/",
-      "published_at": "2026-08-15T01:15:48+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido, sin usar adjetivos cargados ni favorecer a ningún club; la redacción es neutral y centrada en la cronología del juego.",
-      "focus_analysis": "El medio se enfocó en el desarrollo táctico y los momentos clave del encuentro, dejando de lado aspectos institucionales o financieros de los clubes.",
-      "focus_tags": [
-        "fútbol",
-        "Torneo Clausura",
-        "Racing vs Banfield"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento reciente de Racing",
-          "text": "Racing llegaba al partido con sólo cuatro puntos tras una serie de resultados negativos, incluyendo empates y derrotas que lo mantuvieron en la zona B del torneo."
-        },
-        {
-          "label": "Situación de Banfield",
-          "text": "Banfield también contaba con cuatro puntos, con una campaña similar a la de Racing, alternando victorias, empates y derrotas en las primeras jornadas."
-        },
-        {
-          "label": "Sanción disciplinaria",
-          "text": "El Tribunal de Disciplina había suspendido a Banfield por una expulsión en el partido anterior, lo que limitó sus opciones ofensivas y obligó al equipo a depender de jugadores jóvenes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
       }
     }
   ]
