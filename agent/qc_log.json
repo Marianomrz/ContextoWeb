@@ -1,204 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-16T11:30:34.988321+00:00",
-      "title": "\"Pagaban casi 100.000 euros\" si tenías un iPhone 5s con este videojuego instalado",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-16T11:30:41.711442+00:00",
-      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, pero debería incorporar fuentes más variadas y citas específicas para reforzar la veracidad y el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:30:52.783196+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es en general sólido y cumple con los requisitos de veracidad y objetividad, aunque podría mejorar la citación de fuentes y la claridad del lead invertido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:40:45.213124+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos mantiene reforzado el despl",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero la precisión de los datos y la cobertura de fuentes oficiales son insuficientes para considerarlo totalmente fiable y objetivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:40:50.447813+00:00",
-      "title": "Nos vendieron las redes 5G como la forma más rápida de conectarnos con el móvil. Ahora resulta que t",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero necesita mayor respaldo de fuentes y evidencias para garantizar la precisión de los hechos descritos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:40:55.053166+00:00",
-      "title": "¿En dónde se respira el peor oxígeno en CDMX y zona conurbada? Aquí el reporte",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de calidad editorial; solo se sugiere añadir una referencia directa al informe oficial para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:41:02.445802+00:00",
-      "title": "La reconstrucción de Facundo Díaz Acosta en el tenis tras lesiones que complicaron su carrera: “Estu",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero la falta de verificación de datos y la dependencia de una sola fuente reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:41:08.890235+00:00",
-      "title": "Pasan la droga... en sus narices",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en su y y objetivo, aunque podría mejorar la variedad de fuentes para reforzar el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:41:15.610230+00:00",
-      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, contrastada y objetiva con una estructura clara y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:41:25.308832+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos editoriales, presenta información verificable y mantiene objetividad, aunque podría reforzar la citación de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:41:30.854189+00:00",
-      "title": "Indonesia, aumentan las víctimas mortales del terremoto, ya hay miles de desplazados",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, contrastada, objetiva y estructurada de forma adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T11:48:35.632646+00:00",
-      "title": "Una linterna en la lluvia: descubriendo la magia de ‘The Seven Moons of Maali Almeida’",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "originalidad_creatividad": 6,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "Una pieza sólida y bien estructurada que cumple con los estándares editoriales, aunque la originalidad podría reforzarse para evitar caer en lugares comunes.",
-      "error": null
-    },
-    {
       "at": "2026-08-16T11:48:38.721938+00:00",
       "title": "Cine Ciudadela: de sala para adultos a Teatro Balderas, la nueva vida de un recinto de CDMX",
       "kind": "noticia",
@@ -3386,6 +3188,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es factual y actual, pero necesita mayor contraste de fuentes para cubrir adecuadamente la polarización política.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:20:43.747611+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo hoy: quién será el tercer eliminado y riesgo de doble sal",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere mayor respaldo verificable para hechos futuros.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:20:56.034867+00:00",
+      "title": "Irán ofrece recompensa de 30,000 dólares por soldados estadounidenses muertos o capturados",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de precisión, contraste de fuentes, objetividad y estructura, aunque la verificación de la cifra exacta podría reforzarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:21:05.993155+00:00",
+      "title": "Nuevo look de Miguel en Coco 2 desata memes y criticas; usuarios aseguran que ahora “va a cantar cor",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque mantiene objetividad y actualidad; necesita fuentes más fiables y corroboración de los hechos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:21:11.631777+00:00",
+      "title": "El video de la boda “íntima y privada” de Cristiano Ronaldo y Georgina Rodríguez: el detalle sobre l",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y objetivo, aunque la precisión de la fecha de la boda debería verificarse para evitar posibles inexactitudes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:21:24.865639+00:00",
+      "title": "La mayor amenaza medieval para el Papa nació en un remoto pueblo aragonés. Gobernó desde Peñíscola h",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la pieza es o y actual, la falta de verificación de datos y de fuentes múltiples compromete su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:21:38.998553+00:00",
+      "title": "Lula arranca la campaña para conquistar un cuarto mandato: “No voy a permitir que la derecha regrese",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual pero contiene imprecisiones y una falta de fuentes contrastadas, lo que afecta su fiabilidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:21:49.756847+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada del tema literario‑histórico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:22:00.599739+00:00",
+      "title": "UNAM: más de 2 mil aspirantes no se presentaron al examen de control presencial",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, objetiva y bien estructurada, con fuentes fiables y contexto suficiente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:22:11.496595+00:00",
+      "title": "Longevidad: ejercicio, genética e IA transforman la prevención en México",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es reciente y está bien estructurado, pero su falta de fuentes contrastantes y su sesgo promocional comprometen la objetividad y el rigor informativo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:22:21.321949+00:00",
+      "title": "La derrota del Pumas y el avance de “Coco 2”, en los memes de la semana",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo falla en veracidad y respaldo de fuentes, pero mantiene objetividad, actualidad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:22:29.245618+00:00",
+      "title": "River Plate recibirá a Argentinos Juniors en busca de su primer triunfo en el Torneo Clausura: hora,",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 8,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es objetivo y reciente, pero contiene imprecisiones sobre la competencia y falta de fuentes múltiples, lo que afecta su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T16:22:35.783675+00:00",
+      "title": "Las mejores películas de ciberpunk que puedes ver en streaming",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial y puede publicarse, aunque se sugiere matizar la valoración subjetiva de las películas para reforzar la objetividad.",
       "error": null
     }
   ]
