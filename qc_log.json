@@ -1,119 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-16T07:10:28.463789+00:00",
-      "title": "Los incendios forestales no dan tregua en Europa",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial y es apto para su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T07:10:33.083403+00:00",
-      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando una información veraz, bien contrastada y objetiva, con actualidad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T07:10:43.251441+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es claro y objetivo, pero contiene imprecisiones menores que reducen su puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T07:20:40.378864+00:00",
-      "title": "Café de humo en San Telmo: Samanta Schweblin y la magia del relato corto",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 7,
-        "voz_autor": 8,
-        "profundidad_tematica": 6
-      },
-      "observacion": "Texto bien escrito y atractivo, cumple con la voz de Contexto, aunque la profundidad temática podría profundizarse más.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T07:20:46.540706+00:00",
-      "title": "Temblor hoy en México: casi mil 700 réplicas del sismo registrado en Chiapas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo datos verificables, neutralidad y una estructura clara y actualizada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T07:20:54.405489+00:00",
-      "title": "“Veo el futuro de mi oficio muy negro”: entrevista con Bárbara Enríquez",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero su falta de verificación de datos y de fuentes múltiples limita su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T07:20:59.241235+00:00",
-      "title": "Un trágico accidente de autobús en Hungría deja, al menos, 12 muertos",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 13 column 109 (char 791)"
-    },
-    {
       "at": "2026-08-16T07:21:05.353165+00:00",
       "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
       "kind": "noticia",
@@ -3374,6 +3261,125 @@
         "estructura_piramide": 8
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque debería reforzar la verificación de algunos datos históricos para alcanzar la máxima precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T12:00:44.526904+00:00",
+      "title": "Liga MX: Partidos, horarios y dónde ver en vivo este domingo 16 de agosto",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, ofreciendo una información clara y bien estructurada sobre la programación de la Liga MX.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T12:00:53.162821+00:00",
+      "title": "El trabajo humanitario construye paz.",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es reciente y bien estructurado, pero necesita incorporar fuentes más variadas y datos concretos para lograr mayor equilibrio y rigor periodístico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T12:01:04.176993+00:00",
+      "title": "Las cinco mejores sitcom de los 2000",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares editoriales, aunque la falta de datos concretos y fuentes contrastantes limita su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T12:01:10.232491+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La ministra de Sanidad comunica que h",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "En general el paquete cumple con los requisitos de actualidad y estructura, pero la falta de fuentes verificadas y de contraste de perspectivas reduce su puntuación en veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T12:01:18.039817+00:00",
+      "title": "Cine Ciudadela: de sala para adultos a Teatro Balderas, la nueva vida de un recinto de CDMX",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los criterios de calidad editorial, aunque podría mejorar el contraste de fuentes y la profundidad del análisis socio‑económico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T12:01:21.961732+00:00",
+      "title": "La reconstrucción de Facundo Díaz Acosta en el tenis tras lesiones que complicaron su carrera: “Estu",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, pero la falta de fuentes múltiples y la inclusión de datos futuros sin verificación reducen su puntuación en veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T12:01:33.318485+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, objetiva y bien estructurada, aunque podría enriquecer la variedad de fuentes.",
       "error": null
     }
   ]
