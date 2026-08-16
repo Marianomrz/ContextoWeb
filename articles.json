@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-16T07:57:50.476214+00:00",
+  "generated_at": "2026-08-16T08:01:46.883098+00:00",
   "articles": [
+    {
+      "id": "9f328fe0fdf9",
+      "title": "Temblor hoy en México: casi mil 700 réplicas del sismo registrado en Chiapas",
+      "summary": "El Servicio Sismológico Nacional de México reportó que, hasta las 20:00 h del 15 de agosto, se habían registrado 1,681 réplicas del sismo de magnitud 7.4 que sacudió Ciudad Hidalgo, Chiapas, el 17 de julio, y mantiene un monitoreo en tiempo real de la actividad sísmica en el país.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/temblor-hoy-en-mexico-noticias-actividad-sismica-16-de-agosto-de-2026/",
+      "published_at": "2026-08-16T07:13:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos científicos y cifras sin usar lenguaje emotivo ni citar fuentes con inclinación política, manteniendo un tono neutral.",
+      "focus_analysis": "El artículo se centra en la información técnica y el monitoreo de la actividad sísmica, dejando de lado el impacto humano y las respuestas de autoridades o comunidades.",
+      "focus_tags": [
+        "sismicidad",
+        "monitoreo",
+        "geología"
+      ],
+      "context": [
+        {
+          "label": "evento principal",
+          "text": "El 17 de julio de 2026 un terremoto de magnitud 7.4 sacudió Ciudad Hidalgo, Chiapas, provocando daños estructurales y dejando a varias comunidades en alerta."
+        },
+        {
+          "label": "entorno tectónico",
+          "text": "México se encuentra sobre la intersección de cinco placas tectónicas —Caribe, Norteamérica, Pacífico, Rivera y Cocos— lo que lo convierte en una zona de alta actividad sísmica."
+        },
+        {
+          "label": "precedentes de réplicas",
+          "text": "Tras eventos sísmicos de similar magnitud, como el terremoto de Puebla en 2017, México ha registrado miles de réplicas en los días posteriores, evidenciando la naturaleza prolongada de la actividad después de un sismo grande."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a5c24f416621",
+      "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
+      "summary": "El artículo de Hipertextual ofrece una lista de 38 comandos de Linux que permiten consultar detalles del hardware y del sistema operativo de un ordenador, desde la CPU y la memoria hasta la GPU y el estado de los discos.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/guias/comandos-linux-hardware-componentes-sistema-ordenador/",
+      "published_at": "2026-08-16T07:03:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es meramente informativo y técnico, sin lenguaje cargado ni selección de fuentes con carga política; se limita a describir comandos y sus usos.",
+      "focus_analysis": "El medio se centra en el ángulo técnico‑educativo, explicando cómo obtener información del hardware y del sistema mediante la línea de comandos, mientras deja de lado aspectos como la seguridad del sistema o la optimización del rendimiento.",
+      "focus_tags": [
+        "Linux commands",
+        "hardware info",
+        "system diagnostics"
+      ],
+      "context": [
+        {
+          "label": "background",
+          "text": "Linux, como sistema operativo de código abierto, incluye herramientas de línea de comandos que permiten a los usuarios inspeccionar y gestionar el hardware sin necesidad de interfaces gráficas."
+        },
+        {
+          "label": "comparison",
+          "text": "A diferencia de Windows y macOS, donde la información del hardware suele obtenerse a través de paneles de control o aplicaciones dedicadas, Linux ofrece comandos como lshw, inxi o lspci que proporcionan datos detallados directamente desde el terminal."
+        },
+        {
+          "label": "relevance",
+          "text": "Conocer el estado y las especificaciones del hardware es esencial para diagnosticar problemas de rendimiento, compatibilidad de juegos o fallos de componentes, y los comandos listados facilitan esa tarea en entornos Linux."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres explora el histórico temor al entierro prematuro, analizando cómo autores como Edgar Allan Poe y el erudito español Benito Jerónimo Feijoo describieron esta angustia en la literatura y la cultura occidental.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto mantiene un tono descriptivo y académico, sin usar un cargadas ni citar fuentes con inclinación política; se centra exclusivamente en la literatura y la historia cultural.",
+      "focus_analysis": "El medio eligió un ángulo literario‑histórico, resaltando el miedo al entierro vivo en la ficción y la tradición cultural, dejando de lado aspectos médicos o sociológicos contemporáneos.",
+      "focus_tags": [
+        "temor a enterramiento vivo",
+        "análisis literario",
+        "historia cultural"
+      ],
+      "context": [
+        {
+          "label": "Historia",
+          "text": "Desde el siglo XVIII, el miedo a ser enterrado vivo fue frecuente en Europa, motivando la aparición de dispositivos de seguridad y relatos como el cuento de Poe \"El entierro prematuro\"."
+        },
+        {
+          "label": "Cultura",
+          "text": "En la tradición mexicana, circulaban leyendas como la del actor Joaquín Pardavé enterrado vivo, reflejando la persistencia del mito en la cultura popular."
+        },
+        {
+          "label": "Salud",
+          "text": "Con el tiempo, la medicina y la normativa funeraria introdujeron prácticas como la observación de la muerte y el uso de ataúdes con sensores para evitar entierros prematuros."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a307f8e76f34",
+      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) y sus especialistas afirman que la esterilización de perros y gatos, combinada con tenencia responsable e identificación, puede reducir a largo plazo la población de animales callejeros en México. El artículo también indica que la cirugía es segura y previene enfermedades, pero que la esterilización aislada no basta sin abordar el abandono.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/arteseideas/esterilizacion-perros-gatos-frenar-poblacion-animales-calles-20260815-828384.html",
+      "published_at": "2026-08-16T04:00:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje informativo y neutral, citando a expertos de la UNAM y datos oficiales sin emplear vocabulario cargado ni favorecer una posición política.",
+      "focus_analysis": "El medio elige el ángulo institucional y de salud pública, resaltando la evidencia científica de la UNAM y los beneficios sanitarios de la esterilización, mientras omite el costo económico del programa y la perspectiva de organizaciones activistas de animales.",
+      "focus_tags": [
+        "salud animal",
+        "control de población",
+        "responsabilidad de tenencia"
+      ],
+      "context": [
+        {
+          "label": "Tamaño de la población de mascotas en México",
+          "text": "Según la Encuesta Nacional de Bienestar Autorreportado (ENBIARE) 2021 del INEGI, el 69,8 % de los hogares mexicanos reportó tener al menos un animal de compañía, lo que equivale a aproximadamente 80 millones de perros, gatos y otras especies."
+        },
+        {
+          "label": "Postura de la UNAM sobre la esterilización",
+          "text": "La UNAM considera la esterilización una herramienta esencial para controlar la reproducción de perros y gatos, pero insiste en que debe acompañarse de tenencia responsable, identificación y adopción para ser eficaz a largo plazo."
+        },
+        {
+          "label": "Impacto de los animales callejeros en la salud pública",
+          "text": "Los animales sin hogar pueden propagar enfermedades, sufrir maltrato y generar problemas de seguridad y salud pública, por lo que la prevención mediante esterilización y manejo responsable es una prioridad para autoridades sanitarias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "befc8f6d0f70",
+      "title": "Nació en Estados Unidos y aún lucha con el idioma, pero se convirtió en una referente de Argentina: “No quisiera usar otra camiseta”",
+      "summary": "Sophie Braun, nacida en Oregon, EE. UU., se consolidó como una de las jugadoras clave de la selección argentina de fútbol femenino, superando la barrera del idioma y abrazando la cultura argentina mientras se prepara para su segunda Copa del Mundo.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/16/nacio-en-estados-unidos-y-aun-lucha-con-el-idioma-pero-se-convirtio-en-una-referente-de-argentina-no-quisiera-usar-otra-camiseta/",
+      "published_at": "2026-08-16T05:48:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono descriptivo y positivo, sin palabras cargadas ni fuentes polémicas; se centra en la trayectoria deportiva y personal de la jugadora sin inclinarse hacia ninguna posición política.",
+      "focus_analysis": "El artículo privilegia el ángulo humano y cultural, resaltando la identidad y adaptación de Braun, mientras deja de lado análisis tácticos profundos o el desempeño colectivo del equipo.",
+      "focus_tags": [
+        "identidad cultural",
+        "fútbol femenino",
+        "jugadora argentina"
+      ],
+      "context": [
+        {
+          "label": "antecedentes deportivos",
+          "text": "La selección argentina femenina ha ganado la Copa América 2022 y alcanzó la fase de grupos en la Copa del Mundo 2023, consolidándose como una de las potencias emergentes del fútbol sudamericano."
+        },
+        {
+          "label": "jugadoras de la diáspora",
+          "text": "En los últimos años, varios futbolistas nacidos fuera de Argentina, como Julián Álvarez (Brasil) y otros defensores con doble nacionalidad, han optado por representar a la albiceleste, reforzando la tendencia de integrar talentos de la diáspora."
+        },
+        {
+          "label": "cobertura mediática",
+          "text": "Otros medios como El Economista y El Sol de México han centrado su atención en temas políticos y de visa entre EE. UU. y México, lo que contrasta con el enfoque deportivo y humano de Infobae Deportes sobre Braun."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "4ee7f8751b84",
+      "title": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que preguntar",
+      "summary": "Google presenta Gemini Notebook, la nueva versión de NotebookLM, una herramienta que permite organizar y procesar documentos, videos y otros archivos mediante IA, incluso cuando el usuario no dispone de fuentes propias, ofreciendo búsquedas rápidas y funciones de investigación profunda para importar contenido relevante.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/guias/empezar-con-gemini-notebook-notebooklm-buscar-fuentes/",
+      "published_at": "2026-08-16T08:00:00+00:00",
+      "bias_score": 12,
+      "bias_reason": "El artículo utiliza un tono promocional y destaca los beneficios de la herramienta sin mencionar limitaciones o críticas, lo que indica un sesgo ligeramente favorable hacia Google.",
+      "focus_analysis": "El medio se centra en la utilidad práctica y las funcionalidades de Gemini Notebook, dejando de lado aspectos como la privacidad de los datos o la competencia de otras plataformas de IA.",
+      "focus_tags": [
+        "IA Google",
+        "tutorial",
+        "productividad"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del producto",
+          "text": "Gemini Notebook es la evolución de NotebookLM, integrado con el modelo de IA Gemini de Google, y está diseñado para que los usuarios importen sus propios documentos y reciban respuestas basadas exclusivamente en esas fuentes."
+        },
+        {
+          "label": "Comparación con otros asistentes",
+          "text": "A diferencia de ChatGPT o Claude, que pueden buscar información en internet, Gemini Notebook restringe sus respuestas a los archivos que el usuario carga, ofreciendo mayor control sobre el contenido consultado."
+        },
+        {
+          "label": "Tendencia del mercado",
+          "text": "La aparición de herramientas como Gemini Notebook se enmarca en una creciente demanda de soluciones de IA para la gestión de conocimientos, compitiendo con productos como Notion AI y Microsoft Copilot que también facilitan la organización y análisis de información."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "3f9815cf38c5",
       "title": "Propósito, decencia y calidad",
@@ -833,217 +1043,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "b84c31fd490e",
-      "title": "Café de humo en San Telmo: Samanta Schweblin y la magia del relato corto",
-      "summary": "Una taza de café humeante se curva en el espejo de la calle empedrada de San Telmo, reflejando la silueta de un escritor que, como la espuma, desaparece y reaparece entre las mesas. En ese vapor, la ciudad se vuelve un laberinto de voces susurrantes, donde cada sorbo es una puerta que se abre a un cuento que se escapa como una mariposa nocturna.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-16T07:20:38.512928+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, al abrir la Feria Internacional del Libro de Buenos Aires, el aire está cargado de la misma energía que el espresso que impulsa a los cuentistas contemporáneos. Samanta Schweblin, con su estilo que mezcla lo cotidiano y lo insólito, encarna esa chispa que transforma lo ordinario en un pequeño universo de asombro. Explorar su obra ahora es como probar una taza recién hecha: cada historia revela un sabor inesperado que invita a seguir leyendo.",
-      "focus_tags": [
-        "cuentos",
-        "Argentina",
-        "actualidad"
-      ],
-      "context": [
-        {
-          "label": "Autor",
-          "text": "Samanta Schweblin, nacida en Buenos Aires en 1978, se ha consolidado como una de las voces más inquietantes del cuento latinoamericano; su prosa, breve pero densa, juega con la extrañeza y el terror psicológico."
-        },
-        {
-          "label": "Obras recomendadas",
-          "text": "Distancia de rescate (2015) ofrece relatos que oscilan entre lo cotidiano y lo surreal, mientras que Mouthful of Birds (2019) lleva esa misma tensión a la frontera entre el lenguaje y lo animal; ambos libros son lecturas ideales para acompañar un café en San Telmo."
-        },
-        {
-          "label": "Escena literaria",
-          "text": "Los cafés de Buenos Aires, en especial los de San Telmo, funcionan como laboratorios donde escritores como Schweblin, Mariana Enriquez y Samir El‑Youssef experimentan con la forma del cuento, convirtiendo la conversación de barra en un acto creativo."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.2
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres, escrito por David Toscana, examina el temor histórico al entierro prematuro a través de referencias literarias como el cuento de Edgar Allan Poe y los escritos del ilustre jesuita español Benito Jerónimo Feijoo, describiendo casos reales y su representación en la literatura. También se menciona cómo esta angustia ha inspirado obras de autores como Leonid Andreyev y san Juan de la Cruz.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en un análisis literario e histórico sin emplear un carga política ni citar fuentes con orientación ideológica; el tono es descriptivo y cultural.",
-      "focus_analysis": "El medio eligió un ángulo literario e histórico, resaltando la presencia del tema en la obra de Poe, Feijoo y otros autores, mientras omite cualquier discusión sobre implicaciones médicas contemporáneas o debates sociales actuales.",
-      "focus_tags": [
-        "literatura",
-        "historia",
-        "temor al entierro"
-      ],
-      "context": [
-        {
-          "label": "Contexto histórico",
-          "text": "Durante los siglos XVIII y XIX, el miedo a ser enterrado vivo era frecuente en Occidente, motivado por la creencia de que los cadáveres podían propagar enfermedades y por la falta de métodos fiables para confirmar la muerte."
-        },
-        {
-          "label": "Referencias literarias",
-          "text": "Edgar Allan Poe introdujo el tema en su cuento “El entierro prematuro”, y autores como Leonid Andreyev y san Juan de la Cruz también exploraron la angustia de la muerte prematura en sus obras."
-        },
-        {
-          "label": "Publicación y línea editorial",
-          "text": "Letras Libres es una revista cultural mexicana conocida por su enfoque en literatura, arte y pensamiento crítico, sin una marcada inclinación política en sus secciones de cultura."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "a307f8e76f34",
-      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
-      "summary": "La Universidad Nacional Autónoma de México (UNAM) plantea que la esterilización de perros y gatos, acompañada de tenencia responsable e identificación, puede reducir a largo plazo la población de animales sin hogar en México.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/arteseideas/esterilizacion-perros-gatos-frenar-poblacion-animales-calles-20260815-828384.html",
-      "published_at": "2026-08-16T04:00:48+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo utiliza un tono informativo y cita a expertos de la UNAM sin emplear lenguaje cargado ni favorecer posturas políticas; se limita a describir la solución propuesta y sus fundamentos científicos.",
-      "focus_analysis": "El medio se centra en el enfoque de salud pública y gestión de la población animal, resaltando los beneficios sanitarios y de control demográfico, mientras omite la discusión sobre costos económicos o la participación de organizaciones civiles.",
-      "focus_tags": [
-        "salud animal",
-        "control de población",
-        "política pública"
-      ],
-      "context": [
-        {
-          "label": "datos nacionales",
-          "text": "Según la Encuesta Nacional de Bienestar Autorreportado (ENBIARE) 2021, aproximadamente el 70 % de los hogares mexicanos posee al menos una mascota, lo que representa cerca de 80 millones de animales de compañía en el país."
-        },
-        {
-          "label": "programas internacionales",
-          "text": "Diversos países, como Brasil y Estados Unidos, han implementado campañas masivas de esterilización y adopción que han demostrado una disminución significativa de la población de animales callejeros en áreas urbanas."
-        },
-        {
-          "label": "postura de ONG",
-          "text": "Organizaciones no gubernamentales de protección animal en México han respaldado la esterilización como parte de una estrategia integral que incluye identificación microchip y programas de adopción, señalando la necesidad de mayor financiamiento estatal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "e63f689181d0",
-      "title": "Los incendios forestales no dan tregua en Europa",
-      "summary": "Los incendios forestales continúan afectando a varios países europeos, obligando a evacuaciones masivas y movilizando a miles de bomberos, militares y helicópteros para intentar controlar los focos, que se han intensificado por las olas de calor excepcionales.",
-      "category": "internacional",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/los-incendios-forestales-no-dan-tregua-en-europa/a-78386746?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-16T05:20:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y objetivo, citando a autoridades y describiendo hechos sin usar lenguaje cargado ni favorecer a ninguna posición política.",
-      "focus_analysis": "El medio se centra en el impacto humano y la respuesta de emergencia ante los incendios, dejando de lado el análisis de políticas climáticas o de prevención a largo plazo.",
-      "focus_tags": [
-        "incendios forestales",
-        "evacuaciones",
-        "respuesta de emergencia"
-      ],
-      "context": [
-        {
-          "label": "cambio climático",
-          "text": "Los veranos europeos más calurosos y secos, vinculados al cambio climático, han incrementado la frecuencia e intensidad de los incendios forestales en los últimos años."
-        },
-        {
-          "label": "incendios históricos",
-          "text": "En los últimos cinco años, Europa ha registrado varios incendios devastadores, como los de Portugal en 2023 y Grecia en 2021, que dejaron cientos de evacuaciones y grandes áreas quemadas."
-        },
-        {
-          "label": "coordinación de la UE",
-          "text": "La Unión Europea, a través de su Mecanismo de Protección Civil, ha reforzado la cooperación entre estados miembros para la gestión de emergencias forestales, facilitando el intercambio de recursos y personal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a5c24f416621",
-      "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
-      "summary": "El portal Hipertextual ofrece una guía con 38 comandos de Linux que permiten a los usuarios consultar detalladamente el hardware y el sistema operativo de su ordenador, desde la CPU y la memoria hasta la GPU y el estado de los discos. La publicación está dirigida a quienes buscan información técnica sin depender de herramientas gráficas de Windows o macOS.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/guias/comandos-linux-hardware-componentes-sistema-ordenador/",
-      "published_at": "2026-08-16T07:03:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es meramente informativo y técnico, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El medio se centra en el ángulo técnico y práctico, proporcionando comandos para diagnosticar y conocer el hardware; omite aspectos como la seguridad del sistema o el rendimiento bajo carga intensiva.",
-      "focus_tags": [
-        "Linux commands",
-        "hardware info",
-        "system diagnostics"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "En el ecosistema Linux, la línea de comandos ha sido tradicionalmente la herramienta principal para obtener información del hardware, con utilidades como lshw, inxi y lspci que permiten un diagnóstico preciso sin interfaces gráficas."
-        },
-        {
-          "label": "Comparación",
-          "text": "A diferencia de Windows y macOS, donde herramientas como Device Manager o System Information ofrecen interfaces visuales, Linux depende de comandos de terminal, lo que brinda mayor flexibilidad pero requiere conocimientos de línea de comandos."
-        },
-        {
-          "label": "Fuente externa",
-          "text": "Comunidades como Stack Overflow y los foros de Ubuntu frecuentemente recomiendan estos mismos comandos para resolver problemas de compatibilidad de hardware o para optimizar el rendimiento del sistema."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "238b3d9a27b6",
-      "title": "José Ramón López Beltrán aparece en EEUU tras reportes sobre retiro de su visa",
-      "summary": "José Ramón López Beltrán, hijo mayor del expresidente Andrés Manuel López Obrador, se mostró en territorio estadounidense después de que su hermano Andy López Beltrán viera revocada su visa por EE. UU., provocando reacciones políticas en México y declaraciones de la embajada estadounidense.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/jose-ramon-lopez-beltran-aparece-en-eeuu-tras-reportes-sobre-retiro-de-su-visa/",
-      "published_at": "2026-08-16T07:04:16+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto emplea términos como \"polémica\" y resalta las acusaciones del hermano contra funcionarios estadounidenses, mientras que también incluye la postura crítica de la presidenta Sheinbaum, lo que indica una ligera inclinación hacia la defensa del gobierno de AMLO.",
-      "focus_analysis": "El medio se centra en el conflicto político y la repercusión mediática del caso de la visa, dejando de lado un análisis profundo de la política migratoria estadounidense o de los antecedentes legales de los involucrados.",
-      "focus_tags": [
-        "política",
-        "visa",
-        "relaciones México‑EEUU"
-      ],
-      "context": [
-        {
-          "label": "Reacción oficial mexicana",
-          "text": "La presidenta de México, Claudia Sheinbaum, cuestionó la cancelación de la visa de Andy López Beltrán y solicitó pruebas de cualquier acusación contra la familia del expresidente."
-        },
-        {
-          "label": "Política de revocación de visas de EE. UU.",
-          "text": "Según la embajada de Estados Unidos en México, las visas pueden ser revocadas cuando existen motivos justificados, sin que la afiliación política del titular sea un factor determinante."
-        },
-        {
-          "label": "Importancia política de la familia López Obrador",
-          "text": "Los hijos del expresidente López Obrador han sido objeto de atención pública y política, ya que sus actividades y situaciones legales suelen ser interpretadas como reflejo de la postura del gobierno mexicano hacia EE. UU."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
       }
     }
   ]
