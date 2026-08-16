@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-16T19:42:21.706306+00:00",
+  "generated_at": "2026-08-16T19:48:09.428918+00:00",
   "articles": [
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI-Code-1.1-Flash, una nueva IA para programación integrada en GitHub Copilot que promete generar código más rápido y a un menor costo que su predecesor y que modelos como Claude Code.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 20,
+      "bias_reason": "El artículo utiliza un tono mayormente promocional, citando solo los datos y declaraciones de Microsoft sin incluir opiniones críticas ni comparaciones independientes, lo que favorece una visión positiva del producto.",
+      "focus_analysis": "El medio se centra en los aspectos técnicos y de eficiencia del modelo, resaltando métricas de velocidad y coste, mientras omite discusiones sobre riesgos, privacidad o implicaciones éticas de la IA de programación.",
+      "focus_tags": [
+        "eficiencia IA",
+        "programación",
+        "competencia IA"
+      ],
+      "context": [
+        {
+          "label": "Modelo anterior de Microsoft",
+          "text": "Antes de MAI-Code-1.1-Flash, Microsoft ofrecía una versión de IA para Copilot que consumía más tokens y tenía un coste operativo significativamente mayor."
+        },
+        {
+          "label": "Competidores de IA",
+          "text": "Modelos como Claude Code, GPT-5.6 Luna y Kimi K2.7 Code consumen entre un 67 % y un 94 % más de tokens por turno, lo que los hace menos eficientes según los benchmarks de Microsoft."
+        },
+        {
+          "label": "Tendencia del mercado",
+          "text": "En los últimos años, la industria de asistentes de codificación ha buscado reducir el consumo de recursos y el coste, favoreciendo modelos más pequeños y especializados para tareas iterativas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "c98446ef09af",
+      "title": "Muere un militar de la UME en un accidente durante la extinción del incendio de Las Peñas de Riglos (Huesca)",
+      "summary": "Un soldado de la Unidad Militar de Emergencias falleció mientras intervenía en el incendio de Las Peñas de Riglos, en la provincia de Huesca, y tres compañeros resultaron heridos tras el vuelco de un camión en la carretera de Bernués.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-16/muere-un-militar-de-la-ume-en-un-accidente-durante-la-extincion-del-incendio-de-las-penas-de-riglos-huesca.html",
+      "published_at": "2026-08-16T19:25:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos sin usar vocabulario cargado ni citar fuentes con tono parcial, manteniendo un estilo informativo y neutral.",
+      "focus_analysis": "El artículo se centra en la tragedia humana y la operatividad de la UME durante el incendio, dejando de lado el análisis de políticas de gestión forestal o las causas estructurales del accidente.",
+      "focus_tags": [
+        "accidente militar",
+        "incendio forestal",
+        "Unidad Militar de Emergencias"
+      ],
+      "context": [
+        {
+          "label": "Función de la UME",
+          "text": "La Unidad Militar de Emergencias es una fuerza especializada del Ejército Español encargada de responder a catástrofes naturales, emergencias sanitarias y situaciones de riesgo."
+        },
+        {
+          "label": "Aumento de incendios en España",
+          "text": "En los últimos años, España ha registrado un incremento notable de incendios forestales, atribuido en parte al cambio climático y a la sequía prolongada."
+        },
+        {
+          "label": "Incidentes previos de la UME",
+          "text": "En años anteriores, la UME ha sufrido otras pérdidas humanas y heridos durante operaciones de extinción, lo que ha generado debates sobre la seguridad y la equipación del personal."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "149a5fcd3770",
+      "title": "El momento en el que Jamal Musiala se desplomó tras anotar un gol para el Bayern Múnich: qué fue lo que le pasó",
+      "summary": "Jamal Musiala, el mediocampista alemán del Bayern Múnich, se desmayó al término de un gol en el amistoso contra el Leipzig debido a un golpe de calor, pero recibió atención médica y pudo abandonar el campo por sus propios medios. El partido terminó 3-1 a favor del Bayern, aunque el incidente generó preocupación entre aficionados y cuerpo técnico.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/16/el-momento-en-el-que-jamal-musiala-se-desplomo-tras-anotar-un-gol-para-el-bayern-munich-que-fue-lo-que-le-paso/",
+      "published_at": "2026-08-16T19:30:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos deportivos y médicos sin usar vocabulario cargado ni favorecer a ninguna posición política o institucional.",
+      "focus_analysis": "El medio se centró en el aspecto humano y de salud del jugador, resaltando el desmayo y la reacción del equipo, mientras dejó de lado un análisis táctico o de rendimiento del partido.",
+      "focus_tags": [
+        "salud del jugador",
+        "golpe de calor",
+        "amistoso Bayern-Leipzig"
+      ],
+      "context": [
+        {
+          "label": "Condiciones climáticas",
+          "text": "El Allianz Arena registró temperaturas cercanas a los 33 °C durante el encuentro, lo que según el medio alemán BILD, fue la causa del desmayo de Musiala."
+        },
+        {
+          "label": "Historial de lesiones de Musiala",
+          "text": "Antes del amistoso, Musiala había regresado de una fractura de peroné y una dislocación de ligamentos que lo mantuvieron fuera por más de seis meses."
+        },
+        {
+          "label": "Incidentes de calor en el fútbol",
+          "text": "Los partidos jugados en climas calurosos suelen presentar casos de deshidratación y golpes de calor, motivo por el cual los clubes europeos suelen implementar protocolos de hidratación y pausas en verano."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "98665fb3d65c",
+      "title": "Cristiano Ronaldo se acerca al retiro",
+      "summary": "El futbolista portugués Cristiano Ronaldo, con más de veinte años de carrera, está próximo a retirarse del fútbol profesional.",
+      "category": "deportes",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/videos/cristiano-ronaldo-acerca-retiro-20260816-828497.html",
+      "published_at": "2026-08-16T19:33:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar de manera neutral sobre la posible jubilación de Ronaldo, sin usar adjetivos cargados ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centra en el aspecto deportivo de la trayectoria de Ronaldo y su posible retiro, dejando de lado la dimensión económica y empresarial que otros medios resaltan.",
+      "focus_tags": [
+        "carrera deportiva",
+        "retiro",
+        "fútbol"
+      ],
+      "context": [
+        {
+          "label": "carrera",
+          "text": "Cristiano Ronaldo debutó en el fútbol profesional en 2002 y ha jugado en clubes como el Manchester United, Real Madrid y Juventus, acumulando múltiples títulos y premios."
+        },
+        {
+          "label": "edad promedio de retiro",
+          "text": "En el fútbol de él, la edad media de retiro suele situarse entre los 35 y 38 años, aunque algunos jugadores han prolongado su carrera hasta los 40."
+        },
+        {
+          "label": "dimensión empresarial",
+          "text": "Más allá de su vida deportiva, Ronaldo ha diversificado sus ingresos invirtiendo en marcas, hoteles y startups, convirtiendo su fortuna en varios cientos de millones de dólares."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "56d86a4c5c9d",
+      "title": "Fenómeno de El Niño amenaza con ser el más potente del que se tiene registro: ¿Afectará México con tormentas e inundaciones?",
+      "summary": "El Servicio Meteorológico Nacional de EE. UU. (NOAA) advierte que el fenómeno de El Niño podría convertirse en el más intenso registrado desde 1950, con una probabilidad del 69 % de superar los 2,5 °C sobre la media. En México, este escenario podría generar tormentas y ciclones más fuertes en la costa del Pacífico, aunque también podría producir sequías en otras regiones.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/fenomeno-de-el-nino-amenaza-con-ser-el-mas-potente-del-que-se-tiene-registro-afectara-mexico-con-tormentas-e-inundaciones/",
+      "published_at": "2026-08-16T19:40:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se basa en datos científicos de la NOAA y mantiene un tono informativo sin usar vocabulario cargado ni favorecer a ninguna posición política.",
+      "focus_analysis": "El artículo se centra en la perspectiva meteorológica y los posibles riesgos climáticos para México, dejando de lado un análisis de los impactos económicos y sociales que podrían derivarse de tormentas o sequías.",
+      "focus_tags": [
+        "clima",
+        "El Niño",
+        "riesgos México"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "El Niño es parte del ciclo ENSO, un patrón climático que se manifiesta cada dos a siete años y afecta la temperatura del Pacífico ecuatorial, los vientos alisios y la distribución de lluvias a nivel global."
+        },
+        {
+          "label": "comparación histórica",
+          "text": "Eventos previos de El Niño, como el de 1997‑98, provocaron intensas lluvias y ciclones en la costa del Pacífico mexicano, mientras que otros episodios más débiles generaron sequías en el interior del país."
+        },
+        {
+          "label": "postura externa",
+          "text": "Otros medios, como Periódico AM de León, enfatizan la gravedad del fenómeno al señalar que podría ser el más fuerte registrado tanto en EE. UU. como en México, subrayando la posible magnitud del impacto."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "6af7c1ad5929",
+      "title": "Lula y Flávio Bolsonaro arrancan campañas para elecciones de octubre; la seguridad es la clave",
+      "summary": "El presidente brasileño Luiz Inácio Lula da Silva y el senador Flávio Bolsonaro iniciaron sus campañas para las elecciones presidenciales de octubre, ambos destacando la lucha contra el crimen organizado como tema central de sus mensajes.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/lula-y-flavio-bolsonaro-arrancan-campanas-para-elecciones-de-octubre-la-seguridad-es-la-clave/",
+      "published_at": "2026-08-16T19:40:13+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta a ambos candidatos de forma equilibrada, menciona sus recorridos simbólicos y sus propuestas sin favorecer explícitamente a ninguno; el lenguaje es descriptivo y la inclusión de encuestas y declaraciones de ambos lados indica una cobertura centrada.",
+      "focus_analysis": "El medio se concentra en la seguridad y la criminalidad como eje de la campaña, resaltando los discursos y los símbolos de los mítines; quedan en segundo plano los aspectos económicos o sociales de los programas electorales.",
+      "focus_tags": [
+        "seguridad",
+        "campaña presidencial",
+        "Brasil"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria de Lula",
+          "text": "Luiz Inácio Lula da Silva, ex‑sindicalista y expresidente del Partido de los Trabajadores, busca su cuarto mandato no consecutivo tras haber liderado importantes protestas obreras durante la dictadura militar."
+        },
+        {
+          "label": "Legado de Bolsonaro",
+          "text": "Flávio Bolsonaro es el hijo mayor del expresidente ultraderechista Jair Bolsonaro y representa la continuidad de la agenda conservadora y de seguridad que ha caracterizado al gobierno anterior."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Otros medios, como France24 Español, también resaltaron el inicio de las campañas y los lugares simbólicos, pero pusieron menos énfasis en la seguridad como tema central, enfocándose más en la cronología de los eventos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
     {
       "id": "f5f074777683",
       "title": "Nada tan angustioso en la tierra",
@@ -831,216 +1041,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "235841d91b9f",
-      "title": "Migrantes protestan en Ceuta y exigen asilo a España tras cruce masivo de la frontera",
-      "summary": "Cientos de migrantes que permanecen en el enclave español de Ceuta, tras el cruce masivo de más de 72 000 personas, protestaron en la playa de El Trampolín exigiendo asilo y evitando su devolución a Marruecos, mientras el gobierno español advierte que sólo los casos de extrema vulnerabilidad podrán permanecer.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/migrantes-protestan-ceuta-exigen-asilo-espana-cruce-masivo-frontera-20260816-828495.html",
-      "published_at": "2026-08-16T18:38:39+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto combina testimonios emocionales de los migrantes con declaraciones del gobierno y de autoridades sanitarias, usando un lenguaje mayormente descriptivo sin adjetivos cargados, lo que indica una postura ligeramente favorable a los migrantes pero equilibrada.",
-      "focus_analysis": "El medio destaca el ángulo humanitario y la presión sanitaria en Ceuta, resaltando las demandas de los migrantes y sus condiciones de vida, mientras deja de lado el impacto económico y de seguridad para España y la UE.",
-      "focus_tags": [
-        "derechos humanos",
-        "crisis migratoria",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Ceuta es un enclave español en el norte de África con una población de alrededor de 80 000 habitantes, que históricamente recibe flujos migratorios yaciones ha sido punto de entrada a la Europa continental."
-        },
-        {
-          "label": "evento reciente",
-          "text": "Hace dos semanas, más de 72 000 personas cruzaron la frontera de Marruecos a Ceuta en un cruce masivo; la gran mayoría regresó, pero entre 5 000 y 8 000 migrantes permanecen en el territorio."
-        },
-        {
-          "label": "cobertura comparada",
-          "text": "Otros medios como France24 enfatizaron la acción de las autoridades marroquíes dispersando a los migrantes, mientras que El País centró su atención en la presión sobre los servicios sanitarios y la negación oficial de un colapso."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "1e66345dd042",
-      "title": "Licencia de conducir CDMX 2026: por qué puedo perder el permiso durante agosto",
-      "summary": "La Secretaría de Movilidad de la Ciudad de México advierte que, bajo la Ley de Movilidad, en agosto de 2026 podrá retirar la licencia de conducir a conductores que acumulen ciertas infracciones, aplicando la medida caso por caso y con especial dureza para quienes manejan bajo efectos de alcohol o drogas.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/licencia-de-conducir-cdmx-2026-por-que-puedo-perder-el-permiso-durante-agosto/",
-      "published_at": "2026-08-16T18:50:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la normativa y los procedimientos sin usar lenguaje cargado ni citar fuentes con sesgo, manteniendo un tono informativo.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y legal de la normativa de movilidad, dejando de lado el impacto humano o las estadísticas de seguridad vial.",
-      "focus_tags": [
-        "ley de movilidad",
-        "suspensión de licencias",
-        "CDMX"
-      ],
-      "context": [
-        {
-          "label": "legislación previa",
-          "text": "La Ley de Movilidad de la Ciudad de México, promulgada en 2020, ya establecía sanciones progresivas por infracciones de tránsito y la posibilidad de suspender la licencia en casos graves."
-        },
-        {
-          "label": "estadísticas de infracciones",
-          "text": "Según la Secretaría de Movilidad, en los últimos años se han registrado decenas de miles de infracciones de tránsito en la CDMX, con un número creciente de casos relacionados con alcohol y sustancias psicotrópicas."
-        },
-        {
-          "label": "comparación nacional",
-          "text": "A diferencia de la normativa federal, que permite la suspensión de licencias a nivel estatal, la CDMX aplica medidas más estrictas, especialmente para conductores de transporte público, que pueden perder su permiso desde la primera falta."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres explora el temor histórico a ser enterrado vivo, analizando ejemplos literarios como el cuento de Edgar Allan Poe y referencias de autores del Siglo de Oro y la Ilustración española, para describir cómo este miedo ha sido representado y reflexionado en la cultura occidental.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a una exposición literaria e histórica sin emplear un cargados, ni citar fuentes políticas ni presentar un encuadre ideológico; el tono es descriptivo y neutral.",
-      "focus_analysis": "El medio eligió un ángulo cultural‑literario, resaltando la presencia del miedo al entierro prematuro en la literatura y la historia de la Europa occidental, dejando de lado aspectos médicos o sociológicos contemporáneos.",
-      "focus_tags": [
-        "temor histórico",
-        "literatura gótica",
-        "cultura occidental"
-      ],
-      "context": [
-        {
-          "label": "Miedo histórico al entierro prematuro",
-          "text": "Durante los siglos XVIII y XIX, la posibilidad de ser enterrado con vida generó pánico en la población europea, lo que llevó a la creación de dispositivos de seguridad y a la aparición de relatos que dramatizaban este temor."
-        },
-        {
-          "label": "Edgar Allan Poe y la literatura gótica",
-          "text": "El autor estadounidense Edgar Allan Poe popularizó el tema en su cuento “El entierro prematuro”, describiendo la angustia física y mental del atrapado bajo tierra y estableciendo un referente para la narrativa de horror."
-        },
-        {
-          "label": "Benito Jerónimo Feijoo y la Ilustración española",
-          "text": "El erudito español del siglo XVIII, Benito Jerónimo Feijoo, abordó el tema en sus escritos, alertando sobre los riesgos de los entierros apresurados y proponiendo criterios más rigurosos para confirmar la muerte."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "b2f0f5a8b9a3",
-      "title": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
-      "summary": "El presidente de Brasil, Luiz Inácio Lula da Silva, inicia su campaña para la reelección con la intención de detener al avance de la derecha y reforzar su legado, mientras que su rival, Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, también comienza su campaña, y las encuestas indican un empate técnico.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
-      "published_at": "2026-08-16T18:31:26+00:00",
-      "bias_score": -40,
-      "bias_reason": "El titular y el enfoque del artículo usan lenguaje que favorece a Lula, como \"frenar a la derecha\" y \"consolidar su legado\", sin ofrecer una visión equilibrada de la oposición, lo que refleja una postura de izquierda.",
-      "focus_analysis": "El medio se centra en la contienda electoral y en la narrativa de Lula como defensor contra la derecha, dejando de lado aspectos de política pública o impactos económicos del posible segundo mandato.",
-      "focus_tags": [
-        "elecciones Brasil",
-        "legado Lula",
-        "oposición derecha"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Lula",
-          "text": "Luiz Inácio Lula da Silva, expresidente de Brasil (2003‑2010) y presidente desde 2023, ha impulsado políticas sociales y de desarrollo económico, lo que le ha generado tanto apoyo popular como críticas de sectores conservadores."
-        },
-        {
-          "label": "Contexto de la oposición",
-          "text": "Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, representa la línea conservadora y ha buscado mantener la agenda de derecha que marcó el gobierno de su padre."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como France24 Español, describieron el inicio de las campañas centrándose en los actos y los lugares de los mítines, sin enfatizar la lucha contra la derecha ni el legado de Lula, lo que muestra un enfoque más neutro."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "235841d91b9f",
-      "title": "Migrantes protestan en Ceuta y exigen asilo a España tras cruce masivo de la frontera",
-      "summary": "Cientos de migrantes que permanecen en el enclave español de Ceuta protestaron este domingo exigiendo asilo y evitando su devolución a Marruecos, mientras denuncian condiciones de vida precarias y una presión creciente sobre los servicios sanitarios locales.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/migrantes-protestan-ceuta-exigen-asilo-espana-cruce-masivo-frontera-20260816-828495.html",
-      "published_at": "2026-08-16T18:38:39+00:00",
-      "bias_score": -12,
-      "bias_reason": "El texto destaca ampliamente los testimonios y sufrimientos de los migrantes y critica la respuesta gubernamental, aunque también incluye declaraciones oficiales, lo que indica una ligera inclinación hacia la perspectiva humanitaria.",
-      "focus_analysis": "El medio se centra en el ángulo humanitario y sanitario de la protesta, resaltando el sufrimiento de los migrantes y la presión sobre la salud pública; deja de lado el análisis de seguridad fronteriza y el impacto económico para la comunidad de Ceuta.",
-      "focus_tags": [
-        "migración",
-        "derechos humanos",
-        "presión sanitaria"
-      ],
-      "context": [
-        {
-          "label": "Antecedente del cruce masivo",
-          "text": "Hace dos semanas, más de 72 000 personas cruzaron la frontera de Ceuta, dejando entre 5 000 y 8 000 migrantes en el enclave, la mayoría de los cuales regresó voluntariamente a Marruecos."
-        },
-        {
-          "label": "Postura del gobierno español",
-          "text": "El ministro del Interior, Fernando Grande‑Marlaska, advirtió que los migrantes irregulares serán devueltos a Marruecos, salvo casos de extrema vulnerabilidad, mientras que la ministra de Sanidad, Mónica García, negó un colapso sanitario aunque reconoció la presión sobre los recursos."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "France24 informó que las fuerzas marroquíes dispersaron a más de cien migrantes que intentaban cruzar la frontera, y El País América señaló que el presidente de Ceuta denuncia falta de recursos y exige la devolución de los migrantes, contrastando con la narrativa humanitaria del artículo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "3b0b1fc7870b",
-      "title": "Adrián Di Monte habla de la confrontación en el programa de Shanik Berman, por lo que abandonó el estudio: \"no nos sentimos bienvenidos\"",
-      "summary": "El actor cubano Adrián Di Monte y su esposa Nuja Amar abandonaron el programa de radio de Shanik Berman en Fórmula después de ser confrontados por la conductora Analu Salazar sobre un audio filtrado en el que el actor había hecho comentarios despectivos hacia las mujeres, declarando que no se sentían bienvenidos.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/adrian-di-monte-habla-de-la-confrontacion-en-el-programa-de-shanik-berman-por-lo-que-abandono-el-estudio-no-nos-sentimos-bienvenidos/",
-      "published_at": "2026-08-16T18:48:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos y reproducir declaraciones de los participantes sin usar calificativos cargados ni favorecer explícitamente a ninguna parte.",
-      "focus_analysis": "El artículo se centra en la polémica personal y la reacción de la pareja, dejando de lado el contexto institucional del programa y el debate más amplio sobre el discurso misógino en los medios.",
-      "focus_tags": [
-        "celebridad",
-        "controversia de género",
-        "programa de radio"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "En los últimos años, varios actores y personalidades públicas en México han sido criticados por comentarios misóginos, generando debates sobre la responsabilidad de los medios y la cultura del respeto hacia las mujeres."
-        },
-        {
-          "label": "Dato comparativo",
-          "text": "El programa de Shanik Berman, transmitido por Radio Fórmula, es conocido por su estilo de entrevistas confrontativas que a menudo generan controversias y reacciones intensas de los invitados."
-        },
-        {
-          "label": "Postura de terceros",
-          "text": "Otros medios de comunicación han señalado que casos como el de Adrián Di Monte reflejan una tendencia a la polarización en la cobertura de escándalos de género dentro del entretenimiento."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
       }
     }
   ]
