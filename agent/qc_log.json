@@ -1,153 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-16T19:01:19.374299+00:00",
-      "title": "Lula busca un cuarto mandato para frenar a la derecha en Brasil y consolidar su legado",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta problemas de veracidad y objetividad, pese a estar actualizado y estructurado razonablemente; necesita mayor precisión factual y un tono más neutral antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T19:01:28.947097+00:00",
-      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la nota es o, la falta de datos verificables y de fuentes contrastadas, junto a un sesgo promocional, la hace insuficiente para publicación sin revisiones adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T19:01:53.345869+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa y neutral, con una estructura clara y actualidad adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T19:02:09.772017+00:00",
-      "title": "Licencia de conducir CDMX 2026: por qué puedo perder el permiso durante agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple ampliamente con los estándares editoriales, presentando la información de forma clara, equilibrada y oportuna; solo se sugiere reforzar la verificación de la medida futura con fuentes oficiales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T19:02:21.345750+00:00",
-      "title": "Sarmiento le gana a Huracán en Junín por la fecha cinco del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 16 column 129 (char 979)"
-    },
-    {
-      "at": "2026-08-16T19:02:32.726382+00:00",
-      "title": "Alcaldía Benito Juárez realizará Feria Anual del Empleo, Emprendimiento y Servicios 2026; te decimos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de citas específicas para los datos numéricos reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T19:02:50.398709+00:00",
-      "title": "UIF y Nacer Global firman convenio para capacitar en prevención de lavado de dinero en actividades v",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de información objetiva y oportuna, con solo pequeñas reservas en la verificación completa de algunos datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T19:20:51.031115+00:00",
-      "title": "Eclipse Solar Total en México: ¿cuándo volverá a oscurecerse el cielo y qué estados podrán verlo?; e",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información precisa, objetiva y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T19:20:58.508200+00:00",
-      "title": "¡Se acerca la FILUNI 2026! Cine, conciertos, exposiciones y talleres celebran su 8ª edición: fecha, ",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando alta veracidad, objetividad y actualidad, con una estructura clara y adecuada.",
-      "error": null
-    },
-    {
       "at": "2026-08-16T19:21:08.459416+00:00",
       "title": "Escalada entre Rusia y Ucrania deja al menos 19 muertos en ataques cruzados",
       "kind": "noticia",
@@ -3380,6 +3233,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, objetiva y reciente, aunque podría enriquecer la cobertura con fuentes técnicas adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:01.042327+00:00",
+      "title": "Trump ordena reducir ejercicios militares con Corea del Sur; acusa falta de apoyo para desnucleariza",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 8,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla en veracidad y fiabilidad de fuentes, aunque mantiene objetividad y estructura; necesita revisión antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:04.824169+00:00",
+      "title": "Rosario Central visita a Barracas Central por la quinta fecha del Torneo Clausura: partido demorado ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque podría reforzarse con fuentes adicionales o citas para elevar la precisión y el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:11.266207+00:00",
+      "title": "Aumenta a tres la cifra de muertos tras ataque armado en depósito de Pueblo Nuevo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, la nota es reciente y objetiva, pero la falta de fuentes múltiples debilita su robustez informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:21.028686+00:00",
+      "title": "Colombia, una semana después del terremoto: casi 300 muertos y un largo camino de dolor y recuperaci",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado pero contiene un error factual importante sobre la identidad del presidente, lo que afecta su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:25.300800+00:00",
+      "title": "El socialismo radical de Lula podría ser derrotado por la Doctrina Donroe",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual y la objetividad; aunque es actual y bien estructurado, la falta de fuentes verificadas para la afirmación central y el uso de lenguaje tendencioso reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:32.642394+00:00",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es informativo y actual, pero su falta de fuentes externas y la tendencia a reproducir la narrativa de Microsoft limitan su rigor periodístico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:43.409771+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, objetiva y bien estructurada, aunque podría enriquecer la contextualización comparativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:47.239210+00:00",
+      "title": "¿Tu celular termina en 1?; esta es la fecha límite para registrar tu línea y evitar suspensión",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T23:48:54.140069+00:00",
+      "title": "Alarma en River Plate: la lesión que sufrió Montiel y generó un peculiar problema de cara al duelo p",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada.",
       "error": null
     }
   ]
