@@ -1,6 +1,249 @@
 {
-  "generated_at": "2026-08-16T07:10:44.306833+00:00",
+  "generated_at": "2026-08-16T07:21:36.070500+00:00",
   "articles": [
+    {
+      "id": "3f9815cf38c5",
+      "title": "Propósito, decencia y calidad",
+      "summary": "El Universal celebra el centenario de The New Yorker, resaltando su papel como pilar de la cultura norteamericana, su rigor editorial y su contribución a la conversación pública, al tiempo que advierte sobre los riesgos de la inteligencia artificial en la escritura.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/cultura/confabulario/proposito-decencia-y-calidad/",
+      "published_at": "2026-08-16T07:09:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la valoración cultural y editorial de la revista sin recurrir a lenguaje cargado ni a fuentes políticas, manteniendo un tono neutral y descriptivo.",
+      "focus_analysis": "El medio elige un ángulo cultural‑literario, enfatizando la historia, la calidad editorial y la crítica a la IA; omite aspectos económicos y de audiencia de la revista.",
+      "focus_tags": [
+        "cultura literaria",
+        "editorial tradicional",
+        "impacto IA"
+      ],
+      "context": [
+        {
+          "label": "histórico",
+          "text": "The New Yorker fue fundada en 1925 por Harold Ross como una revista que combinaba humor y crítica social, convirtiéndose en un referente de la cultura estadounidense."
+        },
+        {
+          "label": "influencia literaria",
+          "text": "A lo largo de su centenario, la publicación ha sido la cuna de obras de autores como David Foster Wallace, John Updike y Philip Roth, y ha publicado reportajes seminales como el de John Hersey sobre Hiroshima que marcó el inicio del nuevo periodismo."
+        },
+        {
+          "label": "desafíos actuales",
+          "text": "En la era de la inteligencia artificial, la revista enfrenta críticas sobre la sustitución de la escritura humana por algoritmos, lo que ha llevado a un debate sobre la preservación de la calidad editorial."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "238b3d9a27b6",
+      "title": "José Ramón López Beltrán aparece en EEUU tras reportes sobre retiro de su visa",
+      "summary": "José Ramón López Beltrán, hijo del expresidente Andrés Manuel López Obrador, se mostró en Estados Unidos publicando una foto desde el restaurante Buc‑ee’s, un día después de que su hermano Andy López Beltrán anunciara la revocación de su visa estadounidense por motivos que él calificó políticos.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/jose-ramon-lopez-beltran-aparece-en-eeuu-tras-reportes-sobre-retiro-de-su-visa/",
+      "published_at": "2026-08-16T07:04:49+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea términos como \"polémica\" y \"acuso motivaciones políticas\", enfatiza la crítica del gobierno mexicano y de la izquierda, y aunque incluye la posición neutral de la embajada de EE. UU., el tono favorece la visión del gobierno de López Obrador.",
+      "focus_analysis": "El medio se centra en la controversia política y la respuesta institucional de México y EE. UU. sobre la visa, dejando en segundo plano el aspecto personal y cotidiano de la familia.",
+      "focus_tags": [
+        "visa revocación",
+        "EEUU‑México",
+        "familia López Obrador"
+      ],
+      "context": [
+        {
+          "label": "Reacción del gobierno mexicano",
+          "text": "La presidenta Claudia Sheinbaum cuestionó la medida de EE. UU. y solicitó pruebas, al mismo tiempo que minimizó la relevancia de contar con una visa para viajar."
+        },
+        {
+          "label": "Postura de EE. UU.",
+          "text": "La embajada de Estados Unidos declaró que las visas pueden ser revocadas por cualquier razón, sin importar la afiliación política, y funcionarios como Christopher Landau subrayaron la importancia de la cooperación bilateral."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Aristegui Noticias resaltó la defensa de la soberanía por parte de Morena, mientras que El Informador destacó las declaraciones de Sheinbaum, mostrando que la prensa de izquierda enmarca el caso como una intervención política de EE. UU."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de David Toscana publicado en Letras Libres explora el histórico temor a ser enterrado vivo, analizando relatos literarios como el cuento de Edgar Allan Poe y referencias de autores como Benito Jerónimo Feijoo y San Juan de la Cruz, para describir la angustia física y mental que genera esta posible catástrofe.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en un análisis literario y histórico, usando un lenguaje descriptivo sin cargar términos políticos ni citar fuentes con sesgo ideológico.",
+      "focus_analysis": "El medio eligió un ángulo cultural‑histórico, resaltando la presencia del miedo al entierro prematuro en la literatura y la tradición europea; no aborda aspectos políticos ni contemporáneos del tema.",
+      "focus_tags": [
+        "literatura",
+        "historia",
+        "miedo"
+      ],
+      "context": [
+        {
+          "label": "Miedo histórico al entierro prematuro",
+          "text": "Durante los siglos XVIII y XIX, la posibilidad de ser enterrado vivo generó una profunda ansiedad en la población occidental, lo que llevó a la creación de dispositivos de seguridad en los ataúdes y a la aparición de relatos que describían este terror."
+        },
+        {
+          "label": "Edgar Allan Poe y la literatura de terror",
+          "text": "El escritor estadounidense Edgar Allan Poe popularizó el tema en su cuento “El entierro prematuro”, donde describe la agonía de la asfixia y la inevitabilidad del horror, influyendo en la tradición del terror gothic."
+        },
+        {
+          "label": "Tratado de Feijoo sobre el entierro prematuro",
+          "text": "El erudito español Benito Jerónimo Feijoo, en sus cartas del siglo XVIII, analizó casos reales y propuso protocolos para evitar el entierro de personas vivas, reflejando la preocupación médica y moral de la época."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a5c24f416621",
+      "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
+      "summary": "El artículo de Hipertextual ofrece una lista de comandos de Linux que permiten al usuario consultar detalladamente el hardware y el estado del sistema de su ordenador, desde la CPU y la RAM hasta la GPU y los dispositivos USB.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/guias/comandos-linux-hardware-componentes-sistema-ordenador/",
+      "published_at": "2026-08-16T07:03:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir comandos técnicos sin usar un cargado o seleccionar fuentes con sesgo político; el tono es neutro y descriptivo.",
+      "focus_analysis": "El medio eló un ángulo técnico, proporcionando una guía práctica de comandos para diagnosticar y conocer el hardware en Linux, dejando de lado aspectos de seguridad, rendimiento comparativo o implicaciones de uso empresarial.",
+      "focus_tags": [
+        "Linux commands",
+        "hardware info",
+        "system diagnostics"
+      ],
+      "context": [
+        {
+          "label": "Linux ecosystem",
+          "text": "Linux es un sistema operativo de código abierto ampliamente usado en servidores, dispositivos embebidos y computadoras personales, y su interfaz de línea de comandos permite acceder a información del sistema mediante herramientas como lshw, inxi y lspci."
+        },
+        {
+          "label": "Hardware diagnostics tools",
+          "text": "Al igual que Windows con el Administrador de dispositivos y macOS con la Información del Sistema, Linux ofrece utilidades de línea de comandos que facilitan la inspección del hardware y la detección de problemas sin necesidad de interfaces gráficas."
+        },
+        {
+          "label": "User need for system info",
+          "text": "Los usuarios suelen requerir conocer las especificaciones de su PC para tareas como instalar juegos exigentes, verificar compatibilidad de software o diagnosticar fallos, lo que hace útil disponer de comandos rápidos que revelen CPU, RAM, GPU y estado de los discos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "ee4337d8b36a",
+      "title": "Un trágico accidente de autobús en Hungría deja, al menos, 12 muertos",
+      "summary": "Un autobús polaco que transitaba por la autopista M3 en Hungría se volcó en una zanja, provocando al menos 12 muertos y dejando a varios pasajeros gravemente heridos.",
+      "category": "internacional",
+      "source_name": "Euronews Español",
+      "source_url": "http://es.euronews.com/2026/08/16/un-tragico-accidente-de-autobus-en-hungria-deja-al-menos-12-muertos",
+      "published_at": "2026-08-16T07:06:26+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutro, se basa en declaraciones oficiales húngaras y polacas y no incluye adjetivos cargados ni opiniones, lo que indica una cobertura equilibrada.",
+      "focus_analysis": "El medio se centra en la descripción del accidente y la respuesta de las autoridades, omitiendo análisis sobre causas del sin, seguridad vial o consecuencias a largo plazo.",
+      "focus_tags": [
+        "accidente de transporte",
+        "respuesta institucional",
+        "Hungría"
+      ],
+      "context": [
+        {
+          "label": "historial de siniestros viales en Hungría",
+          "text": "En los últimos años, Hungría ha registrado varios accidentes graves de autobuses en la autopista M3, lo que ha llevado al gobierno a reforzar los controles de seguridad y la infraestructura vial."
+        },
+        {
+          "label": "relaciones húngaro‑polacas en transporte",
+          "text": "Polonia y Hungría comparten rutas de transporte transfronterizo dentro de la UE, y los gobiernos coordinan protocolos de emergencia y rescate para incidentes que involucren a ciudadanos de ambos países."
+        },
+        {
+          "label": "normativas europeas de seguridad en transporte",
+          "text": "La Unión Europea exige que los operadores de transporte público cumplan con estrictas normas de seguridad y mantenimiento, y los accidentes graves suelen desencadenar inspecciones y posibles sanciones por parte de la Comisión Europea."
+        }
+      ],
+      "confidence": "alta"
+    },
+    {
+      "id": "9f328fe0fdf9",
+      "title": "Temblor hoy en México: casi mil 700 réplicas del sismo registrado en Chiapas",
+      "summary": "El Servicio Sismológico Nacional informó que, hasta las 20:00 h del 15 de agosto, se han registrado 1 681 réplicas del sismo de magnitud 7,4 que sacudió Ciudad Hidalgo, Chiapas, el 17 de julio, mientras mantiene un monitoreo en tiempo real de la actividad sísmica en todo el país.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/temblor-hoy-en-mexico-noticias-actividad-sismica-16-de-agosto-de-2026/",
+      "published_at": "2026-08-16T07:13:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos y hechos sin lenguaje cargado ni fuentes con opinión, presentando la información de forma neutral.",
+      "focus_analysis": "El medio eligió un ángulo informativo y científico, centrado en la cantidad de réplicas y la actividad del Servicio Sismológico Nacional, dejando de lado el impacto humano o los posibles daños en las comunidades.",
+      "focus_tags": [
+        "sismología",
+        "México",
+        "monitoreo"
+      ],
+      "context": [
+        {
+          "label": "Actividad sísmica en México",
+          "text": "México se ubica en una zona de alta sismicidad porque está atravesado por cinco placas tectónicas —Caribe, Norteamérica, Pacífico, Rivera y Cocos— lo que genera frecuentes temblores y réplicas."
+        },
+        {
+          "label": "Sismo de 17 de julio de 2026",
+          "text": "El 17 de julio de 2026 un terremoto de magnitud 7,4 sacudió Ciudad Hidalgo, Chiapas, siendo el sismo más fuerte registrado en el país ese año y generando una serie de réplicas posteriores."
+        },
+        {
+          "label": "Rol del Servicio Sismológico Nacional",
+          "text": "El Servicio Sismológico Nacional (SSN) es la entidad oficial encargada de detectar, registrar y difundir información sobre los movimientos telúricos en México, ofreciendo datos de magnitud, profundidad y ubicación del epicentro."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "b84c31fd490e",
+      "title": "Café de humo en San Telmo: Samanta Schweblin y la magia del relato corto",
+      "summary": "Una taza de café humeante se curva en el espejo de la calle empedrada de San Telmo, reflejando la silueta de un escritor que, como la espuma, desaparece y reaparece entre las mesas. En ese vapor, la ciudad se vuelve un laberinto de voces susurrantes, donde cada sorbo es una puerta que se abre a un cuento que se escapa como una mariposa nocturna.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-16T07:20:38.512928+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, al abrir la Feria Internacional del Libro de Buenos Aires, el aire está cargado de la misma energía que el espresso que impulsa a los cuentistas contemporáneos. Samanta Schweblin, con su estilo que mezcla lo cotidiano y lo insólito, encarna esa chispa que transforma lo ordinario en un pequeño universo de asombro. Explorar su obra ahora es como probar una taza recién hecha: cada historia revela un sabor inesperado que invita a seguir leyendo.",
+      "focus_tags": [
+        "cuentos",
+        "Argentina",
+        "actualidad"
+      ],
+      "context": [
+        {
+          "label": "Autor",
+          "text": "Samanta Schweblin, nacida en Buenos Aires en 1978, se ha consolidado como una de las voces más inquietantes del cuento latinoamericano; su prosa, breve pero densa, juega con la extrañeza y el terror psicológico."
+        },
+        {
+          "label": "Obras recomendadas",
+          "text": "Distancia de rescate (2015) ofrece relatos que oscilan entre lo cotidiano y lo surreal, mientras que Mouthful of Birds (2019) lleva esa misma tensión a la frontera entre el lenguaje y lo animal; ambos libros son lecturas ideales para acompañar un café en San Telmo."
+        },
+        {
+          "label": "Escena literaria",
+          "text": "Los cafés de Buenos Aires, en especial los de San Telmo, funcionan como laboratorios donde escritores como Schweblin, Mariana Enriquez y Samir El‑Youssef experimentan con la forma del cuento, convirtiendo la conversación de barra en un acto creativo."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.2
+      }
+    },
     {
       "id": "f5f074777683",
       "title": "Nada tan angustioso en la tierra",
@@ -801,251 +1044,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "76e7c4ffec27",
-      "title": "Iñaki Manero rescata el misterio de los 90",
-      "summary": "El locutor Iñaki Manero revive su programa de misterio de los años noventa, \"En los cuernos de la luna\", ahora adaptado a la televisión con el apoyo de inteligencia artificial, buscando despertar la curiosidad del público frente a los contenidos digitales.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/inaki-manero-rescata-el-misterio-de-los-90/",
-      "published_at": "2026-08-16T06:18:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta al programa y al conductor de forma positiva y descriptiva, sin usar lenguaje cargado ni incluir opiniones críticas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en la nostalgia cultural y la innovación tecnológica del formato televisivo, dejando de lado un análisis crítico del panorama mediático actual o de la competencia de contenidos digitales.",
-      "focus_tags": [
-        "nostalgia",
-        "innovación mediática",
-        "inteligencia artificial"
-      ],
-      "context": [
-        {
-          "label": "antecedentes del programa",
-          "text": "\"En los cuernos de la luna\" se emitió entre 1992 y 1996 en la emisora Rock 101, convirtiéndose en un espacio de culto para la generación X mexicana."
-        },
-        {
-          "label": "tendencia de revivir contenidos retro",
-          "text": "En los últimos años, varios medios han adaptado programas y series de los años noventa a formatos digitales o televisivos, aprovechando la nostalgia como atractivo para audiencias adultas."
-        },
-        {
-          "label": "colaboración con Jaima Maussan",
-          "text": "Jaima Maussan, conocida por sus programas paranormales, invitó a Iñaki Manero a participar en su canal Maussan Televisión, facilitando la transición del programa a la televisión."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "9f328fe0fdf9",
-      "title": "Temblor hoy en México: noticias, actividad sísmica 16 de agosto de 2026",
-      "summary": "El Servicio Sismológico Nacional de México continúa monitoreando en tiempo real la actividad sísmica del país, ofreciendo información actualizada sobre magnitud, profundidad y ubicación de los temblores registrados el 16 de agosto de 2026.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/temblor-hoy-en-mexico-noticias-actividad-sismica-16-de-agosto-de-2026/",
-      "published_at": "2026-08-16T06:00:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir datos técnicos y el seguimiento del servicio oficial sin usar lenguaje cargado ni presentar opiniones, manteniendo un tono informativo y neutro.",
-      "focus_analysis": "El medio se centra en la dimensión geológica y la transmisión de datos en vivo, dejando fuera cualquier análisis sobre posibles daños humanos o respuestas de emergencia.",
-      "focus_tags": [
-        "sismología",
-        "monitoreo en tiempo real",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "Tectónica de placas",
-          "text": "México se encuentra sobre la intersección de cinco placas tectónicas —Caribe, Norteamérica, Pacífico, Rivera y Cocos— lo que lo coloca en una zona de alta actividad sísmica."
-        },
-        {
-          "label": "Historial sísmico",
-          "text": "El país ha experimentado terremotos devastadores, como el de 1985 en la Ciudad de México, que dejó miles de víctimas y marcó la importancia de sistemas de alerta temprana."
-        },
-        {
-          "label": "Instituciones de monitoreo",
-          "text": "El Servicio Sismológico Nacional, dependiente de la Universidad Nacional Autónoma de México, es la autoridad encargada de registrar y publicar los datos de los sismos en todo el territorio nacional."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "4af43153c50a",
-      "title": "Resultado: Atlas vence a Tigres en un dramático partido y pelea por la cima del Apertura 2026",
-      "summary": "El Atlas, dirigido por Hernán Crespo, venció 2-1 a los Tigres en el Estadio Jalisco, logrando su tercera victoria del Apertura 2026 y alcanzando momentáneamente el segundo lugar de la clasificación.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/resultado-liga-mx-atlas-vs-tigres-jornada-4-del-apertura-2026/",
-      "published_at": "2026-08-16T05:25:24+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir el desarrollo del partido y su impacto en la tabla, sin incluir opiniones políticas ni fuentes que favorezcan una visión ideológica.",
-      "focus_analysis": "El medio se concentra en el relato del encuentro, resaltando los momentos dramáticos y la posición en la tabla, dejando de lado análisis financieros o de gestión del club.",
-      "focus_tags": [
-        "fútbol",
-        "Apertura 2026",
-        "Atlas vs Tigres"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento reciente de Atlas",
-          "text": "Antes del duelo, Atlas había acumulado tres victorias en el Apertura 2026 y se encontraba en la lucha por el primer puesto de la clasificación."
-        },
-        {
-          "label": "Racha de Tigres",
-          "text": "Los Tigres venían de una serie de siete partidos consecutivos sin lograr una victoria, lo que incrementaba la presión sobre el equipo."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Periódico AM destacó el error del portero Nahuel Guzmán y la expulsión de Juan Purata como factores decisivos, ofreciendo una visión distinta que enfatiza los momentos críticos del partido."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de David Toscana en Letras Libres explora el temor histórico a ser enterrado vivo, citando a Edgar Allan Poe, al monje iluminado Feijoo y a otras fuentes literarias para describir la angustia que provocaba esta posible catástrofe.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en una reflexión literaria e histórica sin usar vocabulario cargado ni presentar fuentes con sesgo político, manteniéndose neutral.",
-      "focus_analysis": "El medio opta por un ángulo cultural‑literario, resaltando relatos y reflexiones sobre el entierro prematuro, mientras omite perspectivas médicas o sociológicas contemporáneas.",
-      "focus_tags": [
-        "literatura",
-        "historia cultural",
-        "miedo a entierro"
-      ],
-      "context": [
-        {
-          "label": "Miedo histórico al entierro prematuro",
-          "text": "Desde la época de la Ilustración, la posibilidad de ser enterrado con vida alimentó temores y relatos en la cultura occidental, como los cuentos de Edgar Allan Poe y los mitos populares del siglo XIX."
-        },
-        {
-          "label": "Análisis de Feijoo",
-          "text": "El monje español Benito Jerónimo Feijoo, en el siglo XVIII, denunció la práctica de enterrar rápidamente a los enfermos y propuso esperar la confirmación de la muerte para evitar entierros prematuros."
-        },
-        {
-          "label": "Seguridad moderna",
-          "text": "En la actualidad, los protocolos médicos y forenses, como la observación prolongada y la certificación de muerte, han reducido prácticamente a cero los casos de entierros vivos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "e63f689181d0",
-      "title": "Los incendios forestales no dan tregua en Europa",
-      "summary": "Los incendios forestales siguen azotando a varios países europeos —Alemania, España, Portugal, Francia, Bélgica, Grecia, Croacia y Serbia— obligando a evacuaciones masivas y requiriendo la intervención de bomberos, helicópteros y, en algunos casos, del ejército.",
-      "category": "internacional",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/los-incendios-forestales-no-dan-tregua-en-europa/a-78386746?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-16T05:20:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo presenta los hechos de forma descriptiva y equilibrada, citando a autoridades de distintos países sin emplear lenguaje cargado ni favorecer a ninguna posición política.",
-      "focus_analysis": "Se centra en la magnitud de los incendios y la respuesta operativa de equipos de emergencia y fuerzas armadas, dejando de lado el debate sobre políticas climáticas o responsabilidad institucional.",
-      "focus_tags": [
-        "incendios forestales",
-        "evacuaciones",
-        "respuesta de emergencia"
-      ],
-      "context": [
-        {
-          "label": "clima",
-          "text": "Las olas de calor excepcionales que se han registrado en Europa desde la primavera boreal están vinculadas al cambio climático y aumentan la probabilidad de incendios forestales."
-        },
-        {
-          "label": "histórico",
-          "text": "En los últimos diez años, Europa ha experimentado un incremento notable en la frecuencia y extensión de los incendios forestales, superando los registros de décadas anteriores."
-        },
-        {
-          "label": "coordinación UE",
-          "text": "La Unión Europea cuenta con mecanismos de protección civil y ayuda mutua que facilitan la movilización de recursos, como helicópteros y brigadas, entre los Estados miembros durante emergencias de incendios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "befc8f6d0f70",
-      "title": "Nació en Estados Unidos y aún lucha con el idioma, pero se convirtió en una referente de Argentina: “No quisiera usar otra camiseta”",
-      "summary": "Sophie Braun, nacida en Oregon, EE. UU., se consolidó como una jugadora clave de la selección argentina femenina de fútbol, superando la barrera del idioma y abrazando la cultura del país que representa.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/16/nacio-en-estados-unidos-y-aun-lucha-con-el-idioma-pero-se-convirtio-en-una-referente-de-argentina-no-quisiera-usar-otra-camiseta/",
-      "published_at": "2026-08-16T05:48:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono celebratorio y se centra en la trayectoria deportiva y la identidad cultural de la jugadora, sin usar lenguaje cargado ni presentar una agenda política.",
-      "focus_analysis": "El artículo privilegia la historia personal y cultural de la futbolista y su integración al equipo nacional, dejando de lado cualquier análisis económico, institucional o de política deportiva.",
-      "focus_tags": [
-        "identidad cultural",
-        "fútbol femenino",
-        "jugadora argentina"
-      ],
-      "context": [
-        {
-          "label": "Tendencia de jugadores nacidos en el extranjero",
-          "text": "En los últimos años la selección argentina ha incorporado a varias jugadoras nacidas fuera del país, como la italiana Valentina Gallo y la estadounidense Sophie Braun, reflejando una creciente apertura hacia la diáspora para reforzar la plantilla."
-        },
-        {
-          "label": "Desarrollo del fútbol femenino en EE. UU.",
-          "text": "Estados Unidos lidera el fútbol femenino a nivel mundial, con ligas juveniles y universitarias de alto nivel que forman a jugadoras como Braun antes de su paso a selecciones internacionales."
-        },
-        {
-          "label": "Enfoques mediáticos diferentes",
-          "text": "Otros medios, como El Economista, han centrado su cobertura en temas de política migratoria y derechos de visa en EE. UU., lo que contrasta con el enfoque cultural y deportivo del artículo de Infobae."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "5a1b31e57783",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy domingo 16 de agosto",
-      "summary": "El Servicio Meteorológico Nacional de la CONAGUA pronostica lluvias intensas y tormentas eléctricas en la Ciudad de México y en varios estados del país para el domingo 16 de agosto de 2026, y Infobae ofrece actualizaciones en vivo del clima.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-domingo-16-de-agosto/",
-      "published_at": "2026-08-16T06:03:13+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos meteorológicos y pronósticos sin lenguaje cargado ni opiniones, y no cita fuentes con sesgo político, manteniendo una presentación neutral.",
-      "focus_analysis": "El medio eligió un ángulo informativo‑meteorológico, detallando pronósticos y alertas, mientras dejó fuera el impacto humano, económico y las medidas de seguridad relacionadas.",
-      "focus_tags": [
-        "clima",
-        "pronóstico",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "Servicio Meteorológico Nacional",
-          "text": "El Servicio Meteorológico Nacional (SMN) de la CONAGUA es la autoridad oficial en México encargada de emitir pronósticos y alertas meteorológicas, y sus datos son ampliamente utilizados por medios y autoridades."
-        },
-        {
-          "label": "Eventos de la jornada",
-          "text": "El mismo domingo 16 de agosto, la Ciudad de México también fue escenario de la Rodada Maratón 2026, una actividad deportiva que recorría 35 km y 61 km de vías oficiales, según informó El Economista."
-        },
-        {
-          "label": "Impacto histórico de lluvias",
-          "text": "En años anteriores, lluvias intensas en la zona del Valle de México han generado inundaciones y trastornos en la movilidad, lo que muestra la relevancia de los pronósticos del SMN para la planificación urbana."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
       }
     }
   ]
