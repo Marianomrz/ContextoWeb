@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-16T20:42:06.833458+00:00",
+  "generated_at": "2026-08-16T20:51:47.144391+00:00",
   "articles": [
+    {
+      "id": "de5e7ff0792d",
+      "title": "Sedema clausura área de impresión de verificentro en Azcapotzalco; detecta irregularidades en certificados vehiculares",
+      "summary": "La Secretaría del Medio Ambiente de la Ciudad de México cerró temporalmente el área de impresión del Centro de Verificación de Emisiones Vehiculares AZ-20 en Azcapotzalco después de encontrar que la misma impresora se utilizaba para distintos tipos de certificados, lo que provocó que los resultados impresos no coincidieran con las pruebas realizadas.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/sedema-clausura-area-de-impresion-de-verificentro-en-azcapotzalco-detecta-irregularidades-en-certificados-vehiculares/",
+      "published_at": "2026-08-16T20:40:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y neutral, sin palabras cargadas ni fuentes que favorezcan una postura política; se limitan a describir los hechos y la normativa citada.",
+      "focus_analysis": "El medio se centró en el ángulo institucional y regulatorio, describiendo la acción de Sedema y la normativa infringida, mientras dejó de lado el impacto ambiental o la percepción pública del programa de verificación.",
+      "focus_tags": [
+        "medio ambiente",
+        "verificación vehicular",
+        "irregularidades administrativas"
+      ],
+      "context": [
+        {
+          "label": "Programa de Verificación Vehicular",
+          "text": "El Programa de Verificación Vehicular de la Ciudad de México exige que los automóviles cumplan con límites de emisión de contaminantes; los certificados emitidos son esenciales para validar el cumplimiento y evitar sanciones."
+        },
+        {
+          "label": "Previas sanciones a verificentros",
+          "text": "En años anteriores, la Sedema y la DGIVA han clausurado o multado a otros centros de verificación por irregularidades similares, como la falta de equipos dedicados a cada tipo de certificado."
+        },
+        {
+          "label": "Marco normativo de Sedema",
+          "text": "La normativa interna de la Sedema, especificada en el Manual de Operación, requiere que cada tipo de certificado tenga una impresora o bandeja exclusiva para garantizar la integridad de los resultados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres escrito por David Toscana explora el temor histórico a ser enterrado vivo en Occidente, citando a Edgar Allan Poe, Benito Jerónimo Feijoo y otras fuentes literarias.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos y referencias literarias sin usar lenguaje cargado ni favorecer una posición política.",
+      "focus_analysis": "El medio opta por un ángulo cultural e histórico, resaltando la tradición literaria y los relatos clásicos, dejando de lado la discusión médica o psicológica contemporánea.",
+      "focus_tags": [
+        "cultura literaria",
+        "historia del terror",
+        "temor a entierro"
+      ],
+      "context": [
+        {
+          "label": "Contexto histórico",
+          "text": "Durante los siglos XVIII y XIX, el miedo a ser enterrado vivo era frecuente en Europa, lo que llevó a la invención de dispositivos de detección de vida y a la publicación de tratados como los de Feijoo."
+        },
+        {
+          "label": "Influencia literaria",
+          "text": "Edgar Allan Poe popularizó el tema en la literatura gótica con su cuento 'El entierro prematuro', inspirando a posteriores autores a explorar el terror de la muerte atrapada."
+        },
+        {
+          "label": "Prácticas actuales",
+          "text": "Hoy en día, las normativas sanitarias y los protocolos de enterramiento incluyen observaciones de muerte y certificaciones para evitar entierros prematuros, reduciendo significativamente el riesgo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI‑Code‑1.1‑Flash, una nueva IA para programación integrada en GitHub Copilot que, según la compañía, genera código de mayor calidad y a un menor coste y velocidad que su predecesor y que modelos competidores como Claude Code.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 30,
+      "bias_reason": "El texto repite mayormente los comunicados de Microsoft, usando adjetivos positivos y sin incluir opiniones críticas o de terceros, lo que muestra una ligera inclinación favorable hacia la empresa.",
+      "focus_analysis": "El artículo se centra en el rendimiento técnico y la eficiencia del nuevo modelo, dejando de lado aspectos éticos, de privacidad de datos y del impacto competitivo en el mercado.",
+      "focus_tags": [
+        "rendimiento",
+        "eficiencia",
+        "programación IA"
+      ],
+      "context": [
+        {
+          "label": "Modelo anterior de Microsoft",
+          "text": "Antes de MAI‑Code‑1.1‑Flash, Microsoft había introducido en la Build 2026 un modelo de IA para código que ahora sustituye, con mejoras en velocidad y consumo de tokens."
+        },
+        {
+          "label": "Competidores en el sector",
+          "text": "Claude Code de Anthropic y otros asistentes como Codex de OpenAI son referencias habituales en la industria de IA para desarrollo de software, ofreciendo mayor capacidad de contexto pero a mayor coste de tokens."
+        },
+        {
+          "label": "Tendencia de eficiencia en IA de código",
+          "text": "Recientemente, los proveedores de IA de programación buscan reducir el número de tokens y el tiempo de respuesta para mejorar la productividad de los desarrolladores y disminuir los gastos operativos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "c1c33b56cc7e",
+      "title": "Con restaurante OYA, Clase Azul amplía apuesta por turismo de lujo",
+      "summary": "Clase Azul México inauguró el restaurante OYA dentro del complejo La Hacienda en Los Altos del Tequila, Jalisco, como parte de su estrategia para impulsar el turismo de lujo y ofrecer experiencias gastronómicas vinculadas a la producción de tequila. En el mismo acto presentó una edición limitada de Clase Azul Tequila Pink, cuyas ganancias se destinarán a la Fundación Cruz Rosa para apoyar a mujeres con cáncer de mama.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/estados/restaurante-oya-clase-azul-amplia-apuesta-turismo-lujo-20260816-828501.html",
+      "published_at": "2026-08-16T20:20:36+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto usa un tono promocional, resaltando los aspectos de lujo y la innovación de la marca sin presentar críticas ni perspectivas contrapuestas, lo que refleja una ligera inclinación pro‑empresa típica de medios económicos.",
+      "focus_analysis": "El medio se centra en la expansión económica y de marca de Clase Azul en el sector del turismo de lujo, dejando de lado aspectos sociales como el empleo en la región o impactos ambientales.",
+      "focus_tags": [
+        "turismo de lujo",
+        "gastronomía",
+        "tequila premium"
+      ],
+      "context": [
+        {
+          "label": "Región productora",
+          "text": "Los Altos del Tequila, en Jalisco, es la zona principal de producción del tequila mexicano y está protegida por la Denominación de Origen Tequila, lo que la convierte en un punto focal para iniciativas de turismo enológico."
+        },
+        {
+          "label": "Historia de la marca",
+          "text": "Clase Azul se ha destacado por sus tequilas de alta gama presentados en botellas de cerámica artesanal y ha lanzado previamente ediciones limitadas que combinan marketing con fines benéficos."
+        },
+        {
+          "label": "Crecimiento del turismo de lujo en México",
+          "text": "El sector del turismo de lujo en México ha experimentado un crecimiento sostenido, impulsado por proyectos que integran gastronomía, artesanía y experiencias culturales, y recibe apoyo de políticas estatales que promueven rutas turísticas especializadas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "75c04394dda3",
+      "title": "River Plate recibe a Argentinos Juniors en busca de su primer triunfo en el Torneo Clausura: formaciones confirmadas",
+      "summary": "River Plate, el club Millonario de fútbol argentino, recibe a Argentinos Juniors en el Estadio Monumental buscando romper su sequía de victorias en el Torneo Clausura, con el debut de Thiago Almada como pieza clave.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/16/river-plate-recibira-a-argentinos-juniors-en-busca-de-su-primer-triunfo-en-el-torneo-clausura-hora-tv-y-formaciones/",
+      "published_at": "2026-08-16T20:43:20+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir alineaciones, datos del partido y la racha reciente del equipo, sin usar lenguaje cargado ni presentar opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El artículo se centra en el aspecto deportivo del encuentro, resaltando las formaciones y la falta de triunfos de River, dejando de lado temas económicos, de afición o de gestión del club.",
+      "focus_tags": [
+        "River Plate",
+        "Argentinos Juniors",
+        "Torneo Clausura"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de River Plate",
+          "text": "River Plate lleva una racha de seis partidos sin ganar en torneos AFA, su último gol fue anotado por Rafael Santos Borré el 17 de julio contra Aldosivi en la Copa Argentina."
+        },
+        {
+          "label": "Situación de Argentinos Juniors",
+          "text": "Argentinos Juniors llega al encuentro con su alineación titular definida por el entrenador Nicolás Diez, buscando sumar puntos en la quinta fecha del Torneo Clausura."
+        },
+        {
+          "label": "Contexto del Torneo Clausura",
+          "text": "El Torneo Clausura forma parte de la Liga Profesional de Fútbol de Argentina, y los partidos se transmiten por ESPN Premium, reflejando la importancia mediática del fútbol local."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "73587c67524c",
+      "title": "Protouch: ganadores de este domingo 16 de agosto",
+      "summary": "La Lotería Nacional para la Asistencia Pública de México dio a conocer los números ganadores del sorteo Protouch del domingo 16 de agosto, indicando el plazo de 60 días naturales para cobrar los premios y el destino de los fondos no reclamados.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/protouch-ganadores-de-este-domingo-16-de-agosto/",
+      "published_at": "2026-08-16T20:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es meramente informativo, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política; se limita a describir el sorteo y sus reglas.",
+      "focus_analysis": "El medio se centró en los resultados del sorteo y los procedimientos para cobrar los premios, dejando de lado cualquier análisis sobre el impacto social o económico del juego de lotería.",
+      "focus_tags": [
+        "resultados de lotería",
+        "procedimientos de cobro",
+        "fondos públicos"
+      ],
+      "context": [
+        {
+          "label": "Institución",
+          "text": "La Lotería Nacional para la Asistencia Pública es un organismo descentralizado del gobierno mexicano que se autofinancia con los ingresos de sus sorteos y destina los recursos a programas de asistencia social."
+        },
+        {
+          "label": "Juego",
+          "text": "Protouch es una modalidad de la Lotería Nacional en la que los participantes pronostican resultados de partidos de fútbol americano, con premios en efectivo según la exactitud de sus predicciones."
+        },
+        {
+          "label": "Marco legal",
+          "text": "Los premios del sorteo están sujetos a retención de impuestos conforme al artículo 163 de la Ley del Impuesto sobre la Renta, y el dinero no reclamado después de 60 días se traslada a la Tesorería de la Federación para la Asistencia Pública."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "4ab482c25b13",
       "title": "Coyoacán rehabilitará deportivo José Gorostiza; renovarán canchas, área de box, sanitarios y espacios infantiles",
@@ -835,216 +1045,6 @@
         {
           "label": "Marco del torneo",
           "text": "El Torneo Clausura 2026 de la Liga Profesional Argentina constó de 28 equipos divididos en dos grupos, con los primeros de cada grupo clasificándose a la fase de playoffs para decidir al campeón."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "c26c82a498d0",
-      "title": "Día Mundial del Peatón: 40 víctimas al día y calles poco seguras",
-      "summary": "La Secretaría de Desarrollo Agrario, Territorial y Urbano (Sedatu) de México indica que cada día mueren o resultan lesionadas 40 personas en siniestros viales, principalmente infantes, mujeres y adultos mayores, debido a la falta de banquetas, cruces seguros y accesibilidad en las ciudades.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/dia-mundial-peaton-40-personas-sufren-siniestros-viales-dia-calles-siguen-seguras-20260816-828443.html",
-      "published_at": "2026-08-16T20:00:00+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto enfatiza la vulnerabilidad de grupos como mujeres y niños y la necesidad de políticas públicas de inclusión, usando un tono que favorece la intervención estatal y la igualdad de género, lo que le confiere un ligero sesgo progresista.",
-      "focus_analysis": "El artículo se centra en la seguridad vial y la falta de infraestructura peatonal, resaltando la desigualdad de género y la vulnerabilidad de ciertos grupos, mientras deja de lado el costo económico de los siniestros y la responsabilidad política concreta.",
-      "focus_tags": [
-        "seguridad vial",
-        "infraestructura peatonal",
-        "desigualdad de género"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En los últimos años, México ha registrado entre 14,000 y 16,000 muertes y lesiones anuales en accidentes de tráfico, con los peatones representando una proporción significativa de víctimas."
-        },
-        {
-          "label": "iniciativa gubernamental",
-          "text": "El Gobierno federal lanzó la Cruzada Nacional por la Seguridad Vial 2026‑2030, con el objetivo de reducir en un 50 % las lesiones y muertes en siniestros viales mediante mejoras de infraestructura y campañas de concientización."
-        },
-        {
-          "label": "contexto internacional",
-          "text": "Según la Organización Mundial de la Salud, los peatones constituyen alrededor del 22 % de las muertes por accidentes de tráfico a nivel mundial, lo que subraya la relevancia de políticas de movilidad segura."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "5fc8e5a563b0",
-      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
-      "summary": "Microsoft ha lanzado MAI-Code-1.1-Flash, una nueva IA para programación integrada en GitHub Copilot que promete generar código más rápido y a un menor costo que su predecesor y que modelos como Claude Code.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
-      "published_at": "2026-08-16T18:00:00+00:00",
-      "bias_score": 20,
-      "bias_reason": "El artículo utiliza un tono mayormente promocional, citando solo los datos y declaraciones de Microsoft sin incluir opiniones críticas ni comparaciones independientes, lo que favorece una visión positiva del producto.",
-      "focus_analysis": "El medio se centra en los aspectos técnicos y de eficiencia del modelo, resaltando métricas de velocidad y coste, mientras omite discusiones sobre riesgos, privacidad o implicaciones éticas de la IA de programación.",
-      "focus_tags": [
-        "eficiencia IA",
-        "programación",
-        "competencia IA"
-      ],
-      "context": [
-        {
-          "label": "Modelo anterior de Microsoft",
-          "text": "Antes de MAI-Code-1.1-Flash, Microsoft ofrecía una versión de IA para Copilot que consumía más tokens y tenía un coste operativo significativamente mayor."
-        },
-        {
-          "label": "Competidores de IA",
-          "text": "Modelos como Claude Code, GPT-5.6 Luna y Kimi K2.7 Code consumen entre un 67 % y un 94 % más de tokens por turno, lo que los hace menos eficientes según los benchmarks de Microsoft."
-        },
-        {
-          "label": "Tendencia del mercado",
-          "text": "En los últimos años, la industria de asistentes de codificación ha buscado reducir el consumo de recursos y el coste, favoreciendo modelos más pequeños y especializados para tareas iterativas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "c98446ef09af",
-      "title": "Muere un militar de la UME en un accidente durante la extinción del incendio de Las Peñas de Riglos (Huesca)",
-      "summary": "Un soldado de la Unidad Militar de Emergencias falleció mientras intervenía en el incendio de Las Peñas de Riglos, en la provincia de Huesca, y tres compañeros resultaron heridos tras el vuelco de un camión en la carretera de Bernués.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-16/muere-un-militar-de-la-ume-en-un-accidente-durante-la-extincion-del-incendio-de-las-penas-de-riglos-huesca.html",
-      "published_at": "2026-08-16T19:25:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos sin usar vocabulario cargado ni citar fuentes con tono parcial, manteniendo un estilo informativo y neutral.",
-      "focus_analysis": "El artículo se centra en la tragedia humana y la operatividad de la UME durante el incendio, dejando de lado el análisis de políticas de gestión forestal o las causas estructurales del accidente.",
-      "focus_tags": [
-        "accidente militar",
-        "incendio forestal",
-        "Unidad Militar de Emergencias"
-      ],
-      "context": [
-        {
-          "label": "Función de la UME",
-          "text": "La Unidad Militar de Emergencias es una fuerza especializada del Ejército Español encargada de responder a catástrofes naturales, emergencias sanitarias y situaciones de riesgo."
-        },
-        {
-          "label": "Aumento de incendios en España",
-          "text": "En los últimos años, España ha registrado un incremento notable de incendios forestales, atribuido en parte al cambio climático y a la sequía prolongada."
-        },
-        {
-          "label": "Incidentes previos de la UME",
-          "text": "En años anteriores, la UME ha sufrido otras pérdidas humanas y heridos durante operaciones de extinción, lo que ha generado debates sobre la seguridad y la equipación del personal."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "149a5fcd3770",
-      "title": "El momento en el que Jamal Musiala se desplomó tras anotar un gol para el Bayern Múnich: qué fue lo que le pasó",
-      "summary": "Jamal Musiala, el mediocampista alemán del Bayern Múnich, se desmayó al término de un gol en el amistoso contra el Leipzig debido a un golpe de calor, pero recibió atención médica y pudo abandonar el campo por sus propios medios. El partido terminó 3-1 a favor del Bayern, aunque el incidente generó preocupación entre aficionados y cuerpo técnico.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/16/el-momento-en-el-que-jamal-musiala-se-desplomo-tras-anotar-un-gol-para-el-bayern-munich-que-fue-lo-que-le-paso/",
-      "published_at": "2026-08-16T19:30:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos deportivos y médicos sin usar vocabulario cargado ni favorecer a ninguna posición política o institucional.",
-      "focus_analysis": "El medio se centró en el aspecto humano y de salud del jugador, resaltando el desmayo y la reacción del equipo, mientras dejó de lado un análisis táctico o de rendimiento del partido.",
-      "focus_tags": [
-        "salud del jugador",
-        "golpe de calor",
-        "amistoso Bayern-Leipzig"
-      ],
-      "context": [
-        {
-          "label": "Condiciones climáticas",
-          "text": "El Allianz Arena registró temperaturas cercanas a los 33 °C durante el encuentro, lo que según el medio alemán BILD, fue la causa del desmayo de Musiala."
-        },
-        {
-          "label": "Historial de lesiones de Musiala",
-          "text": "Antes del amistoso, Musiala había regresado de una fractura de peroné y una dislocación de ligamentos que lo mantuvieron fuera por más de seis meses."
-        },
-        {
-          "label": "Incidentes de calor en el fútbol",
-          "text": "Los partidos jugados en climas calurosos suelen presentar casos de deshidratación y golpes de calor, motivo por el cual los clubes europeos suelen implementar protocolos de hidratación y pausas en verano."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "98665fb3d65c",
-      "title": "Cristiano Ronaldo se acerca al retiro",
-      "summary": "El futbolista portugués Cristiano Ronaldo, con más de veinte años de carrera, está próximo a retirarse del fútbol profesional.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/cristiano-ronaldo-acerca-retiro-20260816-828497.html",
-      "published_at": "2026-08-16T19:33:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar de manera neutral sobre la posible jubilación de Ronaldo, sin usar adjetivos cargados ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centra en el aspecto deportivo de la trayectoria de Ronaldo y su posible retiro, dejando de lado la dimensión económica y empresarial que otros medios resaltan.",
-      "focus_tags": [
-        "carrera deportiva",
-        "retiro",
-        "fútbol"
-      ],
-      "context": [
-        {
-          "label": "carrera",
-          "text": "Cristiano Ronaldo debutó en el fútbol profesional en 2002 y ha jugado en clubes como el Manchester United, Real Madrid y Juventus, acumulando múltiples títulos y premios."
-        },
-        {
-          "label": "edad promedio de retiro",
-          "text": "En el fútbol de él, la edad media de retiro suele situarse entre los 35 y 38 años, aunque algunos jugadores han prolongado su carrera hasta los 40."
-        },
-        {
-          "label": "dimensión empresarial",
-          "text": "Más allá de su vida deportiva, Ronaldo ha diversificado sus ingresos invirtiendo en marcas, hoteles y startups, convirtiendo su fortuna en varios cientos de millones de dólares."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "56d86a4c5c9d",
-      "title": "Fenómeno de El Niño amenaza con ser el más potente del que se tiene registro: ¿Afectará México con tormentas e inundaciones?",
-      "summary": "El Servicio Meteorológico Nacional de EE. UU. (NOAA) advierte que el fenómeno de El Niño podría convertirse en el más intenso registrado desde 1950, con una probabilidad del 69 % de superar los 2,5 °C sobre la media. En México, este escenario podría generar tormentas y ciclones más fuertes en la costa del Pacífico, aunque también podría producir sequías en otras regiones.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/fenomeno-de-el-nino-amenaza-con-ser-el-mas-potente-del-que-se-tiene-registro-afectara-mexico-con-tormentas-e-inundaciones/",
-      "published_at": "2026-08-16T19:40:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se basa en datos científicos de la NOAA y mantiene un tono informativo sin usar vocabulario cargado ni favorecer a ninguna posición política.",
-      "focus_analysis": "El artículo se centra en la perspectiva meteorológica y los posibles riesgos climáticos para México, dejando de lado un análisis de los impactos económicos y sociales que podrían derivarse de tormentas o sequías.",
-      "focus_tags": [
-        "clima",
-        "El Niño",
-        "riesgos México"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "El Niño es parte del ciclo ENSO, un patrón climático que se manifiesta cada dos a siete años y afecta la temperatura del Pacífico ecuatorial, los vientos alisios y la distribución de lluvias a nivel global."
-        },
-        {
-          "label": "comparación histórica",
-          "text": "Eventos previos de El Niño, como el de 1997‑98, provocaron intensas lluvias y ciclones en la costa del Pacífico mexicano, mientras que otros episodios más débiles generaron sequías en el interior del país."
-        },
-        {
-          "label": "postura externa",
-          "text": "Otros medios, como Periódico AM de León, enfatizan la gravedad del fenómeno al señalar que podría ser el más fuerte registrado tanto en EE. UU. como en México, subrayando la posible magnitud del impacto."
         }
       ],
       "confidence": "alta",
