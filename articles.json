@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-16T08:59:28.845879+00:00",
+  "generated_at": "2026-08-16T09:01:48.144277+00:00",
   "articles": [
+    {
+      "id": "4ee7f8751b84",
+      "title": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que preguntar",
+      "summary": "El artículo de Hipertextual explica paso a paso cómo iniciar y usar Gemini Notebook, la herramienta de IA de Google que permite organizar y procesar información a partir de fuentes seleccionadas por el usuario, incluso cuando no se tienen fuentes propias.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/guias/empezar-con-gemini-notebook-notebooklm-buscar-fuentes/",
+      "published_at": "2026-08-16T08:00:00+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un tono mayormente positivo y promocional, resaltando la facilidad y utilidad de Gemini Notebook sin presentar críticas ni comparaciones negativas con otras plataformas.",
+      "focus_analysis": "El medio se centra en el aspecto práctico y técnico de la herramienta, ofreciendo una guía de uso; omite análisis de privacidad, seguridad de datos y la posición de Google frente a la competencia.",
+      "focus_tags": [
+        "tecnología IA",
+        "tutorial Gemini",
+        "herramientas Google"
+      ],
+      "context": [
+        {
+          "label": "Origen de Gemini Notebook",
+          "text": "Gemini Notebook, antes llamado NotebookLM, es una extensión del modelo de IA Gemini de Google lanzada en 2024 para ayudar a usuarios a organizar documentos, videos y otros contenidos mediante la integración de fuentes externas."
+        },
+        {
+          "label": "Comparación con otros asistentes",
+          "text": "A diferencia de ChatGPT o Claude, que generan respuestas basadas en datos extraídos de internet, Gemini Notebook limita sus respuestas a las fuentes que el propio usuario carga o importa."
+        },
+        {
+          "label": "Función Deep Research",
+          "text": "Google ofrece la función Deep Research dentro de Gemini, que permite consultar cientos de sitios web automáticamente y generar informes detallados, aunque con mayor tiempo de procesamiento."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres explora, a través de referencias literarias y ejemplos históricos, el temor que durante siglos ha acompañado la posibilidad de ser enterrado vivo en Occidente.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene en un análisis cultural y literario, usando un lenguaje neutro y sin citar fuentes políticas, lo que indica una cobertura sin sesgo ideológico.",
+      "focus_analysis": "El medio eligió abordar el tema desde la perspectiva literaria e histórica, resaltando obras de Poe y escritos de Feijoo, mientras deja de lado la dimensión médica y los avances contemporáneos que reducen el riesgo de entierros prematuros.",
+      "focus_tags": [
+        "temor a entierro vivo",
+        "referencias literarias",
+        "historia cultural"
+      ],
+      "context": [
+        {
+          "label": "antecedentes históricos",
+          "text": "Desde el siglo XVIII, autores como el jesuita español Benito Jerónimo Feijoo describieron casos reales y mitos sobre entierros prematuros, influyendo en la percepción pública del riesgo."
+        },
+        {
+          "label": "ejemplo literario",
+          "text": "Edgar Allan Poe dedicó su cuento 'El entierro prematuro' a dramatizar la angustia de despertar bajo tierra, consolidando el tema como un motivo recurrente en la literatura gótica."
+        },
+        {
+          "label": "situación actual",
+          "text": "En la actualidad, los protocolos funerarios incluyen dispositivos de detección y períodos de observación antes de la sepultura para evitar entierros vivos, una práctica que contrasta con las creencias del pasado."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "a307f8e76f34",
+      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) sostiene que la esterilización de perros y gatos, complementada con tenencia responsable e identificación, puede reducir a largo plazo la población de animales callejeros en México.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/arteseideas/esterilizacion-perros-gatos-frenar-poblacion-animales-calles-20260815-828384.html",
+      "published_at": "2026-08-16T04:00:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo, cita a expertos de la UNAM y presenta datos sin lenguaje cargado ni sesgo político evidente.",
+      "focus_analysis": "El artículo se centra en la perspectiva institucional y de salud pública al presentar la esterilización como solución al problema de animales sin hogar, dejando de lado el análisis del costo económico y la implementación municipal de los programas.",
+      "focus_tags": [
+        "salud animal",
+        "control poblacional",
+        "política pública"
+      ],
+      "context": [
+        {
+          "label": "datos",
+          "text": "Según la Encuesta Nacional de Bienestar Autorreportado (ENBIARE) 2021 del INEGI, el 69,8 % de los hogares mexicanos poseen al menos un animal de compañía, lo que equivale a aproximadamente 80 millones de perros, gatos y otras especies."
+        },
+        {
+          "label": "ejemplo internacional",
+          "text": "Programas de esterilización masiva en ciudades como Nueva York y Barcelona han demostrado una disminución significativa de la población de animales callejeros en menos de una década."
+        },
+        {
+          "label": "política local",
+          "text": "En México, organizaciones como PROANIMAL y varios municipios han lanzado iniciativas de captura‑esterilización‑liberación, aunque su alcance y financiamiento varían ampliamente entre regiones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "befc8f6d0f70",
+      "title": "Nació en Estados Unidos y aún lucha con el idioma, pero se convirtió en una referente de Argentina: “No quisiera usar otra camiseta”",
+      "summary": "Sophie Braun, defensora nacida en Beaverton, Oregon, con madre argentina, se ha consolidado como una pieza clave de la selección argentina femenina de fútbol, pese a haber crecido en un entorno angloparlante y a superar la barrera del idioma.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/16/nacio-en-estados-unidos-y-aun-lucha-con-el-idioma-pero-se-convirtio-en-una-referente-de-argentina-no-quisiera-usar-otra-camiseta/",
+      "published_at": "2026-08-16T05:48:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono celebratorio y descriptivo sin emplear vocabulario cargado ni presentar puntos de vista políticos; se centra en la trayectoria deportiva y personal de la jugadora.",
+      "focus_analysis": "El medio eligió un ángulo humano y cultural, resaltando la historia personal y la identidad binacional de Braun, mientras dejó de lado un análisis más profundo del rendimiento táctico del equipo o del contexto competitivo del fútbol femenino.",
+      "focus_tags": [
+        "cultura deportiva",
+        "identidad binacional",
+        "fútbol femenino"
+      ],
+      "context": [
+        {
+          "label": "tendencia",
+          "text": "En los últimos años, varios futbolistas nacidos fuera de sus países de origen han optado por representar a la selección nacional de sus raíces familiares, como los casos de jugadores de la diaspora argentina que eligen la camiseta albiceleste."
+        },
+        {
+          "label": "crecimiento",
+          "text": "El fútbol femenino en Argentina ha ganado mayor visibilidad y apoyo institucional, con la AFA invirtiendo en torneos juveniles y en la profesionalización de la liga local, lo que ha permitido que jugadoras como Braun se integren al seleccionado."
+        },
+        {
+          "label": "carrera",
+          "text": "Antes de consolidarse en la selección adulta, Braun jugó en la Universidad de Gonzaga en Estados Unidos y posteriormente fichó por el club mexicano León de la Liga MX Femenil, donde continuó su desarrollo como defensora polifuncional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "c00b23d63ab9",
+      "title": "Aseguran miles de pastillas de hidrocodona en el AICM: decomiso supera los 6.8 mdp",
+      "summary": "La Secretaría de Marina y la Agencia Nacional de Aduanas de México decomisaron 6,858 tabletas de hidrocodona en la Terminal 1 del Aeropuerto Internacional de la Ciudad de México, con un valor estimado de 6.8 millones de pesos en el mercado ilícito.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/aseguran-miles-de-pastillas-de-hidrocodona-en-el-aicm-decomiso-supera-los-68-mdp/",
+      "published_at": "2026-08-16T08:01:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutro y se basa en declaraciones oficiales sin palabras cargadas ni selección de fuentes partidistas.",
+      "focus_analysis": "El medio destaca el ángulo de seguridad y control aduanero, enfocándose en la operación de decomiso y su impacto económico, mientras omite el aspecto humano de la adicción y la respuesta sanitaria.",
+      "focus_tags": [
+        "seguridad",
+        "narcotráfico",
+        "aeropuerto"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "En México, la Ley General de Salud regula la comercialización de opioides como la hidrocodona, estableciendo sanciones penales para su tráfico y distribución ilícita."
+        },
+        {
+          "label": "Incidentes previos",
+          "text": "El Aeropuerto Internacional de la Ciudad de México ha sido escenario de varios decomisos de mercancías ilegales, incluyendo una captura de 1.9 toneladas de cocaína por parte de la Marina en 2025."
+        },
+        {
+          "label": "Impacto de la crisis de opioides",
+          "text": "El consumo no regulado de opioides ha aumentado en México, generando preocupación por la dependencia y la sobredosis, lo que ha impulsado a las autoridades a reforzar la vigilancia en puntos de entrada como aeropuertos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "233c72bf6f06",
+      "title": "¿Existió Homero? El misterio que rodea al autor de \"La Odisea\"",
+      "summary": "El artículo de BBC News Mundo explica que, según expertos, la figura del poeta griego Homero, tradicionalmente visto como autor ciego de la Ilíada y la Odisea, probablemente no fue una persona histórica única, sino una tradición colectiva de poetas y editores que transmitieron y fijaron esas épicas.",
+      "category": "literatura",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/c8en8768wzro?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-16T08:56:49+00:00",
+      "bias_score": 3,
+      "bias_reason": "El texto usa un lenguaje neutro y cita a varios académicos sin favorecer una postura ideológica, manteniendo un enfoque informativo y equilibrado.",
+      "focus_analysis": "El medio se centra en el ángulo académico‑histórico sobre la autoría de Homero, dejando de lado la dimensión mitológica o nacionalista que a veces se asocia al personaje.",
+      "focus_tags": [
+        "autoría literaria",
+        "debate académico",
+        "cultura clásica"
+      ],
+      "context": [
+        {
+          "label": "tradición clásica",
+          "text": "Durante siglos se ha considerado a Homero como un poeta ciego del siglo IX a.C. que compuso la Ilíada y la Odisea, una visión que sustentó la educación y la cultura occidental."
+        },
+        {
+          "label": "crítica filológica",
+          "text": "En el siglo XVIII, el filólogo Friedrich August Wolf argumentó que la extensión y complejidad de los poemas hacían imposible su composición por un único autor, introduciendo la hipótesis de una transmisión oral colectiva."
+        },
+        {
+          "label": "perspectiva contemporánea",
+          "text": "Investigadores actuales, como André Leonardo Chevitarese y Daniel Brasil Justi, sostienen que 'Homero' representa a varios poetas y editores que recopilaron tradiciones orales, reforzando la idea de una autoría múltiple."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "3f9815cf38c5",
       "title": "Propósito, decencia y calidad",
@@ -835,213 +1045,6 @@
         {
           "label": "cobertura mediática",
           "text": "Otros medios como El Economista y El Sol de México han centrado su atención en temas políticos y de visa entre EE. UU. y México, lo que contrasta con el enfoque deportivo y humano de Infobae Deportes sobre Braun."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "4ee7f8751b84",
-      "title": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que preguntar",
-      "summary": "Google presenta Gemini Notebook, la nueva versión de NotebookLM, una herramienta que permite organizar y procesar documentos, videos y otros archivos mediante IA, incluso cuando el usuario no dispone de fuentes propias, ofreciendo búsquedas rápidas y funciones de investigación profunda para importar contenido relevante.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/guias/empezar-con-gemini-notebook-notebooklm-buscar-fuentes/",
-      "published_at": "2026-08-16T08:00:00+00:00",
-      "bias_score": 12,
-      "bias_reason": "El artículo utiliza un tono promocional y destaca los beneficios de la herramienta sin mencionar limitaciones o críticas, lo que indica un sesgo ligeramente favorable hacia Google.",
-      "focus_analysis": "El medio se centra en la utilidad práctica y las funcionalidades de Gemini Notebook, dejando de lado aspectos como la privacidad de los datos o la competencia de otras plataformas de IA.",
-      "focus_tags": [
-        "IA Google",
-        "tutorial",
-        "productividad"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del producto",
-          "text": "Gemini Notebook es la evolución de NotebookLM, integrado con el modelo de IA Gemini de Google, y está diseñado para que los usuarios importen sus propios documentos y reciban respuestas basadas exclusivamente en esas fuentes."
-        },
-        {
-          "label": "Comparación con otros asistentes",
-          "text": "A diferencia de ChatGPT o Claude, que pueden buscar información en internet, Gemini Notebook restringe sus respuestas a los archivos que el usuario carga, ofreciendo mayor control sobre el contenido consultado."
-        },
-        {
-          "label": "Tendencia del mercado",
-          "text": "La aparición de herramientas como Gemini Notebook se enmarca en una creciente demanda de soluciones de IA para la gestión de conocimientos, compitiendo con productos como Notion AI y Microsoft Copilot que también facilitan la organización y análisis de información."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "3f9815cf38c5",
-      "title": "Propósito, decencia y calidad",
-      "summary": "La revista The New Yorker, centenaria en la cultura norteamericana, celebra sus 100 años resaltando la importancia de la conversación y la calidad editorial en la era de la inteligencia artificial. El texto de El Universal enfatiza el papel de los editores como guardianes de la palabra frente a la automatización.",
-      "category": "literatura",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/confabulario/proposito-decencia-y-calidad/",
-      "published_at": "2026-08-16T07:09:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se centra en la valoración cultural y editorial de la revista, sin referencias políticas ni fuentes partidistas, usando un tono neutral y descriptivo.",
-      "focus_analysis": "El medio elige un ángulo cultural‑literario, destacando la tradición editorial y la crítica a la IA, mientras omite dimensiones económicas o políticas del tema.",
-      "focus_tags": [
-        "cultura literaria",
-        "conversación editorial",
-        "crítica a IA"
-      ],
-      "context": [
-        {
-          "label": "Historia de The New Yorker",
-          "text": "Fundada en 1925 por Harold Ross, The New Yorker se consolidó como un referente de periodismo literario y de larga en la Estados Unidos, publicando ensayos, ficción y reportajes de gran extensión."
-        },
-        {
-          "label": "Impacto de la IA en la edición",
-          "text": "Recientemente, la proliferación de herramientas de inteligencia artificial ha generado preocupación entre editores por la calidad y originalidad de los textos generados automáticamente."
-        },
-        {
-          "label": "Cobertura cultural en México",
-          "text": "Los medios mexicanos suelen dedicar espacio a eventos culturales internacionales, como aniversarios de revistas emblemáticas, resaltando su influencia en la literatura y la opinión pública."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "9f328fe0fdf9",
-      "title": "Temblor hoy en México: casi mil 700 réplicas del sismo registrado en Chiapas",
-      "summary": "El Servicio Sismológico Nacional de México registró cerca de 1,700 réplicas del sismo de magnitud 7.4 que sacudió Ciudad Hidalgo, Chiapas, el 17 de julio, y mantuvo un monitoreo en tiempo real del movimiento telúrico en todo el país.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/temblor-hoy-en-mexico-noticias-actividad-sismica-16-de-agosto-de-2026/",
-      "published_at": "2026-08-16T07:13:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos y hechos sin lenguaje cargado ni opiniones, y no cita fuentes con sesgo político.",
-      "focus_analysis": "El medio se centró en la información técnica y el seguimiento del evento sísmico, dejando de lado el impacto humano o las respuestas de autoridades locales.",
-      "focus_tags": [
-        "sismología",
-        "monitoreo",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "Geología",
-          "text": "México está ubicado sobre la interacción de cinco placas tectónicas —Caribe, Norteamérica, Pacífico, Rivera y Cocos— lo que lo coloca en una zona de alta sismicidad."
-        },
-        {
-          "label": "Evento previo",
-          "text": "El 17 de julio de 2026 un terremoto de magnitud 7.4 sacudió la región de Ciudad Hidalgo, Chiapas, siendo el más fuerte registrado en el país ese año."
-        },
-        {
-          "label": "Institución",
-          "text": "El Servicio Sismológico Nacional (SSN) es la agencia oficial mexicana encargada de monitorear y reportar la actividad sísmica en tiempo real."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "En su columna para Letras Libres, David Toscana explora el temor histórico a ser enterrado vivo en Occidente, citando ejemplos literarios como el cuento de Edgar Allan Poe y referencias históricas de autores como Benito Jerónimo Feijoo.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y referencias literarias sin usar un cargados ni presentar opiniones políticas, manteniendo un tono descriptivo y académico.",
-      "focus_analysis": "El artículo se centra en el análisis literario e histórico del miedo a la sepultura prematura, dejando de lado cualquier enfoque médico contemporáneo o debate sociopolítico sobre prácticas funerarias.",
-      "focus_tags": [
-        "literatura",
-        "historia",
-        "miedo"
-      ],
-      "context": [
-        {
-          "label": "Miedo histórico a la sepultura prematura",
-          "text": "Durante los siglos XVIII y XIX, la preocupación por ser enterrado vivo llevó a la creación de dispositivos de detección de vida y a la implementación de períodos de observación antes del entierro en varios países europeos."
-        },
-        {
-          "label": "Edgar Allan Poe y la literatura del terror",
-          "text": "El relato \"El entierro prematuro\" de Edgar Allan Poe, publicado en 1844, popularizó el tema del miedo a la sepultura y se convirtió en una referencia clásica en la literatura gótica."
-        },
-        {
-          "label": "Benito Jerónimo Feijoo y la crítica ilustrada",
-          "text": "El monje y escritor español Benito Jerónimo Feijoo dedicó cartas del siglo XVIII a denunciar la práctica de enterrar a personas vivas, proponiendo criterios más rigurosos para confirmar la muerte antes del entierro."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "a5c24f416621",
-      "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
-      "summary": "Hipertextual publica una guía con 38 comandos de Linux que permiten obtener información detallada del hardware y del sistema operativo de un ordenador, facilitando la detección de problemas y la optimización del rendimiento.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/guias/comandos-linux-hardware-componentes-sistema-ordenador/",
-      "published_at": "2026-08-16T07:03:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es técnico y descriptivo, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El medio elige un ángulo práctico y tutorial, centrado en cómo el usuario puede usar la línea de comandos para diagnosticar su hardware; omite perspectivas sobre la evolución del soporte de hardware en Linux o implicaciones de seguridad.",
-      "focus_tags": [
-        "Linux commands",
-        "hardware diagnostics",
-        "tutorial"
-      ],
-      "context": [
-        {
-          "label": "Importancia del monitoreo de hardware",
-          "text": "Conocer el estado de CPU, RAM, discos y GPU ayuda a prevenir fallos y a planificar actualizaciones, especialmente en entornos de gaming o de trabajo intensivo."
-        },
-        {
-          "label": "Herramientas de Linux versus sistemas propietarios",
-          "text": "A diferencia de Windows y macOS, Linux ofrece herramientas nativas como lshw, inxi y sensors que pueden ejecutarse sin coste y con gran nivel de detalle."
-        },
-        {
-          "label": "Guías similares en otros medios",
-          "text": "Sitios como XDA Developers y How‑To‑Geek también publican listados de comandos para inspeccionar hardware, resaltando la popularidad de este tipo de contenido entre usuarios de Linux."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "ee4337d8b36a",
-      "title": "Un trágico accidente de autobús en Hungría deja, al menos, 12 muertos",
-      "summary": "Un autobús polaco que transportaba peregrinos de la región de Podkarpackie se volcó en la autopista M3 de Hungría, provocando al menos 12 muertos y dejando a 47 pasajeros, varios de los cuales gravemente heridos. Las autoridades húngaras y polacas informaron sobre la operación de rescate y expresaron condolencias a las familias.",
-      "category": "sociedad",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/2026/08/16/un-tragico-accidente-de-autobus-en-hungria-deja-al-menos-12-muertos",
-      "published_at": "2026-08-16T07:06:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono informativo y neutral, citando únicamente a fuentes oficiales sin usar lenguaje cargado ni presentar opiniones subjetivas.",
-      "focus_analysis": "El medio se centró en el ángulo institucional, describiendo la intervención de los servicios de emergencia y los comunicados de los gobiernos húngaro y polaco, mientras que quedó fuera el relato humano de las víctimas y sus familias.",
-      "focus_tags": [
-        "accidente de tráfico",
-        "respuesta institucional",
-        "crisis humanitaria"
-      ],
-      "context": [
-        {
-          "label": "Infraestructura",
-          "text": "La autopista M3 es una de las principales vías de Hungría, conecta la capital Budapest con la ciudad del noreste Nyíregyháza y es frecuentada por tráfico internacional."
-        },
-        {
-          "label": "Antecedentes de accidentes",
-          "text": "En los últimos años se han registrado varios derrumbes de autobuses en Europa Central, como el choque de 2022 en Polonia que dejó decenas de heridos, lo que ha impulsado revisiones de seguridad vial."
-        },
-        {
-          "label": "Cooperación bilateral",
-          "text": "Hungría y Polonia mantienen protocolos de cooperación en emergencias transfronterizas, lo que facilitó la coordinación entre sus autoridades y equipos de rescate tras el accidente."
         }
       ],
       "confidence": "alta",
