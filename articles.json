@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-16T11:30:53.828881+00:00",
+  "generated_at": "2026-08-16T11:41:31.910687+00:00",
   "articles": [
+    {
+      "id": "c2e814ca86bb",
+      "title": "Indonesia, aumentan las víctimas mortales del terremoto, ya hay miles de desplazados",
+      "summary": "Un terremoto de magnitud 7,7 sacudió la isla de Flores en Indonesia, dejando al menos 51 fallecidos y desplazando a unas 5.000 personas, mientras los equipos de rescate continúan buscando supervivientes entre los escombros.",
+      "category": "internacional",
+      "source_name": "Euronews Español",
+      "source_url": "http://es.euronews.com/2026/08/16/indonesia-aumentan-las-victimas-mortales-del-terremoto-ya-hay-miles-de-desplazados",
+      "published_at": "2026-08-16T10:51:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, cita fuentes oficiales como la BNPB y no incluye opiniones ni carga política.",
+      "focus_analysis": "El medio se concentra en el impacto humanitario y la operación de rescate, omitiendo análisis económicos o políticos del desastre.",
+      "focus_tags": [
+        "humanitario",
+        "desastre natural",
+        "Indonesia"
+      ],
+      "context": [
+        {
+          "label": "Vulnerabilidad síica",
+          "text": "Indonesia se encuentra en el Anillo de Fuego del Pacífico, una zona con alta actividad sísmica donde los terremotos de gran magnitud son frecuentes."
+        },
+        {
+          "label": "Historial de sismos",
+          "text": "El país sufrió su terremoto más mortífero en 2022, lo que subraya la recurrente exposición a eventos sísmicos devastadores."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Mientras Euronews enfatiza la respuesta de rescate, Expansión destaca el número de muertos, DW Español menciona inundaciones y evacuaciones, y France24 resalta la alerta de tsunami activada tras el sismo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres explora, a través de referencias literarias e históricas, el temor al entierro prematuro que ha perseguido a Occidente durante siglos, citando ejemplos desde Poe hasta el erudito español Feijoo.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono académico y descriptivo, sin emplear lenguaje cargado ni presentar una agenda política; se centra en la literatura y la historia del tema.",
+      "focus_analysis": "El medio eligió abordar el tema desde una perspectiva literaria e histórica, resaltando obras y testimonios antiguos; quedó fuera el análisis científico o médico del fenómeno.",
+      "focus_tags": [
+        "literatura",
+        "historia",
+        "miedo"
+      ],
+      "context": [
+        {
+          "label": "Miedo histórico al entierro vivo",
+          "text": "Durante los siglos XVIII y XIX en Europa se difundió el temor a ser enterrado con vida, lo que motivó la creación de dispositivos de seguridad en los ataúdes y la publicación de tratados como los del español Benito Jerónimo Feijoo."
+        },
+        {
+          "label": "Representaciones literarias",
+          "text": "Autores como Edgar Allan Poe popularizaron el terror del entierro prematuro en obras como \"El entierro prematuro\", mientras que escritores rusos y japoneses también han tratado el tema en sus relatos."
+        },
+        {
+          "label": "Perspectiva religiosa y simbólica",
+          "text": "En la tradición cristiana, la figura de Lázaro y los escritos de San Juan de la Cruz incluyen referencias al regreso de los muertos y al sufrimiento de los que podrían quedar atrapados bajo tierra."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "a307f8e76f34",
+      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) sostiene que la esterilización de perros y gatos, acompañada de tenencia responsable y adopción, puede disminuir a largo plazo la gran cantidad de animales sin hogar que circulan por las calles de México.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/arteseideas/esterilizacion-perros-gatos-frenar-poblacion-animales-calles-20260815-828384.html",
+      "published_at": "2026-08-16T04:00:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos y opiniones de expertos de la UNAM sin usar lenguaje cargado ni favorecer a ningún sector político.",
+      "focus_analysis": "El medio se centra en el enfoque científico y de salud pública de la esterilización, dejando de lado la discusión sobre políticas gubernamentales o el costo económico del programa.",
+      "focus_tags": [
+        "bienestar animal",
+        "esterilización",
+        "salud pública"
+      ],
+      "context": [
+        {
+          "label": "Datos nacionales",
+          "text": "Según la ENBIARE 2021 del INEGI, el 69,8 % de los hogares mexicanos tiene al menos una mascota, lo que representa alrededor de 80 millones de animales de compañía en el país."
+        },
+        {
+          "label": "Experiencias internacionales",
+          "text": "Programas de esterilización masiva en países como Chile y España han demostrado reducciones significativas en la población de animales callejeros cuando se combinan con campañas de adopción y control de abandono."
+        },
+        {
+          "label": "Política pública en México",
+          "text": "El gobierno federal ha lanzado iniciativas como el Programa Nacional de Salud Animal, pero su implementación varía entre estados y depende de la colaboración con organizaciones no gubernamentales y clínicas veterinarias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "4b22130c8ea4",
+      "title": "Pasan la droga... en sus narices",
+      "summary": "La Oficina de Aduanas y Protección Fronteriza de EE. UU. incautó 3.2 toneladas de metanfetaminas valoradas en más de 63 millones de dólares en el Puente Comercio Mundial de Laredo, Texas, revelando que, pese a la militarización de la aduana mexicana, la droga solo se detuvo al cruzar la frontera.",
+      "category": "politica",
+      "source_name": "Reforma",
+      "source_url": "https://www.reforma.com/pasan-la-droga-en-sus-narices/ar3258671",
+      "published_at": "2026-08-16T11:00:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta datos de la CBP y menciona la militarización mexicana sin usar un lenguaje cargado ni favorecer una postura ideológica, manteniendo un tono informativo neutral.",
+      "focus_analysis": "El artículo se centra en la seguridad fronteriza y el tráfico de drogas, resaltando la efectividad de la inspección estadounidense y la supuesta insuficiencia de la militarización mexicana; omite el impacto económico del contrabando y el debate político sobre la política migratoria.",
+      "focus_tags": [
+        "seguridad fronteriza",
+        "tráfico de drogas",
+        "militarización aduanas"
+      ],
+      "context": [
+        {
+          "label": "Contexto de la zona fronteriza",
+          "text": "El Puente Comercio Mundial en Laredo, Texas, es uno de los cruces más transitados entre México y Estados Unidos, manejando miles de camiones al día y siendo un punto clave para el comercio bilateral."
+        },
+        {
+          "label": "Política de seguridad aduanera en México",
+          "text": "Desde 2021, el gobierno mexicano ha incrementado la presencia militar en los puertos de entrada, con el objetivo de reforzar la inspección de mercancías y frenar el contrabando de drogas."
+        },
+        {
+          "label": "Operaciones de la CBP",
+          "text": "La Oficina de Aduanas y Protección Fronteriza de EE. UU. cuenta con tecnología avanzada, como rayos gamma y sistemas de detección automatizada, lo que le permite interceptar cargamentos ilícitos antes de que ingresen al territorio estadounidense."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "d8a864194cea",
+      "title": "¿En dónde se respira el peor oxígeno en CDMX y zona conurbada? Aquí el reporte",
+      "summary": "La Dirección de Monitoreo Atmosférico de la Ciudad de México informó que la calidad del aire en la capital y la zona conurbada del Estado de México es \"Buena\", con riesgo bajo para la salud, y emitió recomendaciones para actividades al aire libre, especialmente para grupos sensibles como niños y ancianos.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/en-donde-se-respira-el-peor-oxigeno-en-cdmx-y-zona-conurbada-aqui-el-reporte/",
+      "published_at": "2026-08-16T11:30:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta datos oficiales y recomendaciones sin usar lenguaje cargado ni favorecer a alguna posición política, manteniéndose neutral y descriptivo.",
+      "focus_analysis": "El artículo se centra en el aspecto sanitario y ambiental del reporte de calidad del aire, destacando los niveles de riesgo y las recomendaciones, mientras omite el debate político sobre las políticas de control de contaminación.",
+      "focus_tags": [
+        "calidad del aire",
+        "salud pública",
+        "recomendaciones"
+      ],
+      "context": [
+        {
+          "label": "Historial de contaminación en CDMX",
+          "text": "La Ciudad de México ha enfrentado episodios de alta contaminación atmosférica, especialmente durante los meses de invierno, lo que ha llevado a la emisión de alertas de salud y a la implementación de medidas temporales para reducir los niveles de partículas."
+        },
+        {
+          "label": "Programa \"Hoy No Circula\"",
+          "text": "El esquema de restricción vehicular conocido como \"Hoy No Circula\" se activa en la capital cuando los índices de calidad del aire superan ciertos umbrales, limitando la circulación de automóviles para disminuir la emisión de contaminantes."
+        },
+        {
+          "label": "Grupos vulnerables a la contaminación",
+          "text": "Según la Organización Mundial de la Salud, niños, adultos mayores y personas con enfermedades respiratorias o cardiovasculares son los más expuestos a los efectos adversos de la mala calidad del aire."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "461a5bea1e64",
+      "title": "Nos vendieron las redes 5G como la forma más rápida de conectarnos con el móvil. Ahora resulta que también pueden detectar drones",
+      "summary": "Lockheed Martin, junto a Verizon y Nvidia, ha probado que la red 5G comercial en España puede emplearse como radar para detectar drones mediante IA que analiza perturbaciones en las señales de radiofrecuencia. El enfoque muestra cómo la infraestructura existente podría usarse para vigilancia aérea, aunque requiere capas de procesamiento adicionales y plantea dudas sobre la privacidad.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/moviles/nos-vendieron-redes-5g-como-forma-rapida-conectarnos-movil-ahora-resulta-que-tambien-pueden-detectar-drones",
+      "published_at": "2026-08-16T11:30:47+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo utiliza un tono informativo y técnico, sin lenguaje cargado ni fuentes con sesgo político; se centra en la innovación y sus implicaciones, sin favorecer a ninguna posición ideológica.",
+      "focus_analysis": "El medio se concentra en el aspecto tecnológico y de innovación de la detección de drones con 5G, destacando la capacidad técnica y los riesgos de privacidad, mientras omite análisis económicos o regulatorios más amplios.",
+      "focus_tags": [
+        "5G",
+        "detección de drones",
+        "IA y vigilancia"
+      ],
+      "context": [
+        {
+          "label": "Despliegue de 5G en España",
+          "text": "A finales de 2025, más del 70 % del territorio español contaba con cobertura 5G, impulsado por operadores como Orange, Telefónica y Vodafone, lo que ha creado una infraestructura densa y omnipresente."
+        },
+        {
+          "label": "Uso previo de Wi‑Fi para detección",
+          "text": "Investigaciones anteriores han demostrado que las redes Wi‑Fi pueden identificar interferencias de objetos que cruzan su espectro, sentando precedentes para que otras tecnologías inalámbricas, como el 5G, sirvan de sensores."
+        },
+        {
+          "label": "Preocupaciones de privacidad en la UE",
+          "text": "La Comisión Europea ha advertido que la reutilización de infraestructuras de comunicación para vigilancia podría vulnerar la normativa de protección de datos, exigiendo evaluaciones de impacto antes de su despliegue masivo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "f5f074777683",
       "title": "Nada tan angustioso en la tierra",
@@ -836,217 +1046,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.2
-      }
-    },
-    {
-      "id": "b84c31fd490e",
-      "title": "Luces titilantes en el ático: la voz de Silvina Ocampo",
-      "summary": "Una lámpara de aceite parpadea entre los tablones húmedos del ático, proyectando sombras que susurran historias que nunca se atrevieron a decirse en voz alta. En esa luz temblorosa emerge la escritura de Silvina Ocampo, donde lo cotidiano se vuelve extraño y lo cotidiano se vuelve un espejo de lo imposible. Cada cuento es una hoja de papel arrugada que, al desplegarse, revela un universo de silencios y susurros.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-16T10:51:07.140622+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy elegí a Ocampo porque su obra, aunque eclipsada por la fama de su hermano, ofrece una perspectiva femenina única sobre lo fantástico y lo cotidiano. El 16 de agosto coincide con la publicación de su colección \"Los que aman, los que temen\", una fecha que permite redescubrir su legado en un momento en que la literatura de mujeres vuelve a ocupar el centro del escenario. Además, su estilo, cargado de ironía y melancolía, resuena con la búsqueda actual de narrativas que desdibujen la frontera entre lo real y lo onírico.",
-      "focus_tags": [
-        "cuentos",
-        "Argentina",
-        "Siglo XX"
-      ],
-      "context": [
-        {
-          "label": "Biografía",
-          "text": "Nacida en Buenos Aires en 1903, Silvina Ocampo creció entre libros y música, rodeada de una familia que cultivaba la literatura. Tras estudiar en la Universidad Nacional de La Plata, se trasladó a París, donde se relacionó con la vanguardia europea y retornó a Argentina, donde decidió su carrera como traductora y escritora. Su vida, marcada por la discreción, se refleja en la atmósfera íntima y a menudo claustrofóbica de sus textos."
-        },
-        {
-          "label": "Obras clave",
-          "text": "Entre sus libros más representativos destacan la colección de cuentos \"Los que aman, los que temen\" (1933), donde la ironía se entrelaza con lo sobrenatural, y el libro de poesía \"La furia del tiempo\" (1945), que revela una voz melancólica y a la vez desafiante. Otro relato imprescindible es \"La casa de los siete balcones\", una pieza que combina lo doméstico con una inquietante sensación de encierro."
-        },
-        {
-          "label": "Lecturas afines",
-          "text": "Para quien se adentre en Ocampo, resulta útil acompañar su obra con la de su hermano, Jorge Luis Borges, cuya capacidad para lo metafísico comparte una afinidad temática. Asimismo, la escritura de Clarice Lispector, especialmente \"La hora de la estrella\", ofrece una perspectiva femenina latinoamericana que dialoga con la sensibilidad de Ocampo. Finalmente, los cuentos de Julio Cortázar, como \"Bestiario\", complementan el panorama de lo fantástico en la literatura argentina del siglo XX."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "3e896f523a28",
-      "title": "Director del Cancun Country Open desea tener un evento insignia en el sureste de México",
-      "summary": "El director Daniel Langre del Cancún Country Open anunció su intención de posicionar el torneo como el evento de referencia en el sureste de México, destacando la mejora de la calidad de los participantes y la atracción de aficionados y tenistas de alto nivel.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/director-del-cancun-country-open-desea-tener-un-evento-insignia-en-el-sureste-de-mexico/",
-      "published_at": "2026-08-16T10:31:49+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono mayormente promocional y elogioso, sin presentar críticas ni perspectivas contrapuestas, lo que indica un sesgo ligeramente favorable hacia el torneo.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y promocional del torneo, resaltando la calidad de los jugadores y la hospitalidad, mientras omite la situación financiera del evento y su impacto económico más amplio.",
-      "focus_tags": [
-        "tennis",
-        "evento deportivo",
-        "Cancún"
-      ],
-      "context": [
-        {
-          "label": "Circuito ATP Challenger",
-          "text": "El Cancún Country Open forma parte del circuito ATP Challenger, que sirve como plataforma para que jugadores emergentes mejoren su ranking y compitan en torneos de nivel intermedio."
-        },
-        {
-          "label": "Edición anterior",
-          "text": "En la edición pasada del torneo, la participación de jugadores de mayor ranking generó mayor cobertura mediática y reforzó la reputación del evento dentro del circuito latinoamericano."
-        },
-        {
-          "label": "Turismo deportivo en la región",
-          "text": "Los eventos deportivos como el Cancún Country Open suelen impulsar la actividad turística en el sureste de México, beneficiando a hoteles, restaurantes y comercios locales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "a307f8e76f34",
-      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
-      "summary": "Expertos de la UNAM afirman que la esterilización de perros y gatos puede reducir a largo plazo la población callejera, siempre que se acompañe de tenencia responsable, identificación y adopción.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/arteseideas/esterilizacion-perros-gatos-frenar-poblacion-animales-calles-20260815-828384.html",
-      "published_at": "2026-08-16T04:00:48+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje informativo y cita a especialistas sin usar vocabulario cargado ni favorecer posturas políticas; la selección de fuentes es neutral y se limita a datos científicos.",
-      "focus_analysis": "El medio se centra en los aspectos sanitarios y de responsabilidad de tenencia como solución al problema de los animales sin hogar, dejando de lado el costo económico de los programas de esterilización o la discusión de políticas públicas específicas.",
-      "focus_tags": [
-        "salud animal",
-        "responsabilidad de tenencia",
-        "control poblacional"
-      ],
-      "context": [
-        {
-          "label": "Tamaño de la población de mascotas en México",
-          "text": "Según la ENBIARE 2021, aproximadamente el 70 % de los hogares mexicanos tiene al menos una mascota, lo que representa cerca de 80 millones de animales de compañía en el país."
-        },
-        {
-          "label": "Evidencia internacional sobre esterilización",
-          "text": "Estudios realizados en varios países han demostrado que la esterilización masiva de perros y gatos disminuye la aparición de camadas no deseadas y reduce la incidencia de enfermedades reproductivas."
-        },
-        {
-          "label": "Postura de otras publicaciones",
-          "text": "Algunos medios de comunicación han subrayado la necesidad de combinar la esterilización con campañas de adopción y educación pública para lograr una reducción sostenible de la población callejera."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "3239d2a9ece5",
-      "title": "Montaje expone la búsqueda de justicia de dos rarámuris",
-      "summary": "El montaje teatral \"Jacinto y Nicolasa\", dirigido por Alberto Lomnitz y basado en la obra de la dramaturga colombiana Camila Villegas, muestra la búsqueda de justicia de dos miembros rarámuris que enfrentan la indiferencia del sistema judicial mexicano.",
-      "category": "sociedad",
-      "source_name": "La Jornada Cultura",
-      "source_url": "https://www.jornada.com.mx/2026/08/16/cultura/a03n1cul?partner=rss",
-      "published_at": "2026-08-16T07:41:44+00:00",
-      "bias_score": -12,
-      "bias_reason": "El texto emplea un tono crítico hacia la burocracia mexicana y la falta de respuesta de las autoridades, resaltando la vulnerabilidad de los rarámuris, lo que indica una ligera inclinación de izquierda.",
-      "focus_analysis": "El medio se centra en el ángulo cultural y de derechos humanos, resaltando la experiencia indígena y la crítica al sistema judicial; omite el contexto económico y político más amplio.",
-      "focus_tags": [
-        "justicia indígena",
-        "teatro social",
-        "crítica institucional"
-      ],
-      "context": [
-        {
-          "label": "Población rarámuri",
-          "text": "Los rarámuris son un pueblo indígena del norte de México que históricamente ha enfrentado marginalización y limitada acceso a servicios públicos, incluida la justicia."
-        },
-        {
-          "label": "Sistema judicial mexicano",
-          "text": "Diversos informes y organizaciones de derechos humanos señalan que el sistema judicial en México a menudo muestra demoras y falta de respuesta ante casos que involucran a comunidades indígenas."
-        },
-        {
-          "label": "Teatro Sin Arnés",
-          "text": "Teatro Sin Arnés, fundado en 2018 por Camila Villegas y Javier Malpica, se especializa en producciones escénicas que abordan problemáticas sociales con escasos recursos escénicos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "40daf4fbca8d",
-      "title": "Joey Ortiz conecta jonrón en victoria 4-1 de Cerveceros ante los Dodgers",
-      "summary": "El jardinero mexicano Joey Ortiz, que juega para los Cerveceros de Milwaukee, impulsó un jonrón que permitió a su equipo vencer 4-1 a los Dodgers de Los Ángeles en un duelo entre líderes de división.",
-      "category": "deportes",
-      "source_name": "La Jornada Deportes",
-      "source_url": "https://www.jornada.com.mx/2026/08/16/deportes/a27n2dep?partner=rss",
-      "published_at": "2026-08-16T07:41:44+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto destaca la nacionalidad mexicana de Ortiz y su papel decisivo, lo que introduce un leve sesgo de orgullo nacional, pero el tono general es informativo y deportivo.",
-      "focus_analysis": "El artículo se centra en la actuación individual de Ortiz y el resultado del juego, dejando de lado aspectos económicos, institucionales o de seguridad del deporte.",
-      "focus_tags": [
-        "deporte",
-        "béisbol",
-        "rivalidad división"
-      ],
-      "context": [
-        {
-          "label": "Posición en la liga",
-          "text": "Los Cerveceros de Milwaukee y los Dodgers de Los Ángeles son equipos líderes de sus respectivas divisiones en la Liga Nacional de las Grandes Ligas."
-        },
-        {
-          "label": "Presencia mexicana en MLB",
-          "text": "Joey Ortiz es uno de los pocos jugadores mexicanos activos en las Grandes Ligas, reflejando el creciente número de talentos provenientes de México en el béisbol profesional."
-        },
-        {
-          "label": "Rendimiento reciente del jugador",
-          "text": "El jonrón de Ortiz marcó su tercer juego consecutivo con una carrera impulsada, consolidándolo como una pieza clave en la ofensiva de los Cerveceros."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "43e7f8fe0a90",
-      "title": "En 1995, Volkswagen aprendió una lección inesperada: nunca pongas delante de un cliente un coche \"de broma\" que no piensas vender",
-      "summary": "En 1995 Volkswagen lanzó una campaña publicitaria para el nuevo Polo que mostraba un coche multicolor no disponible a la venta; la inesperada demanda de los clientes llevó a la marca a producir una serie limitada del Polo Harlekin, convirtiéndolo en un modelo de culto.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/movilidad/1995-volkswagen-aprendio-leccion-inesperada-nunca-pongas-delante-cliente-coche-broma-que-no-piensas-vender",
-      "published_at": "2026-08-16T10:30:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutral, sin vocabulario cargado ni selección de fuentes que favorezcan una visión ideológica; se limita a relatar los hechos de la campaña y su resultado.",
-      "focus_analysis": "El artículo se centra en el ángulo del marketing y la reacción del consumidor, resaltando la lección aprendida por Volkswagen y el carácter icónico del modelo, mientras deja de lado el contexto financiero y la estrategia corporativa más amplia.",
-      "focus_tags": [
-        "marketing",
-        "historia automotriz",
-        "comportamiento del consumidor"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la campaña",
-          "text": "En 1995 Volkswagen presentó la tercera generación del Polo y, para explicar su nuevo configurador de motores y equipamiento, utilizó un visual con un coche pintado en cuatro colores que llevaba el mensaje 'Este Polo no está a la venta'."
-        },
-        {
-          "label": "Respuesta del mercado y producción limitada",
-          "text": "Los clientes, intrigados por el anuncio, comenzaron a solicitar el coche multicolor, lo que llevó a Volkswagen a fabricar aproximadamente 3.800 unidades del Polo Harlekin, superando con creces la cifra inicial prevista de mil unidades."
-        },
-        {
-          "label": "Intento posterior con el Golf y su fracaso en EE. UU.",
-          "text": "Un año después, la marca intentó replicar la idea con el Golf Harlequin en Norteamérica, pero el modelo fue percibido como un 'coche payaso' y los concesionarios desmontaron los paneles de colores, resultando en un fracaso comercial aunque hoy es muy codiciado por coleccionistas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
