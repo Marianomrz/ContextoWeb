@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-16T20:26:50.884610+00:00",
+  "generated_at": "2026-08-16T20:34:35.900196+00:00",
   "articles": [
+    {
+      "id": "c460c8a1cf17",
+      "title": "Ondas tropicales 27 y 28 sobre el occidente y sureste de México provocarán lluvias intensas en 9 estados",
+      "summary": "El Servicio Meteorológico Nacional y la Comisión Nacional del Agua advierten que las ondas tropicales 27 y 28 provocarán lluvias intensas en nueve estados de México, con riesgos de deslaves, inundaciones y vientos fuertes.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/paso-de-las-ondas-tropicales-27-y-28-sobre-el-occidente-y-sureste-de-mexico-provocaran-lluvias-intensas-en-9-estados/",
+      "published_at": "2026-08-16T20:23:37+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y técnico, cita únicamente a instituciones oficiales como el SMN y Conagua, y no emplea expresiones cargadas ni favorece ninguna postura política.",
+      "focus_analysis": "El medio se centra en el pronóstico meteorológico y los riesgos asociados, dejando de lado el impacto humano concreto y las medidas de respuesta de autoridades locales.",
+      "focus_tags": [
+        "clima",
+        "lluvias intensas",
+        "riesgo de inundaciones"
+      ],
+      "context": [
+        {
+          "label": "fuentes oficiales",
+          "text": "El Servicio Meteorológico Nacional y la Comisión Nacional del Agua son las principales fuentes citadas, proporcionando datos de precipitación, temperatura y alertas de seguridad."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Otros medios como El Informador y Aristegui Noticias también basaron sus notas en los avisos del SMN, resaltando la misma amenaza de lluvias intensas y altas temperaturas."
+        },
+        {
+          "label": "contexto climático",
+          "text": "México atraviesa su temporada de ondas tropicales, fenómeno que habitualmente genera lluvias fuertes en la costa del Pacífico y el sureste, con potencial de inundaciones y deslizamientos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de la revista cultural mexicana Letras Libres explora el temor histórico a ser enterrado vivo, analizando referencias literarias como el cuento de Edgar Allan Poe y los escritos del ilustrado español Benito Jerónimo Feijoo, y describiendo cómo este miedo ha inspirado relatos y reflexiones a lo largo de los siglos.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a una exposición literaria e histórica sin usar vocabulario cargado ni citar fuentes con agenda política, manteniéndose neutral.",
+      "focus_analysis": "El medio elige un ángulo literario e histórico, resaltando obras y autores que abordaron el miedo a ser enterrado vivo; queda fuera cualquier enfoque contemporáneo o social sobre la práctica de entierros.",
+      "focus_tags": [
+        "temas literarios",
+        "miedo histórico",
+        "cultura occidental"
+      ],
+      "context": [
+        {
+          "label": "Antecedente histórico",
+          "text": "Durante los siglos XVIII y XIX, el temor a ser enterrado vivo llevó al desarrollo de \"atajes de seguridad\" con mecanismos para alertar a los vivos en caso de movimiento dentro del ataúd."
+        },
+        {
+          "label": "Referente literario",
+          "text": "Edgar Allan Poe popularizó el tema en su cuento \"El entierro prematuro\", describiendo la agonía física y mental del encierro antes de la muerte."
+        },
+        {
+          "label": "Perspectiva ilustrada española",
+          "text": "El intelectual Benito Jerónimo Feijoo, en el siglo XVIII, escribió sobre casos de entierros prematuros y recomendó esperar varios días antes de enterrar a los fallecidos para evitar el error."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI-Code-1.1-Flash, una nueva IA para programar integrada en GitHub Copilot que, según la compañía, ofrece mayor calidad de código, mayor velocidad y un costo de ejecución hasta un 75 % menor que su predecesor y que modelos competidores como Claude Code.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 15,
+      "bias_reason": "El texto reproduce mayormente la narrativa promocional de Microsoft, usando términos superlativos y sin presentar críticas o análisis independientes, lo que muestra una ligera inclinación favorable al fabricante.",
+      "focus_analysis": "El artículo se centra en los aspectos técnicos y económicos del modelo (rendimiento, velocidad, consumo de tokens y costo), dejando de lado la discusión sobre la calidad comparativa con otros sistemas o implicaciones éticas y de privacidad.",
+      "focus_tags": [
+        "rendimiento",
+        "eficiencia",
+        "costo"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Microsoft ya había introducido una IA para programación en la Build 2026, integrada en GitHub Copilot, que sirvió como base para el desarrollo de MAI-Code-1.1-Flash."
+        },
+        {
+          "label": "Competidores",
+          "text": "Modelos como Claude Code de Anthropic, GPT‑5.x de OpenAI y Codex de OpenAI son los principales rivales en el mercado de asistentes de codificación, ofreciendo mayor capacidad de contexto pero a mayor costo de tokens."
+        },
+        {
+          "label": "Tendencia del sector",
+          "text": "La industria de IA para desarrollo de software está orientándose hacia soluciones más ligeras y económicas, con un énfasis creciente en la reducción del consumo de tokens y la rapidez de generación de código."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "296af572b6c4",
+      "title": "Lula lanza su candidatura de reelección en Brasil",
+      "summary": "El presidente brasileño Luiz Inácio Lula da Silva lanzó su campaña de reelección desde el estadio Primero de Mayo en São Bernardo do Campo, destacando su trayectoria obrera y proponiendo reformas laborales para los trabajadores de plataformas digitales. Al mismo tiempo, su gobierno enfrenta la dificultad de reconectar con una nueva generación de trabajadores temporales y la oposición de empresas tecnológicas.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/lula-lanza-candidatura-reeleccion-brasil-20260816-828500.html",
+      "published_at": "2026-08-16T20:05:06+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo combina declaraciones elogiosas de Lula con críticas de trabajadores de plataformas y menciona la resistencia de grandes empresas, lo que muestra un equilibrio pero con ligera inclinación favorable al presidente.",
+      "focus_analysis": "El medio se centra en el aspecto laboral y económico de la campaña, resaltando los retos con la gig economy y la pérdida de afiliación sindical, mientras deja de lado la dimensión internacional y de seguridad.",
+      "focus_tags": [
+        "laboral y economía",
+        "campaña electoral",
+        "gig economy"
+      ],
+      "context": [
+        {
+          "label": "competencia electoral",
+          "text": "En otras noticias, se menciona que Lula y el candidato de derecha Flávio Bolsonaro inician sus campañas con un estrecho empate en las encuestas, subrayando la confrontación política entre ambos."
+        },
+        {
+          "label": "legado histórico",
+          "text": "El presidente Lula, primer mandatario de origen obrero de Brasil, busca consolidar su legado tras ocho años de gobierno, una narrativa que enfatiza su trayectoria sindical y popular."
+        },
+        {
+          "label": "cambio en el mercado laboral",
+          "text": "Los datos del Banco Central indican que el número de trabajadores de plataformas digitales creció 170% entre 2015 y 2025, lo que obliga al PT a adaptar su mensaje a una fuerza laboral cada vez más informal."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "75c04394dda3",
+      "title": "River Plate recibe a Argentinos Juniors en busca de su primer triunfo en el Torneo Clausura: formaciones confirmadas",
+      "summary": "River Plate, dirigido por Eduardo Coudet, recibirá a Argentinos Juniors en el Estadio Monumental buscando romper su sequía de victorias en el Torneo Clausura, con el debut de Thiago Almada como pieza clave.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/16/river-plate-recibira-a-argentinos-juniors-en-busca-de-su-primer-triunfo-en-el-torneo-clausura-hora-tv-y-formaciones/",
+      "published_at": "2026-08-16T20:19:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva y factual, sin usar lenguaje cargado ni seleccionar fuentes que favorezcan a un club sobre el otro.",
+      "focus_analysis": "El artículo se centra en el aspecto deportivo del encuentro, resaltando la necesidad de River de ganar, la alineación y la incorporación de Almada, mientras omite contextos más amplios como la posición en la tabla o la repercusión entre los aficionados.",
+      "focus_tags": [
+        "River Plate",
+        "Torneo Clausura",
+        "preview del partido"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento reciente de River Plate",
+          "text": "River Plate no ha conseguido una victoria en el Torneo Clausura actual, con su último triunfo registrado el 17 de julio de 2026 contra Aldosivi en la Copa Argentina."
+        },
+        {
+          "label": "Situación de Argentinos Juniors",
+          "text": "Argentinos Juniors, conocido como \"El Bicho\", se encuentra en la mitad de la tabla del Torneo Clausura y busca aprovechar el partido como local para sumar puntos."
+        },
+        {
+          "label": "Debut de Thiago Almada",
+          "text": "Thiago Almada, internacional argentino que llegó a River Plate desde la MLS a principios de año, hará su primera aparición con el equipo, aportando creatividad al mediocampo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4ab482c25b13",
+      "title": "Coyoacán rehabilitará deportivo José Gorostiza; renovarán canchas, área de box, sanitarios y espacios infantiles",
+      "summary": "La alcaldía de Coyoacán anunció la rehabilitación integral del deportivo José Gorostiza, ubicado en el barrio de Santa Catarina, que incluirá la renovación de canchas, área de box, sanitarios y espacios infantiles, con cierros parciales y rotativos para mantener las actividades deportivas.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/coyoacan-rehabilitara-deportivo-jose-gorostiza-renovaran-canchas-area-de-box-sanitarios-y-espacios-infantiles/",
+      "published_at": "2026-08-16T20:28:46+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo se basa principalmente en declaraciones de funcionarios municipales y destaca la transparencia y los beneficios del proyecto, sin incluir críticas ni voces opositoras, lo que genera una ligera inclinación favorable al gobierno.",
+      "focus_analysis": "El medio se centra en la perspectiva institucional y de mejora de infraestructura pública, resaltando la participación vecinal, mientras omite el análisis del costo fiscal o posibles controversias relacionadas con la gestión de los recursos.",
+      "focus_tags": [
+        "infraestructura deportiva",
+        "gobierno local",
+        "participación comunitaria"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Coyoacán ha llevado a cabo recientemente proyectos de mejora de espacios públicos, como la rehabilitación del parque Hidalgo en 2024, financiados con recursos municipales."
+        },
+        {
+          "label": "comparación",
+          "text": "Otras delegaciones de la Ciudad de México, como Iztapalapa, también han emprendido renovaciones de instalaciones deportivas, destinando alrededor de 150 millones de pesos a proyectos similares."
+        },
+        {
+          "label": "postura externa",
+          "text": "Organizaciones de la sociedad civil, como la Asociación de Vecinos de Santa Catarina, han manifestado su apoyo a la renovación del deportivo José Gorostiza, pero han solicitado mayor información sobre el presupuesto y la gestión de los recursos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "703fb5a3e6cf",
       "title": "Día del Abuelo 2026: Requisitos para tramitar la credencial Inapam",
@@ -839,211 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.6
-      }
-    },
-    {
-      "id": "b84c31fd490e",
-      "title": "Entre teclas de acero y polvo de tinta: redescubriendo a Virginia Woolf",
-      "summary": "Una vieja máquina de escribir, sus teclas de acero aún resonando como ecos de un salón londinense, exhala el polvo de tinta que la vio en los años cuarenta. En esa atmósfera de crujidos y sombras, la obra de Virginia Woolf se despliega como una corriente subterránea que arrastra la conciencia al ritmo de la propia respiración. Sus novelas, entrelazadas de monólogos interiores, convierten cada página en un espejo donde el tiempo se dilata y se contrae.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-16T19:40:48.181226+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, bajo el sol abrasador del agosto, la sensación de estar atrapados entre la luz y la sombra nos recuerda la fragilidad de la percepción que Woolf exploró. Elegí su figura porque su capacidad de transformar lo cotidiano en un viaje interior resuena con la necesidad de refugio mental que muchos buscan en la temporada estival. Además, su legado sigue inspirando a lectores que desean romper con la linealidad del tiempo narrativo.",
-      "focus_tags": [
-        "modernismo",
-        "novela psicológica",
-        "Reino Unido"
-      ],
-      "context": [
-        {
-          "label": "Autor",
-          "text": "Virginia Woolf, pionera del modernismo británico, vivió entre 1882 y 1941, época en la que el mundo se desdoblaba entre guerras y revoluciones culturales. Su prosa, cargada de flujo de conciencia, descompone la realidad en fragmentos sensoriales y emocionales, ofreciendo una visión íntima del interior humano."
-        },
-        {
-          "label": "Obras recomendadas",
-          "text": "Comienza con 'Mrs Dalloway', donde un día se extiende como un río de recuerdos que atraviesa la mente de Clarissa. Continúa con 'Al faro', una meditación sobre la pérdida y la luz que se escapa entre los pliegues del tiempo. 'Orlando' brinda una travesía gender‑bending que desafía la linealidad histórica, mientras que 'Una habitación propia' ofrece una reflexión esencial sobre la independencia creativa femenina."
-        },
-        {
-          "label": "Trasfondo",
-          "text": "El modernismo surgió como respuesta a la desorientación de la Primera Guerra Mundial, buscando nuevas formas de representar la subjetividad. Woolf, inserta en el círculo de los Bloomsbury, utilizó la técnica del flujo de conciencia para romper con la narrativa tradicional, inaugurando una revolución estilística que aún influye en la literatura contemporánea."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "352527d88ec3",
-      "title": "Eclipse Solar Total en México: ¿cuándo volverá a oscurecerse el cielo y qué estados podrán verlo?; esto se sabe",
-      "summary": "El próximo eclipse solar total visible en México se producirá el 30 de marzo de 2052, con una franja de totalidad que atravesará siete estados desde Nayarit hasta Nuevo León, según datos de la NASA y la Universidad Autónoma de México. El fenómeno podrá durar hasta cuatro minutos y ocho segundos en los puntos más favorables, como la ciudad de Tepic.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/tendencias/eclipse-solar-total-en-mexico-cuando-volvera-a-oscurecerse-el-cielo-y-que-estados-podran-verlo-esto-se-sabe/",
-      "published_at": "2026-08-16T19:13:24+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, citando fuentes científicas como la NASA y la UAM sin emplear adjetivos cargados ni favorecer una postura política o ideológica.",
-      "focus_analysis": "El medio se centró en el aspecto científico‑astronómico del eclipse, detallando fechas, ubicación y duración, dejando fuera la dimensión cultural o de impacto económico del evento.",
-      "focus_tags": [
-        "eclipse solar",
-        "astronomía",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "El último eclipse solar total que pudo observarse desde territorio mexicano ocurrió el 8 de abril de 2024, cuando la sombra lunar cruzó parte del país."
-        },
-        {
-          "label": "dato comparativo",
-          "text": "Según la NASA, la franja de totalidad del eclipse de 2052 tendrá un ancho máximo de aproximadamente 164 kilómetros, permitiendo una fase de oscuridad de hasta cuatro minutos y ocho segundos en los puntos centrales."
-        },
-        {
-          "label": "postura externa",
-          "text": "Otros medios, como El Androide Libre, destacaron la posibilidad de seguir el eclipse mediante aplicaciones móviles y conexiones a internet, enfocándose en la tecnología de visualización más que en la geografía del fenómeno."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El ensayo de la revista cultural mexicana Letras Libres, escrito por David Toscana, examina el miedo histórico a ser enterrado vivo mediante referencias literarias como el cuento de Edgar Allan Poe y los escritos de Benito Jerónimo Feijoo, describiendo la angustia física y mental que implica. Además, se incluyen ejemplos de la literatura y la historia que ilustran cómo este temor ha sido narrado y percibido a lo largo de los siglos.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en un análisis literario e histórico sin emplear lenguaje cargado ni presentar una agenda política, manteniendo un tono neutral y descriptivo.",
-      "focus_analysis": "El medio eligió un ángulo cultural y psicológico, resaltando la representación del miedo a la sepultura prematura en la literatura y la historia; no aborda aspectos científicos ni contemporáneos del tema.",
-      "focus_tags": [
-        "literatura",
-        "historia",
-        "miedo"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "Durante los siglos XVIII y XIX, el temor a ser enterrado vivo era frecuente en Europa y América, lo que llevó a la creación de normas para confirmar la muerte antes del entierro, como las propuestas por el naturalista español Benito Jerónimo Feijoo."
-        },
-        {
-          "label": "Influencia literaria",
-          "text": "El cuento \"El entierro prematuro\" de Edgar Allan Poe, publicado en 1844, consolidó el tema del miedo a la sepultura como un motivo recurrente en la literatura de terror."
-        },
-        {
-          "label": "Perspectiva contemporánea",
-          "text": "En la actualidad, el tema sigue inspirando obras de ficción y discusiones sobre la muerte digna, aunque la mayoría de los debates se enfocan en la ética médica y la legislación más que en el terror histórico."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "5c5430edfd6c",
-      "title": "Sarmiento le gana a Huracán en Junín por la fecha cinco del Torneo Clausura",
-      "summary": "El club Sarmiento de Junín venció 2‑1 al club Huracán en el Estadio Eva Perón, sumándose a sus dos triunfos consecutivos en la fecha cinco del Grupo B del Torneo Clausura 2026.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/16/continua-la-fecha-5-del-torneo-clausura-la-agenda-con-los-partidos-de-la-jornada/",
-      "published_at": "2026-08-16T19:00:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir hechos del partido con un lenguaje objetivo y sin incluir opiniones o fuentes cargadas ideológicamente.",
-      "focus_analysis": "El medio se centró en el desarrollo del juego, los goles y la posición en la tabla, omitiendo aspectos como la reacción de la afición o el impacto económico del resultado.",
-      "focus_tags": [
-        "resultado",
-        "Torneo Clausura",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Forma reciente de Sarmiento",
-          "text": "Sarmiento había recuperado la senda ganadora con dos victorias consecutivas tras perder sus dos primeros encuentros del torneo."
-        },
-        {
-          "label": "Rendimiento de Huracán",
-          "text": "Huracán llegaba al duelo con siete puntos, después de haber derrotado 2‑0 a San Lorenzo en su último partido como visitante."
-        },
-        {
-          "label": "Posición en la tabla",
-          "text": "Con el triunfo, Sarmiento alcanzó seis puntos, manteniéndose cerca de los ocho primeros del Grupo B, mientras que Huracán quedó con siete puntos, también dentro de la zona de clasificación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "fc6ef289b690",
-      "title": "Escalada entre Rusia y Ucrania deja al menos 19 muertos en ataques cruzados",
-      "summary": "Los enfrentamientos entre Rusia y Ucrania provocaron al menos 19 muertos, con ataques de drones y misiles que alcanzaron zonas civiles e infraestructuras en ambos países, mientras Moscú reportó la intercepción de 822 unidades no tripuladas y el presidente Zelenski solicitó más defensa antiaérea.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/escalada-rusia-ucrania-deja-19-muertos-ataques-cruzados-20260816-828496.html",
-      "published_at": "2026-08-16T19:12:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta cifras y declaraciones de ambos gobiernos sin usar adjetivos cargados, equilibrando la información y evitando una narrativa partidista.",
-      "focus_analysis": "El medio se centra en el aspecto militar y los daños a infraestructura, dejando de lado el relato de los sufrimientos humanos y las iniciativas diplomáticas.",
-      "focus_tags": [
-        "conflicto bélico",
-        "daños a infraestructura",
-        "civiles"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "El conflicto entre Rusia y Ucrania comenzó en febrero de 2022 y ha evolucionado con un uso creciente de ataques aéreos de largo alcance, especialmente drones y misiles."
-        },
-        {
-          "label": "Dato comparativo",
-          "text": "Según el Ministerio de Defensa ruso, en la noche del 15 de agosto se interceptaron 822 drones ucranianos, una cifra que supera los registros de meses anteriores."
-        },
-        {
-          "label": "Postura de otro medio",
-          "text": "France24 resaltó el ataque ucraniano como uno de los mayores ofensivos aéreos de Kiev, mientras que DW destacó el número de muertos en ambos lados, mostrando una perspectiva más centrada en las víctimas."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "c6b9b3ba0773",
-      "title": "Ministro de Seguridad de Israel pide asesinato de 30 a 40 personas cada noche en Gaza; \"hay personas allí que no merecen vivir\"",
-      "summary": "El ministro de Seguridad Nacional de Israel, Itamar Ben Gvir, ultraderechista y exconvicto, pidió en un pódcast la muerte de entre treinta y cuarenta personas cada noche en Gaza, afirmando que hay personas que no merecen vivir, y manifestó su desacuerdo con la reducción de los ataques anunciada por el primer ministro Benjamin Netanyahu.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/ministro-de-seguridad-de-israel-pide-asesinato-de-30-a-40-personas-cada-noche-en-gaza-hay-personas-alli-que-no-merecen-vivir/",
-      "published_at": "2026-08-16T19:22:56+00:00",
-      "bias_score": -65,
-      "bias_reason": "El texto emplea términos cargados como \"ultraderechista\" y \"exconvicto\", destaca declaraciones genocidas y menciona acusaciones de intención genocida, lo que muestra una postura crítica y de izquierda hacia el ministro y su política.",
-      "focus_analysis": "El medio se centra en el discurso extremista del ministro y su posible violación de derechos humanos, dejando de lado el contexto humanitario más amplio y los esfuerzos diplomáticos en el conflicto.",
-      "focus_tags": [
-        "seguridad",
-        "política israelí",
-        "conflicto Gaza"
-      ],
-      "context": [
-        {
-          "label": "Perfil del ministro",
-          "text": "Itamar Ben Gvir es el actual ministro de Seguridad Nacional de Israel, conocido por su ideología ultraderechista, su pasado como convicto por vínculos con el movimiento Kach y su papel controvertido en la política de derechos de los palestinos."
-        },
-        {
-          "label": "Política de Netanyahu",
-          "text": "El primer ministro Benjamin Netanyahu había anunciado una reducción de los ataques en Gaza como parte de un plan de paz impulsado por EE. UU., medida que Ben Gvir rechazó públicamente."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como DW Español, resaltaron la llamada a matar a 40 personas al día, mientras que El Economista se centró en la diplomacia estadounidense con Hamas, mostrando distintos enfoques sobre el mismo hecho."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
       }
     }
   ]
