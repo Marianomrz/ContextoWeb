@@ -1,153 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-16T07:57:49.416634+00:00",
-      "title": "Propósito, decencia y calidad",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-16T08:00:45.495307+00:00",
-      "title": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que pre",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque presenta un sesgo promocional moderado que reduce ligeramente la objetividad. En general, es apto para publicación con una ligera advertencia sobre la falta de balance crítico.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T08:00:52.150569+00:00",
-      "title": "Mujer intercepta camioneta de Sheinbaum y la encara agresivamente en Tamaulipas: “¡No me toque!”",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una noticia reciente con una estructura adecuada, pero carece de fuentes verificables y de contraste real de voces, lo que afecta su precisión y completitud.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T08:00:59.672878+00:00",
-      "title": "“Veo el futuro de mi oficio muy negro”: entrevista con Bárbara Enríquez",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y objetivo, pero su veracidad es dudosa por la falta de evidencia sobre la serie de Netflix y la entrevista, y el contraste de fuentes es limitado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T08:01:06.094920+00:00",
-      "title": "Un trágico accidente de autobús en Hungría deja, al menos, 12 muertos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta problemas de veracidad en datos específicos, aunque su estructura y objetividad son buenas; necesita corrección de hechos antes de publicar.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T08:01:11.244898+00:00",
-      "title": "Nació en Estados Unidos y aún lucha con el idioma, pero se convirtió en una referente de Argentina: ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la imprecisión sobre la nacionalidad de Julián Álvarez resta puntos a la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T08:01:19.088461+00:00",
-      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información precisa, bien fuentesada y estructurada de forma clara y objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T08:01:31.792447+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, con solo una ligera duda sobre una referencia cultural poco verificada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T08:01:37.554255+00:00",
-      "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; es preciso, objetivo, actual y bien estructurado, aunque podría beneficiarse de referencias a fuentes adicionales.",
-      "error": null
-    },
-    {
       "at": "2026-08-16T08:01:45.827631+00:00",
       "title": "Temblor hoy en México: casi mil 700 réplicas del sismo registrado en Chiapas",
       "kind": "noticia",
@@ -3380,6 +3233,153 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzar la verificación de datos y ampliar la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:11:09.039129+00:00",
+      "title": "River Plate recibirá a Argentinos Juniors en busca de su primer triunfo en el Torneo Clausura: hora,",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad; solo podría mejorar la variedad de fuentes, pero en conjunto es de alta calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:11:15.378215+00:00",
+      "title": "¡Van a JO!  Consigue México boleto  en flag football femenil",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta la información de forma clara y actual, pero la falta de verificación de los datos y la ausencia de fuentes múltiples reducen su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:11:21.012157+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo hoy: quién será el tercer eliminado y riesgo de doble sal",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es claro, actual y objetivo, pero necesita mayor verificación de datos y fuentes adicionales para reforzar su precisión y contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:11:28.286021+00:00",
+      "title": "Brasil lleva dos siglos buscando una solución para la sequía: su respuesta es un inmenso canal de ho",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 16 column 153 (char 1110)"
+    },
+    {
+      "at": "2026-08-16T13:11:37.481968+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La ministra de Sanidad comunica que h",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero necesita mayor diversidad de fuentes para equilibrar el contraste en un tema de alta carga política.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:11:44.188506+00:00",
+      "title": "Un PIB estancado: por qué México no crece",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuentes múltiples, objetividad y actualidad, presentando la información de forma clara y estructurada. Solo se detecta una mínima discrepancia numérica que no afecta significativamente la calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:11:53.994215+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una pieza informativa y bien estructurada, con mínima necesidad de mejoras en precisión de títulos y claridad de la pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:11:57.744778+00:00",
+      "title": "El informe que reveló las mejoras que tendrá el Alpine de Franco Colapinto en el regreso de la F1",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y estructurado, pero falla gravemente en veracidad y contraste de fuentes, lo que impide que cumpla con los estándares editoriales de precisión y pluralidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T13:12:01.752481+00:00",
+      "title": "¿Qué es el \"modo secreto\" del iPhone y cómo activarlo?",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es razonablemente actual y bien estructurado, pero presenta imprecisiones técnicas y un sesgo promocional que limitan su objetividad.",
       "error": null
     }
   ]
