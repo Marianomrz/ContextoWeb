@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-16T23:35:00.994800+00:00",
+  "generated_at": "2026-08-16T23:41:44.386143+00:00",
   "articles": [
+    {
+      "id": "213a45379ab7",
+      "title": "¿Los terremotos de Sudamérica pueden sacudir a México?; experto del IPN descarta incidencia en actividad sísmica",
+      "summary": "El especialista en sismología del Instituto Politécnico Nacional, Omar Cristian Chávez Hernández, explicó que los sismos de Venezuela y Colombia no influyen en la actividad sísmica de México porque se originan en placas tectónicas diferentes, y subrayó la importancia de mantener los simulacros y los sistemas de alerta como el SASMEX.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/los-terremotos-de-sudamerica-pueden-sacudir-a-mexico-experto-del-ipn-descarta-incidencia-en-actividad-sismica/",
+      "published_at": "2026-08-16T23:32:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje técnico y neutral, citando a un experto sin incluir opiniones partidistas ni cargadas, y se centra en la información científica y de prevención.",
+      "focus_analysis": "El medio eligió un ángulo científico‑institucional, resaltando la experiencia mexicana en sismología y la política de prevención, mientras que dejó de lado el análisis de posibles impactos sociales o políticos más amplios.",
+      "focus_tags": [
+        "sismología",
+        "prevención de desastres",
+        "política pública"
+      ],
+      "context": [
+        {
+          "label": "Marco tectónico",
+          "text": "México está situado sobre la interacción de la placa de Cocos con la placa de Norteamérica, mientras que los terremotos de Sudamérica se originan principalmente en la placa de Nazca bajo la placa Sudamericana, lo que implica sistemas sísmicos independientes."
+        },
+        {
+          "label": "Historial sísmico mexicano",
+          "text": "Los sismos de 1985 y 2017 provocaron la revisión de los códigos de construcción y la implementación del Sistema de Alerta Sísmica Mexicano (SASMEX) para mejorar la respuesta y la resiliencia del país."
+        },
+        {
+          "label": "Cooperación internacional",
+          "text": "México colabora con países como Japón, Estados Unidos, Chile, Taiwán y China para compartir tecnologías de alerta temprana y estrategias de protección civil, reforzando su capacidad de gestión de riesgos sísmicos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de Letras Libres explora, desde una perspectiva literaria e histórica, el temor al entierro prematuro que ha inspirado a autores como Edgar Allan Poe y a pensadores del siglo XVIII, analizando cómo esta angustia se ha representado en la literatura y la cultura occidental.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir y analizar referencias literarias e históricas sin usar un cargados ni favorecer ninguna posición política o ideológica.",
+      "focus_analysis": "El medio eligió un ángulo cultural y literario, resaltando la tradición del terror y la historia del entierro prematuro, dejando de lado cualquier discusión sobre implicaciones médicas o de seguridad contemporáneas.",
+      "focus_tags": [
+        "literatura",
+        "historia",
+        "miedo"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes históricos",
+          "text": "Durante los siglos XVIII y XIX, la falta de métodos diagnósticos fiables generó un temor generalizado a ser enterrado vivo, lo que llevó a la adopción de dispositivos como los “sistemas de ventilación” en los ataúdes y a la publicación de guías para confirmar la muerte antes del entierro."
+        },
+        {
+          "label": "Influencia literaria",
+          "text": "El miedo al entierro prematuro se popularizó en la literatura de terror, especialmente a través de obras como “El entierro prematuro” de Edgar Allan Poe, que estableció un modelo de narración que combina lo macabro con reflexiones sobre la fragilidad humana."
+        },
+        {
+          "label": "Perspectiva contemporánea",
+          "text": "En la actualidad, los avances médicos reducen prácticamente a cero la posibilidad de enterramientos accidentales, pero el tema sigue presente en la cultura popular, apareciendo en películas, series y debates sobre los límites de la ficción y la realidad."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI-Code-1.1-Flash, una IA de programación integrada en GitHub Copilot que, según la compañía, ofrece código de mayor calidad, mayor velocidad y un costo un cuarto del modelo anterior, superando en eficiencia a competidores como Claude Code y algunos modelos de GPT-5.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 15,
+      "bias_reason": "El texto reproduce mayormente la narrativa promocional de Microsoft, resaltando sus ventajas y citando sus propios benchmarks sin presentar críticas ni opiniones externas, lo que indica un sesgo ligeramente favorable al fabricante.",
+      "focus_analysis": "El artículo se centra en los aspectos técnicos y de rendimiento del nuevo modelo, destacando velocidad, coste y métricas de calidad, mientras deja de lado la discusión sobre implicaciones éticas, privacidad de datos o el impacto competitivo en el mercado de IA de programación.",
+      "focus_tags": [
+        "IA de programación",
+        "eficiencia",
+        "competencia de modelos"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Microsoft había introducido su primer modelo de IA para código en la Build 2026, integrado en GitHub Copilot, y ha venido mejorando la herramienta con versiones más pequeñas y eficientes."
+        },
+        {
+          "label": "comparación",
+          "text": "Otros actores del sector, como Anthropic con Claude Code y OpenAI con sus variantes de GPT‑5, también ofrecen asistentes de código, aunque suelen requerir más tokens y tiempo para alcanzar resultados comparables."
+        },
+        {
+          "label": "tendencia del sector",
+          "text": "En los últimos años, la industria ha visto una creciente demanda de modelos de IA que reduzcan el consumo de tokens y los costos operativos, impulsando a los proveedores a entrenar modelos propios y evitar la destilación de terceros."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "e0d219fe365a",
+      "title": "Chiapas registra sismo de 4.5 de intensidad en Cd Hidalgo",
+      "summary": "El Servicio Sismológico Nacional de México registró un sismo de magnitud 4.5 en el municipio de Ciudad Hidalgo, Chiapas, a las 17:00 horas del 16 de agosto de 2026, sin que hasta el momento se reporten daños.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/chiapas-registra-sismo-de-45-de-intensidad-en-cd-hidalgo/",
+      "published_at": "2026-08-16T23:30:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje meramente informativo y objetivo, sin adjetivos cargados ni citas que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El medio se centró en describir el evento sísmico y ofrecer recomendaciones de seguridad, dejando de lado posibles impactos económicos o respuestas políticas.",
+      "focus_tags": [
+        "sismo",
+        "seguridad civil",
+        "Chiapas"
+      ],
+      "context": [
+        {
+          "label": "Actividad sísmica en México",
+          "text": "México está ubicado en una zona tectónica activa, con decenas de sismos diarios, la mayoría de baja magnitud, lo que lo convierte en un país propenso a terremotos."
+        },
+        {
+          "label": "Eventos históricos",
+          "text": "Los terremotos de 1985 y 2017 provocaron graves daños y pérdidas humanas en la Ciudad de México y otras regiones, recordando la vulnerabilidad sí país ante sismos de gran magnitud."
+        },
+        {
+          "label": "Instituciones oficiales",
+          "text": "El Servicio Sismológico Nacional, el Centro Nacional de Prevención de Desastres y el Centro de Instrumentación y Registro Sísmico son las autoridades encargadas de monitorear y difundir información sobre la actividad sísmica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "b50dc3a427b1",
+      "title": "Alarma en River Plate: la lesión que sufrió Montiel y generó un peculiar problema de cara al duelo por la Sudamericana",
+      "summary": "Gonzalo Montiel, lateral derecho de River Plate, se lesionó el aductor izquierdo en el partido contra Argentinos Juniors, lo que pone en duda su disponibilidad para el encuentro de ida de los octavos de final de la Copa Sudamericana contra Independiente Santa Fe.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/16/alarma-en-river-plate-la-lesion-que-sufrio-montiel-y-genero-un-peculiar-problema-de-cara-al-duelo-por-la-sudamericana/",
+      "published_at": "2026-08-16T23:30:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos deportivos sin usar vocabulario cargado ni citar fuentes con sesgo político, manteniendo un tono objetivo.",
+      "focus_analysis": "El artículo se centra en el impacto inmediato de la lesión de Montiel sobre la alineación y la estrategia de River Plate para la Sudamericana, dejando de lado el análisis de la gestión médica del club o de la política deportiva.",
+      "focus_tags": [
+        "lesión",
+        "Copa Sudamericana",
+        "River Plate"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del club",
+          "text": "River Plate atraviesa una fase con varias bajas por lesiones, como Marcos Acuña y Sebastián Driussi, lo que ha generado incertidumbre en su plantilla de cara a la fase de grupos de la Copa Sudamericana."
+        },
+        {
+          "label": "importancia del partido",
+          "text": "El encuentro de ida contra Independiente Santa Fe es crucial para River Plate, ya que busca avanzar a cuartos de final y el resultado dependerá de la disponibilidad de sus titulares."
+        },
+        {
+          "label": "historial de Montiel",
+          "text": "Gonzalo Montiel, campeón del mundo con Argentina en 2022, ha sido titular regular en River Plate y marcó su primer gol del Torneo Clausura 2026 antes de lesionarse en el mismo partido."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "c20e168361c4",
+      "title": "Fiscalía de Jalisco resguarda 20 perros y gatos tras un cateo en Tlajomulco; investigan posible crueldad animal",
+      "summary": "La Fiscalía de Jalisco, tras un cateo en una vivienda del fraccionamiento Villas de San Gilberto en Tlajomulco de Zúñiga, resguardó a 20 perros y gatos que podrían haber estado en condiciones de crueldad animal, entregándolos a la Dirección de Acopio y Salud Animal para su atención.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/fiscalia-de-jalisco-resguarda-20-perros-y-gatos-tras-un-cateo-en-tlajomulco-investigan-posible-crueldad-animal/",
+      "published_at": "2026-08-16T23:34:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono informativo y neutral, sin usar vocabulario cargado ni presentar opiniones; se basa en declaraciones oficiales y hechos verificables.",
+      "focus_analysis": "El medio se centró en el aspecto institucional y legal de la investigación y el rescate de los animales, dejando de lado testimonios personales o un análisis de la posible culpabilidad de los dueños.",
+      "focus_tags": [
+        "crueldad animal",
+        "rescate de animales",
+        "operativo policial"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "En México, la Ley Federal de Protección a los Animales y las normas estatales de Jalisco establecen sanciones por maltrato y permiten la intervención de la Fiscalía y la Dirección de Acopio y Salud Animal en casos de crueldad."
+        },
+        {
+          "label": "Casos precedentes",
+          "text": "En años recientes, la Fiscalía de Jalisco ha llevado a cabo operativos similares en la zona de Tlajomulco, rescatando animales en situaciones de hacinamiento y falta de higiene, lo que ha generado atención mediática y debate sobre la efectividad de la aplicación de la ley."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Infobae México destacó el rescate como una acción de protección animal y subrayó que el proceso penal por presunta crueldad animal se mantiene activo, ofreciendo una perspectiva más centrada en la víctima animal que la de El Universal."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "b84c31fd490e",
+      "title": "Espejos rotos: navegando el laberinto del Nouveau Roman",
+      "summary": "Un salón de espejos rotos se extiende bajo un cielo sin techo, cada fragmento reflejando una habitación distinta que nunca se alinea. En esa arquitectura de reflejos, los personajes se pierden y los argumentos se deshilachan, como si la novela fuera un juego de sombras. El Nouveau Roman, surgido en la Francia de posguerra, construye precisamente esa casa de reflejos infinitos.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-16T23:40:42.862003+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, cuando las redes sociales fragmentan nuestras historias en fragmentos instantáneos, el Nouveau Roman ofrece una antítesis que nos invita a reconstruir el sentido a partir de la ausencia de trama lineal. Elegí este movimiento porque sus técnicas de desorientación resuenan con la manera en que percibimos la realidad contemporánea, y porque sus autores aún inspiran a escritores que buscan romper con la narrativa tradicional.",
+      "focus_tags": [
+        "Nouveau Roman",
+        "posguerra Francia",
+        "ficción experimental"
+      ],
+      "context": [
+        {
+          "label": "Orígenes del movimiento",
+          "text": "Tras la Segunda Guerra Mundial, la literatura francesa se vio sacudida por el desencanto y la búsqueda de nuevos lenguajes. Los escritores empezaron a cuestionar la autoridad del narrador y la linealidad del relato, inspirándose en la filosofía existencialista y en la crítica estructuralista que emergía en los círculos académicos."
+        },
+        {
+          "label": "Obras clave",
+          "text": "Alain Robbe‑Grillet marcó el inicio con su novela \"Celos\" (1957), donde la descripción minuciosa de objetos supera al desarrollo de personajes. Marguerite Duras, con \"El amante\" (1984), invierte la cronología y la voz narrativa, mientras que Claude Simon, en \"La carretera de los huevos\" (1958), entrelaza recuerdos y percepciones en una prosa que parece fluir como un río sin cauce."
+        },
+        {
+          "label": "Cómo acercarse",
+          "text": "Comience con cuentos cortos, como los de Jean‑Paul Sartre o los fragmentos de Michel Butor, para familiarizarse con la atmósfera de desorientación. Lea en voz alta, prestando atención a los detalles sensoriales que sustituyen la acción tradicional. Finalmente, experimente reescribiendo una escena cotidiana bajo la óptica de la fragmentación, descubriendo cómo el vacío narrativo puede generar nuevas formas de significado."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "5c5430edfd6c",
       "title": "Rosario Central visita a Barracas Central por la quinta fecha del Torneo Clausura: partido demorado por falta de iluminación",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.2
-      }
-    },
-    {
-      "id": "32a7e4b227ea",
-      "title": "Liga MX: América vs Atlético de San Luis EN VIVO - Jornada 4 del Apertura 2026",
-      "summary": "El Club América de México se enfrentará al Atlético de San Luis en la Jornada 4 del Torneo Apertura 2026 de la Liga MX, buscando mantener su racha invicta y consolidarse en la cima de la tabla. El encuentro será transmitido en vivo a través de Canal 5, ViX Premium y TUDN.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/liga-mx-america-vs-atletico-de-san-luis-en-vivo-jornada-4-del-apertura-2026/",
-      "published_at": "2026-08-16T22:41:25+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido, alineaciones y horarios de transmisión sin usar lenguaje cargado ni favorecer a ninguna de las partes.",
-      "focus_analysis": "El artículo se centra en la perspectiva deportiva del encuentro, resaltando la estrategia del técnico y la transmisión, mientras omite cualquier análisis económico, sociocultural o de seguridad relacionado con el evento.",
-      "focus_tags": [
-        "Liga MX",
-        "Apertura 2026",
-        "Club América"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento reciente de América",
-          "text": "Club América había conseguido su primer objetivo en la Leagues Cup y mantenía una racha sin derrotas al inicio del Apertura 2026, lo que eleva sus expectativas para el partido contra Atlético de San Luis."
-        },
-        {
-          "label": "Situación de Atlético de San Luis",
-          "text": "Atlético de San Luis buscaba sumar puntos para escalar en la tabla general del Apertura 2026, tras una temporada con resultados mixtos que incluían empates y victorias esporádicas."
-        },
-        {
-          "label": "Cobertura televisiva del fútbol mexicano",
-          "text": "Los partidos de la Liga MX Apertura 2026 se transmiten en plataformas como Canal 5, ViX Premium y TUDN, reflejando la estrategia de los derechos de transmisión para ampliar la audiencia nacional e internacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "be78639ef451",
-      "title": "Extorsión en México alcanza su nivel más alto en 11 años; suma 6,562 víctimas",
-      "summary": "La extorsión en México registró 6,562 víctimas en el primer semestre de 2026, el nivel más alto en 11 años, según datos oficiales citados por la Confederación Patronal de la República Mexicana (Coparmex), que alerta que el 97 % de los casos no se denuncian.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/extorsion-mexico-alcanza-nivel-alto-11-anos-suma-6-562-victimas-20260816-828508.html",
-      "published_at": "2026-08-16T22:25:46+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto se apoya principalmente en la posición de Coparmex, una organización empresarial, y enfatiza la necesidad de aplicar la legislación contra la extorsión, sin incluir voces de la sociedad civil ni de la izquierda, lo que muestra un ligero sesgo pro‑negocio.",
-      "focus_analysis": "El medio eligió un ángulo económico y de seguridad pública, centrado en estadísticas y en la petición de Coparmex de mayor aplicación de la ley; quedó fuera el relato humano de las víctimas y las posibles causas estructurales del delito.",
-      "focus_tags": [
-        "delito extorsión",
-        "estadísticas criminales",
-        "impacto económico"
-      ],
-      "context": [
-        {
-          "label": "Tendencias criminales generales",
-          "text": "En el mismo periodo, delitos como homicidio doloso, secuestro y robo de autos mostraron reducciones de entre 10 % y 30 %, lo que sitúa a la extorsión como la única categoría con aumento sostenido."
-        },
-        {
-          "label": "Postura de Coparmex",
-          "text": "Coparmex, encabezada por Juan José Sierra, ha señalado que la extorsión es el único delito en alza y ha demandado la implementación efectiva de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Sol de México también informó del incremento de la extorsión, pero puso mayor énfasis en el impacto social del delito, mientras que El Economista se centró en los datos y la respuesta empresarial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El ensayo de David Toscana en Letras Libres explora el miedo histórico al entierro prematuro, analizando relatos literarios de Edgar Allan Poe y reflexiones de figuras como Benito Jerónimo Feijoo sobre la angustia física y mental que provocaba estar enterrado vivo.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en una exposición cultural y literaria sin usar lenguaje cargado ni citar fuentes con carga política, manteniendo un tono descriptivo y neutral.",
-      "focus_analysis": "El artículo elige el ángulo histórico‑literario, resaltando temores y narraciones sobre entierros prematuros, mientras omite el contexto científico‑médico y las medidas modernas de seguridad que han erradicado el riesgo.",
-      "focus_tags": [
-        "temor a enterramiento",
-        "historia literaria",
-        "cultura occidental"
-      ],
-      "context": [
-        {
-          "label": "antecedentes históricos",
-          "text": "Durante los siglos XVIII y XIX, el temor a ser enterrado vivo era tan arraigado en Occidente que surgieron cofres con dispositivos de escape y se popularizaron guías para confirmar la muerte antes del entierro."
-        },
-        {
-          "label": "influencia literaria",
-          "text": "Edgar Allan Poe, con su cuento \"El entierro prematuro\", consolidó el tema como un motivo de terror en la literatura, inspirando a otros autores a explorar la angustia de la muerte prematura."
-        },
-        {
-          "label": "contexto contemporáneo",
-          "text": "En la actualidad, los protocolos médicos de certificación de fallecimiento y los avances en diagnóstico reducen prácticamente a cero la posibilidad de entierros prematuros."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "07d3770e6153",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 16 de agosto: aseguran más de media tonelada de marihuana en paquetería de Guanajuato",
-      "summary": "La Fiscalía de Guanajuato informó que un perro K9 detectó más de media tonelada de marihuana en una empresa de paquetería en León, lo que llevó a la incautación de la droga y a la apertura de una investigación.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-16-de-agosto-marina-realiza-dos-decomisos-millonarios-de-droga-en-cdmx-y-altamar/",
-      "published_at": "2026-08-16T22:26:18+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto usa un tono descriptivo y neutro, sin adjetivos cargados ni fuentes políticas; se centra en la acción policial y en hechos criminales, lo que indica una cobertura ligeramente inclinada hacia la seguridad pero sin sesgo evidente.",
-      "focus_analysis": "El medio eligió el ángulo de seguridad y lucha contra el narcotráfico, resaltando la labor de la unidad canina y la incautación; quedó fuera el análisis de causas estructurales del tráfico de drogas y su impacto social.",
-      "focus_tags": [
-        "seguridad pública",
-        "narcotráfico",
-        "operativo K9"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Guanajuato ha sido identificado como un punto estratégico para el tránsito de drogas en México, con varios operativos federales que han incautado grandes cantidades de estupefacientes en los últimos años."
-        },
-        {
-          "label": "dato comparativo",
-          "text": "Según datos de la Secretaría de Seguridad y Protección Ciudadana, en 2025 se reportaron más de 2,000 toneladas de marihuana incautadas a nivel nacional, lo que sitúa la incautación de media tonelada en León como una de las más significativas del estado."
-        },
-        {
-          "label": "postura externa",
-          "text": "El periódico local Periódico AM también cubrió el hecho, resaltando la ubicación exacta de la empresa de paquetería en la colonia Las Rosas y el papel del perro 'Orkan' de las FSPE en la detección."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "99900a807a77",
-      "title": "Masters 1000 de Cincinnati: ganó Juan Manuel Cerúndolo y enfrentará al N° 4 del mundo",
-      "summary": "El tenista argentino Juan Manuel Cerúndolo superó al francés Arthur Rinderknech en un duelo de tres horas y treinta y cuatro minutos en el Masters 1000 de Cincinnati, asegurando su paso a los octavos de final donde se medirá contra el canadiense Félix Auger‑Aliassime, número cuatro del ranking mundial.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/16/masters-1000-de-cincinnati-gano-juan-manuel-cerundolo-y-enfrentara-al-n-4-del-mundo/",
-      "published_at": "2026-08-16T22:36:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la descripción del partido y los datos estadísticos sin emplear lenguaje cargado ni presentar opiniones políticas; la única posible inclinación es el énfasis en el desempeño del argentino, lo cual es típico de la cobertura deportiva nacional.",
-      "focus_analysis": "El medio eligió un ángulo deportivo centrado en el desarrollo del encuentro, los números del juego y el próximo rival, dejando de lado un análisis más amplio del impacto en la clasificación del circuito o la historia del tenis argentino.",
-      "focus_tags": [
-        "tenis",
-        "Masters 1000",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del torneo",
-          "text": "El Masters 1000 de Cincinnati es uno de los eventos más prestigiosos del circuito ATP, con una gran cantidad de puntos y premios que influyen significativamente en la posición de los jugadores en el ranking mundial."
-        },
-        {
-          "label": "Posición de Cerúndolo",
-          "text": "Juan Manuel Cerúndolo ocupa el puesto 49 del ranking ATP, lo que lo sitúa fuera de los favoritos, pero ha demostrado capacidad para avanzar en torneos de alto nivel, como su tercera clasificación a la tercera ronda de un Masters 1000."
-        },
-        {
-          "label": "Enfrentamiento contra Auger‑Aliassime",
-          "text": "Félix Auger‑Aliassime, número cuatro del mundo, es uno de los jugadores más consistentes del circuito; su enfrentamiento con Cerúndolo será una prueba importante para el argentino, que ya le había vencido en el Masters de Madrid 2025."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "2e07f8ba4576",
-      "title": "Sinaloa envía más de un millón de toneladas de sorgo rojo a China para abrir mercado agrícola; buscan beneficiar a 10 mil productores",
-      "summary": "La gobernadora interina de Sinaloa, Yeraldine Bonilla Valverde, anunció que se enviaron los primeros cinco contenedores de sorgo rojo a China dentro de un contrato de exportación de más de un millón de toneladas, con el objetivo de abrir un mercado agrícola y beneficiar a diez mil productores locales.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/sinaloa-envia-mas-de-un-millon-de-toneladas-de-sorgo-rojo-a-china-para-abrir-mercado-agricola-buscan-beneficiar-a-10-mil-productores/",
-      "published_at": "2026-08-16T22:36:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono mayormente neutral y descriptivo, citando a funcionarios oficiales y resaltando los beneficios económicos sin incluir críticas ni opiniones partidistas.",
-      "focus_analysis": "El medio se centra en el ángulo económico y de desarrollo agrícola, destacando la apertura de mercados y el beneficio a los productores, mientras omite posibles impactos ambientales o controversias comerciales.",
-      "focus_tags": [
-        "agricultura exportación",
-        "beneficio productores",
-        "relaciones México-China"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Sinaloa es una de las principales regiones agrícolas de México, conocida por su producción de maíz, sorgo y otros granos, y ha buscado diversificar sus mercados internacionales."
-        },
-        {
-          "label": "datos comparables",
-          "text": "En los últimos años, México ha incrementado sus exportaciones de granos a Asia, con acuerdos que buscan reducir la dependencia del mercado interno y del mercado estadounidense."
-        },
-        {
-          "label": "postura de otros actores",
-          "text": "El presidente del grupo chino Sichuan Yourong, Li Jia Jian, ha señalado interés en el sorgo rojo para la producción de baijiu, lo que indica una demanda específica del sector de bebidas alcohólicas en China."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "a56f583f1f78",
-      "title": "Miles de damnificados aguardan ayuda tras el terremoto de Indonesia",
-      "summary": "El terremoto de magnitud 7,7 que sacudió la isla indonesia de Flores causó al menos 53 fallecidos y dejó a miles de evacuados a la espera de asistencia humanitaria. Las autoridades y equipos de rescate continúan trabajando para proporcionar ayuda y buscar supervivientes entre los escombros.",
-      "category": "internacional",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/miles-damnificados-aguardan-ayuda-terremoto-indonesia-20260816-828509.html",
-      "published_at": "2026-08-16T22:38:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y cifras sin usar lenguaje cargado ni citar fuentes con orientación política, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el impacto humanitario y la situación de los damnificados, omitiendo detalles sobre la respuesta gubernamental, la coordinación internacional y análisis técnico del sismo.",
-      "focus_tags": [
-        "crisis humanitaria",
-        "terremoto Indonesia",
-        "evacuados"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes sísmicos de Indonesia",
-          "text": "Indonesia se encuentra en el Cinturón de Fuego del Pacífico, una zona con alta actividad tectónica que genera frecuentes terremotos y tsunamis, lo que ha llevado al país a desarrollar protocolos de respuesta y mitigación de desastres."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "France24 y Euronews informaron que el sismo dejó alrededor de 51 muertos y resaltaron la labor de los equipos de rescate, mientras que Expansión destacó la presencia de réplicas, incluido un temblor de magnitud 6,1."
-        },
-        {
-          "label": "Respuesta internacional a desastres similares",
-          "text": "En eventos pasados, como el tsunami de 2004, la comunidad internacional, a través de la ONU y organizaciones como la Cruz Roja, ha movilizado recursos y ayuda humanitaria para apoyar a los afectados en Indonesia."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
