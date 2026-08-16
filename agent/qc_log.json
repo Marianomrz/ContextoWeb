@@ -1,125 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-16T06:41:25.892544+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una presentación objetiva y bien estructurada de un tema literario‑histórico reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T06:41:32.181652+00:00",
-      "title": "Alfonso Arau no apaga la cámara y alista película",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, aunque la ausencia de fuentes adicionales y la falta de verificación de los datos del proyecto reducen ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T06:53:44.463854+00:00",
-      "title": "Claudia Sheinbaum asegura que “una visa no define a una persona”, tras retiro de documento a ‘Andy’ ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y incluye alguna variedad de fuentes, pero la falta de evidencia concreta y el sesgo percibido reducen su calidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T06:53:48.222887+00:00",
-      "title": "Iñaki Manero rescata el misterio de los 90",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo está bien estructurado y actualizado, pero su falta de fuentes verificables y su tono parcial lo hacen menos objetivo y confiable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T06:53:52.054854+00:00",
-      "title": "Nació en Estados Unidos y aún lucha con el idioma, pero se convirtió en una referente de Argentina: ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene información poco verificable y carece de fuentes contrastadas, lo que afecta su credibilidad, aunque su estructura y actualidad son adecuadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T06:53:57.215955+00:00",
-      "title": "Los incendios forestales no dan tregua en Europa",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzar la diversidad de fuentes para un contraste más sólido.",
-      "error": null
-    },
-    {
-      "at": "2026-08-16T06:54:02.031705+00:00",
-      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, aunque podría mejorar la inclusión de voces contrastantes.",
-      "error": null
-    },
-    {
       "at": "2026-08-16T06:55:43.726389+00:00",
       "title": "Nada tan angustioso en la tierra",
       "kind": "noticia",
@@ -3374,6 +3255,119 @@
         "estructura_piramide": 9
       },
       "observacion": "En general, el paquete es reciente y bien estructurado, pero la veracidad de algunos detalles y la falta de fuentes múltiples reducen su puntuación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T11:28:43.926130+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP exige la dimisión de la ministr",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y está estructurado adecuadamente, pero presenta posibles imprecisiones y carece de fuentes contrastadas, lo que reduce su puntuación global de veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T11:28:48.322357+00:00",
+      "title": "La Casa de los Famosos México 2026 EN VIVO: los nominados temen por una doble eliminación",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de objetividad, veracidad y actualidad, aunque podría reforzar la diversidad de fuentes citadas para un contraste más sólido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T11:28:52.813436+00:00",
+      "title": "La reconstrucción de Facundo Díaz Acosta en el tenis tras lesiones que complicaron su carrera: “Estu",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la verificación de datos con fuentes explícitas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T11:29:00.933394+00:00",
+      "title": "'Hay razones', señala EU ante revocación de visa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de actualidad, estructura y objetividad, pero necesita incorporar fuentes mexicanas para lograr un contraste de perspectivas más equilibrado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T11:30:34.988321+00:00",
+      "title": "\"Pagaban casi 100.000 euros\" si tenías un iPhone 5s con este videojuego instalado",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
+    },
+    {
+      "at": "2026-08-16T11:30:41.711442+00:00",
+      "title": "Esterilización de perros y gatos: ¿puede frenar la población de animales en las calles?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y objetivo, pero debería incorporar fuentes más variadas y citas específicas para reforzar la veracidad y el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-16T11:30:52.783196+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es en general sólido y cumple con los requisitos de veracidad y objetividad, aunque podría mejorar la citación de fuentes y la claridad del lead invertido.",
       "error": null
     }
   ]
