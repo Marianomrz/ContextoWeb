@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-17T12:42:46.930125+00:00",
+  "generated_at": "2026-08-17T13:01:33.741737+00:00",
   "articles": [
+    {
+      "id": "e103df77b62c",
+      "title": "La ley laboral es clara: cuándo puede una empresa despedir a un trabajador si se va de vacaciones estando de baja",
+      "summary": "El artículo de Xataka explica que la legislación laboral española no prohíbe realizar actividades como deporte o vacaciones durante una baja médica, pero sí permite el despido disciplinario si esas acciones perjudican la recuperación según lo indique el médico y la empresa puede demostrarlo.",
+      "category": "sociedad",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/empresas-y-economia/ley-laboral-clara-cuando-puede-empresa-despedir-a-trabajador-se-va-vacaciones-estando-baja",
+      "published_at": "2026-08-17T12:40:22+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y neutral, citando sentencias judiciales y la normativa sin recurrir a lenguaje cargado ni a fuentes con clara orientación política.",
+      "focus_analysis": "El medio se centra en el análisis jurídico y la jurisprudencia sobre la compatibilidad de actividades durante la baja médica, dejando de lado el impacto económico para las empresas o la perspectiva de los sindicatos.",
+      "focus_tags": [
+        "derecho laboral",
+        "baja médica",
+        "jurisprudencia"
+      ],
+      "context": [
+        {
+          "label": "legislación",
+          "text": "El Estatuto de los Trabajadores, en su artículo 54, regula el despido disciplinario y establece que la empresa puede actuar si el trabajador incurre en una falta grave o de mala fe, sin especificar prohibiciones sobre actividades durante la baja."
+        },
+        {
+          "label": "estadísticas",
+          "text": "Según datos de la Seguridad Social de 2024, el número de bajas laborales en España alcanzó un récord histórico, lo que ha incrementado la atención mediática y judicial sobre los límites de la actividad de los trabajadores durante ese periodo."
+        },
+        {
+          "label": "actores",
+          "text": "Sindicatos como CCOO y UGT suelen defender que cualquier medida disciplinaria debe respetar la recomendación médica y el derecho del trabajador a una recuperación adecuada, denunciando despidos que consideren injustificados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "0aa15603078e",
+      "title": "Cristales y electricidad: sobre el cine androide",
+      "summary": "Manuel Pacheco, en un ensayo para Letras Libres, propone la categoría de \"cine androide\" para describir películas experimentales que imitan el comportamiento humano con frialdad, rechazan la emoción y utilizan la tecnología como elemento narrativo, situándose en un futuro hipotético.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/revista/cristales-y-electricidad-sobre-el-cine-androide/17/08/2026/",
+      "published_at": "2026-08-17T07:00:00+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto emplea un lenguaje académico y crítico, con poca carga emotiva y sin referencias a fuentes políticas, lo que indica una postura ligeramente progresista pero esencialmente neutra.",
+      "focus_analysis": "El artículo se centra en el análisis estético y teórico del cine experimental, destacando su relación con la tecnología y la fragmentación visual, mientras deja de lado la recepción comercial o la opinión del público general.",
+      "focus_tags": [
+        "cine experimental",
+        "tecnología",
+        "cultura visual"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "El concepto de \"imágenes pobres\" de Hito Steyerl, que describe la circulación de videos de baja resolución y fragmentados, sirve de base para entender la estética del cine androide que se apoya en material casero y digital."
+        },
+        {
+          "label": "comparación",
+          "text": "Películas como \"Wavelength\" de Michael Snow y los videos caseros de John Bergeron, que exploran la semiótica y el uncanny valley, son citadas como ejemplos emblemáticos de la práctica que Pacheco clasifica como cine androide."
+        },
+        {
+          "label": "postura externa",
+          "text": "En la discusión académica contemporánea, críticos de cine suelen dividir la obra experimental entre la innovación formal y la falta de accesibilidad, una tensión que también aparece implícita en la propuesta de Pacheco."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "5556b807d7c5",
+      "title": "Conmoción en Italia: un jugador de la Serie A casi se ahoga en una piscina y está internado en grave estado",
+      "summary": "El joven delantero francés‑italiano Yael Trepy, de 20 años, sufrió un casi ahogamiento en una piscina de Porto Cervo y fue ingresado en estado grave en el Hospital Santissima Annunziata de Sassari, donde permanece en coma inducido bajo vigilancia intensiva.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/conmocion-en-italia-un-jugador-de-la-serie-a-casi-se-ahoga-en-una-piscina-y-esta-internado-en-grave-estado/",
+      "published_at": "2026-08-17T12:11:23+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos y la reacción del club sin usar un carga política ni favorecer a ninguna posición; el tono es informativo aunque emotivo.",
+      "focus_analysis": "El medio se centra en el aspecto humano y de salud del jugador, resaltando el incidente y la respuesta del club, mientras deja de lado cualquier análisis institucional o económico del club o de la liga.",
+      "focus_tags": [
+        "salud del deportista",
+        "incidente acuático",
+        "Serie A"
+      ],
+      "context": [
+        {
+          "label": "Situación de Cagliari en la Serie A",
+          "text": "Cagliari Calcio compite en la Serie A italiana, intentando consolidarse en la primera mitad de la temporada tras una victoria reciente en la Coppa Italia contra el Arezzo."
+        },
+        {
+          "label": "Trayectoria de Yael Trepy",
+          "text": "Yael Trepy, formado en la academia del Cagliari, debutó en la Serie A en enero de 2025 y ha sido titular en partidos de la Coppa Italia, destacándose como delantero zurdo con doble nacionalidad francesa e italiana."
+        },
+        {
+          "label": "Riesgos de salud en deportistas",
+          "text": "Incidentes como el de Trepy recuerdan casos anteriores de futbolistas que han enfrentado emergencias médicas fuera del campo, lo que subraya la importancia de protocolos de seguridad y atención médica inmediata para atletas profesionales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "8d0edb26a2ad",
+      "title": "Pecios del petróleo abren la semana con alzas por estancamiento del conflicto en Irán",
+      "summary": "Los precios del petróleo Brent y WTI comenzaron la semana al alza porque los esfuerzos diplomáticos para resolver el conflicto en Oriente Medio no avanzaron, aunque el suministro se mantiene sin interrupciones mayores.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/mercados/pecios-petroleo-abren-semana-alzas-estancamiento-conflicto-iran-20260817-828618.html",
+      "published_at": "2026-08-17T12:33:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutral, cita a varios analistas y funcionarios sin emplear vocabulario cargado, lo que indica una cobertura equilibrada.",
+      "focus_analysis": "El artículo se centra en el impacto económico de la estancación del conflicto en los precios del crudo, omitiendo el aspecto humano y los detalles políticos del enfrentamiento.",
+      "focus_tags": [
+        "precios del petróleo",
+        "conflicto Irán",
+        "mercados energéticos"
+      ],
+      "context": [
+        {
+          "label": "situación del conflicto",
+          "text": "El enfrentamiento entre Irán y Estados Unidos, y la tensión en el estrecho de Ormuz, ha generado incertidumbre en los mercados energéticos durante varios meses."
+        },
+        {
+          "label": "evolución de precios del crudo",
+          "text": "En la semana anterior, los futuros de Brent y WTI subieron más del 5% tras ataques a buques petroleros y a una refinería de Saudi Aramco."
+        },
+        {
+          "label": "opiniones de analistas",
+          "text": "Expertos como Bjarne Schieldrop de SEB Research advierten que los precios solo subirían significativamente si se interrumpe el flujo de crudo por el estrecho de Ormuz o Bab el-Mandeb."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "141a5e5c6d61",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy lunes 17 de agosto: los rastros del CJNG en Costa Rica, de las pintas de “El Mencho” a los decomisos de cocaína",
+      "summary": "El Cártel Jalisco Nueva Generación, liderado por Nemesio Oseguera Cervantes, \"El Mencho\", ha dejado rastros en Costa Rica, desde grafitis hasta grandes decomisos de cocaína que transitan hacia Europa.",
+      "category": "internacional",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/17/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-lunes-17-de-agosto-los-rastros-del-cjng-en-costa-rica-de-las-pintas-de-el-mencho-a-los-decomisos-de-cocaina/",
+      "published_at": "2026-08-17T12:44:13+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos y cifras sin usar vocabulario cargado ni favorecer a ninguna posición política.",
+      "focus_analysis": "El medio se centró en el aspecto de seguridad y narcotráfico, destacando los operativos y los hallazgos de autoridades, mientras dejó de lado el análisis de causas estructurales o las implicaciones políticas.",
+      "focus_tags": [
+        "narcotráfico",
+        "seguridad",
+        "CJNG"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del CJNG",
+          "text": "El Cártel Jalisco Nueva Generación es una de las organizaciones criminales más poderosas de México, fundado en 2010 por Nemesio Oseguera Cervantes, conocido como \"El Mencho\", y responsable de violencia y tráfico de drogas a nivel nacional e internacional."
+        },
+        {
+          "label": "Costa Rica como ruta de tránsito",
+          "text": "Costa Rica ha sido señalada en los últimos años como punto de paso para cargamentos de cocaína y otras drogas que se dirigen a Europa y Norteamérica, con varios decomisos de toneladas de estupefacientes en puertos como Moín."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Otros medios, como Xataka, han puesto énfasis en los efectos ambientales y de degradación del territorio vinculados a actividades ilícitas, aspecto que la nota de Infobae no menciona."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "eee4f5562253",
+      "title": "Aseguran 506 kilos de marihuana en paquetería de León; perro “Orkan” detecta el cargamento",
+      "summary": "Las Fuerzas de Seguridad Pública del Estado de Guanajuato incautaron 506 kilos de marihuana en una empresa de paquetería de la colonia Las Rosas en León, tras la detección del perro canino Órkan durante una inspección preventiva.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/aseguran-506-kilos-de-marihuana-en-paqueteria-de-leon-perro-orkan-detecta-el-cargamento/",
+      "published_at": "2026-08-17T12:45:46+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y cite, citando únicamente a autoridades oficiales sin usar vocabulario cargado ni presentar opiniones políticas.",
+      "focus_analysis": "El artículo se centra en la perspectiva de seguridad y la acción policial, resaltando el operativo y el uso del perro detector, mientras omite el impacto social del consumo, la discusión sobre la política de drogas o la posible reacción de la comunidad.",
+      "focus_tags": [
+        "seguridad pública",
+        "narcotráfico",
+        "operativo policial"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En los últimos años, Guanajuato ha registrado varios operativos de gran escala contra el narcotráfico, incluyendo incautaciones de cannabis y otras sustancias ilícitas en centros logísticos y de transporte."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "El uso de perros adiestrados para detectar drogas es una práctica extendida en México; en 2023, la Policía Federal reportó la captura de más de 1,200 kilos de marihuana gracias a unidades caninas."
+        },
+        {
+          "label": "Posturas de actores",
+          "text": "Autoridades de la Secretaría de Seguridad y Paz del estado manifestaron que el hallazgo será investigado por la Fiscalía General de la República, subrayando la importancia de la cadena de custodia y la ausencia de atribución de responsabilidad a remitentes."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "8e0ef8b6d262",
       "title": "Jared Kushner analiza el plan para Gaza con Netanyahu tras una reunión con Hamás",
@@ -832,216 +1042,6 @@
         {
           "label": "Incidencias recientes",
           "text": "En semanas anteriores, el Metro y el Metrobús han enfrentado interrupciones ocasionales por trabajos de mantenimiento y protestas de trabajadores, lo que ha generado la necesidad de informar rápidamente a los usuarios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "70b34933b6d7",
-      "title": "Renovar tu tablet es mucho más fácil con la última campaña de AliExpress: cinco modelos que se quedan a un precio fantástico",
-      "summary": "Xataka informa que la campaña \"Ahorros en aranceles\" de AliExpress, el marketplace chino, ofrece grandes descuentos en cinco modelos de tablets, con cupones y una rebaja adicional al pagar con PayPal.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/seleccion/renovar-tu-tablet-mucho-facil-ultima-campana-aliexpress-cinco-modelos-que-se-quedan-a-precio-fantastico",
-      "published_at": "2026-08-17T11:46:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir ofertas y características de productos sin usar lenguaje cargado ni incluir fuentes con sesgo político.",
-      "focus_analysis": "El artículo se centra en el ángulo económico‑consumidor, resaltando precios y descuentos, mientras omite análisis de la competencia del mercado o implicaciones de la política comercial china.",
-      "focus_tags": [
-        "descuentos",
-        "tablets",
-        "AliExpress"
-      ],
-      "context": [
-        {
-          "label": "Campañas habituales de AliExpress",
-          "text": "AliExpress suele lanzar promociones quincenales con cupones y descuentos en distintas categorías, una estrategia que busca impulsar ventas y captar usuarios internacionales."
-        },
-        {
-          "label": "Mercado de tablets en 2026",
-          "text": "El segmento de tablets en 2026 está dominado por marcas chinas como Xiaomi, Redmi y HONOR, que compiten con fabricantes occidentales ofreciendo variedad de precios y especificaciones."
-        },
-        {
-          "label": "Competencia con otras plataformas",
-          "text": "Plataformas como Amazon y eBay también presentan ofertas y cupones en sus secciones de electrónica, lo que genera una presión competitiva que beneficia a los consumidores."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "f225d92a1072",
-      "title": "El Apple Watch SE 3 a precio de outlet: así la mejor oferta  de su versión LTE hasta la fecha",
-      "summary": "El Apple Watch SE 3 de Apple, versión LTE de 44 mm con conectividad GPS+Cellular, está disponible en Amazon a 299 euros, su precio más bajo registrado hasta la fecha, lo que lo convierte en una oferta destacada para usuarios que buscan un smartwatch económico.",
-      "category": "tecnologia",
-      "source_name": "Applesfera",
-      "source_url": "https://www.applesfera.com/seleccion/apple-watch-se-3-a-precio-outlet-asi-mejor-oferta-su-version-lte-fecha",
-      "published_at": "2026-08-17T10:30:48+00:00",
-      "bias_score": 10,
-      "bias_reason": "El artículo utiliza un tono entusiasta y promueve la compra resaltando el bajo precio, menciona la comisión de afiliado y se centra en la oferta sin presentar críticas ni comparaciones técnicas, lo que indica un sesgo leve a favor del producto.",
-      "focus_analysis": "El medio se centra en el ángulo económico‑consumidor, destacando el ahorro y la conveniencia de la oferta, mientras deja de lado análisis técnicos profundos o el impacto ambiental de los dispositivos.",
-      "focus_tags": [
-        "oferta",
-        "smartwatch",
-        "Apple"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Apple suele lanzar varias generaciones de sus smartwatches con precios que varían según la configuración, y frecuentemente aparecen descuentos temporales en plataformas como Amazon."
-        },
-        {
-          "label": "comparación",
-          "text": "En el mismo periodo, otros fabricantes como Xiaomi han reducido significativamente el precio de sus smartwatches, como el Xiaomi Watch 2, que también alcanzó su mínimo histórico en Amazon, mostrando una tendencia general de rebajas en el mercado de wearables."
-        },
-        {
-          "label": "postura de terceros",
-          "text": "Otros medios de tecnología han señalado que estas ofertas pueden estar impulsadas por la competencia entre retailers y que los precios bajos a veces son temporales, invitando a los consumidores a comparar características antes de comprar."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "38c16d0a7c76",
-      "title": "La calidad del aire en la CDMX y Edomex este 17 de agosto",
-      "summary": "La Dirección de Monitoreo Atmosférico de la Ciudad de México comunicó que la calidad del aire en la CDMX y la zona conurbada del Estado de México es \"Buena\", lo que implica un riesgo bajo para la salud, y aconsejó a la población, en especial a los grupos vulnerables, que pueden realizar actividades al aire libre sin necesidad de protección contra rayos UV.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/17/la-calidad-del-aire-en-la-cdmx-y-edomex-este-17-de-agosto/",
-      "published_at": "2026-08-17T11:30:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar datos oficiales y recomendaciones sin usar lenguaje cargado ni citar opiniones, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el aspecto sanitario y ambiental del reporte de calidad del aire, resaltando riesgos y recomendaciones, mientras omite cualquier discusión política o crítica a la gestión pública.",
-      "focus_tags": [
-        "calidad del aire",
-        "salud pública",
-        "recomendaciones"
-      ],
-      "context": [
-        {
-          "label": "Historial de contaminación en la CDMX",
-          "text": "En los últimos años la Ciudad de México ha experimentado episodios de alta contaminación, especialmente durante la temporada invernal, cuando la inversión térmica y la congestión vehicular incrementan los niveles de partículas contaminantes."
-        },
-        {
-          "label": "Riesgos para la salud",
-          "text": "Los estudios epidemiológicos han vinculado la exposición prolongada a aire contaminado con problemas respiratorios, cardiovasculares y neurológicos, afectando especialmente a niños, adultos mayores y personas con enfermedades crónicas."
-        },
-        {
-          "label": "Medidas de control ambiental",
-          "text": "Las autoridades locales cuentan con instrumentos como el programa \"Doble Hoy No Circula\" y la \"Contingencia Ambiental\" que se activan cuando los índices de calidad del aire superan los niveles aceptables."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "73a6a3279cb6",
-      "title": "Se cierra la fecha 5 del Torneo Clausura: todo lo que hay que saber de los partidos de la jornada",
-      "summary": "La quinta fecha del Torneo Clausura de la Primera División argentina se jugará este lunes 17 de agosto de 2026 con cuatro encuentros clave que decidirán la lucha por la permanencia, la clasificación a copas internacionales y los liderazgos de zona.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
-      "published_at": "2026-08-17T11:05:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y equilibrado, cubriendo varios equipos y sus intereses sin usar términos cargados ni favorecer a ninguna entidad.",
-      "focus_analysis": "El artículo se centra en el aspecto deportivo y competitivo del campeonato, resaltando los partidos y sus implicaciones de clasificación, relegación y copa, sin abordar temas sociales, económicos o políticos.",
-      "focus_tags": [
-        "relevos",
-        "clasificación",
-        "copa internacional"
-      ],
-      "context": [
-        {
-          "label": "Formato del torneo",
-          "text": "El Torneo Clausura de la Primera División argentina se divide en dos zonas; los equipos compiten por puntos para definir los puestos de clasificación a la Copa Libertadores, la Copa Sudamericana y los descensos, que se determinan mediante un promedio de puntos de las últimas temporadas."
-        },
-        {
-          "label": "Situación de Estudiantes de Río Cuarto",
-          "text": "Estudiantes de Río Cuarto, que debutó en la Primera División en 2025, necesita ganar para mantenerse fuera de la zona de descenso, ya que ocupa los últimos lugares del promedio de puntos."
-        },
-        {
-          "label": "Objetivos de Vélez Sarsfield",
-          "text": "Vélez Sarsfield, liderando la zona A, busca consolidar su posición entre los primeros puestos para asegurar un cupo en la Copa Libertadores 2027, mientras su rival Defensa y Justicia persigue acercarse en la tabla."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "1b8a528dc8f3",
-      "title": "Claude ya marca todo el texto generado con una marca de agua y hay gente buscando la forma de quitarla: «Si se puede detectar, se puede eliminar»",
-      "summary": "Claude, el modelo de IA de Anthropic, ahora inserta una marca de agua invisible en todo el texto que genera, y ya han surgido proyectos que intentan eliminar esa señal mediante reescritura o detección de patrones estadísticos.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/tecnologia/claude-ya-marca-todo-el-texto-generado-con-una-marca-de-agua-y-ya-hay-gente-buscando-la-forma-de-quitarla-si-se-puede-detectar-se-puede-eliminar/",
-      "published_at": "2026-08-17T11:11:52+00:00",
-      "bias_score": -15,
-      "bias_reason": "El artículo emplea términos críticos como \"acusan\" y \"no es fiable\" para describir la marca de agua y destaca la dificultad de eliminarla, sin incluir declaraciones oficiales de Anthropic, lo que le otorga un tono ligeramente desfavorable.",
-      "focus_analysis": "El medio se centra en los aspectos técnicos y de seguridad de la marca de agua y los retos para detectarla o eliminarla, dejando de lado la perspectiva de los usuarios finales o el impacto comercial del mecanismo.",
-      "focus_tags": [
-        "marca de agua IA",
-        "detección de watermark",
-        "seguridad de contenido"
-      ],
-      "context": [
-        {
-          "label": "antecedentes de Claude",
-          "text": "Claude es el modelo de lenguaje grande desarrollado por Anthropic, una empresa de IA con sede en EE. UU., conocida por priorizar la seguridad y la alineación de sus sistemas."
-        },
-        {
-          "label": "métodos de marca de agua previos",
-          "text": "Otros proveedores, como OpenAI con su herramienta DetectGPT y Google con SynthID Text, ya habían introducido técnicas de marca de agua para identificar contenido generado por IA."
-        },
-        {
-          "label": "debate de la industria",
-          "text": "Existe una discusión amplia en el sector tecnológico sobre la necesidad de atribuir y detectar contenido de IA, con argumentos a favor de la transparencia y contra la posible censura o manipulación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "8825a2e26138",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno anuncia que se habilitan espacios para albergar a 1.500 migrantes más",
-      "summary": "El Gobierno de España, a través de la ministra de Inclusión, Seguridad Social y Migraciones Elma Saiz, anunció la habilitación de cuatro centros temporales en Ceuta para acoger a 1.500 migrantes que ingresaron en la oleada de finales de julio, mientras el presidente de la ciudad autonoma, Juan Jesús Vivas, y la vicesecretaria del PP, Cuca Gamarra, critican la falta de respuesta adecuada y plantean medidas de devolución a Marruecos.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-17/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-17T11:30:00+00:00",
-      "bias_score": -15,
-      "bias_reason": "El texto emplea un lenguaje que subraya la «crisis migratoria» y la «falta de respuesta» del Gobierno, incluye críticas de la oposición (PP) y destaca la ausencia del ministro Albares, lo que refleja una ligera inclinación hacia la perspectiva de izquierda que tiende a cuestionar la gestión gubernamental.",
-      "focus_analysis": "El artículo se centra en la respuesta institucional y política a la llegada masiva de migrantes a Ceuta, resaltando decisiones gubernamentales y debates parlamentarios, mientras omite el relato personal y humanitario de los migrantes afectados.",
-      "focus_tags": [
-        "crisis migratoria",
-        "respuesta institucional",
-        "política de frontera"
-      ],
-      "context": [
-        {
-          "label": "Historia de Ceuta",
-          "text": "Ceuta es una ciudad autónoma española en el norte de África que ha sido punto de entrada frecuente de migrantes procedentes de Marruecos, con episodios de gran afluencia que han generado tensiones políticas y de seguridad desde hace años."
-        },
-        {
-          "label": "Política migratoria española",
-          "text": "España cuenta con un marco legal que regula la entrada y la devolución de migrantes irregulares, incluyendo la Ley de Seguridad Nacional y la normativa de extranjería, que el Gobierno ha señalado como base para sus medidas en Ceuta."
-        },
-        {
-          "label": "Tensiones políticas sobre la migración",
-          "text": "El Partido Popular ha criticado la gestión del Gobierno central en Ceuta y ha presentado una proposición no de ley con 11 puntos, entre ellos la devolución inmediata de los menores a Marruecos, reflejando la disputa entre la oposición y el ejecutivo sobre la política migratoria."
         }
       ],
       "confidence": "alta",
