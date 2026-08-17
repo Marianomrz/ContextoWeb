@@ -1,108 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T17:20:50.921731+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Debido a la falta de veracidad y de fuentes fiables, el artículo no cumple con los estándares editoriales y no debería publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:21:00.443795+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura neutral y bien respaldada del hecho noticioso.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:21:08.595576+00:00",
-      "title": "UNAM reporta asistencia de 4 mil 200 jóvenes al primer examen de control en CDMX; representa el 80% ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de precisión, objetividad y actualidad, aunque podría enriquecer la diversidad de fuentes para reforzar el contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:21:20.409010+00:00",
-      "title": "En un partido frenético, Las Leonas vencieron 3-2 a Alemania y lograron un triunfo clave en el Mundi",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado para una noticia deportiva reciente, pero la falta de verificabilidad y el sesgo nacionalista limitan su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:21:26.916935+00:00",
-      "title": "Peso mexicano se aprecia marginalmente frente al dólar y busca la línea de 17 unidades",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, objetiva y bien estructurada sobre un hecho económico reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:21:34.489743+00:00",
-      "title": "De arte, dinero y todo lo demás",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, ofreciendo una pieza cultural veraz, bien contextualizada y estructurada.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T17:21:47.107301+00:00",
       "title": "El avión eléctrico más grande del mundo ya ha realizado su primer vuelo: solo ha gastado cinco dólar",
       "kind": "noticia",
@@ -3380,6 +3278,102 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría reforzar la inclusión de fuentes contrastantes para una cobertura más equilibrada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:46:39.424904+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
+    },
+    {
+      "at": "2026-08-17T21:46:45.988384+00:00",
+      "title": "5 flores que despiertan por la noche y llenan tu hogar de un aroma inigualable",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en general con los estándares editoriales, aunque podría mejorar la verificación de datos y la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:46:53.411824+00:00",
+      "title": "BMV pierde por tercera sesión consecutiva y ya acumula una caída marginal en el año",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque la ausencia de citas precisas reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:47:00.443674+00:00",
+      "title": "A los 16 años empezó a entrenar para recuperar su cuerpo: se convirtió en campeona invicta y sueña c",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, ofreciendo una cobertura adecuada y actual del tema.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:47:08.611944+00:00",
+      "title": "Entre canciones sobre amor propio, sueños y superación, Carla Merchant llevó a la Sala Pepsi Black",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es informativo y reciente, pero la falta de fuentes verificables y de atribuciones claras reduce su credibilidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:47:17.011444+00:00",
+      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple bien con los estándares de objetividad y actualidad, aunque podría reforzar la veracidad citando fuentes oficiales o múltiples referencias.",
       "error": null
     }
   ]
