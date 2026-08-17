@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-17T00:01:56.553810+00:00",
+  "generated_at": "2026-08-17T00:21:20.107820+00:00",
   "articles": [
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI-Code-1.1-Flash, una IA para programar integrada en GitHub Copilot que, según la compañía, genera código de mayor calidad, es un 25 % más rápida y cuesta una cuarta parte que su predecesor, posicionándose como una alternativa más eficiente a Claude Code y otros modelos de desarrollo de software.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea superlativos y destaca solo los beneficios y métricas favorables de la IA de Microsoft, sin mencionar posibles limitaciones ni críticas externas, lo que indica una ligera inclinación pro‑corporativa.",
+      "focus_analysis": "El artículo se centra en los aspectos técnicos y económicos del nuevo modelo, resaltando velocidad, costo y mejoras de calidad, mientras omite la discusión sobre implicaciones éticas, privacidad de datos y la competencia del mercado de IA.",
+      "focus_tags": [
+        "eficiencia",
+        "costo",
+        "desarrollo de software"
+      ],
+      "context": [
+        {
+          "label": "Modelo anterior de Microsoft",
+          "text": "Antes de MAI-Code-1.1-Flash, Microsoft había introducido otro modelo de IA para programación durante la Build 2026, que ahora es reemplazado por la versión más ligera y eficiente."
+        },
+        {
+          "label": "Competidores en el mercado",
+          "text": "Claude Code de Anthropic, Codex de OpenAI y otros modelos como GPT‑5.6 Luna representan la principal competencia, ofreciendo mayor capacidad de contexto y multimodalidad aunque con mayor consumo de tokens."
+        },
+        {
+          "label": "Tendencia de IA eficiente",
+          "text": "La industria está orientándose a modelos de lenguaje que reduzcan el uso de tokens y el coste computacional, una estrategia que también adoptan empresas chinas para competir con OpenAI y Anthropic."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "a29a5deba6df",
+      "title": "Colombia, una semana después del terremoto: casi 300 muertos y un largo camino de dolor y recuperación",
+      "summary": "Una semana después del sismo de magnitud 7,4 que sacudió el oeste de Colombia, el país registra cerca de 300 fallecidos, más de 140 desaparecidos y cientos de miles de damnificados, mientras el gobierno y equipos de rescate continúan retirando escombros y brindando asistencia a las comunidades afectadas.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/am%C3%A9rica-latina/20260816-colombia-una-semana-despu%C3%A9s-del-terremoto-casi-300-muertos-y-un-largo-camino-de-dolor-y-recuperaci%C3%B3n",
+      "published_at": "2026-08-16T23:40:04+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y objetivo, se basa en datos oficiales de la UNGRD y cita a autoridades locales y extranjeras sin usar vocabulario cargado ni favorecer a ningún actor político.",
+      "focus_analysis": "El medio se centra en la dimensión humana y operativa del desastre, resaltando víctimas, labores de rescate y daños materiales; deja de lado el análisis económico de la reconstrucción y la discusión política sobre la gestión del gobierno.",
+      "focus_tags": [
+        "humanitarian",
+        "rescue operations",
+        "infrastructure damage"
+      ],
+      "context": [
+        {
+          "label": "antecedentes síales",
+          "text": "Colombia ha enfrentado terremotos de gran magnitud en el pasado, como el de Armenia en 1999, que también provocó cientos de muertos y una larga fase de reconstrucción."
+        },
+        {
+          "label": "fuentes oficiales",
+          "text": "La Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) es la principal fuente de cifras sobre fallecidos, desaparecidos y damnificados, y ha publicado los últimos balances a la semana del sismo."
+        },
+        {
+          "label": "enfoques de otros medios",
+          "text": "Mientras El Economista se limitó a presentar los números oficiales, BBC Mundo destacó la historia personal de Daniela Largo, una mujer rescatada que falleció posteriormente, y Expansión centró su cobertura en la solicitud del presidente colombiano a EE. UU. para suspender aranceles durante la fase de reconstrucción."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "0e746197ee1d",
+      "title": "CDMX activa Alerta Amarilla por lluvias y granizo en 7 alcaldías",
+      "summary": "La Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México activó la alerta amarilla para siete alcaldías, advirtiendo de lluvias intensas y posible granizo entre las 16:50 y las 21:00 del domingo 16 de agosto.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/estados/cdmx-activa-alerta-amarilla-lluvias-granizo-7-alcaldias-20260816-828517.html",
+      "published_at": "2026-08-16T23:58:23+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje objetivo, se basa exclusivamente en información oficial de Protección Civil y no incluye opiniones ni marcos políticos, lo que indica una cobertura centrista.",
+      "focus_analysis": "El medio se centró en el aspecto institucional y de seguridad pública de la alerta, dejando de lado el impacto económico o las experiencias personales de los residentes.",
+      "focus_tags": [
+        "alerta amarilla",
+        "lluvias CDMX",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "sistema de alertas",
+          "text": "En la Ciudad de México, la Protección Civil emplea cuatro niveles de alerta — verde, amarilla, naranja y roja — para informar a la población sobre riesgos climáticos, activando la alerta amarilla cuando se anticipan lluvias intensas y posible granizo."
+        },
+        {
+          "label": "precedentes recientes",
+          "text": "En años anteriores, alertas amarillas en la capital han generado inundaciones y problemas de movilidad, lo que ha llevado a recomendar retirar basura de los desagües y evitar cruzar calles con corrientes de agua."
+        },
+        {
+          "label": "cobertura de El Universal",
+          "text": "Otro medio, El Universal, también reportó la alerta amarilla en siete alcaldías, enfatizando la posibilidad de granizo y citando pronósticos de lluvia entre 15 y 29 milímetros."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "cdf990d6b70f",
+      "title": "La selección argentina le ganó 2-1 a Brasil en el suplementario y se quedó con el Sudamericano Sub 17 de futsal: el alocado festejo",
+      "summary": "La selección argentina Sub 17 de futsal se impuso 2‑1 a Brasil en tiempo suplementario y ganó el Sudamericano Sub 17 en Luque, Paraguay, celebrando con un emotivo festejo.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/la-seleccion-argentina-le-gano-2-1-a-brasil-en-el-suplementario-y-se-quedo-con-el-sudamericano-sub-17-de-futsal-el-alocado-festejo/",
+      "published_at": "2026-08-17T00:12:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir el resultado y la celebración sin emplear un cargado ni citar fuentes con inclinación política, manteniendo un tono informativo y deportivo.",
+      "focus_analysis": "El medio enfatiza el aspecto emotivo y la tradición de dominio de Argentina en el torneo, dejando de lado un análisis táctico profundo o la repercusión del evento a nivel regional.",
+      "focus_tags": [
+        "futsal juvenil",
+        "victoria Argentina",
+        "Sudamericano Sub 17"
+      ],
+      "context": [
+        {
+          "label": "historial",
+          "text": "Argentina ha ganado el Sudamericano Sub 17 de futsal en tres ediciones consecutivas (2022, 2024 y 2026), siempre derrotando a Brasil en la final."
+        },
+        {
+          "label": "rivalidad",
+          "text": "Brasil es históricamente una potencia del futsal sudamericano y ha sido el principal rival de Argentina en los últimos torneos, con encuentros muy reñidos."
+        },
+        {
+          "label": "torneo",
+          "text": "El Sudamericano Sub 17 de futsal, organizado por la CONMEBOL desde 2016, sirve como plataforma de desarrollo para jóvenes talentos y como clasificatorio para el Mundial de futsal juvenil."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "9ba1c7c2fafd",
+      "title": "Muerte del hijo de Succar Kuri recuerda caso de pederastia y pornografía infantil; el escándalo que marcó al empresario",
+      "summary": "La muerte de Jonathan Succar Pita, hijo del empresario libanés‑nacionalizado mexicano Jean Succar Kuri, vuelve a poner en el foco la red de pederastia y pornografía infantil que el padre encabezó en Cancún. La Fiscalía de Quintana Roo abrió una investigación por homicidio culposo tras el accidente que lo dejó sin vida en la zona hotelera.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/muerte-del-hijo-de-succar-kuri-recuerda-caso-de-pederastia-y-pornografia-infantil-el-escandalo-que-marco-al-empresario/",
+      "published_at": "2026-08-17T00:14:16+00:00",
+      "bias_score": -12,
+      "bias_reason": "El texto emplea vocabulario cargado como \"escándalo\" y \"macrcriminal\", enfatiza la crítica a la impunidad y menciona a la periodista Lydia Cacho, lo que indica una ligera inclinación hacia una visión crítica del poder institucional.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y criminal del caso, resaltando la red de pederastia y la respuesta judicial, mientras omite la perspectiva humana de la familia y el debate sobre políticas de protección infantil.",
+      "focus_tags": [
+        "escándalo criminal",
+        "pederastia",
+        "justicia mexicana"
+      ],
+      "context": [
+        {
+          "label": "Exposición de Lydia Cacho",
+          "text": "En 2005 la periodista Lydia Cacho reveló en su libro \"Los demonios del Edén\" una red de explotación sexual infantil liderada por Jean Succar Kuri, lo que provocó una demanda por difamación y su detención arbitraria bajo la administración del entonces gobernador de Puebla, Mario Marín."
+        },
+        {
+          "label": "Sentencia y extradición",
+          "text": "Tras ser extraditado en 2006, Succar Kuri fue condenado por delitos de pornografía infantil y corrupción de menores, recibiendo inicialmente 13 años de prisión, luego aumentados a más de 94 años tras varias apelaciones."
+        },
+        {
+          "label": "Críticas de organizaciones de derechos humanos",
+          "text": "Organizaciones como Artículo 19 y Tejiendo Redes Infancia han denunciado la falta de medidas de seguridad en los penales donde estuvo recluido Succar Kuri, señalando la necesidad de reforzar la protección de la niñez frente a la trata y la explotación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "c600e0947c97",
+      "title": "Inhabilitan a 41 funcionarios y les imponen multas por más de 22 millones",
+      "summary": "El Tribunal Federal de Justicia Administrativa y la Secretaría Anticorrupción y Buen Gobierno sancionaron a 41 funcionarios de distintas dependencias mexicanas, imponiéndoles multas que superan los 22.4 millones de pesos e inhabilitaciones de hasta diez años por faltas administrativas graves y no graves.",
+      "category": "politica",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/nacional/2026/08/16/inhabilitan-a-41-funcionarios-y-les-imponen-multas-por-mas-de-22-millones-1833027.html",
+      "published_at": "2026-08-17T00:19:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y neutral, sin vocabulario cargado ni juicios de valor, y se limita a describir los hechos y las sanciones sin enfatizar una agenda política.",
+      "focus_analysis": "El medio se centró en el ángulo institucional y de rendición de cuentas, detallando las sanciones impuestas a los funcionarios; no se exploró el impacto económico o social más amplio de la corrupción ni se incluyeron voces de los involucrados.",
+      "focus_tags": [
+        "corrupción administrativa",
+        "sanciones públicas",
+        "transparencia gubernamental"
+      ],
+      "context": [
+        {
+          "label": "Marco institucional",
+          "text": "En México, la Secretaría Anticorrupción y Buen Gobierno (SABG) y el Tribunal Federal de Justicia Administrativa (TFJA) son los organismos encargados de investigar y sancionar irregularidades administrativas en el sector público."
+        },
+        {
+          "label": "Antecedentes",
+          "text": "En los últimos años, el gobierno mexicano ha intensificado la lucha contra la corrupción, con casos de alto perfil como la destitución de funcionarios de la CFE y de secretarías federales en 2023 y 2024."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Otros medios, como Reforma, también reportaron el mismo hecho, resaltando el número de funcionarios sancionados y el monto total de las multas, lo que muestra una cobertura mayormente factual y sin sesgo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "c8f298c0c247",
       "title": "La lupa sobre el penal a Ángel Correa que le permitió a River Plate cerrar el triunfo ante Argentinos",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "41f2053e3f3a",
-      "title": "Así puedes recuperar tu número si lo suspendieron por no vincularlo",
-      "summary": "La Comisión Reguladora de Telecomunicaciones (CRT) de México estableció un calendario escalonado para que los usuarios vinculen sus líneas telefónicas según el último dígito del número; quienes no lo hagan antes del plazo pueden ver suspendido el servicio, pero pueden recuperarlo a través del portal o la aplicación del operador, o de forma presencial, sin necesidad de saldo.",
-      "category": "sociedad",
-      "source_name": "El Informador (GDL)",
-      "source_url": "https://www.informador.mx/mexico/registro-de-lineas-telefonicas-asi-puedes-recuperar-tu-numero-si-lo-suspendieron-por-no-vincularlo-20260816-0071.html",
-      "published_at": "2026-08-16T23:29:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es meramente informativo, sin carga ideológica ni selección de fuentes que favorezcan una postura política; se limita a describir el procedimiento y los plazos establecidos por la autoridad reguladora.",
-      "focus_analysis": "El medio se centra en el aspecto práctico y regulatorio del proceso de vinculación de líneas telefónicas, dejando fuera cualquier discusión sobre la política de telecomunicaciones o su impacto económico.",
-      "focus_tags": [
-        "telecomunicaciones",
-        "guía al consumidor",
-        "regulación"
-      ],
-      "context": [
-        {
-          "label": "Calendario de vinculación",
-          "text": "La CRT asignó fechas límite según el último dígito del número: los que terminan en 0 deben vincularse antes del 15 de agosto, los que terminan en 1 antes del 31 de agosto, y así sucesivamente hasta el 31 de diciembre para los que terminan en 9."
-        },
-        {
-          "label": "Consecuencias de la suspensión",
-          "text": "Al suspenderse la línea, el número pierde llamadas, mensajes y datos móviles, pero mantiene la capacidad de recibir alertas sísmicas y llamadas al 911, por lo que el número no desaparece."
-        },
-        {
-          "label": "Procedimiento de recuperación",
-          "text": "Para reactivar el servicio, el usuario debe ingresar su número en el portal o aplicación del operador, validar su identidad con una identificación oficial y, si es necesario, usar la cámara del teléfono; también puede hacerlo presencialmente en un centro de atención al cliente."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El ensayo de Letras Libres explora el temor histórico a ser enterrado vivo, analizando referencias literarias como Edgar Allan Poe y el tratado de Benito Jerónimo Feijoo, y describiendo cómo esta angustia ha sido representada en la cultura occidental.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la descripción literaria e histórica sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniendo un tono neutral.",
-      "focus_analysis": "El medio elige un ángulo literario‑histórico, resaltando el miedo a la sepultura prematura a través de obras y escritos clásicos, mientras omite perspectivas científicas o contemporáneas sobre el tema.",
-      "focus_tags": [
-        "temor histórico",
-        "literatura gótica",
-        "cultura occidental"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "Desde el siglo XVIII, el temor a ser enterrado vivo provocó la creación de ataúdes de seguridad y la difusión de relatos de supuestos casos reales en Europa."
-        },
-        {
-          "label": "Precedente literario",
-          "text": "Edgar Allan Poe popularizó el tema en su cuento “El entierro prematuro”, que a su vez inspiró a otros autores a explorar la angustia de la muerte atrapada."
-        },
-        {
-          "label": "Perspectiva cultural española",
-          "text": "El ilustrado español Benito Jerónimo Feijoo escribió sobre el miedo a la sepultura prematura, advirtiendo sobre los riesgos de enterrar a personas vivas y proponiendo protocolos de observación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "00574f39492a",
-      "title": "Mueren tres personas, una de ellas menor, en un tiroteo en Isla Cristina (Huelva)",
-      "summary": "Un tiroteo perpetrado por dos encapuchados en una motocicleta en la barriada de El Rocío, Isla Cristina (Huelva), España, dejó al menos tres muertos —una mujer embarazada, su hijo y la madre de la mujer— y una cuarta persona gravemente herida, mientras la Guardia Civil investiga un posible ajuste de cuentas por drogas.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-16/mueren-tres-personas-una-de-ellas-menor-en-un-tiroteo-en-isla-cristina-huelva.html",
-      "published_at": "2026-08-16T22:28:55+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono informativo y neutral, citando fuentes oficiales como Canal Sur, EFE y Huelva Información, sin usar lenguaje cargado ni presentar opiniones políticas.",
-      "focus_analysis": "El medio se centra en el aspecto de seguridad y criminalidad del hecho, resaltando la hipótesis de motivación vinculada al narcotráfico y la intervención de la Guardia Civil, mientras omite el impacto social en la comunidad y el debate sobre políticas de drogas.",
-      "focus_tags": [
-        "violencia",
-        "crimen",
-        "andalucia"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de violencia vinculada al narcotráfico en Andalucía",
-          "text": "En los últimos años, la región de Andalucía ha registrado varios episodios de violencia armada relacionados con el tráfico de drogas, lo que ha llevado a un aumento de la presencia policial y a operativos contra bandas criminales."
-        },
-        {
-          "label": "Incidente similar en El Torrejón de Huelva (2024)",
-          "text": "En septiembre de 2024, otro tiroteo en la barriada de El Torrejón de Huelva dejó una víctima mortal y dos heridos graves, y fue atribuido a una disputa entre grupos delictivos, reforzando la percepción de una ola de violencia en la zona."
-        },
-        {
-          "label": "Rol de la Guardia Civil en la investigación de tiroteos",
-          "text": "La Guardia Civil, como fuerza de seguridad del Estado, asume la investigación de este tipo de hechos, buscando identificar a los presuntos responsables y esclarecer los motivos, a menudo vinculados al crimen organizado."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "e334e30f7207",
-      "title": "Las 15 mejores series juveniles dramáticas, de acuerdo con \"The Hollywood Reporter\"",
-      "summary": "El Universal publica una lista de las 15 series dramáticas juveniles mejor valoradas por la revista estadounidense The Hollywood Reporter, destacando títulos como The O.C., Glee y Beverly Hills, 90210.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/las-15-mejores-series-juveniles-dramaticas-de-acuerdo-con-the-hollywood-reporter/",
-      "published_at": "2026-08-16T23:15:59+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la selección de series sin usar lenguaje cargado ni presentar opiniones políticas; la cobertura es informativa y centrada en el entretenimiento.",
-      "focus_analysis": "El medio elige un ángulo cultural‑entretenimiento, resaltando la relevancia histórica y temática de las series juveniles, mientras omite análisis de audiencia o impacto social más amplio.",
-      "focus_tags": [
-        "series juveniles",
-        "entretenimiento",
-        "cultura pop"
-      ],
-      "context": [
-        {
-          "label": "Fuente de la lista",
-          "text": "The Hollywood Reporter es una publicación especializada en cine y televisión que elabora rankings y listas basados en la opinión de sus críticos."
-        },
-        {
-          "label": "Historia del género",
-          "text": "Las series dramáticas para adolescentes ganaron popularidad en los años 90 con programas como Beverly Hills, 90210, que sentaron las bases para posteriores éxitos del género."
-        },
-        {
-          "label": "Perfil editorial de El Universal",
-          "text": "El Universal suele incluir se de entretenimiento y listas de ranking, combinando contenido informativo con material patrocinado para su audiencia mexicana."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "5c5430edfd6c",
-      "title": "Rosario Central visita a Barracas Central por la quinta fecha del Torneo Clausura: partido demorado por falta de iluminación",
-      "summary": "El club argentino Rosario Central jugará contra Barracas Central en el estadio Claudio Fabián Tapia por la quinta fecha del Torneo Clausura, aunque el encuentro se retrasó por problemas de iluminación en el recinto.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/16/continua-la-fecha-5-del-torneo-clausura-la-agenda-con-los-partidos-de-la-jornada/",
-      "published_at": "2026-08-16T23:17:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono meramente informativo, describiendo hechos del partido y su contexto sin usar lenguaje cargado ni favorecer a ninguna de las partes.",
-      "focus_analysis": "El artículo se centra en la previa del encuentro y la cuestión logística de la falta de iluminación, dejando de lado análisis sobre la situación financiera de los clubes o la reacción de sus hinchadas.",
-      "focus_tags": [
-        "fútbol",
-        "Torneo Clausura",
-        "iluminación"
-      ],
-      "context": [
-        {
-          "label": "Posiciones de los equipos",
-          "text": "En la zona B del Torneo Clausura, Barracas Central ocupa el puesto segundo con nueve puntos, mientras que Rosario Central, conocido como \"el Canalla\", se sitúa en la cuarta posición con siete puntos tras cuatro partidos."
-        },
-        {
-          "label": "Otros compromisos de la jornada",
-          "text": "La misma fecha incluye el duelo estelar entre River Plate y Argentinos Juniors, así como los partidos Sarmiento‑Huracán y Central Córdoba‑Instituto de Córdoba, que también forman parte del calendario del Torneo Clausura 2026."
-        },
-        {
-          "label": "Problemas de infraestructura en el fútbol argentino",
-          "text": "Los retrasos por fallas de iluminación no son inéditos en la Primera División argentina; en temporadas anteriores varios clubes han tenido que postergar partidos cuando los sistemas de luz de sus estadios no cumplen con los requisitos de la AFA."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "07d3770e6153",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 16 de agosto: aseguran más de media tonelada de marihuana en paquetería de Guanajuato",
-      "summary": "Las Fuerzas de Seguridad Pública del Estado de Guanajuato, a través de su unidad canina K9, incautaron más de media tonelada de marihuana en una empresa de paquetería de León, tras que el perro “Orkan” detectara 39 cajas con la droga.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-16-de-agosto-marina-realiza-dos-decomisos-millonarios-de-droga-en-cdmx-y-altamar/",
-      "published_at": "2026-08-16T23:18:48+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y descubrados sin usar adjetivos cargados ni citar fuentes con sesgo evidente, manteniendo un tono neutral y descriptivo.",
-      "focus_analysis": "El artículo se centra en el aspecto de seguridad y criminalidad, resaltando la operación de incautación y el uso de perros detectores, mientras omite el contexto socio‑económico del narcotráfico en la región.",
-      "focus_tags": [
-        "seguridad",
-        "narcotráfico",
-        "Guanajuato"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de incautaciones",
-          "text": "Guanajuato ha sido identificado por autoridades federales como un corredor importante para el tráfico de marihuana, registrándose varias incautaciones de gran escala en los últimos años."
-        },
-        {
-          "label": "Uso de unidades caninas K9",
-          "text": "Las unidades caninas K9 de la FSPE son frecuentemente empleadas para detectar drogas y contrabando en puntos logísticos, gracias a su alta capacidad de olfato y entrenamiento especializado."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Periódico AM, medio local de León, destacó la ubicación exacta de la empresa de paquetería y el papel del perro “Orkan”, subrayando la eficiencia de la intervención policial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
