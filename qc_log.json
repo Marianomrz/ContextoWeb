@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T01:00:56.602206+00:00",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy domingo 16 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien contrastada, objetiva, actual y estructurada de forma adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:01:09.873802+00:00",
-      "title": "Economía de Japón crece 0.3% y queda por debajo de las expectativas",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares editoriales y es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:01:18.173965+00:00",
-      "title": "Abre Ejército de EU mercado de drones a la Defensa",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita más verificación y fuentes contrastantes para alcanzar altos estándares de calidad informativa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:01:29.258119+00:00",
-      "title": "Rosario Central le gana a Barracas Central por la quinta fecha del Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, presentando la información de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:01:48.798674+00:00",
-      "title": "Hamás pide que se \"obligue\" a Israel aceptar plan para Gaza",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares de calidad editorial, aunque podría reforzarse con fuentes adicionales que representen la perspectiva israelí.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:02:02.814221+00:00",
-      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura de pirámide invertida, pero su falta de fuentes contrastantes y el tono promocional disminuyen la objetividad y la calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:02:16.103408+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares editoriales; solo se podría reforzar la variedad de fuentes para una mayor profundidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:02:34.621629+00:00",
-      "title": "Pueblos originarios aprueban construcción del Cablebús en Milpa Alta",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero necesita mayor diversidad de fuentes para cumplir con el contraste requerido en temas políticos con actores contrapuestos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:20:39.364696+00:00",
-      "title": "‘Si me quitan la visa me vale madre’: Explota diputado de Morena contra EU en Guanajuato",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de actualidad y estructura, pero la precisión de algunos datos y la falta de fuentes contrastantes limitan su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T01:20:43.695666+00:00",
-      "title": "Nacer Global y UIF capacitarán contra lavado de dinero",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere reforzar la verificación con fuentes o citas explícitas.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T01:20:49.409476+00:00",
       "title": "Colombia remueve escombros, tras terremoto; esperanzas de hallar sobrevivientes, al mínimo",
       "kind": "noticia",
@@ -3386,6 +3216,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, y está bien estructurado y actualizado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:00:49.269346+00:00",
+      "title": "Cuando el vapor del café revela la magia de la literatura latinoamericana",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 6,
+        "voz_autor": 8,
+        "profundidad_tematica": 7
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una voz atractiva y una reflexión interesante, aunque podría fortalecer su estructura narrativa para mayor cohesión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:00:52.112721+00:00",
+      "title": "Jornada Nacional de Reforestación, una responsabilidad de todos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es actual y bien estructurado, pero la falta de fuentes verificadas y el sesgo elogioso limitan su precisión y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:00:59.132759+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial: es preciso, bien contrastado, objetivo, actual y estructurado según la pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:01:10.349040+00:00",
+      "title": "Hayden Panettiere: las pérdidas y batallas que enfrentó lejos de los reflectores",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no cumple con los estándares de veracidad y fiabilidad, por lo que no es apto para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:01:19.601529+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo falla gravemente en veracidad y fiabilidad de fuentes, pese a su estructura y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:01:25.463035+00:00",
+      "title": "El íntimo recuerdo de Santiago Lange a 10 años del oro olímpico con Cecilia Carranza: “No lo hubiéra",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se podría enriquecer con fuentes adicionales para mayor robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:01:33.546622+00:00",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y estructurado, pero carece de verificación externa y de una perspectiva equilibrada, lo que reduce su puntuación global de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:01:47.074926+00:00",
+      "title": "Nada tan angustioso en la tierra",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial para una pieza cultural, aunque podría mejorar la variedad de fuentes para reforzar el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:01:58.177876+00:00",
+      "title": "Fracking requiere contratos más ágiles con Pemex: expertos",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la verificación de datos y la inclusión de perspectivas ambientales para mayor equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T06:02:07.102823+00:00",
+      "title": "Quién fue el tercer eliminado de La Casa de los Famosos México 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información objetiva y actual, con fuentes fiables y una estructura adecuada para una noticia de entretenimiento.",
       "error": null
     }
   ]
