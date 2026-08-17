@@ -1,6 +1,213 @@
 {
-  "generated_at": "2026-08-17T05:16:24.306315+00:00",
+  "generated_at": "2026-08-17T05:21:13.962533+00:00",
   "articles": [
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El artículo de David Toscana publicado en Letras Libres explora el temor histórico a ser enterrado vivo en Occidente, analizando obras de Edgar Allan Poe, el erudito español Benito Jerónimo Feijoo y otras referencias literarias que describen esta angustia física y mental.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en una exposición literaria e histórica sin usar lenguaje cargado ni citar fuentes con agenda política, manteniéndose neutral.",
+      "focus_analysis": "El medio eligió un ángulo cultural‑literario, resaltando la representación del miedo a la sepultura prematura en la literatura; omitió cualquier enfoque científico o de salud pública contemporáneo.",
+      "focus_tags": [
+        "literatura",
+        "historia",
+        "miedo"
+      ],
+      "context": [
+        {
+          "label": "Miedo histórico a la sepultura prematura",
+          "text": "Desde la época barroca, la posibilidad de ser enterrado con vida generó temor en Europa, lo que llevó a la creación de dispositivos de seguridad y a debates filosóficos sobre la muerte."
+        },
+        {
+          "label": "Edgar Allan Poe y el terror literario",
+          "text": "Poe, en su cuento \"El entierro prematuro\", describió la angustia de estar atrapado bajo tierra, consolidando el tema como un clásico del terror gótico."
+        },
+        {
+          "label": "Benito Jerónimo Feijoo y la reflexión iluminista",
+          "text": "El monje y escritor español Feijoo abordó en sus cartas la práctica de enterrar vivos, criticando la falta de criterios médicos y proponiendo esperas antes de la sepultura."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI-Code-1.1-Flash, una IA para programar integrada en GitHub Copilot que, según la compañía, genera código más rápido y a un costo menor que Claude Code y otros modelos, aunque reconoce que en calidad de contexto queda detrás de algunos competidores.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto reproduce mayormente la narrativa promocional de Microsoft, resaltando sus ventajas y citando sus propios benchmarks, aunque menciona algunas limitaciones, lo que indica una ligera inclinación positiva pero sin sesgo político evidente.",
+      "focus_analysis": "El artículo se centra en el desempeño técnico y la eficiencia de la nueva IA para desarrolladores, dejando de lado el impacto humano o social de la automatización del código.",
+      "focus_tags": [
+        "eficiencia IA",
+        "programación",
+        "GitHub Copilot"
+      ],
+      "context": [
+        {
+          "label": "modelo anterior de Microsoft",
+          "text": "Antes de MAI-Code-1.1-Flash, Microsoft ofrecía una versión de IA para Copilot lanzada en la Build 2026, que ahora es reemplazada por una arquitectura más pequeña y eficiente."
+        },
+        {
+          "label": "competencia en generación de código",
+          "text": "El mercado de IA para desarrollo de software está dominado por modelos como OpenAI Codex, Anthropic Claude y los de Google, que compiten en calidad de contexto y capacidad multimodal."
+        },
+        {
+          "label": "preocupaciones por datos y origen",
+          "text": "Microsoft destaca que entrenó MAI-Code-1.1-Flash con datos propios y trazables para evitar dependencias de terceros, una práctica que contrasta con la tendencia de algunas empresas chinas que usan destilación de modelos externos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "d8597d16a7be",
+      "title": "Un jugador desmayó a una fotógrafa de un pelotazo en la cara y recibió fuertes críticas: el video que se viralizó en Brasil",
+      "summary": "Durante los playoffs del Brasileirão D, el defensor Tiago Pedra del São José de Porto Alegre golpeó con fuerza un balón que había salido del campo, dejando inconsciente a la fotógrafa de prensa que cubría el encuentro en Brasilia, lo que generó una gran polémica en redes sociales.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/un-jugador-desmayo-a-una-fotografa-de-un-pelotazo-en-la-cara-y-recibio-fuertes-criticas-el-video-que-se-viralizo-en-brasil/",
+      "published_at": "2026-08-17T03:35:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos y reacciones sin usar vocabulario cargado ni presentar una agenda política; la cobertura es neutra y basada en la información del incidente.",
+      "focus_analysis": "El medio se centró en la seguridad de los periodistas y la reacción del público ante el accidente, dejando de lado aspectos institucionales como la responsabilidad de la liga o medidas de prevención futuras.",
+      "focus_tags": [
+        "seguridad en deportes",
+        "lesiones a prensa",
+        "incidente futbolístico"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de seguridad",
+          "text": "Los incidentes que involucran a periodistas durante eventos deportivos han llevado a que federaciones y clubes refuercen protocolos de seguridad en los estadios, como el caso de la lesión de un reportero en la Copa del Mundo 2014 cuando un balón le golpeó la cabeza."
+        },
+        {
+          "label": "comparación de reacciones",
+          "text": "En redes sociales, la comunidad futbolística a menudo condena actos que ponen en riesgo a los medios, como se observó tras el gol de la selección mexicana contra Brasil en 2022, donde se criticó la violencia contra un cámara."
+        },
+        {
+          "label": "postura de la liga",
+          "text": "La Confederação Brasileira de Futebol (CBF) ha emitido recomendaciones para proteger a los trabajadores de prensa durante los partidos de la Serie C, pero la aplicación de estas medidas ha sido inconsistente en los últimos años."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "514416e0bee8",
+      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
+      "summary": "Arantza Ruiz, concursante del reality La Casa de los Famosos México 2026, fue la tercera en ser eliminada tras la nominación del 12 de agosto, mientras el programa se transmite en vivo por ViX+ bajo la producción de Televisa.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/la-casa-de-los-famosos-mexico-2026-en-vivo-hoy-quien-sera-el-tercer-eliminado-y-riesgo-de-doble-salida/",
+      "published_at": "2026-08-17T05:07:39+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto se centra en describir los hechos del programa con un tono ligero y utiliza expresiones como \"chismes\" y \"peleas\", pero no muestra una agenda política ni favorece a ninguna parte.",
+      "focus_analysis": "El medio eligió un ángulo de entretenimiento, resaltando la eliminación y los conflictos dentro de la casa, dejando de lado aspectos como la audiencia, la estrategia de la cadena o la repercusión mediática del reality.",
+      "focus_tags": [
+        "reality show",
+        "eliminación",
+        "entretenimiento"
+      ],
+      "context": [
+        {
+          "label": "Formato del programa",
+          "text": "La Casa de los Famosos México es la versión local del formato internacional Celebrity Big Brother, producida por Televisa y transmitida 24/7 en la plataforma de streaming ViX+."
+        },
+        {
+          "label": "Dinámica de nominaciones",
+          "text": "En la última ronda de nominaciones, el 12 de agosto, seis participantes quedaron en riesgo, y la audiencia decidió eliminar a Arantza Ruiz como la tercera en abandonar la casa."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Universal también informó la eliminación de Arantza Ruiz, enfocándose únicamente en el hecho sin añadir comentarios adicionales, lo que muestra una cobertura similar y centrada en el resultado del programa."
+        }
+      ],
+      "confidence": "alta"
+    },
+    {
+      "id": "63d53332391a",
+      "title": "Peso mexicano rompe el piso de las 17 unidades",
+      "summary": "El peso mexicano rompió la barrera de los 17 pesos por dólar, alcanzando brevemente los 16.99 pesos y cerrando la jornada con una ligera apreciación, consolidando su mejor nivel del año.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/mercados/peso-mexicano-rompe-piso-17-unidades-20260816-828568.html",
+      "published_at": "2026-08-17T05:15:08+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a datos de mercado y citas de analistas sin usar lenguaje cargado ni favorecer a actores políticos, presentando la información de forma neutral.",
+      "focus_analysis": "El medio se centra en el desempeño cambiario y los factores económicos que lo impulsan, dejando de lado cualquier impacto político o social del tipo de cambio.",
+      "focus_tags": [
+        "tipo de cambio",
+        "peso mexicano",
+        "mercado financiero"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes recientes",
+          "text": "El peso mexicano había cerrado el 31 de mayo en 16.9682 pesos por dólar, marcando un nivel bajo antes de la reciente recuperación."
+        },
+        {
+          "label": "Factores macroeconómicos",
+          "text": "El debilitamiento del dólar estadounidense, impulsado por datos laborales débiles en EE. UU. y la política de tasas de la Reserva Federal, ha favorecido el carry trade y la apreciación del peso."
+        },
+        {
+          "label": "Comparación con otras divisas emergentes",
+          "text": "En lo que va del año, el peso mexicano se ubica entre las divisas emergentes con mayor apreciación, superando al peso colombiano y al real brasileño, mientras que monedas como la lira turca y la rupia indonesia se deprecian."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4649a4e998f2",
+      "title": "Resultado: Cruz Azul pierde en Tijuana y los Xolos se unen a la cima del campeonato",
+      "summary": "El club mexicano Cruz Azul fue derrotado 2‑1 por los Xolos de Tijuana en su visita al Estadio Caliente, y los Xolos ascendieron a la cima del campeonato con 10 puntos, empatados con América pero por diferencia de goles.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/resultado-xolos-vs-cruz-azul-jornada-4-liga-mx/",
+      "published_at": "2026-08-17T05:15:30+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el resultado del partido y los datos de la tabla de posiciones sin usar vocabulario cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El artículo se centra en el resultado del encuentro y el desempeño de los equipos, omitiendo aspectos como la situación financiera de los clubes, la reacción de la afición o la política de la liga.",
+      "focus_tags": [
+        "resultado de partido",
+        "Liga MX",
+        "Xolos de Tijuana"
+      ],
+      "context": [
+        {
+          "label": "Posición en la tabla",
+          "text": "En la jornada de Apertura 2026, América y los Xolos de Tijuana comparten el primer lugar con 10 puntos, mientras Cruz Azul ocupa una posición más baja tras la derrota."
+        },
+        {
+          "label": "Rendimiento reciente de Cruz Azul",
+          "text": "Cruz Azul logró salir de la zona de clasificación a la Liguilla en la última fase del torneo, pero ha mostrado vulnerabilidades defensivas en sus últimos partidos."
+        },
+        {
+          "label": "Ventaja de los Xolos en casa",
+          "text": "Los Xolos de Tijuana han ganado sus tres últimos partidos como locales en el Estadio Caliente, consolidando una fuerte ventaja de terreno."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "7b63e37ea0d0",
       "title": "Oro cerró en 4,379.95 dólares por onza, una ganancia de 1%",
@@ -840,216 +1047,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "c13d4d667090",
-      "title": "Paramount-Warner: ¿remedios para qué daño?",
-      "summary": "El Economista analiza la fusión entre Paramount y Warner Bros. Discovery, señalando que los distintos remedios propuestos por autoridades de EE. UU., la UE y el Reino Unido responden a diferentes concepciones de daño y que la decisión depende de la interacción entre política, economía e instituciones.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/opinion/paramount-warner-remedios-dano-20260816-828557.html",
-      "published_at": "2026-08-17T04:38:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono técnico y neutral, presenta múltiples puntos de vista sin usar lenguaje cargado ni favorecer a ninguna de las partes, lo que indica una cobertura centrada.",
-      "focus_analysis": "El medio se concentra en el encuadre regulatorio y económico de la operación, describiendo los argumentos de los organismos de competencia y los posibles remedios, mientras deja de lado la opinión pública o el impacto directo en los consumidores.",
-      "focus_tags": [
-        "regulación antimonopolio",
-        "fusión mediática",
-        "análisis institucional"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes EE. UU.",
-          "text": "El Departamento de Justicia de EE. UU. cerró su investigación en junio concluyendo que la fusión no afectaría la competencia en streaming ni en la distribución cinematográfica, pero fiscales generales de doce estados presentaron una demanda para bloquearla por posible daño a distribuidores y audiencias."
-        },
-        {
-          "label": "Enfoque europeo",
-          "text": "La Comisión Europea autorizó la operación bajo la condición de que Paramount cese su participación en United International Pictures y se abstenga de nuevos acuerdos de distribución conjunta durante diez años, con el objetivo de preservar la independencia en la distribución cinematográfica."
-        },
-        {
-          "label": "Cobertura externa",
-          "text": "Según la información de Expansión, la Comisión Nacional de Antimonopolios de México aprobó la fusión, situando al país entre los 70 que ya habían dado luz verde, aunque la demanda de los fiscales estadounidenses sigue vigente."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres explora, mediante referencias literarias y históricas, el temor al entierro prematuro que ha intrigado a escritores como Edgar Allan Poe y pensadores como Benito Jerónimo Feijoo, analizando cómo esta angustia ha sido descrita en la literatura y en relatos religiosos.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en un análisis cultural y literario, sin usar lenguaje cargado ni citar fuentes políticas, manteniendo un tono neutral y descriptivo.",
-      "focus_analysis": "El medio elige un ángulo literario‑histórico, resaltando la representación del miedo al entierro vivo en obras y relatos, mientras deja de lado cualquier enfoque contemporáneo, científico o sociopolítico del tema.",
-      "focus_tags": [
-        "literatura",
-        "historia cultural",
-        "terror"
-      ],
-      "context": [
-        {
-          "label": "historia",
-          "text": "En el siglo XIX, la preocupación por el entierro prematuro llevó a la invención de dispositivos como los 'sarcófagos con campanas' y a debates médicos sobre la necesidad de observar signos de vida antes de la inhumación."
-        },
-        {
-          "label": "literatura",
-          "text": "Edgar Allan Poe popularizó el terror del entierro vivo en cuentos como \"El entierro prematuro\", influyendo en la tradición gótica y en autores posteriores que exploraron la claustrofobia y la muerte."
-        },
-        {
-          "label": "cultura",
-          "text": "En la tradición hispanoamericana, la figura del entierro vivo aparece en relatos religiosos y leyendas populares, reflejando temores sobre la muerte y la purificación del cuerpo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "5fc8e5a563b0",
-      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
-      "summary": "Microsoft ha lanzado MAI‑Code‑1.1‑Flash, una nueva inteligencia artificial para programar integrada en GitHub Copilot, que según la compañía es más rápida, consume menos tokens y cuesta una cuarta parte que su predecesor, superando en eficiencia a modelos como Claude Code y Codex.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
-      "published_at": "2026-08-16T18:00:00+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono promocional y se apoya mayormente en las afirmaciones de Microsoft, con escasas críticas externas, lo que indica una ligera inclinación favorable al fabricante.",
-      "focus_analysis": "El artículo se centra en los aspectos técnicos y de coste del modelo, resaltando mejoras de velocidad y eficiencia, mientras omite discusiones sobre el impacto laboral, la privacidad de datos o la competencia de código abierto.",
-      "focus_tags": [
-        "rendimiento técnico",
-        "eficiencia de costos",
-        "comparación de modelos"
-      ],
-      "context": [
-        {
-          "label": "competencia",
-          "text": "Otros sistemas de IA para desarrollo de software, como Claude Code de Anthropic, GPT‑5.4 Mini de OpenAI y Codex, compiten ofreciendo mayor contexto y capacidades multimodales, aunque suelen requerir más tokens y tiempo para generar código."
-        },
-        {
-          "label": "GitHub Copilot",
-          "text": "GitHub Copilot, lanzado por Microsoft en 2021, ya incorpora modelos de generación de código y ha sido actualizado previamente durante la Build 2026 con una versión anterior de la IA de programación."
-        },
-        {
-          "label": "tendencia de IA de código",
-          "text": "En los últimos años ha crecido el uso de IA para asistir a programadores, con iniciativas tanto propietarias como de código abierto que buscan reducir el tiempo de desarrollo y mejorar la calidad del software."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "d8597d16a7be",
-      "title": "Un jugador desmayó a una fotógrafa de un pelotazo en la cara y recibió fuertes críticas: el video que se viralizó en Brasil",
-      "summary": "Durante los playoffs del Brasileirão D, el defensor Tiago Pedra del São José de Porto Alegre golpeó con fuerza un balón que había salido del campo, impactando en la cara de la fotógrafa de prensa y dejándola inconsciente, lo que provocó la interrupción del partido y una amplia difusión del video en redes sociales.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/17/un-jugador-desmayo-a-una-fotografa-de-un-pelotazo-en-la-cara-y-recibio-fuertes-criticas-el-video-que-se-viralizo-en-brasil/",
-      "published_at": "2026-08-17T03:35:54+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos y las reacciones inmediatas sin usar vocabulario cargado ni citar fuentes con sesgo, manteniendo un tono informativo típico del periodismo deportivo.",
-      "focus_analysis": "El medio se centró en el accidente y la reacción de jugadores y público, destacando el aspecto humano y la viralización, mientras dejó de lado el análisis de medidas de seguridad o la responsabilidad institucional del campeonato.",
-      "focus_tags": [
-        "seguridad deportiva",
-        "incidente en campo",
-        "reacción viral"
-      ],
-      "context": [
-        {
-          "label": "antecedentes del campeonato",
-          "text": "El Brasileirão D es la cuarta división del fútbol brasileño y sus playoffs determinan el ascenso a la Serie C, con partidos de alta intensidad y presencia constante de medios."
-        },
-        {
-          "label": "incidentes similares",
-          "text": "En el fútbol mundial han ocurrido casos de jugadores que, al lanzar balones fuera de juego, han herido a periodistas o espectadores, lo que ha generado debates sobre la protección de la prensa en los estadios."
-        },
-        {
-          "label": "reacción en redes",
-          "text": "Tras la difusión del video, usuarios de Twitter y TikTok expresaron críticas al jugador y exigieron protocolos más estrictos, mientras el club São José emitió un comunicado disculpándose."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "8d01c9f83bc0",
-      "title": "UNAM concluye examen presencial en Tijuana ras polémica por uso de IA",
-      "summary": "La Universidad Nacional Autónoma de México (UNAM) concluyó la última jornada del examen presencial de control en Tijuana, después de haber detectado irregularidades como el uso no autorizado de inteligencia artificial en el proceso de admisión en línea.",
-      "category": "sociedad",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/1608/mexico/unam-concluye-examen-presencial-en-tijuana-ras-polemica-por-uso-de-ia/",
-      "published_at": "2026-08-17T03:40:37+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono informativo y neutro, sin emplear vocabulario cargado ni favorecer a ninguna posición, y presenta los hechos de forma equilibrada.",
-      "focus_analysis": "El medio se enfocó en el aspecto institucional y técnico del proceso de examen, resaltando la respuesta de la UNAM a las irregularidades; quedó fuera la perspectiva humana de los aspirantes y el impacto económico del proceso.",
-      "focus_tags": [
-        "educación superior",
-        "examen presencial",
-        "controversia IA"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Para el ciclo escolar 2026‑2027, la UNAM introdujo por primera vez una admisión totalmente en línea, pero descubrió anomalías como la utilización de herramientas de inteligencia artificial y ayuda externa, lo que motivó la convocatoria de un examen de control presencial."
-        },
-        {
-          "label": "cobertura comparada",
-          "text": "Aristegui destaca los números de aspirantes y la decisión de terminar el contrato con la plataforma digital, mientras Infobae menciona la realización del examen en dos turnos en Baja California y Reforma enfatiza el ausentismo registrado, evidenciando distintos énfasis entre los medios."
-        },
-        {
-          "label": "impacto esperado",
-          "text": "La fase final del examen presencial se llevará a cabo en la Ciudad de México con aproximadamente 40 000 aspirantes, la mayor etapa del proceso, con el objetivo de garantizar la equidad tras la polémica."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "da922cb7f0ac",
-      "title": "50 años de ‘¿Quién puede matar a un niño?’: el otro bum del cine de terror en España",
-      "summary": "El País América celebra los 50 años de la película de terror española '¿Quién puede matar a un niño?' dirigida por Narciso Ibáñez Serrador, destacando su papel como alegoría de la incertidumbre política del final del franquismo y la Transición.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/cultura/cine/2026-08-17/50-anos-de-quien-puede-matar-a-un-nino-el-otro-bum-del-cine-de-terror-en-espana.html",
-      "published_at": "2026-08-17T04:10:22+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y académico, citando a expertos sin usar vocabulario cargado ni favorecer una posición ideológica clara.",
-      "focus_analysis": "El artículo se centra en el contexto histórico‑político del cine de terror español y su función como espejo de la ansiedad post‑franquista, dejando de lado datos sobre la recepción comercial actual o comparaciones internacionales más amplias.",
-      "focus_tags": [
-        "cine español",
-        "terror histórico",
-        "transición política"
-      ],
-      "context": [
-        {
-          "label": "antecedentes históricos",
-          "text": "La película se estrenó en 1976, en el periodo de transición tras la muerte de Franco, y se ha convertido en un referente del género de terror que reflejaba la tensión política de la época."
-        },
-        {
-          "label": "boom del terror español",
-          "text": "Durante finales de los años 60 y 70, la producción de cine de terror en España, impulsada por casas como Profilmes, alcanzó alrededor de 200 títulos, combinando violencia y sexo como forma de liberación frente a la censura franquista."
-        },
-        {
-          "label": "interpretaciones académicas",
-          "text": "Expertos como Guillermo González Hernández y Samuel Steinberg analizan la obra como una alegoría de la represión franquista y de la incertidumbre que acompañó la transición democrática."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
