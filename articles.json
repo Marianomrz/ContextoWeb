@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-17T01:21:18.191231+00:00",
+  "generated_at": "2026-08-17T01:41:32.911109+00:00",
   "articles": [
+    {
+      "id": "f5f074777683",
+      "title": "Nada tan angustioso en la tierra",
+      "summary": "El ensayo de Letras Libres, escrito por David Toscana, explora el temor histórico a ser enterrado vivo y su representación en la literatura, desde Edgar Allan Poe hasta relatos españoles del siglo XVIII.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
+      "published_at": "2026-08-14T18:45:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene descriptivo y cultural, sin usar vocabulario cargado ni citar fuentes con carga política; el enfoque es literario e histórico, no partidista.",
+      "focus_analysis": "El medio elige un ángulo literario‑histórico, resaltando cuentos y testimonios antiguos sobre el entierro prematuro, mientras deja de lado la perspectiva médica o normativa contemporánea.",
+      "focus_tags": [
+        "literatura",
+        "historia",
+        "miedo"
+      ],
+      "context": [
+        {
+          "label": "antecedentes históricos",
+          "text": "Durante los siglos XVIII y XIX, el miedo a ser enterrado vivo fue común en Europa, lo que motivó la creación de dispositivos de seguridad como los ‘cápsulas de aviso’ y la publicación de relatos como el de Edgar Allan Poe."
+        },
+        {
+          "label": "perspectiva médica",
+          "text": "Los avances en medicina forense y la normativa de tiempos de espera antes de la inhumación redujeron significativamente la incidencia de entierros prematuros en la actualidad."
+        },
+        {
+          "label": "relevancia cultural mexicana",
+          "text": "En México, la figura de Joaquín Pardavé y otros personajes del folklore han sido asociados a leyendas de entierros vivos, reflejando la persistencia del temor en la imaginación popular."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI-Code-1.1-Flash, una IA para programar integrada en GitHub Copilot, que según el propio fabricante es más rápida, consume menos tokens y cuesta menos que su predecesor y que modelos como Claude Code. El modelo está orientado a tareas de línea de comandos y proyectos .NET, y los primeros benchmarks indican mejoras de hasta un 22 % en velocidad y un 25 % en consumo de tokens.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 25,
+      "bias_reason": "El texto emplea adjetivos positivos ('más rápida', 'más barata', 'de mayor calidad') y destaca los logros de Microsoft sin citar fuentes externas críticas, lo que indica una ligera inclinación favorable hacia la empresa.",
+      "focus_analysis": "Se centra en los aspectos técnicos y de eficiencia del nuevo modelo, dejando de lado la discusión sobre posibles riesgos de sesgo, privacidad de datos o implicaciones para el mercado laboral.",
+      "focus_tags": [
+        "IA de programación",
+        "eficiencia de tokens",
+        "competencia con Claude Code"
+      ],
+      "context": [
+        {
+          "label": "Historia de IA de Microsoft",
+          "text": "Microsoft ha desarrollado varias IA de programación, como Copilot basado en OpenAI, y ha buscado reducir costos y mejorar velocidad desde su lanzamiento en 2021."
+        },
+        {
+          "label": "Competidores en el mercado",
+          "text": "Claude Code de Anthropic y otros modelos como Codex y Kimi K2.7 son opciones populares entre desarrolladores, ofreciendo mayor contexto multimodal a costa de mayor consumo de tokens."
+        },
+        {
+          "label": "Tendencias de eficiencia en LLM",
+          "text": "En los últimos años, la industria ha puesto énfasis en crear modelos más pequeños y rápidos que reduzcan el número de tokens y el tiempo de respuesta, una estrategia que Microsoft destaca con MAI-Code-1.1-Flash."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "3c6dabdb36e4",
+      "title": "Flix quiere sumar pymes de transporte de pasajeros en autobús",
+      "summary": "Flix México, la plataforma alemana de transporte de pasajeros, lanzó una fase más proactiva para incorporar a pequeñas y medianas empresas de autobuses como socios, ofreciendo que modelo que asigna rutas rentables mediante análisis de datos y que reparte el 70 % de los ingresos netos a los operadores.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/flix-quiere-sumar-pymes-transporte-pasajeros-autobus-20260816-828525.html",
+      "published_at": "2026-08-17T01:23:57+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto utiliza un tono mayormente informativo y positivo, resaltando oportunidades de crecimiento y datos de mercado sin presentar críticas ni opiniones cargadas, lo que indica una ligera inclinación pro‑empresarial.",
+      "focus_analysis": "El medio se concentra en el aspecto económico y de expansión del negocio, describiendo el potencial de mercado y el modelo de ingresos, mientras deja de lado posibles retos regulatorios o impactos laborales.",
+      "focus_tags": [
+        "expansión empresarial",
+        "pymes transporte",
+        "mercado de autobuses"
+      ],
+      "context": [
+        {
+          "label": "Operaciones actuales de Flix en México",
+          "text": "Desde su llegada hace poco más de un año, Flix México cuenta con cinco socios que operan alrededor de 40 autobuses, realizando más de 1,600 viajes al mes en seis rutas que conectan ocho entidades, como la Ciudad de México, Puebla, Querétaro y Monterrey."
+        },
+        {
+          "label": "Tamaño del sector de transporte de pasajeros",
+          "text": "Según datos de la Secretaría de Infraestructura, Comunicaciones y Transportes, México tiene más de 23,000 permisionarios de autobuses, de los cuales aproximadamente 4,250 operan entre seis y cien unidades, y el año pasado se transportaron un récord de 4,001 millones de pasajeros."
+        },
+        {
+          "label": "Tendencia de plataformas digitales en transporte",
+          "text": "En América Latina, empresas de tecnología de transporte como Uber y Cabify han adoptado modelos de asociación con pequeños operadores, usando datos para optimizar rutas y compartir ingresos, una práctica que Flix replica en el sector de autobuses."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "7597547f2bcd",
+      "title": "Los toques de calidad de Thiago Almada en su debut con victoria en River Plate: “Lo importante hoy era ganar”",
+      "summary": "Thiago Almada, recién incorporado a River Plate por 20 millones de dólares, debutó con una actuación destacada y contribuyó a la victoria 2‑0 sobre Argentinos Juniors en la quinta fecha del Torneo Clausura.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/los-toques-de-calidad-de-thiago-almada-en-su-debut-con-victoria-en-river-plate-lo-importante-hoy-era-ganar/",
+      "published_at": "2026-08-17T01:32:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos deportivos y el desempeño del jugador sin usar un cargado ni favorecer a ninguna posición política, manteniendo un tono neutral típico de la cobertura deportiva.",
+      "focus_analysis": "El medio se centra en el desempeño individual de Almada y la victoria del equipo, dejando de lado análisis tácticos profundos o la repercusión financiera del fichaje.",
+      "focus_tags": [
+        "deporte",
+        "fichaje",
+        "victoria"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de River Plate",
+          "text": "River Plate venía de cuatro jornadas sin puntos ni goles en el Torneo Clausura, lo que generó una gran presión para revertir la mala racha antes del partido contra Argentinos Juniors."
+        },
+        {
+          "label": "Perfil de Thiago Almada",
+          "text": "Almada, mediocampista argentino que jugó en Vélez Sarsfield, fue contratado por River por 20 millones de dólares y se esperaba que reforzara el centro del campo con su visión y capacidad de ataque."
+        },
+        {
+          "label": "Próximo enfrentamiento internacional",
+          "text": "Tras la victoria, River se prepara para viajar a Bogotá y enfrentar a Independiente Santa Fe en los octavos de final de la Copa Sudamericana, donde Almada podría seguir siendo titular."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e35152cc3033",
+      "title": "Santos Laguna vs Chivas EN VIVO sigue aquí el MINUTO A MINUTO del juego",
+      "summary": "El club Santos Laguna de la Liga MX y el Club Deportivo Chivas de Guadalajara se disputan la Jornada 4 del Apertura 2026, con Chivas intentando recuperarse tras su eliminación en la Leagues Cup y Santos buscando salir de la zona baja de la tabla.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/la-mision-de-las-chivas-en-su-visita-a-santos-laguna/",
+      "published_at": "2026-08-17T01:35:42+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el estado de forma y la importancia del partido, sin usar lenguaje cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centra en el desempeño deportivo y la necesidad de resultados de ambos equipos, dejando de lado la perspectiva de los aficionados y el contexto más amplio de la liga.",
+      "focus_tags": [
+        "fútbol mexicano",
+        "Liga MX",
+        "partido en vivo"
+      ],
+      "context": [
+        {
+          "label": "forma reciente de Chivas",
+          "text": "Chivas llegó a este encuentro con una sola victoria en el Apertura 2026 y la presión de haber quedado fuera de los cuartos de final de la Leagues Cup, por lo que necesita una victoria para mejorar su posición."
+        },
+        {
+          "label": "situación de Santos Laguna",
+          "text": "Santos Laguna acumula cinco derrotas y solo una victoria en la liga, ocupando la parte baja de la tabla y mostrando vulnerabilidad defensiva con 12 goles en contra."
+        },
+        {
+          "label": "importancia de la Jornada 4",
+          "text": "La Jornada 4 del Apertura 2026 es clave para ambos equipos: Chivas busca consolidar su campaña y Santos necesita puntos para alejarse de la zona de descenso."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "d0dc06d21b4e",
+      "title": "Marina del Pilar califica de “politiquería” el juicio político promovido por el PAN",
+      "summary": "Marina del Pilar Ávila Olmeda, gobernadora de Baja California, calificó de “politiquería” el intento del Partido Acción Nacional de iniciar un juicio político contra ella, y afirmó que su administración seguirá trabajando en los programas sociales y de seguridad del estado.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/17/marina-del-pilar-califica-de-politiqueria-el-juicio-politico-promovido-por-el-pan/",
+      "published_at": "2026-08-17T01:38:07+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto destaca repetidamente las declaraciones de la gobernadora y su agenda, mientras que la posición del PAN se presenta como un movimiento político sin profundizar en sus argumentos, lo que genera una ligera inclinación favorable a la gobernadora de Morena.",
+      "focus_analysis": "El medio se centra en el enfrentamiento político y la narrativa de la gobernadora, dejando de lado un análisis detallado de los supuestos problemas de seguridad y gestión que el PAN menciona como base del juicio político.",
+      "focus_tags": [
+        "conflicto político",
+        "juicio político",
+        "Baja California"
+      ],
+      "context": [
+        {
+          "label": "Marco constitucional",
+          "text": "Una reforma constitucional aprobada en Baja California en 2024 estableció que el Congreso estatal no tiene la facultad de iniciar juicios políticos contra el gobernador, lo que obliga a que dicho proceso se lleve ante el Congreso de la Unión."
+        },
+        {
+          "label": "Preocupaciones de seguridad",
+          "text": "El PAN ha señalado una crisis de seguridad en Baja California, alegando deficiencias en la estrategia estatal y en áreas como salud, educación y energía, aunque la gobernadora ha minimizado estas acusaciones."
+        },
+        {
+          "label": "Dinámica legislativa",
+          "text": "En la sesión del Congreso estatal, la mayoría de Morena y sus aliados retiró la propuesta de iniciar el juicio político, mostrando el apoyo institucional a la gobernadora frente a la iniciativa del PAN."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "5a1b31e57783",
       "title": "EN VIVO | Clima CDMX y resto de México hoy domingo 16 de agosto",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "c600e0947c97",
-      "title": "Inhabilitan a 41 funcionarios y les imponen multas por más de 22 millones",
-      "summary": "El Tribunal Federal de Justicia Administrativa y la Secretaría Anticorrupción y Buen Gobierno sancionaron a 41 funcionarios de distintas dependencias mexicanas, imponiéndoles multas que superan los 22.4 millones de pesos e inhabilitaciones de hasta diez años por faltas administrativas graves y no graves.",
-      "category": "politica",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/nacional/2026/08/16/inhabilitan-a-41-funcionarios-y-les-imponen-multas-por-mas-de-22-millones-1833027.html",
-      "published_at": "2026-08-17T00:19:54+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, sin vocabulario cargado ni juicios de valor, y se limita a describir los hechos y las sanciones sin enfatizar una agenda política.",
-      "focus_analysis": "El medio se centró en el ángulo institucional y de rendición de cuentas, detallando las sanciones impuestas a los funcionarios; no se exploró el impacto económico o social más amplio de la corrupción ni se incluyeron voces de los involucrados.",
-      "focus_tags": [
-        "corrupción administrativa",
-        "sanciones públicas",
-        "transparencia gubernamental"
-      ],
-      "context": [
-        {
-          "label": "Marco institucional",
-          "text": "En México, la Secretaría Anticorrupción y Buen Gobierno (SABG) y el Tribunal Federal de Justicia Administrativa (TFJA) son los organismos encargados de investigar y sancionar irregularidades administrativas en el sector público."
-        },
-        {
-          "label": "Antecedentes",
-          "text": "En los últimos años, el gobierno mexicano ha intensificado la lucha contra la corrupción, con casos de alto perfil como la destitución de funcionarios de la CFE y de secretarías federales en 2023 y 2024."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como Reforma, también reportaron el mismo hecho, resaltando el número de funcionarios sancionados y el monto total de las multas, lo que muestra una cobertura mayormente factual y sin sesgo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "c8f298c0c247",
-      "title": "La lupa sobre el penal a Ángel Correa que le permitió a River Plate cerrar el triunfo ante Argentinos",
-      "summary": "Ángel Correa convirtió un penal a favor de River Plate tras la revisión del VAR, lo que permitió al equipo cerrar su primera victoria del Torneo Clausura 2026 con un 2‑0 ante Argentinos Juniors.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/16/la-lupa-sobre-el-penal-a-angel-correa-que-le-permitio-a-river-plate-cerrar-el-triunfo-ante-argentinos/",
-      "published_at": "2026-08-16T23:47:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido y la intervención del VAR sin usar adjetivos cargados ni favorecer a ninguna de las partes, evidenciando un tratamiento neutro.",
-      "focus_analysis": "El medio se centró en el desarrollo del partido y la decisión arbitral del penal, dejando de lado el análisis de las repercusiones en la tabla de posiciones o la reacción de los hinchas.",
-      "focus_tags": [
-        "penal",
-        "VAR",
-        "River Plate victoria"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento de River Plate",
-          "text": "River Plate llegaba al encuentro sin puntos ni goles en las cuatro jornadas del Clausura 2026, tras perder 1‑0 contra Barracas Central, Gimnasia, Rosario Central y Tigre."
-        },
-        {
-          "label": "Posición de Argentinos Juniors",
-          "text": "Argentinos Juniors lideraba el Grupo B de la Copa Sudamericana con 12 puntos y nueve goles en cuatro partidos, mostrando un buen rendimiento ofensivo."
-        },
-        {
-          "label": "Uso del VAR en el fútbol argentino",
-          "text": "Desde su introducción en 2018, el VAR se ha convertido en una herramienta habitual en la AFA para revisar jugadas polémicas, como la falta que dio lugar al penal a favor de River Plate."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres explora, a través de referencias literarias y ejemplos históricos, el temor que durante siglos ha existido en Occidente ante la posibilidad de ser enterrado vivo, citando a Edgar Allan Poe, Benito Jerónimo Feijoo y otras figuras.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en una reflexión cultural y literaria sin incluir opiniones políticas ni cargar el lenguaje con términos ideológicos; la selección de fuentes es exclusivamente histórica y literaria, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio elige abordar el tema desde una perspectiva literaria e histórica, resaltando relatos y reflexiones de autores clásicos, mientras deja de lado análisis médicos o sociológicos contemporáneos sobre el tema.",
-      "focus_tags": [
-        "miedo a enterrado vivo",
-        "historia literaria",
-        "cultura occidental"
-      ],
-      "context": [
-        {
-          "label": "antecedentes históricos",
-          "text": "En la Europa del siglo XVIII, el temor a ser enterrado vivo era tan extendido que médicos y religiosos recomendaban esperar varios días antes de enterrar a los fallecidos para confirmar la muerte, como lo describió el erudito español Benito Jerónimo Feijoo."
-        },
-        {
-          "label": "referencias literarias",
-          "text": "Edgar Allan Poe, en su cuento \"El entierro prematuro\", y autores como Leonid Andreyev y San Juan de la Cruz, han utilizado el miedo al entierro vivo como eje para explorar la angustia física y mental en la ficción."
-        },
-        {
-          "label": "perspectiva contemporánea",
-          "text": "Aunque la práctica ha desaparecido gracias a avances médicos y protocolos de certificación de muerte, el tema sigue inspirando obras de ficción y debates sobre los límites entre la realidad y la imaginación terrorífica."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "a29a5deba6df",
-      "title": "Colombia, una semana después del terremoto: casi 300 muertos y un largo camino de dolor y recuperación",
-      "summary": "Una semana después del sismo de magnitud 7,4 que sacudió el oeste de Colombia, el balance oficial indica 289 muertos, 143 desaparecidos y más de 185 000 damnificados, mientras el Gobierno y equipos de rescate continúan retirando escombros y ofreciendo ayuda a las comunidades afectadas.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/am%C3%A9rica-latina/20260816-colombia-una-semana-despu%C3%A9s-del-terremoto-casi-300-muertos-y-un-largo-camino-de-dolor-y-recuperaci%C3%B3n",
-      "published_at": "2026-08-16T23:40:04+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje descriptivo y neutral, presenta datos oficiales y citas de autoridades sin emplear vocabulario cargado ni favorecer una posición política.",
-      "focus_analysis": "El medio se centra en el impacto humanitario y los esfuerzos de rescate y reconstrucción, dejando de lado la dimensión política y económica del desastre, como la solicitud de alivios arancelarios o la repercusión internacional.",
-      "focus_tags": [
-        "humanitario",
-        "desastre natural",
-        "rescate"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes sísmicos",
-          "text": "Colombia ha enfrentado varios terremotos destructivos en el siglo XXI, como el sismo de Armenia en 1999 que causó más de 1 000 fallecidos, lo que impulsó la creación y fortalecimiento de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "La UNGRD publica balances oficiales de víctimas y daños y coordina la ayuda del gobierno y de organizaciones internacionales, incluida una misión de rescate israelí que colabora con bomberos y militares colombianos."
-        },
-        {
-          "label": "Cobertura de medios y repercusión política",
-          "text": "Otros medios han resaltado la solicitud del presidente colombiano a EE. UU. para suspender aranceles durante la fase de reconstrucción y la muerte de una mujer rescatada tras 36 horas bajo los escombros, mostrando énfasis en historias humanas y en la dimensión política del desastre."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "b0b42f334c17",
-      "title": "Fernando Alonso y Carlos Sainz: en qué lugar están en el Mundial de Pilotos de la F1",
-      "summary": "Los pilotos españoles Fernando Alonso, de Aston Martin, y Carlos Sainz, de Williams, se sitúan en los puestos 19 y 15 respectivamente en la tabla del Campeonato Mundial de Pilotos de la Fórmula 1 después del último Gran Premio de la temporada 2026.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/fernando-alonso-y-carlos-sainz-en-que-lugar-estan-en-el-mundial-de-pilotos-de-la-f1/",
-      "published_at": "2026-08-16T23:45:33+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir posiciones y datos de la clasificación sin usar lenguaje cargado ni citar fuentes con agenda política, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El artículo se centra en el desempeño deportivo y la clasificación de los pilotos, dejando de lado aspectos económicos, de seguridad o de impacto cultural de la Fórmula 1.",
-      "focus_tags": [
-        "deportes",
-        "F1",
-        "clasificación"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "La temporada 2026 de la Fórmula 1 marca la 75ª edición, con nuevas regulaciones técnicas y varios cambios de pilotos que han alterado la competitividad entre escuderías."
-        },
-        {
-          "label": "dato comparativo",
-          "text": "La incorporación del ingeniero Adrian Newey, ex de Red Bull, al equipo Aston Martin ha generado altas expectativas sobre el rendimiento de Fernando Alonso en esta campaña."
-        },
-        {
-          "label": "postura de otro medio",
-          "text": "Otros medios mexicanos, como El Universal, han puesto énfasis en noticias de entretenimiento como el éxito de taquilla de Spider‑Man, mostrando que la cobertura mediática nacional combina deportes y cultura popular."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "5c5430edfd6c",
-      "title": "Rosario Central visita a Barracas Central por la quinta fecha del Torneo Clausura",
-      "summary": "El club argentino Rosario Central jugará como visitante contra Barracas Central en el estadio Claudio Fabián Tapia el domingo 16 de agosto de 2026, como parte de la quinta fecha del Torneo Clausura de la Primera División.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/16/continua-la-fecha-5-del-torneo-clausura-la-agenda-con-los-partidos-de-la-jornada/",
-      "published_at": "2026-08-16T23:51:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el calendario y resultados recientes con un tono informativo y sin adjetivos cargados, presentando varios partidos sin favorecer a ningún equipo.",
-      "focus_analysis": "El artículo se centra en la programación del torneo y los resultados deportivos recientes, dejando de lado aspectos económicos, de afición o de gestión de los clubes.",
-      "focus_tags": [
-        "fútbol argentino",
-        "torneo clausura",
-        "fecha 5"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "El Torneo Clausura es la segunda mitad del campeonato de la Primera División argentina, donde los equipos se enfrentan en un sistema de todos contra todos y la clasificación determina los puestos de descenso y de clasificación a copas internacionales."
-        },
-        {
-          "label": "Dato comparativo",
-          "text": "Rosario Central llega a la fecha cinco con siete puntos obtenidos en cuatro partidos, mientras que Barracas Central, con nueve puntos, ocupa la zona B y busca recuperarse tras una derrota anterior contra Gimnasia y Esgrima La Plata."
-        },
-        {
-          "label": "Postura de otro actor",
-          "text": "Según declaraciones del director técnico de Rosario Central, el equipo pretende consolidar su posición en la tabla y evitar la presión de los equipos líderes, mientras que Barracas Central busca aprovechar el factor local para acercarse a los primeros lugares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
       }
     }
   ]
