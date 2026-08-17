@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T17:00:46.858413+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo hace inadecuado para publicación a pesar de su buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:00:51.559260+00:00",
-      "title": "El “superpeso” avanza: ¿buenas o malas noticias para tu bolsillo?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de un artículo informativo y objetivo, aunque podría reforzarse con fuentes oficiales adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:00:58.701149+00:00",
-      "title": "En un partido frenético, Las Leonas vencieron 3-2 a Alemania y lograron un triunfo clave en el Mundi",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente fiable y bien estructurado, pero la mención incorrecta de Jamal Musiala afecta la precisión de los datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:07.354196+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contrastada del hecho.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:14.775769+00:00",
-      "title": "Hayden Panettiere: en la llamada al 911, reportaron que la actriz había sufrido un paro cardíaco deb",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad, lo que compromete su idoneidad editorial, pese a cumplir en estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:18.838529+00:00",
-      "title": "\"Hay muchas historias que contar\": queríamos más temporadas de Ted Lasso y todo apunta a que así ser",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero la falta de fuentes independientes y la ausencia de verificación de los datos reducen su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:30.748052+00:00",
-      "title": "Cristales y electricidad: sobre el cine androide",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple bien los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes más diversas para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:42.616346+00:00",
-      "title": "Secretario de Energía de EU hablará con refinerías para impulsar la producción y bajar los precios",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta información reciente pero con graves inexactitudes y falta de fuentes contrastantes, lo que compromete su fiabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:46.859763+00:00",
-      "title": "Julián Álvarez al Barcelona: de la reunión clave que podría destrabar el pase a la figura de otro gr",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta serios problemas de veracidad y falta de fuentes contrastadas, aunque es actual y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:52.296953+00:00",
-      "title": "Cómo atraer colibríes a tu casa aunque no tengas jardín: las mejores plantas para macetas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es en general sólido y bien estructurado, pero contiene imprecisiones sobre la procedencia de algunas plantas que requieren corrección para garantizar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:01:59.784317+00:00",
-      "title": "Camioneta de valores choca contra pipa de Pemex en Iztacalco; operadora habría perdido el control",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y objetividad, aunque debería incluir fuentes que respalden la afirmación sobre la supuesta causa del accidente.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T17:20:50.921731+00:00",
       "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
       "kind": "noticia",
@@ -3380,6 +3193,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, aunque podría reforzar la verificación de cifras y ampliar la variedad de voces para reducir el sesgo percibido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:34:00.144660+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 4.8,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 8,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque presenta una estructura adecuada y tono neutral.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:34:11.981112+00:00",
+      "title": "Georgina Rodríguez: el vestido y las joyas de su boda con Cristiano Ronaldo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma veraz, contrastada, objetiva, reciente y estructurada adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:34:17.539591+00:00",
+      "title": "La UNAM detecta intentos de trampa con celulares en el examen de control",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma veraz, contrastada y objetiva, con una estructura adecuada y actualidad impecable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:34:33.722458+00:00",
+      "title": "Estados Unidos pausa megaproyecto fronterizo en Texas tras críticas bipartidistas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta serios problemas de veracidad y falta de contraste de fuentes, aunque está bien estructurado y es actual. Se recomienda una revisión profunda antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:34:41.447962+00:00",
+      "title": "Crisis en la FIFA: despidieron al número 3 del organismo que había desafiado públicamente a Infantin",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta problemas graves de veracidad y falta de fuentes contrastadas, lo que compromete su idoneidad editorial pese a su actualidad y estructura razonable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:34:46.648200+00:00",
+      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado, pero la escasa corroboración de fuentes y la falta de citas oficiales limitan su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:34:59.273363+00:00",
+      "title": "Disidencias de autoconsumo",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información fiable, bien contextualizada y estructurada, con mínima inclinación subjetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:35:02.863387+00:00",
+      "title": "Muere a los 36 años Hayden Panettiere, actriz de las series \"Héroes\" y \"Nashville\"",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete no es apto para publicación porque contiene una información fundamental falsa, a pesar de su buena estructura y neutralidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:35:08.343837+00:00",
+      "title": "Vinculan a proceso a cinco supuestos integrantes de “Los Deltas”, célula violenta del CJNG; poseían ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, con pequeñas áreas de mejora en contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:35:14.061352+00:00",
+      "title": "Rubén Moreira advierte riesgo de hostigamiento contra periodistas por “listas negras”",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, con una ligera carga de lenguaje pero una cobertura equilibrada y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T21:35:22.270554+00:00",
+      "title": "Gobierno de Maru Campos apoya a niñas, niños y adultos con problemas auditivos a desarrollarse y con",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría reforzar la inclusión de fuentes contrastantes para una cobertura más equilibrada.",
       "error": null
     }
   ]
