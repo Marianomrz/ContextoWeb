@@ -1,125 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T19:37:04.943770+00:00",
-      "title": "Prevén Paquete Económico 2027 sin aumento de impuestos, pero apretón a contribuyentes con mayor fisc",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero presenta problemas de veracidad y falta de fuentes contrastadas, lo que afecta su objetividad y fiabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:40:44.718175+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.0,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 1,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene una información fundamentalmente incorrecta y carece de fuentes verificables, por lo que no debe publicarse en su estado actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:40:51.571612+00:00",
-      "title": "Afirman que, en casa de Hayden Panettiere, hallaron fármaco para revertir la sobredosis",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque es reciente y está estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:40:58.701738+00:00",
-      "title": "Administración de Felifer fortalece en Querétaro instrumentos de participación ciudadana",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de precisión y estructura, pero necesita mayor contraste de fuentes y reducir el sesgo implícito para alcanzar una cobertura más equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:41:04.032766+00:00",
-      "title": "Cúpula de Morena arropa a Andy por cancelación de su visa",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra una cobertura con sesgo político y falta de fuentes verificadas, aunque incluye algunos puntos de vista contrastantes y está bien estructurado y actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:41:11.463477+00:00",
-      "title": "Independiente visitará a Lanús tras el despido de Quinteros y a la espera del debut de su nuevo DT",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes adicionales y citas directas para mejorar la veracidad y el contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:41:23.013284+00:00",
-      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y cumple con los estándares de objetividad y actualidad, aunque algunas referencias específicas carecen de verificación externa.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T19:41:31.345279+00:00",
       "title": "Amazon está destruyendo miles de libros para entrenar sus modelos de IA",
       "kind": "noticia",
@@ -3374,6 +3255,119 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales, ofreciendo datos precisos, objetivo y bien estructurados, con fuentes fiables y contexto adecuado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T23:40:45.229552+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 11 column 151 (char 481)"
+    },
+    {
+      "at": "2026-08-17T23:40:50.055810+00:00",
+      "title": "Expo Transporte 2027 dejará derrama de 1,000 mdp en Guadalajara: OFVC",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere añadir una fuente directa para la cifra de la derrama económica.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T23:40:57.940287+00:00",
+      "title": "Reportan que Marina del Pilar Ávila sí está bajo investigación en EEUU",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y mantiene la objetividad, pero la escasa verificación de fuentes y la ausencia de contraste de perspectivas limitan su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T23:41:01.909004+00:00",
+      "title": "Fiscalía de Tamaulipas asegura equipos para minar criptomonedas en Camargo; investigan posible robo ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, mostrando precisión y objetividad; solo se sugiere ampliar la diversidad de fuentes para reforzar el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T23:41:07.388816+00:00",
+      "title": "La sobrina de Manu Ginóbili llegó a una final con la selección de Bahía Blanca y reveló su principal",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura precisa, objetiva y actual del evento deportivo, aunque podría beneficiarse de fuentes adicionales para reforzar el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T23:41:13.956917+00:00",
+      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque se beneficiaría de fuentes más oficiales y de un mayor contraste de voces para reforzar la veracidad y el contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T23:41:26.787507+00:00",
+      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque la falta de fuentes contrastantes y la ausencia de verificación de algunos datos reducen ligeramente la puntuación de veracidad y contraste.",
       "error": null
     }
   ]
