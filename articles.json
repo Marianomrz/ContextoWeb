@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-17T13:21:42.153290+00:00",
+  "generated_at": "2026-08-17T13:23:43.896929+00:00",
   "articles": [
+    {
+      "id": "73a6a3279cb6",
+      "title": "Se cierra la fecha 5 del Torneo Clausura: todo lo que hay que saber de los partidos de la jornada",
+      "summary": "La quinta fecha del Torneo Clausura de la Primera División argentina se jugará este lunes, con encuentros clave que definirán la permanencia, la clasificación a copas internacionales y los liderazgos de las zonas A y B, entre los que destacan el duelo entre Independiente y Lanús, y los partidos de Estudiantes de Río Cuarto, Vélez y Gimnasia de Mendoza.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
+      "published_at": "2026-08-17T11:05:17+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los partidos, horarios y relevancia competitiva sin usar lenguaje cargado ni incluir opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el ángulo deportivo‑competitivo, resaltando los objetivos de clasificación y permanencia de los equipos, mientras omite aspectos financieros, la opinión de los aficionados o el impacto mediático del torneo.",
+      "focus_tags": [
+        "fixture preview",
+        "clasificación",
+        "permanencia"
+      ],
+      "context": [
+        {
+          "label": "Estructura del torneo",
+          "text": "El Torneo Clausura de la Primera División argentina se divide en dos zonas (A y B); los equipos compiten por puntos para evitar el descenso, alcanzar puestos de clasificación a la Copa Libertadores y a la Copa Sudamericana, y aspirar al título."
+        },
+        {
+          "label": "Situación reciente de los equipos",
+          "text": "Independiente y Lanús llegan con campañas contrastantes, mientras que Vélez ocupa los primeros lugares de la zona A y Gimnasia de Mendoza lucha por consolidar su permanencia tras su ascenso la temporada pasada."
+        },
+        {
+          "label": "Implicaciones internacionales",
+          "text": "Los resultados de esta fecha son cruciales para los equipos que buscan entrar al repechaje de la Copa Libertadores 2027 y a la Copa Sudamericana, lo que añade presión a los partidos de la zona A y B."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "19239543ea1b",
+      "title": "El Gobierno anuncia que habilita cuatro espacios para albergar a 1.500 migrantes en Ceuta",
+      "summary": "El Gobierno de España ha habilitado cuatro centros de acogida en Ceuta para albergar a 1.500 migrantes, mientras la ministra de Inclusión, Saiz, destaca la necesidad de colaboración institucional para normalizar la situación.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-17/el-gobierno-anuncia-que-habilita-cuatro-espacios-para-albergar-a-1500-migrantes-en-ceuta.html",
+      "published_at": "2026-08-17T13:04:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo sin adjetivos cargados y no recurre a fuentes que inclinen la perspectiva, manteniendo una postura neutra típica de El País.",
+      "focus_analysis": "Se centra en la respuesta institucional y la logística de albergue, dejando de lado el impacto personal de los migrantes y la dimensión de seguridad.",
+      "focus_tags": [
+        "política migratoria",
+        "respuesta institucional",
+        "Ceuta"
+      ],
+      "context": [
+        {
+          "label": "situación migratoria en Ceuta",
+          "text": "Ceuta, ciudad autónoma española en el norte de África, ha experimentado oleadas de llegadas de migrantes desde Marruecos, con frecuentes episodios de acampada en la vía pública."
+        },
+        {
+          "label": "política de alojamiento en España",
+          "text": "El Gobierno español ha creado centros de acogida temporales en distintas localidades, como Melilla, para gestionar flujos migratorios y ofrecer asistencia básica."
+        },
+        {
+          "label": "reacción de ONG",
+          "text": "Organizaciones de derechos humanos han criticado la falta de soluciones duraderas y la escasez de recursos para los migrantes alojados en los centros de acogida."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "298c5ffc7fa0",
+      "title": "¿Cómo debe facturar un freelancer a un cliente extranjero?",
+      "summary": "Los freelancers mexicanos que prestan servicios a clientes en el extranjero deben emitir facturas, aunque el cliente no tenga RFC, y seleccionar el régimen fiscal adecuado —como el RESICO o el de Actividades Empresariales y Profesionales— para cumplir con el SAT y evitar problemas tributarios.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/el-empresario/debe-facturar-freelancer-cliente-extranjero-20260817-828000.html",
+      "published_at": "2026-08-17T13:05:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es informativo y neutral, sin lenguaje cargado ni selección de fuentes que favorezcan una posición política o ideológica.",
+      "focus_analysis": "El medio se centra en la orientación fiscal y administrativa para freelancers, abordando requisitos de facturación, tipos de cambio y plataformas de cobro, mientras omite el impacto económico más amplio o testimonios personales.",
+      "focus_tags": [
+        "impuestos freelancers",
+        "régimen fiscal",
+        "pagos internacionales"
+      ],
+      "context": [
+        {
+          "label": "Marco legal mexicano",
+          "text": "En México, la Ley del Impuesto Sobre la Renta y el SAT exigen que cualquier ingreso, incluso los obtenidos del exterior, se respalde con un comprobante fiscal, independientemente de que el cliente tenga RFC."
+        },
+        {
+          "label": "Régimen RESICO",
+          "text": "El Régimen Simplificado de Confianza (RESICO) fue creado en 2022 para pequeños contribuyentes con ingresos anuales menores a 3.5 millones de pesos, ofreciendo una tasa de ISR entre 1% y 2.5% sin deducciones."
+        },
+        {
+          "label": "Plataformas de cobro transfronterizo",
+          "text": "El uso de fintechs y plataformas de pago como PayPal o Wise ha aumentado entre freelancers, aunque los bancos tradicionales pueden aplicar comisiones y tipos de cambio menos favorables al convertir divisas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "703f0b6f3069",
+      "title": "¿La cucaracha albina existe? por qué se ve blanca y qué significa cuando aparece en tu casa",
+      "summary": "El artículo de Infobae México explica que la cucaracha blanca que a veces se ve en los hogares no es una mutación albina, sino una fase transitoria tras la muda del exoesqueleto, y advierte que su presencia indica una colonia activa que puede suponer riesgos sanitarios.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/17/la-cucaracha-albina-existe-por-que-se-ve-blanca-y-que-significa-cuando-aparece-en-tu-casa/",
+      "published_at": "2026-08-17T13:19:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono descriptivo y objetivo, cita fuentes científicas y evita lenguaje emotivo o partidista, por lo que no muestra sesgo político ni ideológico.",
+      "focus_analysis": "El medio se centra en el aspecto biológico y de control de plagas, resaltando la explicación científica del fenómeno y las recomendaciones de higiene; deja de lado creencias populares o sensacionalismo alrededor del 'albinismo' de cucarachas.",
+      "focus_tags": [
+        "cucarachas",
+        "salud doméstica",
+        "control de plagas"
+      ],
+      "context": [
+        {
+          "label": "Mecanismo de muda",
+          "text": "En los insectos, la muda implica la pérdida del exoesqueleto antiguo, que al ser nuevo carece de pigmentación y se muestra blanco y blando durante unas horas antes de endurecerse y recolorarse."
+        },
+        {
+          "label": "Albinismo en animales",
+          "text": "El albinismo es una condición genética permanente que elimina la producción de melanina, y aunque es documentado en mamíferos y aves, no existen registros científicos de albinismo verdadero en cucarachas."
+        },
+        {
+          "label": "Riesgos sanitarios de infestaciones",
+          "text": "Una colonia de cucarachas en el hogar puede contaminar alimentos y propagar patógenos, por lo que la detección temprana, incluso de ejemplares blancos, es importante para aplicar medidas de limpieza y control."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "30e807a0b737",
+      "title": "Logra México pase a Juegos Olímpicos y bronce mundial en flag football femenil",
+      "summary": "La selección mexicana femenina de flag football se clasificó para los Juegos Olímpicos de Los Ángeles 2028 y ganó la medalla de bronce en el Campeonato Mundial de Düsseldorf, Alemania.",
+      "category": "deportes",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/1708/deportes/logra-mexico-pase-a-juegos-olimpicos-y-bronce-mundial-en-flag-football-femenil/",
+      "published_at": "2026-08-17T13:00:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva y celebratoria, sin usar lenguaje cargado ni citar fuentes políticas, manteniendo un tono neutral y centrado en el deporte.",
+      "focus_analysis": "El medio se enfocó en el logro deportivo y el orgullo nacional, dejando fuera cualquier análisis económico, político o de seguridad relacionado con el evento.",
+      "focus_tags": [
+        "deporte",
+        "olímpico",
+        "flag football"
+      ],
+      "context": [
+        {
+          "label": "antecedentes deportivos",
+          "text": "El flag football será incluido por primera vez como disciplina olímpica en los Juegos de Los Ángeles 2028, generando gran expectativa entre los equipos nacionales."
+        },
+        {
+          "label": "logro histórico",
+          "text": "La selección femenina de México obtuvo la medalla de bronce en el Campeonato Mundial de Düsseldorf, asegurando así una de las plazas olímpicas para la debut olímpico."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Otros medios, como El Economista, también resaltaron la dimensión histórica del paso de México, enfatizando la oportunidad de participar en el primer torneo olímpico de flag football."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f1f5682559ca",
+      "title": "Todos los Fire TV Stick han bajado de precio: así son las nuevas ofertas individuales y con packs de mandos Luna, Intercom y más",
+      "summary": "Amazon ha reducido los precios de toda su línea de dispositivos Fire TV Stick, ofreciendo desde el modelo básico HD a 31,99 €, hasta el Fire TV Cube a 129,99 €, con paquetes que incluyen mandos Luna y accesorios Ring.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/seleccion/todos-fire-tv-stick-han-bajado-precio-asi-nuevas-ofertas-individuales-packs-mandos-luna-intercom",
+      "published_at": "2026-08-17T13:16:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir precios y características de los productos sin usar lenguaje cargado ni citar fuentes con inclinación política.",
+      "focus_analysis": "El medio se centra en la perspectiva económica‑consumidor, resaltando los descuentos y los paquetes disponibles, mientras omite análisis de la competencia del mercado o de la sostenibilidad de los dispositivos.",
+      "focus_tags": [
+        "descuentos tecnología",
+        "Fire TV Stick",
+        "ofertas Amazon"
+      ],
+      "context": [
+        {
+          "label": "Estrategia de precios de Amazon",
+          "text": "Amazon suele bajar precios de sus dispositivos de streaming durante eventos de rebajas como Prime Day o el inicio del segundo semestre, con el objetivo de impulsar ventas y captar usuarios de plataformas de contenido."
+        },
+        {
+          "label": "Competencia en el segmento de streaming",
+          "text": "Otros fabricantes como Roku, Google Chromecast y Apple TV ofrecen dispositivos con precios y funcionalidades similares, lo que presiona a Amazon a ajustar sus tarifas para mantener su cuota de mercado."
+        },
+        {
+          "label": "Impacto de los paquetes con accesorios",
+          "text": "Los paquetes que incluyen mandos Luna o dispositivos Ring Intercom buscan añadir valor añadido y atraer a usuarios interesados en juegos y domótica, una tendencia creciente en la convergencia de entretenimiento y hogar inteligente."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "60619c578435",
+      "title": "Luz de papel: descubriendo la quietud de Fernando Pessoa",
+      "summary": "Una lámpara de escritorio, cubierta de polvo, se enciende en la madrugada, proyectando sombras que se convierten en palabras sueltas, como hojas secas que el viento arrastra. Cada haz de luz revela un fragmento de vida que el autor dejó atrapado entre líneas, y el silencio de la habitación se vuelve cómplice de esa conversación interior.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-17T13:22:36.260672+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, cuando el calor del verano se vuelve más denso, buscamos refugio en la frescura de los pensamientos que no siguen una trama lineal. La obra de Pessoa, con su estilo fragmentario, ofrece ese refugio: un espejo roto que refleja infinitas posibilidades de ser. Elegí este ángulo porque la noche de agosto invita a la introspección, y la mirada de Pessoa sobre la identidad se siente como una conversación íntima bajo la luz tenue de una lámpara.",
+      "focus_tags": [
+        "modernismo",
+        "Portugal",
+        "fragmentario"
+      ],
+      "context": [
+        {
+          "label": "Primer paso: adentrarse en la obra",
+          "text": "Comienza con \"El libro del desasosiego\", una colección de textos que no siguen orden cronológico, pero que, leídos en cualquier momento, forman un mapa de la mente del autor. No hay necesidad de seguir una línea narrativa; basta con dejar que cada fragmento sea una chispa que ilumine tu propio mundo interior."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si te cautiva la forma fragmentaria de Pessoa, explora \"Los cantos de la mañana\" de Álvaro de Campos, otro heterónimo que comparte la misma urgencia de capturar el instante. En la literatura anglosajona, la obra de Virginia Woolf, especialmente \"La señora Dalloway\", también juega con la corriente de la conciencia."
+        },
+        {
+          "label": "Trasfondo histórico",
+          "text": "Portugal en la década de 1920 vivía una efervescencia cultural marcada por la Modernidad y la búsqueda de una voz propia tras la Primera Guerra Mundial. Pessoa, con sus múltiples heterónimos, encarnó esa crisis de identidad, convirtiéndose en un espejo de una generación que intentaba redefinir quién era y quién podía ser."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.2
+      }
+    },
     {
       "id": "73a6a3279cb6",
       "title": "Se cierra la fecha 5 del Torneo Clausura: todo lo que hay que saber de los partidos de la jornada",
@@ -804,248 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "65e2c28652f3",
-      "title": "El BCE alerta que la euforia por la IA podría dar paso a una corrección bursátil",
-      "summary": "El Banco Central Europeo advierte que el entusiasmo exagerado por la inteligencia artificial está inflando las acciones tecnológicas de EE. UU., lo que podría desencadenar una corrección bursátil con repercusiones en la estabilidad financiera europea.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/mercados/bce-alerta-euforia-ia-dar-paso-correccion-bursatil-20260817-828615.html",
-      "published_at": "2026-08-17T12:18:18+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y citaciones la entrada del blog del BCE sin emplear lenguaje cargado ni presentar opiniones políticas, manteniendo un equilibrio entre datos y advertencias.",
-      "focus_analysis": "El medio se centra en el riesgo macro‑financiero y la posible corrección del mercado bursátil, dejando de lado un análisis profundo de las respuestas de política fiscal o monetaria y de los debates políticos sobre la regulación de la IA.",
-      "focus_tags": [
-        "mercado bursátil",
-        "inteligencia artificial",
-        "riesgo financiero"
-      ],
-      "context": [
-        {
-          "label": "Rol del BCE",
-          "text": "El Banco Central Europeo es la autoridad monetaria de la zona euro y, en ocasiones anteriores, ha emitido alertas sobre burbujas financieras para advertir a los mercados y a los responsables de política."
-        },
-        {
-          "label": "Burbuja puntocom",
-          "text": "La crisis de las puntocom a principios de los años 2000 mostró cómo la sobrevaloración de empresas tecnológicas puede provocar una caída abrupta de los precios y dificultar la actuación de los bancos centrales."
-        },
-        {
-          "label": "Exposición europea a la \"Siete Magníficas\"",
-          "text": "Los hogares y los fondos de pensiones en Europa poseen una exposición acumulada de cerca de 440 mil millones de euros a las principales compañías tecnológicas estadounidenses, lo que los hace vulnerables a una corrección del mercado estadounidense."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "0aa15603078e",
-      "title": "Cristales y electricidad: sobre el cine androide",
-      "summary": "Manuel Pacheco, en Letras Libres, propone el concepto de “cine androide” para describir películas que imitan comportamientos humanos con frialdad, rechazan la emoción y se centran en la tecnología, situándose en un futuro hipotético.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/revista/cristales-y-electricidad-sobre-el-cine-androide/17/08/2026/",
-      "published_at": "2026-08-17T07:00:00+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto emplea un lenguaje crítico y referencias a teóricos de la izquierda (Hito Steyerl, Benveniste), sin presentar argumentos conservadores ni favorecer una postura política clara.",
-      "focus_analysis": "El artículo se centra en el análisis estético y teórico del cine androide, destacando su dimensión tecnológica y experimental, mientras omite la perspectiva comercial o de audiencia masiva.",
-      "focus_tags": [
-        "cine androide",
-        "tecnología",
-        "crítica cultural"
-      ],
-      "context": [
-        {
-          "label": "Definición",
-          "text": "El 'cine androide' se define por la imitación de conductas humanas a través de actuaciones frías, el rechazo al sentimentalismo y una narrativa influenciada por la tecnología, proyectada a un tiempo futuro."
-        },
-        {
-          "label": "Ejemplos",
-          "text": "Ejemplos citados incluyen los videos caseros de John Bergeron, la película experimental 'Backrooms' y obras de Michael Snow como 'Wavelength', que exploran la fragmentación visual y la semiótica."
-        },
-        {
-          "label": "Contexto teórico",
-          "text": "El concepto se inscribe en la tradición de los 'imágenes pobres' de Hito Steyerl y en la crítica de la reproducción digital, donde la baja resolución y la dispersión digital redefinen la experiencia cinematográfica."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "73a6a3279cb6",
-      "title": "Se cierra la fecha 5 del Torneo Clausura: todo lo que hay que saber de los partidos de la jornada",
-      "summary": "La quinta fecha del Torneo Clausura de la Primera División argentina se jugará este lunes con cuatro encuentros clave que decidirán la lucha por la permanencia, los puestos de clasificación a copas internacionales y los liderazgos de zona.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
-      "published_at": "2026-08-17T11:05:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los partidos, horarios y situaciones competitivas de forma objetiva, sin usar adjetivos cargados ni favorecer a ningún club de manera evidente.",
-      "focus_analysis": "El medio opta por una cobertura centrada en el panorama deportivo y los intereses de clasificación o descenso de los equipos, dejando de lado análisis tácticos profundos o la perspectiva de los aficionados.",
-      "focus_tags": [
-        "fútbol",
-        "torneo clausura",
-        "previa de partidos"
-      ],
-      "context": [
-        {
-          "label": "Estructura del torneo",
-          "text": "El Torneo Clausura constituye la segunda mitad del campeonato de Primera División de Argentina, donde los 28 equipos se enfrentan en un sistema de todos contra todos y los resultados determinan la clasificación a la Copa Libertadores, la Copa Sudamericana y la permanencia en la categoría."
-        },
-        {
-          "label": "Situación de Independiente",
-          "text": "Independiente, uno de los clubes más tradicionales del fútbol argentino, busca consolidarse en la zona media de la tabla tras una campaña irregular que lo mantiene alejado tanto de los puestos de clasificación a copas como de la zona de descenso."
-        },
-        {
-          "label": "Riesgo de descenso y clasificación",
-          "text": "En la Primera División argentina, los cinco últimos equipos de la tabla de promedios al final de la temporada descienden, mientras que los primeros lugares de cada zona aseguran puestos para la Copa Libertadores y los siguientes para la Copa Sudamericana."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "8825a2e26138",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno anuncia que se habilitan espacios para albergar a 1.500 migrantes más",
-      "summary": "El gobierno de España, representado por la ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, anunció la habilitación de cuatro espacios temporales en Ceuta para albergar a 1 500 migrantes tras la llegada masiva de decenas de miles a finales de julio. La medida se produjo tras la presión del presidente de la ciudad autónoma, Juan Jesús Vivas, y del partido popular, que calificó la situación de crisis de soberanía.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-17/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-17T11:53:49+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto utiliza expresiones como \"crisis migratoria\" y \"crisis de soberanía\" que reflejan la visión del PP, y destaca la falta de respuesta del gobierno, lo que indica una ligera inclinación hacia la crítica de la gestión oficial, típica de la línea editorial de El País.",
-      "focus_analysis": "El artículo se centra en la respuesta institucional y el debate político sobre la gestión de la crisis migratoria en Ceuta, dejando de lado el relato humano de los migrantes y sus condiciones.",
-      "focus_tags": [
-        "crisis migratoria",
-        "política de seguridad",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "A finales de julio de 2026, Ceuta recibió una oleada de decenas de miles de migrantes que cruzaron la frontera desde Marruecos, generando una situación de emergencia humanitaria y de presión sobre los recursos locales."
-        },
-        {
-          "label": "Política migratoria española",
-          "text": "España ha utilizado históricamente centros de acogida temporales y acuerdos bilaterales con Marruecos para gestionar flujos migratorios, aunque la normativa ha sido objeto de debate entre partidos por su enfoque en seguridad versus derechos humanos."
-        },
-        {
-          "label": "Postura del PP",
-          "text": "El Partido Popular, a través de su vicesecretaria Cuca Gamarra, ha presentado una propuesta en el Congreso que incluye el retorno inmediato de los migrantes, la activación de la ley de seguridad nacional y el reforzamiento de la frontera, subrayando la dimensión de soberanía territorial."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "6554adbbc3ec",
-      "title": "La vuelta al cole es sólo una excusa: aprovecha estas ofertas para renovar tu portátil",
-      "summary": "Hipertextual informa que PcComponentes ha lanzado una campaña de \"vuelta al cole\" con descuentos de hasta el 50 % en portátiles de distintas gamas, ofreciendo envío gratuito y garantía para compras superiores a 50 euros.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/ofertas-descuentos/la-vuelta-al-cole-es-solo-una-excusa-aprovecha-estas-ofertas-para-renovar-tu-portatil/",
-      "published_at": "2026-08-17T11:53:53+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir ofertas comerciales sin usar vocabulario cargado ni presentar opiniones políticas; el tono es informativo y promocional, sin sesgo ideológico.",
-      "focus_analysis": "El medio se centra en la perspectiva de consumo, resaltando precios, marcas y condiciones de compra, mientras omite análisis sobre el impacto económico de estas rebajas o consideraciones medioambientales de la renovación de equipos.",
-      "focus_tags": [
-        "ofertas tecnología",
-        "portátiles",
-        "vuelta al cole"
-      ],
-      "context": [
-        {
-          "label": "Tradición de \"vuelta al cole\"",
-          "text": "En España y América Latina, la campaña de \"vuelta al cole\" es una estrategia de marketing estacional que impulsa descuentos en material escolar y tecnológico a mediados de agosto."
-        },
-        {
-          "label": "PcComponentes",
-          "text": "PcComponentes es una de las mayores plataformas de comercio electrónico de tecnología en España, conocida por sus ofertas periódicas y su política de envío gratuito a partir de un importe mínimo."
-        },
-        {
-          "label": "Tendencia de rebajas en tecnología",
-          "text": "Los fabricantes y distribuidores de ordenadores suelen lanzar promociones de back‑to‑school con descuentos que pueden superar el 40 %, una práctica reportada también por otros medios de consumo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "714843513fb4",
-      "title": "Portada impresa del 17 de agosto de 2026",
-      "summary": "El Universal anunció la publicación de su portada impresa del 17 de agosto de 2026, accesible para los suscriptores de la edición completa.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/portada-impresa/portada-impresa-del-17-de-agosto-de-2026/",
-      "published_at": "2026-08-17T11:54:29+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar sobre la disponibilidad de la edición impresa sin incluir opiniones, fuentes ni lenguaje cargado, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centró en la difusión de la edición impresa y la suscripción, omitiendo cualquier contenido informativo o analítico de la fecha.",
-      "focus_tags": [
-        "medios",
-        "publicación impresa",
-        "suscripción"
-      ],
-      "context": [
-        {
-          "label": "Perfil del medio",
-          "text": "El Universal es uno de los periódicos más leídos de México, con una línea editorial que tiende a la moderación y cubre una amplia gama de temas."
-        },
-        {
-          "label": "Tendencias de la prensa escrita",
-          "text": "A nivel global, la circulación de periódicos impresos ha disminuido en los últimos años, lo que ha llevado a muchos medios a reforzar sus versiones digitales y suscripciones."
-        },
-        {
-          "label": "Estrategias de suscripción en México",
-          "text": "En 2026, varios diarios mexicanos, incluido El Universal, ofrecen acceso a la edición completa a través de suscripciones pagas, buscando compensar la caída de ingresos publicitarios."
-        }
-      ],
-      "confidence": "baja"
-    },
-    {
-      "id": "64fbe0ed2643",
-      "title": "La agenda de libertad de expresión en Guanajuato",
-      "summary": "El artículo del Periódico AM describe cómo la violencia contra periodistas en el estado de Guanajuato, México, ha aumentado en la última década, con 239 agresiones y seis asesinatos, y exige una agenda integral que incluya protección, fin a la impunidad y regulación de la publicidad oficial.",
-      "category": "politica",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/opinion/2026/08/17/la-agenda-de-libertad-de-expresion-en-guanajuato-1833146.html",
-      "published_at": "2026-08-17T12:00:00+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto emplea términos cargados como \"impunidad\", \"censura indirecta\" y \"complicidad de autoridades locales\", y se apoya en informes de ONG y la CIDH sin presentar respuestas oficiales, lo que indica una postura crítica hacia el gobierno estatal.",
-      "focus_analysis": "El medio enfatiza el ángulo de derechos humanos y la falta de seguridad institucional para los periodistas, dejando de lado aspectos económicos o la posición de partidos políticos en la región.",
-      "focus_tags": [
-        "derechos humanos",
-        "libertad de expresión",
-        "violencia contra periodistas"
-      ],
-      "context": [
-        {
-          "label": "situación nacional de violencia contra periodistas",
-          "text": "A nivel nacional, la organización ARTICLE 19 registra más de 1,200 agresiones a periodistas entre 2015 y 2025, situando a México entre los países con mayor riesgo para la prensa."
-        },
-        {
-          "label": "respuesta del gobierno federal",
-          "text": "El gobierno federal mexicano lanzó en 2023 el Programa Nacional de Protección a Defensoras y Defensores de Derechos Humanos, pero su implementación ha sido señalada como insuficiente por observadores internacionales."
-        },
-        {
-          "label": "comparación con otros estados",
-          "text": "Estados como Veracruz y Chihuahua también aparecen entre los cinco con más asesinatos de periodistas, lo que muestra que la crisis de seguridad periodística no es exclusiva de Guanajuato."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]
