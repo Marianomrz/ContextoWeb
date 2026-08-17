@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-17T11:42:12.814635+00:00",
+  "generated_at": "2026-08-17T11:53:42.311529+00:00",
   "articles": [
+    {
+      "id": "1b8a528dc8f3",
+      "title": "Claude ya marca todo el texto generado con una marca de agua y hay gente buscando la forma de quitarla: «Si se puede detectar, se puede eliminar»",
+      "summary": "Claude, el modelo de IA de Anthropic, incorpora una marca de agua invisible en todo el texto que genera, y ya aparecen proyectos que intentan eliminarla, aunque su efectividad sigue siendo incierta.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/tecnologia/claude-ya-marca-todo-el-texto-generado-con-una-marca-de-agua-y-ya-hay-gente-buscando-la-forma-de-quitarla-si-se-puede-detectar-se-puede-eliminar/",
+      "published_at": "2026-08-17T11:11:52+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo presenta de información técnica y menciona tanto las críticas como los intentos de solución sin usar un lenguaje cargado ni favorecer a ninguna posición.",
+      "focus_analysis": "El medio se centra en el aspecto técnico del watermark y los intentos de borrado, dejando de lado el debate ético y regulatorio sobre la identificación de contenido generado por IA.",
+      "focus_tags": [
+        "IA watermark",
+        "detección de marcas",
+        "tecnología de texto"
+      ],
+      "context": [
+        {
+          "label": "Claude y Anthropic",
+          "text": "Claude es el modelo de lenguaje grande desarrollado por Anthropic, una empresa conocida por priorizar la seguridad y la alineación de IA."
+        },
+        {
+          "label": "Watermarks en IA",
+          "text": "Diversas compañías, como OpenAI con su Detectable watermark, han implementado marcas de agua en texto generado para facilitar su identificación y combatir la desinformación."
+        },
+        {
+          "label": "Respuesta de la comunidad",
+          "text": "Desarrolladores de código abierto están creando herramientas como claude-watermark-cleaner y watermarks-remover que buscan eliminar estas marcas, lo que genera un debate sobre la efectividad y la ética de dichos intentos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "0aa15603078e",
+      "title": "Cristales y electricidad: sobre el cine androide",
+      "summary": "El ensayista Manuel Pacheco propone la categoría del cine androide, describiendo sus rasgos como actuaciones frías, rechazo al sentimiento y una narrativa influida por la tecnología, y analiza ejemplos como los videos de John Bergeron y obras de Michael Snow.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/revista/cristales-y-electricidad-sobre-el-cine-androide/17/08/2026/",
+      "published_at": "2026-08-17T07:00:00+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto emplea un lenguaje crítico y académico propio del discurso cultural de izquierda, resaltando la innovación y la crítica a la producción tradicional, sin presentar una postura política explícita.",
+      "focus_analysis": "El artículo se centra en el análisis estético y tecnológico del cine androide, destacando su forma y su relación con la tecnología, mientras deja de lado cualquier discusión sobre su impacto social o político.",
+      "focus_tags": [
+        "cine experimental",
+        "tecnología",
+        "estética"
+      ],
+      "context": [
+        {
+          "label": "Definición del concepto",
+          "text": "El 'cine androide' se define por la imitación de comportamientos humanos mediante actuaciones frías, el rechazo al sentimiento y una narrativa marcada por la tecnología, dirigida a un público futuro."
+        },
+        {
+          "label": "Imágenes pobres según Hito Steyerl",
+          "text": "El artículo relaciona este tipo de cine con el concepto de 'imágenes pobres' de Hito Steyerl, que describe grabaciones de baja resolución y difusión digital que fragmentan la tradición cinematográfica."
+        },
+        {
+          "label": "Antecedentes históricos",
+          "text": "Se citan ejemplos históricos como los experimentos semióticos de Michael Snow, cuyas obras como 'Wavelength' y 'Corpus Callosum' son precedentes de la estética despojada y fragmentada del cine androide."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "73a6a3279cb6",
+      "title": "Se cierra la fecha 5 del Torneo Clausura: todo lo que hay que saber de los partidos de la jornada",
+      "summary": "La quinta fecha del Torneo Clausura de la Primera División argentina se jugará este lunes 17 de agosto, con cuatro partidos clave que decidirán la permanencia, la clasificación a copas internacionales y los puestos de liderazgo en las dos zonas del torneo.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
+      "published_at": "2026-08-17T11:05:17+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los encuentros, horarios y consecuencias deportivas sin usar vocabulario cargado ni citar fuentes con sesgo, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se concentra en el aspecto deportivo‑competitivo del calendario, resaltando la lucha por la permanencia y los cupos internacionales, mientras deja de lado la perspectiva humana o social de los clubes y sus aficionados.",
+      "focus_tags": [
+        "fútbol argentino",
+        "Torneo Clausura",
+        "clasificación internacional"
+      ],
+      "context": [
+        {
+          "label": "Estructura del Torneo Clausura",
+          "text": "El Torneo Clausura de la Primera División argentina se divide en dos zonas; los equipos compiten por puntos para definir los puestos de clasificación a la Copa Libertadores, Copa Sudamericana y los descensos, según la tabla anual y los promedios de los últimos torneos."
+        },
+        {
+          "label": "Importancia de la clasificación a copas internacionales",
+          "text": "Los primeros lugares de cada zona garantizan cupos directos para la Copa Libertadores 2027, mientras que los siguientes puestos pueden acceder a la Copa Sudamericana, lo que representa ingresos significativos y mayor visibilidad para los clubes."
+        },
+        {
+          "label": "Situación reciente de los equipos protagonistas",
+          "text": "Independiente, Vélez y Gimnasia de Mendoza se encuentran en la lucha por mantenerse en la primera división o mejorar su posición en la tabla anual, mientras que equipos como Estudiantes de Río Cuarto y Talleres de Córdoba buscan consolidarse tras su ascenso reciente."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "271a12116f66",
+      "title": "EE.UU. y Corea del Sur inician ejercicios militares, tras reducción anunciada por Trump",
+      "summary": "Los ejércitos de Estados Unidos y Corea del Sur comenzaron el ejercicio conjunto Ulchi Freedom Shield 2026, pese a la reducción anunciada por el presidente Donald Trump, quien citó su relación con Kim Jong‑un y el costo financiero como motivos.",
+      "category": "politica",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/1708/mundo/ee-uu-y-corea-del-sur-inician-ejercicios-militares-tras-reduccion-anunciada-por-trump/",
+      "published_at": "2026-08-17T11:30:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir los hechos y citar a los actores involucrados sin usar adjetivos cargados ni emitir juicios, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el aspecto de seguridad y la continuidad de la alianza militar frente a Corea del Norte, dejando de lado la discusión sobre las implicaciones políticas internas de EE.UU. o el impacto económico de la reducción.",
+      "focus_tags": [
+        "seguridad militar",
+        "alianza EE.UU.-Corea del Sur",
+        "tensiones con Corea del Norte"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "El ejercicio Ulchi Freedom Shield es una maniobra anual que moviliza alrededor de 18 000 soldados surcoreanos y 28 500 efectivos estadounidenses, y ha sido un símbolo de la cooperación bilateral durante décadas."
+        },
+        {
+          "label": "comparación",
+          "text": "Otros medios, como Expansión, describen la decisión de Trump como una señal hostil hacia Corea del Norte, mientras que la nota de Aristegui se limita a mencionar la reducción sin calificarla de esa forma."
+        },
+        {
+          "label": "postura externa",
+          "text": "El País América destaca que Trump también criticó la falta de cooperación de Seúl en la lucha contra Irán, un ángulo que la cobertura de Aristegui no menciona."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f1541f07fdf4",
+      "title": "¿Qué está pasando en el Metro y Metrobús hoy 17 de agosto?",
+      "summary": "El Sistema de Transporte Colectivo Metro y Metrobús de la Ciudad de México informó que sus servicios operaron con normalidad el lunes 17 de agosto, ofreciendo actualizaciones en vivo sobre el estado de las líneas, tiempos de espera y posibles incidencias.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/17/que-esta-pasando-en-el-metro-y-metrobus-hoy-17-de-agosto/",
+      "published_at": "2026-08-17T11:45:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje descriptivo y objetivo, sin adjetivos cargados ni fuentes con sesgo; se limita a informar el funcionamiento del servicio.",
+      "focus_analysis": "El artículo se centra en la información operativa del transporte público, resaltando la disponibilidad del servicio y los datos en tiempo real, mientras omite aspectos humanos como la experiencia de los usuarios o posibles problemas de infraestructura.",
+      "focus_tags": [
+        "transporte público",
+        "servicio en vivo",
+        "CDMX"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del sistema",
+          "text": "El Sistema de Transporte Colectivo (STC) Metro y Metrobús es la columna vertebral del transporte urbano de la Ciudad de México, movilizando diariamente a más de ocho millones de pasajeros."
+        },
+        {
+          "label": "Práctica de comunicaciones en tiempo real",
+          "text": "Desde hace años, la STC publica actualizaciones en vivo a través de sus canales digitales para informar a los usuarios sobre cierres de estaciones, demoras y otras incidencias."
+        },
+        {
+          "label": "Incidencias recientes",
+          "text": "En semanas anteriores, el Metro y el Metrobús han enfrentado interrupciones ocasionales por trabajos de mantenimiento y protestas de trabajadores, lo que ha generado la necesidad de informar rápidamente a los usuarios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "70b34933b6d7",
+      "title": "Renovar tu tablet es mucho más fácil con la última campaña de AliExpress: cinco modelos que se quedan a un precio fantástico",
+      "summary": "Xataka informa que la campaña \"Ahorros en aranceles\" de AliExpress, el marketplace chino, ofrece grandes descuentos en cinco modelos de tablets, con cupones y una rebaja adicional al pagar con PayPal.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/seleccion/renovar-tu-tablet-mucho-facil-ultima-campana-aliexpress-cinco-modelos-que-se-quedan-a-precio-fantastico",
+      "published_at": "2026-08-17T11:46:20+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir ofertas y características de productos sin usar lenguaje cargado ni incluir fuentes con sesgo político.",
+      "focus_analysis": "El artículo se centra en el ángulo económico‑consumidor, resaltando precios y descuentos, mientras omite análisis de la competencia del mercado o implicaciones de la política comercial china.",
+      "focus_tags": [
+        "descuentos",
+        "tablets",
+        "AliExpress"
+      ],
+      "context": [
+        {
+          "label": "Campañas habituales de AliExpress",
+          "text": "AliExpress suele lanzar promociones quincenales con cupones y descuentos en distintas categorías, una estrategia que busca impulsar ventas y captar usuarios internacionales."
+        },
+        {
+          "label": "Mercado de tablets en 2026",
+          "text": "El segmento de tablets en 2026 está dominado por marcas chinas como Xiaomi, Redmi y HONOR, que compiten con fabricantes occidentales ofreciendo variedad de precios y especificaciones."
+        },
+        {
+          "label": "Competencia con otras plataformas",
+          "text": "Plataformas como Amazon y eBay también presentan ofertas y cupones en sus secciones de electrónica, lo que genera una presión competitiva que beneficia a los consumidores."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "f225d92a1072",
       "title": "El Apple Watch SE 3 a precio de outlet: así la mejor oferta  de su versión LTE hasta la fecha",
@@ -839,216 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "602ec298389e",
-      "title": "Fascinación por  el poeta andaluz tiene nuevos bríos",
-      "summary": "A los noventa años del asesinato del poeta andaluz Federico García Lorca, se ha renovado el interés con la publicación de una decena de libros, materiales fílmicos y obras musicales que exploran su vida y obra.",
-      "category": "sociedad",
-      "source_name": "La Jornada Cultura",
-      "source_url": "https://www.jornada.com.mx/2026/08/17/cultura/a03n1cul?partner=rss",
-      "published_at": "2026-08-17T08:21:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono descriptivo y celebratorio, sin usar vocabulario cargado ni favorecer una postura política; se centra en la difusión cultural del autor.",
-      "focus_analysis": "El medio eló el ángulo cultural e histórico, resaltando las nuevas publicaciones y producciones sobre Lorca, mientras dejó de lado el contexto político de su muerte y la repercusión del franquismo.",
-      "focus_tags": [
-        "cultura literaria",
-        "publicaciones",
-        "memoria histórica"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes históricos",
-          "text": "Federico García Lorca, destacado poeta y dramaturgo granadino, fue detenido y asesinado en 1936 durante la Guerra Civil española; su cuerpo nunca fue recuperado."
-        },
-        {
-          "label": "Renovación editorial reciente",
-          "text": "En 2026 se han lanzado en México y España varios volúmenes inéditos, colecciones de cartas y adaptaciones gráficas que presentan nuevas perspectivas sobre la obra y la vida de Lorca."
-        },
-        {
-          "label": "Participación institucional",
-          "text": "La Fundación Federico García Lorca y editoriales como Akal y Arrebato Libros han financiado y publicado estos proyectos, apoyados por historiadores como Ian Gibson."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "7c7f108b8a40",
-      "title": "Tras vencer a Djokovic, Thiago Tirante enfrentará a Landaluce por el Masters 1000 de Cincinnati: hora y cómo ver en vivo",
-      "summary": "El tenista argentino Thiago Tirante, después de derrotar al serbio Novak Djokovic en la segunda ronda del Masters 1000 de Cincinnati, se medirá contra el español Martín Landaluce en los dieciséisavos de final, partido que se transmitirá en vivo por ESPN y Disney+.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/17/tras-vencer-a-djokovic-thiago-tirante-enfrentara-a-landaluce-por-el-masters-1000-de-cincinnati-hora-y-como-ver-en-vivo/",
-      "published_at": "2026-08-17T09:59:28+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin palabras cargadas ni selección de fuentes que favorezcan una posición política o ideológica.",
-      "focus_analysis": "El medio se centra en el desempeño individual de los jugadores y en la expectativa del próximo encuentro, dejando de lado aspectos como el impacto en el ranking mundial o la organización del torneo.",
-      "focus_tags": [
-        "tennis",
-        "Masters 1000",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Historia reciente de Djokovic",
-          "text": "Novak Djokovic, número 7 del ranking y con 24 títulos de Grand Slam, es una de las figuras más dominantes del tenis mundial, lo que convierte cualquier victoria sobre él en un hito para sus o."
-        },
-        {
-          "label": "Trayectoria de Thiago Tirante",
-          "text": "Thiago Tirante, 25 años, alcanzó el puesto 50 en el ranking ATP, su mejor posición hasta la fecha, y previamente fue número 1 del mundo junior en 2019, destacándose en torneos como el Australian Open y Wimbledon."
-        },
-        {
-          "label": "Perfil de Martín Landaluce",
-          "text": "Martín Landaluce, de 20 años y formado en la Rafa Nadal Academy, ocupa el puesto 67 del ranking y aún no ha conseguido títulos ni finales en el ATP Tour, aunque ha mostrado buen nivel en eventos como el Masters de Miami."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "f225d92a1072",
-      "title": "El Apple Watch SE 3 a precio de outlet: así la mejor oferta  de su versión LTE hasta la fecha",
-      "summary": "Applesfera destaca que el Apple Watch SE 3 de 44 mm con conectividad GPS + Cellular está disponible en Amazon a 299 €, su precio más bajo registrado para esa configuración, y lo presenta como la mejor oferta del momento.",
-      "category": "tecnologia",
-      "source_name": "Applesfera",
-      "source_url": "https://www.applesfera.com/seleccion/apple-watch-se-3-a-precio-outlet-asi-mejor-oferta-su-version-lte-fecha",
-      "published_at": "2026-08-17T10:30:48+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la promoción del producto y menciona comisiones por enlaces afiliados, sin presentar críticas ni perspectivas contrapuestas, lo que indica un sesgo comercial pero no político.",
-      "focus_analysis": "El medio elige el ángulo de la oferta y el ahorro para el consumidor, resaltando precios y funciones, mientras omite análisis de la estrategia de precios de Apple o comparaciones con otros smartwatches.",
-      "focus_tags": [
-        "oferta",
-        "Apple Watch",
-        "tecnología"
-      ],
-      "context": [
-        {
-          "label": "Histórico de precios",
-          "text": "El Apple Watch SE 3 se lanzó en 2022 con precios de venta al público alrededor de 329 € para la versión GPS + Cellular, y ha experimentado reducciones ocasionales, pero la oferta de 299 € marca su nivel más bajo registrado."
-        },
-        {
-          "label": "Tendencia de precios de Apple",
-          "text": "En los últimos meses, algunos dispositivos de Apple han subido de precio mientras que otros, como ciertos modelos de iPhone y iPad, han recibido descuentos, reflejando una estrategia de precios diferenciada según la demanda del mercado."
-        },
-        {
-          "label": "Competencia en ofertas",
-          "text": "Otros medios han reportado rebajas significativas en smartwatches de la competencia, como el Xiaomi Watch 2, que también alcanzó su precio más bajo en Amazon, subrayando una tendencia general de descuentos en dispositivos wearables."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "d7eb54d95245",
-      "title": "Precio de la gasolina en Nuevo León hoy lunes 17 de agosto: ¿Cuánto cuesta el litro de Magna y Premium?",
-      "summary": "El precio promedio de la gasolina Magna y Premium en Nuevo León el 17 de agosto de 2026 fue de aproximadamente 24.10 y 29.53 pesos por litro, respectivamente, mientras que el diésel rondó los 27.06 pesos; la información proviene de la Comisión Nacional de Energía, que ahora regula los combustibles tras la eliminación de la CRE.",
-      "category": "economia",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/17/precio-de-la-gasolina-en-nuevo-leon-hoy-lunes-17-de-agosto-cuanto-cuesta-el-litro-de-magna-y-premium/",
-      "published_at": "2026-08-17T10:31:27+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo mantiene un tono estrictamente informativo, se apoya en datos oficiales y evita opiniones o lenguaje cargado, lo que refleja una cobertura neutral.",
-      "focus_analysis": "El medio prioriza el impacto económico de los precios de los combustibles y el marco regulatorio, sin abordar debates políticos o sociales sobre la política de precios.",
-      "focus_tags": [
-        "precios de combustible",
-        "economía mexicana",
-        "regulación energética"
-      ],
-      "context": [
-        {
-          "label": "Regulación de precios de combustible en México",
-          "text": "Desde la disolución de la Comisión Reguladora de Energía (CRE) en marzo de 2025, la Comisión Nacional de Energía (CNE) es la única autoridad técnica encargada de fijar precios, tarifas y supervisar el sector energético mexicano."
-        },
-        {
-          "label": "Acuerdo de límite de precio de gasolina Magna",
-          "text": "A in de 2025, la presidenta Claudia Sheinbaum y representantes del sector empresarial firmaron un acuerdo para que la gasolina tipo Magna no exceda los 24 pesos por litro."
-        },
-        {
-          "label": "Impacto de los precios de combustible en la inflación",
-          "text": "Los costos de la gasolina y el diésel son componentes clave del cálculo de la inflación en México, afectando directamente el poder adquisitivo de los hogares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
-      }
-    },
-    {
-      "id": "8825a2e26138",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP denuncia la “negligencia, irresponsabilidad y pasividad absoluta” del Gobierno respecto a Ceuta",
-      "summary": "La vicesecretaria de regeneración institucional del Partido Popular, Cuca Gamarra, y el presidente de la ciudad autónoma de Ceuta, Juan Jesús Vivas, acusaron al Gobierno de España de \"negligencia, irresponsabilidad y pasividad absoluta\" ante la masiva entrada de inmigrantes en Ceuta, mientras el presidente del Gobierno, Pedro Sánchez, y sus ministros intentan gestionar la crisis desde una videoconferencia y visitas al terreno.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-17/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-17T10:35:44+00:00",
-      "bias_score": 20,
-      "bias_reason": "El artículo destaca con énfasis los calificativos duros del PP y la ausencia del presidente del Gobierno, presentando la gestión gubernamental como deficiente, mientras que la respuesta oficial se menciona de forma más neutral.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y político, resaltando la crítica del PP y la falta de respuesta del Gobierno, dejando en segundo plano la dimensión humanitaria de los migrantes y sus condiciones de vida.",
-      "focus_tags": [
-        "política",
-        "crisis migratoria",
-        "responsabilidad gubernamental"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "A finales de julio de 2026, decenas de miles de personas cruzaron el paso del Tarajal y entraron en la ciudad autónoma española de Ceuta, provocando una situación de emergencia que superó la capacidad de los servicios locales."
-        },
-        {
-          "label": "Comparación histórica",
-          "text": "Ceuta ha experimentado episodios similares de llegadas masivas de migrantes en 2021 y 2022, cuando el Gobierno español también enfrentó críticas por la rapidez y eficacia de su respuesta."
-        },
-        {
-          "label": "Posición de actores externos",
-          "text": "Marruecos, que controla la frontera norte de Ceuta, ha señalado la necesidad de cooperación con la UE para reforzar la vigilancia y evitar futuros desbordes migratorios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "bb946080a335",
-      "title": "El cine revive: las grandes películas vuelven a conquistar la taquilla",
-      "summary": "El cine ha experimentado un notable repunte en 2026, con varias películas superando los mil millones de dólares y la taquilla global acercándose a los niveles pre‑pandémicos.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/el-cine-revive-las-grandes-peliculas-vuelven-a-conquistar-la-taquilla/",
-      "published_at": "2026-08-17T10:39:07+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, centrado en datos de recaudación sin emplear vocabulario cargado ni favorecer posiciones políticas o ideológicas.",
-      "focus_analysis": "El artículo se enfoca en el desempeño económico de la industria cinematográfica y la experiencia del público en salas, dejando de lado la discusión sobre el impacto del streaming o análisis socioculturales más profundos.",
-      "focus_tags": [
-        "caja taquilla",
-        "revival cinematográfico",
-        "blockbuster"
-      ],
-      "context": [
-        {
-          "label": "Antecedente",
-          "text": "La pandemia de COVID‑19 provocó el cierre de salas de cine en 2020, reduciendo drásticamente la recaudación mundial y generando una caída significativa en la industria."
-        },
-        {
-          "label": "Dato comparable",
-          "text": "En 2019, la taquilla global alcanzó aproximadamente 42,5 mil millones de dólares, el último año pre‑pandémico con récords de recaudación."
-        },
-        {
-          "label": "Postura de la industria",
-          "text": "Según la Motion Picture Association, el regreso de los espectadores a las salas se atribuye a la salida de grandes franquicias y a la oferta de formatos inmersivos como IMAX y 4DX."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
