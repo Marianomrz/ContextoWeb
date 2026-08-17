@@ -1,187 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T05:43:48.331525+00:00",
-      "title": "La actriz Hayden Panettiere muere a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 8,
-        "estructura_piramide": 9
-      },
-      "observacion": "Aunque la redacción y estructura son adecuadas, la falta de veracidad y fuentes confiables invalida el artículo para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:43:52.808732+00:00",
-      "title": "El legado deportivo de San Martín: cuántos clubes llevan su nombre en Argentina y el “clásico” con B",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Extra data: line 18 column 1 (char 1074)"
-    },
-    {
-      "at": "2026-08-17T05:43:58.189970+00:00",
-      "title": "¿Dónde se casaron Cristiano Ronaldo y Georgina Rodríguez? La verdad de su boda secreta",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la verificación de los datos y reforzar fuentes más fiables, pero en cuanto a estructura, actualidad y objetividad cumple con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:44:02.720938+00:00",
-      "title": "Hayden Panettiere: la actriz que creció frente a las cámaras y enfrentó sus propios demonios",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es objetivo en tono pero contiene una información central falsa, lo que compromete gravemente su veracidad y fiabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:44:06.849740+00:00",
-      "title": "La pesadilla de Virgin Galactic no tiene fin: otra vez retrasa sus vuelos comerciales al borde del e",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete necesita mejorar la veracidad y el equilibrio de fuentes antes de ser publicado; actualmente presenta sesgo y datos no corroborados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:44:15.781213+00:00",
-      "title": "Lo que los bonobos saben de nosotros",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple razonablemente con la estructura y la actualidad, pero contiene errores de veracidad y una cobertura de fuentes limitada que afectan su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:44:20.876086+00:00",
-      "title": "La prueba de fuego de la Secretaría de Salud",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es reciente y bien estructurado, pero carece de fuentes contrastantes, lo que limita su cobertura completa del tema político.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:44:25.745508+00:00",
-      "title": "Una fuerte réplica sacude la isla de Flores en Indonesia",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, y está bien estructurado y actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T06:00:49.269346+00:00",
-      "title": "Cuando el vapor del café revela la magia de la literatura latinoamericana",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 6,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una voz atractiva y una reflexión interesante, aunque podría fortalecer su estructura narrativa para mayor cohesión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T06:00:52.112721+00:00",
-      "title": "Jornada Nacional de Reforestación, una responsabilidad de todos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete es actual y bien estructurado, pero la falta de fuentes verificadas y el sesgo elogioso limitan su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T06:00:59.132759+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial: es preciso, bien contrastado, objetivo, actual y estructurado según la pirámide invertida.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T06:01:10.349040+00:00",
       "title": "Hayden Panettiere: las pérdidas y batallas que enfrentó lejos de los reflectores",
       "kind": "noticia",
@@ -3392,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los requisitos editoriales, presentando información veraz, objetiva y estructurada, pese a leves imperfecciones de estilo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:03:12.541369+00:00",
+      "title": "Por qué es más barato dormir en Venecia que en Murcia: viajar dentro de España se ha vuelto insosten",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información potencialmente imprecisa y falta de fuentes contrastadas, aunque está actualizado y estructurado de forma adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:03:25.054984+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, actual y estructurada de forma objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:03:38.983988+00:00",
+      "title": "Independiente visitará a Lanús tras el despido de Quinteros y a la espera del debut de su nuevo DT: ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de objetividad y actualidad; solo se podría enriquecer con fuentes adicionales, aunque no es imprescindible para este tipo de noticia.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:03:48.169581+00:00",
+      "title": "Las restricciones a las mujeres agravan el costo económico para Afganistán",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es informativo y actual, pero necesita mayor equilibrio de fuentes y evitar lenguaje sensacionalista.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:03:54.914815+00:00",
+      "title": "Aguacate exportado a China lleva sello de La Familia Michoacana",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero carece de verificación y de fuentes múltiples, y muestra un sesgo claro que compromete su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:04:09.769594+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP denuncia la “negligencia, irres",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información reciente y equilibrada, aunque podría mejorar la precisión de datos y la citación de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:04:29.984778+00:00",
+      "title": "Cristales y electricidad: sobre el cine androide",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En conjunto el paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la precisión mediante la inclusión de citas y datos verificables más concretos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:04:37.612394+00:00",
+      "title": "Ha vuelto LaLiga y con ella lo que ya es una triste tradición en España: los bloqueos de IPs",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero presenta deficiencias en verificación de datos y en ofrecer una cobertura equilibrada con múltiples perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:04:49.250070+00:00",
+      "title": "Arantza Ruiz rechaza reconciliarse con Flor Vigna fuera de La Casa de los Famosos 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los criterios de calidad periodística, presentando la información de forma clara y objetiva, aunque podría reforzar la verificabilidad con citas directas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:05:01.438932+00:00",
+      "title": "La batalla legal de USD 50 millones entre una figura del deporte y su ex pareja: “Lo mejor para nues",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete contiene errores factuales graves y carece de contraste de fuentes adecuado, lo que lo descalifica para publicación sin una revisión exhaustiva y corrección de datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T11:05:15.836456+00:00",
+      "title": "México exporta 10 veces más bienes que servicios",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado para publicación, aunque la ausencia de referencias precisas reduce la puntuación de veracidad.",
       "error": null
     }
   ]
