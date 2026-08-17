@@ -1,210 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T17:37:23.222337+00:00",
-      "title": "Anthropic ha construido un modelo mejor que Mythos. También ha decidido que el mundo no pueda usarlo",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta una noticia con estilo objetivo y bien estructurado, pero la falta de verificación de datos y de fuentes fiables compromete su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:37:29.478011+00:00",
-      "title": "Alerta expansión de ISO en México, droga nueve veces más potente que el fentanilo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta errores verificables y fuentes limitadas, lo que afecta su credibilidad editorial a pesar de estar al día.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:37:34.041520+00:00",
-      "title": "Joel Huiqui da la cara por Cruz Azul tras mal arranque en Liga MX: \"La única forma de cambiarlo es t",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una cobertura clara y bien estructurada del tema deportivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:56:52.679778+00:00",
-      "title": "Aleteo de sombras: Samanta Schweblin y la noche que susurra",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 6,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares de calidad editorial, ofreciendo una presentación atractiva y reflexiva de la obra de Schweblin.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:56:56.054516+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete no cumple con los estándares de veracidad y fiabilidad; la información es incorrecta y no puede publicarse tal como está.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:57:00.811239+00:00",
-      "title": "Hospitalizan al rey Harald V de Noruega en Oslo; presenta anemia",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es objetivo y está bien estructurado, pero la falta de fuentes verificadas y de contraste de voces reduce su fiabilidad global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:57:05.529087+00:00",
-      "title": "Dos mexicanos mueren en terremoto de Colombia: SRE traslada a sus familias al país",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es adecuado, pero la inconsistencia sobre el estado de los víctimas reduce su precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:57:10.274999+00:00",
-      "title": "En un duelo clave por la permanencia, Estudiantes Río Cuarto recibe Atlético Tucumán por la quinta f",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, objetiva y bien estructurada para una noticia deportiva reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:57:20.049116+00:00",
-      "title": "Miguel Mancera Aguayo, un héroe civil de México",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta datos inexactos y una visión claramente parcial, aunque está bien estructurado y es reciente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:57:25.517311+00:00",
-      "title": "OpenAI disuelve al equipo que evaluaba los riesgos catastróficos de su IA",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero la escasa verificación de datos y la falta de fuentes contrastantes limitan su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:57:30.650756+00:00",
-      "title": "Conoce EN IMÁGENES el arranque del examen de control de la UNAM en el Palacio de los Deportes",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente informativo y actual, pero necesita revisar la coherencia de los datos numéricos y proporcionar fuentes más concretas para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T17:57:36.041669+00:00",
-      "title": "La muerte del profesor de Cambridge Jason Arday resucita la guerra cultural en la universidad britán",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta información probablemente falsa y carece de fuentes equilibradas, aunque está actualizado y estructurado razonablemente.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T17:57:40.237503+00:00",
       "title": "México Previene promueve respeto al peatón en CDMX; realizan jornada de concientización vial",
       "kind": "noticia",
@@ -3374,6 +3170,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:00:52.237268+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque mantiene una estructura clara y objetividad en la redacción.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:00:58.849718+00:00",
+      "title": "Transporte y lunch, gastos del regreso a clases que se prolongan durante el ciclo escolar",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información reciente, estructurada y mayormente verificable, aunque la precisión de la cifra monetaria podría reforzarse con una citación directa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:01:05.697110+00:00",
+      "title": "Alerta en CDMX: Jóvenes ignoran síntomas de cáncer de mama",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los estándares de calidad editorial, aunque la precisión de los datos podría reforzarse con fuentes oficiales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:01:16.685218+00:00",
+      "title": "Ambulantes desafían reordenamiento y bloquean de nuevo la Avenida Juárez; mantienen diálogo con auto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y actualizado, aunque podría fortalecer el contraste de fuentes añadiendo más voces de los afectados.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:01:28.644897+00:00",
+      "title": "Alguien decidió seguir un envío de libros con un AirTag. El viaje terminó en una nave de Amazon dedi",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero carece de evidencia verificable y de un enfoque equilibrado, lo que reduce su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:01:38.537804+00:00",
+      "title": "El video del escándalo del técnico de la selección de Egipto: se desmayó en medio de la pelea entre ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero presenta serias dudas de veracidad y carece de fuentes contrastadas, lo que compromete su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:01:54.611259+00:00",
+      "title": "Disidencias de autoconsumo",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple bien con la estructura, actualidad y objetividad, pero la precisión de los datos es cuestionable por falta de verificación y fuentes específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:01:59.592015+00:00",
+      "title": "Trump amenaza a Omán por el posible acuerdo con Irán sobre Ormuz, mientras vence el memorando",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la precisión de algunos datos necesita mayor corroboración.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:02:12.590764+00:00",
+      "title": "Presentan avances del Plan Maestro para la Montaña Alta y Baja de Guerrero",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete presenta información actual pero con serias deficiencias de veracidad, contraste de fuentes y objetividad, además de una estructura confusa que afecta su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:02:19.142215+00:00",
+      "title": "Kenia López Rabadán cierra su gestión al frente de la Cámara de Diputados: Raúl Bolaños tomará la Pr",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:02:26.350592+00:00",
+      "title": "Fallece la actriz Hayden Panettiere; su perturbador testimonio sobre Hollywood causa revuelo en rede",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 3.6,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 1,
+        "actualidad": 9,
+        "estructura_piramide": 6
+      },
+      "observacion": "El paquete no cumple con los estándares periodísticos por su falta de veracidad y parcialidad, pese a su actualidad y estructura básica.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T22:02:30.518140+00:00",
+      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría mejorar al incluir fuentes adicionales para mayor contraste.",
       "error": null
     }
   ]
