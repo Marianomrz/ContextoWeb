@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-17T22:23:31.194994+00:00",
+  "generated_at": "2026-08-17T22:35:21.146399+00:00",
   "articles": [
+    {
+      "id": "31d1eefe143d",
+      "title": "El planeta se acerca a temperaturas que millones de mayores no podrán tolerar: “Muchas más personas estarán en riesgo”",
+      "summary": "Un estudio publicado en The Lancet Planetary Health advierte que, con un aumento de 1,5 °C, el 22 % de los adultos mayores del mundo, 290 millones de personas) estarán expuestos a períodos prolongados de calor intolerable, especialmente en regiones como el sur de Asia y África occidental.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/salud-y-bienestar/2026-08-17/el-planeta-se-acerca-a-temperaturas-que-millones-de-mayores-no-podran-tolerar-muchas-mas-personas-estaran-en-riesgo.html",
+      "published_at": "2026-08-17T22:30:00+00:00",
+      "bias_score": -20,
+      "bias_reason": "El artículo utiliza un lenguaje alarmista y se centra exclusivamente en los riesgos climáticos para los grupos vulnerables, sin presentar opiniones contrarias ni equilibrar con perspectivas económicas o políticas, lo que refleja la línea editorial de El País, que tiende a enfatizar la urgencia ambiental.",
+      "focus_analysis": "El medio elige un ángulo de salud pública y vulnerabilidad fisiológica de los adultos mayores frente al calor extremo, dejando de lado el análisis económico o de políticas de mitigación climática.",
+      "focus_tags": [
+        "calor extremo",
+        "vulnerabilidad de adultos mayores",
+        "cambio climático"
+      ],
+      "context": [
+        {
+          "label": "cambio climático global",
+          "text": "Según el IPCC, la temperatura media de la Tierra ha aumentado alrededor de 1,2 °C desde la era preindustrial y se prevé que supere 1,5 °C en la próxima década si no se reducen rápidamente las emisiones de gases de efecto invernadero."
+        },
+        {
+          "label": "envejecimiento poblacional",
+          "text": "La ONU proyecta que para 2050 la proporción de personas mayores de 60 años superará el 20 % de la población mundial, incrementando la exposición a riesgos de salud relacionados con el calor."
+        },
+        {
+          "label": "cobertura comparada",
+          "text": "Mientras El País centra su informe en los riesgos sanitarios del calor para los adultos mayores, otros medios como Expansión han puesto el foco en problemas de seguridad vial, mostrando distintas prioridades temáticas en la cobertura de temas de salud pública."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "1226d9424e40",
+      "title": "Disidencias de autoconsumo",
+      "summary": "El artículo de Letras Libres analiza el libro \"Vestigios de un mundo por venir\" de la poetisa mexicana Mónica Nepote, describiéndolo como un ensayo de comunicación interespecie que fusiona literatura, ecología y teoría poshumanista. El autor destaca la estructura del texto y su apuesta por una poética que incorpora voces no humanas y una ética ecológica.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/revista/disidencias-de-autoconsumo/17/08/2026/",
+      "published_at": "2026-08-17T20:01:41+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto emplea un vocabulario y referencias (poshumanismo ecológico, feminismo, ecología profunda) propios de corrientes intelectuales de izquierda, aunque la crítica se mantiene mayormente descriptiva y sin carga política directa.",
+      "focus_analysis": "El medio se centra en el aspecto literario‑teórico del libro, resaltando su propuesta poshumanista y ecológica, mientras deja de lado la discusión sobre el impacto social del libro o la posición del autor en el panorama editorial mexicano.",
+      "focus_tags": [
+        "poshumanismo",
+        "ecología",
+        "literatura experimental"
+      ],
+      "context": [
+        {
+          "label": "Autor",
+          "text": "Mónica Nepote es una poeta y ensayista mexicana reconocida por su obra que combina experimentación formal con temáticas de medio ambiente y teoría de género."
+        },
+        {
+          "label": "Corriente poshumanista",
+          "text": "En los últimos años, la literatura latinoamericana ha incorporado corrientes poshumanistas que exploran la interdependencia entre humanos, animales y ecosistemas, siguiendo líneas de pensamiento de Donna Haraway y la ecología profunda."
+        },
+        {
+          "label": "Debate sobre literatura comprometida",
+          "text": "En México persiste un debate entre la literatura considerada \"comprometida\" con causas sociales y la literatura que prioriza la experimentación estética, una tensión que el artículo menciona al criticar la idea de que lo comprometido sea necesariamente \"malo\"."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "f1d3b7382e82",
+      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
+      "summary": "YouTube, la plataforma de videos de Google, unificará a partir del 24 de agosto la forma de contar las visualizaciones, aplicando el mismo criterio de registro desde el primer fotograma a todos los vídeos, tanto largos como Shorts, con el objetivo de ofrecer a los creadores una métrica más clara.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/internet/youtube-cambia-conteo-vistas-videos/",
+      "published_at": "2026-08-17T20:31:26+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un tono descriptivo y neutral, presenta tanto la posición de YouTube como la de los creadores sin usar vocabulario cargado ni favorecer a ninguna parte.",
+      "focus_analysis": "El artículo se centra en el aspecto técnico y de métricas de la plataforma, dejando de lado el análisis económico de cómo el cambio podría afectar los ingresos de los creadores.",
+      "focus_tags": [
+        "cambio de métricas",
+        "YouTube",
+        "creadores de contenido"
+      ],
+      "context": [
+        {
+          "label": "Reglas previas de conteo",
+          "text": "Antes del cambio, YouTube contabilizaba una vista en videos largos solo después de que el espectador hacía clic y permanecía al menos 30 segundos, mientras que los Shorts registraban la vista desde el primer fotograma."
+        },
+        {
+          "label": "Descontento de creadores",
+          "text": "A días de anunciar modificaciones en la monetización, muchos creadores expresaron su frustración, lo que impulsó la petición de un criterio único para medir la audiencia."
+        },
+        {
+          "label": "Tendencia de estandarización",
+          "text": "Plataformas como TikTok han impulsado la adopción de métricas más simples para videos cortos, lo que ha llevado a YouTube a alinear sus criterios con los Shorts para mantenerse competitivo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "6be97959f5ad",
+      "title": "Intentan trampa ahora en examen presencial aspirantes a la UNAM en León y Tijuana",
+      "summary": "La Universidad Nacional Autónoma de México (UNAM) informó que se detectaron dos casos de aspirantes que intentaron hacer trampa con teléfonos celulares durante el examen de control presencial en León, Guanajuato, y Tijuana, Baja California, mientras que el proceso también enfrentó 16 incidencias técnicas y una gran movilización de supervisores.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/nacional/2026/08/17/intentan-trampa-ahora-en-examen-presencial-aspirantes-a-la-unam-en-leon-y-tijuana-1833369.html",
+      "published_at": "2026-08-17T22:30:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y neutral, sin palabras cargadas ni énfasis ideológicos, describiendo hechos y cifras sin favorecer a ningún actor.",
+      "focus_analysis": "El artículo se centra en el ángulo institucional, describiendo la organización del examen, los controles y los incidentes técnicos, mientras omite la perspectiva de los aspirantes y el impacto humano de los posibles sanciones.",
+      "focus_tags": [
+        "educación",
+        "examen",
+        "trampa"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "La UNAM lleva años aplicando el Examen de Control Presencial como parte del proceso de ingreso a la licenciatura, y en 2025 introdujo una versión en línea que generó dudas sobre la validez de los resultados."
+        },
+        {
+          "label": "Comparativa de coberturas",
+          "text": "Otros medios, como El Universal, destacaron las fallas técnicas del examen, mientras que Infobae se centró en la incertidumbre sobre las sanciones a los aspirantes que usaron celulares, contrastando con el enfoque institucional de Periódico AM."
+        },
+        {
+          "label": "Contexto de fraude académico",
+          "text": "Los intentos de trampa con dispositivos móviles son un problema recurrente en los exámenes de ingreso a universidades mexicanas, lo que ha llevado a la UNAM a reforzar la supervisión con cientos de funcionarios y supervisores."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e1a1c8144ab4",
+      "title": "Jorge Romero pide informar causas de la revocación de visa a Andy López; acusa a Sheinbaum de protegerlo",
+      "summary": "Jorge Romero, presidente nacional del PAN, solicitó que se expliquen los motivos de la revocación de la visa estadounidense de Andrés Manuel López Beltrán y acusó a la presidenta Claudia Sheinbaum de protegerlo.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/jorge-romero-pide-informar-causas-de-la-revocacion-de-visa-a-andy-lopez-acusa-a-sheinbaum-de-protegerlo/",
+      "published_at": "2026-08-17T22:30:48+00:00",
+      "bias_score": 30,
+      "bias_reason": "El artículo enfatiza las acusaciones del PAN y emplea expresiones críticas, como \"disque transformación\", sin incluir la versión de la autoridad migratoria, lo que muestra una ligera inclinación hacia la oposición.",
+      "focus_analysis": "El medio se centra en la polémica política y las acusaciones de protección y corrupción entre PAN y el gobierno de Morena, dejando de lado el contexto legal del caso de la visa y la postura de EE. UU.",
+      "focus_tags": [
+        "política mexicana",
+        "visa estadounidense",
+        "acusaciones de corrupción"
+      ],
+      "context": [
+        {
+          "label": "revocación de visa",
+          "text": "Estados Unidos retiró la visa de Andrés Manuel López Beltrán, hijo del expresidente López Obrador, bajo sospechas de vínculos con actividades ilícitas, aunque la autoridad migratoria no ha divulgado públicamente los motivos."
+        },
+        {
+          "label": "tensión entre PAN y Morena",
+          "text": "El PAN ha intensificado sus críticas al gobierno de Morena, acusándolo de proteger a familiares del expresidente y de interferir en investigaciones de huachicol fiscal, mientras que Morena rechaza esas imputaciones."
+        },
+        {
+          "label": "postura de Sheinbaum",
+          "text": "En otras coberturas, la presidenta Claudia Sheinbaum instó a López Beltrán a ser \"valiente\" ante la pérdida de su visa y solicitó pruebas a EE. UU., señalando que el caso debe resolverse conforme a la ley mexicana."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.0
+      }
+    },
+    {
+      "id": "dedea10f3468",
+      "title": "La advertencia del DT de Recoleta a Boca antes de la revancha por la Sudamericana en Asunción",
+      "summary": "El entrenador paraguayo Jorge González, del club Recoleta FC, advirtió que su equipo necesita ganar por al menos dos goles contra Boca Juniors en el segundo partido de octavos de final de la Copa Sudamericana en Asunción, mientras destaca la preparación de penales y la motivación del público.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/la-advertencia-del-dt-de-recoleta-a-boca-antes-de-la-revancha-por-la-sudamericana-en-asuncion/",
+      "published_at": "2026-08-17T22:30:58+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje descriptivo y equilibrado, citando a ambos entrenadores y presentando datos del partido sin recurrir a adjetivos cargados ni favorecer a una de las partes.",
+      "focus_analysis": "El artículo se centra en la estrategia y la preparación táctica de Recoleta, así como en la presión del estadio, dejando de lado un análisis más amplio del torneo o de los aspectos financieros del encuentro.",
+      "focus_tags": [
+        "copa sudamericana",
+        "preparación táctica",
+        "presión de estadio"
+      ],
+      "context": [
+        {
+          "label": "resultado ida",
+          "text": "En el primer encuentro de octavos de final, Boca Juniors superó a Recoleta FC por 3-1 en Asunción, dejando una ventaja de dos goles que el equipo paraguayo debe revertir."
+        },
+        {
+          "label": "lesiones Boca",
+          "text": "Boca Juniors enfrenta ausencias importantes, entre ellas el capitán Leandro Paredes y los jugadores Marco Pellegrino y Leandro Lozano, lo que según González representa una ventaja para su equipo."
+        },
+        {
+          "label": "entorno del partido",
+          "text": "El partido de vuelta se jugará en el Estadio Defensores del Chaco con cerca de 20 000 hinchas visitantes, y el estadio de Recoleta no cumple los requisitos de la CONMEBOL, obligando a ambos equipos a jugar fuera de sus domicilios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "0e4063953ab7",
       "title": "Ambulantes desafían reordenamiento y bloquean de nuevo la Avenida Juárez; mantienen diálogo con autoridades",
@@ -837,213 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.0
-      }
-    },
-    {
-      "id": "6770425da099",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "summary": "La actriz estadounidense Hayden Panettiere, conocida por sus papeles en \"Héroes\" y \"Nashville\", falleció a los 36 años dejando una hija de 12 años.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/gente/2026-08-17/muere-hayden-panettiere-actriz-de-heroes-a-los-36-anos.html",
-      "published_at": "2026-08-18T03:30:01+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos biográficos y a la muerte, sin usar adjetivos cargados ni presentar fuentes con agenda política; el tono es meramente informativo.",
-      "focus_analysis": "El artículo se centra en el aspecto humano y familiar del fallecimiento, resaltando la edad, la hija y algunos de sus trabajos; omite la causa de la muerte y la reacción del sector del entretenimiento.",
-      "focus_tags": [
-        "fallecimiento",
-        "entretenimiento",
-        "actriz"
-      ],
-      "context": [
-        {
-          "label": "Cobertura internacional",
-          "text": "BBC News Mundo enfatizó el impacto del fallecimiento en el gremio del entretenimiento y recordó que Panettiere comenzó su carrera actoral a los cuatro años."
-        },
-        {
-          "label": "Cobertura mexicana",
-          "text": "El Sol de México destacó su popularidad como estrella adolescente en Hollywood durante la primera década del siglo XXI."
-        },
-        {
-          "label": "Trayectoria profesional",
-          "text": "Hayden Panettiere alcanzó reconocimiento mundial por sus papeles en series de televisión y películas, y su muerte ha generado numerosos tributos en redes sociales."
-        }
-      ],
-      "confidence": "media"
-    },
-    {
-      "id": "7b0423c6c034",
-      "title": "Gobierno de Maru Campos apoya a niñas, niños y adultos con problemas auditivos a desarrollarse y construir sus sueños",
-      "summary": "La gobernadora de Chihuahua, Maru Campos, anunció la entrega de implantes cocleares a niños, adultos y familias con problemas auditivos, resaltando que esta acción busca mejorar su calidad de vida y abrir nuevas oportunidades de independencia.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/gobierno-maru-campos-apoya-ninas-ninos-adultos-problemas-auditivos-desarrollarse-construir-suenos-20260817-828687.html",
-      "published_at": "2026-08-17T21:06:00+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto emplea un lenguaje elogioso hacia la gestión estatal y sólo cite voces oficiales del gobierno y del DIF, sin incluir opiniones críticas o datos que pudieran cuestionar la política, lo que indica una ligera inclinación favorable al poder ejecutivo.",
-      "focus_analysis": "El medio se centra en el aspecto humanitario y de salud pública del programa de implantes cocleares, dejando de lado el análisis del costo financiero del proyecto y la ausencia de reacciones de la oposición o de organizaciones de la sociedad civil.",
-      "focus_tags": [
-        "salud auditiva",
-        "política social",
-        "gobierno de Chihuahua"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del DIF Estatal",
-          "text": "Durante la administración actual, el DIF de Chihuahua ha distribuido más de 22 mil apoyos funcionales y, en los últimos cinco años, ha entregado 861 implantes cocleares, cada uno con un valor superior a 350 mil pesos, respaldados por la Beneficencia Pública."
-        },
-        {
-          "label": "Política nacional de salud auditiva",
-          "text": "El Instituto Mexicano del Seguro Social y la Secretaría de Salud han implementado programas federales para la atención de la pérdida auditiva, que incluyen la cobertura de implantes cocleares en hospitales de alta especialidad."
-        },
-        {
-          "label": "Enfoque de otras coberturas",
-          "text": "El periódico El Universal, al cubrir el mismo evento, orientó su relato hacia declaraciones de la gobernadora sobre la política de visas estadounidenses y la lucha contra el crimen organizado, mostrando un encuadre más centrado en seguridad y migración que en la salud auditiva."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "d666e3799cd0",
-      "title": "Rubén Moreira advierte riesgo de hostigamiento contra periodistas por “listas negras”",
-      "summary": "Rubén Moreira, coordinador del PRI en la Cámara de Diputados, advirtió que la publicación de nombres de periodistas en los análisis del Gobierno federal podría derivar en hostigamiento y autocensura, mientras la consejera jurídica Luisa María Alcalde y la presidenta Claudia Sheinbaum niegan la existencia de una \"lista negra\".",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/17/ruben-moreira-advierte-riesgo-de-hostigamiento-contra-periodistas-por-listas-negras/",
-      "published_at": "2026-08-17T21:24:54+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto utiliza términos cargados como \"hostigamiento\" y \"censura\" y enfatiza la crítica del legislador del PRI, mientras que la defensa oficial se presenta de forma más breve, lo que indica una ligera inclinación hacia la oposición.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y de derechos humanos, resaltando la amenaza a la libertad de expresión y la posible persecución de periodistas; se deja de lado un análisis profundo de la efectividad del programa \"Derecho de Réplica\" y sus implicaciones técnicas.",
-      "focus_tags": [
-        "libertad de expresión",
-        "presión gubernamental",
-        "lista negra"
-      ],
-      "context": [
-        {
-          "label": "Programa gubernamental",
-          "text": "El Gobierno mexicano, a través del programa \"Derecho de Réplica\", publica análisis sobre la difusión de contenidos en internet, lo que ha generado controversia por incluir nombres de periodistas y medios críticos."
-        },
-        {
-          "label": "Antecedentes de vigilancia",
-          "text": "En años anteriores, organizaciones de derechos humanos y periodistas han denunciado la creación de supuestas listas de vigilancia que podrían limitar la libertad de prensa en México."
-        },
-        {
-          "label": "Reacción de ONG internacionales",
-          "text": "La organización Artículo 19 condenó la publicación de nombres de comunicadores en los análisis oficiales, alertando sobre riesgos de estigmatización y autocensura."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "e1484ad4c55a",
-      "title": "Vinculan a proceso a cinco supuestos integrantes de “Los Deltas”, célula violenta del CJNG; poseían armas y narcóticos",
-      "summary": "Un juez vinculó a proceso a cinco presuntos integrantes de la célula violenta “Los Deltas” del Cártel Jalisco Nueva Generación, quienes fueron detenidos en Zapopan con armas de uso exclusivo del Ejército y ketamina, y ahora permanecen en prisión preventiva en el Centro Preventivo de Reinserción Social de Puente Grande, Jalisco.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/vinculan-a-proceso-a-cinco-supuestos-integrantes-de-los-deltas-celula-violenta-del-cjng-poseian-armas-y-narcoticos/",
-      "published_at": "2026-08-17T21:25:01+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos judiciales y operativos sin usar adjetivos cargados ni ofrecer opiniones políticas, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en la dimensión de seguridad y justicia penal, describiendo la detención y los cargos contra los presuntos miembros del cartel, mientras omite el contexto más amplio de la violencia del CJNG y sus repercusiones sociales o políticas.",
-      "focus_tags": [
-        "seguridad pública",
-        "narcotráfico",
-        "justicia penal"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del CJNG",
-          "text": "El Cártel Jalisco Nueva Generación (CJNG) es una de las organizaciones criminales más poderosas de México, reconocida por su capacidad armada y enfrentamientos con las fuerzas de seguridad."
-        },
-        {
-          "label": "Marco legal",
-          "text": "En México, la Fiscalía Especializada en Delincuencia Organizada (FEMDO) y el Ministerio Público Federal son los encargados de investigar y presentar cargos contra miembros de organizaciones criminales, y la prisión preventiva se utiliza frecuentemente en casos de alto riesgo."
-        },
-        {
-          "label": "Cobertura de Infobae",
-          "text": "Otro medio, Infobae México, resaltó que los cateos se realizaron en dos domicilios de Zapopan y destacó la posesión de armas exclusivas del Ejército, ofreciendo una perspectiva ligeramente más dramática del operativo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "1226d9424e40",
-      "title": "Disidencias de autoconsumo",
-      "summary": "El artículo de Letras Libres analiza el libro \"Vestigios de un mundo por venir\" de la escritora mexicana Mónica Nepote, describiendo su propuesta de comunicación interespecie y su inserción en el poshumanismo ecológico, y reflexiona sobre la ética y la poética de una literatura que trasciende lo humano.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/revista/disidencias-de-autoconsumo/17/08/2026/",
-      "published_at": "2026-08-17T20:01:41+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto emplea un lenguaje cargado de conceptos progresistas como \"poshumanismo ecológico\", \"feminismo\" y \"ecología profunda\", y recurre a teorías críticas de autores como Donna Haraway, lo que indica una ligera inclinación hacia la izquierda cultural.",
-      "focus_analysis": "El medio elige un ángulo teórico‑cultural, centrado en la filosofía poshumanista y la ética de la comunicación interespecie, dejando de lado la recepción del libro por parte del público o su impacto comercial.",
-      "focus_tags": [
-        "poshumanismo ecológico",
-        "literatura experimental",
-        "interespecie"
-      ],
-      "context": [
-        {
-          "label": "Tendencias literarias en México",
-          "text": "En los últimos años, la literatura mexicana ha experimentado un creciente interés por obras que abordan temáticas ecológicas y decoloniales, alineándose con corrientes internacionales de eco‑literatura y escritura ambiental."
-        },
-        {
-          "label": "Trayectoria de Mónica Nepote",
-          "text": "Mónica Nepote, autora y editora mexicana, se ha destacado por su participación en proyectos que combinan poesía, ensayo y tecnología, y ha publicado previamente libros que exploran la relación entre cuerpo, lenguaje y entorno."
-        },
-        {
-          "label": "Debate poshumanista en la academia",
-          "text": "El poshumanismo, impulsado por pensadores como Donna Haraway y Pablo Servigne, ha generado un amplio debate académico sobre la necesidad de superar la visión antropocéntrica y reconocer a animales, plantas y materiales como sujetos de comunicación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "9cb506e7e140",
-      "title": "La UNAM detecta intentos de trampa con celulares en el examen de control",
-      "summary": "La Universidad Nacional Autónoma de México (UNAM) detectó en los exámenes de control de ingreso a la licenciatura en las sedes de Tijuana y León que dos aspirantes intentaron usar sus celulares para copiar respuestas, lo que llevó al personal a reportar y detener la trampa.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/17/la-unam-detecta-intentos-de-trampa-con-celulares-en-el-examen-de-control/",
-      "published_at": "2026-08-17T21:25:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos sin usar adjetivos cargados ni citar fuentes políticas; el tono es informativo y centrado en la universidad, sin agenda evidente.",
-      "focus_analysis": "Se centra en la detección institucional de la trampa y la respuesta de la UNAM, dejando fuera la perspectiva de los aspirantes y el debate sobre el uso de tecnología en los exámenes.",
-      "focus_tags": [
-        "educación",
-        "examen de ingreso",
-        "irregularidades"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del examen",
-          "text": "La UNAM implementó el examen de control como parte del proceso de admisión a la licenciatura, una prueba presencial que busca reducir el fraude académico y que se realiza en múltiples sedes del país."
-        },
-        {
-          "label": "Datos de la jornada",
-          "text": "En la primera jornada en la Ciudad de México se presentaron más de 4,200 aspirantes, con una tasa de asistencia cercana al 70 % según El Economista, mientras que en Tijuana y León se detectaron dos intentos de uso de celulares."
-        },
-        {
-          "label": "Posturas de otros medios",
-          "text": "El Universal resaltó la existencia de 16 fallas técnicas en el turno de la CDMX, y El Informador informó que la UNAM se disculpó por irregularidades vinculadas a la inteligencia artificial, ampliando el debate sobre la tecnología en los exámenes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
