@@ -1,187 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T05:20:39.451928+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El contenido es incorrecto y no cumple con la veracidad requerida; no debería publicarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:20:42.903055+00:00",
-      "title": "Resultado: Cruz Azul pierde en Tijuana y los Xolos se unen a la cima del campeonato",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:20:47.579215+00:00",
-      "title": "Peso mexicano rompe el piso de las 17 unidades",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, aunque podría enriquecer la variedad de fuentes para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:20:53.546694+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 11 column 144 (char 463)"
-    },
-    {
-      "at": "2026-08-17T05:20:58.352048+00:00",
-      "title": "Un jugador desmayó a una fotógrafa de un pelotazo en la cara y recibió fuertes críticas: el video qu",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma clara y objetiva, pese a una ligera imprecisión en el título.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:21:03.515322+00:00",
-      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría mejorar la verificación de datos con fuentes citadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:21:12.902389+00:00",
-      "title": "Nada tan angustioso en la tierra",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, objetiva y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:40:40.104318+00:00",
-      "title": "¿Es la ola que no hemos visto?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 3.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 1,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 5
-      },
-      "observacion": "El paquete carece de precisión factual y contraste de fuentes, y su tono opinativo lo aleja de los estándares de objetividad periodística, pese a su actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:40:46.432084+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "A pesar de la recienteidad y la estructura adecuada, la falta de veracidad y fuentes fiables hace que la nota no cumpla con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:40:52.534156+00:00",
-      "title": "Nació en un circo, se vistió de novia para subir al ring y logró ser campeón mundial de boxeo: “Era ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, contextualizada y presentada de forma objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T05:40:57.804194+00:00",
-      "title": "Xolos vence a Cruz Azul con gol de Gilberto Mora y escala al subliderato del Clausura 2026",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado pero presenta falta de fuentes verificables y un tono ligeramente parcial que reduce su puntuación en veracidad y objetividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T05:41:03.119310+00:00",
       "title": "Muerden Xolos a Cruz Azul y conservan su invicto",
       "kind": "noticia",
@@ -3386,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los criterios de calidad periodística; solo se sugiere añadir fuentes oficiales para reforzar el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:06:44.873146+00:00",
+      "title": "Cómo se entretenía la gente antes de los libros y la electricidad (y por qué su respuesta nos incomo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es informativo y bien estructurado, pero muestra sesgo evidente y proviene de una fuente no muy reconocida, lo que limita su puntuación en objetividad y veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:06:50.873956+00:00",
+      "title": "Distrito de Gobierno va a la mitad: Luego de tres prórrogas dan ultimátum a constructora",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero necesita corregir inconsistencias y ampliar fuentes para reforzar la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:00.280816+00:00",
+      "title": "Deben alistarse para las reglas antilavado",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, actual y estructurada de manera objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:10.122060+00:00",
+      "title": "Tras vencer a Djokovic, Thiago Tirante enfrentará a Landaluce por el Masters 1000 de Cincinnati: hor",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de fuentes verificables reduce la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:22.754727+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El presidente de Ceuta amenaza al Gob",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero la falta de fuentes múltiples y verificaciones disminuye su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:32.144805+00:00",
+      "title": "Elogian festín  de metáforas de García Lorca",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es factual y bien contextualizado, pero su tono elogioso lo aleja de la objetividad esperada en una noticia informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:36.396462+00:00",
+      "title": "La lista... La visa...",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares, es preciso, objetivo y actual, aunque la falta de fuentes externas limita la profundidad del contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:43.377605+00:00",
+      "title": "ShinyHunters hackea RingCentral con una llamada de teléfono y filtra 1,6 millones de cuentas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado adecuadamente, pero la falta de fuentes verificables y la dependencia de un medio poco conocido reducen su credibilidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:48.792020+00:00",
+      "title": "Édgar Castro renuncia al PRI tras 30 años, se suma a Morena y asesora a César Prieto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido en objetividad y actualidad, pero la ausencia de fuentes contrastantes y algunas cifras no verificables limitan su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:07:54.790383+00:00",
+      "title": "Retiros por desempleo de Afore marcan récord; acumulan 27 mil mdp",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere incluir referencias más explícitas a los datos de Consar y BBVA Research para reforzar la verificabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T10:08:04.619456+00:00",
+      "title": "Kelly Slater, leyenda del surf, reveló cuál es su entrenamiento y dieta a los 54 años para continuar",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando información veraz, objetiva y actual con una estructura clara.",
       "error": null
     }
   ]
