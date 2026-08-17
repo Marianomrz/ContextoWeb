@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-17T03:41:34.879734+00:00",
+  "generated_at": "2026-08-17T04:01:13.886735+00:00",
   "articles": [
+    {
+      "id": "5fc8e5a563b0",
+      "title": "Si eres programador, esta nueva IA de Microsoft es más rápida y barata que Claude Code",
+      "summary": "Microsoft ha lanzado MAI‑Code‑1.1‑Flash, una IA de programación integrada en GitHub Copilot que, según la compañía, genera código de mayor calidad y consume menos tokens que su versión anterior y que modelos como Claude Code. El modelo, entrenado con datos propios, promete ser 25 % más rápido y costar una cuarta parte del modelo previo, orientado a tareas rápidas en .NET.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-1-flash-nuevo-modelo-microsoft/",
+      "published_at": "2026-08-16T18:00:00+00:00",
+      "bias_score": 30,
+      "bias_reason": "El artículo utiliza un tono claramente promocional, resaltando solo los beneficios de Microsoft y citando benchmarks favorables sin presentar críticas o limitaciones significativas, lo que indica una ligera inclinación a favor del gigante tecnológico.",
+      "focus_analysis": "El medio se centra en el rendimiento técnico y la eficiencia de costos del nuevo modelo, dejando de lado las posibles repercusiones laborales o los debates sobre la dependencia de soluciones propietarias.",
+      "focus_tags": [
+        "IA programación",
+        "eficiencia de código",
+        "competencia IA"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "En la Build 2026, Microsoft presentó una versión anterior de su IA para código, que fue reemplazada por MAI‑Code‑1.1‑Flash, con mejoras anunciadas en velocidad y coste."
+        },
+        {
+          "label": "competencia",
+          "text": "Otros actores del sector, como Anthropic con Claude Code y OpenAI con sus modelos GPT‑5, compiten ofreciendo mayor capacidad de contexto y multimodalidad, aunque con mayor consumo de tokens."
+        },
+        {
+          "label": "tendencia del mercado",
+          "text": "La industria del software está adoptando cada vez más modelos de IA más pequeños y eficientes, entrenados con datos propios para reducir dependencias externas y costes operativos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "201e67c45f4c",
+      "title": "Chivas vuelve al triunfo y extiende crisis del Santos",
+      "summary": "El Club Deportivo Guadalajara (Chivas) de México venció 1-0 al Santos Laguna mediante un penal de Ricardo Marín, manteniendo su dificultad para generar peligro pero alargando la crisis del rival.",
+      "category": "deportes",
+      "source_name": "Reforma",
+      "source_url": "https://www.reforma.com/chivas-vuelve-al-triunfo-y-extiende-crisis-del-santos/ar3259014",
+      "published_at": "2026-08-17T03:24:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido sin usar adjetivos cargados ni citar fuentes con sesgo político, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El artículo se centra en el resultado del encuentro y en la extensión de la crisis de Santos, dejando de lado un análisis táctico profundo o la perspectiva de los jugadores.",
+      "focus_tags": [
+        "fútbol",
+        "resultado",
+        "crisis"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del partido",
+          "text": "Chivas, que llevaba varios partidos sin ganar, buscaba romper su sequía ofensiva, mientras que Santos Laguna atravesaba una racha de malos resultados que había generado incertidumbre en su cuerpo técnico."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "El Universal enfatizó la presión sobre Chivas para acabar con su falta de goles y la necesidad de Santos de revertir su crisis, un ángulo no destacado en la nota de Reforma."
+        },
+        {
+          "label": "situación en la liga",
+          "text": "Con esta victoria, Chivas sube a siete puntos en la tabla, mientras que Santos, tras la derrota, mantiene su posición en la zona de descenso, lo que agrava su crisis."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "40f0cbc0f8bc",
+      "title": "Alerta en oeste de  EE.UU. por paso de tormenta Lala",
+      "summary": "La tormenta tropical Lala, que avanza por el oeste de Hawái, ha provocado lluvias intensas, inundaciones repentinas y deslizamientos de tierra, dejando al menos una víctima mortal y cientos de hogares sin electricidad en el archipiélago de los Estados Unidos.",
+      "category": "sociedad",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/alerta-en-oeste-de-ee-uu-por-paso-de-tormenta-lala/a-78390693?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-17T03:31:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin vocabulario cargado ni selección de fuentes que favorezcan una postura política; se limita a presentar datos del NHC y declaraciones oficiales.",
+      "focus_analysis": "El medio se centra en el aspecto meteorológico y de seguridad pública, describiendo alertas, impactos y previsiones; omite análisis de costos económicos o repercusiones políticas del evento.",
+      "focus_tags": [
+        "tormenta tropical",
+        "Hawái",
+        "inundaciones"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes climáticos",
+          "text": "Los sistemas tropicales en el Pacífico pueden generar lluvias intensas y deslizamientos cuando cruzan islas con terreno montañoso, como ocurre frecuentemente en Hawái."
+        },
+        {
+          "label": "Eventos históricos recientes",
+          "text": "Hawái ha enfrentado tormentas significativas en la última década, como el huracán Lane en 2018, que también provocó inundaciones y cortes de energía en gran parte del archipiélago."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Mientras que Expansión enfatiza la muerte de una persona y las áreas inundadas, El Sol de México subraya que la tormenta no tocó tierra pero causó apagones en decenas de miles de hogares."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "d8597d16a7be",
+      "title": "Un jugador desmayó a una fotógrafa de un pelotazo en la cara y recibió fuertes críticas: el video que se viralizó en Brasil",
+      "summary": "Durante los playoffs del Brasileirão D, el defensor Tiago Pedra del São José de Porto Alegre golpeó con fuerza un balón que impactó en la cara de una fotógrafa de prensa, dejándola inconsciente y generando una gran difusión en redes sociales.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/un-jugador-desmayo-a-una-fotografa-de-un-pelotazo-en-la-cara-y-recibio-fuertes-criticas-el-video-que-se-viralizo-en-brasil/",
+      "published_at": "2026-08-17T03:35:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin adjetivos cargados ni selección sesgada de fuentes, limitándose a relatar los hechos y las reacciones inmediatas.",
+      "focus_analysis": "El medio se centra en el incidente humano y la reacción del público, dejando de lado un análisis de las políticas de seguridad para los medios en eventos deportivos.",
+      "focus_tags": [
+        "deporte",
+        "seguridad",
+        "periodismo"
+      ],
+      "context": [
+        {
+          "label": "Antecedente del partido",
+          "text": "El su ocurrió en la primera fase de los playoffs del Brasileirão D, la competición que decide el ascenso a la Serie C del fútbol brasileño, en el enfrentamiento entre Gama y São José."
+        },
+        {
+          "label": "Seguridad de periodistas en eventos deportivos",
+          "text": "Los organizadores de partidos de fútbol suelen contar con protocolos de protección para la prensa, aunque incidentes de balones que golpean a medios no son raros y a menudo se revisan después de cada caso."
+        },
+        {
+          "label": "Incidentes similares a nivel mundial",
+          "text": "En otras ligas, como la Premier League y la Liga MX, se han registrado casos en los que balones lanzados fuera de juego han causado lesiones a fotógrafos o camarógrafos, provocando debates sobre la necesidad de medidas preventivas más estrictas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "8b93e2b1e7ec",
+      "title": "Clases de K-pop gratis: lista de DIF que ofrecen el taller en CDMX",
+      "summary": "El Departamento de Integración Familiar (DIF) de la Ciudad de México ofrece talleres gratuitos de baile K‑pop en varios centros, una iniciativa que refleja la creciente influencia de la cultura surcoreana entre adolescentes mexicanas y sus efectos en hábitos de consumo y autoestima.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/17/clases-de-k-pop-gratis-lista-de-dif-que-ofrecen-el-taller-en-cdmx/",
+      "published_at": "2026-08-17T03:57:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta datos y opiniones de forma equilibrada, sin usar lenguaje partidista ni favorecer a un punto de vista político, y combina información descriptiva con comentarios críticos de expertos.",
+      "focus_analysis": "El medio se centra en el impacto cultural y social del K‑pop en la juventud mexicana, destacando la identidad, el consumo y la salud emocional, mientras deja de lado un análisis económico o de política pública sobre el programa del DIF.",
+      "focus_tags": [
+        "cultura K‑pop",
+        "adolescentes mexicanas",
+        "programas sociales"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Desde mediados de la década de 2010, el K‑pop ha ganado una gran base de seguidores en México, con grupos como BTS y Blackpink alcanzando altas cifras de reproducciones y generando comunidades de fans activas en redes sociales."
+        },
+        {
+          "label": "datos comparables",
+          "text": "El DIF (Departamento de Integración Familiar) frecuentemente ofrece talleres gratuitos de danza y arte como parte de sus programas de inclusión social, incluyendo estilos como hip‑hop y salsa en la Ciudad de México."
+        },
+        {
+          "label": "posturas de terceros",
+          "text": "Expertos en estudios culturales, como Nayeli López Rocha de la UNAM, advierten que la exposición constante a los ideales de belleza coreanos puede generar presiones sobre la autoestima de las adolescentes mexicanas y fomentar un consumo intensivo de productos relacionados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "d118b2ce8c26",
+      "title": "Lanzan la convocatoria nacional Conecta Challenge 2026",
+      "summary": "El British Council, el Gobierno del Estado de Jalisco y Ciudad Creativa Digital anunciaron la convocatoria nacional del Conecta Challenge 2026, un programa de aceleración que buscará impulsar la internacionalización y la competitividad de la industria mexicana de videojuegos mediante formación híbrida, mentorías e inversión.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/arteseideas/lanzan-convocatoria-nacional-conecta-challenge-20260816-828544.html",
+      "published_at": "2026-08-17T03:58:30+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un tono positivo y promocional, resaltando los beneficios económicos y de innovación sin presentar críticas ni puntos de vista contrapuestos, lo que indica una ligera inclinación pro‑negocio.",
+      "focus_analysis": "El medio se centra en el aspecto económico y de desarrollo de la industria creativa, destacando la internacionalización y el apoyo institucional, mientras omite posibles desafíos del sector o debates sobre políticas culturales.",
+      "focus_tags": [
+        "industria videojuegos",
+        "internacionalización",
+        "economía creativa"
+      ],
+      "context": [
+        {
+          "label": "Origen del programa",
+          "text": "Conecta Challenge se lanzó en 2023 en Jalisco como una iniciativa de aceleración para fortalecer las industrias creativas del estado."
+        },
+        {
+          "label": "Peso económico del sector creativo",
+          "text": "Según datos del INEGI de 2024, las actividades creativas y culturales aportan alrededor del 2.8 % del PIB mexicano y generan aproximadamente 1.4 millones de empleos."
+        },
+        {
+          "label": "Alianza con el Reino Unido",
+          "text": "El British Council mantiene desde 2019 programas de cooperación cultural y educativa en México, y en 2026 reforzó su estrategia de conectar a creadores mexicanos con el ecosistema de innovación británico."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "514416e0bee8",
       "title": "La Casa de los Famosos México 2026 en vivo hoy: Flor Vigna acumula cuatro posicionamientos",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "07d3770e6153",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 16 de agosto: aseguran más de media tonelada de marihuana en paquetería de Guanajuato",
-      "summary": "Las autoridades mexicanas de seguridad incautaron más de media tonelada de marihuana en paquetes enviados desde Guanajuato, destacando la magnitud del narcotráfico en la región.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-16-de-agosto-marina-realiza-dos-decomisos-millonarios-de-droga-en-cdmx-y-altamar/",
-      "published_at": "2026-08-17T03:03:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje factual y neutro, sin adjetivos cargados ni fuentes con sesgo político, centrado en la descripción del hallazgo y la acción policial.",
-      "focus_analysis": "El medio elige un ángulo de seguridad y criminalidad, resaltando la cantidad de droga incautada y la operación policial, mientras omite el análisis de las causas estructurales del narcotráfico y sus implicaciones sociales.",
-      "focus_tags": [
-        "seguridad pública",
-        "narcotráfico",
-        "Guanajuato"
-      ],
-      "context": [
-        {
-          "label": "Problemática nacional",
-          "text": "México enfrenta una larga lucha contra el tráfico de drogas, con los principales carteles operando en varios estados, incluido Guanajuato, donde la violencia y el contrabando han aumentado en los últimos años."
-        },
-        {
-          "label": "Incremento de incautaciones",
-          "text": "En 2025‑2026, las autoridades mexicanas reportaron un crecimiento de las incautaciones de marihuana y otras sustancias, reflejando tanto la mayor capacidad operativa como la intensificación del flujo de drogas."
-        },
-        {
-          "label": "Respuesta gubernamental",
-          "text": "El gobierno federal ha lanzado operativos como la \"Operación Restitución\" y reforzado la Guardia Nacional para combatir el narcotráfico, enfocándose en la recuperación de bienes y la captura de líderes de cárteles."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "e7dc7eadd9c5",
-      "title": "Alemania evacúa partes de Monschau por incendio en Bélgica",
-      "summary": "Las autoridades de la ciudad alemana de Monschau, en Renania del Norte‑Westfalia, ordenaron la evacuación de varios barrios tras un gran incendio forestal que se desató en el este de Bélgica, afectando a 17 viviendas y alrededor de 30 personas, mientras los bomberos de Alemania, Bélgica, Luxemburgo y otros países europeos trabajan para contener las llamas.",
-      "category": "internacional",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/alemania-evacúa-partes-de-monschau-por-incendio-en-bélgica/a-78390677?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-17T02:36:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin adjetivos cargados ni selección de fuentes que favorezcan una postura política; se centra en los hechos del incendio y la respuesta de emergencia.",
-      "focus_analysis": "El medio prioriza el ángulo de la emergencia y la cooperación transfronteriza en la gestión del incendio, dejando de lado discusiones sobre políticas de prevención de incendios o el impacto del cambio climático.",
-      "focus_tags": [
-        "incendio forestal",
-        "evacuación transfronteriza",
-        "cooperación europea"
-      ],
-      "context": [
-        {
-          "label": "Incendios forestales en Europa",
-          "text": "En los últimos años, varios países europeos han enfrentado incendios forestales de gran magnitud, como los devastadores incendios de Portugal y España en 2023, que han puesto de relieve la vulnerabilidad de los bosques mediterráneos y la necesidad de estrategias de gestión del fuego."
-        },
-        {
-          "label": "Protocolos de emergencia transfronteriza",
-          "text": "Alemania y Bélgica comparten acuerdos de coordinación de emergencias que permiten la rápida movilización de recursos como bomberos y equipos de extinción cuando un desastre natural afecta a zonas cercanas a la frontera."
-        },
-        {
-          "label": "Apoyo internacional al incendio belga",
-          "text": "El incendio en la reserva de los Altos Pantanos ha recibido ayuda de varios países de la UE, incluidos helicópteros de extinción de los Países Bajos y aviones cisterna de Suecia, reflejando la respuesta colectiva de la comunidad europea a emergencias medioambientales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
-      }
-    },
-    {
-      "id": "8b7ad17bb3fe",
-      "title": "Sinaloa inicia envío de sorgo a China",
-      "summary": "El estado de Sinaloa, México, realizó su primer envío de cinco contenedores de sorgo a China, una iniciativa que busca abrir un nuevo destino comercial para el grano y podría beneficiar a más de diez mil productores locales.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/sinaloa-inicia-envio-sorgo-china-20260816-828531.html",
-      "published_at": "2026-08-17T02:50:01+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto utiliza un tono positivo, resaltando beneficios económicos y citando a funcionarios que elogian la operación, sin incluir críticas ni perspectivas contrarias, lo que indica una ligera inclinación pro‑mercado.",
-      "focus_analysis": "El medio se centra en el aspecto económico y comercial del envío, destacando oportunidades para productores y la relación bilateral, mientras omite posibles impactos ambientales o sociales del cultivo y la exportación.",
-      "focus_tags": [
-        "comercio internacional",
-        "agricultura",
-        "exportaciones"
-      ],
-      "context": [
-        {
-          "label": "Agricultura en Sinaloa",
-          "text": "Sinaloa es uno de los principales estados agrícolas de México, reconocido por la producción de maíz, trigo, frijol y otros granos, y cuenta con una amplia base de pequeños y medianos productores."
-        },
-        {
-          "label": "Relaciones comerciales México‑China",
-          "text": "En los últimos años, México ha intensificado sus exportaciones agrícolas a China, firmando acuerdos para productos como soja, cerdo y frutas, con el objetivo de diversificar sus mercados internacionales."
-        },
-        {
-          "label": "Política de diversificación de mercados de la SAyG",
-          "text": "La Secretaría de Agricultura y Ganadería (SAyG) ha implementado una estrategia para reducir la dependencia de los agricultores mexicanos del mercado estadounidense, promoviendo la apertura de nuevos destinos como Asia."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "f5f074777683",
-      "title": "Nada tan angustioso en la tierra",
-      "summary": "El artículo de Letras Libres examina el histórico temor a ser enterrado vivo, citando a Edgar Allan Poe, al monje español Benito Jerónimo Feijoo y a otras referencias literarias para describir la angustia física y mental que genera esta posibilidad.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/nada-tan-angustioso-en-la-tierra/14/08/2026/",
-      "published_at": "2026-08-14T18:45:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y académico, sin usar lenguaje cargado ni presentar opiniones políticas; se apoya en fuentes literarias y históricas sin favorecer ninguna ideología.",
-      "focus_analysis": "El medio elige un ángulo cultural‑histórico, centrado en la literatura y la tradición del miedo al entierro prematuro, dejando fuera cualquier perspectiva contemporánea, médica o sociológica del tema.",
-      "focus_tags": [
-        "literatura",
-        "historia",
-        "temor"
-      ],
-      "context": [
-        {
-          "label": "Miedo histórico al entierro prematuro",
-          "text": "Durante los siglos XVIII y XIX, la posibilidad de ser enterrado vivo alimentó pánico en Europa, lo que llevó a la creación de dispositivos de señalamiento y a debates sobre procedimientos funerarios más seguros."
-        },
-        {
-          "label": "Edgar Allan Poe y el horror",
-          "text": "Poe, autor del cuento 'El entierro prematuro', es una figura central en la literatura gótica, y su obra ha influido en la percepción cultural del miedo a la muerte y al confinamiento."
-        },
-        {
-          "label": "Benito Jerónimo Feijoo y la crítica ilustrada",
-          "text": "El monje y ensayista español Feijoo abordó el tema del entierro vivo en sus cartas, combinando observaciones empíricas con argumentos morales, y contribuyó al debate ilustrado sobre prácticas funerarias."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "6b9d3e4cb124",
-      "title": "Día histórico para el boxeo argentino: Chino Maidana ingresó al Salón de la Fama en Las Vegas junto a otras leyendas",
-      "summary": "El exboxeador argentino Marcos \"Chino\" Maidana fue incluido en el Salón de la Fama del Boxeo de Nevada en Las Vegas, formando parte de la clase 2025/2026 junto a otras leyendas del deporte.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/17/dia-historico-para-el-boxeo-argentino-chino-maidana-ingreso-al-salon-de-la-fama-en-las-vegas-junto-a-otras-leyendas/",
-      "published_at": "2026-08-17T02:27:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la celebración del logro deportivo sin emplear un cargado político ni seleccionar fuentes con sesgo; el tono es mayormente informativo y neutral.",
-      "focus_analysis": "El medio eligió resaltar el aspecto histórico y humano de la carrera de Maidana y el reconocimiento institucional del Salón de la Fama, dejando de lado el contexto económico del boxeo argentino o su impacto social.",
-      "focus_tags": [
-        "boxeo argentino",
-        "Salón de la Fama",
-        "logro deportivo"
-      ],
-      "context": [
-        {
-          "label": "tradición del boxeo argentino",
-          "text": "Argentina ha sido cuna de varios campeones de boxeo de renombre internacional, como Carlos Monzón, que establecieron una larga tradición de éxitos en el deporte."
-        },
-        {
-          "label": "carrera de Marcos Maidana",
-          "text": "Marcos Maidana, oriundo de Margarita, Santa Fe, acumuló 35 victorias, 31 por nocaut, y protagonizó dos combates memorables contra Floyd Mayweather Jr., que generaron más de 1,8 millones de compras de pay‑per‑view."
-        },
-        {
-          "label": "importancia del Salón de la Fama de Nevada",
-          "text": "El Salón de la Fama del Boxeo de Nevada, ubicado en Las Vegas, es uno de los recintos más prestigiosos del mundo para inmortalizar a los grandes del boxeo, y su clase 2025/2026 incluye a figuras como Mikey García y Gennady Golovkin."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "f79ce20c542b",
-      "title": "3 infusiones naturales que ayudan a desinflamar los riñones y eliminar la retención de líquidos",
-      "summary": "El portal Infobae México publica tres recetas de infusiones naturales —cola de caballo, diente de león y perejil— que podrían ayudar a desinflamar los riñones y a reducir la retención de líquidos, advirtiendo que su uso debe ser moderado y bajo supervisión médica.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/17/3-infusiones-naturales-que-ayudan-a-desinflamar-los-rinones-y-eliminar-la-retencion-de-liquidos/",
-      "published_at": "2026-08-17T02:48:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir remedios caseros y a advertir sobre la necesidad de consulta médica, sin emplear vocabulario cargado ni favorecer ninguna posición ideológica; la redacción es informativa y neutra.",
-      "focus_analysis": "El medio se centra en el aspecto de la salud y la medicina tradicional, resaltando los supuestos beneficios de las infusiones y omitendo una evaluación crítica de la evidencia científica.",
-      "focus_tags": [
-        "salud natural",
-        "remedios caseros",
-        "riñones"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "En México, la enfermedad renal crónica afecta a aproximadamente 2 % de la población adulta, lo que genera una demanda de opciones complementarias para el manejo de la retención de líquidos."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "La medicina tradicional mexicana ha incorporado durante siglos el uso de plantas como la cola de caballo y el diente de león por sus propiedades diuréticas, aunque la evidencia clínica es limitada."
-        },
-        {
-          "label": "Posturas de actores",
-          "text": "Organizaciones de salud, como la Secretaría de Salud de México, recomiendan que los pacientes con problemas renales consulten a un profesional antes de usar suplementos herbales, para evitar interacciones con tratamientos farmacológicos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]
