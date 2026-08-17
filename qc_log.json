@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T12:41:38.550973+00:00",
-      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 17 de agosto",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión, objetividad y actualidad, pero necesita mayor diversidad de fuentes para cubrir adecuadamente los diferentes puntos de vista en un tema de conflicto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T12:41:50.278515+00:00",
-      "title": "Las cámaras flock están causando pavor en Estados Unidos. La pregunta es qué pasará si llegan a Espa",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es mayormente sólido y actual, pero la carga sensacionalista y la falta de fuentes más diversificadas reducen su objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T12:42:01.550368+00:00",
-      "title": "Conmoción en Italia: un jugador de la Serie A casi se ahoga en una piscina y está internado en grave",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y objetivo, pero la falta de verificación de datos y la ausencia de fuentes múltiples reducen su fiabilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T12:42:11.529936+00:00",
-      "title": "La lista de Alcalde, un podcast de Ana Paula Ordorica",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es claro y actual, pero la falta de fuentes contrastantes y evidencia verificable limita su objetividad y precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T12:42:23.539178+00:00",
-      "title": "Cristales y electricidad: sobre el cine androide",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, objetiva y actual con una estructura clara.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T12:42:34.617688+00:00",
-      "title": "Trump anuncia que reducirá los ejercicios militares con Corea del Sur debido a sus “muy buenas relac",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta buena estructura, actualidad y objetividad, pero falla gravemente en veracidad y contraste de fuentes, lo que compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T12:42:45.871215+00:00",
-      "title": "Jared Kushner analiza el plan para Gaza con Netanyahu tras una reunión con Hamás",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y estructurado de forma adecuada, pero la falta de fuentes concretas y verificables limita la confianza en la precisión de los hechos presentados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T13:00:19.463521+00:00",
-      "title": "Stripe acaba de apostar 7.000 millones a una idea: nunca habrá un único modelo de IA que sirva para ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque está bien estructurado y actualizado; necesita fuentes fiables y un tono más neutral para cumplir con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T13:00:28.825110+00:00",
-      "title": "Aseguran 506 kilos de marihuana en paquetería de León; perro “Orkan” detecta el cargamento",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, ofreciendo una cobertura informativa y bien contextualizada del hecho.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T13:00:43.651335+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno anuncia que se habilitan ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita correcciones de datos y mayor diversidad de fuentes, aunque la estructura y actualidad son adecuadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T13:00:50.008299+00:00",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy lunes 17 de agosto: los rastros del CJNG en",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de calidad editorial, aunque podría reforzar la verificación de fuentes y ampliar la variedad de referencias.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T13:01:00.481395+00:00",
       "title": "Pecios del petróleo abren la semana con alzas por estancamiento del conflicto en Irán",
       "kind": "noticia",
@@ -3398,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, contraste de fuentes, objetividad y estructura, presentando una noticia clara y bien contextualizada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:00:46.858413+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, lo que lo hace inadecuado para publicación a pesar de su buena estructura y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:00:51.559260+00:00",
+      "title": "El “superpeso” avanza: ¿buenas o malas noticias para tu bolsillo?",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de un artículo informativo y objetivo, aunque podría reforzarse con fuentes oficiales adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:00:58.701149+00:00",
+      "title": "En un partido frenético, Las Leonas vencieron 3-2 a Alemania y lograron un triunfo clave en el Mundi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente fiable y bien estructurado, pero la mención incorrecta de Jamal Musiala afecta la precisión de los datos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:07.354196+00:00",
+      "title": "La Casa de los Famosos México 2026 en vivo hoy: Arantza Ruiz se convierte en la tercera eliminada",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contrastada del hecho.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:14.775769+00:00",
+      "title": "Hayden Panettiere: en la llamada al 911, reportaron que la actriz había sufrido un paro cardíaco deb",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla gravemente en veracidad, lo que compromete su idoneidad editorial, pese a cumplir en estructura y actualidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:18.838529+00:00",
+      "title": "\"Hay muchas historias que contar\": queríamos más temporadas de Ted Lasso y todo apunta a que así ser",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado, pero la falta de fuentes independientes y la ausencia de verificación de los datos reducen su puntuación en veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:30.748052+00:00",
+      "title": "Cristales y electricidad: sobre el cine androide",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple bien los estándares de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes más diversas para reforzar el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:42.616346+00:00",
+      "title": "Secretario de Energía de EU hablará con refinerías para impulsar la producción y bajar los precios",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta información reciente pero con graves inexactitudes y falta de fuentes contrastantes, lo que compromete su fiabilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:46.859763+00:00",
+      "title": "Julián Álvarez al Barcelona: de la reunión clave que podría destrabar el pase a la figura de otro gr",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta serios problemas de veracidad y falta de fuentes contrastadas, aunque es actual y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:52.296953+00:00",
+      "title": "Cómo atraer colibríes a tu casa aunque no tengas jardín: las mejores plantas para macetas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es en general sólido y bien estructurado, pero contiene imprecisiones sobre la procedencia de algunas plantas que requieren corrección para garantizar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-17T17:01:59.784317+00:00",
+      "title": "Camioneta de valores choca contra pipa de Pemex en Iztacalco; operadora habría perdido el control",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y objetividad, aunque debería incluir fuentes que respalden la afirmación sobre la supuesta causa del accidente.",
       "error": null
     }
   ]
