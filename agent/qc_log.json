@@ -1,136 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T23:23:57.780851+00:00",
-      "title": "Se eleva a 92 número de muertos por Naufragio en Zimbabue",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-17T23:31:16.306338+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, pese a su actualidad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T23:31:22.056305+00:00",
-      "title": "Renuncia Mónica Soto a magistratura en el TEPJF",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete cumple parcialmente con los estándares: es actual y mayormente objetivo, pero la precisión de los datos y la falta de fuentes contrastantes reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T23:31:26.476479+00:00",
-      "title": "Reportan que Marina del Pilar Ávila sí está bajo investigación en EEUU",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la noticia es actual y estructurada correctamente, la falta de fuentes verificables y de contraste de voces la hace poco fiable para una publicación objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T23:31:31.671897+00:00",
-      "title": "Morena y sus simplificaciones",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete contiene información factual pero está dominado por una visión subjetiva y falta de fuentes contrastantes, lo que lo hace insuficiente como noticia objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T23:31:38.229724+00:00",
-      "title": "Juventus contrató a otro arquero tras la caída del pase del Dibu Martínez: la incómoda situación del",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta información de reciente publicación y estilo objetivo, pero su veracidad y contraste de fuentes son insuficientes, lo que afecta la fiabilidad del artículo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T23:31:43.007337+00:00",
-      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando la información de forma clara, objetiva y oportuna, aunque podría reforzarse con fuentes oficiales y mayor documentación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T23:31:54.091659+00:00",
-      "title": "Disidencias de autoconsumo",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares editoriales, con una ligera oportunidad de enriquecer el contraste de fuentes en futuros artículos.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T23:31:59.396588+00:00",
       "title": "El misterio del asesinato del rapero Tupac Shakur: ¿qué revela el inicio del juicio 30 años después?",
       "kind": "noticia",
@@ -3380,6 +3250,142 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad, actualidad y estructura, y presenta fuentes fiables para un hecho deportivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:20:43.287421+00:00",
+      "title": "Stylist de Flor Vigna explota contra Aldo Rendón por críticas en La casa de los famosos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de actualidad y estructura, pero necesita fuentes más sólidas y verificables para mejorar la precisión y la objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:20:49.622327+00:00",
+      "title": "Puebla consigue agónica victoria frente al Pachuca para cerrar la Jornada 4 del Apertura 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, con solo una ligera mejora posible en la variedad de fuentes de confirmación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:20:57.277225+00:00",
+      "title": "Colombia prepara un “Plan Marshall” para reconstrucción",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta serias deficiencias de veracidad y falta de fuentes contrastantes, aunque es reciente y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:21:04.652260+00:00",
+      "title": "Sampaoli se fue sin hablar y su continuidad en Talleres está en duda: la imagen y los videos que res",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con los estándares de precisión y objetividad, aunque podría reforzarse con fuentes adicionales para un contraste más sólido.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:21:09.688790+00:00",
+      "title": "“A las puertas de Europa”: miles de migrantes esperan en Ceuta conocer su destino",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información reciente y estructurada, aunque podría reforzarse con fuentes oficiales directas para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:21:21.541422+00:00",
+      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, aunque podría reforzar la verificación de algunas cifras y equilibrar el tono para mejorar la imparcialidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:21:35.447053+00:00",
+      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque el análisis de objetividad podría reforzarse con mayor atribución de valoraciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T05:21:45.244809+00:00",
+      "title": "INE asegura que mantiene capacidad operativa pese a más de 800 bajas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad, aunque podría mejorar al incorporar fuentes contrastantes para reforzar la cobertura del tema político.",
       "error": null
     }
   ]
