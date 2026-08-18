@@ -1,170 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T21:34:46.648200+00:00",
-      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero la escasa corroboración de fuentes y la falta de citas oficiales limitan su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:34:59.273363+00:00",
-      "title": "Disidencias de autoconsumo",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información fiable, bien contextualizada y estructurada, con mínima inclinación subjetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:35:02.863387+00:00",
-      "title": "Muere a los 36 años Hayden Panettiere, actriz de las series \"Héroes\" y \"Nashville\"",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete no es apto para publicación porque contiene una información fundamental falsa, a pesar de su buena estructura y neutralidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:35:08.343837+00:00",
-      "title": "Vinculan a proceso a cinco supuestos integrantes de “Los Deltas”, célula violenta del CJNG; poseían ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, con pequeñas áreas de mejora en contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:35:14.061352+00:00",
-      "title": "Rubén Moreira advierte riesgo de hostigamiento contra periodistas por “listas negras”",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, con una ligera carga de lenguaje pero una cobertura equilibrada y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:35:22.270554+00:00",
-      "title": "Gobierno de Maru Campos apoya a niñas, niños y adultos con problemas auditivos a desarrollarse y con",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría reforzar la inclusión de fuentes contrastantes para una cobertura más equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:46:39.424904+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-17T21:46:45.988384+00:00",
-      "title": "5 flores que despiertan por la noche y llenan tu hogar de un aroma inigualable",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple en general con los estándares editoriales, aunque podría mejorar la verificación de datos y la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:46:53.411824+00:00",
-      "title": "BMV pierde por tercera sesión consecutiva y ya acumula una caída marginal en el año",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, aunque la ausencia de citas precisas reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T21:47:00.443674+00:00",
-      "title": "A los 16 años empezó a entrenar para recuperar su cuerpo: se convirtió en campeona invicta y sueña c",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, ofreciendo una cobertura adecuada y actual del tema.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T21:47:08.611944+00:00",
       "title": "Entre canciones sobre amor propio, sueños y superación, Carla Merchant llevó a la Sala Pepsi Black",
       "kind": "noticia",
@@ -3368,6 +3204,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, ofreciendo información reciente, equilibrada y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:01:19.957365+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque mantiene objetividad, actualidad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:01:40.490394+00:00",
+      "title": "¡La Fiera se impone en el Victoria! Arcila y Domínguez hacen ganar al León ante Necaxa",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en general con los estándares de calidad editorial, presentando información veraz, contrastada y estructurada de forma adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:02:00.298950+00:00",
+      "title": "Grupo Posadas acelera estrategias de promoción para lograr un buen cierre de año: Barrera",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares editoriales, aunque podría mejorar la verificación de datos y la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:02:19.389316+00:00",
+      "title": "¿Manchas amarillas en el inodoro?; la mejor receta para eliminarlas sin usar cloro ni químicos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:02:32.978253+00:00",
+      "title": "Tras el empate de Vélez con Defensa, Gimnasia de Mendoza vence a Talleres por el Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, objetiva y oportuna, con una presentación estructurada adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:03:05.873169+00:00",
+      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la precisión de los datos y ampliar la variedad de fuentes para alcanzar un estándar periodístico más sólido, aunque la actualidad y la estructura son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:03:25.573045+00:00",
+      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es preciso, actual y bien estructurado, pero necesita mayor contraste de fuentes para cubrir adecuadamente la dimensión política del tema.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:03:32.700242+00:00",
+      "title": "Milei enfrenta cierre de empresas y pérdida de empleos en Argentina",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está estructurado correctamente, pero necesita fuentes más variadas y referencias precisas para reforzar la veracidad y el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:03:39.958993+00:00",
+      "title": "Necaxa vs León EN VIVO Jornada 4 del Apertura 2026 Liga MX: Juan Pablo Domínguez le da la vuelta al ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una cobertura clara y bien estructurada del evento deportivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:03:44.897131+00:00",
+      "title": "INE proyecta repartir bolsa de más de 10,842 millones de pesos a los partidos políticos",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzarse con fuentes oficiales adicionales.",
       "error": null
     }
   ]
