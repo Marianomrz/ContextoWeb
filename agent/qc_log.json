@@ -1,102 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-18T16:01:06.556341+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Poder Judicial ve necesario reforz",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo, con ligera carencia de fuentes citadas pero con buen contraste y estructura.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T16:01:14.742446+00:00",
-      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 18 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, aunque podría reforzar la diversidad de fuentes para ofrecer un contraste más completo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T16:01:23.667193+00:00",
-      "title": "El calor extremo obliga al deporte de élite a cambiar horarios, rutinas y protocolos",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque se beneficiaría de referencias más precisas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T16:01:33.477802+00:00",
-      "title": "Kevin Feige lo apuesta todo por los nuevos X-Men: «Podríamos hacer 100 películas»",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares, pero la falta de fuentes primarias para la afirmación de '100 películas' reduce su precisión y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T16:20:48.993109+00:00",
-      "title": "Café en una taza rota: la nostalgia de Alejandro Zambra",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una experiencia estética y reflexiva, aunque con margen para enriquecer el estilo y la originalidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T16:20:52.136509+00:00",
-      "title": "El gobernador Ricardo Gallardo entregará 5,000 lotes más con \"Tu casa Tu apoyo\"",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "503 Server Error: Service Unavailable for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-18T16:20:59.161868+00:00",
       "title": "Andy López Beltrán aparece en testimonios de huachicol fiscal en el caso de los hermanos Farías Lagu",
       "kind": "noticia",
@@ -3374,6 +3278,108 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es reciente y bien estructurado, pero necesita mayor contraste de fuentes y mayor objetividad para cumplir plenamente con los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T20:52:19.281549+00:00",
+      "title": "Muere motociclista de León tras estrellarse en el Eje Metropolitano en Purísima del Rincón",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general de alta calidad editorial, con información reciente y presentación objetiva; solo se podría mejorar la precisión de citas y datos específicos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T20:52:33.726105+00:00",
+      "title": "Américo Villarreal expresa sus condolencias por cuatro marinos fallecidos; sufrieron un accidente en",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere añadir fuentes complementarias para reforzar la contextualización.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T20:52:47.135532+00:00",
+      "title": "Boca Juniors enfrenta a Recoleta en busca de clasificar a los cuartos de la Copa Sudamericana: forma",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, objetiva, actual y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T20:52:56.473991+00:00",
+      "title": "El auge evangélico en América Latina: de las iglesias a las urnas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actualizado, pero necesita fuentes más diversas y mayor precisión en la terminología para alcanzar una objetividad plena.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T20:53:08.532973+00:00",
+      "title": "¿Filtrado el gameplay de GTA 6 antes de su lanzamiento?",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, mostrando datos precisos y una presentación objetiva, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T20:53:15.347607+00:00",
+      "title": "Tamaulipas tendrá dos nuevas secretarías, anuncia Américo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, ofreciendo una presentación clara y estructurada de la noticia.",
       "error": null
     }
   ]
