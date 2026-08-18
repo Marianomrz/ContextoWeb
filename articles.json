@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-18T00:01:50.479326+00:00",
+  "generated_at": "2026-08-18T00:22:00.814109+00:00",
   "articles": [
+    {
+      "id": "ac4eb949b7b2",
+      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
+      "summary": "En la entrevista, la escritora mexicana Valeria Luiselli reflexiona sobre la función de la literatura en épocas de violencia, resaltando el papel de los clásicos, el desarraigo y la crueldad anti‑inmigrante en EE. UU. como motores de la creación.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/entrevistas/la-tarea-de-la-literatura-en-tiempos-crueles-valeria-luiselli/17/08/2026/",
+      "published_at": "2026-08-17T19:16:26+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto enfatiza la crueldad anti‑inmigrante y la marginalidad, utiliza un lenguaje crítico hacia políticas estadounidenses y se centra en perspectivas progresistas, sin presentar contraargumentos.",
+      "focus_analysis": "El medio opta por un enfoque cultural y humano, destacando la literatura como herramienta de crítica social, mientras deja de lado aspectos económicos o de seguridad.",
+      "focus_tags": [
+        "literatura",
+        "desarraigo",
+        "migración"
+      ],
+      "context": [
+        {
+          "label": "Perfil de Valeria Luiselli",
+          "text": "Valeria Luiselli, escritora mexicana premiada, ha publicado novelas como 'Los ingrávidos' y ensayos que abordan la migración y la identidad, consolidándose como una voz crítica en la literatura contemporánea."
+        },
+        {
+          "label": "Política migratoria de EE. UU.",
+          "text": "En los últimos años, la administración estadounidense ha intensificado la aplicación de políticas restrictivas contra migrantes, generando críticas internacionales por su dureza y efectos humanitarios."
+        },
+        {
+          "label": "Tradición literaria de compromiso",
+          "text": "Desde la literatura del Boom latinoamericano hasta la escritura testimonial actual, autores han usado la narrativa para denunciar injusticias y dar voz a los desplazados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "eaa06b12d600",
+      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
+      "summary": "Meta Platforms, la empresa tecnológica de Mark Zuckerberg, ha registrado una patente que permite a sus gafas de realidad aumentada Ray‑Ban Meta reconocer rostros y analizar expresiones para crear clips personalizados, lo que genera preocupación sobre la privacidad de los usuarios.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/",
+      "published_at": "2026-08-18T00:05:12+00:00",
+      "bias_score": -60,
+      "bias_reason": "El texto enfatiza repetidamente los riesgos y la desconfianza, citando demandas pasadas y usando expresiones negativas como “vuelve a sembrar la desconfianza” y “todo puede pasar”, sin presentar contra‑argumentos ni opiniones neutrales.",
+      "focus_analysis": "El medio se centra en los riesgos de privacidad y vigilancia que implica la tecnología, dejando de lado los posibles beneficios de usuario o los avances técnicos de las gafas de realidad aumentada.",
+      "focus_tags": [
+        "privacidad",
+        "vigilancia",
+        "reconocimiento facial"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Meta",
+          "text": "Meta ha enfrentado múltiples demandas por el uso de datos biométricos, incluyendo un acuerdo de 1.400 millones de dólares en 2023 por el uso no autorizado de datos faciales."
+        },
+        {
+          "label": "Regulación de IA y reconocimiento facial",
+          "text": "La Unión Europea está avanzando con la Ley de IA que restringe el uso de sistemas de reconocimiento facial por motivos de privacidad y derechos fundamentales."
+        },
+        {
+          "label": "Competencia en el mercado de AR",
+          "text": "Empresas como Apple y Google también están desarrollando gafas de realidad aumentada, pero han puesto mayor énfasis en controles de privacidad y transparencia para los usuarios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "bc730613c2e5",
+      "title": "¿Megaterremoto en México? Esto pasa con la energía acumulada en la brecha sísmica de Guerrero",
+      "summary": "El artículo del Informador explica que la brecha sísmica de Guerrero, una zona de subducción de 230 km sin terremotos mayores a magnitud 7 desde 1911, acumula energía que podría generar un megaterremoto, aunque los sismos lentos actúan como válvula de escape. Los expertos de la UNAM y del Servicio Sismológico Nacional advierten sobre la creciente probabilidad y recomiendan reforzar protocolos de prevención.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/megaterremoto-en-mexico-esto-pasa-con-la-energia-acumulada-en-la-brecha-sismica-de-guerrero-20260817-0146.html",
+      "published_at": "2026-08-18T00:17:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto combina datos científicos con un titular sensacionalista, pero el contenido se basa en fuentes oficiales y académicas, sin promover una agenda ideológica.",
+      "focus_analysis": "El medio se centra en el análisis geológico y técnico del riesgo sísmico, dejando de lado el impacto humano y social del posible terremoto.",
+      "focus_tags": [
+        "sismología",
+        "riesgo sísmico",
+        "prevención"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes históricos",
+          "text": "Desde 1911 la zona de Guerrero no ha registrado sismos mayores a magnitud 7, aunque entre 1845 y 1911 se produjeron al menos seis eventos de gran magnitud, evidenciando un patrón de acumulación de tensión tectónica."
+        },
+        {
+          "label": "Comparación global",
+          "text": "Regiones de subducción como la zona de Nankai en Japón o la zona de Cascadia en EE. UU. también presentan periodos de silencio seguidos de sismos lentos que liberan parte de la energía acumulada."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "El Servicio Sismológico Nacional monitorea continuamente la brecha y la UNAM ha publicado estudios sobre sismos lentos, mientras que autoridades locales están revisando protocolos de construcción y evacuación."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "cd4a26c43549",
+      "title": "Ecatepec estrena parque lineal en la Alameda México Nuevo; retiran mil 600 toneladas de basura tras décadas de abandono",
+      "summary": "El municipio de Ecatepec, Estado de México, inauguró el parque lineal Alameda México Nuevo después de retirar más de 1 600 toneladas de basura acumulada durante décadas, ofreciendo áreas de recreación, deporte y jardín polinizador.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/ecatepec-estrena-parque-lineal-en-la-alameda-mexico-nuevo-retiran-mil-600-toneladas-de-basura-tras-decadas-de-abandono/",
+      "published_at": "2026-08-18T00:17:12+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea un tono elogioso, destaca exclusivamente los logros de la administración municipal y omite críticas o controversias, lo que muestra una ligera inclinación favorable al gobierno local.",
+      "focus_analysis": "Se centra en la mejora urbana y el bienestar de los residentes, resaltando la infraestructura y la seguridad, mientras deja fuera discusiones sobre costos, posibles desalojos o la política partidista.",
+      "focus_tags": [
+        "renovación urbana",
+        "bienestar comunitario",
+        "infraestructura pública"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del sitio",
+          "text": "Antes de la obra, el terreno de la Alameda México Nuevo alía como un basurero ilegal y zona de invasiones en el derecho de vía de la CFE, generando inseguridad y falta de servicios para los vecinos."
+        },
+        {
+          "label": "Acciones municipales previas",
+          "text": "El gobierno de Ecatepec había impulsado la pavimentación de diez calles, la instalación de redes de agua potable y drenaje, y la construcción de un CBTIS en la colonia México Nuevo, mejorando la infraestructura básica."
+        },
+        {
+          "label": "Programas estatales de renovación",
+          "text": "En el Estado de México, el programa de desarrollo urbano del gobierno estatal ha financiado la transformación de espacios degradados en parques y áreas verdes, como parte de la estrategia de reducción de riesgos de inundación y mejora del entorno."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "73a6a3279cb6",
+      "title": "Vélez empató con Defensa y no pudo subirse a la cima del Grupo A del Torneo Clausura",
+      "summary": "Vélez Sarsfield, equipo de la Primera División argentina, empató 1‑1 con Defensa y Justicia en el estadio José Amalfitani, lo que le impidió consolidarse como líder exclusivo del Grupo A del Torneo Clausura 2026.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
+      "published_at": "2026-08-18T00:17:59+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido y la tabla de posiciones sin usar adjetivos cargados ni citar fuentes que favorezcan a un club o a una postura política.",
+      "focus_analysis": "El medio se centró en el relato del encuentro y sus consecuencias inmediatas en la tabla, dejando de lado aspectos como la reacción de la afición, el impacto financiero del resultado o la estrategia a largo plazo de los clubes.",
+      "focus_tags": [
+        "resultado del partido",
+        "posiciones de la liga",
+        "torneo clausura"
+      ],
+      "context": [
+        {
+          "label": "situación de Vélez Sarsfield",
+          "text": "Antes del duelo, Vélez Sarsfield ocupaba la primera posición del Grupo A con 12 puntos, a un punto del segundo lugar, y buscaba consolidarse como líder para asegurar un puesto de octavos de final."
+        },
+        {
+          "label": "posición de Defensa y Justicia",
+          "text": "Defensa y Justicia venía de varios empates y una derrota, acumulando ocho puntos en el Grupo A, y necesitaba al menos un punto para mantenerse en la lucha por los puestos de clasificación."
+        },
+        {
+          "label": "competencia en el Grupo A",
+          "text": "Instituto de Córdoba lideraba el Grupo A con 13 puntos, mientras que otros equipos como Independiente Rivadavia y Argentinos Juniors también competían por los primeros lugares de la tabla anual."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "e511beb10b6c",
+      "title": "Desarrolladores en Puebla llaman a generar banco de tierras para abatir déficit de 180,000 casas",
+      "summary": "Los desarrolladores de la industria de la vivienda en el estado de Puebla, encabezados por la Canadevi, piden a las autoridades crear un banco de tierras que les permita construir viviendas y así disminuir el déficit estimado de 180,000 hogares.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/estados/desarrolladores-puebla-llaman-generar-banco-tierras-abatir-deficit-180-000-casas-20260817-828726.html",
+      "published_at": "2026-08-18T00:18:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar declaraciones de los desarrolladores y datos del sector sin usar vocabulario cargado ni favorecer a ninguna corriente política, manteniendo un tono informativo.",
+      "focus_analysis": "El medio se centra en el aspecto económico e institucional del problema habitacional, resaltando la oferta de terrenos y la necesidad de planificación, mientras que el impacto directo sobre las familias y las políticas públicas se tratan de forma marginal.",
+      "focus_tags": [
+        "vivienda",
+        "déficit habitacional",
+        "banco de tierras"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En México, el déficit de vivienda social supera el millón de unidades, y el programa nacional de vivienda del gobierno federal busca atender parte de esa necesidad mediante créditos del Infonavit."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "Otros estados como Veracruz y Jalisco han implementado bancos de tierras que han facilitado la construcción de vivienda media y social, reduciendo costos y tiempos de desarrollo."
+        },
+        {
+          "label": "Postura de otros actores",
+          "text": "El Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) ha señalado que la falta de disponibilidad de terrenos es uno de los principales obstáculos para que los beneficiarios obtengan vivienda adecuada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "60619c578435",
+      "title": "Luz entre olvido: la memoria en la obra de Yōko Ogawa",
+      "summary": "Un faro que titila sobre un océano de nombres borrados, intentando dibujar la silueta de una casa sin pasado. Así se siente la lectura de *La policía de la memoria*, donde cada página es una vela que se apaga y se enciende al mismo tiempo, dejando al lector a la deriva entre lo recordado y lo perdido.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-18T00:20:47.676899+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, bajo el calor abrasador de mediados de agosto, los recuerdos se vuelven más frágiles y los vacíos de la historia aparecen como sombras al atardecer. Elegí a Ogawa porque su narrativa captura esa tensión entre la luz de la memoria y la oscuridad del olvido, ofreciendo un espejo para nuestras propias nostalgias estivales. Además, la novela ha sido traducida recientemente al español, lo que la hace accesible para lectores que buscan voces fuera del canon occidental.",
+      "focus_tags": [
+        "ficción contemporánea",
+        "Japón",
+        "distopía"
+      ],
+      "context": [
+        {
+          "label": "Conocer a Yōko Ogawa",
+          "text": "Nacida en 1962 en Osaka, Ogawa se ha destacado por su estilo minimalista que combina lo cotidiano con lo extraño, creando atmósferas que parecen sueños a medio despertar. Su obra, premiada con el Akutagawa y el Tanizaki, explora la fragilidad humana a través de objetos cotidianos que se convierten en símbolos de pérdida."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si la atmósfera de *La policía de la memoria* te cautiva, prueba *El libro del desierto* de Kenzaburō Ōe, que también navega entre la memoria colectiva y la ausencia individual, o la novela *Never Let Me Go* de Kazuo Ishiguro, donde la nostalgia se vuelve una herramienta de control."
+        },
+        {
+          "label": "Trasfondo histórico",
+          "text": "El Japón de la posguerra vio surgir una generación de escritores que, tras la devastación, buscaron reconstruir la identidad nacional mediante la introspección y la crítica social. En ese contexto, Ogawa continúa la tradición de cuestionar cómo la memoria se escribe, se borra y se reescribe bajo la presión de la modernidad."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "c53fe169043d",
       "title": "El misterio del asesinato del rapero Tupac Shakur: ¿qué revela el inicio del juicio 30 años después?",
@@ -801,248 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "f1d3b7382e82",
-      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
-      "summary": "YouTube anunció que, a partir del 24 de agosto de 2026, contará una visualización en cualquier vídeo desde el primer fotograma, igualando el criterio que ya se aplica a los Shorts, con el objetivo de ofrecer a los creadores una métrica más clara y unificada.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/internet/youtube-cambia-conteo-vistas-videos/",
-      "published_at": "2026-08-17T20:31:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el cambio de política sin usar lenguaje cargado ni favorecer a ninguna postura, y solo incluye declaraciones oficiales de la compañía.",
-      "focus_analysis": "El artículo se centra en la modificación técnica del recuento de vistas y su impacto directo en los creadores, dejando de lado un análisis más profundo de sus implicaciones económicas o de la competencia con otras plataformas de video corto.",
-      "focus_tags": [
-        "cambio de métricas",
-        "YouTube",
-        "creadores de contenido"
-      ],
-      "context": [
-        {
-          "label": "Política anterior de YouTube",
-          "text": "Antes del cambio, YouTube contabilizaba una vista en vídeos largos solo si el espectador hacía clic en reproducir y permanecía al menos 30 segundos, mientras que los Shorts contaban la vista desde el inicio."
-        },
-        {
-          "label": "Reacción de los creadores",
-          "text": "Recientemente, YouTube había generado controversia entre los creadores al modificar sus reglas de monetización, lo que provocó críticas y solicitudes de mayor claridad en las métricas."
-        },
-        {
-          "label": "Tendencia de la industria",
-          "text": "Plataformas como TikTok e Instagram han adoptado métricas de visualización más inmediatas para impulsar la participación, lo que ha presionado a YouTube a unificar sus criterios."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "b6a91d442fd3",
-      "title": "Se eleva a 92 número de muertos por Naufragio en Zimbabue",
-      "summary": "El naufragio de una embarcación de la Agencia de Desarrollo de Infraestructura Rural en el lago Kariba de Zimbabue dejó al menos 92 muertos, mientras el gobierno declaró estado de desastre nacional y desplegó recursos militares y de rescate.",
-      "category": "internacional",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/se-eleva-a-92-número-de-muertos-por-naufragio-en-zimbabue/a-78405934?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-17T22:33:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar datos oficiales y hechos verificables sin usar lenguaje cargado ni seleccionar fuentes con sesgo político.",
-      "focus_analysis": "El medio destaca el impacto humano del accidente y la respuesta institucional del gobierno, dejando de lado análisis económicos o de seguridad más amplios.",
-      "focus_tags": [
-        "tragedia humana",
-        "respuesta institucional",
-        "seguridad marítima"
-      ],
-      "context": [
-        {
-          "label": "lago Kariba",
-          "text": "El lago Kariba, creado por la presa homónima entre 1956 y 1959, es el mayor embalse artificial del mundo por volumen y sirve como vía de transporte clave en la región fronteriza entre Zimbabue y Zambia."
-        },
-        {
-          "label": "capacidad y normativa de embarcaciones",
-          "text": "La embarcación involucrada tenía una capacidad máxima autorizada de 90 personas, pero se sospecha que transportaba a más de 120 pasajeros, lo que indica posibles fallas en la regulación y supervisión marítima."
-        },
-        {
-          "label": "estado de desastre nacional",
-          "text": "El presidente Emmerson Mnangagwa declaró estado de desastre nacional, activando al Ejército, buzos de rescate y aeronaves, una medida que se ha usado previamente en Zimbabue para responder a emergencias de gran escala."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "ff2d555c8690",
-      "title": "Cómo hacer que tu ropa huela rico todo el día",
-      "summary": "El Universal ofrece una serie de consejos prácticos para que la ropa mantenga un aroma fresco durante todo el día, destacando la importancia de no sobrecargar la lavadora, secar bien las prendas y usar ambientadores con moderación.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/de-ultima/como-hacer-que-tu-ropa-huela-rico-todo-el-dia/",
-      "published_at": "2026-08-17T23:15:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro y se centra exclusivamente en recomendaciones de consumo, sin emplear palabras cargadas ni citar fuentes con orientación política.",
-      "focus_analysis": "El medio se centra en el ángulo práctico y de consumo, ofreciendo trucos de lavado y cuidado de la ropa; no aborda aspectos medioambientales, de salud pública o de costos de los productos.",
-      "focus_tags": [
-        "lavado",
-        "cuidado de ropa",
-        "aroma"
-      ],
-      "context": [
-        {
-          "label": "recomendaciones generales de higiene text",
-          "text": "Expertos en lavandería suelen aconsejar que la ropa se lave con la cantidad adecuada de detergente y se seque completamente para evitar olores a humedad y proliferación de bacterias."
-        },
-        {
-          "label": "salud pública",
-          "text": "Organizaciones como la OMS indican que la ropa húmeda prolongada puede generar moho y bacterias que afectan la salud respiratoria, reforzando la necesidad de un secado rápido."
-        },
-        {
-          "label": "tendencias del mercado mexicano",
-          "text": "Los estudios de consumo en México muestran un crecimiento sostenido en la venta de ambientadores textiles y sachets perfumados, reflejando la demanda de productos que prolonguen la frescura de la ropa."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "514416e0bee8",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: Inicia la prueba del líder de la semana",
-      "summary": "La Casa de los Famosos México 2026 presentó la prueba del líder de la semana, en la que los participantes compitieron por acumular dinero bajo un presupuesto reducido, y Arantza Ruiz fue la concursante eliminada ese domingo.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/la-casa-de-los-famosos-mexico-2026-en-vivo-hoy-quien-sera-el-tercer-eliminado-y-riesgo-de-doble-salida/",
-      "published_at": "2026-08-17T23:17:01+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos del programa con un lenguaje neutral y sin opiniones, sin usar términos cargados ni fuentes con sesgo.",
-      "focus_analysis": "El medio se centra en la mecánica del juego y los resultados de la prueba del líder, dejando fuera cualquier análisis de la vida personal de los participantes o controversias internas del reality.",
-      "focus_tags": [
-        "reality show",
-        "competencia",
-        "actualización en vivo"
-      ],
-      "context": [
-        {
-          "label": "Formato del programa",
-          "text": "La Casa de los Famosos México es la versión local del reality de convivencia internacional, producido por Televisa y transmitido 24/7 en la plataforma ViX+, donde los concursantes viven aislados y compiten en pruebas semanales."
-        },
-        {
-          "label": "Importancia de la prueba del líder",
-          "text": "La prueba del líder determina quién controla el presupuesto semanal de la casa, afectando privilegios como el acceso a café y la compra de alimentos, lo que influye directamente en la estrategia de los participantes."
-        },
-        {
-          "label": "Contexto de audiencia",
-          "text": "Los reality shows de Televisa, como La Casa de los Famosos, suelen generar altos índices de audiencia en México y son parte de la estrategia de la empresa para reforzar su presencia en streaming frente a la competencia de plataformas internacionales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "73a6a3279cb6",
-      "title": "Vélez le gana a Defensa desde los tres minutos y recupera la cima del Grupo A del Torneo Clausura",
-      "summary": "El club argentino Vélez Sarsfield venció a Defensa y Justicia desde los tres minutos, recuperando la primera posición del Grupo A del Torneo Clausura.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
-      "published_at": "2026-08-17T22:41:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido y la tabla sin usar lenguaje cargado ni fuentes que favorezcan a un equipo, manteniendo un tono neutral.",
-      "focus_analysis": "El medio se centró en el resultado del encuentro y su impacto en la clasificación del torneo, dejando de lado aspectos humanos o emocionales de los jugadores.",
-      "focus_tags": [
-        "resultado",
-        "tabla",
-        "torneo clausura"
-      ],
-      "context": [
-        {
-          "label": "rendimiento previo de Vélez",
-          "text": "Vélez Sarsfield había iniciado la temporada con tres victorias consecutivas y un empate contra Boca Juniors, lo que le permitió liderar su grupo antes de la quinta fecha."
-        },
-        {
-          "label": "situación de Defensa y Justicia",
-          "text": "Defensa y Justicia buscaba igualar a Vélez en puntos para mantenerse en la lucha por los puestos de clasificación a las copas internacionales."
-        },
-        {
-          "label": "importancia del Torneo Clausura",
-          "text": "El Torneo Clausura determina los equipos que acceden a la Copa Libertadores 2027 y a la Copa Sudamericana, por lo que cada victoria es crucial para la clasificación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "ccd3591bc1af",
-      "title": "El primer plazo del registro telefónico arrancó con reclamos, líneas suspendidas y plataformas saturadas",
-      "summary": "El primer corte del registro telefónico en México provocó quejas de usuarios, suspensión de líneas y saturación de los sistemas de registro, mientras la Comisión Reguladora de Telecomunicaciones (CRT) mantuvo la normativa sin prórrogas.",
-      "category": "sociedad",
-      "source_name": "Expansión",
-      "source_url": "https://expansion.mx/empresas/2026/08/17/hice-registro-de-todas-formas-mi-linea-fue-suspendida",
-      "published_at": "2026-08-17T23:12:19+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y citar a autoridades y representantes de operadoras, sin usar un cargado ni inclinarse a una postura política o ideológica.",
-      "focus_analysis": "El medio se centra en el impacto operativo y la experiencia de los usuarios ante la obligación de registrar sus líneas, dejando de lado cualquier análisis sobre la política regulatoria o la defensa de derechos de los consumidores.",
-      "focus_tags": [
-        "registro telefónico",
-        "suspensión de líneas",
-        "congestión de plataformas"
-      ],
-      "context": [
-        {
-          "label": "Regulación telecomunicaciones México",
-          "text": "La CRT establece que los suscriptores que no vinculen su línea antes de la fecha límite serán suspendidos en un plazo de 72 horas, sin posibilidad de prórroga."
-        },
-        {
-          "label": "Número de líneas afectadas",
-          "text": "Según la Agencia de Transformación Digital y Telecomunicaciones, existen 14 millones de líneas con terminación 0; el 53,6 % ya se registró, quedando aproximadamente 6,5 millones pendientes."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Informador también informó que las líneas con terminación 0 serán suspendidas a partir del 31 de agosto, subrayando la obligatoriedad del registro y la fecha límite."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "c53fe169043d",
-      "title": "El misterio del asesinato del rapero Tupac Shakur: ¿qué revela el inicio del juicio 30 años después?",
-      "summary": "El 17 de agosto de 2026 se inició en Las Vegas el juicio contra Duane \"Keffe D\" Davis, acusado de haber organizado el asesinato del rapero estadounidense Tupac Shakur, ocurrido en 1996.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260817-el-misterio-del-asesinato-del-rapero-tupac-shakur-qu%C3%A9-revela-el-inicio-del-juicio-30-a%C3%B1os-despu%C3%A9s",
-      "published_at": "2026-08-17T22:49:04+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo utiliza un tono informativo y neutro, citando fuentes oficiales como la fiscalía y registros judiciales sin emplear lenguaje cargado ni favorecer una visión política.",
-      "focus_analysis": "El medio se centra en la dimensión legal del caso, describiendo el proceso judicial y las pruebas presentadas, mientras deja de lado el impacto cultural del rap y la violencia en el hip‑hop de los años noventa.",
-      "focus_tags": [
-        "juicio criminal",
-        "hip‑hop",
-        "cultura estadounidense"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Tupac Shakur, uno de los artistas más influyentes del rap, fue asesinado en septiembre de 1996 tras recibir varios disparos en Las Vegas, un hecho que marcó la historia del hip‑hop."
-        },
-        {
-          "label": "dato comparativo",
-          "text": "Duane \"Keffe D\" Davis, exlíder de los South Side Compton Crips, ha sido señalado por la fiscalía como organizador del homicidio por motivos de venganza tras una agresión a su sobrino."
-        },
-        {
-          "label": "postura de otros medios",
-          "text": "Coberturas como la de BBC Mundo destacan el libro de memorias de Davis como pieza clave para su incriminación, mientras El Economista enfatiza la relación del asesinato con la violencia de las pandillas en la cultura del hip‑hop."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
