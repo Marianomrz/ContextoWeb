@@ -1,119 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T22:21:06.073515+00:00",
-      "title": "Gobierno de Hidalgo niega impulsar relleno Siete Mezquites en Tula; vecinos alertan por contaminació",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzar la veracidad con fuentes más concretas para cifras específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T22:21:15.998157+00:00",
-      "title": "FIFA anuncia la salida de su director de operaciones tras las críticas a Infantino",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mayor rigor en la verificación de datos y una gama más amplia de fuentes, pero mantiene una presentación objetiva y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T22:22:47.758621+00:00",
-      "title": "Independiente se recuperó y le ganó 3-1 a Lanús tras la salida de Quinteros",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-17T22:22:57.929373+00:00",
-      "title": "El Tesla Roadster puede levitar — pero no volar — gracias a propulsores de SpaceX, y la demo será es",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero su contenido carece de verificación y fuentes contrastadas, lo que compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T22:23:09.206343+00:00",
-      "title": "Disidencias de autoconsumo",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, aunque la falta de diversidad de fuentes y la evidente postura editorial reducen su objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T22:23:14.959672+00:00",
-      "title": "Quién es Duane Davis, el acusado del asesinato del rapero Tupac Shakur hace 30 años (y el libro de m",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en mayoría competente y equilibrado, aunque algunas afirmaciones requieren verificación adicional.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T22:23:22.361526+00:00",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: este lunes se conoce quién es el nuevo líder de la s",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información reciente, clara y objetiva, con una estructura adecuada y fuentes confiables para el tipo de hecho.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T22:23:30.133859+00:00",
       "title": "Ambulantes desafían reordenamiento y bloquean de nuevo la Avenida Juárez; mantienen diálogo con auto",
       "kind": "noticia",
@@ -3374,6 +3261,125 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con la mayoría de los estándares de calidad, aunque debería reforzar la verificación de datos y aportar fuentes múltiples para mayor robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:52:27.914799+00:00",
+      "title": "Lluvias disparan baches en Salamanca y aumentan las quejas ciudadanas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero necesita mayor respaldo de datos y fuentes diversas para mejorar la veracidad y el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:52:34.677758+00:00",
+      "title": "Explosión e incendio en vivienda de Álvaro Obregón deja dos personas lesionadas; retiran siete cilin",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información precisa, reciente y estructurada, aunque podría reforzar la citación de fuentes en los contextos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:52:43.008033+00:00",
+      "title": "León vence 2-1 al Necaxa en el torneo Apertura 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; presenta información veraz, contrastada, objetiva y estructurada de manera adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:52:50.548507+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la estructura y la objetividad son adecuadas, la falta de veracidad y fuentes confiables hace que el artículo no cumpla los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:52:58.352805+00:00",
+      "title": "Tras el empate de Vélez con Defensa, Gimnasia de Mendoza venció 3-1 a Talleres por el Torneo Clausur",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque podría reforzarse con fuentes adicionales; en conjunto es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:53:05.144870+00:00",
+      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple mayormente con los estándares de calidad editorial, aunque la precisión de algunos detalles técnicos y la parcialidad percibida podrían mejorarse.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T03:53:18.842622+00:00",
+      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contextualizada de la entrevista.",
       "error": null
     }
   ]
