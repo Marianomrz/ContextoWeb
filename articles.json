@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-18T19:41:40.290050+00:00",
+  "generated_at": "2026-08-18T19:51:33.088114+00:00",
   "articles": [
+    {
+      "id": "c571ae80cb21",
+      "title": "OpenAI lanza un ChatGPT diseñado solo para adolescentes",
+      "summary": "OpenAI ha incorporado a ChatGPT un modo específico para usuarios menores de edad, que se activa automáticamente al identificar a un adolescente y ofrece herramientas de estudio, restricciones de contenido y notificaciones a padres para fomentar hábitos de aprendizaje seguros.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/openai-lanza-un-chatgpt-disenado-solo-para-adolescentes/",
+      "published_at": "2026-08-18T19:30:00+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto se centra en describir funciones y beneficios del nuevo modo sin mencionar críticas ni controversias, usando un tono mayormente informativo y promocional, lo que indica una ligera inclinación positiva pero sin sesgo evidente.",
+      "focus_analysis": "El artículo se orienta al aspecto tecnológico y educativo del producto, resaltando sus características de seguridad y aprendizaje; omite la dimensión legal y las preocupaciones de privacidad que otros medios destacan.",
+      "focus_tags": [
+        "tecnología educativa",
+        "seguridad digital",
+        "IA para menores"
+      ],
+      "context": [
+        {
+          "label": "Presiones legales",
+          "text": "Otros medios, como Aristegui Noticias, señalaron que el lanzamiento llega en medio de crecientes demandas y regulaciones que buscan proteger a los menores del contenido de riesgo en plataformas de IA."
+        },
+        {
+          "label": "Control parental",
+          "text": "El Sol de México destacó que la versión para adolescentes incluye funciones de control parental que permiten a los padres vincular sus cuentas y recibir alertas sobre conversaciones potencialmente peligrosas."
+        },
+        {
+          "label": "Historial de OpenAI",
+          "text": "OpenAI ya había introducido controles parentales en versiones anteriores de ChatGPT, pero la nueva modalidad automatiza la activación de esas salvaguardas sin requerir configuración adicional por parte del usuario."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "f160a53a0bbc",
+      "title": "Aeroméxico y Volaris abren nuevas rutas: las ciudades que ganan vuelos directos este año",
+      "summary": "Las aerolíneas mexicanas Aeroméxico y Volaris anunciaron la apertura de nuevas rutas, con vuelos directos desde Puebla, Guadalajara y Querétaro a destinos nacionales e internacionales, y la intención de Aeroméxico de conectar la Ciudad de México con Milán en 2027.",
+      "category": "economia",
+      "source_name": "Expansión",
+      "source_url": "https://expansion.mx/empresas/2026/08/18/volaris-aeromexico-nuevas-rutas-2026",
+      "published_at": "2026-08-18T19:31:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar datos de expansión de rutas y cifras de ingresos sin usar lenguaje cargado ni presentar opiniones políticas, manteniendo un tono objetivo y centrado en la actividad empresarial.",
+      "focus_analysis": "El medio se enfocó en el aspecto económico y de conectividad del sector aéreo, resaltando la ampliación de la red y la demanda de viajeros, mientras dejó de lado la dimensión política o regulatoria de la autorización de nuevas rutas.",
+      "focus_tags": [
+        "aerolíneas México",
+        "nuevas rutas",
+        "conectividad aérea"
+      ],
+      "context": [
+        {
+          "label": "Crecimiento del sector aéreo mexicano",
+          "text": "Después de la pandemia, la demanda de viajes aéreos en México ha aumentado, impulsando a las aerolíneas a expandir sus redes para captar tanto turismo interno como internacional."
+        },
+        {
+          "label": "Competencia entre aerolíneas de bajo costo y legacy",
+          "text": "Volaris, como aerolínea de bajo costo, y Aeroméxico, la carrier tradicional, compiten por ofrecer más destinos directos, una estrategia que busca diferenciarse y ganar participación de mercado."
+        },
+        {
+          "label": "Marco regulatorio de rutas internacionales",
+          "text": "El gobierno mexicano, a través de la DGAC, debe autorizar los nuevos destinos internacionales, proceso que suele ser riguroso y puede retrasar la puesta en marcha de rutas anunciadas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "5115399f7b2c",
+      "title": "Juristas presentan escrito en defensa de identidad de Somos México; rechazan resolución del INE de modificar nombre y emblema",
+      "summary": "Un grupo de juristas y expertos presentó ante el Tribunal Electoral del Poder Judicial de la Federación un amicus curiae para impugnar la resolución del Instituto Nacional Electoral que ordena cambiar el nombre y el emblema del partido político Somos México, argumentando que la medida vulnera la libertad de asociación y los requisitos legales.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/juristas-presentan-escrito-en-defensa-de-identidad-de-somos-mexico-rechazan-resolucion-del-ine-de-modificar-nombre-y-emblema/",
+      "published_at": "2026-08-18T19:46:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos y los argumentos de los juristas sin usar lenguaje cargado ni favorecer a ninguna de las partes, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El medio se centra en el aspecto institucional‑jurídico del conflicto, resaltando el proceso ante el TEPJF y los argumentos legales, mientras deja de lado la dimensión humana o política de los simpatizantes del partido.",
+      "focus_tags": [
+        "identidad política",
+        "jurisprudencia electoral",
+        "INE"
+      ],
+      "context": [
+        {
+          "label": "Competencia del INE",
+          "text": "El Instituto Nacional Electoral tiene la facultad de autorizar el registro de partidos políticos y de exigir cambios en sus nombres, emblemas y colores cuando considera que no cumplen con la normativa electoral."
+        },
+        {
+          "label": "Uso del amicus curiae en México",
+          "text": "El amicus curiae es una figura jurídica que permite a terceros, como expertos y académicos, aportar conocimientos especializados en controversias ante el Tribunal Electoral del Poder Judicial de la Federación."
+        },
+        {
+          "label": "Situación de Somos México",
+          "text": "Somos México es un nuevo movimiento político que busca su inscripción oficial como partido nacional y ha enfrentado obstáculos administrativos que podrían afectar su identidad visual y su capacidad de participación electoral."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "debaed10c814",
+      "title": "Celaya proyecta mega árbol de Navidad entre reproches del PAN por fallas urbanas",
+      "summary": "El alcalde de Celaya, Juan Miguel Ramírez Sánchez, anunció que el municipio destinará entre 2 y 3 millones de pesos para un mega árbol de Navidad y una villa festiva, mientras que el dirigente del PAN, Sergio Ruiz López, criticó la prioridad del gasto frente a problemas de infraestructura y servicios básicos.",
+      "category": "politica",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/celaya/2026/08/18/celaya-proyecta-mega-arbol-de-navidad-entre-reproches-del-pan-por-fallas-urbanas-1833735.html",
+      "published_at": "2026-08-18T19:47:18+00:00",
+      "bias_score": 0,
+      "bias_reason": "La nota presenta de forma equilibrada las declaraciones del alcalde y las críticas del PAN, sin usar un lenguaje cargado ni favorecer a una de las partes.",
+      "focus_analysis": "El medio se centró en la iniciativa de iluminación navideña y la polémica política local, dejando de lado una discusión más profunda sobre los problemas de infraestructura urbana que señala la oposición.",
+      "focus_tags": [
+        "infraestructura urbana",
+        "celebración navideña",
+        "política local"
+      ],
+      "context": [
+        {
+          "label": "Controversia previa",
+          "text": "En diciembre de 2025, el Gobierno Municipal de Celaya instaló en la Bola del Agua un adorno con la imagen institucional de la administración, la \"paloma de la esperanza\", que fue demandado por el PAN por ubicarse en un bien catalogado por el INAH."
+        },
+        {
+          "label": "Posición del PAN en Celaya",
+          "text": "El Partido Acción Nacional (PAN) es la principal fuerza de oposición en el ayuntamiento de Celaya y ha cuestionado repetidamente la gestión del presidente municipal respecto a la asignación de recursos para obras de infraestructura."
+        },
+        {
+          "label": "Tendencia de inversión en iluminación festiva",
+          "text": "Varias municipalidades mexicanas han incrementado sus presupuestos para eventos y decoraciones navideñas con el objetivo de impulsar el turismo y la imagen de la ciudad, aunque a menudo enfrentan críticas por la priorización de estos gastos frente a servicios esenciales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "e9f43cb0cf15",
+      "title": "Tras la derrota en el clásico, Gimnasia La Plata enfrenta a Riestra en busca de la clasificación a los cuartos de la Copa Argentina",
+      "summary": "Tras perder 4‑0 contra Estudiantes en el clásico de La Plata, el club argentino Gimnasia La Plata se enfrenta a Deportivo Riestra en el Estadio Norberto Tomaghello con el objetivo de clasificar a los cuartos de final de la Copa Argentina.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
+      "published_at": "2026-08-18T19:47:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin adjetivos cargados ni selección de fuentes que favorezcan a algún equipo, presentando solo datos del partido y antecedentes recientes.",
+      "focus_analysis": "El medio se centra en el aspecto deportivo del encuentro, resaltando resultados recientes y la importancia del partido para la clasificación, sin abordar temas económicos, institucionales o de afición.",
+      "focus_tags": [
+        "copa argentina",
+        "clasificación",
+        "partido preview"
+      ],
+      "context": [
+        {
+          "label": "Gimnasia La Plata",
+          "text": "El equipo dirigido por Ariel Pereyra llegó a la derrota 4‑0 contra Estudiantes en el clásico de La Plata, rompiendo una racha de tres victorias consecutivas y quedando en la zona baja de la tabla de la Primera Nacional."
+        },
+        {
+          "label": "Deportivo Riestra",
+          "text": "Riestra, que disputa la Primera Nacional, se sitúa en la parte media de la tabla y busca mejorar su posición en la Copa Argentina tras superar a San Lorenzo en penales en la ronda anterior."
+        },
+        {
+          "label": "Copa Argentina",
+          "text": "En los octavos de final de la Copa Argentina, los ganadores de los enfrentamientos de este martes se enfrentarán en los cuartos de final, manteniendo viva la posibilidad de llegar a la gran final del torneo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "66d7804facbe",
+      "title": "Florida decide su futuro: primarias por Gobernación, Senado y Cámara en juego",
+      "summary": "Florida celebra elecciones primarias en las que se decidirá la sucesión del gobernador Ron DeSantis, un escaño del Senado y varios puestos en la Cámara de Representantes, una contienda que también medirá la influencia del presidente Donald Trump antes de las elecciones generales de noviembre.",
+      "category": "politica",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/video/20260818-florida-decide-su-futuro-primarias-por-gobernaci%C3%B3n-senado-y-c%C3%A1mara-en-juego",
+      "published_at": "2026-08-18T19:49:23+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva y sin adjetivos cargados, sin favorecer a ningún candidato ni partido, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el aspecto electoral y de poder político, resaltando la importancia de las primarias para el futuro de Florida y la influencia de Trump, mientras omite detalles sobre políticas específicas o el perfil demográfico de los votantes.",
+      "focus_tags": [
+        "elecciones primarias",
+        "política estatal",
+        "influencia Trump"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de gobernación",
+          "text": "Ron DeSantis, gobernador de Florida desde 2019, ha implementado políticas conservadoras en educación y salud, alineándose estrechamente con la agenda del presidente Donald Trump."
+        },
+        {
+          "label": "Historia de primarias republicanas en Florida",
+          "text": "Florida es un estado clave en los procesos de selección republicanos, donde las primarias suelen determinar al candidato con alta probabilidad de ganar en las elecciones generales."
+        },
+        {
+          "label": "Contexto nacional",
+          "text": "Las primarias de Florida se desarrollan en un año electoral intermedio, y la participación de Trump en la carrera republicana refleja una tendencia nacional de su influencia en la selección de candidatos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "95b947965fec",
       "title": "La empresa que piensa",
@@ -839,216 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "a34d50efcd01",
-      "title": "Los Leones perdieron 3-1 con Países Bajos en el Mundial de hockey sobre césped y se jugarán la clasificación ante Nueva Zelanda",
-      "summary": "La selección argentina de hockey sobre césped, Los Leones, perdió 3-1 contra Países Bajos en la segunda fecha del Grupo A del Mundial y ahora deberá vencer a Nueva Zelanda para asegurar la clasificación a la siguiente ronda.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/los-leones-perdieron-3-1-con-paises-bajos-en-el-mundial-de-hockey-sobre-cesped-y-se-jugaran-la-clasificacion-ante-nueva-zelanda/",
-      "published_at": "2026-08-18T18:48:10+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto destaca los logros y la trayectoria de Argentina y utiliza un tono favorable al equipo local, aunque mantiene una descripción factual del partido.",
-      "focus_analysis": "El artículo se centra en el resultado del encuentro y sus implicaciones de clasificación, resaltando también un dato humano sobre el ministro neerlandés, mientras omite análisis tácticos profundos o la perspectiva de los equipos rivales.",
-      "focus_tags": [
-        "hockey sobre césped",
-        "Mundial 2026",
-        "clasificación"
-      ],
-      "context": [
-        {
-          "label": "Historial de la selección argentina",
-          "text": "Los Leones lograron la medalla de bronce en el Mundial de La Haya 2014 y el oro olímpico en Río 2016, y fueron campeones de la Copa Panamericana 2025."
-        },
-        {
-          "label": "Formato del torneo",
-          "text": "En la fase de grupos del Mundial de hockey sobre césped 2026, los equipos juegan en grupos de cuatro; el primero y segundo de cada grupo avanzan, y Argentina y Nueva Zelanda empatan en puntos, quedando la diferencia de goles a favor de Argentina."
-        },
-        {
-          "label": "Situación de Países Bajos",
-          "text": "Países Bajos, líder invicto del Grupo A, cerrará su fase de grupos contra Japón, manteniendo la posición de cabeza del grupo con ventaja de puntos y goles."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "b222e4f7a694",
-      "title": "Mezcla casera con 2 ingredientes para deshacerte de las cucarachas de la cocina",
-      "summary": "Infobae México describe una receta casera que combina bicarbonato de sodio y azúcar glass como cebo para reducir la presencia de cucarachas en la cocina, advirtiendo que no sustituye a un manejo profesional de plagas.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/18/mezcla-casera-con-2-ingredientes-para-deshacerte-de-las-cucarachas-de-la-cocina/",
-      "published_at": "2026-08-18T18:54:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a explicar el método y sus precauciones sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniéndose descriptivo y neutral.",
-      "focus_analysis": "El artículo se centra en el aspecto práctico y doméstico del control de cucarachas, dejando de lado la discusión sobre la efectividad comparada con productos profesionales o regulaciones sanitarias.",
-      "focus_tags": [
-        "hogar",
-        "plagas",
-        "remedio casero"
-      ],
-      "context": [
-        {
-          "label": "salud pública",
-          "text": "La presencia de cucarachas en la cocina está asociada a riesgos sanitarios porque pueden contaminar alimentos y propagar patógenos, lo que genera preocupación en la salud pública."
-        },
-        {
-          "label": "control profesional",
-          "text": "Los especialistas en manejo integrado de plagas recomiendan combinar medidas de higiene, sellado de grietas y, cuando sea necesario, productos autorizados como ácido bórico o trampas químicas para eliminar colonias completas."
-        },
-        {
-          "label": "estudios científicos",
-          "text": "Investigaciones publicadas en 2025 mostraron que la mezcla de bicarbonato y azúcar puede provocar mortalidad en cucarachas bajo condiciones de laboratorio, pero los autores subrayan que los resultados no siempre se replican en entornos domésticos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "888c8534d02b",
-      "title": "Va Gabinete de Seguridad por fortalecer transparencia en homicidio doloso y robo de vehículos; publicará reportes diarios",
-      "summary": "El Gabinete de Seguridad del Gobierno de México anunció que a partir del 1 de septiembre publicará diariamente los reportes preliminares de homicidios dolosos y robos de vehículos en su portal, sustituyendo la información que antes se encontraba en el sitio de informes de seguridad.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/va-gabinete-de-seguridad-por-fortalecer-transparencia-en-homicidio-doloso-y-robo-de-vehiculos-publicara-reportes-diarios/",
-      "published_at": "2026-08-18T18:55:19+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto se limita a describir la medida oficial sin usar adjetivos cargados ni incluir críticas, citando únicamente a fuentes gubernamentales y manteniendo un tono informativo.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y de transparencia del gobierno, dejando de lado la discusión sobre la efectividad de la medida o el contexto de violencia en el país.",
-      "focus_tags": [
-        "transparencia",
-        "seguridad pública",
-        "datos delictivos"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "México ha mantenido históricamente índices elevados de homicidios dolosos y robos de vehículos, lo que ha impulsado demandas de mayor acceso a datos delictivos por parte de la sociedad civil."
-        },
-        {
-          "label": "Comparación",
-          "text": "En años anteriores, los reportes preliminares se publicaban en el portal de informes de seguridad, pero la información estaba disponible de forma menos estructurada y con actualizaciones menos frecuentes."
-        },
-        {
-          "label": "Reacción",
-          "text": "Organizaciones de derechos humanos y analistas de seguridad han señalado la necesidad de datos más transparentes, aunque algunos críticos advierten que la publicación diaria podría generar interpretaciones precipitadas sin contexto jurídico."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "999d544c6082",
-      "title": "Volkswagen de México y SITIAVW acuerdan 5 días para concluir revisión salarial y evitar huelga",
-      "summary": "Volkswagen de México y el sindicato SITIAVW acordaron una prórroga de cinco días para seguir negociando la revisión salarial y contractual, evitando así una huelga programada para el 18 de agosto; el nuevo plazo vence el 23 de agosto a las 11:00 horas.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/volkswagen-mexico-sitiavw-acuerdan-5-dias-concluir-revision-salarial-evitar-huelga-20260818-828873.html",
-      "published_at": "2026-08-18T18:47:10+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta los hechos de forma objetiva, citando tanto a la empresa como al sindicato sin usar lenguaje cargado ni favorecer a una de las partes.",
-      "focus_analysis": "El medio se centró en el conflicto laboral y la negociación salarial, dejando de lado el impacto económico de la posible huelga en la producción de Volkswagen y la industria automotriz mexicana.",
-      "focus_tags": [
-        "negociaciones salariales",
-        "conflicto laboral",
-        "Volkswagen México"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes sectoriales",
-          "text": "En los últimos años, la industria automotriz mexicana ha registrado varias negociaciones salariales tensas, como la huelga parcial en la planta de Nissan en 2024, que afectó la cadena de suministro regional."
-        },
-        {
-          "label": "Instancia legal",
-          "text": "El Tribunal Laboral Federal de Asuntos Colectivos es la autoridad que supervisa los procesos de negociación colectiva en México y puede dictar plazos o medidas para evitar conflictos laborales."
-        },
-        {
-          "label": "Contexto nacional",
-          "text": "En 2026, otras grandes empresas mexicanas como Pemex, IMSS y Aeroméxico también están revisando sus estructuras salariales, lo que indica una tendencia de ajustes contractuales a nivel nacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "551cea927b0f",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas denuncia que Ceuta se “siente impotente” y asegura que “el Gobierno tiene medios” para expulsar a los migrantes",
-      "summary": "El presidente de Ceuta, Juan Jesús Vivas, declaró que la ciudad se siente impotente ante la llegada masiva de migrantes y afirmó que el Gobierno dispone de medios para expulsarlos, mientras que la ministra Elma Sáiz solicitó colaboración entre administraciones y la vicesecretaria del PP Cuca Gamarra criticó la inacción del Gobierno; además, vecinos protestaron contra el uso del centro ecuestre como refugio temporal.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-18/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-18T18:53:00+00:00",
-      "bias_score": -10,
-      "bias_reason": "El artículo incluye declaraciones de varios actores políticos y sociales y mantiene un tono informativo, pero destaca la perspectiva humanitaria y la crítica a la gestión gubernamental, lo que indica un leve sesgo de izquierda.",
-      "focus_analysis": "El medio se centra en la reacción institucional y las protestas locales frente a la crisis migratoria, dejando de lado el análisis del impacto económico y la política migratoria europea más amplia.",
-      "focus_tags": [
-        "crisis migratoria",
-        "respuesta institucional",
-        "protestas locales"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Ceuta",
-          "text": "Ceuta es una ciudad autónoma española situada en el norte de África que, históricamente, ha experimentado oleadas periódicas de entrada irregular de migrantes procedentes de Marruecos."
-        },
-        {
-          "label": "Política migratoria española",
-          "text": "El Gobierno de España ha firmado acuerdos con Marruecos para controlar la migración irregular y ha anunciado medidas de retorno y refuerzo judicial en Ceuta."
-        },
-        {
-          "label": "Cobertura de Otros medios",
-          "text": "Euronews Español informó que los migrantes se manifestaron en Ceuta exigiendo asilo, subrayando la dimensión humanitaria del episodio, en contraste con la atención de El País a las declaraciones políticas y a las protestas locales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "fd9a732fb2f9",
-      "title": "Máxima preocupación en el fútbol: Jamal Musiala se desmayó otra vez en un partido del Bayern Múnich",
-      "summary": "El futbolista alemán Jamal Musiala, de 23 años y jugador del Bayern Múnich, volvió a desmayarse durante el amistoso contra Heidenheim, tras haber presentado otro episodio similar contra Leipzig tres días antes, y comunicará su estado de salud a través de sus redes sociales.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/maxima-preocupacion-en-el-futbol-jamal-musiala-se-desmayo-otra-vez-en-un-partido-dias-despues-de-descompensarse-en-la-cancha/",
-      "published_at": "2026-08-18T18:55:58+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, citando fuentes oficiales y al jugador sin emplear vocabulario cargado ni favorecer a ninguna posición; la cobertura de DW Español también mantiene un enfoque objetivo.",
-      "focus_analysis": "El medio se concentra en la salud del jugador y las repercusiones para el Bayern, dejando de lado análisis tácticos o el impacto en la temporada del equipo.",
-      "focus_tags": [
-        "salud del jugador",
-        "incidente en partido",
-        "Bayern Múnich"
-      ],
-      "context": [
-        {
-          "label": "Historial de lesiones de Musiala",
-          "text": "Jamal Musiala sufrió una fractura de peroné en el tobillo durante el Mundial de Clubes de julio de 2025, lo que lo mantuvo fuera de la acción hasta principios de 2026, y ha experimentado dos desmayos en partidos amistosos en agosto de 2026."
-        },
-        {
-          "label": "Respuesta del club",
-          "text": "El director deportivo del Bayern Múnich, Max Eberl, indicó que lo más importante es la recuperación del jugador y que no hay más información disponible, mientras que el club no ha emitido un comunicado oficial sobre el incidente."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "DW Español también informó del desmayo de Musiala, señalando que el jugador entrenó solo después del incidente, lo que muestra un énfasis distinto al centrarse en su proceso de recuperación individual."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
