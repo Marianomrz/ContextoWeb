@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-18T02:24:05.379854+00:00",
-      "title": "Morelos destina más de 42 millones de pesos para gastos escolares",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando la información de forma precisa, objetiva y actual, con una estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:40:47.926902+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 1,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad al reportar una muerte inexistente, lo que reduce su calidad editorial a pesar de cumplir con la estructura y la actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:40:53.266512+00:00",
-      "title": "Sinaloa presenta resultados de verano y agenda estratégica",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de citas precisas para los datos numéricos reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:41:05.097683+00:00",
-      "title": "Necaxa vs León EN VIVO Jornada 4 del Apertura 2026 Liga MX: Juan Pablo Domínguez le da la vuelta al ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de manera precisa, neutral y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:41:16.971705+00:00",
-      "title": "Operación Balam combate robo de carga en Estado de México; C4 Carretero iniciará en septiembre",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es preciso y actual, pero le falta contraste de fuentes y mayor equilibrio de perspectivas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:41:25.492196+00:00",
-      "title": "Tras el empate de Vélez con Defensa, Gimnasia de Mendoza vence a Talleres por el Torneo Clausura",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:41:40.243224+00:00",
-      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero presenta imprecisiones y falta de fuentes directas que limitan su veracidad y contraste de fuentes, y su tono crítico reduce la objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:41:55.250756+00:00",
-      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es veraz, actual y bien estructurado, pero necesita mayor contraste de fuentes y presentación de perspectivas diversas para cumplir plenamente con los estándares de objetividad en temas conflictivos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T02:41:59.242239+00:00",
-      "title": "Milei enfrenta cierre de empresas y pérdida de empleos en Argentina",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "La publicación es o o y bien estructurada, pero necesita fuentes más precisas para los números citados y mayor contraste de voces para cumplir con los estándares de exhaustividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-18T02:42:09.512835+00:00",
       "title": "La Cultura de la Paz, Listas, Censura y Nomenclatura",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, aunque el tono elogioso reduce ligeramente la objetividad. En general, es apto para publicación con una ligera recomendación de equilibrar la valoración.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:04.986489+00:00",
+      "title": "De arte, dinero y todo lo demás",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, pese a un pequeño error factual. Es objetivo, actual y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:12.435747+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno apela a la “colaboración ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información veraz y actual, aunque la objetividad podría mejorarse al incluir la voz de los migrantes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:17.381648+00:00",
+      "title": "‘Ghost Rider’, la nueva película de Marvel con Ryan Gosling, ya tiene fecha de estreno",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El contenido presenta datos no verificables y depende de una única fuente, lo que afecta su fiabilidad, aunque la redacción es clara, actual y estructurada adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:22.883033+00:00",
+      "title": "Arantza Ruiz revela cómo vivió su eliminación de La Casa de los Famosos México 2026 y asegura que lo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y suficientemente contrastada para un hecho de entretenimiento.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:31.417626+00:00",
+      "title": "Mensaje entre líneas manda Sabino a su ex, Domilepa",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es objetivo y actual, pero debería reforzar la verificación de datos y aportar fuentes adicionales para mayor robustez.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:37.455131+00:00",
+      "title": "Don Miguel Mancera, QEPD",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y objetivo, pero la imprecisión en la edad del fallecido reduce la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:43.199633+00:00",
+      "title": "La “tormenta de ideas” que derivó en el juego más viral del momento: cómo surgió “Copero”, el sitio ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero le falta verificación de datos y objetividad, lo que disminuye su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:48:55.711098+00:00",
+      "title": "Entrevista a Jonathan Coe: “La sátira es más fácil que nunca: ya no hace falta inventar nada, solo c",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero presenta problemas de verificación de datos y de equilibrio de fuentes, lo que reduce su fiabilidad y objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T07:49:01.998544+00:00",
+      "title": "El hallazgo de un perro sobre una pareja en una tumba del antiguo Egipto intriga a los científicos: ",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
       "error": null
     }
   ]
