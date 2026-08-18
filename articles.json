@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-18T03:53:19.892253+00:00",
+  "generated_at": "2026-08-18T04:06:13.475817+00:00",
   "articles": [
+    {
+      "id": "eaa06b12d600",
+      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
+      "summary": "Meta, la empresa tecnológica de EE. UU., ha registrado una patente que combina cámaras, reconocimiento facial e inteligencia artificial en sus gafas de realidad aumentada Ray‑Ban, permitiendo identificar y etiquetar a personas y acciones en tiempo real.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/tecnologia/meta-patente-reconocimiento-facial-gafas/",
+      "published_at": "2026-08-18T00:05:12+00:00",
+      "bias_score": -35,
+      "bias_reason": "El texto destaca repetidamente los riesgos de privacidad, menciona demandas pasadas y utiliza expresiones como \"desconfianza\" y \"todo puede pasar\", enfocándose en la crítica a la empresa más que en los posibles beneficios del dispositivo.",
+      "focus_analysis": "El artículo se centra en la dimensión de privacidad y la polémica alrededor de la vigilancia, dejando de lado cualquier discusión sobre la innovación tecnológica o los usos potencialmente positivos de las gafas AR.",
+      "focus_tags": [
+        "privacidad",
+        "reconocimiento facial",
+        "gafas inteligentes"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Meta",
+          "text": "Meta ha enfrentado varias demandas por el uso de datos biométricos sin autorización, incluyendo un acuerdo de 1.400 millones de dólares en 2024 por el uso indebido de imágenes faciales."
+        },
+        {
+          "label": "Regulación de IA",
+          "text": "La Unión Europea y varios países han reforzado la normativa sobre reconocimiento facial y protección de datos, lo que genera un entorno regulatorio más estricto para empresas como Meta."
+        },
+        {
+          "label": "Colaboración con Ray‑Ban",
+          "text": "Meta y Ray‑Ban lanzaron en 2023 unas gafas de realidad aumentada que integran cámaras y funciones de IA, marcando una tendencia creciente de dispositivos wearables con capacidades de captura visual."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "73a6a3279cb6",
+      "title": "Tras el empate de Vélez con Defensa, Gimnasia de Mendoza venció 3-1 a Talleres por el Torneo Clausura",
+      "summary": "El equipo de Gimnasia y Esgrima de Mendoza venció 3-1 a Talleres de Córdoba en la jornada de la zona B del Torneo Clausura 2026, mientras que Vélez Sarsfield empató 1-1 con Defensa y Justicia en la zona A.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
+      "published_at": "2026-08-18T03:14:22+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido, resultados y datos de la tabla sin usar adjetivos cargados ni favorecer a ningún club, manteniendo un tono objetivo y equilibrado.",
+      "focus_analysis": "El artículo se centra en el resultado del encuentro y sus repercusiones en la clasificación del Torneo Clausura, omitiendo la perspectiva de los hinchas y el impacto cultural del fútbol.",
+      "focus_tags": [
+        "resultado fútbol",
+        "torneo clausura",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Formato del torneo",
+          "text": "El Torneo Clausura de la Primera División de Argentina se juega en dos zonas (A y B) y determina tanto los puestos de clasificación a torneos internacionales como los descensos, con una tabla anual que suma los puntos de ambas fases."
+        },
+        {
+          "label": "Rendimiento reciente de Gimnasia de Mendoza",
+          "text": "Gimnasia de Mendoza había mostrado una mejora en los últimos partidos, logrando victorias clave que le permitieron escalar posiciones en la zona B y acercarse a los puestos de clasificación a octavos de final."
+        },
+        {
+          "label": "Situación de Talleres de Córdoba",
+          "text": "Talleres de Córdoba atraviesa una mala racha con varias derrotas consecutivas, lo que lo coloca en la zona de peligro de descenso y necesita revertir los resultados para mantenerse en la Primera División."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "1fdc436e1e62",
+      "title": "León vence 2-1 al Necaxa en el torneo Apertura 2026",
+      "summary": "El club León de la Liga MX venció 2‑1 al Necaxa en la cuarta jornada del Apertura 2026, sumando su segundo triunfo y ascendiendo al décimo puesto de la clasificación.",
+      "category": "deportes",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/deportes/leon-vence-2-1-necaxa-torneo-apertura-20260817-828775.html",
+      "published_at": "2026-08-18T03:39:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido, sin usar adjetivos cargados ni citar fuentes con sesgo político; el tono es meramente informativo.",
+      "focus_analysis": "El medio se centró en el desarrollo del juego y los goleadores, resaltando la actuación de Arcila y Domínguez, mientras dejó de lado la implicación del resultado en la lucha por el campeonato o la reacción de la afición.",
+      "focus_tags": [
+        "resultado partido",
+        "Liga MX",
+        "Apertura 2026"
+      ],
+      "context": [
+        {
+          "label": "Posición de León",
+          "text": "Tras la victoria, León acumuló seis puntos y ocupó el décimo lugar en la tabla de la Apertura 2026, mientras el América y el Tijuana lideran el torneo."
+        },
+        {
+          "label": "Posición de Necaxa",
+          "text": "Necaxa, con seis puntos, quedó en la undécima posición tras su segunda derrota consecutiva."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Universal describió el triunfo como parte del 'gran momento' de León, mientras Periódico AM destacó la imposición de la Fiera en el estadio Victoria, añadiendo un tono más celebratorio que el reporte de El Economista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
+    {
+      "id": "d9298d38cd1f",
+      "title": "La Moncloa y Ceuta pactan espacios para encarrilar la crisis humanitaria en medio de una gran tensión política",
+      "summary": "El Gobierno central de España y la administración autonómica de Ceuta, dirigida por el presidente del PP Juan Jesús Vivas, han acordado crear cuatro nuevos centros de acogida para atender a unos 1.500 migrantes, en medio de una creciente tensión política entre ambas partes.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-18/la-moncloa-y-ceuta-pactan-espacios-para-encarrilar-la-crisis-humanitaria-en-medio-de-una-gran-tension-politica.html",
+      "published_at": "2026-08-18T03:45:01+00:00",
+      "bias_score": -30,
+      "bias_reason": "El artículo emplea expresiones como \"ultraderechistas\" y \"discurso racista\" para describir la presión local, y destaca la falta de acción del gobierno de Ceuta, lo que muestra una postura ligeramente crítica hacia la derecha regional y favorece la visión humanitaria del gobierno central.",
+      "focus_analysis": "Se centra en la dimensión humanitaria y el conflicto político entre La Moncloa y Ceuta, dejando de lado el análisis económico de la gestión de la crisis o los aspectos de seguridad que podrían influir en la política migratoria.",
+      "focus_tags": [
+        "crisis humanitaria",
+        "tensión política",
+        "acogida migrantes"
+      ],
+      "context": [
+        {
+          "label": "precedente 2021",
+          "text": "En 2021, Ceuta vivió una crisis similar cuando miles de migrantes llegaron y el gobierno central y la administración local colaboraron estrechamente, ofreciendo edificios públicos para su alojamiento."
+        },
+        {
+          "label": "magnitud actual",
+          "text": "Las cifras indican que la población migrante en Ceuta ha aumentado de aproximadamente 3.500 en 2021 a cerca de 9.000 en 2026, lo que ha intensificado la presión social y política."
+        },
+        {
+          "label": "relaciones España‑Marruecos",
+          "text": "La situación se enmarca en una relación delicada entre España y Marruecos, ya que el gobierno español teme que el vecino del sur pueda facilitar nuevos flujos migratorios, lo que añade una capa de seguridad a la crisis."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "5b12af2acd37",
+      "title": "Secretaría de las Mujeres condena violencia digital contra jugadoras de Cruz Azul Femenil",
+      "summary": "La Secretaría de las Mujeres de México condenó la violencia digital dirigida a las futbolistas del Club Deportivo Cruz Azul Femenil, calificando los mensajes como inadmisibles y discriminatorios y llamando a respetar el derecho de las mujeres a una vida libre de violencia.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/secretaria-de-las-mujeres-condena-violencia-digital-contra-jugadoras-de-cruz-azul-femenil/",
+      "published_at": "2026-08-18T03:53:51+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto emplea un lenguaje centrado en la igualdad de género y la condena de la discriminación sin mencionar a partidos políticos ni usar cargada ideológicas, lo que indica una postura ligeramente progresista pero mayormente neutra.",
+      "focus_analysis": "El medio se enfocó en la violencia digital y la discriminación de género en el deporte, resaltando la respuesta institucional de la Secretaría de las Mujeres; dejó fuera el detalle de los comentarios ofensivos y el análisis de la cultura de los fanáticos en línea.",
+      "focus_tags": [
+        "violencia digital",
+        "igualdad de género",
+        "deporte femenino"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En los últimos años se han registrado varios casos de acoso y abuso digital contra jugadoras de fútbol en México, lo que ha llevado a organizaciones y autoridades a reforzar campañas contra la violencia de género en el deporte."
+        },
+        {
+          "label": "Postura de la Liga MX Femenil",
+          "text": "Según la cobertura de Infobae México, la Liga MX Femenil también emitió un comunicado repudiando los comentarios denigrantes contra las jugadoras de Cruz Azul, alineándose con la Secretaría de las Mujeres en la condena."
+        },
+        {
+          "label": "Perspectiva de Artículo 19",
+          "text": "El Sol de México citó a la organización Artículo 19, que advirtió sobre la estigmatización y la violencia digital contra periodistas, indicando que la preocupación por el discurso de odio en línea se extiende más allá del ámbito deportivo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4c2eabdbaf68",
+      "title": "Lotería Nacional: resultados de los sorteos Chispazo de este 17 de agosto",
+      "summary": "La Lotería Nacional de México, mediante Pronósticos para la Asistencia Pública, publicó los números ganadores de los sorteos Chispazo del 17 de agosto y recordó que los premios deben reclamarse en un plazo de 60 días naturales.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/18/loteria-nacional-resultados-de-los-sorteos-chispazo-de-este-17-de-agosto/",
+      "published_at": "2026-08-18T04:01:02+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje neutro y descriptivo, sin palabras cargadas ni selección de fuentes que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y procedimental, ofreciendo los resultados y los requisitos para cobrar los premios, mientras omite cualquier análisis económico o social del juego de azar.",
+      "focus_tags": [
+        "lotería",
+        "resultados",
+        "procedimientos"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes institucionales",
+          "text": "La Lotería Nacional es una entidad estatal mexicana que administra juegos de azar y destina parte de sus ingresos a la Asistencia Pública del país."
+        },
+        {
+          "label": "Marco legal y fiscal",
+          "text": "Los premios de la Lotería Nacional están sujetos al impuesto sobre la renta según el artículo 163 de la Ley del ISR, y el derecho a cobrarlos expira a los 60 días naturales posteriores al sorteo."
+        },
+        {
+          "label": "Cobertura alternativa",
+          "text": "Otros medios, como El Sol de México, enfocaron la noticia en un boleto conmemorativo del Día Nacional de las Abejas, resaltando un ángulo cultural que la cobertura de Infobae no menciona."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
     {
       "id": "ac4eb949b7b2",
       "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "db78f336512e",
-      "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Santiago Ixcuintla este 18 de agosto",
-      "summary": "El Servicio Meteorológico Nacional prevé que el martes 18 de agosto en Santiago Ixcuintla, Nayarit, México, la temperatura oscilará entre 23.6 y 36.6 grados centígrados, con una probabilidad de lluvia del 75% y alta radiación ultravioleta. El artículo también subraya la importancia del pronóstico para sectores como transporte, agricultura y salud, y advierte sobre los efectos del cambio climático en la región.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/18/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-santiago-ixcuintla-este-18-de-agosto/",
-      "published_at": "2026-08-18T03:18:36+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos meteorológicos y explicaciones técnicas sin usar un cargado ni favorecer a ninguna posición política, manteniendo un tono informativo y objetivo.",
-      "focus_analysis": "El medio eligió un enfoque ambiental y de seguridad pública, destacando la relevancia del clima para la prevención de desastres y la adaptación al cambio climático, mientras deja de lado un análisis económico profundo de los impactos sectoriales.",
-      "focus_tags": [
-        "clima",
-        "pronóstico",
-        "cambio climático"
-      ],
-      "context": [
-        {
-          "label": "Diversidad climática de México",
-          "text": "México cuenta con siete tipos de clima diferentes debido a su variada altitud, latitud y proximidad a mares y océanos, lo que genera regiones desde desiertos hasta bosques húmedos."
-        },
-        {
-          "label": "Récords de temperatura en el país",
-          "text": "El registro de temperatura más alta en México es de 58.5 °C en San Luis Río Colorado (1966), mientras que la más baja fue de -25 °C en Madero, Chihuahua (1997)."
-        },
-        {
-          "label": "Impactos del cambio climático",
-          "text": "Los cambios climáticos recientes han intensificado sequías e inundaciones, afectando a agricultores y ganaderos y aumentando la frecuencia de emergencias ambientales en ciudades como Cancún."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "3d897e172002",
-      "title": "INE proyecta repartir bolsa de más de 10,842 millones de pesos a los partidos políticos",
-      "summary": "El Instituto Nacional Electoral (INE) de México proyecta distribuir más de 10,842 millones de pesos como financiamiento público entre ocho partidos políticos nacionales y candidaturas independientes para las elecciones de 2027.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/ine-proyecta-repartir-bolsa-10-842-millones-pesos-partidos-politicos-20260817-828761.html",
-      "published_at": "2026-08-18T02:46:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar datos y cifras sin usar adjetivos cargados ni opiniones, manteniendo un tono informativo propio de una cobertura institucional.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y financiero del reparto de recursos del INE, dejando de lado la dimensión humana o el impacto de los fondos en la campaña electoral.",
-      "focus_tags": [
-        "financiamiento público",
-        "partidos políticos",
-        "INE"
-      ],
-      "context": [
-        {
-          "label": "Marco constitucional",
-          "text": "La Constitución mexicana establece que el financiamiento público a los partidos debe ser garantizado por la Cámara de Diputados, con el INE como administrador."
-        },
-        {
-          "label": "Distribución histórica",
-          "text": "En ciclos electorales anteriores, el partido Morena ha recibido la mayor parte del financiamiento público, seguido por PAN y PRI."
-        },
-        {
-          "label": "Elecciones 2027",
-          "text": "El reparto de recursos se realiza en preparación de las elecciones legislativas de 2027, cuando se renovará la Cámara de Diputados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "cda85b26c9ff",
-      "title": "Necaxa vs León EN VIVO Jornada 4 del Apertura 2026 Liga MX: Juan Pablo Domínguez le da la vuelta al marcador",
-      "summary": "El equipo de fútbol León de la Liga MX venció 2-1 al Necaxa en el Estadio Victoria de Aguascalientes, con un gol de Juan Pablo Domínguez que dio vuelta al marcador.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/18/necaxa-vs-leon-en-vivo-como-va-la-jornada-4-del-apertura-2026-liga-mx/",
-      "published_at": "2026-08-18T02:55:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se centra en describir los hechos del partido sin usar adjetivos cargados ni citar fuentes con inclinación política, manteniendo un tono objetivo y centrado en el deporte.",
-      "focus_analysis": "El medio eligió cubrir el partido desde la perspectiva del resultado y la posición en la tabla, omitiendo aspectos como la reacción de los aficionados o el impacto económico del encuentro.",
-      "focus_tags": [
-        "Liga MX",
-        "resultado del partido",
-        "tabla de posiciones"
-      ],
-      "context": [
-        {
-          "label": "Posiciones en la tabla",
-          "text": "En la Jornada 4 del Apertura 2026, Necaxa acumulaba seis puntos y ocupaba el décimo lugar, mientras que León tenía tres puntos y estaba en el puesto catorce."
-        },
-        {
-          "label": "Reanudación tras la Leagues Cup",
-          "text": "El encuentro se jugó después de una pausa provocada por la Leagues Cup, que había interrumpido el calendario de la Liga MX."
-        },
-        {
-          "label": "Cobertura de medios locales",
-          "text": "Otros medios, como Periódico AM, resaltaron los goles de Daniel Arcila y Juan Pablo Domínguez, presentando la victoria de León como una imposición del equipo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "73a6a3279cb6",
-      "title": "Tras el empate de Vélez con Defensa, Gimnasia de Mendoza vence a Talleres por el Torneo Clausura",
-      "summary": "El club Gimnasia de Mendoza derrotó a Talleres de Córdoba en el Torneo Clausura del fútbol argentino, mientras que Vélez Sarsfield empató 1‑1 con Defensa y Justicia, manteniéndose cerca del liderato de la Zona A.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
-      "published_at": "2026-08-18T01:57:10+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos deportivos y estadísticas sin usar lenguaje cargado ni favorecer a ningún equipo, y la única carga emotiva proviene de la descripción de un altercado entre entrenadores, que se presenta de forma factual.",
-      "focus_analysis": "El artículo se centra en los resultados de los partidos y su impacto en la tabla de posiciones, dejando de lado el aspecto humano de los jugadores y la afición.",
-      "focus_tags": [
-        "resultados",
-        "torneo clausura",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Estructura del torneo",
-          "text": "El Torneo Clausura 2026 de la AFA está dividido en dos zonas; los equipos compiten por evitar el descenso, por los primeros puestos que otorgan cupos internacionales y por la clasificación a octavos de final."
-        },
-        {
-          "label": "Situación de la tabla",
-          "text": "Vélez Sarsfield quedó segundo en la Zona A con 11 puntos, a un punto del líder Instituto de Córdoba, mientras que Gimnasia de Mendoza busca consolidarse en la zona media de la tabla."
-        },
-        {
-          "label": "Incidente de violencia",
-          "text": "Al final del partido entre Vélez y Defensa y Justicia se produjo una discusión entre los entrenadores que derivó en golpes de puño, reflejando la tensión que a veces acompaña a los encuentros de alta rivalidad en el fútbol argentino."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "6a45ebaff879",
-      "title": "¿Manchas amarillas en el inodoro?; la mejor receta para eliminarlas sin usar cloro ni químicos",
-      "summary": "El artículo explica cómo eliminar las manchas amarillas del inodoro utilizando una mezcla de bicarbonato de sodio y vinagre blanco, evitando el uso de cloro y productos químicos agresivos.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/tendencias/manchas-amarillas-en-el-inodoro-la-mejor-receta-para-eliminarlas-sin-usar-cloro-ni-quimicos/",
-      "published_at": "2026-08-18T02:46:02+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono informativo y neutral, sin carga política ni selección de fuentes con sesgo, limitándose a describir el método y citar instituciones científicas.",
-      "focus_analysis": "Se centra en el aspecto práctico y ecológico del mantenimiento del baño, dejando de lado la discusión sobre productos comerciales o la normativa de salud.",
-      "focus_tags": [
-        "limpieza hogar",
-        "remedios caseros",
-        "salud ambiental"
-      ],
-      "context": [
-        {
-          "label": "hard water",
-          "text": "Las manchas amarillas del inodoro se deben a la dureza del agua doméstica, que contiene calcio y magnesio que forman sarro."
-        },
-        {
-          "label": "EPA recommendation",
-          "text": "La Agencia de Protección Ambiental de EE. UU. recomienda reducir el uso de limpiadores clorados para disminuir la exposición a vapores tóxicos y la carga química del agua residual."
-        },
-        {
-          "label": "alternativas comerciales",
-          "text": "Los productos de limpieza tradicionales, como el cloro concentrado, son eficaces pero pueden dañar la porcelana y causar irritaciones respiratorias, lo que impulsa la búsqueda de opciones caseras."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "6a5e1c817e59",
-      "title": "Grupo Posadas acelera estrategias de promoción para lograr un buen cierre de año: Barrera",
-      "summary": "Grupo Posadas, la cadena hotelera mexicana, impulsará una nueva campaña publicitaria con el actor Diego Klein y relanzará su programa de lealtad Fiesta Rewards para intentar cerrar el 2026 con mejores resultados tras los retos del turismo en México.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/grupo-posadas-acelera-estrategias-promocion-lograr-buen-cierre-ano-barrera-20260817-828760.html",
-      "published_at": "2026-08-18T02:46:34+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto usa un tono favorable y promocional, destaca inversiones y oportunidades sin mencionar críticas ni problemas estructurales, reflejando una postura pro‑empresa típica de medios económicos de centro‑derecha.",
-      "focus_analysis": "El medio se centra en la estrategia de marketing y la innovación del programa de lealtad de Grupo Posadas, dejando de lado la perspectiva de los viajeros y los desafíos macroeconómicos del sector turístico.",
-      "focus_tags": [
-        "marketing",
-        "industria hotelera",
-        "programa de lealtad"
-      ],
-      "context": [
-        {
-          "label": "retos del turismo mexicano",
-          "text": "En los últimos años, el turismo interno y externo en México ha enfrentado dificultades como el aumento de los precios de los boletos de avión y la incertidumbre post‑pandemia, lo que ha reducido la ocupación hotelera en varios destinos."
-        },
-        {
-          "label": "competencia en programas de lealtad",
-          "text": "Otras cadenas hoteleras mexicanas, como Hoteles City Express y Grupo Posada, también han lanzado o reforzado sus propios programas de fidelidad para captar a los viajeros que buscan beneficios y experiencias personalizadas."
-        },
-        {
-          "label": "impacto del Mundial 2026",
-          "text": "El Mundial de fútbol 2026, que se celebrará en parte en Norteamérica, generó picos de demanda en algunos destinos turísticos, pero también provocó desviaciones de viajes durante el torneo, afectando la planificación de los operadores hoteleros."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
       }
     }
   ]
