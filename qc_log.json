@@ -1,108 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T20:21:32.196638+00:00",
-      "title": "Industria mexicana de vehículos pesados acelera para cumplir el 70% de contenido regional en 2027",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de veracidad y estructura, pero necesita mayor diversidad de fuentes para ofrecer un contraste adecuado en un tema con intereses contrapuestos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T20:21:37.893494+00:00",
-      "title": "La oferta que rechazó Mauro Icardi y el histórico club italiano que busca contratarlo",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y actual, pero le falta contraste de fuentes para reforzar la veracidad de los datos presentados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T20:21:42.437641+00:00",
-      "title": "El truco de la servilleta para eliminar el sarro del grifo en 10 minutos y sin frotar",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, bien contrastada y objetiva, con una estructura adecuada y actualidad total.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T20:36:28.497396+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad, pese a una presentación estructural adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T20:36:32.450824+00:00",
-      "title": "Rechazan cambios al Plan de Obra Pública en Celaya: Priorizan canchas y relegan servicios",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y objetivo, pero carece de datos verificables y de fuentes contrastantes, limitando su rigor informativo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T20:36:38.171576+00:00",
-      "title": "Pensión IMSS e ISSSTE: ¿cuándo cae el depósito del mes de septiembre?; aquí te lo decimos",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de calidad editorial, ofreciendo información precisa, objetiva y oportuna, pese a depender de una única fuente.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T20:36:46.278635+00:00",
       "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
       "kind": "noticia",
@@ -3374,6 +3272,102 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la verificación de afirmaciones sobre políticas públicas mediante fuentes explícitas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T01:00:49.656336+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 16 column 189 (char 1052)"
+    },
+    {
+      "at": "2026-08-18T01:00:58.690341+00:00",
+      "title": "Mérida refuerza operativo Regreso a Clases 2026; inmovilizan 294 útiles escolares por falta de etiqu",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y ofrece un buen contraste de fuentes, aunque podría reforzar la verificación de cifras específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T01:01:13.576134+00:00",
+      "title": "Las imágenes del bochornoso final en Vélez-Defensa: los técnicos Guillermo Barros Schelotto y Julio ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, presentando un hecho reciente de forma objetiva y estructurada, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T01:01:21.253186+00:00",
+      "title": "Bara acelera su expansión, abre más de una tienda al día",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T01:01:29.455358+00:00",
+      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es mayormente preciso y actualizado, pero muestra un sesgo notable y una dependencia de una única fuente, lo que le resta objetividad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T01:01:46.184069+00:00",
+      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando información veraz, bien contextualizada y estructurada.",
       "error": null
     }
   ]
