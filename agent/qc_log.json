@@ -1,227 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-18T06:00:45.906699+00:00",
-      "title": "Café y sombras: la maestría de Samanta Schweblin",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "originalidad_creatividad": 8,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El contenido cumple con los estándares editoriales, ofreciendo una presentación atractiva y coherente, aunque podría afinar algunos recursos estilísticos para mayor originalidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:00:51.246416+00:00",
-      "title": "Tu rostro, tu pase de abordar",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero la falta de fuentes concretas y datos verificables reduce su puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:00:57.720414+00:00",
-      "title": "Trump presume que Kim Jong-un respondió a sus mensajes",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y actual, pero necesita mayor contraste de fuentes para equilibrar la cobertura de un tema político conflictivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:01:05.268289+00:00",
-      "title": "Lula y Flávio Bolsonaro comienzan campañas por la presidencia de Brasil",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y objetivo, aunque la falta de fuentes más robustas y la verificación limitada de algunas afirmaciones reducen ligeramente la puntuación de veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:01:13.946590+00:00",
-      "title": "Desalojan hospital del ISSSTE en la GAM por probable fuga de gas; no se reportan lesionados",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de objetividad y actualidad, aunque la falta de verificación de la versión correcta del hecho reduce ligeramente la precisión.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:01:20.937067+00:00",
-      "title": "Sampaoli se fue sin hablar y su continuidad en Talleres está en duda: la imagen y los videos que res",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo una información clara, actual y objetiva sobre el su deportivo.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:01:29.139149+00:00",
-      "title": "Meta patenta un sistema para que tus Ray-Ban sepan quién eres y qué estás haciendo",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero contiene afirmaciones no verificadas y falta de fuentes diversas, lo que afecta su veracidad y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:01:40.712177+00:00",
-      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo reciente y estructurado, aunque podría beneficiarse de fuentes adicionales para reforzar la robustez del contexto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:01:49.433472+00:00",
-      "title": "Crecen 210% fusiones y adquisiciones en México en el I Sem 26",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad; solo se sugiere una ligera mejora en la verificación externa de cifras.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:25:07.451636+00:00",
-      "title": "Mayores de 50, comunidad y competición: el costado social del Waterpolo Master 2026 que reunió varia",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, objetiva y bien estructurada, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:25:13.224219+00:00",
-      "title": "EN VIVO | Clima en CDMX y resto de México hoy 18 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de buena calidad y cumple con la mayoría de los criterios, aunque la falta de evidencia directa de la alerta disminuye ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:25:18.533175+00:00",
-      "title": "Apergolla pollo carioca, al pollo mexicano",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero necesita mayor respaldo de fuentes y una presentación más equilibrada para alcanzar los estándares de objetividad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T06:25:23.343883+00:00",
-      "title": "Sony fabrica más de la mitad de los sensores de móvil del mundo. Ha firmado con TSMC para dejar de h",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete informa de manera clara y oportuna, pero la precisión de algunos datos es cuestionable y la variedad de fuentes es limitada, reduciendo la puntuación global.",
-      "error": null
-    },
-    {
       "at": "2026-08-18T06:25:29.832083+00:00",
       "title": "Foro Futuro México: las decisiones de hoy que definirán la economía, la tecnología y la movilidad de",
       "kind": "noticia",
@@ -3398,6 +3177,227 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, contraste, objetividad, actualidad y estructura, y es apto para su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:25:12.984375+00:00",
+      "title": "Taddei arma equipo en el INE con cercanos a Morena; también incluye a paisanos",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero le falta contraste de fuentes y atribuciones claras, lo que afecta su objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:25:23.605115+00:00",
+      "title": "Quién es El Tanque, operador del CJNG que estaría vinculado a los amigos de los hijos de AMLO",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual pero presenta graves fallos de veracidad y falta de fuentes contrastadas, lo que compromete su objetividad y fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:25:35.067501+00:00",
+      "title": "Irán afima que Ormuz seguirá cerrado si Estados Unidos no responde a exigencias",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la verificación de hechos y la diversidad de fuentes, aunque cumple con la actualidad y la estructura de pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:25:44.533039+00:00",
+      "title": "Estudiantes visitará a la Universidad Católica en Chile por la revancha de la serie de octavos de la",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete es actual y objetivo, pero contiene imprecisiones factuales que requieren corrección antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:25:47.689771+00:00",
+      "title": "El AirTag 2 a precio de liquidación en el pack con cuatro unidades para colocarlos (casi) donde quie",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete está actualizado y bien estructurado, pero su falta de fuentes múltiples y el evidente sesgo promocional limitan su objetividad y calidad periodística.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:25:55.120044+00:00",
+      "title": "Granada rinde homenaje a Federico García Lorca",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, aunque muestra un sesgo político evidente y una parcialidad limitada; sin embargo, cumple con la estructura y ofrece contraste de fuentes suficiente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:26:01.135978+00:00",
+      "title": "Mónica Soto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, contrastada, objetiva y bien estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:26:11.198795+00:00",
+      "title": "Emmitt Smith cree que empezará una \"nueva era\" en la NFL donde los corredores tendrán mayor impacto",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero contiene errores factuales importantes que comprometen su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:26:19.767796+00:00",
+      "title": "Cynthia Klitbo revela que ronca porque tiene la nariz rota en tres pedazos por violencia de una expa",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, reciente y estructurada, aunque podría incluir más fuentes para enriquecer el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:26:27.353074+00:00",
+      "title": "El juez Pedraz blinda los posibles mensajes del ‘caso Leire’ en el móvil del expresidente de Correos",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y actual, pero muestra cierto sesgo de lenguaje y le falta contraste completo de voces.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:26:33.251785+00:00",
+      "title": "Independiete Rivadavia buscará el pase a los cuartos de final de la Copa Libertadores frente a Flumi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo carece de precisión factual grave, lo que compromete su credibilidad, aunque su estilo y estructura son adecuados y actuales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:26:42.946041+00:00",
+      "title": "Hace 20 años, la costa de Galicia se llenó de un fenómeno nunca visto: impresoras",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, bien contextualizada y objetiva, con solo una ligera falta de citación específica para el caso de las impresoras.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T11:26:57.251052+00:00",
+      "title": "De arte, dinero y todo lo demás",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple con la mayoría de los criterios editoriales, ofreciendo datos precisos y contexto adecuado, aunque la falta de atribuciones claras reduce ligeramente la objetividad.",
       "error": null
     }
   ]
