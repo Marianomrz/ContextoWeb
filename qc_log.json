@@ -1,136 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-17T19:53:36.706627+00:00",
-      "title": "En un duelo clave por la permanencia, Atlético Tucumán le ganó 1-0 a Estudiantes de Río Cuarto por l",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:53:46.564781+00:00",
-      "title": "Administración de Felifer fortalece en Querétaro instrumentos de participación ciudadana",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es reciente y objetivo, pero necesita mayor contraste de fuentes para cumplir con los estándares de cobertura equilibrada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:53:58.495490+00:00",
-      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, contrastada y estructurada de manera clara y oportuna.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:54:08.768838+00:00",
-      "title": "Amazon está destruyendo miles de libros para entrenar sus modelos de IA",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta una narrativa sesgada y con escasa evidencia verificable, pese a estar actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:54:17.166289+00:00",
-      "title": "El Supremo de EE.UU. vuelve a rechazar el intento de Trump de anular su condena por agresión sexual",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, y muestra un buen nivel de objetividad y contraste de fuentes, aunque podría enriquecer la variedad de voces directas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T19:54:26.366504+00:00",
-      "title": "Pati Chapoy reconoce que sí fue abucheada en el concierto de Cristian Castro: “Que la gente se desah",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes adicionales y citas verificables.",
-      "error": null
-    },
-    {
-      "at": "2026-08-17T20:02:16.555665+00:00",
-      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-17T20:02:24.945758+00:00",
-      "title": "Concert Week 2026 presenta su edición más grande con más de 150 conciertos al 2x1: artistas, fechas ",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando una información clara, actual y objetiva.",
-      "error": null
-    },
-    {
       "at": "2026-08-17T20:02:34.726128+00:00",
       "title": "Examen de control UNAM: finaliza primera ronda en CDMX; aspirantes señalan fallas en el sistema y ma",
       "kind": "noticia",
@@ -3368,6 +3238,142 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es mayormente adecuado y actual, pero la falta de objetividad y de fuentes múltiples reducen su puntuación editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:00:44.103400+00:00",
+      "title": "Muere Hayden Panettiere, actriz de ‘Héroes’, a los 36 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y corroboración de fuentes, aunque su estructura y actualidad son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:00:49.385874+00:00",
+      "title": "Elecciones Brasil 2026; Lula y Bolsonaro encabezan las preferencias, ¿cuándo y cómo se vota?",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero la referencia a la administración Trump compromete su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:00:56.742252+00:00",
+      "title": "Defensa se lo empata a Vélez en un encuentro clave por el Grupo A del Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:01:08.384295+00:00",
+      "title": "Rocío Nahle explica por qué no podía consultarse su declaración patrimonial y asegura que ya es públ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es oportuno y está bien estructurado, pero necesita mayor contraste de fuentes y reducir el sesgo percibido para alcanzar una objetividad plena.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:01:18.381672+00:00",
+      "title": "Consumo de los hogares cae 0.4% en julio y seguirá débil en lo que resta de 2026: BBVA Research",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos de veracidad, contraste de fuentes, objetividad y estructura, siendo una pieza informativa y oportuna; se podría mejorar con datos numéricos más específicos para reforzar la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:01:28.285899+00:00",
+      "title": "YouTube cambia su regla más confusa: tus vídeos ahora sumarán más vistas",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y objetivo, aunque podría mejorar la veracidad añadiendo fuentes oficiales y más contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:01:39.004092+00:00",
+      "title": "La tarea de la literatura en tiempos crueles | Valeria Luiselli",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la falta de datos verificables sobre el libro y la ausencia de fuentes adicionales reducen la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T00:01:49.420195+00:00",
+      "title": "El misterio del asesinato del rapero Tupac Shakur: ¿qué revela el inicio del juicio 30 años después?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque la falta de fuentes externas verificables para el inicio del juicio reduce ligeramente la puntuación de veracidad.",
       "error": null
     }
   ]
