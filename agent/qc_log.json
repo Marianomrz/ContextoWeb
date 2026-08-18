@@ -1,125 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-18T17:01:23.369063+00:00",
-      "title": "Alexis Ayala configuró su Instagram para no ver lo que Cinthia Aparicio publica",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque podría mejorar la referencia a fuentes específicas para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T17:01:30.008973+00:00",
-      "title": "Quién es Yutiel Susano, el juvenil de River Plate que podría ser el reemplazante de Gonzalo Montiel ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, con solo una ligera inconsistencia de nombre que no afecta la comprensión general.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T17:01:36.943058+00:00",
-      "title": "‘The Batman 2’: Sebastian Stan confirma su papel en lo nuevo de Matt Reeves",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete destaca por su claridad y actualidad, pero carece de verificación y fuentes múltiples, lo que afecta su fiabilidad factual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T17:01:47.491805+00:00",
-      "title": "De arte, dinero y todo lo demás",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, objetiva y bien estructurada, aunque podría beneficiarse de fuentes adicionales para enriquecer el contexto.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T17:01:56.106914+00:00",
-      "title": "Vivienda en Benito Juárez se verticaliza y promedia 5.9 millones de pesos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de actualidad y objetividad, pero la falta de fuentes verificables y de voces contrastantes reduce su puntuación en veracidad y contraste. En general, es apto para publicación con una ligera recomendación de añadir referencias específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T17:20:42.404988+00:00",
-      "title": "Julián Gil se lanza contra el odio hacia Argentina en el Mundial: \"Al Mundial se le fue la mano\"",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta una noticia basada en un evento no verificable y futuro, lo que compromete su veracidad, aunque la estructura y la actualidad son adecuadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T17:20:49.641588+00:00",
-      "title": "Un pueblo italiano pasea una enorme estructura de la Virgen María por sus calles",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los criterios de objetividad, actualidad y estructura, pero podría mejorar la veracidad añadiendo fuentes complementarias.",
-      "error": null
-    },
-    {
       "at": "2026-08-18T17:20:54.740373+00:00",
       "title": "¿Quién es Edgar ‘Chucky’ Cadena? El ciclista mexicano que correrá el Tour de Alemania junto a Isaac ",
       "kind": "noticia",
@@ -3357,6 +3238,119 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
+    },
+    {
+      "at": "2026-08-18T21:40:39.119091+00:00",
+      "title": "Independiente Rivadavia busca el pase a los cuartos de final de la Copa Libertadores frente a Flumin",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene varias inexactitudes que comprometen su veracidad y falta de fuentes contrastantes, aunque está actualizado y estructurado adecuadamente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T21:40:45.702620+00:00",
+      "title": "Sorprendida, Rosalía recibe chamarra diseñada por mexicano durante concierto en Guadalajara",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los requisitos básicos de una noticia breve y actual, aunque la verificación de datos podría reforzarse con fuentes más sólidas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T21:42:20.396357+00:00",
+      "title": "Ricardo Monreal comparte su perspectiva sobre la reforma judicial con un nuevo libro",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
+    },
+    {
+      "at": "2026-08-18T21:42:28.175225+00:00",
+      "title": "Gobernadora de Sinaloa pide a choferes de transporte urbano evitar avenidas inundadas en Culiacán; r",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma veraz, objetiva y bien estructurada, con fuentes fiables y contexto adecuado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T21:42:33.428090+00:00",
+      "title": "El hombre que dirigió PlayStation da su opinión sobre la muerte de los juegos en disco",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de manera clara, reciente y equilibrada, aunque podría mejorar la verificación de fuentes y citas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T21:42:38.986100+00:00",
+      "title": "\"La generación sobria\": por qué cada vez más jóvenes están reemplazando el alcohol por medicamentos ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, bien contrastada y objetiva, con una estructura clara y actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-18T21:42:51.618981+00:00",
+      "title": "La empresa que piensa",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y tiene una estructura adecuada, pero la falta de fuentes múltiples y la ausencia de evidencia directa para el caso de Duolingo reducen su precisión y contraste.",
+      "error": null
     }
   ]
 }
