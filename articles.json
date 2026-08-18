@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-18T10:21:21.715050+00:00",
+  "generated_at": "2026-08-18T10:39:30.903597+00:00",
   "articles": [
+    {
+      "id": "8e3bef81f094",
+      "title": "Computer History de ChatGPT: qué es y cómo esta función para que la IA sepa todo lo que haces en el ordenador",
+      "summary": "Computer History es una nueva función de la aplicación de escritorio de ChatGPT que registra la actividad del usuario en el ordenador para ofrecer contexto a futuras consultas, disponible solo en macOS y todavía sin fecha de lanzamiento en España ni en la UE, con limitaciones de privacidad como la eliminación automática de datos después de 48 horas.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/basics/computer-history-chatgpt-que-como-esta-funcion-ia-sepa-todo-que-haces-ordenador",
+      "published_at": "2026-08-18T10:30:22+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta la información de forma descriptiva y neutral, sin usar vocabulario cargado ni favorecer una postura política o comercial.",
+      "focus_analysis": "El artículo se centra en el aspecto tecnológico y de privacidad de la función, explicando su funcionamiento y limitaciones, mientras deja de lado el impacto económico o social de su adopción.",
+      "focus_tags": [
+        "tecnología",
+        "privacidad",
+        "IA"
+      ],
+      "context": [
+        {
+          "label": "Política de datos de OpenAI",
+          "text": "OpenAI ha declarado que los eventos registrados por Computer History se procesan en sus servidores y luego se eliminan, salvo obligación legal, y asegura que no se usan para entrenar sus modelos."
+        },
+        {
+          "label": "Funciones similares en otros sistemas",
+          "text": "Características como Windows Timeline de Microsoft o el historial de Siri de Apple también recopilan datos de uso para ofrecer contexto, pero con diferentes niveles de integración y control del usuario."
+        },
+        {
+          "label": "Regulación europea de privacidad",
+          "text": "El Reglamento General de Protección de Datos (GDPR) impone restricciones estrictas sobre la recopilación y el almacenamiento de datos personales, lo que explica la ausencia de la función en la UE y la necesidad de consentimiento explícito."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "9e0f68928b29",
+      "title": "Mónica Soto",
+      "summary": "La magistrada Mónica Soto, del Tribunal Electoral del Poder Judicial de la Federación (TEPJF), presentó su renuncia y anunció que dejará la Sala Superior el 31 de agosto después de casi una década al cargo.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/monica-soto-20260818-828810.html",
+      "published_at": "2026-08-18T08:10:42+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar el hecho sin usar lenguaje cargado ni seleccionar fuentes que favorezcan una postura política, manteniendo un tono neutral.",
+      "focus_analysis": "El medio se centra en el aspecto institucional de la renuncia de la magistrada, sin explorar los posibles efectos políticos o los motivos personales detrás de la decisión.",
+      "focus_tags": [
+        "renuncia institucional",
+        "magistrada electoral",
+        "TEPJF"
+      ],
+      "context": [
+        {
+          "label": "Cobertura de El Informador",
+          "text": "El Informador reportó que Mónica Soto justificó su renuncia como un cumplimiento de compromiso con el país, el Tribunal Electoral y su familia."
+        },
+        {
+          "label": "Cobertura de Infobae México",
+          "text": "Infobae México señaló que la Constitución no contempla una respuesta inmediata para reemplazar a la magistrada tras su salida."
+        },
+        {
+          "label": "Cobertura de Reforma",
+          "text": "Reforma destacó que durante su carrera la magistrada Mónica Soto había formado alianzas para mantener posiciones de poder dentro del tribunal."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "dc6852c29985",
+      "title": "Javier Aranda Luna: La magia de Lorca y la sombra del olivo",
+      "summary": "Javier Aranda Luna, en la sección de cultura de La Jornada, analiza la muerte de Federico García Lorca durante la Guerra Civil española, desmontando la creencia de que fue fusilado en el barranco de Víznar y resaltando su legado poético y su resistencia a la represión franquista.",
+      "category": "literatura",
+      "source_name": "La Jornada Cultura",
+      "source_url": "https://www.jornada.com.mx/2026/08/18/cultura/a04a1cul?partner=rss",
+      "published_at": "2026-08-18T08:11:39+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto utiliza un lenguaje crítico hacia el franquismo y enfatiza la figura de Lorca como víctima y símbolo de libertad, lo que indica una ligera inclinación ideológica de izquierda.",
+      "focus_analysis": "El artículo se centra en la dimensión cultural e histórica de la figura de Lorca, destacando su obra y el mito de su muerte, mientras deja de lado un análisis político contemporáneo o una discusión más amplia sobre la Guerra Civil.",
+      "focus_tags": [
+        "cultura literaria",
+        "memoria histórica",
+        "Guerra Civil"
+      ],
+      "context": [
+        {
+          "label": "Antecedente histórico",
+          "text": "Federico García Lorca, destacado poeta y dramaturgo español, fue detenido y ejecutado por las fuerzas nacionalistas en 1936, convirtiéndose en símbolo de la represión del régimen de Franco."
+        },
+        {
+          "label": "Mito del barranco de Víznar",
+          "text": "Durante décadas se creyó que Lorca fue fusilado y enterrado en el barranco de Víznar, pero investigaciones recientes, como la del historiador Ian Gibson, demuestran que su cuerpo fue depositado cerca de un olivo en la zona, sin localizar sus restos."
+        },
+        {
+          "label": "Legado literario",
+          "text": "La obra de Lorca, que incluye el Romancero Gitano y la Casa de Bernarda Alba, sigue siendo fundamental en la literatura española y ha influido en múltiples generaciones de escritores y artistas, pese a la censura franquista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "7e6b360eb626",
+      "title": "El límite del cuerpo en 42 kilómetros: un atleta explicó cómo se vive un maratón desde adentro",
+      "summary": "Félix Sánchez, maratonista argentino de 39 años, explicó que la preparación para una maratón requiere tres meses de entrenamiento controlado, que la recuperación del cuerpo puede durar hasta dos meses y que, en Argentina, los corredores a menudo deben financiar su preparación de manera independiente.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/el-limite-del-cuerpo-en-42-kilometros-un-atleta-explico-como-se-vive-un-maraton-desde-adentro/",
+      "published_at": "2026-08-18T09:00:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la experiencia y la perspectiva del atleta, sin usar vocabulario cargado ni presentar opiniones políticas; la selección de fuentes se centra en el propio corredor y en datos de su disciplina.",
+      "focus_analysis": "El medio se centró en el aspecto humano y fisiológico del maratón, resaltando la preparación, el dolor y la recuperación, mientras dejó fuera la cobertura de resultados de competencias y el análisis del deporte a nivel institucional.",
+      "focus_tags": [
+        "entrenamiento maratón",
+        "recuperación física",
+        "financiación deportiva"
+      ],
+      "context": [
+        {
+          "label": "Preparación típica de maratón",
+          "text": "Los corredores de larga distancia suelen dedicar alrededor de tres meses a entrenamientos que combinan ritmos controlados y sesiones largas para estar en óptimas condiciones el día de la prueba."
+        },
+        {
+          "label": "Apoyo institucional en otros países",
+          "text": "En muchas naciones con estructuras deportivas consolidadas, los atletas de fondo reciben financiamiento, asistencia de entrenadores y servicios de salud a través de federaciones o programas estatales, a diferencia de la situación descrita en Argentina."
+        },
+        {
+          "label": "Efecto de la edad en la recuperación",
+          "text": "Los estudios indican que los corredores mayores de 35 años experimentan una recuperación más prolongada tras esfuerzos extremos, lo que coincide con la observación del atleta de 39 años sobre la necesidad de más tiempo para restablecerse."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "514416e0bee8",
+      "title": "La Casa de los Famosos México 2026 en vivo hoy: Gema es la nueva líder de la semana",
+      "summary": "En el reality La Casa de los Famosos México 2026, Gema Garoa se convirtió en la líder de la semana y nominó directamente a la cantante Mariana Ochoa, mientras que Aldo Rendón ganó el Elevador del Destino y decidió cerrar la habitación Ibiza.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/16/la-casa-de-los-famosos-mexico-2026-en-vivo-hoy-quien-sera-el-tercer-eliminado-y-riesgo-de-doble-salida/",
+      "published_at": "2026-08-18T10:21:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del programa sin usar vocabulario cargado ni presentar opiniones, y no favorece ni critica a ningún participante de forma evidente.",
+      "focus_analysis": "El medio se centra en la dinámica del juego y las decisiones de los concursantes, dejando de lado cualquier análisis sobre la audiencia o el impacto cultural del programa.",
+      "focus_tags": [
+        "reality show",
+        "dinámica de juego",
+        "nombramiento líder"
+      ],
+      "context": [
+        {
+          "label": "formato del programa",
+          "text": "La Casa de los Famosos México es la versión local del formato internacional Big Brother, producido por Televisa y transmitido 24/7 en la plataforma de streaming ViX+, donde los participantes conviven bajo vigilancia y compiten por pruebas que otorgan privilegios y poder de nominación."
+        },
+        {
+          "label": "poder del líder",
+          "text": "Cada semana el concursante que gana la prueba de liderazgo obtiene la capacidad de nombrar directamente a un compañero para la eliminación, lo que explica por qué Gema Garoa utilizó ese beneficio para señalar a Mariana Ochoa."
+        },
+        {
+          "label": "cobertura externa",
+          "text": "Otro medio, Periódico AM de León, destacó un enfrentamiento entre el estilista Roberto Coss y Aldo Rendón, centrando la noticia en la polémica personal más que en la mecánica del juego."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "7ce0cbe32b8b",
+      "title": "La IA ya administra servidores: GINERNET lanza los VPS «agénticos» y cambia las reglas del hosting",
+      "summary": "GINERNET, empresa española de hosting, ha lanzado los VPS \"agénticos\", servidores que incorporan un agente de inteligencia artificial en su panel de control para ejecutar tareas como instalación de WordPress o auditorías de seguridad bajo la autorización del cliente.",
+      "category": "tecnologia",
+      "source_name": "WWWhatsnew",
+      "source_url": "https://wwwhatsnew.com/2026/08/18/la-ia-ya-administra-servidores-ginernet-lanza-los-vps-agenticos-y-cambia-las-reglas-del-hosting/",
+      "published_at": "2026-08-18T10:33:57+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea un tono muy positivo y promocional, resaltando los beneficios sin presentar críticas ni opiniones de terceros, lo que indica una inclinación favorable al negocio y a la innovación tecnológica.",
+      "focus_analysis": "El artículo se centra en la innovación tecnológica y el impacto empresarial de los VPS gestionados por IA, dejando de lado posibles debates sobre seguridad, privacidad y efectos laborales.",
+      "focus_tags": [
+        "IA en hosting",
+        "VPS agénticos",
+        "innovación tecnológica"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Hasta ahora la IA se utilizaba principalmente para generar código, crear imágenes y resumir reuniones, pero su aplicación directa en la administración de servidores era poco frecuente."
+        },
+        {
+          "label": "comparables",
+          "text": "Grandes proveedores de nube como AWS, Azure o Google Cloud ofrecen herramientas de gestión asistida por IA, aunque GINERNET integra el agente directamente en el panel del VPS, una propuesta menos común."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "Analistas del sector señalan que la automatización de infraestructura mediante IA aumenta la eficiencia, pero también genera inquietudes sobre la seguridad de los datos y la posible sustitución de tareas humanas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
     {
       "id": "9e0f68928b29",
       "title": "Mónica Soto",
@@ -840,216 +1050,6 @@
       "confidence": "baja",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "514416e0bee8",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: Gema es la nueva líder de la semana",
-      "summary": "Gema Garoa se convirtió en la líder de la semana en La Casa de los Famosos México 2026 y nominó directamente a la cantante Mariana Ochoa, mientras que Aldo Rendón cerró la habitación Ibiza tras ganar el Elevador del Destino.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/la-casa-de-los-famosos-mexico-2026-en-vivo-hoy-quien-sera-el-tercer-eliminado-y-riesgo-de-doble-salida/",
-      "published_at": "2026-08-18T09:10:23+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono descriptivo y neutro, sin adjetivos cargados ni fuentes con inclinación política, centrándose únicamente en los hechos del programa.",
-      "focus_analysis": "El medio se enfocó en la dinámica competitiva del reality, resaltando nominaciones, cambios de habitaciones y decisiones de los participantes; dejó de lado el análisis de la repercusión mediática o la audiencia del programa.",
-      "focus_tags": [
-        "reality show",
-        "Televisa",
-        "competencia"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "La Casa de los Famosos México es la adaptación local del formato Big Brother, transmitida por Televisa en la plataforma ViX+ y ha mantenido una alta audiencia desde su inicio en 2023."
-        },
-        {
-          "label": "comparativa",
-          "text": "En temporadas anteriores, los líderes también podían nominar directamente a un compañero, pero la nominación directa de Gema a la exiliada Mariana Ochoa marcó una novedad en la mecánica del juego."
-        },
-        {
-          "label": "postura externa",
-          "text": "Otros medios, como Periódico AM, enfocaron su cobertura en la reacción del estilista de Flor Vigna contra Aldo Rendón, resaltando un conflicto personal fuera de la dinámica del reality."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "ea97facd5842",
-      "title": "Andy López Beltrán y el CJNG: el mapa de conexiones que revelan audios, testimonios y documentos",
-      "summary": "El reportaje de Infobae México describe cómo audios, testimonios y documentos vinculados a la Fiscalía General de la República señalan que Andy López Beltrán, hijo del presidente Andrés Manuel López Obrador, tendría relaciones con el Cártel Jalisco Nueva Generación en actividades que van desde la extracción de balasto en Tabasco hasta el contrabando de combustible hacia Texas.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/18/andy-lopez-beltran-y-el-cjng-el-mapa-de-conexiones-que-revelan-audios-testimonios-y-documentos/",
-      "published_at": "2026-08-18T08:45:10+00:00",
-      "bias_score": 30,
-      "bias_reason": "El texto enfatiza los supuestos vínculos criminales y utiliza un lenguaje sensacionalista sin presentar la versión de la defensa o la negación oficial, seleccionando fuentes como testimonios protegidos y documentos confiscados que refuerzan la narrativa de corrupción.",
-      "focus_analysis": "El medio se centra en el ángulo de crimen organizado y corrupción, resaltando los enlaces entre la familia del presidente y el CJNG, mientras deja de lado la perspectiva legal y los posibles argumentos de inocencia.",
-      "focus_tags": [
-        "crimen organizado",
-        "corrupción",
-        "relaciones familiares"
-      ],
-      "context": [
-        {
-          "label": "CJNG",
-          "text": "El Cártel Jalisco Nueva Generación es una de las organizaciones criminales más poderosas de México, conocida por su participación en el huachicol, extorsión y tráfico de combustible."
-        },
-        {
-          "label": "Andy López Beltrán",
-          "text": "Andy López Beltrán es un empresario mexicano y hijo del presidente Andrés Manuel López Obrador, involucrado en proyectos de construcción y, según la investigación, en operaciones de balasto para el Tren Maya."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios como El Informador y Aristegui Noticias reportan que la Fiscalía General de la República niega contar con pruebas o testigos contra Andy López Beltrán, calificando las acusaciones de falsas y señalando la falta de una investigación formal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "03123386e703",
-      "title": "La “tormenta de ideas” que derivó en el juego más viral del momento: cómo surgió “Copero”, el sitio que revolucionó al fútbol",
-      "summary": "El sitio web Copero, desarrollado por el ingeniero informático Jerónimo Grinovero junto a los periodistas Federico Zbogar y Gonzalo Acedo, se volvió el juego de fútbol más viral durante el Mundial 2026, acumulando más de 130 millones de partidas en menos de un mes.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/la-tormenta-de-ideas-que-derivo-en-el-juego-mas-viral-del-momento-como-surgio-copero-el-sitio-que-revoluciono-al-futbol/",
-      "published_at": "2026-08-18T06:27:37+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y celebratorio sin emplear vocabulario cargado ni fuentes con una agenda política; se centra en la innovación del juego y su popularidad.",
-      "focus_analysis": "El medio destaca el aspecto tecnológico y cultural del juego, resaltando su origen y la fiebre futbolera, mientras omite análisis económicos o críticas sobre la monetización.",
-      "focus_tags": [
-        "juego viral",
-        "fútbol",
-        "innovación digital"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de juegos interactivos de fútbol",
-          "text": "Los videojuegos de fútbol y los simuladores de gestión han sido populares desde los años 90, pero la combinación de narrativa no lineal y accesibilidad móvil ha impulsado una nueva ola de juegos gratuitos que atraen a millones de usuarios."
-        },
-        {
-          "label": "Uso de IA y datos en el deporte",
-          "text": "En los últimos años, la integración de inteligencia artificial y análisis de datos ha transformado la forma en que los medios y plataformas ofrecen contenido deportivo, permitiendo predicciones y experiencias personalizadas."
-        },
-        {
-          "label": "Impacto del Mundial 2026 en la actividad digital",
-          "text": "El Mundial de fútbol 2026 generó un aumento significativo en la interacción online de los aficionados, con plataformas digitales reportando picos de tráfico y la aparición de nuevas aplicaciones y juegos relacionados con el torneo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.2
-      }
-    },
-    {
-      "id": "44f25a97d6dd",
-      "title": "De arte, dinero y todo lo demás",
-      "summary": "El artículo de Letras Libres analiza la película 'Mi cena con André' de Louis Malle, destacando cómo la conversación entre Wallace Shawn y André Gregory explora la relación entre el arte, el dinero y la vida cotidiana. Se reflexiona sobre la mezcla de realidad y ficción y el papel del arte en una sociedad marcada por la comodidad y la desigualdad.",
-      "category": "sociedad",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/revista/de-arte-dinero-y-todo-lo-demas/17/08/2026/",
-      "published_at": "2026-08-18T07:36:41+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto emplea vocabulario crítico hacia la riqueza y el privilegio (p. ej. “privilegiado”, “comodidades narcotizantes”) y se enfoca en una perspectiva cultural de izquierda sin presentar voces conservadoras.",
-      "focus_analysis": "El medio elige un ángulo cultural y existencial, centrándose en la estética y la reflexión sobre el arte y el dinero, dejando de lado un análisis político o económico más amplio.",
-      "focus_tags": [
-        "cultura cinematográfica",
-        "análisis artístico",
-        "reflexión existencial"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del film",
-          "text": "‘Mi cena con André’ (1981) es una obra de Louis Malle que se ha convertido en un clásico del cine de conversación, conocida por su estructura basada en un diálogo prolongado entre dos actores que interpretan versiones ficcionalizadas de sí mismos."
-        },
-        {
-          "label": "Trayectoria de Wallace Shawn",
-          "text": "Wallace Shawn, actor y guionista reconocido por su trabajo en teatro y cine, ha expresado en entrevistas su visión crítica sobre la vida artística y la necesidad de equilibrar la creatividad con las demandas económicas."
-        },
-        {
-          "label": "Tendencia de películas de cena‑conversación",
-          "text": "El género de películas centradas en diálogos íntimos, como ‘My Dinner with Andre’, ha influido en la cultura audiovisual al priorizar la reflexión filosófica y la exploración de temas sociales sobre la acción narrativa tradicional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "9e0f68928b29",
-      "title": "Mónica Soto",
-      "summary": "La magistrada Mónica Soto, del Tribunal Electoral del Poder Judicial de la Federación, anunció su renuncia después de casi una década al cargo, citando el cumplimiento de su compromiso con la institución y su familia.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/cartones/monica-soto-20260818-828810.html",
-      "published_at": "2026-08-18T08:10:42+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutro, sin palabras cargadas ni citas que favorezcan una posición política; la cobertura se limita a los hechos de la renuncia.",
-      "focus_analysis": "El medio se centró en el aspecto institucional de la dimisión, destacando su trayectoria y la formalidad del acto, mientras dejó de lado la dimensión humana y los posibles motivos políticos detrás de la decisión.",
-      "focus_tags": [
-        "renuncia institucional",
-        "tribunal electoral",
-        "carrera judicial"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del TEPJF",
-          "text": "El Tribunal Electoral del Poder Judicial de la Federación es la autoridad encargada de organizar y supervisar los procesos electorales en México, con una historia de reformas que han modificado la duración y composición de sus magistrados."
-        },
-        {
-          "label": "Reformas durante su mandato",
-          "text": "Durante los últimos diez años, el TEPJF implementó dos reformas constitucionales que cambiaron la duración de los integrantes de la Sala Superior, lo que marcó un contexto de cambios institucionales en el periodo de Mónica Soto."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "A diferencia del tono neutro de El Economista, otros medios como Reforma y Aristegui Noticias enfatizaron los posibles motivos políticos y las alianzas de la magistrada, presentando su renuncia bajo una luz más polémica."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "514416e0bee8",
-      "title": "La Casa de los Famosos México 2026 en vivo hoy: Gema es la nueva líder de la semana",
-      "summary": "El reality show La Casa de los Famosos México 2026, emitido por Televisa en la plataforma ViX+, anunció que la participante Gema se adjudicó el puesto de líder de la semana tras vencer a Ese Pérez en la prueba correspondiente.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/16/la-casa-de-los-famosos-mexico-2026-en-vivo-hoy-quien-sera-el-tercer-eliminado-y-riesgo-de-doble-salida/",
-      "published_at": "2026-08-18T08:54:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a narrar los hechos del programa con un tono descriptivo y sin emplear vocabulario cargado ni citar fuentes polémicas, manteniendo un enfoque neutral propio entretenimiento.",
-      "focus_analysis": "El medio se centró en la dinámica de la competencia y los cambios de liderazgo dentro del reality, omitiendo análisis sobre la producción, la audiencia o el impacto mediático del programa.",
-      "focus_tags": [
-        "reality TV",
-        "competición",
-        "entretenimiento"
-      ],
-      "context": [
-        {
-          "label": "Formato del programa",
-          "text": "La Casa de los Famosos México es una versión local del reality internacional donde celebridades conviven en una casa aislada, compitiendo en pruebas semanales para obtener el liderazgo y evitar la eliminación."
-        },
-        {
-          "label": "Transmisión y audiencia",
-          "text": "El programa se transmite 24/7 a través de la plataforma de streaming ViX+ de Televisa, y ha generado una alta participación del público mexicano en redes sociales."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El periódico Periódico AM de León destacó una polémica entre el estilista de Flor Vigna y Aldo Rendón, enfocándose en el conflicto personal más que en la competición del reality."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
