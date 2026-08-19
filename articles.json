@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T08:43:07.433193+00:00",
+  "generated_at": "2026-08-19T08:50:17.061214+00:00",
   "articles": [
+    {
+      "id": "75329a4afe9e",
+      "title": "A buena luz",
+      "summary": "El Economista publica una sección titulada 'A buena luz' que recopila los últimos cartones de opinión y análisis de sus colaboradores, como Chavo del Toro y Perujo, abarcando temas de política, economía y cultura.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/buena-luz-20260819-829012.html",
+      "published_at": "2026-08-19T08:35:08+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a enumerar títulos y autores sin usar lenguaje cargado ni seleccionar fuentes con sesgo, por lo que mantiene una postura neutral.",
+      "focus_analysis": "El medio elige presentar un inventario de sus recientes piezas de opinión, destacando la variedad temática, pero omite cualquier análisis o contexto adicional sobre los contenidos.",
+      "focus_tags": [
+        "lista de artículos",
+        "opinión",
+        "cultura de medios"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "El Economista es un periódico financiero de habla hispana que combina cobertura de economía, finanzas y política con columnas de opinión."
+        },
+        {
+          "label": "formato",
+          "text": "Los 'cartones' son piezas breves de opinión o análisis que el diario publica regularmente para ofrecer comentarios rápidos sobre temas de actualidad."
+        },
+        {
+          "label": "colaboradores",
+          "text": "Chavo del Toro y Perujo son columnistas habituales de El Economista, conocidos por sus columnas que abordan tanto asuntos políticos como económicos."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "a6cebce9129d",
+      "title": "Murió a los 11 años en una carrera de karting y es el “ángel” de su amigo Nico Varrone: “Siempre está conmigo”",
+      "summary": "El piloto argentino Nicolás Varrone recuerda a su amigo de la infancia Ramiro Tot, quien falleció a los 11 años en un accidente de karting en 2011, y señala que su recuerdo lo acompaña en cada carrera, incluso en sus triunfos en Le Mans y la Fórmula 3 británica.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/murio-a-los-11-anos-en-una-carrera-de-karting-y-es-el-angel-de-su-amigo-nico-varrone-siempre-esta-conmigo/",
+      "published_at": "2026-08-19T05:58:41+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto usa un tono emotivo y personal sin cargar lenguaje político ni citar fuentes con sesgo; la cobertura se centra en la historia humana del deporte.",
+      "focus_analysis": "El medio eligió un ángulo humano y emotivo, resaltando la amistad y el impacto personal del fallecimiento en la carrera de Varrone; no aborda aspectos económicos del automovilismo ni la seguridad en los circuitos.",
+      "focus_tags": [
+        "deporte",
+        "amistad",
+        "memoria"
+      ],
+      "context": [
+        {
+          "label": "Muerte de Ramiro Tot",
+          "text": "Ramiro Tot, de 11 años, murió en un accidente de karting el 1 de noviembre de 2011 en Baradero, Argentina, lo que generó una gran conmoción en la comunidad del automovilismo nacional."
+        },
+        {
+          "label": "Otro accidente en el mismo periodo",
+          "text": "Doce días después del fallecimiento de Tot, el piloto Guido Falaschi (22 años) perdió la vida en una carrera de Turismo Carretera en Balcarce, resaltando los riesgos y la necesidad de mayor seguridad en el deporte."
+        },
+        {
+          "label": "Trayectoria de Nicolás Varrone",
+          "text": "Varrone, nacido en 2000, avanzó desde el karting hasta la Fórmula 2 y carreras de resistencia como Le Mans, superando limitaciones presupuestarias y la pandemia, apoyado por su manager José Manuel Balbiani."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "157f9db7c162",
+      "title": "La última fiesta de España",
+      "summary": "El artículo de Letras Libres describe la celebración del patrón de San Bartolomé en Alcorlo, un pueblo de Guadalajara que quedó bajo el agua tras la construcción de un pantano durante la dictadura de Franco, y cómo sus antiguos residentes mantienen viva la tradición pese al desplazamiento y la falta de recursos.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/historia/la-ultima-fiesta-de-espana/19/08/2026/",
+      "published_at": "2026-08-19T07:40:57+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto emplea un tono crítico con la intervención del Estado franquista y la gestión gubernamental posterior, usando expresiones como “sacrificio por el beneficio de la nación” y resaltando la marginación de la comunidad, lo que indica una ligera inclinación de izquierda.",
+      "focus_analysis": "El medio se centra en la dimensión humana y cultural del desplazamiento, resaltando la memoria y la resistencia de los alcorleños, mientras deja de lado un análisis político‑económico más amplio del proyecto del pantano y sus implicaciones nacionales.",
+      "focus_tags": [
+        "cultura rural",
+        "memoria histórica",
+        "desplazamiento"
+      ],
+      "context": [
+        {
+          "label": "Historia de los pantanos franquistas",
+          "text": "Durante la dictadura de Franco, se construyeron numerosos embalses en España para impulsar la modernización agrícola y la generación de energía, lo que provocó el desplazamiento de cientos de comunidades rurales, entre ellas Alcorlo, que quedó sumergida en 1982."
+        },
+        {
+          "label": "Política de preservación del patrimonio rural",
+          "text": "En los últimos años, el gobierno español ha lanzado programas de revitalización de zonas rurales y de protección del patrimonio cultural, aunque la financiación sigue siendo insuficiente para comunidades como Alcorlo que dependen de iniciativas locales."
+        },
+        {
+          "label": "Cobertura mediática de festividades desplazadas",
+          "text": "Otros medios han resaltado la resistencia de los pueblos inundados, enfocándose en la pérdida de territorio y la lucha por la identidad, mientras que este artículo añade la perspectiva de la vida cotidiana y la celebración como acto de memoria."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "c57118b73dd0",
+      "title": "‘Linternas’, la nueva serie de Linterna Verde, bate el récord histórico del Universo DC en Rotten Tomatoes",
+      "summary": "La serie 'Linternas' del Universo DC, estrenada en HBO Max, alcanzó un 95 % en Rotten Tomatoes, convirtiéndose en la producción mejor valorada de la franquicia.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/linternas-la-nueva-serie-de-linterna-verde-bate-el-record-historico-del-universo-dc-en-rotten-tomatoes/",
+      "published_at": "2026-08-19T08:07:13+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo emplea superlativos y enfatiza los récords sin presentar críticas, lo que muestra una postura ligeramente favorable.",
+      "focus_analysis": "El medio se centró en el éxito de críticas y la posición de la serie dentro del Universo DC, omitiendo análisis de la trama o posibles controversias.",
+      "focus_tags": [
+        "ratings récord",
+        "series DC",
+        "éxito crítico"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del Universo DC",
+          "text": "El Universo DC, bajo la dirección de James Gunn y Peter Safran, ha lanzado series como 'Peacemaker' y 'Creature Commandos', que también recibieron altas calificaciones en Rotten Tomatoes."
+        },
+        {
+          "label": "importancia de Rotten Tomatoes",
+          "text": "Rotten Tomatoes es una plataforma de agregación de reseñas que asigna porcentajes basados en la proporción de críticas positivas, y se usa como referencia para medir el éxito de películas y series."
+        },
+        {
+          "label": "tendencia de series de superhéroes adultas",
+          "text": "En los últimos años, las series de superhéroes han adoptado tonos más oscuros y complejos, como 'The Boys' y 'Watchmen', buscando atraer a audiencias adultas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.0
+      }
+    },
+    {
+      "id": "c615c6f7ba1d",
+      "title": "Autopista México-Querétaro tendrá obras durante un año: afectarán a usuarios de Huehuetoca, Coyotepec, Tepotzotlán y Cuautitlán Izcalli",
+      "summary": "La autopista México-Querétaro iniciará obras de renovación en el tramo Tepotzotlán‑Jorobas durante aproximadamente un año, lo que provocará reducciones de carriles y mayores tiempos de traslado para los usuarios de Huehuetoca, Coyotepec, Tepotzotlán y Cuautitlán Izcalli.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/autopista-mexico-queretaro-tendra-obras-durante-un-ano-afectaran-a-usuarios-de-huehuetoca-coyotepec-tepotzotlan-y-cuautitlan-izcalli/",
+      "published_at": "2026-08-19T08:39:47+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta únicamente datos técnicos y de inversión sin usar lenguaje cargado ni citar fuentes con sesgo, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centra en el impacto infrastruct y de movilidad de la obra, describiendo detalles de construcción y costos, mientras omite cualquier discusión sobre posibles controversias políticas o ambientales.",
+      "focus_tags": [
+        "infraestructura",
+        "tráfico",
+        "inversión"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "La autopista México‑Querétaro es uno de los corredores carreteros más importantes del norte del Valle de México, conectando la Ciudad de México con Querétaro y sirviendo a un gran número de vehículos particulares, de pasajeros y de carga."
+        },
+        {
+          "label": "dato comparativo",
+          "text": "Se estima que el tramo afectado registra cerca de 127 900 vehículos al día, de los cuales aproximadamente el 17 % corresponde a autobuses y camiones, lo que subraya su relevancia para la logística industrial de la región."
+        },
+        {
+          "label": "postura de otro actor",
+          "text": "El proyecto fue licitado por el Banco Nacional de Obras y Servicios Públicos (Banobras) y cuenta con una inversión total que supera los 586 millones de pesos, reflejando la política federal de mejorar la infraestructura vial del país."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "240c970b1efa",
+      "title": "La Real Sociedad será el nuevo equipo de Edson Álvarez",
+      "summary": "El club español Real Sociedad está a punto de cerrar la incorporación del centrocampista mexicano Edson Álvarez, quien actualmente milita en el West Ham de la Premier League.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/opinion/barra-brava/la-real-sociedad-sera-el-nuevo-equipo-de-edson-alvarez/",
+      "published_at": "2026-08-19T08:46:15+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos del fichaje sin usar vocabulario cargado ni citar fuentes con sesgo político, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centra en el aspecto deportivo del traspaso, resaltando el interés del club y la perspectiva del jugador, sin abordar dimensiones económicas ni de impacto en la selección nacional.",
+      "focus_tags": [
+        "transfer",
+        "fútbol",
+        "España"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Edson Álvarez, internacional mexicano, ha jugado en la Premier League con West Ham desde 2023, consolidándose como pieza clave del mediocampo."
+        },
+        {
+          "label": "comparables",
+          "text": "Jugadores mexicanos como Hirving Lozano y Raúl Jiménez han firmado recientemente con clubes de LaLiga, evidenciando una corriente de talento mexicano en el fútbol español."
+        },
+        {
+          "label": "posturas",
+          "text": "Los medios deportivos en México suelen presentar los traspasos a ligas europeas como motivo de orgullo nacional y señal del desarrollo del fútbol mexicano."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "f8c2ac64860c",
       "title": "Xiaomi lanza la campana extractora perfecta: ha solucionado dos problemas de toda la vida",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "116406da5239",
-      "title": "Seis terremotos marcan la noche en Granada, cinco de ellos sentidos por los vecinos",
-      "summary": "Seis sismos sacudieron la noche en la ciudad española de Granada, de los cuales cinco fueron percibidos por los residentes, y los centros de salud y hospitales ya han vuelto a su operatividad normal.",
-      "category": "sociedad",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-19/seis-terremotos-marcan-la-noche-en-granada-cinco-de-ellos-sentidos-por-los-vecinos.html",
-      "published_at": "2026-08-19T07:50:25+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje meramente descriptivo y factual, sin palabras cargadas ni selección de fuentes que inclinen la cobertura hacia ninguna posición ideológica.",
-      "focus_analysis": "El artículo se centra en el impacto inmediato del sismo y la recuperación de los servicios de salud, dejando de lado aspectos como los daños materiales, la respuesta de los gobiernos locales o los análisis científicos del terremoto.",
-      "focus_tags": [
-        "sismología",
-        "salud pública",
-        "Granada"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes sísmicos",
-          "text": "Granada, situada en la comunidad autónoma de Andalucía, ha experimentado episodios sísmicos ocasionales, aunque no es una zona de alta actividad tectónica."
-        },
-        {
-          "label": "Protección civil en España",
-          "text": "El Sistema de Protección Civil español cuenta con protocolos para la respuesta rápida a terremotos, incluyendo la evaluación de daños y la activación de recursos de emergencia."
-        },
-        {
-          "label": "Eventos comparables",
-          "text": "En 2024, un sismo de magnitud 4,8 en Almería provocó cortes de energía y evacuaciones, lo que impulsó mejoras en la preparación local para futuros temblores."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "ac2181d3db10",
-      "title": "¿Qué le pasó a Antrax y quién fue el eliminado de MasterChef 24/7?",
-      "summary": "El creador de contenido Antrax, concursante de MasterChef México 24/7, se cortó el dedo durante un reto y recibió atención médica antes de volver a la cocina, mientras que el concursante Ramahá fue eliminado en la semana 14 del programa.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/que-le-paso-a-antrax-y-quien-fue-el-eliminado-de-masterchef-247/",
-      "published_at": "2026-08-19T07:37:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta los hechos de forma descriptiva y neutral, sin usar vocabulario cargado ni favorecer a ninguna postura política o institucional.",
-      "focus_analysis": "El medio se centra en el aspecto humano y de entretenimiento del reality, resaltando el accidente del participante y la eliminación, sin abordar la estrategia del programa ni su impacto en la audiencia.",
-      "focus_tags": [
-        "reality TV",
-        "accidente culinario",
-        "eliminación"
-      ],
-      "context": [
-        {
-          "label": "Formato del programa",
-          "text": "MasterChef México 24/7 es una edición continua del reality culinario que se transmite en vivo de lunes a viernes y domingos, con retos diarios y eliminación basada en la evaluación de los jueces."
-        },
-        {
-          "label": "Incidentes previos en programas de cocina",
-          "text": "En ediciones anteriores de MasterChef y otros realities gastronómicos, han ocurrido accidentes como cortes o quemaduras que obligaron a los participantes a recibir atención médica antes de continuar."
-        },
-        {
-          "label": "Importancia de la eliminación de Ramahá",
-          "text": "Ramahá, concursante que había obtenido la inmunidad del Pin del Chef, fue eliminado en la semana 14, reduciendo el número de cocineros que compiten por el título de “Maestros del Fuego”."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "d09c46b9c9ce",
-      "title": "Indonesia incauta 2,6 toneladas de metanfetamina en un barco de Tanzania",
-      "summary": "La autoridad antidroga indonesia incautó 2,6 toneladas de metanfetamina líquida en el buque con bandera de Tanzania MV Rain Maker, detenido cerca de la provincia de Riau, y arrestó a diez tripulantes, todos de Myanmar.",
-      "category": "sociedad",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/2026/08/19/indonesia-incauta-26-toneladas-de-metanfetamina-en-un-barco-tanzano",
-      "published_at": "2026-08-19T07:36:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo, cita únicamente a oficiales y evita vocabulario cargado o juicios de valor, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en el operativo policial y la magnitud del decomiso, resaltando la dureza de la legislación indonesia; se omite mayor profundidad sobre los motivos de los traficantes o el impacto social del narcotráfico.",
-      "focus_tags": [
-        "narcotráfico",
-        "intercepción marítima",
-        "ley de muerte"
-      ],
-      "context": [
-        {
-          "label": "Legislación indonesia",
-          "text": "Indonesia mantiene una de las leyes antidroga más estrictas del mundo, incluyendo la pena de muerte para traficantes, aunque lleva años una moratoria sobre las ejecuciones."
-        },
-        {
-          "label": "Operaciones previas",
-          "text": "En 2025, Indonesia realizó su mayor decomiso histórico con dos toneladas de metanfetamina cristalina en un barco pesquero que transitaba desde el mar de Andamán."
-        },
-        {
-          "label": "Ruta de tráfico regional",
-          "text": "El buque partió de Sarawak, Malasia, y navegó por el mar de Andamán, una vía conocida por el tráfico de estupefacientes hacia Indonesia y otras naciones del sudeste asiático."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "0a5754fff8ab",
-      "title": "¿Es México un Caballo de Troya de China para entrar a Estados Unidos?",
-      "summary": "El Economista publica una columna de opinión que analiza la acusación del exasesor comercial de Donald Trump, Peter Navarro, de que México estaría facilitando la entrada de productos chinos a Estados Unidos mediante reetiquetado, señalando los riesgos de sanciones y la revisión del T‑MEC.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/opinion/mexico-caballo-troya-china-entrar-estados-unidos-20260819-829008.html",
-      "published_at": "2026-08-19T06:35:54+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto utiliza términos cargados como “caballo de Troya” y “engaño”, enfatiza la crítica al gobierno de Trump y a la estrategia china, y recurre a fuentes como Brookings y The Economist para cuestionar la validez del informe, lo que indica una ligera inclinación hacia una visión crítica de la política estadounidense.",
-      "focus_analysis": "El artículo se centra en el ángulo económico‑comercial, destacando el impacto de los aranceles, el posible fraude de transbordo y las implicaciones para el T‑MEC, mientras deja de lado aspectos humanos o de seguridad vinculados al comercio.",
-      "focus_tags": [
-        "comercio internacional",
-        "aranceles",
-        "T‑MEC"
-      ],
-      "context": [
-        {
-          "label": "Tensiones comerciales EE. UU.–China",
-          "text": "Desde 2018, la administración de Donald Trump impuso aranceles a productos chinos, lo que provocó que empresas buscaran rutas alternativas, como el uso de México como punto de reetiquetado para evitar los derechos aduaneros."
-        },
-        {
-          "label": "Rol de México en la cadena de suministro",
-          "text": "México, especialmente los corredores industriales de Guanajuato y Querétaro, ha aumentado sus exportaciones a EE. UU. de productos que originalmente provienen de China, lo que ha generado sospechas de prácticas de transhipment."
-        },
-        {
-          "label": "Análisis de terceros",
-          "text": "Instituciones como el Brookings Institute han señalado que la falta de datos transparentes sobre el comercio México‑China dificulta la detección de manipulaciones, y The Economist ha criticado la efectividad de los aranceles de Trump al considerar que las empresas simplemente trasladan la producción a terceros países."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "532587be8388",
-      "title": "Detienen a síndica de Yautepec relacionada en ataque armado durante el partido México-Ecuador; habría ordenado la agresión en Rancho Nuevo",
-      "summary": "La Fiscalía General del Estado detuvo a Karla Herrera, síndica municipal del Ayuntamiento de Yautepec, Guerrero, por presunta responsabilidad en el tiroteo ocurrido en la cancha de Rancho Nuevo durante el partido de fútbol entre México y Ecuador, que dejó tres muertos y nueve heridos.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/detienen-a-sindica-de-yautepec-relacionada-en-ataque-armado-durante-el-partido-mexico-ecuador-habria-ordenado-la-agresion-en-rancho-nuevo/",
-      "published_at": "2026-08-19T06:14:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta los hechos de forma descriptiva, sin adjetivos cargados ni juicios de valor, y menciona la afiliación política del sospechoso sin emitir críticas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio enfatiza el vínculo del presunto autor del ataque con la política local y la campaña preelectoral, mientras que deja de lado la perspectiva de las víctimas y el análisis de la seguridad pública en eventos deportivos.",
-      "focus_tags": [
-        "politica electoral",
-        "violencia pública",
-        "feminicidio"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de violencia en eventos deportivos",
-          "text": "En los últimos años, México ha registrado varios incidentes violentos durante partidos de fútbol, como el tiroteo de 2022 en un estadio de Veracruz, que han generado preocupación sobre la seguridad en eventos masivos."
-        },
-        {
-          "label": "Dinámica política en Yautepec",
-          "text": "El municipio de Yautepec ha sido gobernado durante más de una década por la familia Alonso, perteneciente al partido Morena, lo que ha generado señalamientos de poder político consolidado y rivalidades internas."
-        },
-        {
-          "label": "Procedimientos de feminicidio en México",
-          "text": "La Fiscalía Especializada para la Investigación y Persecución del Delito de Feminicidio se encarga de casos donde se presume violencia de género, aplicando protocolos específicos para determinar responsabilidad y proteger a las víctimas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "2e093e40d3dd",
-      "title": "Cómo se forma un rayo y qué pasa cuando cae en el mar: la ciencia detrás del silbato del socorrista",
-      "summary": "El artículo de WWWhatsnew describe cómo se forman los rayos en las nubes de tormenta y qué ocurre cuando caen sobre el mar, explicando la física del fenómeno y las recomendaciones de seguridad para los bañistas.",
-      "category": "sociedad",
-      "source_name": "WWWhatsnew",
-      "source_url": "https://wwwhatsnew.com/2026/08/19/como-se-forma-un-rayo-y-que-pasa-cuando-cae-en-el-mar-la-ciencia-detras-del-silbato-del-socorrista/",
-      "published_at": "2026-08-19T07:25:42+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje técnico y descriptivo, sin valoraciones políticas ni selección de fuentes con sesgo, centrándose exclusivamente en la explicación científica y las normas de seguridad.",
-      "focus_analysis": "El medio opta por un ángulo científico‑educativo, detallando los procesos físicos del rayo y los riesgos para los bañistas, mientras omite aspectos como la gestión de emergencias o el impacto económico del turismo costero.",
-      "focus_tags": [
-        "ciencia",
-        "seguridad en playa",
-        "fenómenos atmosféricos"
-      ],
-      "context": [
-        {
-          "label": "antecedentes científicos",
-          "text": "Los rayos se generan en nubes cumulonimbus cuando la colisión de granizo y cristales de hielo separa cargas eléctricas, creando una diferencia de potencial de cientos de millones de voltios que culmina en una descarga ionizada."
-        },
-        {
-          "label": "normas de seguridad",
-          "text": "Las autoridades costeras recomiendan evacuar la playa al escuchar el primer trueno, ya que la corriente eléctrica se propaga por la superficie del agua y puede causar parálisis o ahogamiento en pocos segundos."
-        },
-        {
-          "label": "récords de longitud de rayo",
-          "text": "Según la Organización Meteorológica Mundial, el rayo más largo registrado tuvo una longitud de 829 kilómetros, cruzando parte de Estados Unidos en 2017, lo que muestra la gran distancia que puede recorrer una descarga."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
       }
     }
   ]
