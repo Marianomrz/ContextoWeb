@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-19T13:42:05.900991+00:00",
+  "generated_at": "2026-08-19T13:52:56.857086+00:00",
   "articles": [
+    {
+      "id": "ca767fd4c12c",
+      "title": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy miércoles 19 de agosto: entregas de vivienda en Tlaxcala",
+      "summary": "La presidenta mexicana Claudia Sheinbaum anunció la entrega de viviendas del programa Viviendas del Bienestar en el fraccionamiento Las Ánimas de Tlaxcala, en una transmisión de su conferencia mañanera.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-miercoles-19-de-agosto/",
+      "published_at": "2026-08-19T13:48:05+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto utiliza un lenguaje mayoritariamente neutro y se centra en los logros del gobierno sin incluir críticas ni fuentes opositoras, lo que sugiere una ligera inclinación favorable a la administración.",
+      "focus_analysis": "El medio destaca el ángulo institucional y de política pública al resaltar la entrega de viviendas, dejando de lado la perspectiva humana de los beneficiarios y el posible debate político sobre el programa.",
+      "focus_tags": [
+        "vivienda social",
+        "política pública",
+        "gobierno federal"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del programa",
+          "text": "El programa Viviendas del Bienestar, lanzado en 2024 por la administración de Sheinbaum, busca proporcionar viviendas asequibles a familias de bajos ingresos en todo el país."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "Hasta finales de 2025, el programa había entregado más de 200,000 hogares a nivel nacional, con estados como Oaxaca y Veracruz también recibiendo importantes lotes de vivienda."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Universal ofreció una cobertura minuto a minuto de la mañanera, mientras que El Sol de México presentó una pieza más crítica bajo el título \"A la Sombra / Claudia Sheinbaum\", destacando debates políticos que Infobae no menciona."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "33dd164c5a83",
+      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 25 años de Letras Libres España",
+      "summary": "La revista española Letras Libres conmemoró sus 25 años en la Feria del Libro de Madrid, donde los editores dialogaron sobre su historia, los 4 000 colaboradores del archivo y las series que se han convertido en libros.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/cultura/una-revista-es-una-conversacion-que-te-gusta-tanto-que-la-abres-al-publico-un-dialogo-sobre-los-25-anos-de-letras-libres-espana/19/08/2026/",
+      "published_at": "2026-08-19T09:23:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es descriptivo y se centra en la historia y la cultura de la revista, sin usar lenguaje cargado ni presentar opiniones políticas; la selección de fuentes se limita a la propia redacción.",
+      "focus_analysis": "El artículo adopta un ángulo institucional e histórico, resaltando la evolución y los proyectos de la revista, mientras deja fuera cualquier análisis político o de impacto social más amplio.",
+      "focus_tags": [
+        "cultura",
+        "revista",
+        "historia"
+      ],
+      "context": [
+        {
+          "label": "origen",
+          "text": "Letras Libres se fundó en México en 1999 como una revista de pensamiento crítico y ha expandido su edición a España, consolidándose como un referente del ensayo y la literatura."
+        },
+        {
+          "label": "evento",
+          "text": "La Feria del Libro de Madrid es uno de los encuentros culturales más importantes de España, donde se presentan lanzamientos y se celebran hitos editoriales como el 25.º aniversario de Letras Libres."
+        },
+        {
+          "label": "colaboradores",
+          "text": "La revista cuenta con alrededor de 4 000 colaboradores que han contribuido a sus secciones de literatura, política y arte, y muchas de sus series se han editado posteriormente como libros."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "f6296ec3d1f3",
+      "title": "La publicidad en ChatGPT llegará a partir del 24 de agosto en 30 países europeos",
+      "summary": "OpenAI, la empresa estadounidense de inteligencia artificial, anunció que a partir del 24 de agosto incluirá publicidad en la versión gratuita y la suscripción más económica de ChatGPT en 30 países europeos, entre ellos España, Francia y Alemania, garantizando que los anuncios estén claramente identificados y no influyan en las respuestas del modelo.",
+      "category": "tecnologia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/tecnologia/publicidad-chatgpt-llegara-partir-24-agosto-30-paises-europeos-20260819-829037.html",
+      "published_at": "2026-08-19T13:28:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin adjetivos cargados ni selección de fuentes que favorezcan una postura política; se limitan a presentar los hechos y declaraciones de la compañía.",
+      "focus_analysis": "El artículo se centra en el aspecto económico y de modelo de negocio de OpenAI, resaltando la necesidad de nuevos ingresos y la comparación con Google y Meta, mientras que la dimensión de privacidad del usuario queda menos desarrollada.",
+      "focus_tags": [
+        "publicidad digital",
+        "modelo de negocio",
+        "IA"
+      ],
+      "context": [
+        {
+          "label": "Estrategia de ingresos de OpenAI",
+          "text": "OpenAI había dependido principalmente de suscripciones como ChatGPT Plus y de la venta de acceso a su API, por lo que la introducción de publicidad representa una expansión de sus fuentes de financiación para sostener los altos costos de infraestructura y desarrollo."
+        },
+        {
+          "label": "Entorno regulatorio europeo",
+          "text": "En la Unión Europea, la normativa de protección de datos (GDPR) exige transparencia en el uso de publicidad digital, lo que explica el énfasis de OpenAI en que los anuncios estén claramente separados de las respuestas y no accedan a las conversaciones de los usuarios."
+        },
+        {
+          "label": "Competencia en el mercado de IA",
+          "text": "Google y Meta ya monetizan sus servicios gratuitos de IA mediante publicidad, y la decisión de OpenAI de seguir una estrategia similar refleja la tendencia del sector a financiar sus plataformas mediante ingresos publicitarios."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "89965ab901d1",
+      "title": "River Plate abrirá su serie de octavos de final de la Copa Sudamericana ante Independiente Santa Fe: hora, TV y formaciones",
+      "summary": "El club argentino River Plate disputará la ida de los octavos de final de la Copa Sudamericana contra el equipo colombiano Independiente Santa Fe en el Estadio El Campín de Bogotá el 19 de agosto de 2026, con transmisión por ESPN y Disney+.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/river-plate-abrira-su-serie-de-octavos-de-final-de-la-copa-libertadores-ante-independiente-santa-fe-hora-tv-y-formaciones/",
+      "published_at": "2026-08-19T13:30:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a información factual sobre horarios, alineaciones y antecedentes del encuentro, sin usar lenguaje cargado ni presentar opiniones que favorezcan a una de las partes.",
+      "focus_analysis": "El medio se centró en los detalles logísticos y deportivos del partido (horarios, canales, alineaciones y resultados previos), dejando de lado aspectos humanos o narrativas de los jugadores.",
+      "focus_tags": [
+        "copa sudamericana",
+        "river plate",
+        "independiente santa fe"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "River Plate accedió directamente a esta fase tras terminar primer en su zona y romper una racha de cinco derrotas con una victoria 2‑0 a Argentinos Juniors en el torneo local."
+        },
+        {
+          "label": "datos comparables",
+          "text": "Independiente Santa Fe llegó a la Copa Sudamericana después de quedar tercero en su grupo de la Copa Libertadores y eliminar a Caracas con un global de 5‑0 en los partidos de clasificación."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "El ganador del duelo River Plate–Independiente Santa Fe se medirá en la siguiente ronda contra el vencedor del enfrentamiento entre Olimpia y Vasco da Gama, cuyo primer partido terminó 0‑0 en Río de Janeiro."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "38d5fdc084fb",
+      "title": "MediaMarkt lanza su mejor promo en el Google Pixel 11 Pro hasta la fecha: últimas horas para aprovechar estos descuentos",
+      "summary": "MediaMarkt, la cadena de electrónica de consumo, lanzó una campaña de descuentos que reduce el precio del Google Pixel 11 Pro a unos 739 euros, ofreciendo cupones de 100 y 300 euros y una rebaja adicional al comprar vía su app. El artículo destaca las mejoras de IA y cámara del modelo, pero también señala la poca evolución de hardware y la carga rápida limitada.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/seleccion/mediamarkt-lanza-su-mejor-promo-google-pixel-11-pro-fecha-ultimas-horas-para-aprovechar-estos-descuentos",
+      "published_at": "2026-08-19T13:45:33+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto enfatiza los descuentos y los beneficios del producto con un tono mayormente promocional y menciona comisiones por enlaces afiliados, sin presentar críticas profundas ni fuentes externas que equilibraran la visión.",
+      "focus_analysis": "El medio se centró en la oferta comercial y las características técnicas del Pixel 11 Pro, dejando fuera la comparación con otros flagships ni la discusión sobre la estrategia de producción de Google.",
+      "focus_tags": [
+        "promociones",
+        "Google Pixel",
+        "MediaMarkt"
+      ],
+      "context": [
+        {
+          "label": "producto",
+          "text": "El Google Pixel 11 Pro es el último smartphone de Google, orientado a la inteligencia artificial y con una cámara que incluye un zoom de 120x mediante software, aunque mantiene el mismo nivel de hardware que su predecesor."
+        },
+        {
+          "label": "tienda",
+          "text": "MediaMarkt suele ofrecer descuentos combinados y promociones de trade‑in, donde el cliente entrega un dispositivo antiguo para obtener una rebaja adicional en la compra de un modelo nuevo."
+        },
+        {
+          "label": "entorno",
+          "text": "En otro medio se informó que Google planea trasladar la fabricación de sus dispositivos Pixel fuera de China a partir de 2027, una decisión que afecta la cadena de suministro pero que no se menciona en la cobertura de Xataka."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "8eddaf70a29f",
+      "title": "Vuelca autobús en la México-Pachuca; cierran vialidad a CDMX",
+      "summary": "Un camión de pasajeros volcó en la autopista México‑Pachuca, dejando varios lesionados y provocando el cierre de la vía de acceso a la Ciudad de México.",
+      "category": "sociedad",
+      "source_name": "Reforma",
+      "source_url": "https://www.reforma.com/vuelca-autobus-en-la-mexico-pachuca-cierran-vialidad-a-cdmx/ar3260492",
+      "published_at": "2026-08-19T13:48:43+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono descriptivo sin palabras cargadas ni fuentes con inclinación política, centrado exclusivamente en los hechos del accidente.",
+      "focus_analysis": "El medio se centra en el impacto inmediato del accidente y la interrupción del tráfico, omitiendo análisis sobre causas estructurales de seguridad vial o repercusiones económicas.",
+      "focus_tags": [
+        "accidente de tráfico",
+        "vialidad cerrada",
+        "lesionados"
+      ],
+      "context": [
+        {
+          "label": "Importancia de la vía",
+          "text": "La autopista México‑Pachuca es una de las principales rutas de acceso a la Ciudad de México, con un alto flujo de vehículos de transporte público y de carga."
+        },
+        {
+          "label": "Seguridad vial en México",
+          "text": "Los accidentes de autobús en carreteras mexicanas son una preocupación recurrente, y la Secretaría de Seguridad Pública registra cientos de incidentes cada año."
+        },
+        {
+          "label": "Procedimientos de autoridad",
+          "text": "Ante accidentes graves, la Secretaría de Comunicaciones y Transportes suele cerrar temporalmente la carretera para permitir los trabajos de rescate y evitar riesgos adicionales."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "36ee4950a81a",
+      "title": "Entre sombras de papel: la voz cruda de Natsuo Kirino",
+      "summary": "Una taza de cerámica agrietada descansa sobre la mesa, el café humeante dibuja constelaciones de espuma que recuerdan a los callejones oscuros de Tokio. Cada sorbo es una página que se abre, y la tinta que se derrama escribe la historia de una mujer que, como la taza, lleva grietas invisibles pero resistentes. En esa fragilidad se oculta la fuerza de una narrativa que corta como una hoja de afeitar bajo la luz de la luna.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-19T13:51:45.042754+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, mientras la rutina nos envuelve en su monótona taza, busco una lectura que nos recuerde que la violencia cotidiana puede transformarse en arte. La obra de Kirino ofrece esa paradoja: la crudeza de sus tramas se vuelve poesía urbana. Elegí este ángulo porque la literatura japonesa contemporánea aún es poco explorada en nuestro círculo y merece ser descubierta.",
+      "focus_tags": [
+        "novela contemporánea",
+        "Japón",
+        "crimen"
+      ],
+      "context": [
+        {
+          "label": "Autor",
+          "text": "Natsuo Kirino, nacida en 1951, es una de las voces más incisivas de la ficción negra japonesa. Su estilo combina la precisión de la investigación policial con la profundidad psicológica de sus personajes, creando una atmósfera que atrapa al lector desde la primera línea."
+        },
+        {
+          "label": "Obra clave",
+          "text": "‘Out’ (1997) es su novela más emblemática: sigue a cuatro mujeres que trabajan en una fábrica de alimentos y se ven envueltas en un asesinato que las obliga a replantear su identidad y moralidad. El libro desmenuza la cotidianeidad de la vida urbana, revelando la violencia latente bajo la superficie."
+        },
+        {
+          "label": "Lectura sugerida",
+          "text": "Comienza por el primer capítulo, donde la protagonista, Masami, descubre un cuerpo en el contenedor de basura. El ritmo es intenso, pero la prosa de Kirino mantiene una claridad que permite al lector respirar entre cada revelación, como quien saborea el último sorbo de café antes de la última gota."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "be63f952809f",
       "title": "China tenía un Windows 10 hecho a medida para su Gobierno. Ahora Pekín ha ordenado retirarlo antes de lo previsto",
@@ -799,251 +1045,6 @@
         {
           "label": "sistema de alerta sísmica",
           "text": "El Centro Nacional de Prevención de Desastres y el Cires operan una red de 96 sensores que emiten alertas a ocho ciudades mexicanas cuando se detectan sismos de mayor intensidad."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "2c22b27ff133",
-      "title": "Empresa familiar: el reto de construir un liderazgo propio",
-      "summary": "El artículo de El Economista explica que la sucesión en las empresas familiares mexicanas requiere construir un estilo de liderazgo propio sin replicar al fundador, y destaca la importancia de planes de transición y de la gobernanza para evitar estancamiento y preservar el legado.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/el-empresario/empresa-familiar-reto-construir-liderazgo-propio-20260819-828947.html",
-      "published_at": "2026-08-19T13:00:00+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto se centra en argumentos empresariales y de gestión, citando a expertos de instituciones privadas y evitando lenguaje político o ideológico, lo que indica un sesgo ligeramente favorable al sector privado pero mayormente neutral.",
-      "focus_analysis": "El medio eló un ángulo institucional‑económico, resaltando la planificación de sucesión, la gobernanza y la competitividad empresarial, mientras dejó de lado aspectos sociales o emocionales de la familia y la diversidad de género en la sucesión.",
-      "focus_tags": [
-        "sucesión empresarial",
-        "liderazgo familiar",
-        "gobernanza corporativa"
-      ],
-      "context": [
-        {
-          "label": "Importancia de las empresas familiares en México",
-          "text": "Las empresas familiares representan alrededor del 90 % del total de compañías en México y generan aproximadamente la mitad del Producto Interno Bruto, lo que las convierte en un motor clave de la economía nacional."
-        },
-        {
-          "label": "Tasas de supervivencia de empresas familiares a nivel global",
-          "text": "Según estudios internacionales, solo el 30 % de las empresas familiares logran pasar a la segunda generación, el 12 % a la tercera y menos del 5 % a la cuarta, lo que refleja la dificultad de la sucesión."
-        },
-        {
-          "label": "Políticas de apoyo a la sucesión",
-          "text": "El gobierno mexicano, a través de instituciones como el INADEM y el Programa de Desarrollo Empresarial, ofrece asesoría y financiamiento para que las empresas familiares elaboren planes de sucesión y fortalezcan su gobernanza."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "9b48dc801788",
-      "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 19 de agosto? Usuarios reportan atrasos en Línea B",
-      "summary": "El Sistema de Transporte Colectivo Metro y el Metrobús de la Ciudad de México reportaron este 19 de agosto retrasos superiores a 15 minutos en la Línea 3 del Metro y en la Línea B, además de una obstrucción de carril que limitó el servicio de la Línea 7 del Metrobús.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/que-esta-pasando-en-el-metro-cdmx-y-metrobus-hoy-19-de-agosto/",
-      "published_at": "2026-08-19T12:20:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar hechos de operación sin usar vocabulario cargado ni citar fuentes con sesgo político, presentando la información de forma neutra.",
-      "focus_analysis": "El artículo se centra en la interrupción del servicio de transporte público, destacando los retrasos y afectaciones de las líneas, mientras omite análisis sobre causas estructurales, responsabilidades institucionales o impacto económico en los usuarios.",
-      "focus_tags": [
-        "transporte público",
-        "retrasos",
-        "CDMX"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "El Metro de la Ciudad de México es la red subterránea más grande de América Latina, con 12 líneas y aproximadamente 4,5 millones de usuarios diarios."
-        },
-        {
-          "label": "comparación",
-          "text": "El Metrobús, sistema de autobuses de tránsito rápido, opera 7 líneas y frecuentemente sufre interrupciones por bloqueos de carril o obras de mantenimiento, lo que afecta la movilidad de miles de pasajeros."
-        },
-        {
-          "label": "postura",
-          "text": "En los últimos años, la autoridad de transporte ha anunciado planes de modernización y mayor frecuencia de trenes, pero la percepción pública sigue siendo de insatisfacción por los frecuentes retrasos y cierres temporales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "08d968a938fd",
-      "title": "En Mallorca, dos amigos se han hecho de oro y facturan millones con un producto \"innovador\": agua",
-      "summary": "Font Oasis, la compañía de reparto de agua a domicilio con sede en Palma de Mallorca, ha alcanzado beneficios de 2 millones de euros al vender garrafas de 19 litros reutilizables, un modelo que combina rentabilidad y reducción de plástico.",
-      "category": "economia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/magnet/mallorca-dos-amigos-se-han-hecho-oro-facturan-millones-producto-innovador-agua",
-      "published_at": "2026-08-19T12:30:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta datos y declaraciones de los fundadores sin usar lenguaje cargado ni favorecer una postura ideológica; se limita a describir el modelo de negocio y el contexto del sector.",
-      "focus_analysis": "El artículo se centra en el éxito económico y la logística del servicio de agua, resaltando la rentabilidad y la sustitución de botellas de plástico, mientras deja de lado la discusión sobre la regulación del agua como derecho humano.",
-      "focus_tags": [
-        "negocio de agua",
-        "sostenibilidad",
-        "mercado embotellado"
-      ],
-      "context": [
-        {
-          "label": "mercado español del agua embotellada",
-          "text": "En 2025 el sector español de agua embotellada facturó 1.950 millones de euros, con una producción de 6.850 millones de litros y más de 30.000 empleos, según el Observatorio Sectorial DBK."
-        },
-        {
-          "label": "legislación sobre agua del grifo",
-          "text": "La Ley 7/2022 obliga a bares y restaurantes a ofrecer agua del grifo gratis, una medida que buscó reducir el uso de plástico de un solo uso y que fue criticada por la patronal del sector."
-        },
-        {
-          "label": "especulación financiera del agua",
-          "text": "Desde 2020 existen futuros de derechos de agua en California negociados en el Nasdaq Veles California Water, y figuras como el inversor Michael Burry han invertido en reservas hídricas, lo que ha generado debate sobre el agua como activo financiero."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "97f5d089d0f8",
-      "title": "Un incendio en un hotel del este de India deja 9 muertos y 6 heridos",
-      "summary": "Un incendio en un hotel de Calcuta, en el estado indio de Bengala Occidental, provocó la muerte de nueve personas, entre ellas un niño, y dejó seis heridos, entre los que podrían estar ciudadanos bangladesíes que viajaban para recibir tratamiento médico.",
-      "category": "internacional",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/2026/08/19/incendio-hotel-este-india-deja-9-muertos-6-heridos",
-      "published_at": "2026-08-19T12:30:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y declaraciones oficiales sin usar vocabulario cargado ni presentar una agenda política evidente.",
-      "focus_analysis": "El medio se centra en la tragedia humana y la respuesta de los servicios de emergencia y autoridades, dejando de lado el análisis de causas estructurales o la evaluación de políticas de seguridad en hoteles.",
-      "focus_tags": [
-        "incendio hotel",
-        "muertes y heridos",
-        "respuesta oficial"
-      ],
-      "context": [
-        {
-          "label": "Incendios previos en India",
-          "text": "En diciembre de 2023 un incendio en una discoteca de Goa dejó al menos 25 muertos, y en enero de 2025 un incendio en un hotel de Tarapith, Bengala Occidental, causó siete fallecidos y varios heridos graves."
-        },
-        {
-          "label": "Migración médica bangladesí",
-          "text": "Muchos ciudadanos de Bangladesh viajan a ciudades indias como Calcuta para recibir atención médica, lo que a veces se refleja en los registros de víctimas de desastres locales."
-        },
-        {
-          "label": "Reacción del gobierno indio",
-          "text": "El primer ministro Narendra Modi expresó su pesar por la pérdida de vidas y la administración local anunció medidas de apoyo a los afectados, mientras las fuerzas de bomberos y la policía trabajaban en el rescate."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "48acf4d23a1c",
-      "title": "Chiapas podrá anular elecciones por violencia política de género; agresores no podrán competir en comicios extraordinarios",
-      "summary": "La Legislatura de Chiapas aprobó una reforma que permite anular elecciones cuando se demuestre violencia política de género grave y prohíbe a los responsables postularse en comicios extraordinarios.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/chiapas-podra-anular-elecciones-por-violencia-politica-de-genero-agresores-no-podran-competir-en-comicios-extraordinarios/",
-      "published_at": "2026-08-19T12:31:00+00:00",
-      "bias_score": -20,
-      "bias_reason": "El artículo enfatiza la gravedad de la violencia de género y cita a legisladoras feministas, usando un tono que favorece la perspectiva de derechos de la mujer sin presentar voces críticas o contrapuntos políticos.",
-      "focus_analysis": "El medio se centra en el aspecto institucional‑legal de la reforma electoral y su impacto en la igualdad de género, dejando de lado la reacción de partidos políticos o la viabilidad práctica de la medida.",
-      "focus_tags": [
-        "violencia política de género",
-        "reforma electoral",
-        "Chiapas"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes nacionales",
-          "text": "En México, la violencia política contra las mujeres ha sido reconocida como un problema estructural; la Ley General de Igualdad entre Mujeres y Hombres de 2020 y la reforma constitucional de 2021 incluyeron mecanismos para sancionar estos actos."
-        },
-        {
-          "label": "Marco federal",
-          "text": "La reforma constitucional de 2021 estableció la nulidad de elecciones cuando la violencia de género sea determinante y prohibió la participación de los agresores en futuras contiendas, sirviendo de modelo para iniciativas estatales como la de Chiapas."
-        },
-        {
-          "label": "Experiencias de otros estados",
-          "text": "Estados como Oaxaca y Veracruz ya habían aprobado normas que sancionan la violencia política de género, aunque su aplicación ha sido limitada y ha generado debates sobre su efectividad y alcance."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "ad2ee7a74247",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy 19 de agosto: se esperan lluvias intensas en BC, Veracruz, Oaxaca y Chiapas",
-      "summary": "El Servicio Meteorológico Nacional de México pronostica lluvias intensas y chubascos con descargas eléctricas en Baja California Sur, Veracruz, Oaxaca, Chiapas y otras regiones del país para el 19 de agosto de 2026.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-19-de-agosto/",
-      "published_at": "2026-08-19T12:36:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza lenguaje técnico y descriptivo sin palabras cargadas ni fuentes con inclinación política; se limita a presentar datos meteorológicos.",
-      "focus_analysis": "El medio se centra en el ángulo científico‑meteorológico, describiendo los procesos atmosféricos y los pronósticos de lluvia, sin abordar los posibles impactos humanos o económicos de las precipitaciones.",
-      "focus_tags": [
-        "clima",
-        "precipitaciones",
-        "alertas meteorológicas"
-      ],
-      "context": [
-        {
-          "label": "Institución",
-          "text": "El Servicio Meteorológico Nacional (SMN) es la autoridad mexicana encargada de vigilar y publicar pronósticos del tiempo y alertas climáticas en todo el territorio nacional."
-        },
-        {
-          "label": "Estación del año",
-          "text": "En México, la temporada de lluvias se extiende típicamente de junio a octubre, periodo en el que aumentan la frecuencia e intensidad de tormentas y ondas tropicales."
-        },
-        {
-          "label": "Evento reciente",
-          "text": "La onda tropical número 29, que atraviesa el sureste mexicano, ha sido identificada como uno de los principales factores que intensifican las lluvias en la península de Yucatán y estados vecinos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
-      }
-    },
-    {
-      "id": "0d05346a6238",
-      "title": "Una serie de réplicas sacuden la ciudad española de Granada durante la noche",
-      "summary": "La ciudad española de Granada experimentó al menos diez temblores durante la noche, el más fuerte de magnitud 3.4, lo que obligó a evacuar a unas 600 personas y provocó daños menores en fachadas y cornisas de edificios, según informaron las autoridades locales y el Instituto Geográfico Nacional.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/serie-replicas-sacuden-ciudad-espanola-granada-noche-20260819-829026.html",
-      "published_at": "2026-08-19T12:39:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos oficiales y hechos verificables, sin lenguaje cargado ni selección de fuentes que favorezcan una postura ideológica; el enfoque es informativo y neutral.",
-      "focus_analysis": "El medio se centró en el ángulo institucional, describiendo la respuesta de las autoridades, los datos sísmicos y los daños estructurales, mientras que el aspecto humano de miedo y desplazamiento quedó menos desarrollado.",
-      "focus_tags": [
-        "sismología",
-        "evacuación",
-        "daños estructurales"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes sísmicos",
-          "text": "Granada se encuentra en una zona del sur de España con actividad sísmica ocasional; la región había registrado temblores menores en los cinco días previos al episodio."
-        },
-        {
-          "label": "Cobertura comparativa",
-          "text": "Otros medios, como El País América, pusieron mayor énfasis en el temor de la población y en la presencia de personas durmiendo en la calle, resaltando el impacto humano del sismo."
-        },
-        {
-          "label": "Datos oficiales",
-          "text": "El Instituto Geográfico Nacional informó que el epicentro del sismo de 3.4 se localizó en Ogíjares, a siete kilómetros al sur de Granada, y el responsable autonómico Antonio Sanz declaró que no había peligro inminente ni daños estructurales graves."
         }
       ],
       "confidence": "alta",
