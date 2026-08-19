@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T05:40:38.601127+00:00",
+  "generated_at": "2026-08-19T06:00:35.731198+00:00",
   "articles": [
+    {
+      "id": "950010044d92",
+      "title": "A julio, 1.25 millones de trabajadores retiraron por desempleo 27,202 millones de pesos de sus afores",
+      "summary": "Según la Consar, entre enero y julio de 2026 casi 1,25 millones de trabajadores mexicanos retiraron 27,202 millones de pesos de sus cuentas de ahorro para el retiro por desempleo, un récord impulsado, la actividad de gestores no autorizados que inflan los salarios declarados.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/julio-1-25-millones-trabajadores-retiraron-desempleo-27-202-millones-pesos-afores-20260818-828992.html",
+      "published_at": "2026-08-19T05:22:37+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto utiliza un lenguaje informativo y cita tanto a la autoridad reguladora como a representantes del sector privado, sin emplear términos cargados ni favorecer una posición política clara.",
+      "focus_analysis": "El medio se centra en el aspecto económico y financiero del fenómeno, resaltando el impacto en los fondos de pensiones y la dinámica del mercado laboral, mientras deja de lado el debate político o las posibles reformas regulatorias.",
+      "focus_tags": [
+        "economía",
+        "mercado laboral",
+        "pensión"
+      ],
+      "context": [
+        {
+          "label": "Consar y tendencias históricas",
+          "text": "La Comisión Nacional del Sistema de Ahorro para el Retiro (Consar) ha registrado un aumento sostenido de retiros por desempleo desde 2024, señalando que el número de beneficiarios y los montos retirados han crecido anualmente."
+        },
+        {
+          "label": "Situación del empleo en México",
+          "text": "El Instituto Mexicano del Seguro Social (IMSS) informó que en julio de 2026 se perdieron 19,550 puestos de trabajo formales, aunque en el periodo enero‑julio se crearon 243,078 empleos, reflejando una volatilidad estacional del mercado laboral."
+        },
+        {
+          "label": "Prácticas de los \"coyotes\"",
+          "text": "Diversos informes periodísticos han descrito la operación de gestores informales que, mediante altas temporales y salarios inflados, facilitan retiros máximos de las Afores, una práctica que la Consar considera fraudulenta."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "95b947965fec",
+      "title": "La empresa que piensa",
+      "summary": "El artículo de Letras Libres titulado 'La empresa que piensa', de Javier Treviño, sostiene que la verdadera ventaja competitiva en la era de la IA proviene de una inteligencia organizacional capaz de formular preguntas adecuadas y aprender rápido, más que de disponer de los modelos de IA más avanzados, como ilustra la reversión de la política AI‑first de Duolingo.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
+      "published_at": "2026-08-18T17:38:56+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto emplea un tono analítico y progresista, citando académicos y ejemplos de empresas para criticar la exageración del hype tecnológico, sin apelar a discursos conservadores ni favorecer intereses de mercado particulares.",
+      "focus_analysis": "El medio elige un ángulo institucional y económico, centrado en cómo las organizaciones deben rediseñarse para aprovechar la IA, dejando de lado los aspectos éticos o de derechos humanos vinculados a la tecnología.",
+      "focus_tags": [
+        "inteligencia organizacional",
+        "estrategia empresarial",
+        "IA"
+      ],
+      "context": [
+        {
+          "label": "Ejemplo de reversión de política AI‑first",
+          "text": "Duolingo, tras anunciarse como empresa 'AI‑first' y proponer evaluar a sus empleados con IA, recibió objeciones internas y su fundador Luis von Ahn decidió retirar la medida, subrayando la necesidad de reflexionar antes de aplicar la tecnología."
+        },
+        {
+          "label": "Historia de la teoría de la empresa",
+          "text": "Desde Adam Smith y la división del trabajo hasta Peter Drucker y la primacía del conocimiento, la literatura ha ligado la ventaja competitiva a la organización interna más que al mero capital físico."
+        },
+        {
+          "label": "Perspectiva de Harvard Business Review",
+          "text": "Un artículo de Harvard Business Review de Rohan Narayana Murty y Ravi Kumar S plantea que, cuando todas las compañías accedan a los mismos modelos de IA, la ventaja residirá en el contexto y el conocimiento acumulado de cada organización."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar respuestas de Gmail de forma autónoma, siempre que el usuario lo haya configurado previamente.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la nueva función sin usar vocabulario cargado ni favorecer a ninguna postura.",
+      "focus_analysis": "El medio se centra en la novedad tecnológica y la configuración de la herramienta, dejando de lado el debate sobre riesgos de privacidad y ética de la IA.",
+      "focus_tags": [
+        "IA correo",
+        "automatización",
+        "privacidad"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Antes de la actualización, Claude solo podía leer la bandeja y generar borradores, pero el envío requería la intervención del usuario."
+        },
+        {
+          "label": "preocupaciones",
+          "text": "Expertos en seguridad y privacidad han advertido que permitir que una IA envíe correos sin supervisión puede generar filtraciones de información o respuestas inapropiadas."
+        },
+        {
+          "label": "comparación",
+          "text": "Otros asistentes, como el de Google Gemini o Microsoft Copilot, ya ofrecen funciones de redacción y envío de correos, aunque suelen requerir confirmación explícita en cada mensaje."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "e5bace8e8cb9",
+      "title": "Caso Dafne Zapata: juez federal admite amparo de Danna Yanina “N” y revisará posibles violaciones a derechos",
+      "summary": "El juez federal de México admitió el amparo solicitado por la defensa de Danna Yanina “N”, la joven de 18 años acusada del feminicidio de la menor Dafne Zapata Quintos en la Academia Militarizada Marina Doenitz de Ciudad Madero, Tamaulipas, y revisará posibles violaciones a sus derechos, mientras la presidenta Claudia Sheinbaum pidió a la Fiscalía General de la revisar el caso.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/caso-dafne-zapata-juez-federal-admite-amparo-de-danna-yanina-n-y-revisara-posibles-violaciones-a-derechos/",
+      "published_at": "2026-08-19T05:39:47+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta de manera equilibrada declaraciones de la defensa, la presidenta y el fiscal, sin usar vocabulario cargado ni favorecer a ninguna parte.",
+      "focus_analysis": "El medio se concentra en el ángulo legal e institucional, describiendo los recursos judiciales y la intervención de autoridades, dejando de lado el impacto humano y emocional de la familia de la víctima y el contexto más amplio de violencia de género.",
+      "focus_tags": [
+        "derechos humanos",
+        "proceso judicial",
+        "feminicidio"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "En México, el recurso de amparo permite a una persona impugnar actos que considere vulneren sus derechos constitucionales, y su admisión no implica inocencia, sino que ordena una revisión judicial."
+        },
+        {
+          "label": "Antecedentes del caso",
+          "text": "Dafne Zapata Quintos, de 13 años, fue asesinada en agosto de 2025 en la Academia Militarizada Marina Doenitz; su padre, Gabriel “N”, había sido detenido en 2019 por una violación equiparada contra la menor."
+        },
+        {
+          "label": "Postura de autoridades",
+          "text": "La presidenta de México, Claudia Sheinbaum, solicitó a la Fiscalía General que revise el caso, mientras que el fiscal de Tamaulipas, Jesús Eduardo Govea Orozco, afirmó que existen méritos suficientes para mantener la acusación contra Danna Yanina."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "89580e5821d0",
+      "title": "Avanza en EU posible arancel contra fresa mexicana",
+      "summary": "El Departamento de Comercio de Estados Unidos emitió un fallo preliminar que indica que las fresas mexicanas fueron importadas a precios injustamente bajos entre noviembre de 2024 y marzo de 2025, por lo que continuará la investigación antidumping y México manifestó su preocupación.",
+      "category": "economia",
+      "source_name": "Reforma",
+      "source_url": "https://www.reforma.com/avanza-en-eu-posible-arancel-contra-fresa-mexicana/ar3260377",
+      "published_at": "2026-08-19T05:39:50+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es meramente informativo, sin lenguaje cargado ni fuentes partidistas; se limita a citar la decisión del Departamento de Comercio y la reacción oficial de México.",
+      "focus_analysis": "El artículo se centra en el aspecto económico‑comercial de la posible medida antidumping, dejando de lado el impacto humano en los productores de fresa y la respuesta de los consumidores.",
+      "focus_tags": [
+        "comercio internacional",
+        "agricultura",
+        "aranceles"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de investigaciones antidumping EE.UU.",
+          "text": "Estados Unidos ha iniciado previamente investigaciones antidumping contra productos agrícolas mexicanos, como los aguacates y los tomates, que resultaron en aranceles temporales para proteger a los productores nacionales."
+        },
+        {
+          "label": "Relación comercial México‑EE.UU.",
+          "text": "Bajo el T-MEC, México y Estados Unidos mantienen una relación comercial estrecha, siendo los productos agrícolas, incluida la fresa, una parte importante del intercambio bilateral."
+        },
+        {
+          "label": "Impacto sectorial de los aranceles",
+          "text": "Los aranceles antidumping pueden elevar los precios de los productos importados, reduciendo la competitividad de los exportadores mexicanos y afectando los ingresos de los agricultores y la cadena de suministro del sector frutícola."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "9f01fb2dbe5b",
+      "title": "Fue una de las grandes promesas de su generación, opacó a Messi en sus inicios y a los 41 años desafía a River en la Sudamericana",
+      "summary": "El delantero colombiano Hugo Rodallega, con 41 años, será una de las figuras clave del duelo de octavos de final de la Copa Sudamericana entre River Plate e Independiente Santa Fe, donde busca repetir la brillantez que mostró en su juventud al opacar a Lionel Messi en el Sudamericano Sub‑20 de 2005.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/fue-una-de-las-grandes-promesas-de-su-generacion-opaco-a-messi-en-sus-inicios-y-a-los-41-anos-desafia-a-river-en-la-sudamericana/",
+      "published_at": "2026-08-19T05:55:45+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la trayectoria deportiva y declaraciones de los protagonistas, sin usar lenguaje cargado ni favorecer a ninguna corriente política; la cobertura es descriptiva y equilibrada.",
+      "focus_analysis": "El medio eligió un ángulo humano‑deportivo, resaltando la historia y la personalidad de Rodallega, mientras dejó de lado un análisis táctico profundo del encuentro.",
+      "focus_tags": [
+        "carrera deportiva",
+        "copa sudamericana",
+        "River Plate"
+      ],
+      "context": [
+        {
+          "label": "Forma reciente de River Plate",
+          "text": "River Plate había atravesado una racha de cinco o seis derrotas consecutivas, pero recuperó confianza al vencer 2‑0 a Argentinos Juniors antes del duelo contra Santa Fe."
+        },
+        {
+          "label": "Logros tempranos de Hugo Rodallega",
+          "text": "En el Sudamericano Sub‑20 de 2005, Rodallega anotó cuatro goles en la segunda mitad contra Bolivia, convirtiéndose en el mejor jugador del día y sobresaliendo en un torneo donde también participaba Lionel Messi."
+        },
+        {
+          "label": "Formato de la Copa Sudamericana",
+          "text": "Los octavos de final de la Copa Sudamericana se juegan a doble partido; el primero será en el Estadio El Campín de Bogotá y el segundo en Buenos Aires para decidir quién avanza a cuartos de final."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "1d5508c90a79",
       "title": "Trasladan a cinco reos a penal federal de Villa Crisol en Chiapas; uno es líder del CJNG y dos de La Unión Tepito",
@@ -839,216 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "4b78c1e4ed06",
-      "title": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
-      "summary": "El Departamento de Comercio de Estados Unidos ha iniciado una medida antidumping preliminar contra la fresa mexicana, con cuotas entre el 3.37 % y el 5.28 %, lo que podría afectar a casi 5 000 productores y a exportaciones por mil millones de dólares. La Secretaría de Economía de México ha denunciado la decisión como arbitraria y ha advertido sobre su posible efecto como precedente para otros productos agrícolas.",
-      "category": "economia",
-      "source_name": "Expansión",
-      "source_url": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
-      "published_at": "2026-08-19T04:30:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje mayormente informativo, cita tanto a la autoridad estadounidense como a la Secretaría de Economía mexicana y no contiene expresiones cargadas ni juicios de valor que favorezcan a un lado político.",
-      "focus_analysis": "El medio se centra en el impacto económico y comercial de la medida para los productores y exportadores de fresas mexicanas, dejando de lado la perspectiva política de la relación bilateral EE. UU.–México y el posible efecto sobre los precios al consumidor en ambos países.",
-      "focus_tags": [
-        "antidumping",
-        "agricultura mexicana",
-        "relaciones comerciales EE. UU."
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de medidas antidumping EE. UU.",
-          "text": "Estados Unidos ha impuesto anteriormente derechos antidumping a productos agrícolas mexicanos, como los tomates en 2023, lo que generó tensiones comerciales y demandas de revisión bajo el T‑MEC."
-        },
-        {
-          "label": "Importancia de la fresa mexicana",
-          "text": "En 2025 México exportó a EE. UU. alrededor de 263 000 toneladas de fresas, generando aproximadamente 151 000 empleos directos e indirectos en el sector agrícola."
-        },
-        {
-          "label": "Marco legal internacional",
-          "text": "La Secretaría de Economía argumenta que los criterios de la investigación violan el Acuerdo Antidumping de la OMC y disposiciones del T‑MEC, que establecen normas para la definición de productos y mercados regionales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Letras Libres explica que, aunque la inteligencia artificial se volverá accesible para todas las empresas, la verdadera ventaja competitiva residirá en la capacidad de las organizaciones para aprender y tomar decisiones, como lo ejemplifica el caso de Duolingo y su fundador Luis von Ahn.",
-      "category": "tecnologia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": -25,
-      "bias_reason": "El texto critica la adopción irreflexiva de IA en las empresas y enfatiza la necesidad de una visión organizacional, usando un tono que coincide con la orientación progresista de Letras Libres.",
-      "focus_analysis": "El medio se centra en el enfoque estratégico y organizacional de la IA, resaltando la importancia de la inteligencia organizacional y dejando de lado los aspectos regulatorios o de impacto laboral.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "estrategia empresarial",
-        "IA democratizada"
-      ],
-      "context": [
-        {
-          "label": "Historia de la teoría empresarial",
-          "text": "Desde Adam Smith hasta Peter Drucker, los economistas han explicado el éxito empresarial mediante la división del trabajo, la eficiencia científica y la gestión del conocimiento, lo que sirve de antecedente a la discusión actual sobre la inteligencia organizacional."
-        },
-        {
-          "label": "Caso Duolingo",
-          "text": "En 2025, la plataforma de aprendizaje de idiomas Duolingo, bajo la dirección de su fundador Luis von Ahn, probó una política de evaluación basada en IA que fue cuestionada por sus empleados, lo que llevó a la empresa a reconsiderar su estrategia AI‑first."
-        },
-        {
-          "label": "Perspectiva de Harvard Business Review",
-          "text": "Un artículo de Harvard Business Review de 2025 planteó que la ventaja competitiva futura dependerá del contexto y del conocimiento acumulado de cada organización, alineándose con la idea de que la inteligencia organizacional supera la mera posesión de modelos de IA."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, la inteligencia artificial de Anthropic, ahora permite redactar y enviar mensajes de Gmail de forma autónoma tras una configuración previa, aunque el usuario puede exigir aprobación para cada acción.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo emplea un tono entusiasta y resalta los beneficios de la nueva función, sin profundizar en los riesgos de privacidad, lo que muestra una ligera inclinación favorable hacia la tecnología.",
-      "focus_analysis": "El medio se centra en la novedad y la utilidad práctica de la integración de Claude con Gmail, dejando de lado la discusión sobre implicaciones de seguridad y ética.",
-      "focus_tags": [
-        "IA",
-        "automatización de correo",
-        "integración Google Workspace"
-      ],
-      "context": [
-        {
-          "label": "Historial de Claude",
-          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores, pero el envío siempre requería la intervención del usuario."
-        },
-        {
-          "label": "Competencia en el mercado",
-          "text": "Otros proveedores, como Microsoft con su Copilot y Google con Smart Compose, también están incorporando funciones de respuesta automática en sus plataformas de correo."
-        },
-        {
-          "label": "Preocupaciones de privacidad",
-          "text": "Expertos en ciberseguridad advierten que permitir que una IA envíe correos sin supervisión puede generar riesgos de filtración de información o envío de mensajes inadecuados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "2c26dadd56af",
-      "title": "Jean-Marie Gustave Le Clézio, Emmanuel Carrère y Gioconda Belli, entre los más destacado de la FILM",
-      "summary": "La Feria Internacional del Libro Monterrey (FILM) anunció que contará con la presencia del Nobel francés Jean‑Marie Gustave Le Clézio, el escritor Emmanuel Carrère y la novelista nicaragüense Gioconda Belli, entre otros autores de renombre, como parte de su programación del 10 al 18 de octubre.",
-      "category": "literatura",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/1808/cultura/jean-marie-gustave-le-clezio-emmanuel-carrere-y-gioconda-belli-entre-los-mas-destacado-de-la-film/",
-      "published_at": "2026-08-19T04:12:48+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la programación y los participantes sin usar lenguaje cargado ni priorizar una postura política; la selección de autores incluye voces de diferentes regiones y no se evidencia un sesgo ideológico.",
-      "focus_analysis": "El medio privilegia el aspecto cultural y académico del evento, resaltando la presencia de premios internacionales y la relación con la filosofía, mientras deja de lado la dimensión comercial o de venta de libros.",
-      "focus_tags": [
-        "cultura literaria",
-        "evento internacional",
-        "filosofía contemporánea"
-      ],
-      "context": [
-        {
-          "label": "Historia de la FILM",
-          "text": "La Feria Internacional del Libro Monterrey, creada en 1998, se ha consolidado como el principal encuentro editorial del norte de México, atrayendo a editores, autores y lectores de América Latina y Europa."
-        },
-        {
-          "label": "Premios de los autores destacados",
-          "text": "Jean‑Marie Gustave Le Clézio recibió el Premio Nobel de Literatura en 2008; Emmanuel Carrère fue galardonado con el Premio Princesa de Asturias de las Letras en 2016; Gioconda Belli es una de las figuras más influyentes de la literatura nicaragüense y latinoamericana."
-        },
-        {
-          "label": "Relaciones México‑Francia",
-          "text": "El 2026 marca el bicentenario de las relaciones diplomáticas entre México y Francia, un hecho que se celebra con eventos culturales como la presencia de autores franceses en la FILM."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "d4f319b7391e",
-      "title": "Deportaron de Paraguay a 10 hinchas de Boca en la previa del partido ante Recoleta",
-      "summary": "Diez seguidores de Boca Juniors fueron expulsados de Paraguay durante los controles migratorios previos al partido de octavos de final contra Recoleta, al aparecer sus nombres con restricciones para asistir a eventos deportivos internacionales. La medida formó parte de un operativo de seguridad binacional que también incluyó la incautación de bebidas alcohólicas y la custodia de los demás hinchas que sí ingresaron al país.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/deportaron-de-paraguay-a-10-hinchas-de-boca-en-la-previa-del-partido-ante-recoleta/",
-      "published_at": "2026-08-19T04:18:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y cite fuentes oficiales sin emplear vocabulario cargado ni remarcar una postura política; se limita a describir los hechos y el procedimiento de seguridad.",
-      "focus_analysis": "El medio se centró en el aspecto de seguridad y control migratorio del evento, dejando de lado la perspectiva de los hinchas deportados o posibles repercusiones diplomáticas.",
-      "focus_tags": [
-        "seguridad migratoria",
-        "copa sudamericana",
-        "deportación de hinchas"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de seguridad en la Copa Sudamericana",
-          "text": "En ediciones anteriores del torneo, la Conmebol ha implementado operativos de control reforzado en los países anfitriones para evitar incidentes entre hinchas, incluyendo revisiones de documentos y prohibiciones a personas con antecedentes de violencia."
-        },
-        {
-          "label": "Restricciones para aficionados internacionales",
-          "text": "Algunos países sudamericanos mantienen listas de prohibición para visitantes que hayan sido sancionados por la FIFA o la Conmebol, lo que puede impedir su ingreso a eventos deportivos de alcance internacional."
-        },
-        {
-          "label": "Cooperación binacional en eventos deportivos",
-          "text": "Para partidos de alto riesgo, es habitual que las fuerzas de seguridad de los países involucrados, como Argentina y Paraguay, coordinen dispositivos conjuntos de vigilancia y control de flujos de público."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "dfeccc9822f3",
-      "title": "Fallece motociclista tras derrapar y chocar en el Ecobulevar León-San Francisco",
-      "summary": "Un joven motociclista de la comunidad El Nacimiento, en el municipio de León, Guanajuato, falleció tras perder el control de su moto por la lluvia y chocar contra un poste en el Ecobulevar León‑San Francisco.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/leon/2026/08/18/fallece-motociclista-tras-derrapar-y-chocar-en-el-ecobulevar-leon-san-francisco-1834062.html",
-      "published_at": "2026-08-19T04:40:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y la respuesta de los servicios de emergencia sin usar lenguaje cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centró en los detalles del accidente y la intervención de las autoridades, dejando de lado un análisis sobre la seguridad vial o políticas de prevención de accidentes.",
-      "focus_tags": [
-        "accidente de tráfico",
-        "muertes en carretera",
-        "seguridad vial"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En los últimos años, León ha registrado varios accidentes mortales en vías principales cuando las condiciones climáticas son adversas, especialmente en tramos con pavimento resbaladizo."
-        },
-        {
-          "label": "datos comparables",
-          "text": "Según datos del Instituto Nacional de Estadística y Geografía (INEGI), el estado de Guanajuato reportó más de 1,200 muertes por accidentes de tráfico en 2025, con una proporción significativa vinculada a factores climáticos."
-        },
-        {
-          "label": "postura de autoridades",
-          "text": "La Fiscalía General del Estado y Protección Civil de León suelen iniciar investigaciones para determinar responsabilidades y, en ocasiones, recomendar mejoras en la señalización y el mantenimiento de la calzada."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
