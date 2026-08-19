@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T04:11:15.641831+00:00",
+  "generated_at": "2026-08-19T04:21:34.929020+00:00",
   "articles": [
+    {
+      "id": "e9f43cb0cf15",
+      "title": "Banfield eliminó por penales a Midland y será el rival de Deportivo Riestra en los cuartos de final de la Copa Argentina",
+      "summary": "El club de fútbol Banfield de Argentina eliminó por penales al equipo Midland y se enfrentará a Deportivo Riestra en los cuartos de final de la Copa Argentina.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
+      "published_at": "2026-08-19T03:25:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido con un tono objetivo y sin usar vocabulario cargado ni favorecer a ningún club, lo que indica una cobertura neutral.",
+      "focus_analysis": "El artículo se centra en el resultado del encuentro y en la definición por penales, dejando fuera aspectos como la repercusión financiera del torneo o la historia de los clubes en la Copa.",
+      "focus_tags": [
+        "copa argentina",
+        "penales",
+        "cuartos de final"
+      ],
+      "context": [
+        {
+          "label": "Formato de la Copa Argentina",
+          "text": "La Copa Argentina es un torneo de eliminación directa en el que equipos de todas las categorías del fútbol argentino compiten, y los ganadores de cada ronda avanzan a los cuartos de final."
+        },
+        {
+          "label": "Rendimiento reciente de Banfield",
+          "text": "Banfield, que mil en la Primera División, ha mostrado un buen nivel en la Copa al superar a Midland en la tanda de penales, tras haber liderado 2-0 antes del descanso."
+        },
+        {
+          "label": "Victoria anterior de Deportivo Riestra",
+          "text": "Deportivo Riestra alcanzó los cuartos de final al eliminar a Gimnasia La Plata en la misma fase, también mediante una tanda de penales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "a21047f8e67e",
+      "title": "El mercado inmobiliario de EU siguió bajo presión en julio",
+      "summary": "El mercado inmobiliario de Estados Unidos continuó bajo presión en julio, con la construcción de viviendas unifamiliares cayendo 9,9% y alcanzando su nivel más bajo desde noviembre de 2022, mientras que los contratos de compra de segunda mano también disminuyeron.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/mercado-inmobiliario-eu-siguio-presion-julio-20260818-828983.html",
+      "published_at": "2026-08-19T03:55:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos estadísticos y citas de un economista sin usar un cargados ni favorecer a ninguna posición política.",
+      "focus_analysis": "El artículo se centra en el aspecto económico del sector de la vivienda, resaltando la caída de la construcción y la influencia de las altas tasas hipotecarias, dejando de lado los impactos sociales o políticos más amplios.",
+      "focus_tags": [
+        "vivienda",
+        "construcción",
+        "tasas hipotecarias"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del mercado",
+          "text": "Desde 2022, el mercado de la vivienda en EE. UU. ha experimentado una desaceleración impulsada por las elevadas tasas de interés hipotecario y la incertidumbre económica."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "En julio, la construcción de viviendas unifamiliares cayó 9,9% y las nuevas obras iniciadas disminuyeron 12,4%, cifras que sitúan al sector en su nivel más bajo en más de tres años."
+        },
+        {
+          "label": "Postura de actores del sector",
+          "text": "El economista senior de Nationwide, Ben Ayers, señaló que los constructores seguirán reacios a invertir hasta que las tasas hipotecarias disminuyan, mientras que los permisos de construcción mostraron un leve aumento del 2,5% en el mismo periodo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, la inteligencia artificial de la empresa Anthropic, ahora puede redactar y enviar correos electrónicos desde Gmail sin requerir la aprobación previa del usuario, siempre que la función haya sido configurada previamente.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin adjetivos cargados ni fuentes que favorezcan una postura política o comercial.",
+      "focus_analysis": "El artículo se centra en la novedad tecnológica y la funcionalidad del conector de Gmail, dejando de lado un análisis profundo de los riesgos de privacidad o de la competencia en el mercado de IA.",
+      "focus_tags": [
+        "IA",
+        "automatización de email",
+        "integración Google Workspace"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Anthropic",
+          "text": "Anthropic es una startup de inteligencia artificial fundada por ex‑investigadores de OpenAI, conocida por su modelo de lenguaje Claude, que compite directamente con ChatGPT de OpenAI."
+        },
+        {
+          "label": "Limitaciones previas de Claude",
+          "text": "Hasta hace poco, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, dejando la acción de envío bajo control total del usuario."
+        },
+        {
+          "label": "Tendencia del sector",
+          "text": "Otros proveedores, como Microsoft con su Copilot para Outlook, ya ofrecen funciones de respuesta automática y gestión de correos mediante IA, lo que muestra una creciente adopción de asistentes inteligentes en plataformas de correo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "1d0cf9adf769",
+      "title": "Arantza Ruiz reflexiona sobre su distanciamiento con Flor Vigna: \"no tenía las herramientas para sostenerla\"",
+      "summary": "Arantza Ruiz, concursante mexicana de \"La casa de los famosos México\", admitió que no contaba con los recursos necesarios para apoyar a la argentina Flor Vigna, quien sufre depresión, y lamentó su comportamiento durante el programa.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/arantza-ruiz-reflexiona-sobre-su-distanciamiento-con-flor-vigna-no-tenia-las-herramientas-para-sostenerla/",
+      "published_at": "2026-08-19T04:01:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y cita directamente a los involucrados, sin emplear palabras cargadas ni presentar una agenda política, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centró en el conflicto interpersonal y el aspecto de salud mental de los participantes, dejando de lado un análisis del formato del reality o de la influencia del voto del público.",
+      "focus_tags": [
+        "conflicto reality",
+        "salud mental",
+        "relaciones públicas"
+      ],
+      "context": [
+        {
+          "label": "programa",
+          "text": "\"La casa de los famosos México\" es un reality show de convivencia donde los concursantes viven bajo vigilancia y el público decide su permanencia mediante votaciones."
+        },
+        {
+          "label": "participante",
+          "text": "Flor Vigna es una actriz argentina conocida por su trayectoria televisiva y que ha hablado públicamente sobre su diagnóstico de depresión clínica."
+        },
+        {
+          "label": "dinámica mediática",
+          "text": "Los medios suelen enfatizar los roces entre participantes de reality, lo que influye en la percepción del público y puede afectar los resultados de las votaciones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "6b5c67711cf5",
+      "title": "Así funciona la estafa de El Artista Enamorado y consejos de cómo evitar caer en ella",
+      "summary": "La Policía Cibernética de la Ciudad de México emitió una alerta sobre la estafa conocida como “El Artista Enamorado”, en la que delincuentes se hacen pasar por celebridades para obtener dinero y datos personales, y ofreció recomendaciones para evitar ser víctimas.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/asi-funciona-la-estafa-de-el-artista-enamorado-y-consejos-de-como-evitar-caer-en-ella/",
+      "published_at": "2026-08-19T04:13:19+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el fraude y las recomendaciones oficiales, sin usar lenguaje cargado ni citar fuentes políticas, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centró en el aspecto de seguridad digital y prevención de fraudes, dejando de lado cualquier análisis de las consecuencias económicas o legales más amplias.",
+      "focus_tags": [
+        "ciberseguridad",
+        "estafas digitales",
+        "prevención"
+      ],
+      "context": [
+        {
+          "label": "Aumento de denuncias",
+          "text": "En los últimos meses se ha registrado un crecimiento notable de denuncias por fraudes que suplantan la identidad de figuras públicas en redes sociales en México."
+        },
+        {
+          "label": "Método de la estafa",
+          "text": "Los estafadores suelen iniciar la interacción mediante mensajes privados, crear un vínculo emocional y luego solicitar dinero o información confidencial, una táctica descrita también por El Informador."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "La Secretaría de Seguridad Ciudadana, a través de la Policía Cibernética, ha publicado guías de verificación de perfiles y ha instado a la población a reportar y bloquear cuentas sospechosas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "d4f319b7391e",
+      "title": "Deportaron de Paraguay a 10 hinchas de Boca en la previa del partido ante Recoleta",
+      "summary": "Diez seguidores del club argentino Boca Juniors fueron expulsados de Paraguay por la autoridad migratoria antes del partido de vuelta contra Recoleta en la Copa Sudamericana, mientras miles de hinchas xeneizes ingresaron sin incidentes al estadio Defensores del Chaco en Asunción.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/deportaron-de-paraguay-a-10-hinchas-de-boca-en-la-previa-del-partido-ante-recoleta/",
+      "published_at": "2026-08-19T04:18:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene descriptivo y objetivo, citando a autoridades y evitando adjetivos cargados o juicios de valor; no muestra preferencia política ni deportiva.",
+      "focus_analysis": "El medio se centró en la operativa de seguridad y control migratorio alrededor del encuentro, dejando de lado el impacto humano y emocional de la deportación sobre los aficionados.",
+      "focus_tags": [
+        "seguridad migratoria",
+        "copa sudamericana",
+        "deportación de hinchas"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del torneo",
+          "text": "Boca Juniors y Recoleta se enfrentaban en los octavos de final de la Copa Sudamericana, con Boca liderando la serie 3‑1 tras el partido de ida en Buenos Aires, lo que aumentó la afluencia de seguidores al encuentro de vuelta en Asunción."
+        },
+        {
+          "label": "Política migratoria deportiva",
+          "text": "Paraguay aplica restricciones de ingreso a extranjeros que tengan observaciones en su historial migratorio para eventos internacionales organizados por la Conmebol, lo que permite a la autoridad expulsar a individuos que no cumplan con los requisitos de seguridad."
+        },
+        {
+          "label": "Reacción de los hinchas",
+          "text": "Aproximadamente 20 000 seguidores de Boca Juniors viajaron a Asunción; la mayoría ingresó sin problemas bajo un estricto control de seguridad, mientras que diez fueron deportados tras ser detectados en el sistema con alertas de restricción."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "a21047f8e67e",
       "title": "El mercado inmobiliario de EU siguió bajo presión en julio",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "4c406805927d",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy martes 18 de agosto: Harfuch presume en Argentina y frente a la DEA estrategia de seguridad en México",
-      "summary": "El secretario de Seguridad y Protección Ciudadana de México, Omar García Harfuch, anunció durante la 40ª Conferencia Internacional para el Control de Drogas en Buenos Aires que México mantiene 155 órdenes de captura con fines de extradición a EE. UU. y resaltó la cooperación de la administración de Claudia Sheinbaum con la DEA.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/18/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-martes-18-de-agosto/",
-      "published_at": "2026-08-19T03:37:51+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono informativo y neutral, limitándose a citar declaraciones oficiales sin usar adjetivos cargados ni presentar opiniones, lo que indica una cobertura centrada.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad, destacando los logros del gobierno y la colaboración con EE. UU., omitiendo críticas sobre derechos humanos o el impacto social de las políticas de seguridad.",
-      "focus_tags": [
-        "seguridad pública",
-        "cooperación México-EEUU",
-        "ordenes de captura"
-      ],
-      "context": [
-        {
-          "label": "antecedentes de violencia",
-          "text": "México ha enfrentado históricamente altos índices de homicidios, superando los 30 000 casos en 2023, lo que ha impulsado la implementación de políticas de seguridad más agresivas."
-        },
-        {
-          "label": "cooperación bilateral",
-          "text": "Estados Unidos y México mantienen una larga colaboración en la lucha contra el narcotráfico, con la DEA organizando conferencias internacionales donde participan funcionarios mexicanos para coordinar estrategias."
-        },
-        {
-          "label": "perspectiva de otras coberturas",
-          "text": "Otros medios, como Reforma y Aristegui Noticias, subrayaron que Harfuch destacó una disminución de homicidios y recibió elogios de la DEA, un énfasis que Infobae no menciona."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "dbb88056c9e0",
-      "title": "Raquel Bigorra habla sobre la muerte de Mauro Menéndez, hermano de su hijastro: \"lo quisimos mucho en vida\"",
-      "summary": "La conductora y actriz mexicana Raquel Bigorra expresó su apoyo a la familia de la actriz Aylín Mujica tras la muerte del hermano de su hijastro, Mauro Menéndez, en Miami.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/raquel-bigorra-habla-sobre-la-muerte-de-mauro-menendez-hermano-de-su-hijastro-lo-quisimos-mucho-en-vida/",
-      "published_at": "2026-08-19T03:13:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se centra exclusivamente en la reacción personal y familiar, usando un tono emotivo pero sin referencias políticas ni lenguaje partidista.",
-      "focus_analysis": "El medio eligió el ángulo humano y emocional, resaltando la solidaridad familiar durante la alfombra roja; no aborda aspectos legales, de salud ni económicos del caso.",
-      "focus_tags": [
-        "solidaridad familiar",
-        "duelo",
-        "espectáculos"
-      ],
-      "context": [
-        {
-          "label": "Raquel Bigorra",
-          "text": "Raquel Bigorra es una conductora y actriz mexicana conocida por su participación en programas de televisión y obras de teatro, lo que le brinda una amplia audiencia en el país."
-        },
-        {
-          "label": "Aylín Mujica y familia",
-          "text": "Aylín Mujica, actriz cubano‑mexicana, perdió a su hijo mayor Mauro Menéndez el 17 de julio de 2026 a causa de un paro cardíaco, generando una gran atención mediática en México."
-        },
-        {
-          "label": "Papá por siempre",
-          "text": "El musical \"Papá por siempre\", estrenado en el Centro Cultural Teatro 2, reúne a artistas del espectáculo y sirve como escenario para la aparición pública de la familia Mujica y sus allegados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "78ed1d079f33",
-      "title": "Parkour en León: La historia de ‘Peter Jumper’ y un deporte de fuerza, agilidad y libertad",
-      "summary": "Pedro Delgado, conocido como Peter Jumper, es el pionero del parkour en la ciudad de León, España, donde tras años de obstáculos creó la Lycans Academy para enseñar la disciplina a niños, adolescentes y adultos. El artículo describe su trayectoria, los retos iniciales con vecinos y autoridades y la creciente popularidad del parkour impulsada por redes sociales.",
-      "category": "deportes",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/superdeportivo/2026/08/18/parkour-en-leon-la-historia-de-peter-jumper-y-un-deporte-de-fuerza-agilidad-y-libertad-1834003.html",
-      "published_at": "2026-08-19T03:23:18+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y positivo, sin usar vocabulario cargado ni citar fuentes polémicas; se centra en la historia personal y la comunidad, sin agenda política.",
-      "focus_analysis": "Se eligió el ángulo humano y comunitario del parkour, resaltando la iniciativa de Pedro Delgado y la expansión de la disciplina, dejando de lado el análisis institucional o económico del deporte.",
-      "focus_tags": [
-        "parkour",
-        "iniciativa local",
-        "deporte urbano"
-      ],
-      "context": [
-        {
-          "label": "origen del parkour",
-          "text": "El parkour surgió en Francia a finales del siglo XX como una disciplina de movimiento eficiente, y se popularizó mundialmente a través de internet en la década de 2010."
-        },
-        {
-          "label": "desarrollo de espacios urbanos para deportes",
-          "text": "En varias ciudades españolas, como Barcelona y Madrid, los ayuntamientos han creado áreas específicas para actividades como parkour y skate, reconociendo su valor para la juventud."
-        },
-        {
-          "label": "reacción de la comunidad local",
-          "text": "En León, la iniciativa de Pedro Delgado enfrentó inicialmente escepticismo de vecinos y la policía, pero con el tiempo la comunidad y las redes sociales han apoyado la expansión del parkour, reflejando una tendencia similar en otras ciudades."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "4d0bd3c5b9a8",
-      "title": "Tampico se prepara para vibrar al ritmo del jazz mundial: Sectur",
-      "summary": "El secretario de Turismo de Tamaulipas, Benjamín Hernández Rodríguez, anunció la segunda edición del Festival Internacional de Jazz Tampico, que se celebrará del 21 al 25 de octubre de 2026, junto al Gran Fondo Tampico, como parte de la estrategia estatal para impulsar el turismo cultural y deportivo en la región.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/tampico-prepara-vibrar-ritmo-jazz-mundial-sectur-20260818-828969.html",
-      "published_at": "2026-08-19T03:04:14+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto utiliza un tono promocional, destaca los beneficios económicos y turísticos y solo cita a funcionarios oficiales, sin incluir voces críticas ni análisis de posibles inconvenientes.",
-      "focus_analysis": "El medio se centra en el ángulo económico y de desarrollo turístico del evento, resaltando su capacidad para atraer visitantes y generar ingresos, mientras omite el impacto social y ambiental en la comunidad local.",
-      "focus_tags": [
-        "turismo cultural",
-        "evento musical",
-        "desarrollo económico"
-      ],
-      "context": [
-        {
-          "label": "estadísticas de turismo",
-          "text": "Según datos de la Secretaría de Turismo de Tamaulipas, el estado recibió más de 17 millones de visitantes en 2025 y espera que esa cifra crezca en 2026, impulsada por eventos como el Festival de Jazz."
-        },
-        {
-          "label": "edición anterior",
-          "text": "La primera edición del Festival Internacional de Jazz Tampico obtuvo reconocimiento internacional en la Feria Internacional de Turismo (FITUR) de Madrid 2026, donde recibió el Premio Excelencias Turísticas 2025."
-        },
-        {
-          "label": "estrategia nacional",
-          "text": "El Gobierno federal de México ha puesto énfasis en diversificar la oferta turística del país, promoviendo destinos regionales y eventos culturales para competir con otros mercados de América Latina."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar correos electrónicos desde Gmail de forma autónoma, siempre que el usuario lo configure previamente y mantenga la opción de aprobar cada acción.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto emplea un tono entusiasta y destaca los beneficios de la función, sin presentar críticas ni perspectivas negativas, lo que indica un ligero sesgo positivo hacia la tecnología.",
-      "focus_analysis": "El artículo se centra en la novedad tecnológica y la comodidad que aporta la automatización de correos, mientras deja de lado un análisis profundo de los riesgos de privacidad o la regulación de IA en comunicaciones.",
-      "focus_tags": [
-        "IA",
-        "automatización de correo",
-        "Google Workspace"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Claude",
-          "text": "Claude es el modelo de lenguaje desarrollado por Anthropic, una empresa de IA enfocada en la seguridad y la alineación de sistemas de inteligencia artificial."
-        },
-        {
-          "label": "Tendencias de automatización de correo",
-          "text": "En los últimos años, varios proveedores de servicios de correo han introducido funciones basadas en IA que ayudan a redactar respuestas y gestionar bandejas de entrada, como Gmail Smart Reply y Microsoft Outlook Copilot."
-        },
-        {
-          "label": "Preocupaciones de privacidad y regulación",
-          "text": "Organizaciones y reguladores han expresado inquietudes sobre el acceso de IA a datos personales y la necesidad de mecanismos claros de consentimiento y auditoría para evitar abusos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "990c511df2f9",
-      "title": "Juan Manuel Cerúndolo cayó ante Auger-Aliassime y se despidió del Masters 1000 de Cincinnati",
-      "summary": "Juan Manuel Cerúndolo, tenista argentino, fue eliminado en la tercera ronda del Masters 1000 de Cincinnati tras perder 7‑5 y 6‑1 contra el canadiense Félix Auger‑Aliassime.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/juan-manuel-cerundolo-cayo-ante-auger-aliassime-y-se-despidio-del-masters-1000-de-cincinnati/",
-      "published_at": "2026-08-19T02:56:35+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el resultado del partido y el historial del jugador sin usar lenguaje cargado ni referencias políticas, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El artículo se centra en el desempeño deportivo de Cerúndolo y su trayectoria, dejando de lado aspectos institucionales o económicos del torneo.",
-      "focus_tags": [
-        "tenis",
-        "Cincinnati Masters",
-        "Juan Manuel Cerúndolo"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Cerúndolo",
-          "text": "Juan Manuel Cerúndolo alcanzó su mejor ranking (número 42) en junio de 2026 y destacó en Roland Garros al vencer al número 1 del mundo, Jannik Sinner, en la segunda ronda."
-        },
-        {
-          "label": "Perfil de Auger‑Aliassime",
-          "text": "Félix Auger‑Aliassime, número 4 del ranking mundial, ha llegado a los octavos de final del Masters de Cincinnati en cinco de sus últimas seis ediciones, demostrando consistencia en el torneo."
-        },
-        {
-          "label": "Importancia del Masters 1000 de Cincinnati",
-          "text": "El Masters 1000 de Cincinnati es una de las ocho competiciones de mayor nivel del ATP Tour y sirve como preparación clave para el US Open, que comienza a finales de agosto."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
