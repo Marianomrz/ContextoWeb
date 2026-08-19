@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T02:01:23.246696+00:00",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, pero la falta de fuentes múltiples limita ligeramente la profundidad del contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:01:37.997909+00:00",
-      "title": "La empresa que piensa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, ofreciendo información veraz, contrastada y objetiva, con una presentación clara y actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:04:16.046515+00:00",
-      "title": "Suspenden actividades en inmueble de alcaldía Álvaro Obregón; operaba como supuesto Consulado de Nic",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de veracidad, objetividad y actualidad, aunque podría mejorar la variedad de fuentes para ofrecer mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:04:23.328180+00:00",
-      "title": "Litter-Robot 5 Pro: el arenero inteligente de 899 dólares que limpia solo pero no reconoce a tus gat",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los requisitos de actualidad y estructura, pero la falta de fuentes confiables y de evidencia verificable reduce su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:04:33.232951+00:00",
-      "title": "Banfield se enfrenta a Midland por un lugar en los cuartos de final de la Copa Argentina",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque presenta leves imprecisiones factuales que deberían revisarse antes de la publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:04:46.670603+00:00",
-      "title": "Ricardo Monreal recomienda a los ministros alcanzar “un acuerdo” para elegir en 2027 al próximo pres",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual pero presenta imprecisiones y carece de fuentes contrastantes, reduciendo su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:04:54.154019+00:00",
-      "title": "García Harfuch destaca en Buenos Aires resultados de la UIF en el combate a delitos financieros",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de manera clara y estructurada, aunque la verificación externa de cifras específicas podría reforzar la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:05:02.954516+00:00",
-      "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El artículo es actual y objetivo, pero contiene un error factual importante y carece de fuentes contrastadas, lo que reduce su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:05:17.606512+00:00",
-      "title": "La empresa que piensa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es en general sólido y cumple con los criterios editoriales, aunque la ausencia de citas específicas reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:20:39.281177+00:00",
-      "title": "Sorteo Especial 315: Resultados martes 18 de agosto del 2026 de la Lotería Nacional",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares periodísticos de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para mayor robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:20:48.175235+00:00",
-      "title": "Estudiantes le gana a la Universidad Católica en Chile por la revancha de la serie de octavos de la ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete es mayormente adecuado, pero contiene algunos errores menores de precisión que reducen ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T02:20:56.602732+00:00",
       "title": "\"Estamos hartos de tener escuelas de cuarta\"; alcaldes acuden a San Lázaro para pedir fondo federal ",
       "kind": "noticia",
@@ -3386,6 +3199,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz y objetiva, bien estructurada y oportuna, con una sola mejora posible en la inclusión de fuentes directas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:04.770490+00:00",
+      "title": "Eco de los trenes nocturnos: la memoria de la dictadura en Nona Fernández",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.0,
+      "scores": {
+        "originalidad_creatividad": 5,
+        "riqueza_estilo": 6,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto es competente y cumple con la mayoría de los estándares literarios, aunque la presencia de obras y fechas que parecen inventadas le resta credibilidad y originalidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:11.548398+00:00",
+      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo cumple con la actualidad y la estructura, pero la precisión de datos y la falta de fuentes contrastantes reducen su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:20.861732+00:00",
+      "title": "Un rumor apunta a que el iPhone 18 Pro Max tendrá en exclusiva las grandes novedades de cámara",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general adecuado, aunque la falta de fuentes oficiales limita la verificación completa del rumor.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:27.028266+00:00",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 19 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales: es preciso, objetivo, actual y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:33.247405+00:00",
+      "title": "Se declara un gran incendio en un centro de reciclaje del sureste de Londres",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, objetiva y bien estructurada con fuentes confiables y contexto adecuado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:38.556761+00:00",
+      "title": "Detienen a síndica de Yautepec relacionada en ataque armado durante el partido México-Ecuador; habrí",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general, el paquete cumple con los requisitos básicos de una noticia reciente y estructurada, pero necesita mayor contraste de fuentes para reforzar la credibilidad y la imparcialidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:45.996641+00:00",
+      "title": "Murió a los 11 años en una carrera de karting y es el “ángel” de su amigo Nico Varrone: “Siempre est",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es enmente adecuado, pero la inexactitud sobre el fallecimiento de Guido Falaschi afecta su veracidad y requiere corrección.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T06:59:56.218352+00:00",
+      "title": "La empresa que piensa",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información interesante pero carece de verificación externa y contraste de voces, lo que limita su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:00:03.594150+00:00",
+      "title": "¿Es México un Caballo de Troya de China para entrar a Estados Unidos?",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y actualizado, pero presenta datos no verificables y una cobertura limitada de fuentes, lo que afecta su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:00:08.935414+00:00",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque podría mejorar la precisión citando fuentes concretas para las declaraciones de expertos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:00:17.330818+00:00",
+      "title": "Lluvias provocan inundaciones y socavón en Cuautitlán Izcalli: despliegan operativo de emergencia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar al incluir testimonios de afectados para una cobertura más completa.",
       "error": null
     }
   ]
