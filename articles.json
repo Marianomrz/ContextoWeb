@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T23:33:08.939261+00:00",
+  "generated_at": "2026-08-19T23:42:22.227225+00:00",
   "articles": [
+    {
+      "id": "451866db0ff0",
+      "title": "Gobierno de México atribuye caída de su página a corte de conectividad",
+      "summary": "El Gobierno de México, mediante la Agencia de Transformación Digital y Telecomunicaciones, informó que la caída del portal oficial www.gob.mx se debió a un corte de conectividad y que los servicios digitales volverían a estar disponibles en aproximadamente 25 minutos.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/gobierno-de-mexico-atribuye-caida-de-su-pagina-a-corte-de-conectividad/",
+      "published_at": "2026-08-19T23:35:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje neutro, se limita a citar a la agencia oficial y no incluye expresiones cargadas ni fuentes partidistas, manteniendo un enfoque informativo.",
+      "focus_analysis": "El medio se centró en el aspecto técnico y institucional del fallo, resaltando la explicación de la agencia y el tiempo de recuperación, mientras que el impacto humano y las posibles causas políticas quedan poco explorados.",
+      "focus_tags": [
+        "corte de conectividad",
+        "servicios digitales",
+        "portal gob.mx"
+      ],
+      "context": [
+        {
+          "label": "Agencia de Transformación Digital y Telecomunicaciones",
+          "text": "Esta dependencia del gobierno federal es responsable de la operatividad y seguridad de los servicios digitales oficiales, incluido el portal gob.mx, y suele comunicar interrupciones técnicas al público."
+        },
+        {
+          "label": "Historial de interrupciones",
+          "text": "El portal del Gobierno de México ha experimentado varias caídas temporales en años recientes, provocando inconvenientes a usuarios que realizan trámites en línea."
+        },
+        {
+          "label": "Cobertura de medios",
+          "text": "Otros medios, como el periódico Reforma, también informaron del corte de conectividad citando a la misma agencia, resaltando el carácter técnico del problema sin añadir opiniones políticas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "74d2ba3c4e91",
+      "title": "Meta AI lanza su app para Mac con una función que preocupa a ChatGPT y Claude",
+      "summary": "Meta AI, la unidad de inteligencia artificial de Meta Platforms, lanzó una aplicación nativa para Mac con Apple Silicon que permite interactuar con el chatbot mediante teclado, voz y acceso a contenidos de pantalla, aunque requiere permisos de grabación que generan inquietud sobre la privacidad del usuario.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/meta-ai-app-mac-nueva-funcion/",
+      "published_at": "2026-08-19T19:19:00+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto utiliza expresiones críticas como \"no resulta muy recomendable\" y \"el problema aquí es\" al describir los permisos de acceso, resaltando riesgos de privacidad y presentando a Mark Zuckerberg de forma poco favorable, lo que indica un sesgo ligeramente izquierdista.",
+      "focus_analysis": "El artículo se centra en los aspectos tecnológicos y de privacidad de la nueva app, destacando sus funcionalidades y los riesgos de compartir información, mientras deja de lado el análisis de su impacto comercial o la estrategia competitiva de Meta en el mercado de IA.",
+      "focus_tags": [
+        "aplicación Mac",
+        "IA generativa",
+        "privacidad datos"
+      ],
+      "context": [
+        {
+          "label": "Competencia en IA",
+          "text": "Meta Platforms ha intensificado su inversión en IA para competir con OpenAI y Anthropic, lanzando productos como Gemini y ahora esta app para Mac para retener usuarios y reducir la ventaja de ChatGPT y Claude."
+        },
+        {
+          "label": "Entorno Apple",
+          "text": "Los ordenadores Mac con chip Apple Silicon y macOS 15 han crecido en popularidad entre profesionales, lo que hace atractivo para Meta ofrecer una herramienta integrada que aproveche las capacidades nativas del sistema."
+        },
+        {
+          "label": "Preocupaciones de privacidad",
+          "text": "Los asistentes de IA que requieren permisos de grabación de pantalla y accesibilidad han generado debate sobre la protección de datos personales y la exposición de información confidencial en entornos de trabajo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "59cc57fe5a94",
+      "title": "Platense empata contra Coquimbo en busca de un pase histórico a los cuartos de la Copa Libertadores",
+      "summary": "El club argentino Platense y el equipo chileno Coquimbo Unido empataron 1-1 en el partido de vuelta de la fase de grupos de la Copa Libertadores, manteniendo viva la posibilidad de alcanzar los cuartos de final, un logro histórico para ambos clubes.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/platense-buscara-seguir-haciendo-historia-en-la-copa-libertadores-ante-coquimbo-hora-tv-y-formaciones/",
+      "published_at": "2026-08-19T23:35:55+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido y su contexto deportivo sin usar un cargados ni favorecer a ninguna posición política o institucional.",
+      "focus_analysis": "El medio se centró en la narrativa del encuentro y su relevancia histórica para los equipos, dejando de lado aspectos económicos o sociales del torneo.",
+      "focus_tags": [
+        "copa libertadores",
+        "Platense",
+        "Coquimbo Unido"
+      ],
+      "context": [
+        {
+          "label": "Formato de la Copa Libertadores",
+          "text": "La Copa Libertadores es el principal torneo de clubes de América del Sur, con una fase de grupos seguida de rondas de eliminación directa que culminan en los cuartos de final, semifinales y la final."
+        },
+        {
+          "label": "Historial internacional de Platense",
+          "text": "Platense, fundado en 1905, rara vez ha participado en torneos internacionales; su presencia en la Copa Libertadores 2026 representa una de sus primeras incursiones en la máxima competencia continental."
+        },
+        {
+          "label": "Experiencia de Coquimbo Unido en la Libertadores",
+          "text": "Coquimbo Unido, club chileno con más de un siglo de historia, solo jugó la Copa Libertadores en 1992 y su mejor desempeño reciente fue llegar a las semifinales de la Copa Sudamericana en 2020."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "3069a7047d7c",
+      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
+      "summary": "Google anunció que ofrecerá un año gratuito de Google AI Plus, que incluye mayor almacenamiento y acceso a funciones avanzadas de Gemini, a estudiantes universitarios de todo el mundo que cumplan con los requisitos de matrícula.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades-gemini/",
+      "published_at": "2026-08-19T20:47:50+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono entusiasta y promocional, resaltando los beneficios sin presentar críticas ni perspectivas alternativas, lo que indica una ligera inclinación favorable hacia la empresa pero sin sesgo político evidente.",
+      "focus_analysis": "El artículo se centra en la promoción del producto y sus ventajas para estudiantes, dejando de lado aspectos como la competencia con otras IA, la privacidad de datos o el impacto económico para Google.",
+      "focus_tags": [
+        "educación",
+        "inteligencia artificial",
+        "promoción"
+      ],
+      "context": [
+        {
+          "label": "Google AI Plus",
+          "text": "Google AI Plus es un plan de suscripción que brinda 400 GB de almacenamiento en la nube y amplía los límites de uso de Gemini, además de incluir herramientas como Nano Banana Pro y Veo 3.1."
+        },
+        {
+          "label": "Competencia en IA",
+          "text": "La oferta llega en un momento en que OpenAI y Anthropic están impulsando sus propios servicios, como ChatGPT y Claude, lo que ha intensificado la rivalidad en el mercado de IA generativa."
+        },
+        {
+          "label": "Tendencia de descuentos estudiantiles",
+          "text": "Varias compañías de tecnología, como Microsoft y Adobe, han lanzado programas de acceso gratuito o con descuento para estudiantes, buscando captar a usuarios jóvenes y fomentar la adopción temprana de sus plataformas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "6ceff483a213",
+      "title": "Nadie escapa de Widow’s Bay",
+      "summary": "El artículo de Letras Libres analiza la serie de Apple TV+ \"La maldición de Widow’s Bay\", resaltando su mezcla de horror y referencias pop para criticar el liderazgo local y la identidad comunitaria en Estados Unidos, mientras la compara con otras producciones como Parks and Recreation y Atlanta.",
+      "category": "sociedad",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/cine-tv/nadie-escapa-de-widows-bay/19/08/2026/",
+      "published_at": "2026-08-19T23:20:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono crítico‑analítico sin usar vocabulario cargado ni citar fuentes partidistas; se centra en la obra cultural y su contexto, manteniéndose neutral respecto a la política.",
+      "focus_analysis": "El medio elige un ángulo cultural‑sociológico, explorando cómo la serie refleja y cuestiona la autoridad local y la psique colectiva americana, dejando de lado la evaluación de su éxito comercial o la recepción del público.",
+      "focus_tags": [
+        "cultura pop",
+        "análisis televisivo",
+        "liderazgo comunitario"
+      ],
+      "context": [
+        {
+          "label": "Serie original",
+          "text": "\"La maldición de Widow’s Bay\" es una producción de Apple TV+ creada por Katie Dippold y dirigida por Hiro Murai, que combina horror, humor y referencias a la cultura popular para narrar la historia de un alcalde que intenta transformar su pueblo en un destino turístico."
+        },
+        {
+          "label": "Katie Dippold",
+          "text": "Katie Dippold, guionista de la exitosa comedia Parks and Recreation, aporta a la serie su experiencia en el retrato de la burocracia local y la aspiración a la popularidad política."
+        },
+        {
+          "label": "Comparación con Atlanta",
+          "text": "El director Hiro Murai, también conocido por su trabajo en la serie Atlanta, introduce en \"Widow’s Bay\" un estilo surrealista que recuerda la crítica social y la representación de la experiencia afroamericana que caracterizan a Atlanta."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "ea414bd4c89f",
+      "title": "Hombres armados queman camión de basura de Pénjamo durante narcobloqueos en Michoacán",
+      "summary": "Durante los narcobloqueos en Michoacán, hombres armados incendiaron un camión recolector de basura del municipio de Pénjamo, dejando a los trabajadores ilesos mientras autoridades locales y federales reforzaron la seguridad en la zona.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/guanajuato-sur/2026/08/19/hombres-armados-queman-camion-de-basura-de-penjamo-durante-narcobloqueos-en-michoacan-1834304.html",
+      "published_at": "2026-08-19T23:40:15+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto usa expresiones como \"despojaron con lujo de violencia\" y enfatiza la respuesta policial y militar, citando mayormente al gobierno, sin ofrecer críticas o perspectivas alternativas sobre los cárteles.",
+      "focus_analysis": "El medio se centra en la violencia del hecho y la reacción de seguridad, dejando de lado el contexto del conflicto entre cárteles y el impacto socio‑económico para la población local.",
+      "focus_tags": [
+        "seguridad pública",
+        "narcotráfico",
+        "violencia en carreteras"
+      ],
+      "context": [
+        {
+          "label": "background",
+          "text": "Los narcobloqueos son una táctica frecuente de los cárteles en Michoacán, especialmente del Cartel Jalisco Nueva Generación, para bloquear carreteras y presionar a las autoridades tras operativos federales."
+        },
+        {
+          "label": "comparative",
+          "text": "Incidentes similares, como el ataque a vehículos municipales en otras regiones de México, demuestran un patrón de intimidación contra la infraestructura pública por parte de grupos armados."
+        },
+        {
+          "label": "other_media",
+          "text": "Coberturas internacionales, como la de BBC News Mundo y Infobae México, pusieron mayor énfasis en la participación del Cartel Jalisco Nueva Generación y en la operación contra el líder conocido como \"Tío Lako\", resaltando el conflicto de cárteles más allá del incidente local."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "7d8909140d4e",
       "title": "Google lanza herramientas de estudio en Gemini y su buscador",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.8
-      }
-    },
-    {
-      "id": "379c16b9d7d0",
-      "title": "Pánico en Salamanca: matan a balazos a una comerciante dentro del tianguis Solidaridad",
-      "summary": "Una mujer entre 40 y 45 años, que vendía ocasionalmente en el tianguis Solidaridad de Salamanca, Guanajuato, fue asesinada a tiros dentro del mercado el la tarde del 19 de agosto, y la Fiscalía del Estado está investigando el caso.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/salamanca/2026/08/19/panico-en-salamanca-matan-a-balazos-a-una-comerciante-dentro-del-tianguis-solidaridad-1834280.html",
-      "published_at": "2026-08-19T22:50:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos delictivos y la respuesta policial sin emplear un lenguaje cargado ni presentar opiniones políticas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en los detalles del ti y la reacción inmediata de la policía, dejando de lado un análisis sobre la inseguridad en los tianguis o las condiciones de los vendedores informales.",
-      "focus_tags": [
-        "crimen",
-        "tianguis",
-        "seguridad pública"
-      ],
-      "context": [
-        {
-          "label": "Seguridad en Salamanca",
-          "text": "En los últimos meses, Salamanca ha registrado un aumento de incidentes violentos en espacios públicos, lo que ha llevado a las autoridades locales a reforzar la presencia policial en mercados y tianguis."
-        },
-        {
-          "label": "Importancia de los tianguis",
-          "text": "Los tianguis son una pieza clave de la economía informal mexicana, donde miles de comerciantes venden productos de manera temporal, a menudo sin la protección de contratos formales."
-        },
-        {
-          "label": "Procedimientos policiales ante tios",
-          "text": "Según la normativa del Estado de Guanajuato, los disparos en lugares concurridos obligan a la intervención inmediata de la Policía Municipal y la remisión del caso a la Fiscalía para su investigación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "3069a7047d7c",
-      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
-      "summary": "Google, el gigante tecnológico, anunció que ofrecerá gratuitamente durante un año su servicio Google AI Plus a estudiantes universitarios matriculados en instituciones de educación superior de todo el mundo, incluyendo mayor almacenamiento y acceso a Gemini 3.1 Pro.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/google-ai-plus-gratis-novedades-gemini/",
-      "published_at": "2026-08-19T20:47:50+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo emplea un tono entusiasta y destaca solo los beneficios de la oferta, sin mencionar críticas ni aspectos negativos, lo que indica una cobertura favorable hacia Google.",
-      "focus_analysis": "Se centra en los beneficios tecnológicos y educativos de la promoción, dejando de lado discusiones sobre privacidad, estrategia competitiva o posibles limitaciones del servicio.",
-      "focus_tags": [
-        "tecnología educativa",
-        "oferta promocional",
-        "IA generativa"
-      ],
-      "context": [
-        {
-          "label": "Competencia en IA",
-          "text": "Google lanza la promoción para contrarrestar el crecimiento de competidores como ChatGPT de OpenAI y Claude de Anthropic, que también ofrecen suscripciones de IA."
-        },
-        {
-          "label": "Descuentos estudiantiles en tecnología",
-          "text": "Empresas como Microsoft y Adobe suelen ofrecer versiones gratuitas o con descuento de sus plataformas a estudiantes, una práctica que busca fidelizar a futuros profesionales."
-        },
-        {
-          "label": "Privacidad y datos",
-          "text": "Aunque la oferta destaca nuevas funcionalidades, no se aborda el tema de la recopilación y uso de datos de los usuarios dentro de los servicios de IA de Google."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.0
-      }
-    },
-    {
-      "id": "545e92252447",
-      "title": "El príncipe Harry y su esposa Meghan regresarán a vivir a Reino Unido con sus hijos tras 6 años en EE.UU.",
-      "summary": "El príncipe Harry, duque de Sussex, y su esposa Meghan, duquesa de Sussex, volverán a residir en el Reino Unido con sus hijos Archie y Lilibet después de seis años en Estados Unidos, según informó la BBC.",
-      "category": "sociedad",
-      "source_name": "BBC News Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c8rnzm08y78o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T22:25:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje descriptivo y neutro, sin adjetivos cargados ni énfasis ideológico; presenta fuentes británicas sin favorecer una postura política.",
-      "focus_analysis": "El artículo se centra en la decisión familiar y la dinámica interna de la Casa Real, resaltando la mudanza y la seguridad, mientras omite cualquier análisis sobre el impacto institucional o político de la monarquía.",
-      "focus_tags": [
-        "familia real",
-        "mudanza",
-        "seguridad"
-      ],
-      "context": [
-        {
-          "label": "Salida de 2020",
-          "text": "Harry y Meghan abandonaron el Reino Unido a principios de 2020 tras anunciar su alejamiento de los deberes oficiales y trasladarse a California."
-        },
-        {
-          "label": "Conflicto de seguridad",
-          "text": "El duque de Sussex perdió una batalla legal en 2023 sobre la reducción de su protección policial, argumentando que la falta de seguridad había impedido su regreso."
-        },
-        {
-          "label": "Reacción de la familia real",
-          "text": "El rey Carlos III, al tanto del plan de regreso, mostró una postura comprensiva, mientras que el príncipe William y la princesa Kate fueron informados de la mudanza."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "89965ab901d1",
-      "title": "River Plate abrirá su serie de octavos de final de la Copa Sudamericana ante Independiente Santa Fe: hora, TV y formaciones",
-      "summary": "River Plate, club de fútbol argentino, abrirá su serie de octavos de final de la Copa Sudamericana contra Independiente Santa Fe, equipo colombiano, en el estadio El Campín de Bogotá a las 21:30 hora local, con transmisión por ESPN y Disney+. El partido se en en un contexto de solidaridad tras el terremoto que afectó a Colombia y de una polémica logística para la barra del club argentino.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/river-plate-abrira-su-serie-de-octavos-de-final-de-la-copa-libertadores-ante-independiente-santa-fe-hora-tv-y-formaciones/",
-      "published_at": "2026-08-19T22:30:54+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto es mayormente descriptivo y neutral, pero emplea expresiones coloquiales argentinas como \"Argentina, tomala o dejala\", lo que indica una ligera inclinación nacionalista sin sesgo político evidente.",
-      "focus_analysis": "El medio prioriza la información logística del encuentro (horario, transmisión, alineaciones) y el aspecto humano de la afición y la solidaridad tras el terremoto, mientras omite análisis táctico del juego y la repercusión del resultado en la clasificación del torneo.",
-      "focus_tags": [
-        "copa sudamericana",
-        "river plate",
-        "independiente santa fe"
-      ],
-      "context": [
-        {
-          "label": "Formato del torneo",
-          "text": "La Copa Sudamericana es la segunda competición de clubes de la CONMEBOL, con una fase de octavos de final en la que los equipos se enfrentan en partidos de ida y vuelta para avanzar a los cuartos."
-        },
-        {
-          "label": "Rendimiento reciente de River Plate",
-          "text": "River Plate llega a la Copa Sudamericana tras una campaña exitosa en el Torneo Clausura argentino, ocupando los primeros puestos de la tabla y mostrando un plantel sólido bajo la dirección de Eduardo Coudet."
-        },
-        {
-          "label": "Impacto del terremoto en Colombia",
-          "text": "El terremoto que sacudió la zona norte de Colombia provocó una movilización solidaria de Independiente Santa Fe, que solicitó donaciones a sus hinchas para ayudar a las familias afectadas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "95de9fe48340",
-      "title": "Diputado del PAN impulsa que despojo deje de ser delito de consumación instantánea; pide que continúe mientras exista la ocupación ilegal",
-      "summary": "El diputado local del PAN, Mario Sánchez, propuso modificar el Código Penal de la Ciudad de México para que el delito de despojo se mantenga activo mientras persista la ocupación ilegal de un inmueble, en lugar de considerarse consumado al instante de la invasión.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/diputado-del-pan-impulsa-que-despojo-deje-de-ser-delito-de-consumacion-instantanea-pide-que-continue-mientras-exista-la-ocupacion-ilegal/",
-      "published_at": "2026-08-19T22:34:49+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto presenta la iniciativa del PAN de forma favorable, sin incluir voces críticas ni alternativas, y utiliza un lenguaje que enfatiza la defensa de los propietarios, lo que indica una ligera inclinación hacia la posición del partido gobernante.",
-      "focus_analysis": "El medio se centra en el aspecto jurídico‑institucional de la reforma penal y en la protección de los derechos de los propietarios, dejando de lado el contexto social de la ocupación ilegal y las posibles implicaciones de derechos humanos para los ocupantes.",
-      "focus_tags": [
-        "reforma penal",
-        "despojo",
-        "ocupación ilegal"
-      ],
-      "context": [
-        {
-          "label": "Marco legal actual",
-          "text": "En la Ciudad de México, la jurisprudencia de la Suprema Corte ha interpretado que el delito de despojo se consuma al instante de la ocupación ilegal, lo que impide que las autoridades continúen procesando el hecho después de ese momento."
-        },
-        {
-          "label": "Aumento de ocupaciones ilegales",
-          "text": "En los últimos años ha crecido el número de casos de ocupación ilegal de viviendas en la capital mexicana, generando incertidumbre y pérdidas económicas para cientos de familias propietarias."
-        },
-        {
-          "label": "Reacción de otros partidos",
-          "text": "Partidos de oposición como MORENA y el PRD han manifestado su preocupación por que la medida pueda vulnerar derechos de los ocupantes y solicitan garantías que eviten abusos en su aplicación."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "a39dff4a2dd2",
-      "title": "Parque Nacional El Chico, Hidalgo: rutas de escalada y bosques de niebla cerca de Pachuca",
-      "summary": "El Parque Nacional El Chico, ubicado en Hidalgo cerca de Pachuca, es una de las áreas protegidas más antiguas de México, conocida por sus bosques de niebla, su rica biodiversidad y sus más de 200 rutas de escalada que atraen a ecoturistas durante todo el año.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/parque-nacional-el-chico-hidalgo-rutas-de-escalada-y-bosques-de-niebla-cerca-de-pachuca/",
-      "published_at": "2026-08-19T22:35:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin palabras cargadas ni fuentes con sesgo político; se centra en la información turística y ambiental sin enfatizar ninguna postura ideológica.",
-      "focus_analysis": "El medio eló el ecoturismo y la riqueza natural del parque, resaltando actividades recreativas y la biodiversidad, mientras omite el impacto económico local y los desafíos de conservación.",
-      "focus_tags": [
-        "ecoturismo",
-        "biodiversidad",
-        "actividades al aire libre"
-      ],
-      "context": [
-        {
-          "label": "Historia del parque",
-          "text": "El Parque Nacional El Chico fue declarado oficialmente en 1898 bajo el gobierno de Porfirio Díaz, convirtiéndose en una de las áreas protegidas más antiguas de México."
-        },
-        {
-          "label": "Riqueza biológica",
-          "text": "El parque alberga aproximadamente 545 especies vasculares y 97 especies de fauna, de las cuales 16 están catalogadas como en riesgo, destacándose los bosques de oyamel, pino y encino."
-        },
-        {
-          "label": "Importancia regional",
-          "text": "Situado en la Sierra de Pachuca, el parque juega un papel clave en la captación pluvial y recarga de acuíferos, contribuyendo al equilibrio hídrico del Valle de México y la cuenca del río Pánuco."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
