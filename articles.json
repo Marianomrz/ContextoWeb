@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-19T01:21:44.097503+00:00",
+  "generated_at": "2026-08-19T01:41:29.662361+00:00",
   "articles": [
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, la inteligencia artificial de Anthropic, ahora puede redactar y enviar correos desde Gmail de forma autónoma, siempre que el usuario haya activado previamente esa opción y mantenga la posibilidad de exigir aprobación explícita.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, sin cargar juicios políticos ni seleccionar fuentes con sesgo; se limita a explicar la nueva funcionalidad y sus controles.",
+      "focus_analysis": "El artículo se centra en la innovación tecnológica y la experiencia del usuario al automatizar correos, dejando de lado un análisis profundo de los riesgos de privacidad y seguridad que implica la autonomía de la IA.",
+      "focus_tags": [
+        "IA",
+        "automatización de correo",
+        "Google Workspace"
+      ],
+      "context": [
+        {
+          "label": "Evolución de Claude",
+          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores, pero el envío siempre lo realizaba el usuario."
+        },
+        {
+          "label": "Competencia en IA de correo",
+          "text": "Otros proveedores, como Microsoft con Copilot y Google con Smart Reply, ya ofrecen funciones de respuesta automática basadas en IA, aunque con distintos niveles de control del usuario."
+        },
+        {
+          "label": "Debate sobre privacidad y seguridad",
+          "text": "Expertos en ciberseguridad advierten que permitir que una IA envíe mensajes sin supervisión puede generar riesgos de filtración de información o envío de contenido inapropiado."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "5be0c223634e",
+      "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
+      "summary": "El ministro de Asuntos Exteriores de Francia, Jean‑Noël Barrot, anunció que expulsará en los próximos días a dos diplomáticos iraníes como represalia por la agresión contra dos representantes franceses en Irán el pasado julio.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/francia-anuncia-expulsión-de-dos-diplomáticos-iraníes/a-78420954?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-19T00:47:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin adjetivos cargados ni selección de fuentes que favorezcan una posición política clara.",
+      "focus_analysis": "El medio se centra en el aspecto diplomático y de seguridad internacional del incidente, dejando de lado análisis sobre la política interna de Irán o las implicaciones de derechos humanos.",
+      "focus_tags": [
+        "diplomacia",
+        "relaciones internacionales",
+        "tensión diplomática"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "En julio de 2026, fuerzas de seguridad iraníes detuvieron y agredieron a dos diplomáticos franceses, acusando a los representantes de actividades de apoyo a la sociedad civil iraní."
+        },
+        {
+          "label": "Marco legal",
+          "text": "Según la Convención de Viena sobre Relaciones Diplomáticas, los diplomáticos gozan de inmunidad y cualquier agresión constituye una violación grave que puede justificar la expulsión de personal extranjero."
+        },
+        {
+          "label": "Reacción internacional",
+          "text": "Otros países occidentales han expresado preocupación por el trato de Irán a los diplomáticos extranjeros y han señalado la necesidad de respetar la inmunidad diplomática."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "3b02099dd014",
+      "title": "INECC alista plataforma para que estados y municipios anticipen riesgos climáticos",
+      "summary": "El Instituto Nacional de Ecología y Cambio Climático (INECC) de México está finalizando la Plataforma Nacional de Riesgos Climáticos de Adaptación, una herramienta digital que permitirá a estados y municipios identificar y anticipar los impactos del fenómeno El Niño 2026‑2027 y evaluar los costos de la inacción.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/estados/inecc-alista-plataforma-estados-municipios-anticipen-riesgos-climaticos-20260818-828935.html",
+      "published_at": "2026-08-19T01:30:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo y neutral, sin expresiones cargadas ni fuentes partidistas, y se centra en describir el proyecto y sus componentes técnicos.",
+      "focus_analysis": "El medio se concentra en el aspecto institucional y técnico del nuevo sistema de gestión de riesgos climáticos, dejando de lado la dimensión humana o los posibles efectos sociales directos.",
+      "focus_tags": [
+        "clima",
+        "adaptación",
+        "política pública"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Hasta ahora, México contaba con el Atlas Nacional de Vulnerabilidad al Cambio Climático, una herramienta considerada obsoleta que no incorporaba el enfoque de riesgo del IPCC."
+        },
+        {
+          "label": "marco internacional",
+          "text": "El Panel Intergubernamental de Cambio Climático (IPCC) ha promovido desde hace años la evaluación de riesgos climáticos basados en escenarios, una metodología que ahora México incorpora en su nueva plataforma."
+        },
+        {
+          "label": "financiamiento",
+          "text": "El proyecto está financiado con 2.8 millones de dólares del Fondo Verde para el Clima, en el marco de la Política Nacional de Adaptación coordinada por Semarnat y otras dependencias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "42603ef9fbea",
+      "title": "El sincericidio del técnico de Recoleta ante las cámaras en medio de la goleada de Boca por la Copa Sudamericana",
+      "summary": "El técnico Jorge González del Deportivo Recoleta de Paraguay admitió su derrota ante Boca Juniors en la segunda fase de los octavos de final de la Copa Sudamericana, tras perder 4‑0 en Asunción.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/el-sincericidio-del-tecnico-de-recoleta-ante-las-camaras-en-medio-de-la-goleada-de-boca-por-la-copa-sudamericana/",
+      "published_at": "2026-08-19T01:33:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el partido y la reacción del entrenador con un lenguaje sensacionalista pero sin sesgo político ni favorecimiento explícito de ninguna de las partes.",
+      "focus_analysis": "El artículo se centra en el resultado del encuentro y la confesión del técnico de Recoleta, resaltando la superioridad de Boca Juniors; omite análisis táctico profundo y aspectos financieros del torneo.",
+      "focus_tags": [
+        "Copa Sudamericana",
+        "Boca Juniors",
+        "Deportivo Recoleta"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del duelo",
+          "text": "En el primer partido de los octavos de final disputado en la Argentina, Boca Juniors había vencido 3‑1 a Deportivo Recoleta, dejando una ventaja de dos goles de cara al regreso en Asunción."
+        },
+        {
+          "label": "situación de Boca Juniors",
+          "text": "Boca Juniors, histórico club argentino, se encontraba en la zona A de la Copa Sudamericana con seis puntos, próximo a la clasificación a los cuartos de final tras la victoria 4‑0."
+        },
+        {
+          "label": "próximo compromiso de Recoleta",
+          "text": "Tras la derrota, Deportivo Recoleta se prepara para enfrentar a Sportivo Ameliano en la sexta fecha de la Primera División de Paraguay, buscando recuperarse en la liga local."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "895fba1e7b27",
+      "title": "La Casa de los Famosos México 2026 en vivo: concluye la primera jornada de la Prueba Semanal",
+      "summary": "En la edición 2026 de \"La Casa de los Famosos México\", la concursante Gema Garoa obtuvo la inmunidad y el poder de nominación al ganar la prueba del líder, mientras se reactivó la dinámica del Elevador del Destino para iniciar la cuarta semana del reality transmitido por Televisa y disponible en ViX+.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/18/la-casa-de-los-famosos-mexico-2026-en-vivo-en-que-habitacion-quedo-cada-jugador-tras-cierre-de-cuarto-ibiza/",
+      "published_at": "2026-08-19T01:34:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del programa con un lenguaje neutro y sin palabras cargadas ni selección de fuentes que favorezcan una postura política.",
+      "focus_analysis": "El medio se centra en el desarrollo de la competencia y los momentos de drama entre los participantes, dejando de lado cualquier análisis sobre el impacto cultural o mediático del reality.",
+      "focus_tags": [
+        "reality show",
+        "competencia",
+        "entretenimiento"
+      ],
+      "context": [
+        {
+          "label": "formato del programa",
+          "text": "La Casa de los Famosos México es la versión local del reality de convivencia internacional, producido por Televisa y transmitido 24/7 en la plataforma de streaming ViX+, donde los participantes viven aislados y compiten en pruebas semanales."
+        },
+        {
+          "label": "antecedentes de audiencia",
+          "text": "En temporadas anteriores el programa ha registrado altos índices de audiencia en México, consolidándose como uno de los formatos de entretenimiento más seguidos en la televisión abierta y en plataformas digitales."
+        },
+        {
+          "label": "tendencia de reality en México",
+          "text": "Los reality shows han ganado popularidad en el país durante la última década, reflejando una demanda del público por contenidos de interacción social y competencia que generan conversación en redes sociales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "77321a08ca7f",
+      "title": "ONU Mujeres apoya Ley General contra el Feminicidio; ofrece acompañamiento en construcción e implementación",
+      "summary": "ONU Mujeres, la agencia de la ONU para la igualdad de género, anunció que acompañará al Estado mexicano en la elaboración e implementación de la Ley General para Prevenir, Investigar y Sancionar el Delito de Feminicidio, una iniciativa impulsada por la presidenta de México, Claudia Sheinbaum. La representante en México, Eleonora Betancur González, subrayó la necesidad de que cada caso sea investigado con perspectiva de género y que la norma se convierta en una garantía real en todo el país.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/onu-mujeres-apoya-ley-general-contra-el-feminicidio-ofrece-acompanamiento-en-construccion-e-implementacion/",
+      "published_at": "2026-08-19T01:34:58+00:00",
+      "bias_score": -30,
+      "bias_reason": "El artículo utiliza un tono elogioso y expresiones como 'paso decisivo' y 'garantía efectiva', enfatiza la visión de género y no presenta voces críticas ni análisis de oposición, lo que sugiere una ligera inclinación izquierdista.",
+      "focus_analysis": "El medio se centra en la perspectiva institucional y de derechos de género, resaltando la colaboración entre ONU Mujeres y el gobierno, mientras omite debates sobre la viabilidad práctica o la oposición política.",
+      "focus_tags": [
+        "violencia de género",
+        "legislación",
+        "ONU Mujeres"
+      ],
+      "context": [
+        {
+          "label": "background",
+          "text": "En 2025, México registró 721 casos de feminicidio, lo que evidencia la magnitud del problema de violencia de género en el país."
+        },
+        {
+          "label": "previous_legislation",
+          "text": "Antes de la propuesta actual, México había intentado aprobar leyes contra el feminicidio sin lograr una normativa uniforme a nivel nacional."
+        },
+        {
+          "label": "UN_role",
+          "text": "ONU Mujeres, entidad de la ONU dedicada a la igualdad de género, ha apoyado en varios países la creación e implementación de marcos legales para prevenir y sancionar la violencia contra las mujeres."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "5724bfd8d19f",
+      "title": "Cuando la lluvia se vuelve cuerno: la voz de Maria Firmina dos Reis",
+      "summary": "Un cuerno de lluvia, vacío y resonante, yace sobre la mesa, atrapando el eco de una tormenta que nunca cesa. En su interior, la voz de Maria Firmina dos Reis se despliega como un río subterráneo que, al romper la superficie, revela los corrientes ocultos de la Brasil del siglo XIX. Cada frase de su prosa es una gota que, al chocar, forma un espejo roto donde se reflejan la resistencia y la esperanza.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-19T01:40:44.240013+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, bajo el calor de agosto, recuerdo que la historia de los que fueron silenciados vuelve a resonar con fuerza, como ese cuerno que amplifica lo que el mundo quiso ocultar. Elegí a Firmina porque su obra, escrita en la sombra de la esclavitud, sigue siendo una brújula para quienes buscan narrativas que desafíen el canon. Además, su aniversario de publicación de \"Úrsula\" (1869) se celebra este mes, lo que la convierte en una excusa perfecta para volver a abrir sus páginas.",
+      "focus_tags": [
+        "Brasil",
+        "siglo XIX",
+        "novela afro‑brasileña"
+      ],
+      "context": [
+        {
+          "label": "Introducción a la autora",
+          "text": "Maria Firmina dos Reis nació en 1825 en São Luís, Maranhão, y se convirtió en la primera novelista afro‑brasileña. Su vida, marcada por la educación autodidacta y la lucha contra la esclavitud, se refleja en la urgencia moral de sus escritos."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Además de \"Úrsula\", su poesía recopilada en \"Cantos de la tierra\" y el relato corto \"O Navio\" exploran la dignidad humana bajo la opresión. Lecturas complementarias incluyen a Joaquim Maria Machado de Assis y a la contemporánea Conceição Evaristo, cuyas voces también atraviesan barreras raciales."
+        },
+        {
+          "label": "Dato histórico",
+          "text": "En 1869, \"Úrsula\" se publicó como la primera novela escrita por una mujer negra en Brasil, anticipando temáticas de la literatura decolonial que emergirían más de un siglo después."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "e42b8a12cbdd",
       "title": "Primarias en EU ponen a prueba el mapa electoral rumbo a las legislativas",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "f9d4ab131425",
-      "title": "Estudiantes visita a la Universidad Católica en Chile por la revancha de la serie de octavos de la Libertadores",
-      "summary": "El equipo argentino Estudiantes de La Plata viajará a Santiago para jugar la vuelta de los octavos de final de la Copa Libertadores contra Universidad Católica de Chile, tras empatar 1‑1 en La Plata y con la ausencia de Fernando Zampedri por suspensión.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/estudiantes-visitara-a-la-universidad-catolica-en-chile-por-la-revancha-de-la-serie-de-octavos-de-la-libertadores-hora-tv-y-formaciones/",
-      "published_at": "2026-08-19T00:20:14+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido, alineaciones y antecedentes sin usar adjetivos cargados ni favorecer a ninguno de los equipos.",
-      "focus_analysis": "El medio se centra en la previa del encuentro, destacando la situación de jugadores, el historial y la logística, omitiendo aspectos como la repercusión económica del juego o la opinión de los hinchas.",
-      "focus_tags": [
-        "Copa Libertadores",
-        "octavos de final",
-        "suspensiones"
-      ],
-      "context": [
-        {
-          "label": "Torneo",
-          "text": "La Copa Libertadores es la principal competencia de clubes de fútbol en América del Sur, con un formato de eliminación directa a partir de los octavos de final."
-        },
-        {
-          "label": "Historial",
-          "text": "En 1969, Estudiantes de La Plata eliminó a Universidad Católica de Chile en las semifinales de la Copa Libertadores con victorias 3‑1 en ambos partidos."
-        },
-        {
-          "label": "Forma reciente",
-          "text": "Antes del encuentro, Estudiantes había vencido 4‑0 a Gimnasia La Plata en el clásico del Torneo Clausura, mostrando un ataque en buena racha."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "b27e2046a72e",
-      "title": "Cisjordania: palestinos cristianos denuncian presión de colonos israelíes",
-      "summary": "Los cristianos palestinos de Taybeh, en la Cisjordania ocupada, afirman que la presión de los colonos israelíes los obliga a considerar emigrar, lo que preocupa a las autoridades religiosas por la posible pérdida de la presencia histórica cristiana en la zona.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/video/20260818-cisjordania-palestinos-cristianos-denuncian-presi%C3%B3n-de-colonos-israel%C3%ADes",
-      "published_at": "2026-08-18T23:14:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje neutro y descriptivo, sin adjetivos cargados ni selección evidente de fuentes que favorezcan una postura política específica.",
-      "focus_analysis": "El artículo se centra en el impacto humano y demográfico de la presión de los colonos sobre la comunidad cristiana palestina, dejando de lado el análisis de la estrategia política o de seguridad del conflicto israelí‑palestino.",
-      "focus_tags": [
-        "derechos humanos",
-        "conflicto israelí-palestino",
-        "población cristiana"
-      ],
-      "context": [
-        {
-          "label": "expansión de colonos",
-          "text": "En los últimos años, la construcción de asentamientos israelíes en la Cisjordania ocupada ha aumentado, generando tensiones y desplazamientos entre la población palestina."
-        },
-        {
-          "label": "presencia cristiana histórica",
-          "text": "Los cristianos han habitado la región de Palestina durante siglos, pero su número ha disminuido drásticamente en las últimas décadas debido a la emigración y la presión sociopolítica."
-        },
-        {
-          "label": "reacciones internacionales",
-          "text": "Organizaciones internacionales y ONG han denunciado la expansión de los asentamientos como un obstáculo para la paz y han expresado preocupación por los derechos de las minorías palestinas."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, la inteligencia artificial de Anthropic, ahora puede redactar y enviar mensajes de Gmail de forma autónoma, siempre que el usuario haya activado previamente esa opción en los conectores de Google Workspace.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto destaca los beneficios y la comodidad de la nueva función con un tono positivo, usando expresiones como \"no tendrás que preocuparte\", y menciona los controles de seguridad de manera breve, lo que indica una ligera inclinación favorable hacia la tecnología.",
-      "focus_analysis": "El artículo se centra en la novedad tecnológica y la comodidad para el usuario, dejando de lado un análisis profundo de los riesgos de privacidad y los debates regulatorios sobre la autonomía de la IA.",
-      "focus_tags": [
-        "IA",
-        "integración Gmail",
-        "automatización"
-      ],
-      "context": [
-        {
-          "label": "eación de Claude",
-          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y redactar borradores, pero el envío final del correo debía hacerlo siempre el usuario."
-        },
-        {
-          "label": "Conectores de Google Workspace",
-          "text": "Google Workspace ya permite que aplicaciones externas actúen sobre Gmail y Drive mediante conectores, una característica utilizada también por otras IA como Microsoft Copilot."
-        },
-        {
-          "label": "Debate sobre privacidad y IA",
-          "text": "Expertos y reguladores han expresado inquietudes sobre la capacidad de las IA para actuar sin supervisión, señalando la necesidad de mecanismos claros de autorización y auditoría."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "b0103dac4661",
-      "title": "Lugar que deja Mónica Soto en el Tribunal Electoral podría quedar vacante: “el tribunal puede funcionar”, dice Ricardo Monreal",
-      "summary": "La magistrada Mónica Soto Fregoso presentó su renuncia al Tribunal Electoral del Poder Judicial de la Federación, y el diputado Ricardo Monreal Ávila informó que, pese a quedar vacante su puesto, el tribunal podrá seguir operando con cinco magistrados hasta las elecciones de 2027, donde no se elegirá al presidente.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/18/lugar-que-deja-monica-soto-en-el-tribunal-electoral-podria-quedar-vacante-el-tribunal-puede-funcionar-dice-ricardo-monreal/",
-      "published_at": "2026-08-18T23:52:19+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, citando a los actores involucrados sin emplear adjetivos cargados ni favorecer a ninguna posición política.",
-      "focus_analysis": "El artículo se centra en el aspecto institucional y legal de la vacante en el Tribunal Electoral y sus implicaciones para el proceso electoral, dejando de lado el análisis político de los posibles intereses de los partidos.",
-      "focus_tags": [
-        "vacante tribunal electoral",
-        "procedimientos constitucionales",
-        "elecciones 2027"
-      ],
-      "context": [
-        {
-          "label": "Marco legal del TEPJF",
-          "text": "Según la ley, el Tribunal Electoral debe contar con siete magistrados, pero la Constitución solo exige la totalidad de los consejeros para la calificación de la elección presidencial; de modo que puede seguir funcionando con cinco integrantes para otras materias."
-        },
-        {
-          "label": "Renuncia de Mónica Soto",
-          "text": "Mónica Soto Fregoso presentó su renuncia ante el Senado el 17 de agosto, con efecto el 31 de agosto, dos años antes de lo previsto por la reforma judicial que extiende los comicios del tribunal hasta junio de 2028."
-        },
-        {
-          "label": "Posición de Ricardo Monreal y Morena",
-          "text": "Ricardo Monreal Ávila, coordinador de la fracción parlamentaria de Morena en la Cámara de Diputados, explicó que el tribunal puede operar con plena jurisdicción pese a la ausencia de dos magistrados y sugirió que el segundo colocado en la elección de magistrados podría ser integrado."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "62b48624c20c",
-      "title": "Edomex tendrá cuatro nuevos puentes vehiculares en Chimalhuacán; forman parte del Plan Oriente",
-      "summary": "El Gobierno del Estado de México, mediante el Plan Oriente, iniciará la construcción de cuatro nuevos puentes vehiculares en Chimalhuacán, mejorando la movilidad de los residentes del oriente del estado.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/edomex-tendra-cuatro-nuevos-puentes-vehiculares-en-chimalhuacan-forman-parte-del-plan-oriente/",
-      "published_at": "2026-08-18T23:58:24+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es mayormente descriptivo, sin adjetivos cargados ni opiniones, y se limita a presentar datos oficiales sobre la obra.",
-      "focus_analysis": "Se centra en la expansión de infraestructura vial y la inversión del Plan Oriente, dejando de lado el contexto político y la participación de autoridades como la gobernadora Delfina Gómez o la presidenta Claudia Sheinbaum.",
-      "focus_tags": [
-        "infraestructura",
-        "movilidad urbana",
-        "inversión pública"
-      ],
-      "context": [
-        {
-          "label": "Plan Oriente",
-          "text": "El Plan Oriente es una iniciativa del Gobierno del Estado de México para mejorar la movilidad en la zona oriente, con una inversión de 995 millones de pesos destinada a la construcción de puentes y carreteras."
-        },
-        {
-          "label": "Gobiernos involucrados",
-          "text": "Según El Economista, la obra cuenta con el respaldo de la presidenta de México, Claudia Sheinbaum, y del gobierno estatal liderado por la maestra Delfina Gómez, aunque El Universal no menciona a estas autoridades."
-        },
-        {
-          "label": "Comparación regional",
-          "text": "Otros proyectos de infraestructura en la zona incluyen la línea 3 del Mexicable, que beneficiará a más de 700 mil personas, y el plan binacional México‑Guatemala, que enfatiza seguridad y movilidad humana, según El Sol de México."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "bac265d6a00d",
-      "title": "Sebastián Villa marcó su primer gol desde el regreso a Boca Juniors ante Recoleta: su gesto de cara a la popular xeneize en Paraguay",
-      "summary": "El delantero colombiano Sebastián Villa, tras volver a Boca Juniors, marcó su primer gol en la Copa Sudamericana contra Deportivo Recoleta en Paraguay y dedicó el tanto a la afición xeneiza, pidiendo disculpas por incidentes pasados.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/sebastian-villa-marco-su-primer-gol-desde-el-regreso-a-boca-juniors-ante-recoleta-su-gesto-de-cara-a-la-popular-xeneize-en-paraguay/",
-      "published_at": "2026-08-18T23:58:55+00:00",
-      "bias_score": 12,
-      "bias_reason": "El texto utiliza un tono celebratorio y destaca la reconciliación del jugador con la hinchada, lo que muestra una ligera inclinación favorable hacia Boca y Villa, sin evidenciar un sesgo político marcado.",
-      "focus_analysis": "El medio se centró en la narrativa de la redención personal de Villa y su vínculo con la afición, dejando de lado un análisis táctico profundo del partido.",
-      "focus_tags": [
-        "redención deportiva",
-        "afición xeneiza",
-        "copa sudamericana"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes legales de Villa",
-          "text": "Sebastián Villa fue condenado en 2023 por violencia de género, lo que provocó su salida del plantel de Boca Juniors y una larga disputa judicial con el club por compensaciones económicas."
-        },
-        {
-          "label": "Historia de Boca Juniors en la Copa Sudamericana",
-          "text": "Boca Juniors ha sido un competidor frecuente en la Copa Sudamericana, alcanzando etapas avanzadas en ediciones anteriores y buscando consolidarse como candidato al título en 2026."
-        },
-        {
-          "label": "Reacción de la afición xeneiza",
-          "text": "Los hinchas de Boca, conocidos como los xeneizes, suelen acompañar al equipo en partidos internacionales y reaccionan con entusiasmo a gestos que perciben como muestras de compromiso del jugador con el club."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "9e6c95ce4d8d",
-      "title": "Mexicana apuesta por Guanajuato con vuelo desde el AIFA",
-      "summary": "Mexicana de Aviación lanzó una nueva ruta que conecta el Aeropuerto Internacional Felipe Ángeles con el Aeropuerto Internacional del Bajío en Guanajuato, con el objetivo de captar turistas, empresarios y residentes mexicanos y reforzar el flujo de visitantes desde la Ciudad de México.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/mexicana-apuesta-guanajuato-vuelo-aifa-20260818-828919.html",
-      "published_at": "2026-08-18T23:59:03+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto utiliza un tono mayormente informativo y promocional, centrado en los beneficios económicos y de turismo, sin presentar críticas ni opiniones cargadas; la ligera inclinación pro‑negocio se refleja en la ausencia de contrapesos.",
-      "focus_analysis": "El medio destaca el aspecto económico y turístico de la nueva ruta, resaltando la estrategia de expansión de la aerolínea y el impacto positivo en el turismo de Guanajuato; no aborda posibles efectos ambientales, la competencia con otras aerolíneas ni la perspectiva de los usuarios.",
-      "focus_tags": [
-        "expansión aérea",
-        "turismo Guanajuato",
-        "economía regional"
-      ],
-      "context": [
-        {
-          "label": "AIFA como nuevo hub",
-          "text": "El Aeropuerto Internacional Felipe Ángeles, inaugurado en 2022, forma parte de la estrategia del gobierno mexicano para descentralizar el tráfico aéreo y fomentar la conectividad del interior del país."
-        },
-        {
-          "label": "Importancia turística de Guanajuato",
-          "text": "El turismo genera más de 3,180 millones de dólares y representa el 8,1 % del PIB estatal de Guanajuato, con aproximadamente 23,8 millones de visitantes al año, principalmente por motivos de ocio y negocios."
-        },
-        {
-          "label": "Expansión de rutas internas por otras aerolíneas",
-          "text": "Recientemente, Aeroméxico y otras compañías han anunciado nuevas rutas hacia destinos del interior como Chihuahua, Hermosillo y Tuxtla, indicando una tendencia general de los aeropuertos regionales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.0
       }
     }
   ]
