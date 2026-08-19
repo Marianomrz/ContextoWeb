@@ -1,176 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T08:42:35.752523+00:00",
-      "title": "Corderos",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta serias deficiencias de veracidad y contraste de fuentes, y muestra un sesgo evidente, pese a estar actualizado y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:42:47.848023+00:00",
-      "title": "Fue una de las grandes promesas de su generación, opacó a Messi en sus inicios y a los 41 años desaf",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado, pero contiene afirmaciones no verificables y un tono parcial que comprometen su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:42:59.533475+00:00",
-      "title": "¿Es México un Caballo de Troya de China para entrar a Estados Unidos?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la pieza es o y está bien estructurada, su falta de fuentes contrastantes y el tono parcial comprometen la calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:43:06.366796+00:00",
-      "title": "Xiaomi lanza la campana extractora perfecta: ha solucionado dos problemas de toda la vida",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero la falta de evidencia sustentada y el tono promocional reducen su precisión y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:49:12.217406+00:00",
-      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "Aunque la pieza es actual, su falta de verificación de datos, ausencia de fuentes contrastantes y tono subjetivo reducen significativamente su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:49:18.784822+00:00",
-      "title": "La Real Sociedad será el nuevo equipo de Edson Álvarez",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo se sugiere añadir fuentes corroborativas para reforzar la veracidad del posible fichaje.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:49:32.435068+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno trabaja en el traslado ur",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero carece de verificación de datos y de fuentes múltiples, lo que afecta su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:49:36.603467+00:00",
-      "title": "Autopista México-Querétaro tendrá obras durante un año: afectarán a usuarios de Huehuetoca, Coyotepe",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de un artículo informativo objetivo y reciente; solo se sugiere ampliar la variedad de fuentes para mayor robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:49:42.404227+00:00",
-      "title": "‘Linternas’, la nueva serie de Linterna Verde, bate el récord histórico del Universo DC en Rotten To",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructuralmente sólido, pero necesita fuentes verificadas y mayor equilibrio de voces para alcanzar una calidad periodística completa.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T08:49:52.416742+00:00",
-      "title": "La última fiesta de España",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque la falta de fuentes verificables y de contraste más amplio reduce ligeramente su puntuación en veracidad y fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T08:50:03.797000+00:00",
       "title": "Murió a los 11 años en una carrera de karting y es el “ángel” de su amigo Nico Varrone: “Siempre est",
       "kind": "noticia",
@@ -3392,6 +3222,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es mayormente sólido y objetivo, aunque podría beneficiarse de fuentes externas para reforzar la veracidad y ofrecer contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:40:46.172085+00:00",
+      "title": "Primarias en EE.UU.: triunfos de Donalds y Jolly en Florida y claves de las votaciones en Alaska y W",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta serias imprecisiones fácticas y falta de fuentes contrastadas, pese a cumplir con la actualidad y la estructura de pirámide invertida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:40:53.073664+00:00",
+      "title": "Cómo plantar un árbol de durazno en casa con la semilla de la fruta",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información precisa, bien respaldada y objetiva, con una estructura adecuada y actualidad inmediata.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:41:02.542649+00:00",
+      "title": "Samsung prepara la próxima revolución plegable con su nueva pantalla de 7,6 pulgadas y ángulos de vi",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presenta información reciente y objetiva, aunque le falta mayor verificación de fuentes y contexto comparativo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:41:09.634629+00:00",
+      "title": "Sinaloa entrega 963 mil uniformes escolares gratuitos; más de la mitad de estudiantes ya recibió apo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado y objetivo, aunque la discrepancia entre uniformes entregados y el número de estudiantes afecta la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:41:19.135806+00:00",
+      "title": "River Plate abrirá su serie de octavos de final de la Copa Sudamericana ante Independiente Santa Fe:",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales: es preciso, objetivo, actual y está bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:41:24.865248+00:00",
+      "title": "La publicidad en ChatGPT llegará a partir del 24 de agosto en 30 países europeos",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma precisa, objetiva y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:41:39.815971+00:00",
+      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 2",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es actual, pero contiene datos inexactos y carece de fuentes externas, lo que afecta su veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:41:48.278409+00:00",
+      "title": "Irán ha ejecutado al menos a 900 personas desde enero, según un grupo de derechos humanos",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente preciso y actual, pero le falta contraste de fuentes y una mayor neutralidad en el tono.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:41:56.350950+00:00",
+      "title": "Flor Amargo queda en shock tras choque con vehículo oficial de San Juan del Río: “Qué bueno que no m",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo es reciente y está bien estructurado, pero necesita fuentes verificables y contraste de voces para cumplir plenamente con los estándares de calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T13:42:04.842621+00:00",
+      "title": "China tenía un Windows 10 hecho a medida para su Gobierno. Ahora Pekín ha ordenado retirarlo antes d",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque podría mejorar la presencia de fuentes citadas y mayor contraste de fuentes.",
       "error": null
     }
   ]
