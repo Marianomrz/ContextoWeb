@@ -1,6 +1,213 @@
 {
-  "generated_at": "2026-08-19T06:00:35.731198+00:00",
+  "generated_at": "2026-08-19T06:24:39.515236+00:00",
   "articles": [
+    {
+      "id": "b9a6d626a062",
+      "title": "Anthropic añade una marca de agua invisible a todo lo que escribe Claude — y algunos usuarios cancelaron su suscripción",
+      "summary": "Anthropic incorporó una marca de agua invisible en todo el texto generado por su modelo Claude para cumplir con el EU AI Act, lo que provocó que algunos usuarios cancelaran su suscripción al percibir una pérdida de control sobre sus contenidos.",
+      "category": "tecnologia",
+      "source_name": "WWWhatsnew",
+      "source_url": "https://wwwhatsnew.com/2026/08/19/anthropic-claude-marca-agua-synthid-texto-invisible-eu-ai-act-agosto-202/",
+      "published_at": "2026-08-19T06:00:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo presenta tanto la explicación técnica de Anthropic como las críticas de los usuarios, sin emplear un lenguaje cargado ni favorecer a una parte, manteniendo un tono equilibrado.",
+      "focus_analysis": "El medio se centró en la dimensión regulatoria y técnica del watermark y su impacto en los usuarios, dejando de lado la estrategia comercial de Anthropic y la competencia en el mercado de IA.",
+      "focus_tags": [
+        "regulación IA",
+        "marca de agua",
+        "reacción usuarios"
+      ],
+      "context": [
+        {
+          "label": "EU AI Act",
+          "text": "El Reglamento de Inteligencia Artificial de la Unión Europea, en vigor desde el 2 de agosto de 2026, obliga a los proveedores a garantizar la transparencia de los contenidos generados por IA, exigiendo mecanismos que permitan identificar su origen."
+        },
+        {
+          "label": "Tecnología de marca de agua",
+          "text": "SynthID-Text, desarrollado por Google DeepMind en 2024, permite incrustar identificadores invisibles en textos generados por IA, una técnica que Anthropic ha adaptado para sus modelos Claude."
+        },
+        {
+          "label": "Reacción del mercado",
+          "text": "Tras la implementación del watermark, usuarios de Anthropic expresaron su descontento en X y Reddit y anunciaron la cancelación de sus suscripciones, citando preocupaciones sobre privacidad y control del contenido."
+        }
+      ],
+      "confidence": "alta"
+    },
+    {
+      "id": "31d7d39f8ba5",
+      "title": "Temblor hoy en México: noticias actividad sísmica 19 de agosto de 2026",
+      "summary": "El Servicio Sismológico Nacional de México mantiene un monitoreo en tiempo real de la actividad sísmica del país, informando minuto a minuto la magnitud, profundidad y ubicación de los temblores registrados el 19 de agosto de 2026.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/temblor-hoy-en-mexico-noticias-actividad-sismica-19-de-agosto-de-2026/",
+      "published_at": "2026-08-19T06:11:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje factual y cite se basa en la información oficial del Servicio Sismológico Nacional, sin emplear palabras cargadas ni presentar opiniones o marcos políticos.",
+      "focus_analysis": "El medio se centra en la cobertura técnica y de monitoreo de los movimientos telúricos, dejando de lado el impacto humano, las respuestas gubernamentales o la historia de sismos en México.",
+      "focus_tags": [
+        "actividad sísmica",
+        "monitoreo en tiempo real",
+        "México"
+      ],
+      "context": [
+        {
+          "label": "Tectónica",
+          "text": "México se encuentra sobre la intersección de cinco placas tectónicas —Caribe, Norteamérica, Pacífico, Rivera y Cocos— lo que lo coloca en una zona de alta sismicidad."
+        },
+        {
+          "label": "Institución",
+          "text": "El Servicio Sismológico Nacional (SSN) es la autoridad mexicana encargada de detectar, registrar y difundir información sobre los sismos en todo el territorio nacional."
+        },
+        {
+          "label": "Historial",
+          "text": "Eventos sísmicos de gran magnitud, como el terremoto de Puebla‑Ciudad de México en 2017, han impulsado mejoras en los sistemas de alerta y en la capacidad de monitoreo en tiempo real."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "8c35310ae85f",
+      "title": "La misión de Harfuch",
+      "summary": "El secretario de Seguridad y Protección Ciudadana, Omar García Harfuch, viajó a Buenos Aires para participar en la XL Conferencia Internacional para el Control de las Drogas, donde reforzó la cooperación con EE. UU. y anunció la extradición de un militar mexicano detenido en Argentina, señalando una mayor fluidez de información entre ambas naciones bajo la administración de Claudia Sheinbaum.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/mision-harfuch-20260819-829003.html",
+      "published_at": "2026-08-19T06:19:37+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea adjetivos positivos (p. ej., “críticamente importante”, “socio confiable”) y destaca logros de la gestión actual, sin presentar voces críticas ni equilibrar con perspectivas de oposición.",
+      "focus_analysis": "El medio se centró en la dimensión de seguridad y cooperación internacional, resaltando la participación de Harfuch y los avances en la lucha contra el narcotráfico, mientras dejó de lado análisis de posibles controversias internas o de derechos humanos vinculados a la política de seguridad.",
+      "focus_tags": [
+        "seguridad",
+        "cooperación internacional",
+        "control de drogas"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Tres años antes, México no envió representantes a la conferencia de la DEA en Kingston, lo que la DEA calificó como una falta de compromiso con la lucha contra el narcotráfico."
+        },
+        {
+          "label": "comparación",
+          "text": "A diferencia de la ausencia anterior, la visita de Harfuch a Argentina marca una nueva fase de colaboración, con intercambios de información más fluidos y la entrega de delincuentes por parte de EE. UU."
+        },
+        {
+          "label": "postura externa",
+          "text": "Según declaraciones del exdirector interino de la DEA, la participación mexicana ahora se percibe como un indicio de que la administración de Sheinbaum está alineada con los esfuerzos estadounidenses contra los carteles."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "a6cebce9129d",
+      "title": "Murió a los 11 años en una carrera de karting y es el “ángel” de su amigo Nico Varrone: “Siempre está conmigo”",
+      "summary": "El piloto argentino Nicolás Varrone recuerda a su amigo de la infancia, el chico de 11 años Ramiro Tot, quien falleció en un accidente de karting en 2011, y cuenta cómo siente su presencia acompañándolo en sus carreras de Fórmula 2 y en eventos como las 24 horas de Le Mans.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/murio-a-los-11-anos-en-una-carrera-de-karting-y-es-el-angel-de-su-amigo-nico-varrone-siempre-esta-conmigo/",
+      "published_at": "2026-08-19T05:58:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la emotiva historia personal de Varrone y su amigo, sin usar vocabulario cargado ni presentar opiniones políticas; el tono es descriptivo y deportivo.",
+      "focus_analysis": "El medio elige el ángulo humano‑emocional, resaltando la amistad y la supuesta presencia del fallecido en los triunfos de Varrone; omite el análisis de la seguridad en el karting ni la discusión de políticas deportivas.",
+      "focus_tags": [
+        "amistad deportiva",
+        "memoria de piloto",
+        "carrera automovilismo"
+      ],
+      "context": [
+        {
+          "label": "Fallecimiento de Ramiro Tot",
+          "text": "Ramiro Tot, de 11 años, murió en un accidente durante una carrera de karting el 1 de noviembre de 2011 en el kartódromo de Baradero, Argentina, un suceso que impactó a la comunidad del automovilismo nacional."
+        },
+        {
+          "label": "Otros incidentes en el automovilismo argentino en 2011",
+          "text": "Solo doce días después del accidente de Tot, el piloto Guido Falaschi falleció en una carrera de Turismo Carretera en Balcarce, evidenciando una serie de tragedias en el deporte automovilístico argentino ese año."
+        },
+        {
+          "label": "Trayectoria de Nicolás Varrone",
+          "text": "Nicolás Varrone, nacido en 2000, inició en karting, pasó al endurance y a la Fórmula 3 británica, y en 2026 compite en la Fórmula 2 bajo el equipo Van Amersfoort Racing, con un historial de victorias y el número 37 como tributo a su amigo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "61a3dabe4894",
+      "title": "La Casa de los Famosos hoy 19 de agosto: sigue en vivo la cuarta nominación, alianzas y traiciones",
+      "summary": "El reality show La Casa de los Famosos México 2026, transmitido por Televisa y ViX+, continúa en vivo con la cuarta nominación, alianzas y traiciones entre los participantes, entre los que Gema Garoa obtuvo inmunidad tras ganar la prueba del líder. Otros concursantes como Aldo Rendón y Yahir generaron conflictos por la división de los cuartos y la gestión de la comida.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/la-casa-de-los-famosos-mexico-2026-en-vivo-hoy-19-de-agosto-noche-de-cine-desata-tension-antes-de-la-gala-de-nominacion/",
+      "published_at": "2026-08-19T06:13:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono meramente descriptivo, sin vocabulario cargado ni fuentes externas, limitándose a relatar los hechos del programa.",
+      "focus_analysis": "El medio se centra en la dinámica interpersonal y los eventos del programa, omitiendo cualquier análisis sobre su impacto en la audiencia o la industria televisiva.",
+      "focus_tags": [
+        "reality TV",
+        "nominaciones",
+        "alianzas"
+      ],
+      "context": [
+        {
+          "label": "programa",
+          "text": "La Casa de los Famosos México es la versión local del formato internacional de convivencia bajo vigilancia, producido por Televisa y disponible en la plataforma de streaming ViX+."
+        },
+        {
+          "label": "mecanismo",
+          "text": "Los participantes compiten en pruebas para obtener inmunidad o poder de nominación, mientras los espectadores siguen en tiempo real los enfrentamientos y alianzas."
+        },
+        {
+          "label": "audiencia",
+          "text": "Desde su estreno, el programa ha registrado altos índices de audiencia y gran interacción en redes sociales, convirtiéndose en un referente del entretenimiento televisivo mexicano."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "532587be8388",
+      "title": "Detienen a síndica de Yautepec relacionada en ataque armado durante el partido México-Ecuador; habría ordenado la agresión en Rancho Nuevo",
+      "summary": "La fiscalía estatal detuvo a Karla Herrera, síndica municipal de Yautepec, por presunta responsabilidad en el tiroteo que dejó tres muertos y nueve heridos durante el partido de fútbol entre México y Ecuador en la colonia Rancho Nuevo.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/detienen-a-sindica-de-yautepec-relacionada-en-ataque-armado-durante-el-partido-mexico-ecuador-habria-ordenado-la-agresion-en-rancho-nuevo/",
+      "published_at": "2026-08-19T06:14:57+00:00",
+      "bias_score": 5,
+      "bias_reason": "El artículo mantiene un tono mayormente descriptivo, citando a la Fiscalía y a fuentes municipales sin usar lenguaje emotivo; la referencia a la afiliación a Morena y al poder de la familia Alonso se presenta de forma factual.",
+      "focus_analysis": "El medio prioriza el aspecto institucional‑legal, describiendo la detención, la investigación de la Fiscalía y los vínculos políticos de la acusada, mientras que el impacto humano y la seguridad del evento reciben menor atención.",
+      "focus_tags": [
+        "política",
+        "seguridad",
+        "violencia"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de violencia en eventos deportivos",
+          "text": "En los últimos años, varios partidos de fútbol en México han sido escenario de enfrentamientos armados, generando preocupación sobre la seguridad en los estadios y recintos públicos."
+        },
+        {
+          "label": "Dinámica política en Yautepec",
+          "text": "Yautepec ha sido un bastión de Morena durante más de una década, con la familia Alonso ocupando cargos municipales y federales, lo que ha generado acusaciones de clientelismo y uso de recursos electorales."
+        },
+        {
+          "label": "Rol de la Fiscalía Especializada en Feminicidio",
+          "text": "La Fiscalía Especializada para la Investigación y Persecución del Delito de Feminicidio, que lleva la investigación, se ha involucrado en casos de violencia política y de género, ampliando su alcance más allá de los feminicidios tradicionales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "950010044d92",
       "title": "A julio, 1.25 millones de trabajadores retiraron por desempleo 27,202 millones de pesos de sus afores",
@@ -834,216 +1041,6 @@
         {
           "label": "Delanteros rivales",
           "text": "Ayoub El Kaabi (Marruecos), Mehdi Taremi (Irán) y Roman Yaremchuk (Ucrania) son atacantes con trayectoria europea y experiencia internacional que forman parte del plantel del Olympiacos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "833395d66f63",
-      "title": "Ediciones Era deja como legado 66 años de libros en bibliotecas y sus lectores; reducirá al mínimo sus operaciones",
-      "summary": "La editorial mexicana Ediciones Era, con 66 años de historia en la publicación de obras literarias, anunció que reducirá al mínimo sus operaciones pero mantendrá su catálogo disponible y sus libros en bibliotecas y lectores.",
-      "category": "literatura",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/ediciones-era-deja-como-legado-66-anos-de-libros-en-bibliotecas-y-sus-lectores-reducira-al-minimo-sus-operaciones/",
-      "published_at": "2026-08-19T04:43:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir la decisión de la editorial y sus declaraciones, sin usar un cargado ni citar fuentes externas que inclinen la narrativa hacia una posición política.",
-      "focus_analysis": "El medio se centra en el legado cultural y la decisión institucional de Ediciones Era, dejando de lado un análisis del mercado editorial ni de críticas externas.",
-      "focus_tags": [
-        "cultura editorial",
-        "cierre empresarial",
-        "legado literario"
-      ],
-      "context": [
-        {
-          "label": "Historia de Ediciones Era",
-          "text": "Fundada en 1960, Ediciones Era se consolidó como una de las casas editoriales independientes más importantes de México, publicando a autores destacados y proporcionando material a bibliotecas públicas durante seis décadas."
-        },
-        {
-          "label": "Impacto de la pandemia en el libro mexicano",
-          "text": "La pandemia de COVID‑19 alteró significativamente los hábitos de consumo de libros en México, reduciendo ventas presenciales y obligando a muchas editoriales a reevaluar sus modelos de negocio."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Sol de México resaltó la declaración de la editorial sobre los intentos de adaptación al nuevo entorno, subrayando que la decisión de reducir operaciones se debe a la imposibilidad de sostener su modelo tradicional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "895fba1e7b27",
-      "title": "La Casa de los Famosos México 2026 en vivo: Cynthia Klitbo y Ese Pérez cara a cara por la Noche de Cine",
-      "summary": "En el reality La Casa de los Famosos México 2026, la actriz Cynthia Klitbo y el concursante Ese Pérez se enfrentaron durante la Noche de Cine, mientras Gema Garoa ganó inmunidad y Aldo Rendón reorganizó los cuartos de la casa.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/18/la-casa-de-los-famosos-mexico-2026-en-vivo-en-que-habitacion-quedo-cada-jugador-tras-cierre-de-cuarto-ibiza/",
-      "published_at": "2026-08-19T04:49:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin palabras cargadas ni fuentes con inclinación política, limitándose a relatar los acontecimientos del programa.",
-      "focus_analysis": "El medio se centró en el conflicto entre los participantes y las dinámicas del juego, dejando de lado cualquier análisis sobre la audiencia o el impacto cultural del programa.",
-      "focus_tags": [
-        "reality show",
-        "conflicto de participantes",
-        "dinámica de juego"
-      ],
-      "context": [
-        {
-          "label": "programa",
-          "text": "La Casa de los Famosos México es una versión local del formato de reality show producido por Televisa y transmitido en la plataforma de streaming ViX+, donde celebridades conviven bajo vigilancia constante."
-        },
-        {
-          "label": "cynthia klitbo",
-          "text": "Cynthia Klitbo es una reconocida actriz mexicana de telenovelas que ha participado en varios proyectos televisivos y ahora forma parte del elenco de La Casa de los Famosos México 2026."
-        },
-        {
-          "label": "noche de cine",
-          "text": "La Noche de Cine es un segmento recurrente del programa en el que se proyectan clips de películas y los participantes discuten, generando momentos de tensión y confrontación entre ellos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "f45c2aebe9b2",
-      "title": "Desacelera inflación mayorista en Argentina",
-      "summary": "El Instituto Nacional de Estadística y Censos (INDEC) de Argentina informó que el Índice de Precios Internos al Por Mayor (IPIM) subió solo un 0,8 % en julio de 2026, marcando una desaceleración respecto al 1,1 % del mes anterior; el presidente Javier Milei y el ministro de Economía Luis Caputo celebraron el dato en redes sociales.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/desacelera-inflacion-mayorista-argentina-20260818-828987.html",
-      "published_at": "2026-08-19T04:56:40+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto destaca la reacción positiva del gobierno y utiliza un tono celebratorio, sin incluir críticas ni voces opositoras, lo que indica un sesgo ligeramente favorable al oficial pro‑mercado de Milei.",
-      "focus_analysis": "El artículo se centra en el aspecto económico de la inflación mayorista y la reacción institucional, dejando de lado el impacto social o la evaluación de analistas independientes.",
-      "focus_tags": [
-        "inflación mayorista",
-        "política económica",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Histórico de inflación en Argentina",
-          "text": "Argentina ha registrado una inflación anual superior al 30 % en los últimos años, con episodios de hiperinflación que han afectado la estabilidad macroeconómica del país."
-        },
-        {
-          "label": "Política económica de Javier Milei",
-          "text": "Desde su asunción, el presidente Javier Milei ha impulsado reformas de libre mercado y austeridad fiscal, buscando reducir la inflación mediante la eliminación de subsidios y la estabilización del tipo de cambio."
-        },
-        {
-          "label": "Rol del INDEC",
-          "text": "El Instituto Nacional de Estadística y Censos (INDEC) es la agencia oficial de estadísticas de Argentina y publica mensualmente indicadores como el IPIM, que mide la variación de precios al por mayor."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, la inteligencia artificial desarrollada por Anthropic, ahora puede redactar y enviar correos electrónicos desde Gmail de forma autónoma una previa configuración del usuario, aunque la compañía mantiene una opción de aprobación explícita para evitar envíos no deseados.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto se limita a describir la nueva funcionalidad sin usar lenguaje cargado ni presentar opiniones; muestra una visión mayoritariamente neutral con un leve énfasis positivo al destacar la comodidad para el usuario.",
-      "focus_analysis": "El artículo se centra en la innovación tecnológica y la mejora de la productividad que brinda la integración de Claude con Gmail, dejando de lado una discusión profunda sobre los riesgos de privacidad o la regulación del uso de IA en comunicaciones.",
-      "focus_tags": [
-        "tecnología",
-        "IA",
-        "productividad"
-      ],
-      "context": [
-        {
-          "label": "Evolución de Claude",
-          "text": "Hasta hace poco, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, pero la última actualización elimina esa limitación y permite el envío automático tras la configuración del usuario."
-        },
-        {
-          "label": "Tendencia de IA en correo electrónico",
-          "text": "Otros proveedores, como Google con su asistente Gemini y Microsoft con Copilot, también están incorporando funciones de redacción y envío automático de correos, reflejando una tendencia general hacia la automatización de la gestión de email."
-        },
-        {
-          "label": "Preocupaciones de privacidad y control",
-          "text": "Expertos y reguladores han advertido sobre los riesgos de que sistemas de IA envíen mensajes sin supervisión, lo que ha llevado a que muchas plataformas incluyan mecanismos de autorización explícita para proteger la privacidad del usuario."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "d4f319b7391e",
-      "title": "Deportaron de Paraguay a 10 hinchas de Boca en la previa del partido ante Recoleta",
-      "summary": "Diez seguidores del Boca Juniors fueron expulsados de Paraguay en los controles migratorios previos al partido de vuelta contra Recoleta, tras ser identificados con restricciones para asistir a eventos deportivos internacionales.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/deportaron-de-paraguay-a-10-hinchas-de-boca-en-la-previa-del-partido-ante-recoleta/",
-      "published_at": "2026-08-19T04:18:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y cite incluye declaraciones oficiales sin usar adjetivos cargados ni favorecer a ninguna de las partes.",
-      "focus_analysis": "El medio centró la cobertura en el operativo de seguridad y los procedimientos migratorios que provocaron la deportación, omitiendo la reacción de los hinchas y cualquier posible debate sobre la política migratoria.",
-      "focus_tags": [
-        "seguridad",
-        "deportación de hinchas",
-        "copa sudamericana"
-      ],
-      "context": [
-        {
-          "label": "Copa Sudamericana 2026",
-          "text": "La Copa Sudamericana es el segundo torneo de clubes más importante de América del Sur; en la edición 2026, Boca Juniors y Recoleta se enfrentan en los octavos de final, con el segundo partido jugado en Asunción."
-        },
-        {
-          "label": "Previos incidentes de control de hinchas",
-          "text": "En torneos internacionales de la CONMEBOL, es habitual que los países anfitriones aen controles migratorios y de seguridad para evitar la entrada de aficionados con antecedentes o bajo restricción."
-        },
-        {
-          "label": "Cooperación binacional de seguridad",
-          "text": "Las autoridades paraguayas y argentinas suelen coordinar dispositivos de seguridad conjuntos para la llegada de seguidores, incluyendo la inspección de vehículos y la incautación de bebidas alcohólicas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "a47e81404bcc",
-      "title": "Volcadura en el bulevar Las Joyas deja heridas a una mujer y su hija",
-      "summary": "Una mujer y su hija de 11 años, residentes de León, México, resultaron heridas graves pero estables tras volcar su Chevrolet Blazer RS en el bulevar Las Joyas bajo la lluvia.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/leon/2026/08/18/volcadura-en-el-bulevar-las-joyas-deja-heridas-a-una-mujer-y-su-hija-1834073.html",
-      "published_at": "2026-08-19T04:55:35+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a narrar los hechos del accidente y la respuesta de los servicios de emergencia, sin emplear lenguaje cargado ni citar fuentes con orientación política.",
-      "focus_analysis": "El medio se enfocó en los detalles del sin y la intervención de la policía y bomberos, dejando de lado un análisis de las causas estructurales de la seguridad vial o de medidas preventivas.",
-      "focus_tags": [
-        "accidente de tráfico",
-        "seguridad vial",
-        "León México"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En León, la temporada de lluvias suele incrementar la cantidad de accidentes de tráfico debido a la baja visibilidad y carreteras resbaladizas."
-        },
-        {
-          "label": "datos comparables",
-          "text": "Según datos de la Secretaría de Salud, en México se registran más de 120 mil lesiones graves anuales por accidentes vehiculares."
-        },
-        {
-          "label": "postura de actores",
-          "text": "Las autoridades locales, como la Policía Vial y los Bomberos de León, suelen responder rápidamente a este tipo de incidentes, ofreciendo primeros auxilios y traslado a hospitales."
         }
       ],
       "confidence": "alta",
