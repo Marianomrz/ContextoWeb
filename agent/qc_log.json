@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T19:02:01.132969+00:00",
-      "title": "OpenAI detiene el entrenamiento de sus modelos de IA más avanzados",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El contenido carece de verificación de datos y fuentes contrastantes, aunque mantiene una redacción objetiva y está estructurado correctamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:02:20.583280+00:00",
-      "title": "El olvido de pensar",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión, fuentes y estructura, aunque el tono crítico del contenido reduce ligeramente la puntuación de objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:02:38.248192+00:00",
-      "title": "Revelan las causas de los bloqueos este miércoles en Michoacán",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de una noticia objetiva y actual, aunque podría reforzar la veracidad con citas específicas y mayor contraste de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:03:59.459491+00:00",
-      "title": "Una mansión récord de Silicon Valley tiene nuevo dueño: 70 millones, 4,9 hectáreas y todo apunta a u",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita reforzar la veracidad con fuentes verificables y citas concretas; pese a su estructura y objetividad, la falta de evidencia reduce su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:04:11.681517+00:00",
-      "title": "Diputado Hugo Eric Flores pide licencia indefinida para postularse como candidato para dirigir el nu",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y está bien estructurado, pero necesita mayor diversidad de fuentes para cumplir con el contraste necesario en temas políticos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:04:20.677611+00:00",
-      "title": "Cómo ocultar que estás en línea en WhatsApp y que leíste un mensaje",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, actual y estructurada de manera objetiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:04:34.221642+00:00",
-      "title": "Nissan Sentra 2027, recibe nueva versión Midnight Edition y una transmisión CVT mejorada",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, destacando en veracidad y objetividad, aunque podría mejorar al incluir fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:04:41.707935+00:00",
-      "title": "¿Qué tienen en común el análisis táctico de la Selección Argentina y tu próxima campaña de marketing",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete destaca por su actualidad y estructura clara, pero presenta deficiencias en veracidad, contraste de fuentes y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:04:50.364875+00:00",
-      "title": "Municiones de guerra oxidadas amenazan con contaminar el mar en Alemania",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, objetiva y bien estructurada, aunque podría reforzarse con fuentes adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:05:03.783093+00:00",
-      "title": "El olvido de pensar",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El contenido destaca por su actualidad y estructura adecuada, pero la falta de precisión en datos y la ausencia de fuentes contrastantes limitan su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T19:05:09.635346+00:00",
-      "title": "OpenAI detiene el entrenamiento de sus modelos de IA más avanzados",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta problemas graves de veracidad y falta de fuentes contrastadas, aunque mantiene una estructura clara y tono objetivo.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T19:05:14.923124+00:00",
       "title": "Liberan al alcalde de San Salvador y a 14 personas tras casi 18 horas de retención en Hidalgo",
       "kind": "noticia",
@@ -3398,6 +3211,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete es informativo y actual, pero presenta sesgo crítico no atribuido que afecta la objetividad; se recomienda suavizar el tono o citar fuentes de valoración.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:31:25.096163+00:00",
+      "title": "Platense empata contra Coquimbo en busca de un pase histórico a los cuartos de la Copa Libertadores",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo presenta buena estructura y objetividad, pero la falta de precisión factual y de fuentes contrastadas compromete su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:31:35.951462+00:00",
+      "title": "Ex jefe de Checo Pérez habría intentado frenar su llegada a Cadillac, según Memo Rojas",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero presenta problemas de precisión y carece de fuentes contrastadas, lo que afecta su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:31:51.592314+00:00",
+      "title": "Nadie escapa de Widow’s Bay",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es actual y sigue una estructura razonable, pero su falta de verificación factual y de fuentes múltiples reduce su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:32:00.151845+00:00",
+      "title": "No es tu Internet, sitio del Gobierno de México está inhabilitado; \"en 25 minutos quedarán\", explica",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, actual y estructurada, con solo una ligera incertidumbre sobre la verificación de la duración exacta de la restauración.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:32:10.299944+00:00",
+      "title": "Fracasa una misión de la NASA para rescatar un telescopio espacial",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la estructura y la objetividad son adecuadas, la información es mayormente falsa y carece de fuentes contrastadas, lo que compromete la calidad editorial del artículo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:32:20.439172+00:00",
+      "title": "El jefe de Inteligencia de Ecuador y un directivo de 'Telemundo', entre los muertos de un accidente ",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es de alta calidad editorial, cumple con los criterios de objetividad, actualidad y estructura, aunque la verificación externa de algunos datos no es posible en este contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:32:27.477377+00:00",
+      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y estructura, aunque podría mejorar la verificación de datos y la inclusión de fuentes concretas para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:32:35.771142+00:00",
+      "title": "Racing le gana a Belgrano por un lugar en los cuartos de final de la Copa Argentina",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar la variedad de fuentes para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:32:45.321440+00:00",
+      "title": "Diarrea explosiva en verano: cómo reconocerla y no confundirla con salmonelosis",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y cumple con los criterios de objetividad y actualidad, aunque debería reforzar la precisión y citación de datos específicos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:32:58.513795+00:00",
+      "title": "Las páginas vivas de Era",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es informativo y está bien estructurado, pero la precisión de algunos datos y la falta de pluralidad de voces reducen su puntuación global.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T23:33:07.884446+00:00",
+      "title": "Google lanza herramientas de estudio en Gemini y su buscador",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero necesita mayor equilibrio y citas concretas para alcanzar una objetividad plena.",
       "error": null
     }
   ]
