@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-19T04:41:53.556795+00:00",
+  "generated_at": "2026-08-19T04:47:36.198005+00:00",
   "articles": [
+    {
+      "id": "4b78c1e4ed06",
+      "title": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
+      "summary": "El Departamento de Comercio de Estados Unidos ha iniciado una medida antidumping preliminar contra la fresa mexicana, con cuotas entre el 3.37 % y el 5.28 %, lo que podría afectar a casi 5 000 productores y a exportaciones por mil millones de dólares. La Secretaría de Economía de México ha denunciado la decisión como arbitraria y ha advertido sobre su posible efecto como precedente para otros productos agrícolas.",
+      "category": "economia",
+      "source_name": "Expansión",
+      "source_url": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
+      "published_at": "2026-08-19T04:30:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje mayormente informativo, cita tanto a la autoridad estadounidense como a la Secretaría de Economía mexicana y no contiene expresiones cargadas ni juicios de valor que favorezcan a un lado político.",
+      "focus_analysis": "El medio se centra en el impacto económico y comercial de la medida para los productores y exportadores de fresas mexicanas, dejando de lado la perspectiva política de la relación bilateral EE. UU.–México y el posible efecto sobre los precios al consumidor en ambos países.",
+      "focus_tags": [
+        "antidumping",
+        "agricultura mexicana",
+        "relaciones comerciales EE. UU."
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de medidas antidumping EE. UU.",
+          "text": "Estados Unidos ha impuesto anteriormente derechos antidumping a productos agrícolas mexicanos, como los tomates en 2023, lo que generó tensiones comerciales y demandas de revisión bajo el T‑MEC."
+        },
+        {
+          "label": "Importancia de la fresa mexicana",
+          "text": "En 2025 México exportó a EE. UU. alrededor de 263 000 toneladas de fresas, generando aproximadamente 151 000 empleos directos e indirectos en el sector agrícola."
+        },
+        {
+          "label": "Marco legal internacional",
+          "text": "La Secretaría de Economía argumenta que los criterios de la investigación violan el Acuerdo Antidumping de la OMC y disposiciones del T‑MEC, que establecen normas para la definición de productos y mercados regionales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "95b947965fec",
+      "title": "La empresa que piensa",
+      "summary": "El artículo de Letras Libres explica que, aunque la inteligencia artificial se volverá accesible para todas las empresas, la verdadera ventaja competitiva residirá en la capacidad de las organizaciones para aprender y tomar decisiones, como lo ejemplifica el caso de Duolingo y su fundador Luis von Ahn.",
+      "category": "tecnologia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
+      "published_at": "2026-08-18T17:38:56+00:00",
+      "bias_score": -25,
+      "bias_reason": "El texto critica la adopción irreflexiva de IA en las empresas y enfatiza la necesidad de una visión organizacional, usando un tono que coincide con la orientación progresista de Letras Libres.",
+      "focus_analysis": "El medio se centra en el enfoque estratégico y organizacional de la IA, resaltando la importancia de la inteligencia organizacional y dejando de lado los aspectos regulatorios o de impacto laboral.",
+      "focus_tags": [
+        "inteligencia organizacional",
+        "estrategia empresarial",
+        "IA democratizada"
+      ],
+      "context": [
+        {
+          "label": "Historia de la teoría empresarial",
+          "text": "Desde Adam Smith hasta Peter Drucker, los economistas han explicado el éxito empresarial mediante la división del trabajo, la eficiencia científica y la gestión del conocimiento, lo que sirve de antecedente a la discusión actual sobre la inteligencia organizacional."
+        },
+        {
+          "label": "Caso Duolingo",
+          "text": "En 2025, la plataforma de aprendizaje de idiomas Duolingo, bajo la dirección de su fundador Luis von Ahn, probó una política de evaluación basada en IA que fue cuestionada por sus empleados, lo que llevó a la empresa a reconsiderar su estrategia AI‑first."
+        },
+        {
+          "label": "Perspectiva de Harvard Business Review",
+          "text": "Un artículo de Harvard Business Review de 2025 planteó que la ventaja competitiva futura dependerá del contexto y del conocimiento acumulado de cada organización, alineándose con la idea de que la inteligencia organizacional supera la mera posesión de modelos de IA."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, la inteligencia artificial de Anthropic, ahora permite redactar y enviar mensajes de Gmail de forma autónoma tras una configuración previa, aunque el usuario puede exigir aprobación para cada acción.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 5,
+      "bias_reason": "El artículo emplea un tono entusiasta y resalta los beneficios de la nueva función, sin profundizar en los riesgos de privacidad, lo que muestra una ligera inclinación favorable hacia la tecnología.",
+      "focus_analysis": "El medio se centra en la novedad y la utilidad práctica de la integración de Claude con Gmail, dejando de lado la discusión sobre implicaciones de seguridad y ética.",
+      "focus_tags": [
+        "IA",
+        "automatización de correo",
+        "integración Google Workspace"
+      ],
+      "context": [
+        {
+          "label": "Historial de Claude",
+          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores, pero el envío siempre requería la intervención del usuario."
+        },
+        {
+          "label": "Competencia en el mercado",
+          "text": "Otros proveedores, como Microsoft con su Copilot y Google con Smart Compose, también están incorporando funciones de respuesta automática en sus plataformas de correo."
+        },
+        {
+          "label": "Preocupaciones de privacidad",
+          "text": "Expertos en ciberseguridad advierten que permitir que una IA envíe correos sin supervisión puede generar riesgos de filtración de información o envío de mensajes inadecuados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "2c26dadd56af",
+      "title": "Jean-Marie Gustave Le Clézio, Emmanuel Carrère y Gioconda Belli, entre los más destacado de la FILM",
+      "summary": "La Feria Internacional del Libro Monterrey (FILM) anunció que contará con la presencia del Nobel francés Jean‑Marie Gustave Le Clézio, el escritor Emmanuel Carrère y la novelista nicaragüense Gioconda Belli, entre otros autores de renombre, como parte de su programación del 10 al 18 de octubre.",
+      "category": "literatura",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/1808/cultura/jean-marie-gustave-le-clezio-emmanuel-carrere-y-gioconda-belli-entre-los-mas-destacado-de-la-film/",
+      "published_at": "2026-08-19T04:12:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la programación y los participantes sin usar lenguaje cargado ni priorizar una postura política; la selección de autores incluye voces de diferentes regiones y no se evidencia un sesgo ideológico.",
+      "focus_analysis": "El medio privilegia el aspecto cultural y académico del evento, resaltando la presencia de premios internacionales y la relación con la filosofía, mientras deja de lado la dimensión comercial o de venta de libros.",
+      "focus_tags": [
+        "cultura literaria",
+        "evento internacional",
+        "filosofía contemporánea"
+      ],
+      "context": [
+        {
+          "label": "Historia de la FILM",
+          "text": "La Feria Internacional del Libro Monterrey, creada en 1998, se ha consolidado como el principal encuentro editorial del norte de México, atrayendo a editores, autores y lectores de América Latina y Europa."
+        },
+        {
+          "label": "Premios de los autores destacados",
+          "text": "Jean‑Marie Gustave Le Clézio recibió el Premio Nobel de Literatura en 2008; Emmanuel Carrère fue galardonado con el Premio Princesa de Asturias de las Letras en 2016; Gioconda Belli es una de las figuras más influyentes de la literatura nicaragüense y latinoamericana."
+        },
+        {
+          "label": "Relaciones México‑Francia",
+          "text": "El 2026 marca el bicentenario de las relaciones diplomáticas entre México y Francia, un hecho que se celebra con eventos culturales como la presencia de autores franceses en la FILM."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "d4f319b7391e",
+      "title": "Deportaron de Paraguay a 10 hinchas de Boca en la previa del partido ante Recoleta",
+      "summary": "Diez seguidores de Boca Juniors fueron expulsados de Paraguay durante los controles migratorios previos al partido de octavos de final contra Recoleta, al aparecer sus nombres con restricciones para asistir a eventos deportivos internacionales. La medida formó parte de un operativo de seguridad binacional que también incluyó la incautación de bebidas alcohólicas y la custodia de los demás hinchas que sí ingresaron al país.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/deportaron-de-paraguay-a-10-hinchas-de-boca-en-la-previa-del-partido-ante-recoleta/",
+      "published_at": "2026-08-19T04:18:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y cite fuentes oficiales sin emplear vocabulario cargado ni remarcar una postura política; se limita a describir los hechos y el procedimiento de seguridad.",
+      "focus_analysis": "El medio se centró en el aspecto de seguridad y control migratorio del evento, dejando de lado la perspectiva de los hinchas deportados o posibles repercusiones diplomáticas.",
+      "focus_tags": [
+        "seguridad migratoria",
+        "copa sudamericana",
+        "deportación de hinchas"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de seguridad en la Copa Sudamericana",
+          "text": "En ediciones anteriores del torneo, la Conmebol ha implementado operativos de control reforzado en los países anfitriones para evitar incidentes entre hinchas, incluyendo revisiones de documentos y prohibiciones a personas con antecedentes de violencia."
+        },
+        {
+          "label": "Restricciones para aficionados internacionales",
+          "text": "Algunos países sudamericanos mantienen listas de prohibición para visitantes que hayan sido sancionados por la FIFA o la Conmebol, lo que puede impedir su ingreso a eventos deportivos de alcance internacional."
+        },
+        {
+          "label": "Cooperación binacional en eventos deportivos",
+          "text": "Para partidos de alto riesgo, es habitual que las fuerzas de seguridad de los países involucrados, como Argentina y Paraguay, coordinen dispositivos conjuntos de vigilancia y control de flujos de público."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "dfeccc9822f3",
+      "title": "Fallece motociclista tras derrapar y chocar en el Ecobulevar León-San Francisco",
+      "summary": "Un joven motociclista de la comunidad El Nacimiento, en el municipio de León, Guanajuato, falleció tras perder el control de su moto por la lluvia y chocar contra un poste en el Ecobulevar León‑San Francisco.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/leon/2026/08/18/fallece-motociclista-tras-derrapar-y-chocar-en-el-ecobulevar-leon-san-francisco-1834062.html",
+      "published_at": "2026-08-19T04:40:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos y la respuesta de los servicios de emergencia sin usar lenguaje cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centró en los detalles del accidente y la intervención de las autoridades, dejando de lado un análisis sobre la seguridad vial o políticas de prevención de accidentes.",
+      "focus_tags": [
+        "accidente de tráfico",
+        "muertes en carretera",
+        "seguridad vial"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "En los últimos años, León ha registrado varios accidentes mortales en vías principales cuando las condiciones climáticas son adversas, especialmente en tramos con pavimento resbaladizo."
+        },
+        {
+          "label": "datos comparables",
+          "text": "Según datos del Instituto Nacional de Estadística y Geografía (INEGI), el estado de Guanajuato reportó más de 1,200 muertes por accidentes de tráfico en 2025, con una proporción significativa vinculada a factores climáticos."
+        },
+        {
+          "label": "postura de autoridades",
+          "text": "La Fiscalía General del Estado y Protección Civil de León suelen iniciar investigaciones para determinar responsabilidades y, en ocasiones, recomendar mejoras en la señalización y el mantenimiento de la calzada."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "5724bfd8d19f",
+      "title": "Cruzando la frontera de las palabras: Luis Alberto Urrea y la novela del tránsito",
+      "summary": "Una carretera de polvo se extiende bajo el sol abrasador, los bordes marcados por la sombra de una valla metálica que parece una línea de texto incompleta. Cada paso que el viajero da sobre el asfalto escribe una frase de incertidumbre, y el viento lleva consigo el eco de voces que buscan un nuevo comienzo. En esa escena, la novela de Luis Alberto Urrea se despliega como un mapa que no muestra destinos, sino los caminos que se eligen al cruzar.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-19T04:46:08.200952+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, al marcar el 18 de agosto, recuerdo que la frontera no es solo geográfica sino también narrativa; la migración escribe sus propias historias de resistencia y esperanza. Elegí a Urrea porque su obra captura la tensión entre el desarraigo y la pertenencia con una prosa que vibra como el motor de un coche en la llanura. Quise ofrecer una lectura que, más allá de la violencia del cruce, revele la poesía cotidiana que surge cuando el mundo se vuelve un territorio de palabras.",
+      "focus_tags": [
+        "migración",
+        "frontera",
+        "novela contemporánea"
+      ],
+      "context": [
+        {
+          "label": "Primer paso: conocer al autor",
+          "text": "Luis Alberto Urrea, nacido en 1955 en California de padres mexicanos, combina la cruda realidad de la frontera con la mitología del viaje. Su estilo mezcla diálogos directos con descripciones que recuerdan a la fotografía de un desierto al atardecer, creando una atmósfera que atrapa al lector desde la primera página."
+        },
+        {
+          "label": "Obra esencial",
+          "text": "El libro más representativo es 'The Devil's Highway' (2004), una crónica novelada del intento de varios migrantes de cruzar el desierto de Sonora. La narración alterna testimonios, reportajes periodísticos y reflexiones personales, ofreciendo una visión polifónica que descompone la idea de 'otro' y muestra la humanidad compartida."
+        },
+        {
+          "label": "Lecturas afines",
+          "text": "Para ampliar el panorama, busque 'Los de la' de Juan Rulfo, que también explora la frontera interior del México rural, y 'The Book of Unknown Americans' de Cristina Henríquez, una novela que narra la vida de familias migrantes en EE. UU. con una sensibilidad similar."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "895fba1e7b27",
       "title": "La Casa de los Famosos México 2026 en vivo: Cynthia Klitbo y Ese Pérez cara a cara por la Noche de Cine",
@@ -804,251 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "112156889ef3",
-      "title": "Día Nacional de la abeja: en CDMX habitan 122 especies nativas: Sedema; \"cumplen un papel fundamental\", destaca",
-      "summary": "La Secretaría del Medio Ambiente de la Ciudad de México (Sedema) informó que en la capital se registran 122 especies de abejas nativas, consideradas esenciales para los ecosistemas urbanos, y recordó la reciente Ley para Fomento Apícola y la Conservación de Polinizadores que les otorga protección prioritaria.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/dia-nacional-de-la-abeja-en-cdmx-habitan-122-especies-nativas-sedema-cumplen-un-papel-fundamental-destaca/",
-      "published_at": "2026-08-19T03:55:18+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, citando a la autoridad oficial sin emplear lenguaje cargado ni presentar opiniones partidistas.",
-      "focus_analysis": "El medio se centró en el aspecto ambiental y de biodiversidad urbana, resaltando la importancia ecológica de las abejas y la normativa reciente; no abordó impactos económicos ni sociales directos.",
-      "focus_tags": [
-        "biodiversidad urbana",
-        "polinizadores",
-        "política ambiental"
-      ],
-      "context": [
-        {
-          "label": "legislación",
-          "text": "En julio de 2026 se aprobó la Ley para Fomento Apícola y la Conservación de Polinizadores, que reconoce a las abejas nativas de la Ciudad de México como especie de protección prioritaria."
-        },
-        {
-          "label": "importancia ecológica",
-          "text": "Las abejas nativas son clave para la polinización de plantas urbanas y la conservación de ecosistemas, contribuyendo a la salud de jardines, áreas verdes y la producción de alimentos."
-        },
-        {
-          "label": "iniciativas locales",
-          "text": "El programa “Jardines para la Vida” ha creado mil jardines polinizadores en la CDMX, fomentando há presencia de abejas y otros insectos beneficiosos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "ddcc65c380c7",
-      "title": "Club América: vuelo sostenido a través de la data",
-      "summary": "El Club América, el equipo más ganador de la Liga MX, ha consolidado la ciencia de datos como una herramienta clave en su estructura, lo que ha contribuido a sus recientes tricampeonatos en las categorías varonil y femenil.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/deportes/club-america-vuelo-sostenido-traves-data-20260818-828972.html",
-      "published_at": "2026-08-19T03:39:18+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se mantiene descriptivo y positivo, sin usar lenguaje cargado ni favorecer posturas políticas; se centra en resultados deportivos y en la innovación tecnológica del club.",
-      "focus_analysis": "El medio eló un ángulo institucional y tecnológico al destacar la integración de la ciencia de datos en la gestión del Club América, dejando de lado aspectos humanos o narrativas de los jugadores.",
-      "focus_tags": [
-        "ciencia de datos",
-        "fútbol mexicano",
-        "innovación deportiva"
-      ],
-      "context": [
-        {
-          "label": "Adopción global de la analítica deportiva",
-          "text": "Ligas como la MLB y la NFL llevan años utilizando la ciencia de datos para decisiones estratégicas, mientras que en México su incorporación ha sido más reciente y todavía está en proceso de consolidación."
-        },
-        {
-          "label": "Éxitos recientes del Club América",
-          "text": "El América logró el tricampeonato de torneos cortos entre 2023 y 2024 en la rama varonil y, en 2026, la sección femenil ganó la Liga MX, la Concachampions y el Campeón de Campeonas en menos de un año."
-        },
-        {
-          "label": "Colaboración con la academia",
-          "text": "El club forma parte del programa ISAC del ITAM, al igual que los Diablos Rojos del México, donde se plantean problemas reales de análisis deportivo para estudiantes, fomentando la vinculación entre la industria y la investigación académica."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Letras Libres argumenta que el futuro competitivo de las empresas no dependerá de poseer los modelos de IA más avanzados, sino de desarrollar una inteligencia organizacional que permita aprender, cuestionar y adaptarse rápidamente, ejemplificado por la reversión de la política AI‑first de Duolingo.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto adopta un tono crítico hacia la adopción indiscriminada de IA en las empresas y enfatiza la democratización de la tecnología, lo que refleja una postura ligeramente progresista sin llegar a ser partidista.",
-      "focus_analysis": "El medio se centra en el ángulo de gestión y aprendizaje organizacional frente a la revolución tecnológica, dejando de lado los aspectos técnicos de la IA y la discusión de políticas públicas al respecto.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "estrategia empresarial",
-        "IA democratizada"
-      ],
-      "context": [
-        {
-          "label": "Caso Duolingo",
-          "text": "Duolingo anunció una estrategia AI‑first y luego, tras la presión de sus empleados, su fundador Luis von Ahn revocó la política, subrayando la necesidad de decidir cuándo usar la IA."
-        },
-        {
-          "label": "Historia de la teoría empresarial",
-          "text": "Desde Adam Smith y Frederick Taylor hasta Peter Drucker, la teoría de la empresa ha evolucionado enfocándose en división del trabajo, eficiencia y conocimiento como fuentes de ventaja competitiva."
-        },
-        {
-          "label": "Harvard Business Review",
-          "text": "Un artículo de Rohan Narayana Murty y Ravi Kumar S en Harvard Business Review plantea que la ventaja competitiva futura residirá en el contexto y el conocimiento interno de cada organización, no en los modelos de IA."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, la inteligencia artificial de Anthropic, ha incorporado una función que permite redactar y enviar correos de Gmail de forma autónoma, siempre que el usuario haya configurado previamente el permiso para hacerlo.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, sin usar vocabulario cargado ni presentar opiniones, limitándose a explicar la nueva funcionalidad y sus configuraciones.",
-      "focus_analysis": "El artículo se centra en el aspecto tecnológico y de automatización del producto, dejando de lado discusiones sobre riesgos de privacidad o implicaciones éticas del envío automático de correos.",
-      "focus_tags": [
-        "IA",
-        "automatización de email",
-        "Google Workspace"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, pero el envío debía ser realizado por el usuario."
-        },
-        {
-          "label": "comparación",
-          "text": "Asistentes como Microsoft Copilot y Google Gemini ya ofrecen funciones de envío automático de correos, aunque con distintas configuraciones de control y autorización."
-        },
-        {
-          "label": "postura externa",
-          "text": "Especialistas en seguridad digital advierten que la automatización de respuestas de correo puede incrementar el riesgo de exposición de datos sensibles si no se aplican medidas de supervisión adecuadas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "e9f43cb0cf15",
-      "title": "Banfield eliminó por penales a Midland y será el rival de Deportivo Riestra en los cuartos de final de la Copa Argentina",
-      "summary": "El club argentino Banfield superó a Midland en la tanda de penales y se clasificó para los cuartos de final de la Copa Argentina, donde se medirá con Deportivo Riestra.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
-      "published_at": "2026-08-19T03:25:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido con un lenguaje objetivo y sin cargar carga política o emocional, sin selección de fuentes sesgadas.",
-      "focus_analysis": "El medio se centró en el desarrollo del encuentro y el desenlace por penales, dejando de lado el contexto más amplio del torneo y la repercusión entre los aficionados.",
-      "focus_tags": [
-        "copa argentina",
-        "penales",
-        "cuartos de final"
-      ],
-      "context": [
-        {
-          "label": "estructura del torneo",
-          "text": "La Copa Argentina es una competición de eliminación directa que reúne a equipos de todas las categorías del fútbol argentino, con octavos de final que definen los cuartos de final."
-        },
-        {
-          "label": "historial de Banfield en la Copa",
-          "text": "Banfield ha participado regularmente en la Copa Argentina y ha alcanzado en cuartos de final en ediciones anteriores, manteniendo una reputación de equipo competitivo en torneos de copa."
-        },
-        {
-          "label": "posición de Midland",
-          "text": "Midland es un club de la Primera Nacional, la segunda categoría del fútbol argentino, que a menudo se enfrenta a equipos de primera división en la Copa Argentina, lo que convierte sus partidos en duelos de 'underdog' contra equipos de mayor nivel."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a9ba96a3e35a",
-      "title": "Sinaloa retomará festejos del Grito de Independencia; fueron cancelados durante dos años por la violencia",
-      "summary": "La gobernadora interina de Sinaloa, Yeraldine Bonilla Valverde, anunció que este año se retomarán los festejos populares del Grito de Independencia, los cuales fueron suspendidos durante dos años por la violencia que afectó a Culiacán y Los Mochis.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/sinaloa-retomara-festejos-del-grito-de-independencia-fueron-cancelados-durante-dos-anos-por-la-violencia/",
-      "published_at": "2026-08-19T03:46:40+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a reportar el anuncio oficial sin usar adjetivos cargados ni citar fuentes partidistas, manteniendo un tono descriptivo y neutro.",
-      "focus_analysis": "El artículo se enfoca en la decisión institucional de reactivar la celebración y en la programación del evento, mientras omite un análisis más profundo de la violencia que provocó la cancelación y sus consecuencias sociales.",
-      "focus_tags": [
-        "gobierno",
-        "cultura",
-        "seguridad"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "En 2024 y 2025, los festejos del Grito de Independencia en Sinaloa fueron cancelados tras intensos episodios de violencia en Culiacán y Los Mochis, que incluyeron enfrentamientos entre grupos criminales y la intervención de fuerzas de seguridad."
-        },
-        {
-          "label": "situación de seguridad",
-          "text": "Sinaloa ha registrado índices de homicidios y delitos vinculados al narcotráfico superiores al promedio nacional, lo que ha generado preocupación en la población y ha limitado la realización de eventos públicos masivos."
-        },
-        {
-          "label": "importancia cultural",
-          "text": "El Grito de Independencia es una tradición nacional en México, celebrada cada 15 de septiembre con actos patrióticos y festividades que reúnen a comunidades de todo el país."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "3ebe08374dc8",
-      "title": "Cae rayo cerca de un hombre de 70 años en Acámbaro y sufre quemaduras",
-      "summary": "Un hombre de 70 años de Acámbaro, Guanajuato, sufrió quemaduras después de que un rayo cayera cerca mientras cuidaba su ganado; fue atendido por la Cruz Roja y la policía municipal y se encuentra estable en el hospital.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/guanajuato-sur/2026/08/18/cae-rayo-cerca-de-un-hombre-de-70-anos-en-acambaro-y-sufre-quemaduras-1834024.html",
-      "published_at": "2026-08-19T03:52:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro y descriptivo, sin palabras cargadas ni fuentes con sesgo político, y se centra en hechos de la emergencia local.",
-      "focus_analysis": "El medio se enfocó en el incidente humano y la respuesta de los servicios de emergencia, dejando de lado un análisis más amplio sobre la frecuencia de rayos o políticas de prevención en zonas rurales.",
-      "focus_tags": [
-        "seguridad pública",
-        "accidentes naturales",
-        "salud"
-      ],
-      "context": [
-        {
-          "label": "seguridad pública",
-          "text": "En México, la Cruz Roja y los cuerpos de policía municipal son los primeros en responder a emergencias rurales, proporcionando primeros auxilios y traslado a hospitales."
-        },
-        {
-          "label": "estadísticas de rayos",
-          "text": "El Servicio Meteorológico Nacional registra cientos de incidentes de rayos al año en el país, con mayor concentración en áreas rurales y montañosas."
-        },
-        {
-          "label": "recomendaciones municipales",
-          "text": "Las autoridades de Acámbaro, al igual que otras municipalidades mexicanas, aconsejan a la población buscar refugio en interiores durante tormentas eléctricas para prevenir lesiones."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
