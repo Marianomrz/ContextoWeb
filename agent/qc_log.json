@@ -1,125 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T02:20:56.602732+00:00",
-      "title": "\"Estamos hartos de tener escuelas de cuarta\"; alcaldes acuden a San Lázaro para pedir fondo federal ",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado adecuadamente, pero necesita mayor precisión factual y fuentes contrastadas para cumplir plenamente los estándares de calidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:21:05.146783+00:00",
-      "title": "Precio del petróleo cerró en su nivel más alto en tres semanas",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, aunque podría mejorar la precisión añadiendo datos cuantitativos y citas específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:21:14.939896+00:00",
-      "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero contiene imprecisiones y carece de fuentes contrastantes, lo que disminuye su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:21:22.215363+00:00",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los criterios de calidad editorial, aunque podría reforzarse la veracidad mediante citas directas a fuentes oficiales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:21:37.854195+00:00",
-      "title": "La empresa que piensa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta la información de forma estructurada y reciente, pero la falta de verificación de datos y la escasa diversidad de fuentes reducen su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:23:13.896430+00:00",
-      "title": "Banfield se enfrenta a Midland por un lugar en los cuartos de final de la Copa Argentina",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial para una nota deportiva, presentando hechos verificables, objetividad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T02:23:24.502210+00:00",
-      "title": "Católicas por el Derecho a Decidir impulsa campaña nacional para despenalizar el aborto; buscan visi",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, aunque podría mejorar la diversidad de fuentes al incluir voces opositoras directas.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T02:40:43.891383+00:00",
       "title": "Cuando el polvo de la carretera se vuelve palabra: Los asquerosos",
       "kind": "literatura",
@@ -3386,6 +3267,119 @@
         "estructura_piramide": 10
       },
       "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría mejorar al incluir testimonios de afectados para una cobertura más completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:20:48.134476+00:00",
+      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete contiene información reciente y estructurada, pero carece de fuentes contrastantes y muestra sesgo evidente, reduciendo su objetividad y precisión factual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:20:54.142382+00:00",
+      "title": "Volkswagen y Samsung se alían: estos son los coches que podrás abrir desde tu smartphone sin tener q",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la fiabilidad de la fuente podría reforzarse con referencias más reconocidas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:20:58.279333+00:00",
+      "title": "Caostica MX 2026: programación, sedes y actividades del festival de cortos y videoclips en Ciudad de",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "Expecting ',' delimiter: line 10 column 167 (char 348)"
+    },
+    {
+      "at": "2026-08-19T07:21:05.397857+00:00",
+      "title": "Baños de barro y agua roja en el lago Atanasovsko de Bulgaria",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y estructura, aunque podría beneficiarse de fuentes adicionales para enriquecer el contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:21:09.467112+00:00",
+      "title": "Detienen a síndica de Yautepec relacionada en ataque armado durante el partido México-Ecuador; habrí",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y cumple con la mayoría de los estándares editoriales, aunque podría reforzar la variedad de fuentes incluyendo declaraciones oficiales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:21:20.286848+00:00",
+      "title": "Murió a los 11 años en una carrera de karting y es el “ángel” de su amigo Nico Varrone: “Siempre est",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, fuente y estructura, ofreciendo una noticia de interés humano bien contextualizada y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T07:21:31.077810+00:00",
+      "title": "La empresa que piensa",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es mayormente sólido y actual, aunque le falta mayor verificación de datos específicos y una gama más amplia de fuentes.",
       "error": null
     }
   ]
