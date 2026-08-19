@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T02:05:18.670896+00:00",
+  "generated_at": "2026-08-19T02:23:25.566399+00:00",
   "articles": [
+    {
+      "id": "293bfe84715f",
+      "title": "Católicas por el Derecho a Decidir impulsa campaña nacional para despenalizar el aborto; buscan visibilizar avances jurídicos",
+      "summary": "La organización mexicana Católicas por el Derecho a Decidir lanzó la segunda fase de su campaña nacional para despenalizar el aborto, buscando difundir los avances jurídicos y reducir el estigma social. Señala que 11 estados continúan tipificando el aborto como delito y que México carece de datos precisos sobre muertes por abortos inseguros.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/catolicas-por-el-derecho-a-decidir-impulsa-campana-nacional-para-despenalizar-el-aborto-buscan-visibilizar-avances-juridicos/",
+      "published_at": "2026-08-19T02:08:51+00:00",
+      "bias_score": 5,
+      "bias_reason": "El artículo emplea un tono favorable al movimiento pro‑elección y omite voces críticas, lo que sugiere una ligera inclinación hacia la izquierda.",
+      "focus_analysis": "El medio se centra en el aspecto de derechos humanos y la campaña de la organización, dejando de lado la oposición de sectores conservadores y el debate político.",
+      "focus_tags": [
+        "derechos reproductivos",
+        "campaña nacional",
+        "reforma legal"
+      ],
+      "context": [
+        {
+          "label": "antecedentes legales",
+          "text": "En 2021 la Suprema Corte de Justicia de la Nación declaró inconstitucional la penalización del aborto hasta la duodécima semana, pero los códigos penales estatales siguen tipificando el procedimiento como delito en 11 entidades."
+        },
+        {
+          "label": "datos de salud",
+          "text": "Según la Organización Mundial de la Salud, el 8 % de las muertes maternas a nivel mundial se deben a abortos inseguros, mientras que los abortos realizados bajo métodos médicos seguros presentan una tasa de mortalidad inferior a 1 por cada 100 000 intervenciones."
+        },
+        {
+          "label": "contexto político",
+          "text": "El presidente de México, Claudia Sheinbaum, ha manifestado su apoyo a la reforma integral del aborto, mientras que grupos conservadores y algunos partidos políticos continúan oponiéndose a la despenalización total."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "e9f43cb0cf15",
+      "title": "Banfield se enfrenta a Midland por un lugar en los cuartos de final de la Copa Argentina",
+      "summary": "El club Banfield de la Primera División se enfrentará al equipo Midland en el Estadio Nuevo Francisco Urbano de Morón por un puesto en los cuartos de final de la Copa Argentina.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
+      "published_at": "2026-08-19T01:59:26+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo emplea un tono descriptivo y objetivo, sin vocabulario cargado ni fuentes que indiquen una inclinación política; se limita a relatar hechos deportivos.",
+      "focus_analysis": "El medio se concentra en el aspecto deportivo del encuentro, destacando la trayectoria reciente de ambos equipos en la Copa Argentina y la relevancia del partido para avanzar en la competición, sin abordar temas económicos o de gestión.",
+      "focus_tags": [
+        "copa argentina",
+        "octavos de final",
+        "banfield vs midland"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento de Banfield",
+          "text": "Banfield llegó a este enfrentamiento tras vencer 1-0 a Racing en la última jornada de la Copa Argentina y también superó a Real Pilar 3-0 y a San Martín de Tucumán en penales."
+        },
+        {
+          "label": "Rendimiento de Midland",
+          "text": "Midland, que ocupa el quinto lugar de la Primera Nacional, avanzó en la Copa Argentina al eliminar a Argentinos Juniors en penales y vencer 2-1 a Deportivo Morón."
+        },
+        {
+          "label": "Formato de la Copa Argentina",
+          "text": "La Copa Argentina es un torneo de eliminación directa que reúne a clubes de todas las categorías del fútbol argentino; los ganadores de los octavos de final pasan a los cuartos de final."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar correos desde Gmail de forma autónoma siempre que el usuario lo haya configurado previamente, ampliando sus capacidades más allá de la simple redacción de borradores.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir la nueva funcionalidad de Claude con un tono factual y sin usar vocabulario cargado ni presentar opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en los aspectos técnicos y de configuración de la integración de Claude con Gmail, dejando de lado la discusión sobre implicaciones de privacidad y riesgos de automatización de la comunicación.",
+      "focus_tags": [
+        "IA",
+        "automatización de correo",
+        "Google Workspace"
+      ],
+      "context": [
+        {
+          "label": "Anthropic",
+          "text": "Anthropic es una empresa de inteligencia artificial con sede en EE. UU. que ha desarrollado el asistente conversacional Claude, compitiendo con modelos como ChatGPT de OpenAI."
+        },
+        {
+          "label": "Regulaciones de IA",
+          "text": "Varios gobiernos y organismos regulatorios están evaluando normas para el uso de IA en comunicaciones, enfatizando la necesidad de consentimiento explícito al enviar mensajes automatizados."
+        },
+        {
+          "label": "Competidores",
+          "text": "Otros proveedores de IA, como Google con Gemini y Microsoft con Copilot, ya ofrecen funcionalidades de redacción automática de correos, pero suelen requerir la aprobación del usuario antes de enviar."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "af78ea915ff8",
+      "title": "Precio del petróleo cerró en su nivel más alto en tres semanas",
+      "summary": "El precio del crudo Brent y WTI cerró en su nivel más alto en más de tres semanas, impulsado por la postura más agresiva de Irán en el estrecho de Ormuz y la ausencia de un acuerdo de cese de hostilidades con Estados Unidos.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/mercados/precio-petroleo-cerro-nivel-alto-tres-semanas-20260818-828950.html",
+      "published_at": "2026-08-19T02:09:26+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje mayormente objetivo, citando a analistas y fuentes oficiales sin usar adjetivos cargados ni favorecer a ninguna parte.",
+      "focus_analysis": "El medio se centró en el impacto económico y de mercado del alza del petróleo, dejando de lado un análisis más profundo de las implicaciones políticas y humanitarias del conflicto entre Irán y EE. UU.",
+      "focus_tags": [
+        "precios del petróleo",
+        "mercados energéticos",
+        "geopolítica del Oriente Medio"
+      ],
+      "context": [
+        {
+          "label": "Tensión geopolítica",
+          "text": "Irán y Estados Unidos han mantenido una disputa sobre el control del estrecho de Ormuz, una ruta esencial para el transporte mundial de crudo, lo que ha generado incertidumbre en los mercados energéticos."
+        },
+        {
+          "label": "Dinámica del suministro",
+          "text": "Las interrupciones y la reducción del tráfico marítimo en el estrecho han llevado a proveedores como Saudi Aramco y grandes navieras chinas a buscar rutas alternativas, afectando la oferta disponible y presionando los precios al alza."
+        },
+        {
+          "label": "Tendencias de precios recientes",
+          "text": "Antes de este pico, los precios del Brent y el WTI habían mostrado una tendencia ascendente moderada desde junio, reflejando la combinación de restricciones de suministro y la percepción de riesgos geopolíticos en la región."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "f9d4ab131425",
+      "title": "Estudiantes le gana a la Universidad Católica en Chile por la revancha de la serie de octavos de la Libertadores",
+      "summary": "Estudiantes de La Plata superó a Universidad Católica de Chile 3‑0 en el partido de vuelta de los octavos de final de la Copa Libertadores, asegurando su pase a los cuartos de final.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/estudiantes-visitara-a-la-universidad-catolica-en-chile-por-la-revancha-de-la-serie-de-octavos-de-la-libertadores-hora-tv-y-formaciones/",
+      "published_at": "2026-08-19T02:13:43+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido con un lenguaje neutro y sin opiniones ni términos cargados, típico de una crónica deportiva.",
+      "focus_analysis": "El medio se centró en el desarrollo del juego, los goles y el desempeño de los jugadores, dejando de lado aspectos como el impacto económico del torneo o la repercusión mediática del resultado.",
+      "focus_tags": [
+        "copa libertadores",
+        "resultado del partido",
+        "actuación de jugadores"
+      ],
+      "context": [
+        {
+          "label": "Formato de la Copa Libertadores",
+          "text": "La Copa CON es el principal torneo de clubes de América del Sur; los octavos de final son una fase de eliminación directa donde cada emparejamiento se decide en dos partidos, ida y vuelta."
+        },
+        {
+          "label": "Rendimiento reciente de Estudiantes",
+          "text": "Antes de este encuentro, Estudiantes de La Plata había demostrado un buen nivel ofensivo, destacando una goleada 4‑0 contra Gimnasia en el clásico platense del Torneo Clausura."
+        },
+        {
+          "label": "Situación de Universidad Católica",
+          "text": "Universidad Católica llegó al segundo partido sin su delantero Fernando Zampedri, suspendido por acumulación de tarjetas amarillas, lo que limitó sus opciones ofensivas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "b710f037cc8f",
+      "title": "Sorteo Especial 315: Resultados martes 18 de agosto del 2026 de la Lotería Nacional",
+      "summary": "La Lotería Nacional de México realizó el Sorteo Especial 315 el 18 de agosto de 2026, entregando un premio mayor de 27 millones de pesos y destacando en el billete a las Corredoras de México Implacable, símbolo del esfuerzo de mujeres atletas indígenas.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/sorteo-especial-315-resultados-martes-18-de-agosto-del-2026-de-la-loteria-nacional/",
+      "published_at": "2026-08-19T02:18:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir resultados, proceso y contexto cultural del sorteo sin usar lenguaje cargado ni citar fuentes con inclinación política.",
+      "focus_analysis": "El medio se centró en el aspecto institucional y económico del sorteo, resaltando el premio y la recaudación, mientras que el componente humano de los atletas indígenas quedó relegado a una breve mención.",
+      "focus_tags": [
+        "lotería nacional",
+        "premio mayor",
+        "cultura deportiva"
+      ],
+      "context": [
+        {
+          "label": "Institución",
+          "text": "La Lotería Nacional es un organismo descentralizado de la Administración Pública Federal que se autofinancia con los sorteos y destina sus ingresos a la asistencia pública."
+        },
+        {
+          "label": "Historia del sorteo",
+          "text": "Los Sorteos Especiales de la Lotería Nacional son eventos mensuales conmemorativos que suelen asociarse a fechas o temas de relevancia nacional y suelen ofrecer premios superiores al promedio."
+        },
+        {
+          "label": "Uso de fondos",
+          "text": "Los recursos no reclamados de los premios de la Lotería Nacional se transfieren a la Tesorería de la Federación para financiar programas de asistencia social."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "95b947965fec",
       "title": "La empresa que piensa",
@@ -839,217 +1049,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "5724bfd8d19f",
-      "title": "Cuando la lluvia se vuelve cuerno: la voz de Maria Firmina dos Reis",
-      "summary": "Un cuerno de lluvia, vacío y resonante, yace sobre la mesa, atrapando el eco de una tormenta que nunca cesa. En su interior, la voz de Maria Firmina dos Reis se despliega como un río subterráneo que, al romper la superficie, revela los corrientes ocultos de la Brasil del siglo XIX. Cada frase de su prosa es una gota que, al chocar, forma un espejo roto donde se reflejan la resistencia y la esperanza.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-19T01:40:44.240013+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, bajo el calor de agosto, recuerdo que la historia de los que fueron silenciados vuelve a resonar con fuerza, como ese cuerno que amplifica lo que el mundo quiso ocultar. Elegí a Firmina porque su obra, escrita en la sombra de la esclavitud, sigue siendo una brújula para quienes buscan narrativas que desafíen el canon. Además, su aniversario de publicación de \"Úrsula\" (1869) se celebra este mes, lo que la convierte en una excusa perfecta para volver a abrir sus páginas.",
-      "focus_tags": [
-        "Brasil",
-        "siglo XIX",
-        "novela afro‑brasileña"
-      ],
-      "context": [
-        {
-          "label": "Introducción a la autora",
-          "text": "Maria Firmina dos Reis nació en 1825 en São Luís, Maranhão, y se convirtió en la primera novelista afro‑brasileña. Su vida, marcada por la educación autodidacta y la lucha contra la esclavitud, se refleja en la urgencia moral de sus escritos."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Además de \"Úrsula\", su poesía recopilada en \"Cantos de la tierra\" y el relato corto \"O Navio\" exploran la dignidad humana bajo la opresión. Lecturas complementarias incluyen a Joaquim Maria Machado de Assis y a la contemporánea Conceição Evaristo, cuyas voces también atraviesan barreras raciales."
-        },
-        {
-          "label": "Dato histórico",
-          "text": "En 1869, \"Úrsula\" se publicó como la primera novela escrita por una mujer negra en Brasil, anticipando temáticas de la literatura decolonial que emergirían más de un siglo después."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true,
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "e42b8a12cbdd",
-      "title": "Primarias en EU ponen a prueba el mapa electoral rumbo a las legislativas",
-      "summary": "Las primarias de este martes en varios estados de EE. UU. ponen a prueba la capacidad de los demócratas para reconquistar Florida y la estrategia de los republicanos para afianzar su mayoría en la Cámara mediante el nuevo mapa electoral impulsado por el gobernador Ron DeSantis.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/primarias-eu-ponen-prueba-mapa-electoral-rumbo-legislativas-20260818-828929.html",
-      "published_at": "2026-08-19T01:05:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono descriptivo y balanceado, citando fuentes de ambos partidos y evitando adjetivos cargados o juicios de valor.",
-      "focus_analysis": "El artículo se centra en la dimensión electoral y estratégica de las primarias, destacando el rediseño de distritos y su impacto en la lucha por la Cámara, mientras deja de lado aspectos humanos o de política interna de los candidatos.",
-      "focus_tags": [
-        "elecciones primarias",
-        "redistritación",
-        "Florida"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Florida",
-          "text": "En la última década Florida ha pasado de ser un estado competitivo a uno firmemente alineado con la derecha, como lo evidenció la victoria de Donald Trump por 13 puntos en 2024."
-        },
-        {
-          "label": "Importancia de las legislativas de medio término",
-          "text": "Los demócratas requieren únicamente tres escaños adicionales a nivel nacional en las elecciones de noviembre de 2026 para recuperar la mayoría de la Cámara de Representantes."
-        },
-        {
-          "label": "Redistritación impulsada por Ron DeSantis",
-          "text": "El gobernador republicano Ron DeSantis ha modificado los límites de varios distritos en Florida, creando oportunidades que los republicanos esperan aprovechar para consolidar su control del Congreso."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "81059cce9065",
-      "title": "Los memes de la goleada de Boca ante Recoleta por la Sudamericana: de Ascacíbar en modo Palermo al debut de “Jagger” Herrera",
-      "summary": "Boca Juniors superó 4-0 a Deportivo Recoleta en la Copa Sudamericana, y el triunfo provocó una gran cantidad de memes que pusieron el foco en Santiago Ascacíbar, el debutante Facundo Herrera y la portería invicta de Álvaro Montero. La cobertura destaca el humor en redes sociales más que el análisis táctico del partido.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/los-memes-de-la-goleada-de-boca-ante-recoleta-por-la-sudamericana-de-ascacibar-en-modo-palermo-al-debut-de-jagger-herrera/",
-      "published_at": "2026-08-19T00:48:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en la repercusión humorística de la victoria sin emplear lenguaje cargado ni favorecer a ninguna ideología, manteniendo un tono neutro propio de un medio deportivo.",
-      "focus_analysis": "El medio eligió el ángulo cultural y de redes sociales, resaltando los memes y la reacción de los hinchas, mientras dejó de lado un análisis profundo del desempeño técnico del equipo y del rival.",
-      "focus_tags": [
-        "memes fútbol",
-        "Boca Juniors",
-        "Copa Sudamericana"
-      ],
-      "context": [
-        {
-          "label": "torneo",
-          "text": "La Copa Sudamericana es la segunda competición de clubes más importante de Sudamérica, donde Boca Juniors ha alcanzado repetidamente fases avanzadas, consolidándose como uno de los equipos más laureados del continente."
-        },
-        {
-          "label": "jugador",
-          "text": "Santiago Ascacíbar había registrado cinco goles en los últimos seis partidos del torneo, lo que lo convirtió en una de las figuras más comentadas en los medios y en las redes sociales antes del encuentro contra Recoleta."
-        },
-        {
-          "label": "cultura meme",
-          "text": "Los aficionados al fútbol suelen crear memes virales alrededor de momentos destacados, como ocurrió con el apodo \"Jagger\" para Facundo Herrera, siguiendo una tendencia similar que ha envuelto a jugadores como Lionel Messi y Paulo Dybala."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "efc710508a7d",
-      "title": "El trend de \"farmear aura\" llega al centro de Morelia; video genera reacciones",
-      "summary": "El fenómeno viral conocido como \"farmear aura\", originado en la jerga de los videojuegos, se trasladó al espacio público cuando jóvenes se reunieron en la Plaza de Armas de Morelia, Michoacán, para realizar duelos performáticos que generaron reacciones mixtas en redes sociales.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/tendencias/el-trend-de-farmear-aura-llega-al-centro-de-morelia-video-genera-reacciones/",
-      "published_at": "2026-08-19T01:00:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, presenta tanto la aceptación humorística como las críticas de los usuarios, y no muestra una inclinación política ni favorece a ningún grupo específico.",
-      "focus_analysis": "El medio se centra en el aspecto cultural y digital del evento, resaltando la creatividad de la generación Z y la difusión en redes, mientras omite consideraciones sobre la seguridad pública o la gestión municipal del espacio.",
-      "focus_tags": [
-        "cultura digital",
-        "juventud",
-        "tendencia viral"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "El término \"farmear\" proviene de los videojuegos y se refiere a la acumulación repetitiva de recursos; al combinarse con \"aura\", denota la proyección de carisma o seguridad que los jóvenes buscan demostrar en público."
-        },
-        {
-          "label": "comparación",
-          "text": "Eventos similares ya se habían registrado en otras ciudades mexicanas, como la Ciudad de México, donde se anunciaron batallas de \"farmear aura\" con premios y mayor cobertura mediática."
-        },
-        {
-          "label": "postura externa",
-          "text": "Según la cobertura de El Informador, los organizadores de la primera batalla en Morelia ya planifican una segunda edición, subrayando la intención de consolidar la tendencia como un fenómeno recurrente."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "f6a4d03b00c8",
-      "title": "A gritos y empujones, habitantes de San Salvador, Hidalgo, retuvieron al alcalde en el Palacio Municipal",
-      "summary": "El presidente municipal Norberto Martínez Díaz de San Salvador, Hidalgo, fue retenido por pobladores de la comunidad La Flor mientras protestaban contra la falta de obras y servicios prometidos, y la autoridad estatal Guillermo Olivares Reyna condenó la violencia y pidió resolver mediante diálogo.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/a-gritos-y-empujones-habitantes-de-san-salvador-hidalgo-retuvieron-al-alcalde-en-el-palacio-municipal/",
-      "published_at": "2026-08-19T01:18:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje descriptivo pero sin carga ideológica marcada, presenta tanto la protesta como la condena oficial sin favorecer a ningún partido, y las fuentes citadas son locales y estatales sin sesgo político evidente.",
-      "focus_analysis": "El medio se centra en el conflicto local y las demandas de la comunidad por incumplimientos de obras, dejando fuera un análisis de implicaciones de seguridad o de la política estatal más amplia.",
-      "focus_tags": [
-        "protesta local",
-        "conflicto municipal",
-        "demanda de obra"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes municipales",
-          "text": "San Salvador, Hidalgo, ha enfrentado históricamente retrasos en la ejecución de obras públicas, lo que ha generado descontento entre sus habitantes."
-        },
-        {
-          "label": "Protestas previas en Hidalgo",
-          "text": "En los últimos años, varias comunidades de Hidalgo han organizado manifestaciones contra la falta de servicios básicos y la percepción de corrupción en la administración local."
-        },
-        {
-          "label": "Cobertura de El Universal",
-          "text": "Otro medio informó que, además del alcalde, una funcionaria del ayuntamiento recibió empujones y golpes, subrayando el reclamo de incumplimiento de obra como causa del enfrentamiento."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, la inteligencia artificial de Anthropic, ahora puede redactar y enviar mensajes desde Gmail de forma autónoma siempre que el usuario haya activado previamente esa opción, aunque la configuración por defecto sigue pidiendo aprobación explícita.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es descriptivo y neutral, sin usar vocabulario cargado ni citar fuentes con sesgo político; se limita a explicar la nueva funcionalidad del producto.",
-      "focus_analysis": "El medio se centra en el aspecto tecnológico y de usabilidad de la actualización, dejando de lado un análisis más profundo sobre implicaciones de privacidad o regulación de IA.",
-      "focus_tags": [
-        "IA",
-        "automatización de correo",
-        "integración Google Workspace"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, pero el envío requería la intervención del usuario."
-        },
-        {
-          "label": "comparación",
-          "text": "Otros asistentes de IA, como Gemini de Google o Copilot de Microsoft, ya ofrecían funciones de envío automático de correos, lo que sitúa a Anthropic en una tendencia similar del mercado."
-        },
-        {
-          "label": "opinión",
-          "text": "Expertos en privacidad advierten que la capacidad de enviar correos sin supervisión podría generar riesgos de filtración de información, aunque Anthropic asegura que la aprobación explícita está activada por defecto."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]
