@@ -1,193 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T00:41:36.934307+00:00",
-      "title": "SEP publica los resultados de “Mi derecho, mi lugar” 2026 para estudiantes de preparatoria",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando datos claros y estructurados, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T00:41:46.288620+00:00",
-      "title": "Metro exhorta a usuarios a cuidar sus pertenencias; 94 paraguas han caído a las vías en lo que va de",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares periodísticos; sólo se sugiere añadir referencias específicas al número de incidentes para reforzar la veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:05:34.765864+00:00",
-      "title": "Cierre de la mezcla mexicana de petróleo de este martes 18 de agosto",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo datos precisos, objetividad y una estructura adecuada, pese a la ausencia de fuentes contrastantes para el precio.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:05:43.204420+00:00",
-      "title": "Mara Lezama destaca inversión de 380.9 mdp en Isla Mujeres",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de factualidad y actualidad, aunque la falta de perspectivas críticas limita ligeramente su imparcialidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:05:52.355451+00:00",
-      "title": "Estudiantes empata con la Universidad Católica en Chile por la revancha de la serie de octavos de la",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad, aunque podría beneficiarse de fuentes adicionales para reforzar la credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:06:01.710417+00:00",
-      "title": "Grupo armado asesina a cuatro miembros de una familia en Tlapa, Guerrero; siete logran escapar del a",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es objetivo y actual, pero le falta contraste de fuentes y mayor precisión de datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:06:07.991317+00:00",
-      "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es actual y estructurado adecuadamente, pero carece de precisión factual y de fuentes contrastantes, lo que afecta su fiabilidad y profundidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:06:13.962736+00:00",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes explícitas y la anomalía en el campo bias_score reducen ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:06:24.224051+00:00",
-      "title": "La empresa que piensa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero la falta de verificación de datos y la escasa diversidad de fuentes limitan su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:06:31.329903+00:00",
-      "title": "Fede Vigevani revela la verdadera razón por la que le regaló la camioneta a Karina Torres",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, con buena objetividad y actualidad, pero necesita mayor verificación de datos y fuentes adicionales para reforzar precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T01:20:49.220353+00:00",
-      "title": "Ariadna Montiel admite que presunto operador de la mafia rumana sí milita en Morena",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Cumple con la actualidad, la estructura invertida y la objetividad, pero la falta de fuentes contrastantes y de evidencia verificable limita su calidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T01:20:53.603676+00:00",
       "title": "Plural",
       "kind": "noticia",
@@ -3392,6 +3205,193 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares editoriales y es apto para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:39:13.910718+00:00",
+      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero carece de precisión factual y de fuentes contrastantes, lo que reduce su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:39:22.903311+00:00",
+      "title": "Hormiga González en el Olympiacos: estos son los delanteros que le disputarían la titularidad",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la veracidad y la diversidad de fuentes; la actualidad y la estructura son adecuadas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:39:34.735549+00:00",
+      "title": "EE.UU. y Corea del Sur recortan sus maniobras militares tras la orden de Trump",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita mejorar la precisión factual y la variedad de fuentes para cumplir con los estándares de calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:39:44.624338+00:00",
+      "title": "Madre buscadora denuncia agresión de agente de la PDI durante búsqueda en Tláhuac; exige su destituc",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero la falta de fuentes contrastantes y de evidencia verificable limita su objetividad y precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:39:49.371328+00:00",
+      "title": "Deportaron de Paraguay a 10 hinchas de Boca en la previa del partido ante Recoleta",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma clara y objetiva, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:39:56.926160+00:00",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque podría mejorar la citación de fuentes adicionales para reforzar el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:40:11.528105+00:00",
+      "title": "La empresa que piensa",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en general con los estándares editoriales; sólo se recomienda añadir citas específicas para reforzar la veracidad de los datos sobre Duolingo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:40:18.932260+00:00",
+      "title": "Perú, un ejemplo de lo que no debiera repetirse",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, aunque necesita mayor diversidad de fuentes y una presentación más neutra para alcanzar la excelencia editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:40:25.676720+00:00",
+      "title": "Ediciones Era niega cierre tras 66 años de historia: reducirá operaciones y su catálogo permanecerá ",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presenta información veraz, contrastada y objetiva, con una estructura adecuada para el lector.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:40:32.483623+00:00",
+      "title": "Primarias en EE.UU. ponen a prueba esperanzas de demócratas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es en general sólido y objetivo, pero necesita fuentes más variadas y evidencias verificables para reforzar la precisión y el contraste de perspectivas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T05:40:37.545544+00:00",
+      "title": "Trasladan a cinco reos a penal federal de Villa Crisol en Chiapas; uno es líder del CJNG y dos de La",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, actual y estructurada de forma objetiva.",
       "error": null
     }
   ]
