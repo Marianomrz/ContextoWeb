@@ -1,192 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-18T21:32:53.116937+00:00",
-      "title": "Estados Unidos sanciona a la presidenta Corte Penal Internacional, Tomoko Akane",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta información mayormente falsa y carece de fuentes verificables, lo que compromete su valor informativo a pesar de una estructura adecuada y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:32:57.722113+00:00",
-      "title": "\"La generación sobria\": por qué cada vez más jóvenes están reemplazando el alcohol por medicamentos ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 16 column 140 (char 937)"
-    },
-    {
-      "at": "2026-08-18T21:34:37.662743+00:00",
-      "title": "La empresa que piensa",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-18T21:40:39.119091+00:00",
-      "title": "Independiente Rivadavia busca el pase a los cuartos de final de la Copa Libertadores frente a Flumin",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete contiene varias inexactitudes que comprometen su veracidad y falta de fuentes contrastantes, aunque está actualizado y estructurado adecuadamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:40:45.702620+00:00",
-      "title": "Sorprendida, Rosalía recibe chamarra diseñada por mexicano durante concierto en Guadalajara",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de una noticia breve y actual, aunque la verificación de datos podría reforzarse con fuentes más sólidas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:42:20.396357+00:00",
-      "title": "Ricardo Monreal comparte su perspectiva sobre la reforma judicial con un nuevo libro",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-18T21:42:28.175225+00:00",
-      "title": "Gobernadora de Sinaloa pide a choferes de transporte urbano evitar avenidas inundadas en Culiacán; r",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma veraz, objetiva y bien estructurada, con fuentes fiables y contexto adecuado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:42:33.428090+00:00",
-      "title": "El hombre que dirigió PlayStation da su opinión sobre la muerte de los juegos en disco",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de manera clara, reciente y equilibrada, aunque podría mejorar la verificación de fuentes y citas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:42:38.986100+00:00",
-      "title": "\"La generación sobria\": por qué cada vez más jóvenes están reemplazando el alcohol por medicamentos ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, bien contrastada y objetiva, con una estructura clara y actual.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:42:51.618981+00:00",
-      "title": "La empresa que piensa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y tiene una estructura adecuada, pero la falta de fuentes múltiples y la ausencia de evidencia directa para el caso de Duolingo reducen su precisión y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:50:14.154117+00:00",
-      "title": "Sinaloa registra cuatro homicidios en 24 horas; ataques ocurrieron en Culiacán y Mazatlán",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de veracidad, fuentes, objetividad, actualidad y estructura, por lo que es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:50:22.668405+00:00",
-      "title": "Tigres alista la presentación de su nuevo director técnico, estas son las pistas",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene datos falsos sobre la identidad del ex‑director técnico, lo que afecta gravemente su veracidad, aunque su estilo y estructura son adecuados y actuales.",
-      "error": null
-    },
-    {
       "at": "2026-08-18T21:50:28.943553+00:00",
       "title": "Boca Juniors enfrenta a Recoleta en busca de clasificar a los cuartos de la Copa Sudamericana: forma",
       "kind": "noticia",
@@ -3374,6 +3188,210 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad periodística, aunque podría mejorar la diversidad de fuentes al incluir voces opositoras directas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:40:43.891383+00:00",
+      "title": "Cuando el polvo de la carretera se vuelve palabra: Los asquerosos",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 8,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 7,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares de calidad editorial, ofreciendo originalidad y profundidad con una voz coherente y estilo evocador.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:40:50.983457+00:00",
+      "title": "Venezuela firma contrato con Hunt Oil, y una alianza con SLB para estudios de yacimientos",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de objetividad y estructura, pero necesita mayor respaldo documental y fuentes adicionales para reforzar la veracidad y el contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:40:59.776019+00:00",
+      "title": "EU suspende aranceles del 50% a Canadá; será por un periodo de 3 días",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta serias fallas de veracidad y falta de fuentes contrastadas, pese a estar actualizado en tiempo, lo que lo hace inadecuado para publicación sin corrección.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:41:11.408718+00:00",
+      "title": "Emilio Azcárraga apoya el ascenso y descenso en el futbol mexicano tras su desaparición",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta la información de forma mayormente clara y reciente, pero contiene imprecisiones y falta de contraste de fuentes que reducen su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:41:20.965187+00:00",
+      "title": "Banfield eliminó por penales a Midland y será el rival de Deportivo Riestra en los cuartos de final ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, muestra precisión, objetividad y actualidad, con una estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:41:30.177239+00:00",
+      "title": "Escándalo en Colombia: ¿qué se sabe de la escapada de un ministro de De la Espriella tras el terremo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad periodística, pese a pequeñas inconsistencias y errores de redacción que reducen ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:41:38.622513+00:00",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En conjunto, el paquete cumple con los estándares de precisión y objetividad, aunque podría beneficiarse de fuentes adicionales para reforzar la veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:41:52.177266+00:00",
+      "title": "La empresa que piensa",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y bien organizado, pero la falta de verificación de datos y de contraste más amplio reduce su puntuación global de precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:41:58.851220+00:00",
+      "title": "Liberia aceptará recibir hasta 1,200 extranjeros deportados de EU",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad periodística, pero necesita mayor diversidad de fuentes para reforzar el contraste y la robustez informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:42:11.758154+00:00",
+      "title": "Confirma Corea del Sur \"recorte\" de maniobras militares conjuntas con EU; concluirán antes del plazo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la precisión de los datos y la imparcialidad son limitadas, por lo que se recomienda una revisión de fuentes y de redacción antes de la publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:42:17.021175+00:00",
+      "title": "Caifanes y 31 minutos en concierto, te decimos cuándo y dónde",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de información factual y reciente, aunque podría mejorar la variedad de fuentes y reducir el tono promocional para mayor objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:42:22.082356+00:00",
+      "title": "Estudiantes le ganó 3-0 a Universidad Católica en Chile y se clasificó a los cuartos de final de la ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial para una nota deportiva, presentando datos precisos, fuentes fiables y estructura adecuada.",
       "error": null
     }
   ]
