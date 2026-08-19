@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T02:01:39.061714+00:00",
+  "generated_at": "2026-08-19T02:05:18.670896+00:00",
   "articles": [
+    {
+      "id": "95b947965fec",
+      "title": "La empresa que piensa",
+      "summary": "El artículo de Letras Libres argumenta que la ventaja competitiva futura de las empresas no radicará en poseer los modelos de IA más avanzados, sino en desarrollar una inteligencia organizacional que les permita formular preguntas correctas, aprender rápido y adaptarse al cambio, usando a Duolingo como ejemplo de una compañía que reconsideró su política \"AI‑first\".",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
+      "published_at": "2026-08-18T17:38:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono analítico y neutro, sin lenguaje cargado ni referencias a partidos o ideologías; se centra en la estrategia empresarial y la gestión organizacional.",
+      "focus_analysis": "El medio elige un ángulo de estrategia y gestión organizacional, destacando la importancia de la inteligencia colectiva frente a la mera adopción de IA, mientras deja de lado los aspectos técnicos de la IA y su impacto social amplio.",
+      "focus_tags": [
+        "inteligencia organizacional",
+        "estrategia empresarial",
+        "IA corporativa"
+      ],
+      "context": [
+        {
+          "label": "Tendencia AI‑first",
+          "text": "En los últimos años, muchas compañías han anunciado una estrategia \"AI‑first\", poniendo la inteligencia artificial en el centro de sus operaciones, aunque a menudo sin una reflexión profunda sobre su integración organizacional."
+        },
+        {
+          "label": "Teorías clásicas de la empresa",
+          "text": "Desde Adam Smith y la división del trabajo hasta Peter Drucker y la sustitución del capital físico por conocimiento, la literatura de gestión ha evolucionado para explicar cómo las organizaciones crean ventaja competitiva."
+        },
+        {
+          "label": "Harvard Business Review sobre ventaja de IA",
+          "text": "Un artículo de Harvard Business Review planteó que, cuando todas las empresas pueden usar los mismos modelos de IA, la ventaja competitiva pasa a depender del contexto y del conocimiento acumulado de cada organización."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "5be0c223634e",
+      "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
+      "summary": "El ministro de Asuntos Exteriores de Francia, Jean‑Noël Barrot, anunció que en los próximos días expulsará a dos diplomáticos iraníes como represalia por la agresión a dos representantes franceses en Irán el pasado mes de julio.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/francia-anuncia-expulsión-de-dos-diplomáticos-iraníes/a-78420954?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-19T00:47:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a relatar los hechos y declaraciones oficiales sin usar vocabulario cargado ni incluir opiniones, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El artículo se centra en la respuesta institucional de Francia y el aspecto diplomático del incidente, dejando de lado el contexto geopolítico más amplio y el impacto humanitario de la tensión entre ambos países.",
+      "focus_tags": [
+        "diplomacia",
+        "tensión internacional",
+        "expulsión diplomática"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En julio de 2026, dos diplomáticos franceses fueron agredidos por fuerzas de seguridad iraníes, lo que provocó protestas del gobierno francés y la acusación de Irán de no investigar los hechos."
+        },
+        {
+          "label": "Marco legal",
+          "text": "Según la Convención de Viena sobre Relaciones Diplomáticas, los ataques a representantes diplomáticos constituyen una violación grave que puede justificar la expulsión de personal diplomático como medida de represalia."
+        },
+        {
+          "label": "Reacciones internacionales",
+          "text": "Varios países y la Unión Europea han expresado su preocupación por el trato a diplomáticos extranjeros en Irán, instando a Teherán a respetar la inmunidad diplomática."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "a2b84282b639",
+      "title": "García Harfuch destaca en Buenos Aires resultados de la UIF en el combate a delitos financieros",
+      "summary": "Omar García Harfuch, secretario de Seguridad y Protección Ciudadana de México, presentó en la Conferencia Internacional para el Control de Drogas en Buenos Aires los logros de la Unidad de Inteligencia Financiera, como la inclusión de más de 2,300 personas en la lista de bloqueados y la inmovilización de 8,600 millones de pesos, destacando la cooperación con la DEA y agencias estadounidenses.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/politica/garcia-harfuch-destaca-buenos-aires-resultados-uif-combate-delitos-financieros-20260818-828945.html",
+      "published_at": "2026-08-19T01:59:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y neutral, sin palabras cargadas ni énfasis ideológico; se citan fuentes oficiales y se limita a describir resultados y colaboraciones institucionales.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y financiero, resaltando cifras y la cooperación internacional, mientras omite el impacto humano de los delitos financieros y la perspectiva de víctimas o sociedad civil.",
+      "focus_tags": [
+        "seguridad financiera",
+        "cooperación internacional",
+        "resultados UIF"
+      ],
+      "context": [
+        {
+          "label": "Rol de la UIF",
+          "text": "La Unidad de Inteligencia Financiera es la entidad mexicana encargada de prevenir y detectar operaciones ilícitas mediante el análisis de flujos de dinero y la sanción de personas y cuentas vinculadas al crimen organizado."
+        },
+        {
+          "label": "Cooperación con EE. UU.",
+          "text": "El intercambio de información con la Oficina de Control de Activos Extranjeros (OFAC) y FinCEN refleja una tendencia creciente de coordinación binacional para desmantelar redes financieras criminales."
+        },
+        {
+          "label": "Otros medios",
+          "text": "Coberturas como la de Reforma destacaron la reducción de homicidios y la desarticulación de laboratorios de narcóticos, mientras que Aristegui Noticias subrayó los elogios personales del director de la DEA hacia García Harfuch, mostrando un enfoque más centrado en la percepción de la relación bilateral."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "e9f43cb0cf15",
+      "title": "Banfield se enfrenta a Midland por un lugar en los cuartos de final de la Copa Argentina",
+      "summary": "El club Banfield de Argentina se medirá contra Midland en el Estadio Nuevo Francisco Urbano de Morón, disputando un puesto en los cuartos de final de la Copa Argentina. Ambos equipos llegan al encuentro tras vencer en los octavos, Banfield sobre Real Pilar y Midland sobre Argentinos Juniors.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
+      "published_at": "2026-08-19T01:59:26+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma descriptiva y neutral, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centra en el aspecto deportivo del enfrentamiento, resaltando resultados previos y la importancia del partido para avanzar en la Copa, omitiendo cualquier contexto político, económico o social.",
+      "focus_tags": [
+        "copa argentina",
+        "banfield",
+        "midland"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento reciente de Banfield",
+          "text": "Banfield ganó 3-0 a Real Pilar y superó en penales a San Martín de Tucumán en los octavos de final de la Copa Argentina, mostrando un buen nivel ofensivo."
+        },
+        {
+          "label": "Rendimiento reciente de Midland",
+          "text": "Midland avanzó tras vencer en penales a Argentinos Juniors y conseguir una victoria 2-1 sobre Deportivo Morón, manteniendo una racha de tres victorias y cuatro empates en los últimos siete partidos."
+        },
+        {
+          "label": "Formato de la Copa Argentina",
+          "text": "Los octavos de final de la Copa Argentina constan de dos partidos simultáneos; los ganadores de cada encuentro se enfrentarán en los cuartos de final para seguir compitiendo por el título."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "3c4c2efcd531",
+      "title": "Litter-Robot 5 Pro: el arenero inteligente de 899 dólares que limpia solo pero no reconoce a tus gatos",
+      "summary": "El Litter‑Robot 5 Pro de Whisker, que cuesta 899 dólares, ofrece una limpieza automática excelente pero su sistema de IA para identificar individualmente a los gatos no funciona de forma fiable cuando los animales son similares.",
+      "category": "tecnologia",
+      "source_name": "WWWhatsnew",
+      "source_url": "https://wwwhatsnew.com/2026/08/19/litter-robot-5-pro-review-cat-id-ia-gatos-analisis-2026/",
+      "published_at": "2026-08-19T02:00:41+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta un balance entre los puntos fuertes y débiles del producto, sin usar lenguaje cargado ni favorecer una postura ideológica.",
+      "focus_analysis": "El artículo se centra en la evaluación del desempeño técnico y la relación calidad‑precio del arenero inteligente, dejando de lado aspectos como el impacto ambiental o la comparación con la oferta del mercado de dispositivos domésticos.",
+      "focus_tags": [
+        "product review",
+        "pet technology",
+        "AI identification"
+      ],
+      "context": [
+        {
+          "label": "Historia del producto",
+          "text": "Whisker lanzó la serie Litter‑Robot hace varios años, consolidándose como una de las marcas líderes en areneros automáticos, con versiones anteriores como el Litter‑Robot 4 que ya ofrecían limpieza autónoma a un precio más bajo."
+        },
+        {
+          "label": "Desafíos de la IA en reconocimiento de mascotas",
+          "text": "Los sistemas de reconocimiento facial basados en IA funcionan bien con sujetos visualmente distintos, pero suelen fallar cuando los animales comparten características similares, un problema reportado también en cámaras de seguridad domésticas."
+        },
+        {
+          "label": "Comparación de precios en el mercado",
+          "text": "Los areneros automáticos de gama alta suelen oscilar entre 600 y 1 000 dólares; el Litter‑Robot 5 Pro se sitúa en el extremo superior, mientras que modelos más básicos de otras marcas pueden costar alrededor de 300‑400 dólares."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "16d90656ae9a",
+      "title": "Suspenden actividades en inmueble de alcaldía Álvaro Obregón; operaba como supuesto Consulado de Nicaragua",
+      "summary": "La alcaldía Álvaro Obregón de la Ciudad de México suspendió las actividades de un inmueble que se hacía pasar por consulado de Nicaragua después de que la Secretaría de Relaciones Exteriores confirmara que no estaba registrado como sede consular.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/suspenden-actividades-en-inmueble-de-alcaldia-alvaro-obregon-operaba-como-supuesto-consulado-de-nicaragua/",
+      "published_at": "2026-08-19T02:01:13+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin adjetivos cargados ni opiniones, y se limita a reportar los hechos y la normativa aplicable.",
+      "focus_analysis": "El medio se centró en la acción institucional y legal de las autoridades locales y federales, dejando de lado el posible contexto político o diplomático entre México y Nicaragua.",
+      "focus_tags": [
+        "autoridades locales",
+        "consulado no registrado",
+        "suspensión administrativa"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "En México, los consulados deben estar registrados ante la Secretaría de Relaciones Exteriores para operar oficialmente, según la Ley de Asuntos Consulares."
+        },
+        {
+          "label": "Casos previos",
+          "text": "En los últimos años, se han detectado varios establecimientos que se presentaban como consulados extranjeros sin contar con la autorización correspondiente, lo que llevó a acciones de verificación y cierre por parte de autoridades mexicanas."
+        },
+        {
+          "label": "Relaciones México‑Nicaragua",
+          "text": "México ha mantenido una postura crítica ante algunas políticas del gobierno nicaragüense, lo que ha generado tensiones diplomáticas que se reflejan en la vigilancia de actividades consulares no oficiales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "95b947965fec",
       "title": "La empresa que piensa",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "7f8c0133ba8b",
-      "title": "China GAC anuncia que iniciará ensamble de autos en México a finales del 2026",
-      "summary": "China GAC, la automotriz china, anunció que iniciará el ensamble de vehículos bajo el esquema SKD en México a finales del cuarto trimestre de 2026, como parte de su estrategia “In Mexico, for Mexico” y con planes de ampliar su red de concesionarias.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/china-gac-anuncia-iniciara-ensamble-autos-mexico-finales-20260818-828930.html",
-      "published_at": "2026-08-19T01:11:11+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un lenguaje mayormente descriptivo y neutro, sin palabras cargadas ni fuentes con carga política; se centra en datos de inversión y expansión comercial.",
-      "focus_analysis": "El medio enfatiza el aspecto económico‑industrial del proyecto, resaltando la inversión, la ampliación de la red de concesionarias y la tecnología de los nuevos modelos, mientras omite la dimensión laboral o los posibles impactos ambientales.",
-      "focus_tags": [
-        "inversión automotriz",
-        "expansión industrial",
-        "tecnología híbrida"
-      ],
-      "context": [
-        {
-          "label": "Expansión global de la industria automotriz china",
-          "text": "En los últimos años, fabricantes chinos como GAC, BYD y Geely han incrementado su presencia en mercados internacionales, estableciendo plantas de ensamblaje y ventas en América Latina y Europa."
-        },
-        {
-          "label": "Sector automotriz mexicano",
-          "text": "México es uno de los principales productores de automóviles del mundo, con una cadena de suministro que depende de inversiones extranjeras; la presencia de marcas chinas ha crecido, superando los 10 modelos disponibles en el país."
-        },
-        {
-          "label": "Marco comercial México‑EE. UU.-Canadá",
-          "text": "Bajo el T-MEC, México mantiene condiciones favorables para la inversión extranjera en la industria automotriz, lo que incentiva a empresas como GAC a establecer operaciones de ensamblaje local."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "4bcda3685d90",
-      "title": "Fede Vigevani revela la verdadera razón por la que le regaló la camioneta a Karina Torres",
-      "summary": "El creador de contenido uruguayo Fede Vigevani explicó que regaló la camioneta eléctrica Leapmotor B10 a la concursante Karina Torres de La Casa de los Famosos México 2026 por la conexión que establecieron durante su estancia como habitante infiltrado y por la admiración a su historia personal.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/fede-vigevani-revela-la-verdadera-razon-por-la-que-le-regalo-la-camioneta-a-karina-torres/",
-      "published_at": "2026-08-19T01:00:07+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin palabras cargadas ni selección de fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El artículo se centra en el aspecto humano y de relaciones dentro del reality, resaltando la motivación personal de Vigevani; deja de lado un análisis del impacto mediático o económico del regalo.",
-      "focus_tags": [
-        "reality show",
-        "regalo personal",
-        "vehículo eléctrico"
-      ],
-      "context": [
-        {
-          "label": "formato del programa",
-          "text": "La Casa de los Famosos México es un reality show donde los participantes compiten por premios y el público elige a los líderes; en la edición 2026 se introdujo por primera vez al 'habitante infiltrado', un concursante que actúa bajo misiones secretas y no está sujeto a la votación."
-        },
-        {
-          "label": "especificaciones del premio",
-          "text": "El vehículo entregado, una Leapmotor B10, es un SUV eléctrico con autonomía de hasta 990 kilómetros y un precio aproximado de 575 mil pesos en el mercado mexicano, convirtiéndose en el premio más valioso del reality."
-        },
-        {
-          "label": "reacción del público",
-          "text": "Los seguidores del programa generaron debate en redes sociales sobre la legitimidad de que un infiltrado recibiera y regalara el premio, ya que su participación no estaba sujeta a los mismos criterios que los concursantes habituales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Letras Libres sostiene que la ventaja competitiva futura de las empresas no dependerá de poseer los modelos de IA más avanzados, sino de desarrollar una inteligencia organizacional que les permita formular preguntas correctas, aprender rápido y adaptarse al cambio, ejemplificado por la reversión de la política \"AI‑first\" de Duolingo.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto emplea un tono crítico hacia la adopción acrítica de la IA y destaca la necesidad de un enfoque más humano y democrático, lo que refleja una ligera inclinación progresista sin favorecer a ningún partido o interés empresarial.",
-      "focus_analysis": "El medio elige un ángulo centrado en la estrategia organizacional y la capacidad de aprendizaje frente a la tecnología, dejando de lado datos financieros concretos y análisis de políticas regulatorias sobre IA.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "estrategia empresarial",
-        "IA democratizada"
-      ],
-      "context": [
-        {
-          "label": "Caso Duolingo",
-          "text": "Duolingo, tras anunciar una política \"AI‑first\" que evaluaba el desempeño de sus empleados con IA, recibió objeciones internas y su fundador Luis von Ahn decidió revertir la medida, ilustrando la necesidad de reflexionar antes de imponer tecnologías."
-        },
-        {
-          "label": "Evolución de la teoría empresarial",
-          "text": "El artículo recurre a la tradición de pensadores como Adam Smith, Frederick Taylor, Henry Ford, Alfred Chandler y Peter Drucker para mostrar cómo la ventaja competitiva ha pasado de la división del trabajo a la gestión del conocimiento."
-        },
-        {
-          "label": "Perspectiva de Harvard Business Review",
-          "text": "Una publicación reciente de Harvard Business Review, firmada por Rohan Narayana Murty y Ravi Kumar S, plantea que cuando todas las empresas pueden usar los mismos modelos de IA, la verdadera ventaja reside en el contexto y el conocimiento acumulado dentro de cada organización."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, la inteligencia artificial de Anthropic, ahora puede redactar y enviar correos electrónicos desde Gmail de forma autónoma, siempre que el usuario haya activado previamente esa opción en la configuración.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 12,
-      "bias_reason": "El texto destaca los beneficios y la comodidad de la nueva función, utiliza un tono positivo y solo cita a la propia empresa, sin incluir voces críticas ni análisis de riesgos.",
-      "focus_analysis": "El artículo se centra en el aspecto tecnológico y de usabilidad de la integración de Claude con Gmail, dejando de lado la discusión sobre privacidad, seguridad y ética de la IA en la comunicación personal.",
-      "focus_tags": [
-        "IA",
-        "Gmail",
-        "automatización"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, sin la capacidad de enviarlos sin la intervención del usuario."
-        },
-        {
-          "label": "comparación",
-          "text": "Otros proveedores de IA, como Microsoft con Copilot y Google con Gemini, también están incorporando funciones de redacción y envío automático de correos, generando debate sobre la responsabilidad y el control del usuario."
-        },
-        {
-          "label": "preocupaciones",
-          "text": "Expertos en privacidad y ética de la IA han advertido que la automatización completa del envío de correos podría incrementar el riesgo de errores, malentendidos o uso indebido de datos personales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "f9d4ab131425",
-      "title": "Estudiantes empata con la Universidad Católica en Chile por la revancha de la serie de octavos de la Libertadores",
-      "summary": "Estudiantes de La Plata y Universidad Católica de Chile empataron 1‑1 en el Estadio Claro Arena de Santiago en el segundo partido de los octavos de final de la Copa Libertadores, manteniendo viva la serie que decidirá el pase a los cuartos de final.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/estudiantes-visitara-a-la-universidad-catolica-en-chile-por-la-revancha-de-la-serie-de-octavos-de-la-libertadores-hora-tv-y-formaciones/",
-      "published_at": "2026-08-19T00:57:30+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono descriptivo y equilibrado, menciona datos de ambos equipos, incluye declaraciones de jugadores y entrenadores, y evita vocabulario cargado o favorecedor de una de las partes.",
-      "focus_analysis": "El medio se centra en los detalles del encuentro, las ausencias por suspensión y lesiones, y el contexto histórico entre los clubes, dejando de lado la repercusión económica del torneo y la reacción de los aficionados.",
-      "focus_tags": [
-        "Copa Libertadores",
-        "Estudiantes vs Universidad Católica",
-        "suspensiones"
-      ],
-      "context": [
-        {
-          "label": "Formato del torneo",
-          "text": "La Copa Libertadores es el principal certamen de clubes de América del Sur; los octavos de final se juegan a doble partido y el ganador avanza a los cuartos de final."
-        },
-        {
-          "label": "Historial entre los equipos",
-          "text": "La última vez que se enfrentaron fue en las semifinales de la Copa Libertadores de 1969, cuando Estudiantes de La Plata eliminó a Universidad Católica con dos victorias de 3‑1."
-        },
-        {
-          "label": "Situación reciente de los clubes",
-          "text": "Estudiantes llegó al partido con la moral alta tras una goleada 4‑0 contra Gimnasia en el clásico platense, mientras que Universidad Católica debía afrontar el encuentro sin Fernando Zampedri y Cristián Cuevas por suspensiones, además de varias bajas por lesión."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "6f921b6e3b95",
-      "title": "Mara Lezama destaca inversión de 380.9 mdp en Isla Mujeres",
-      "summary": "La gobernadora de Quintana Roo, Mara Lezama Espinosa, anunció una inversión federal de 380.9 millones de pesos para modernizar el Boulevard Turístico Isla Blanca y mejorar la infraestructura, salud y educación en Isla Mujeres, en el contexto del 176.º aniversario del municipio.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/mara-lezama-destaca-inversion-380-9-mdp-isla-mujeres-20260818-828928.html",
-      "published_at": "2026-08-19T00:59:57+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto usa un tono mayorit y positivo, destaca los logros del gobierno sin incluir voces críticas ni análisis de costos, lo que indica una ligera inclinación pro‑gobierno y pro‑desarrollo económico.",
-      "focus_analysis": "El medio se centra en el aspecto económico‑infrastructural y en los beneficios sociales del proyecto, dejando de lado cualquier discusión sobre la sostenibilidad fiscal o la oposición política.",
-      "focus_tags": [
-        "inversión pública",
-        "infraestructura turística",
-        "desarrollo local"
-      ],
-      "context": [
-        {
-          "label": "Importancia turística de Isla Mujeres",
-          "text": "Isla Mujeres es uno de los principales destinos de turismo de Quintana Roo, atrayendo millones de visitantes anuales y generando una parte significativa del ingreso económico del estado."
-        },
-        {
-          "label": "Política federal de inversión en la región",
-          "text": "El Gobierno de México ha destinado fondos a través de programas como el Programa de Desarrollo Turístico para fortalecer la infraestructura y los servicios en la zona Caribe, incluyendo carreteras, puertos y sistemas de seguridad."
-        },
-        {
-          "label": "Trayectoria de Mara Lezama Espinosa",
-          "text": "Mara Lezama Espinosa asumió la gobernatura de Quintana Roo en 2023 y ha priorizado proyectos de bienestar social, salud, educación y modernización de la infraestructura para impulsar el turismo y la calidad de vida de los residentes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
