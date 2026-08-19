@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T03:08:38.515695+00:00",
+  "generated_at": "2026-08-19T03:21:14.658287+00:00",
   "articles": [
+    {
+      "id": "95b947965fec",
+      "title": "La empresa que piensa",
+      "summary": "El artículo de Letras Libres analiza cómo la ventaja competitiva de las empresas ya no dependerá de poseer los modelos de IA más avanzados, sino de desarrollar una \"inteligencia organizacional\" que permita formular preguntas correctas y aprender rápidamente, ejemplificado con la reversión de la política AI‑first de Duolingo.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
+      "published_at": "2026-08-18T17:38:56+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto emplea un tono crítico hacia la adopción acrítica de la IA y destaca la necesidad de un enfoque colectivo y reflexivo, lo que refleja una ligera inclinación progresista sin usar un lenguaje polarizado.",
+      "focus_analysis": "El medio se centra en el ángulo estratégico‑organizacional, resaltando la importancia de la capacidad de aprendizaje interno frente a la tecnología, mientras deja de lado los aspectos técnicos de la IA y su impacto económico directo.",
+      "focus_tags": [
+        "inteligencia organizacional",
+        "IA empresarial",
+        "transformación digital"
+      ],
+      "context": [
+        {
+          "label": "Democratización de la IA",
+          "text": "En los últimos años, los modelos de inteligencia artificial se han vuelto cada vez más accesibles para empresas de todos los tamaños, reduciendo la ventaja de quien solo posee la tecnología más avanzada."
+        },
+        {
+          "label": "Caso Duolingo",
+          "text": "Duolingo, tras anunciar una estrategia \"AI‑first\", recibió preguntas de sus empleados sobre la real utilidad de la IA y su fundador Luis von Ahn anuló la política, subrayando la necesidad de una evaluación crítica interna."
+        },
+        {
+          "label": "Teorías clásicas de la empresa",
+          "text": "Desde Adam Smith hasta Peter Drucker, los estudios sobre la organización empresarial han enfatizado la importancia del conocimiento, la coordinación y la adaptación, conceptos que el autor vincula ahora a la era de la IA."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "La empresa Anthropic ha habilitado en su asistente de IA Claude la capacidad de redactar y enviar correos desde Gmail de forma autónoma, siempre que el usuario haya activado previamente la función y pueda exigir aprobación explícita.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta la novedad de forma descriptiva, sin usar lenguaje cargado ni favorecer una postura política; se limita a explicar la funcionalidad y las medidas de control.",
+      "focus_analysis": "El medio se centra en el aspecto tecnológico de la integración de IA con Gmail y en los mecanismos de privacidad ofrecidos, dejando de lado discusiones sobre riesgos de seguridad o implicaciones éticas más amplias.",
+      "focus_tags": [
+        "IA",
+        "automatización",
+        "privacidad"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Claude",
+          "text": "Claude es el modelo de lenguaje desarrollado por Anthropic, una empresa de IA conocida por priorizar la seguridad y la alineación de sus sistemas, y hasta ahora solo podía redactar borradores sin enviarlos."
+        },
+        {
+          "label": "Tendencia de asistentes de IA en correo electrónico",
+          "text": "Otros proveedores como Microsoft y Google ya ofrecen funciones de respuesta automática en Outlook y Gmail, lo que sitúa a Anthropic en una carrera por ofrecer capacidades similares."
+        },
+        {
+          "label": "Preocupaciones de privacidad en IA",
+          "text": "Expertos en ciberseguridad suelen advertir que la automatización de envíos de correo puede generar vulnerabilidades si no se establecen controles de autorización claros."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "990c511df2f9",
+      "title": "Juan Manuel Cerúndolo cayó ante Auger-Aliassime y se despidió del Masters 1000 de Cincinnati",
+      "summary": "El tenista argentino Juan Manuel Cerúndolo fue eliminado tras perder en sets corridos contra el canadiense Félix Auger‑Aliassime en la tercera ronda del Masters 1000 de Cincinnati.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/juan-manuel-cerundolo-cayo-ante-auger-aliassime-y-se-despidio-del-masters-1000-de-cincinnati/",
+      "published_at": "2026-08-19T02:56:35+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto destaca la trayectoria y logros de Cerúndolo con tono elogioso, pero mantiene un enfoque factual y sin carga política, lo que indica un leve sesgo favorable al jugador argentino.",
+      "focus_analysis": "El artículo se centra en el resultado del partido y en la carrera de Cerúndolo, dejando de lado un análisis más amplio del torneo o del desempeño del rival.",
+      "focus_tags": [
+        "tennis",
+        "Masters 1000",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria de Cerúndolo",
+          "text": "Juan Manuel Cerúndolo alcanzó su mejor ranking histórico (n.º 42) en junio de 2026 y había conseguido títulos en ATP 250, además de una destacada actuación en Roland Garros 2025."
+        },
+        {
+          "label": "Perfil de Auger‑Aliassime",
+          "text": "Félix Auger‑Aliassime, número 4 del ranking mundial, ha sido constante en los octavos de final de Cincinnati en los últimos años y es considerado uno de los principales contendientes del circuito."
+        },
+        {
+          "label": "Importancia del Masters 1000",
+          "text": "Los torneos Masters 1000 son eventos de alto nivel en el ATP Tour que otorgan muchos puntos y premios, y suelen atraer a los mejores jugadores del mundo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "4d0bd3c5b9a8",
+      "title": "Tampico se prepara para vibrar al ritmo del jazz mundial: Sectur",
+      "summary": "El secretario de Turismo de Tamaulipas, Benjamín Hernández Rodríguez, anunció que Tampico será sede de la segunda edición del Festival Internacional de Jazz del 21 al 25 de octubre de 2026, junto con el Gran Fondo Tampico, una competencia ciclista con una bolsa de 135 mil pesos, como parte de la estrategia estatal para impulsar el turismo cultural y deportivo.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/politica/tampico-prepara-vibrar-ritmo-jazz-mundial-sectur-20260818-828969.html",
+      "published_at": "2026-08-19T03:04:14+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea un tono muy elogioso, resaltando los beneficios económicos y la imagen positiva del gobierno, sin presentar críticas ni voces opositoras, lo que indica una ligera inclinación pro‑gobierno y pro‑negocio.",
+      "focus_analysis": "El artículo se centra en la promoción turística y el potencial económico de los eventos, dejando de lado el impacto social o cultural en la comunidad local más allá de la generación de ingresos.",
+      "focus_tags": [
+        "turismo cultural",
+        "festival de jazz",
+        "desarrollo económico"
+      ],
+      "context": [
+        {
+          "label": "Crecimiento turístico de Tamaulipas",
+          "text": "En los últimos años, Tamaulipas ha registrado un aumento sostenido en la llegada de visitantes nacionales e internacionales, consolidándose como un destino de playa y cultura en el noreste de México."
+        },
+        {
+          "label": "Historia de los festivales de jazz en México",
+          "text": "Los festivales de jazz, como el Festival Internacional de Jazz de la Ciudad de México, han sido históricamente impulsores de la escena musical y atraen a audiencias tanto locales como extranjeras, generando cobertura mediática y actividad económica."
+        },
+        {
+          "label": "Éxito de la primera edición del Festival de Jazz Tampico",
+          "text": "La edición inaugural del Festival Internacional de Jazz Tampico recibió elogios en la Feria Internacional de Turismo (FITUR) 2026 y se destacó por su programación internacional, lo que motivó la organización de una segunda edición."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "df8d389483c6",
+      "title": "Mattel lanza Barbie edición especial inspirada en Marilyn Monroe; ¿cuánto cuesta?",
+      "summary": "Mattel, la compañía de juguetes, presentó la edición Barbie Signature inspirada en Marilyn Monroe para con su centenario, ofreciendo la figura con su icónico vestido rosa a un precio de $1,650 pesos.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/tendencias/mattel-lanza-barbie-edicion-especial-inspirada-en-marilyn-monroe-cuanto-cuesta/",
+      "published_at": "2026-08-19T03:16:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono promocional y descriptivo sin usar lenguaje cargado ni citar fuentes con sesgo político; se centra en la novedad del producto y su precio.",
+      "focus_analysis": "El medio destaca el aspecto de consumo y nostalgia, resaltando el glamour de Marilyn Monroe y el valor coleccionable de la muñeca, mientras omite cualquier análisis crítico sobre la industria del juguete o su impacto cultural más amplio.",
+      "focus_tags": [
+        "cultura pop",
+        "coleccionismo",
+        "moda"
+      ],
+      "context": [
+        {
+          "label": "Marilyn Monroe",
+          "text": "Marilyn Monroe, icono de Hollywood nacido en 1926, es recordado por su estilo y presencia en la moda de los años 50 y 60, y su centenario en 2026 ha generado múltiples homenajes comerciales."
+        },
+        {
+          "label": "Barbie Signature",
+          "text": "La línea Barbie Signature de Mattel, desde hace años, lanza ediciones limitadas inspiradas en celebridades y momentos históricos, dirigidas a coleccionistas adultos."
+        },
+        {
+          "label": "Mercado de coleccionables en México",
+          "text": "En México, la demanda de juguetes de edición limitada ha crecido, con precios que varían según la exclusividad y el branding, situando a esta Barbie en un rango premium de $1,600‑$2,000 pesos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a120cdbe3375",
+      "title": "Temperaturas en Mazatlán: prepárate antes de salir de casa",
+      "summary": "El servicio meteorológico de Mazatlán pronostica una máxima de 33.9 °C y una mínima de 26.7 °C para el miércoles 19 de agosto, con 55 % de probabilidad de lluvia y un índice UV de hasta 12. El artículo también advierte que el calentamiento global intensifica la necesidad de seguir de cerca estas condiciones para mitigar riesgos de desastres.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/temperaturas-en-mazatlan-preparate-antes-de-salir-de-casa/",
+      "published_at": "2026-08-19T03:20:08+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos climatológicos y explicaciones técnicas sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centra en la información meteorológica y su vínculo con el cambio climático, dejando de lado aspectos económicos o sociales específicos de la población de Mazatlán.",
+      "focus_tags": [
+        "clima",
+        "pronóstico",
+        "cambio climático"
+      ],
+      "context": [
+        {
+          "label": "Clima típico de Mazatlán",
+          "text": "Mazatlán, ubicado en Sinaloa, posee un clima tropical semi‑húmedo seco‑lluvioso con una temperatura media anual de 26 °C y una temporada de sequía que se extiende de diciembre a febrero."
+        },
+        {
+          "label": "Importancia del clima para la economía local",
+          "text": "El turismo y la pesca, principales motores económicos de Mazatlán, dependen de condiciones climáticas favorables, por lo que variaciones inesperadas en lluvia o temperatura pueden afectar la afluencia de visitantes y la actividad pesquera."
+        },
+        {
+          "label": "Efectos del cambio climático en México",
+          "text": "Expertos señalan que el aumento de temperaturas y la mayor frecuencia de eventos extremos, como sequías e inundaciones, están impactando la agricultura y la salud pública en diversas regiones del país."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "160cfbe1b51b",
       "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
@@ -837,216 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "b710f037cc8f",
-      "title": "Sorteo Especial 315: Resultados martes 18 de agosto del 2026 de la Lotería Nacional",
-      "summary": "La Lotería Nacional de México realizó el Sorteo Especial 315 el 18 de agosto de 2026, entregando un premio mayor de 27 millones de pesos y destacando en el billete a las Corredoras de México Implacable, símbolo del esfuerzo de mujeres atletas indígenas.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/sorteo-especial-315-resultados-martes-18-de-agosto-del-2026-de-la-loteria-nacional/",
-      "published_at": "2026-08-19T02:18:06+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir resultados, proceso y contexto cultural del sorteo sin usar lenguaje cargado ni citar fuentes con inclinación política.",
-      "focus_analysis": "El medio se centró en el aspecto institucional y económico del sorteo, resaltando el premio y la recaudación, mientras que el componente humano de los atletas indígenas quedó relegado a una breve mención.",
-      "focus_tags": [
-        "lotería nacional",
-        "premio mayor",
-        "cultura deportiva"
-      ],
-      "context": [
-        {
-          "label": "Institución",
-          "text": "La Lotería Nacional es un organismo descentralizado de la Administración Pública Federal que se autofinancia con los sorteos y destina sus ingresos a la asistencia pública."
-        },
-        {
-          "label": "Historia del sorteo",
-          "text": "Los Sorteos Especiales de la Lotería Nacional son eventos mensuales conmemorativos que suelen asociarse a fechas o temas de relevancia nacional y suelen ofrecer premios superiores al promedio."
-        },
-        {
-          "label": "Uso de fondos",
-          "text": "Los recursos no reclamados de los premios de la Lotería Nacional se transfieren a la Tesorería de la Federación para financiar programas de asistencia social."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Letras Libres argumenta que la ventaja competitiva futura de las empresas no radicará en poseer los modelos de IA más avanzados, sino en desarrollar una inteligencia organizacional que les permita formular preguntas correctas, aprender rápido y adaptarse al cambio, usando a Duolingo como ejemplo de una compañía que reconsideró su política \"AI‑first\".",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono analítico y neutro, sin lenguaje cargado ni referencias a partidos o ideologías; se centra en la estrategia empresarial y la gestión organizacional.",
-      "focus_analysis": "El medio elige un ángulo de estrategia y gestión organizacional, destacando la importancia de la inteligencia colectiva frente a la mera adopción de IA, mientras deja de lado los aspectos técnicos de la IA y su impacto social amplio.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "estrategia empresarial",
-        "IA corporativa"
-      ],
-      "context": [
-        {
-          "label": "Tendencia AI‑first",
-          "text": "En los últimos años, muchas compañías han anunciado una estrategia \"AI‑first\", poniendo la inteligencia artificial en el centro de sus operaciones, aunque a menudo sin una reflexión profunda sobre su integración organizacional."
-        },
-        {
-          "label": "Teorías clásicas de la empresa",
-          "text": "Desde Adam Smith y la división del trabajo hasta Peter Drucker y la sustitución del capital físico por conocimiento, la literatura de gestión ha evolucionado para explicar cómo las organizaciones crean ventaja competitiva."
-        },
-        {
-          "label": "Harvard Business Review sobre ventaja de IA",
-          "text": "Un artículo de Harvard Business Review planteó que, cuando todas las empresas pueden usar los mismos modelos de IA, la ventaja competitiva pasa a depender del contexto y del conocimiento acumulado de cada organización."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "5be0c223634e",
-      "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
-      "summary": "El ministro de Asuntos Exteriores de Francia, Jean‑Noël Barrot, anunció que en los próximos días expulsará a dos diplomáticos iraníes como represalia por la agresión a dos representantes franceses en Irán el pasado mes de julio.",
-      "category": "internacional",
-      "source_name": "DW Español",
-      "source_url": "https://www.dw.com/es/francia-anuncia-expulsión-de-dos-diplomáticos-iraníes/a-78420954?maca=spa-rss-sp-all-1122-xml-mrss",
-      "published_at": "2026-08-19T00:47:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a relatar los hechos y declaraciones oficiales sin usar vocabulario cargado ni incluir opiniones, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El artículo se centra en la respuesta institucional de Francia y el aspecto diplomático del incidente, dejando de lado el contexto geopolítico más amplio y el impacto humanitario de la tensión entre ambos países.",
-      "focus_tags": [
-        "diplomacia",
-        "tensión internacional",
-        "expulsión diplomática"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "En julio de 2026, dos diplomáticos franceses fueron agredidos por fuerzas de seguridad iraníes, lo que provocó protestas del gobierno francés y la acusación de Irán de no investigar los hechos."
-        },
-        {
-          "label": "Marco legal",
-          "text": "Según la Convención de Viena sobre Relaciones Diplomáticas, los ataques a representantes diplomáticos constituyen una violación grave que puede justificar la expulsión de personal diplomático como medida de represalia."
-        },
-        {
-          "label": "Reacciones internacionales",
-          "text": "Varios países y la Unión Europea han expresado su preocupación por el trato a diplomáticos extranjeros en Irán, instando a Teherán a respetar la inmunidad diplomática."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "a2b84282b639",
-      "title": "García Harfuch destaca en Buenos Aires resultados de la UIF en el combate a delitos financieros",
-      "summary": "Omar García Harfuch, secretario de Seguridad y Protección Ciudadana de México, presentó en la Conferencia Internacional para el Control de Drogas en Buenos Aires los logros de la Unidad de Inteligencia Financiera, como la inclusión de más de 2,300 personas en la lista de bloqueados y la inmovilización de 8,600 millones de pesos, destacando la cooperación con la DEA y agencias estadounidenses.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/garcia-harfuch-destaca-buenos-aires-resultados-uif-combate-delitos-financieros-20260818-828945.html",
-      "published_at": "2026-08-19T01:59:06+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, sin palabras cargadas ni énfasis ideológico; se citan fuentes oficiales y se limita a describir resultados y colaboraciones institucionales.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y financiero, resaltando cifras y la cooperación internacional, mientras omite el impacto humano de los delitos financieros y la perspectiva de víctimas o sociedad civil.",
-      "focus_tags": [
-        "seguridad financiera",
-        "cooperación internacional",
-        "resultados UIF"
-      ],
-      "context": [
-        {
-          "label": "Rol de la UIF",
-          "text": "La Unidad de Inteligencia Financiera es la entidad mexicana encargada de prevenir y detectar operaciones ilícitas mediante el análisis de flujos de dinero y la sanción de personas y cuentas vinculadas al crimen organizado."
-        },
-        {
-          "label": "Cooperación con EE. UU.",
-          "text": "El intercambio de información con la Oficina de Control de Activos Extranjeros (OFAC) y FinCEN refleja una tendencia creciente de coordinación binacional para desmantelar redes financieras criminales."
-        },
-        {
-          "label": "Otros medios",
-          "text": "Coberturas como la de Reforma destacaron la reducción de homicidios y la desarticulación de laboratorios de narcóticos, mientras que Aristegui Noticias subrayó los elogios personales del director de la DEA hacia García Harfuch, mostrando un enfoque más centrado en la percepción de la relación bilateral."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "e9f43cb0cf15",
-      "title": "Banfield se enfrenta a Midland por un lugar en los cuartos de final de la Copa Argentina",
-      "summary": "El club Banfield de Argentina se medirá contra Midland en el Estadio Nuevo Francisco Urbano de Morón, disputando un puesto en los cuartos de final de la Copa Argentina. Ambos equipos llegan al encuentro tras vencer en los octavos, Banfield sobre Real Pilar y Midland sobre Argentinos Juniors.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
-      "published_at": "2026-08-19T01:59:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta los hechos de forma descriptiva y neutral, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centra en el aspecto deportivo del enfrentamiento, resaltando resultados previos y la importancia del partido para avanzar en la Copa, omitiendo cualquier contexto político, económico o social.",
-      "focus_tags": [
-        "copa argentina",
-        "banfield",
-        "midland"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento reciente de Banfield",
-          "text": "Banfield ganó 3-0 a Real Pilar y superó en penales a San Martín de Tucumán en los octavos de final de la Copa Argentina, mostrando un buen nivel ofensivo."
-        },
-        {
-          "label": "Rendimiento reciente de Midland",
-          "text": "Midland avanzó tras vencer en penales a Argentinos Juniors y conseguir una victoria 2-1 sobre Deportivo Morón, manteniendo una racha de tres victorias y cuatro empates en los últimos siete partidos."
-        },
-        {
-          "label": "Formato de la Copa Argentina",
-          "text": "Los octavos de final de la Copa Argentina constan de dos partidos simultáneos; los ganadores de cada encuentro se enfrentarán en los cuartos de final para seguir compitiendo por el título."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "3c4c2efcd531",
-      "title": "Litter-Robot 5 Pro: el arenero inteligente de 899 dólares que limpia solo pero no reconoce a tus gatos",
-      "summary": "El Litter‑Robot 5 Pro de Whisker, que cuesta 899 dólares, ofrece una limpieza automática excelente pero su sistema de IA para identificar individualmente a los gatos no funciona de forma fiable cuando los animales son similares.",
-      "category": "tecnologia",
-      "source_name": "WWWhatsnew",
-      "source_url": "https://wwwhatsnew.com/2026/08/19/litter-robot-5-pro-review-cat-id-ia-gatos-analisis-2026/",
-      "published_at": "2026-08-19T02:00:41+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta un balance entre los puntos fuertes y débiles del producto, sin usar lenguaje cargado ni favorecer una postura ideológica.",
-      "focus_analysis": "El artículo se centra en la evaluación del desempeño técnico y la relación calidad‑precio del arenero inteligente, dejando de lado aspectos como el impacto ambiental o la comparación con la oferta del mercado de dispositivos domésticos.",
-      "focus_tags": [
-        "product review",
-        "pet technology",
-        "AI identification"
-      ],
-      "context": [
-        {
-          "label": "Historia del producto",
-          "text": "Whisker lanzó la serie Litter‑Robot hace varios años, consolidándose como una de las marcas líderes en areneros automáticos, con versiones anteriores como el Litter‑Robot 4 que ya ofrecían limpieza autónoma a un precio más bajo."
-        },
-        {
-          "label": "Desafíos de la IA en reconocimiento de mascotas",
-          "text": "Los sistemas de reconocimiento facial basados en IA funcionan bien con sujetos visualmente distintos, pero suelen fallar cuando los animales comparten características similares, un problema reportado también en cámaras de seguridad domésticas."
-        },
-        {
-          "label": "Comparación de precios en el mercado",
-          "text": "Los areneros automáticos de gama alta suelen oscilar entre 600 y 1 000 dólares; el Litter‑Robot 5 Pro se sitúa en el extremo superior, mientras que modelos más básicos de otras marcas pueden costar alrededor de 300‑400 dólares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
       }
     }
   ]
