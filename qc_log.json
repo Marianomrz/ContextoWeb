@@ -1,113 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-18T20:53:15.347607+00:00",
-      "title": "Tamaulipas tendrá dos nuevas secretarías, anuncia Américo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, ofreciendo una presentación clara y estructurada de la noticia.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:02:17.043246+00:00",
-      "title": "Una lluvia de papel: el collage fragmentario de Eduardo Galeano",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "HTTPSConnectionPool(host='api.inceptionlabs.ai', port=443): Read timed out. (read timeout=90)"
-    },
-    {
-      "at": "2026-08-18T21:02:22.533397+00:00",
-      "title": "Luis Ángel Jaramillo levanta la mano para volver como Miguel en la película “Coco 2”",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando la información de forma veraz, objetiva y bien estructurada; solo se sugiere reforzar la diversidad de fuentes para mayor robustez.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:02:26.329404+00:00",
-      "title": "Tras la derrota en el clásico, Gimnasia La Plata empata contra Riestra por los octavos de final de l",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los criterios editoriales, aunque la contradicción interna reduce la precisión de los datos.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:02:32.629706+00:00",
-      "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "Expecting ',' delimiter: line 16 column 179 (char 1126)"
-    },
-    {
-      "at": "2026-08-18T21:02:40.158410+00:00",
-      "title": "Madre de Hayden Panettiere habla de la muerte de su hija y señala a Brian Hickerson, novio de la act",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad, lo que lo descalifica para publicación a pesar de su actualidad y estructura adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T21:02:49.407755+00:00",
-      "title": "Constructoras de Querétaro reportan crecimiento en el segmento industrial",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares editoriales, mostrando datos verosímiles, fuentes variadas y estructura adecuada, aunque podría mejorar la objetividad al incluir perspectivas críticas.",
-      "error": null
-    },
-    {
       "at": "2026-08-18T21:02:59.322213+00:00",
       "title": "¿Filtrado el gameplay de GTA 6 antes de su lanzamiento?",
       "kind": "noticia",
@@ -3356,6 +3249,125 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere incluir fuentes complementarias para reforzar la robustez del contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:00:46.160497+00:00",
+      "title": "Banfield se enfrenta a Midland por un lugar en los cuartos de final de la Copa Argentina",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial para una noticia deportiva reciente y objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:00:52.634695+00:00",
+      "title": "García Harfuch destaca en Buenos Aires resultados de la UIF en el combate a delitos financieros",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque la falta de fuentes directas para los números impide una verificación completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:01:00.874593+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy martes 18 de agosto: Harfuch presume en Arg",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de news, aunque debería reforzar la verificación de datos y ampliar la diversidad de fuentes para un contraste más robusto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:01:09.358308+00:00",
+      "title": "9 historias y rostros de aspirantes en el examen de control de la UNAM; \"sentí un poquito de miedo p",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, y está bien estructurado; solo se le resta algunos puntos por la ausencia de fuentes más diversas en un tema de bajo conflicto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:01:16.479125+00:00",
+      "title": "Francia anuncia expulsión de dos diplomáticos iraníes",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y bien estructurado, pero contiene errores factuales y falta de fuentes contrastantes, lo que reduce su fiabilidad general.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:01:23.246696+00:00",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, pero la falta de fuentes múltiples limita ligeramente la profundidad del contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T02:01:37.997909+00:00",
+      "title": "La empresa que piensa",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, ofreciendo información veraz, contrastada y objetiva, con una presentación clara y actual.",
       "error": null
     }
   ]

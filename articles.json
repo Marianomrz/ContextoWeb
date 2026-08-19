@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T01:47:57.647647+00:00",
+  "generated_at": "2026-08-19T02:01:39.061714+00:00",
   "articles": [
+    {
+      "id": "95b947965fec",
+      "title": "La empresa que piensa",
+      "summary": "El artículo de Letras Libres argumenta que la ventaja competitiva futura de las empresas no será el acceso a modelos de IA avanzados, sino la capacidad de desarrollar una inteligencia organizacional que sepa formular preguntas, aprender y adaptarse rápidamente.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
+      "published_at": "2026-08-18T17:38:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje técnico y neutral, sin cargarse de términos ideológicos ni citar fuentes con sesgo evidente; se centra en la reflexión empresarial más que en una agenda política.",
+      "focus_analysis": "El medio elige abordar el tema desde la perspectiva de la estrategia y la gestión organizacional, resaltando la importancia de la inteligencia colectiva; deja de lado aspectos económicos de costos, regulaciones laborales o impactos sociales de la IA.",
+      "focus_tags": [
+        "inteligencia organizacional",
+        "estrategia AI",
+        "transformación empresarial"
+      ],
+      "context": [
+        {
+          "label": "caso Duolingo",
+          "text": "Duolingo, tras anunciarse como empresa \"AI‑first\", intentó usar la IA para evaluar el desempeño de sus empleados, pero tras la protesta interna el fundador Luis von Ahn revirtió la política, evidenciando la necesidad de decidir cuándo y cómo aplicar la IA."
+        },
+        {
+          "label": "evolución teoría empresarial",
+          "text": "Desde Adam Smith y la división del trabajo hasta Peter Drucker y el conocimiento como recurso estratégico, la teoría de la empresa ha evolucionado, pero ahora se plantea que la clave será la capacidad cognitiva de la organización para aprender y adaptarse."
+        },
+        {
+          "label": "perspectiva Harvard Business Review",
+          "text": "Un artículo de Harvard Business Review cuestionó que la ventaja competitiva de la IA radique en los modelos mismos, señalando que el contexto interno y el saber interpretarlo son los verdaderos diferenciadores entre compañías."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar mensajes de Gmail de forma autónoma cuando el usuario lo configura, aunque por defecto se solicita aprobación explícita para evitar envíos no deseados.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono descriptivo y neutral, sin usar vocabulario cargado ni favorecer a alguna posición política o comercial; simplemente explica la nueva funcionalidad.",
+      "focus_analysis": "El artículo se centra en la capacidad tecnológica y la configuración de la IA, dejando de lado una discusión profunda sobre los riesgos de privacidad o el impacto competitivo en el mercado de asistentes de IA.",
+      "focus_tags": [
+        "IA",
+        "correo electrónico",
+        "automatización"
+      ],
+      "context": [
+        {
+          "label": "Competencia en IA",
+          "text": "Claude compite con otros asistentes como ChatGPT de OpenAI, que también están integrando funciones de correo electrónico y productividad dentro de plataformas de Google."
+        },
+        {
+          "label": "Evolución de funciones",
+          "text": "Hasta hace poco, Claude solo podía redactar borradores de correos; la actualización elimina esa limitación y permite el envío automático bajo configuración del usuario."
+        },
+        {
+          "label": "Preocupaciones de privacidad",
+          "text": "El creciente uso de IA para enviar mensajes sin supervisión ha generado debates sobre la seguridad de los datos y la necesidad de mecanismos de control y auditoría."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "0e572da5aac1",
+      "title": "9 historias y rostros de aspirantes en el examen de control de la UNAM; \"sentí un poquito de miedo por perder mi lugar\", cuentan",
+      "summary": "La Universidad Autónoma de México (UNAM) llevó a cabo el examen de control presencial para más de 53 mil aspirantes, tras irregularidades en la fase en línea. Jóvenes de Guanajuato, Oaxaca y la Ciudad de México relataron nerviosismo y que la prueba resultó más complicada que la anterior.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/10-historias-y-rostros-de-aspirantes-en-el-examen-de-control-de-la-unam-senti-un-poquito-de-miedo-por-perder-mi-lugar-cuentan/",
+      "published_at": "2026-08-19T01:52:54+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutro, se centra en testimonios de estudiantes y no incluye carga política ni fuentes partidistas.",
+      "focus_analysis": "El medio eligió un ángulo humano, resaltando las experiencias y emociones de los aspirantes; quedó fuera el análisis institucional o crítico sobre la gestión de la UNAM.",
+      "focus_tags": [
+        "examen de control",
+        "experiencias estudiantiles",
+        "UNAM"
+      ],
+      "context": [
+        {
+          "label": "background",
+          "text": "La UNAM convoca a 53 568 aspirantes a un examen de control presencial después de detectar irregularidades en el proceso de admisión en línea."
+        },
+        {
+          "label": "comparative",
+          "text": "El Sol de México informó que casi el 40 % de los aspirantes no asistieron al examen de control en la Ciudad de México, indicando una baja participación respecto a la expectativa de 5 900 por turno."
+        },
+        {
+          "label": "other_media",
+          "text": "Otros medios han destacado la presión académica y la competencia intensa para ingresar a la UNAM, contextualizando el temor de los estudiantes a perder su plaza."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "4c406805927d",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy martes 18 de agosto: Harfuch presume en Argentina y frente a la DEA estrategia de seguridad en México",
+      "summary": "El secretario de Seguridad Ciudadana de México, Omar Harfuch, participó en una conferencia en Argentina y ante la DEA, donde destacó los resultados de la estrategia de seguridad mexicana contra el narcotráfico y el crimen.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/18/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-martes-18-de-agosto/",
+      "published_at": "2026-08-19T01:54:40+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto utiliza verbos como “presume” y se centra en los logros del gobierno sin incluir críticas ni voces opositoras, lo que indica una ligera inclinación favorable a la gestión de seguridad.",
+      "focus_analysis": "El medio optó por un ángulo institucional, resaltando los éxitos de la estrategia de seguridad y la cooperación con la DEA, mientras dejó de lado la discusión sobre violaciones de derechos humanos y la percepción pública de la seguridad.",
+      "focus_tags": [
+        "seguridad pública",
+        "política de drogas",
+        "relaciones internacionales"
+      ],
+      "context": [
+        {
+          "label": "Política de seguridad de México",
+          "text": "Bajo la administración de la presidenta Claudia Sheinbaum, el gobierno mexicano ha implementado una estrategia de seguridad que, según datos oficiales, ha reducido los homicidios y desmantelado varios laboratorios de narcotráfico."
+        },
+        {
+          "label": "Cooperación con la DEA",
+          "text": "La DEA ha organizado conferencias internacionales donde autoridades mexicanas, como Harfuch, presentan sus avances, reforzando la colaboración bilateral en la lucha contra el narcotráfico."
+        },
+        {
+          "label": "Críticas de derechos humanos",
+          "text": "Organizaciones como la CDHCM han señalado que la Secretaría de Seguridad Ciudadana de la Ciudad de México lidera las quejas por violaciones a derechos humanos, una perspectiva que medios como Reforma y Aristegui no enfatizan en sus coberturas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "a2b84282b639",
+      "title": "García Harfuch destaca en Buenos Aires resultados de la UIF en el combate a delitos financieros",
+      "summary": "El secretario de Seguridad y Protección Ciudadana de México, Omar García Harfuch, presentó en la Conferencia Internacional para el Control de Drogas en Buenos Aires los resultados de la Unidad de Inteligencia Financiera, que incluyen la incorporación de más de 2,300 personas a la lista de bloqueados, la inmovilización de 8,600 millones de pesos y la coordinación con la OFAC y FinCEN de EE. UU.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/politica/garcia-harfuch-destaca-buenos-aires-resultados-uif-combate-delitos-financieros-20260818-828945.html",
+      "published_at": "2026-08-19T01:59:06+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto utiliza un tono celebratorio y se centra en los logros oficiales sin incluir voces críticas o datos que maticen los resultados, lo que indica un leve sesgo a favor del gobierno.",
+      "focus_analysis": "El medio eligió destacar los resultados institucionales de la UIF y la cooperación internacional, dejando de lado el análisis de la efectividad real de estas medidas o perspectivas de la sociedad civil.",
+      "focus_tags": [
+        "seguridad financiera",
+        "cooperación internacional",
+        "logros institucionales"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la UIF",
+          "text": "La Unidad de Inteligencia Financiera de México, creada en 2004, se encarga de detectar y prevenir el lavado de dinero y el financiamiento del terrorismo, y ha aumentado su capacidad operativa en los últimos años."
+        },
+        {
+          "label": "Cooperación México‑EE. UU. en lucha contra el crimen organizado",
+          "text": "El intercambio de información entre la UIF y la Oficina de Control de Activos Extranjeros (OFAC) y FinCEN ha sido reforzado en los últimos años, facilitando la identificación de redes financieras vinculadas a grupos criminales."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios como Reforma y Aristegui Noticias resaltaron la disminución de homicidios y el elogio del director de la DEA, lo que muestra un énfasis en los resultados de seguridad y la amistad bilateral, diferente al enfoque puramente estadístico de El Economista."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "e9f43cb0cf15",
+      "title": "Banfield se enfrenta a Midland por un lugar en los cuartos de final de la Copa Argentina",
+      "summary": "El club Banfield de Argentina se medirá contra Midland en el Estadio Nuevo Francisco Urbano de Morón, disputando un encuentro de octavos de final que definirá quién avanza a los cuartos de la Copa Argentina.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
+      "published_at": "2026-08-19T01:59:26+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del encuentro y los resultados recientes sin usar vocabulario cargado ni favorecer a ningún equipo.",
+      "focus_analysis": "El medio se centra en la previa del partido, resaltando los resultados previos de ambos equipos en la Copa Argentina y su posición en la tabla; omite la reacción de los hinchas y el impacto económico del duelo.",
+      "focus_tags": [
+        "copa argentina",
+        "banfield",
+        "midland"
+      ],
+      "context": [
+        {
+          "label": "Rendimiento de Banfield",
+          "text": "Banfield llegó a esta fase tras vencer a Real Pilar por 3‑0 y eliminar a San Martín de Tucumán en penales, y recientemente ganó 1‑0 a Racing en la Primera División."
+        },
+        {
+          "label": "Trayectoria de Midland",
+          "text": "Midland, ubicado en la zona B de la Primera Nacional, superó a Argentinos Juniors en penales y a Deportivo Morón 2‑1, manteniéndose sin derrotas en siete partidos."
+        },
+        {
+          "label": "Importancia de la Copa Argentina",
+          "text": "La Copa Argentina permite a equipos de distintas categorías competir por un cupo a la Copa Libertadores, lo que genera gran interés mediático y financiero para los clubes participantes."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.4
+      }
+    },
     {
       "id": "895fba1e7b27",
       "title": "La Casa de los Famosos México 2026 en vivo: concluye la primera jornada de la Prueba Semanal",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "80e5cffeb71a",
-      "title": "Cierre de la mezcla mexicana de petróleo de este martes 18 de agosto",
-      "summary": "La empresa estatal Petróleos Mexicanos (Pemex) informó que la mezcla mexicana de petróleo crudo cerró a 80,5 dólares por barril el martes 18 de agosto de 2026, según los datos publicados en su portal oficial.",
-      "category": "economia",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/cierre-de-la-mezcla-mexicana-de-petroleo-de-este-martes-18-de-agosto/",
-      "published_at": "2026-08-19T01:01:07+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y sin adjetivos cargados, se limita a presentar datos de precios y producción sin citar fuentes con sesgo ni emplear encuadres políticos.",
-      "focus_analysis": "El medio se centró en el aspecto económico del precio y la producción del crudo mexicano, omitiendo cualquier ángulo humano, político o de seguridad relacionado con la industria petrolera.",
-      "focus_tags": [
-        "precio del petróleo",
-        "mezcla mexicana",
-        "producción Pemex"
-      ],
-      "context": [
-        {
-          "label": "Papel de Pemex en la industria nacional",
-          "text": "Pemex sigue siendo el productor dominante en México, aportando aproximadamente el 98,8 % de la producción total de crudo, mientras que las empresas privadas representan apenas el 1,2 %."
-        },
-        {
-          "label": "Tipos de crudo mexicano",
-          "text": "México clasifica su crudo en tres categorías según la densidad: Maya (pesado, 54 % de la producción), Istmo (ligero, 33 %) y Olmeca (superligero, 12 %). Cada tipo tiene usos distintos en la refinación y la industria petroquímica."
-        },
-        {
-          "label": "Tendencia de producción reciente",
-          "text": "En 2020 la producción de Pemex alcanzó 1,705 millones de barriles diarios, superando en 4 mil barriles diarios la cifra de 2019 y rompiendo una racha de 15 años de caída."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "050522760931",
-      "title": "Metro exhorta a usuarios a cuidar sus pertenencias; 94 paraguas han caído a las vías en lo que va del año",
-      "summary": "El Sistema de Transporte Colectivo (STC) Metro de la Ciudad de México instó a los usuarios de sus 12 líneas a evitar que paraguas y otros objetos caigan a las vías, ya que este año se han registrado 94 incidentes que provocan cortocircuitos y detenciones del servicio.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/metro-exhorta-a-usuarios-a-cuidar-sus-pertenencias-94-paraguas-han-caido-a-las-vias-en-lo-que-va-del-ano/",
-      "published_at": "2026-08-19T00:36:02+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje informativo y neutro, sin palabras cargadas ni citas que favorezcan una posición política; se limita a describir hechos y recomendaciones de seguridad.",
-      "focus_analysis": "El artículo se centra en el aspecto de seguridad operativa del metro, resaltando el riesgo de objetos metálicos en las vías y sus consecuencias técnicas, mientras omite discusiones sobre inversión en infraestructura o la experiencia de los usuarios.",
-      "focus_tags": [
-        "seguridad del metro",
-        "objetos en vías",
-        "cortes de energía"
-      ],
-      "context": [
-        {
-          "label": "Historial de incidentes",
-          "text": "Años anteriores el metro ha registrado casos similares de objetos caídos en las vías, lo que ha generado interrupciones temporales del servicio y ha llevado a campañas de concientización."
-        },
-        {
-          "label": "Características técnicas",
-          "text": "El sistema de tracción del metro funciona con una barra electrificada de 750 voltios; cualquier objeto metálico que la toque puede producir cortocircuitos y requerir apagones de tres a cinco minutos para su extracción."
-        },
-        {
-          "label": "Comparación internacional",
-          "text": "Otros sistemas de transporte urbano, como el de Londres o Nueva York, también han implementado campañas y señalizaciones para evitar que paraguas y objetos similares caigan a sus vías, reduciendo incidentes y retrasos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.4
-      }
-    },
-    {
-      "id": "1c4147eb5290",
-      "title": "SEP publica los resultados de “Mi derecho, mi lugar” 2026 para estudiantes de preparatoria",
-      "summary": "La Secretaría de Educación Pública de México dio a conocer que el 99,2 % de los más de 191 mil aspirantes al programa \"Mi derecho, mi lugar\" 2026 fueron ubicados en una de sus tres primeras opciones, y que más de la mitad de los solicitantes son mujeres.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/sep-publica-los-resultados-de-mi-derecho-mi-lugar-2026-para-estudiantes-de-preparatoria/",
-      "published_at": "2026-08-19T00:39:11+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto utiliza un tono mayormente positivo, resaltando los logros del gobierno y citando a funcionarios sin incluir críticas ni fuentes independientes, lo que indica una ligera inclinación favorable al oficial.",
-      "focus_analysis": "El medio se centra en el desempeño institucional del programa educativo y en los anuncios de la presidenta, dejando de lado posibles análisis críticos sobre la calidad de la educación o la equidad del proceso de asignación.",
-      "focus_tags": [
-        "educación pública",
-        "política educativa",
-        "resultados de programa"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del programa",
-          "text": "El programa \"Mi derecho, mi lugar\" se implementó en 2020 como el sistema nacional de admisión a la educación media superior, con el objetivo de asignar cupos según la prioridad de los estudiantes y reducir la necesidad de exámenes de ingreso."
-        },
-        {
-          "label": "Agenda de la presidenta Sheinbaum",
-          "text": "Claudia Sheinbaum, presidenta de México, anunció en agosto de 2026 la ampliación de los cupos de bachillerato de 200 mil a 400 mil y una inversión de más de 10 mil millones de pesos para construir y modernizar 485 planteles en todo el país."
-        },
-        {
-          "label": "Comparación histórica de colocación",
-          "text": "En años anteriores, la tasa de colocación del programa había sido inferior al 95 %, por lo que el 99,2 % de 2026 representa una mejora significativa respecto a resultados previos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Letras Libres argumenta que la verdadera ventaja competitiva de las empresas no radica en poseer los modelos de IA más avanzados, sino en desarrollar una inteligencia organizacional que permita formular preguntas adecuadas, interpretar el contexto y aprender rápidamente.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto enfatiza la crítica a la adopción ciega de la IA por parte de las empresas y destaca la voz de los empleados de Duolingo, reflejando una postura progresista que prioriza el bienestar laboral y la reflexión crítica sobre la tecnología.",
-      "focus_analysis": "Se centra en el ángulo organizacional y estratégico de la IA, resaltando la importancia de la inteligencia colectiva y la velocidad de aprendizaje, mientras deja de lado los aspectos técnicos de los modelos o la regulación gubernamental.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "estrategia empresarial",
-        "IA en negocios"
-      ],
-      "context": [
-        {
-          "label": "Caso Duolingo",
-          "text": "Duolingo anunció una política \"AI‑first\" que incluía evaluar a los empleados con IA, pero tras la objeción de su personal, el fundador Luis von Ahn revocó la medida, ilustrando la tensión entre la adopción tecnológica y la aceptación interna."
-        },
-        {
-          "label": "Historia de la teoría de la empresa",
-          "text": "El artículo rememora cómo pensadores como Adam Smith, Frederick Taylor, Henry Ford y Peter Drucker explicaron la ventaja competitiva mediante la división del trabajo, la eficiencia y el conocimiento, sirviendo de antecedente para la nueva propuesta de inteligencia organizacional."
-        },
-        {
-          "label": "Perspectiva de Harvard Business Review",
-          "text": "Un estudio publicado en Harvard Business Review plantea que, cuando todas las compañías pueden usar los mismos modelos de IA, la ventaja competitiva pasa a depender del contexto interno y del conocimiento acumulado de la organización."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "La inteligencia artificial Claude de Anthropic ahora puede redactar y enviar correos de Gmail de forma autónoma, siempre que el usuario haya activado previamente esa opción y mantenga la posibilidad de exigir aprobación explícita.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto usa un tono descriptivo y neutral, sin palabras cargadas ni crítica política; se centra en la funcionalidad del producto y menciona medidas de seguridad, lo que indica una ligera inclinación positiva hacia la tecnología pero sin sesgo evidente.",
-      "focus_analysis": "El medio elige resaltar el aspecto técnico y la conveniencia de la nueva función de Claude, dejando de lado discusiones más amplias sobre privacidad, ética de la IA o riesgos de automatización sin supervisión.",
-      "focus_tags": [
-        "inteligencia artificial",
-        "correo electrónico",
-        "automatización"
-      ],
-      "context": [
-        {
-          "label": "evolución de Claude",
-          "text": "Hasta hace poco, la IA Claude de Anthropic solo podía leer la bandeja de entrada y generar borradores de respuestas, requiriendo siempre que el usuario enviara el correo manualmente."
-        },
-        {
-          "label": "integraciones de IA en productividad",
-          "text": "Otros proveedores, como Google con su asistente Gemini y Microsoft con Copilot, también han incorporado funciones que permiten a la IA redactar, organizar y enviar correos electrónicos mediante comandos de lenguaje natural."
-        },
-        {
-          "label": "preocupaciones de seguridad",
-          "text": "Expertos en ciberseguridad advierten que la capacidad de una IA para enviar mensajes sin revisión humana puede generar riesgos de phishing, filtrado de información confidencial o respuestas inapropiadas si no se controla adecuadamente."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "c3502174c0e0",
-      "title": "¿Cómo impacta la IA las funciones de Recursos Humanos?",
-      "summary": "Según estudios de la OIT y Hays, la inteligencia artificial está transformando funciones clave de los recursos humanos en México y a nivel global, como la contratación y la gestión del talento, actuando como un copiloto que ayuda a los profesionales sin sustituir el factor humano.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/capital-humano/impacta-ia-funciones-recursos-humanos-20260818-828905.html",
-      "published_at": "2026-08-19T00:30:00+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto enfatiza los beneficios de eficiencia y productividad de la IA y cita a expertos empresariales, mientras que apenas menciona riesgos o críticas, lo que refleja un ligero sesgo pro‑negocio.",
-      "focus_analysis": "El artículo se centra en el ángulo económico y operativo de la IA en RRHH, destacando la mejora de procesos y el papel estratégico, dejando de lado los posibles impactos negativos en el empleo y las cuestiones éticas.",
-      "focus_tags": [
-        "IA en recursos humanos",
-        "eficiencia laboral",
-        "automatización de procesos"
-      ],
-      "context": [
-        {
-          "label": "Tendencia global",
-          "text": "El análisis de Tendencias y Salarios 2026 de Hays indica que, a nivel mundial, las funciones de recursos humanos son la segunda área más afectada por la IA, solo detrás de las tecnologías de la información."
-        },
-        {
-          "label": "Estudio de la OIT",
-          "text": "La Organización Internacional del Trabajo publicó el estudio 'La IA en la gestión de RRHH: los límites del empirismo', que señala que los profesionales de recursos humanos están cediendo algunas responsabilidades a algoritmos, aunque el factor humano sigue siendo esencial."
-        },
-        {
-          "label": "Perspectiva empresarial mexicana",
-          "text": "Según el estudio de MCV sobre informalidad laboral y exposición a la IA en México, la adopción de la IA en RRHH es mixta, con tareas que pueden automatizarse y otras que requieren intervención humana, y consultoras como EY y DHR Global describen a la IA como un 'copiloto' que potencia la labor de los especialistas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
       }
     }
   ]
