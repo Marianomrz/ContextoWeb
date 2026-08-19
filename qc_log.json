@@ -1,170 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T10:39:00.102234+00:00",
-      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 2",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y estructurada, aunque podría reforzar la verificación con fuentes específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:39:07.050579+00:00",
-      "title": "Solución Final",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial; solo se sugiere reforzar la confianza en la fuente, pero en general es apto para publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:39:13.534527+00:00",
-      "title": "Jalisco: Aseguran combustible, tractocamiones y pipas en presunto centro de huachicol",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con precisión, objetividad y actualidad, pero debería incorporar más fuentes y perspectivas para ofrecer un contraste adecuado en un tema conflictivo como el huachicol.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:39:19.814991+00:00",
-      "title": "Impacto en la Fórmula 1: un piloto podría perderse el GP de Países Bajos y provocaría un intercambio",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra buena estructura y neutralidad, pero la falta de precisión factual y de fuentes contrastadas compromete su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:39:23.005050+00:00",
-      "title": "El tenista Nick Kyrgios reconoce haber dado positivo en cocaína",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando una noticia veraz, bien contrastada, objetiva y estructurada de manera adecuada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:39:28.150252+00:00",
-      "title": "Precios de la gasolina hoy en México: Litro de Magna, Premium y Diésel este miércoles 19 de agosto",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información reciente, verificable y presentada de forma objetiva, aunque se sugiere corroborar la afirmación histórica sobre la CRE.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:46:40.027956+00:00",
-      "title": "\"Mi abuelo tuvo 5 esposas. Todos sabían su lugar\": cómo la novela \"El Polígamo\" se convirtió en un é",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo está bien estructurado y es actual, pero presenta serios problemas de veracidad y falta de fuentes contrastadas, lo que compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:46:44.958216+00:00",
-      "title": "Trump agota en la guerra con Irán las armas de EU; analistas alertan vulnerabilidad del país",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla gravemente en veracidad y objetividad, pese a estar actualizado y bien estructurado; necesita fuentes verificables y un tono más neutral antes de publicar.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:46:59.885416+00:00",
-      "title": "Nick Kyrgios dio positivo por cocaína en un control de dopaje y quedó suspendido del circuito de ten",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "502 Server Error: Bad Gateway for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
-      "at": "2026-08-19T10:47:08.528786+00:00",
-      "title": "Precio de la gasolina en Jalisco este 19 de agosto",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los requisitos de objetividad y actualidad, aunque la precisión de algunos datos regulatorios es dudosa y debería verificarse antes de publicar.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T10:47:17.536318+00:00",
       "title": "A precio de outlet el Magic Mouse de Apple, un ratón con un diseño muy particular y gestos Multi-Tou",
       "kind": "noticia",
@@ -3392,6 +3228,176 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, actual y estructurada, aunque podría reforzar la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:39:49.222092+00:00",
+      "title": "Isaac del Toro impone su ritmo y se lleva el prólogo de la Vuelta a Alemania",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es claro, objetivo y actual, pero contiene un error de precisión sobre la nacionalidad de un competidor y una categoría errónea que afecta su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:39:56.762231+00:00",
+      "title": "El presidente del Atlético de Madrid insistió con que Julián Álvarez no se irá al Barcelona y crece ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la estructura y la neutralidad son buenas, la falta de veracidad y ausencia de fuentes contrastantes hacen que el paquete no cumpla los estándares editoriales para publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:03.972800+00:00",
+      "title": "Operativo de la Defensa contra el “Tío Lako”, líder regional del CJNG, desata narcobloqueos en Micho",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una cobertura objetiva y bien contrastada de un hecho reciente, pese a la falta de verificación externa de algunas cifras.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:11.074339+00:00",
+      "title": "Claude diseñó proteínas contra 15 objetivos. Cuando las fabricaron en un laboratorio, funcionaron co",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple razonablemente con los estándares de claridad y actualidad, pero necesita fuentes más diversas y mayor respaldo de datos para alcanzar una calidad editorial óptima.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:16.814082+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Ceuta acepta el plan del Gobierno de ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 5,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes múltiples y de datos verificables disminuye su fiabilidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:21.872751+00:00",
+      "title": "Chuleta ahumada a la hawaiana: Una receta agridulce con piña lista en 30 minutos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; solo se podría enriquecer con fuentes culinarias adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:34.181315+00:00",
+      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 2",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la precisión de los datos y diversificar sus fuentes, pero cumple con la actualidad y la estructura requerida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:38.677064+00:00",
+      "title": "¿Cómo será el clima hoy en CDMX?; prevén lluvias fuertes y actividad eléctrica",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, ofreciendo una presentación clara y bien estructurada del pronóstico meteorológico.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:46.240858+00:00",
+      "title": "Tras el cambio de entrenador, Independiente cerró dos refuerzos para la recta final del Torneo Claus",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia deportiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T15:40:51.684937+00:00",
+      "title": "Temblor hoy 19 de agosto en México: se registró un sismo de magnitud 4.0 en Chiapas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, y es apropiado para su publicación inmediata.",
       "error": null
     }
   ]
