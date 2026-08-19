@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T05:02:05.152777+00:00",
+  "generated_at": "2026-08-19T05:05:33.707484+00:00",
   "articles": [
+    {
+      "id": "a47e81404bcc",
+      "title": "Volcadura en el bulevar Las Joyas deja heridas a una mujer y su hija",
+      "summary": "Una mujer y su hija de 11 años resultaron heridas tras la volcadura de su Chevrolet Blazer RS en el bulevar Las Joyas, en León, Guanajuato, provocada por lluvia y velocidad; fueron atendidas y trasladadas a un hospital en estado grave pero estable.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/leon/2026/08/18/volcadura-en-el-bulevar-las-joyas-deja-heridas-a-una-mujer-y-su-hija-1834073.html",
+      "published_at": "2026-08-19T04:55:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del accidente sin usar lenguaje cargado ni incluir opiniones o fuentes con sesgo político.",
+      "focus_analysis": "El artículo se centra en los detalles del accidente y la condición de las víctimas, dejando de lado el contexto de políticas de seguridad vial o análisis de causas estructurales.",
+      "focus_tags": [
+        "accidente de tráfico",
+        "lesiones graves",
+        "León"
+      ],
+      "context": [
+        {
+          "label": "estadísticas de tráfico",
+          "text": "León, Guanajuato, ha registrado un aumento de accidentes de tráfico en los últimos años, particularmente en condiciones de lluvia, según la Secretaría de Seguridad Pública del estado."
+        },
+        {
+          "label": "condiciones climáticas",
+          "text": "En agosto de 2026 la región de León experimentó lluvias intensas que redujeron la visibilidad en varias vías urbanas, elevando el riesgo de colisiones."
+        },
+        {
+          "label": "respuesta de emergencias",
+          "text": "La Policía Vial y los bomberos de León cuentan con protocolos de intervención rápida y suelen trasladar a los heridos a hospitales locales para su atención."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "f45c2aebe9b2",
+      "title": "Desacelera inflación mayorista en Argentina",
+      "summary": "El Instituto Nacional de Estadística y Censos (INDEC) informó que el Índice de Precios Internos al Por Mayor (IPIM) subió solo un 0,8 % en julio de 2026, marcando la menor variación mensual desde 2019, y el presidente Javier Milei celebró el dato como una señal de estabilización de la inflación mayorista.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/desacelera-inflacion-mayorista-argentina-20260818-828987.html",
+      "published_at": "2026-08-19T04:56:40+00:00",
+      "bias_score": 12,
+      "bias_reason": "El texto destaca la reacción positiva del gobierno y utiliza un tono celebratorio, sin incluir críticas ni perspectivas opositoras, lo que indica una ligera inclinación favorable al presidente y a sus políticas económicas.",
+      "focus_analysis": "El medio se centró en el aspecto económico, resaltando la desaceleración de la inflación mayorista y la aprobación oficial, dejando de lado el impacto social de la inflación y la discusión de políticas alternativas.",
+      "focus_tags": [
+        "inflación mayorista",
+        "política económica",
+        "Argentina"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes inflacionarios",
+          "text": "Argentina ha registrado tasas de inflación de dos dígitos durante la mayor parte de la última década, con picos que superaron el 50 % anual en algunos años, lo que ha generado una constante preocupación sobre la estabilidad de precios."
+        },
+        {
+          "label": "Reformas de Javier Milei",
+          "text": "Desde su asunción, el presidente Javier Milei ha impulsado un programa de liberalización económica que incluye la reducción del gasto público, la eliminación de subsidios y la apertura del mercado cambiario, buscando frenar la inflación y atraer inversión."
+        },
+        {
+          "label": "Perspectiva internacional",
+          "text": "Instituciones como el FMI y analistas externos han advertido que, aunque la inflación mayorista muestra signos de desaceleración, la inflación subyacente y los precios de alimentos y energía siguen siendo vulnerables a presiones externas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Anthropic ha añadido a su asistente de IA Claude la capacidad de redactar y enviar correos de Gmail de forma autónoma, siempre que el usuario lo haya configurado previamente, manteniendo la opción de requerir aprobación explícita para cada mensaje.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto es descriptivo y neutro, sin lenguaje cargado ni selección de fuentes que favorezcan una postura ideológica; se limita a explicar la nueva función y sus configuraciones.",
+      "focus_analysis": "El artículo se centra en la novedad tecnológica y la configuración de la herramienta, dejando de lado un análisis profundo de los riesgos de privacidad o de los debates éticos sobre la automatización de la comunicación.",
+      "focus_tags": [
+        "IA",
+        "automatización de correos",
+        "integración Google Workspace"
+      ],
+      "context": [
+        {
+          "label": "Evolución de Claude",
+          "text": "Hasta hace poco, Claude solo podía leer la bandeja de entrada y generar borradores de respuesta, sin la posibilidad de enviarlos sin la intervención del usuario."
+        },
+        {
+          "label": "Tendencia de IA en productividad",
+          "text": "Otros proveedores, como Microsoft con Copilot en Outlook, también están incorporando funciones de redacción y envío automático de correos, reflejando una tendencia general hacia la automatización de tareas de oficina."
+        },
+        {
+          "label": "Preocupaciones de privacidad",
+          "text": "Expertos en seguridad y privacidad han advertido que la capacidad de enviar mensajes sin supervisión puede generar riesgos de filtración de información sensible o de respuestas inapropiadas, lo que ha impulsado la inclusión de configuraciones de aprobación explícita."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "d4f319b7391e",
+      "title": "Deportaron de Paraguay a 10 hinchas de Boca en la previa del partido ante Recoleta",
+      "summary": "Diez seguidores del club argentino Boca Juniors fueron expulsados de Paraguay durante los controles migratorios previos al partido de octavos de final de la Copa Sudamericana contra Recoleta, tras ser detectados con restricciones para asistir a eventos deportivos internacionales.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/deportaron-de-paraguay-a-10-hinchas-de-boca-en-la-previa-del-partido-ante-recoleta/",
+      "published_at": "2026-08-19T04:18:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin palabras cargadas ni fuentes que favorezcan una postura política; se limita a informar sobre el operativo de seguridad y la deportación.",
+      "focus_analysis": "El medio se centra en el aspecto de seguridad y control migratorio del evento, dejando de lado la perspectiva de los hinchas afectados y el impacto emocional del episodio.",
+      "focus_tags": [
+        "seguridad deportiva",
+        "control migratorio",
+        "Copa Sudamericana"
+      ],
+      "context": [
+        {
+          "label": "competición",
+          "text": "La Copa Sudamericana, organizada por la CONMEBOL, es el segundo torneo de clubes más importante de Sudamérica, y los partidos de eliminación suelen contar con estrictos protocolos de seguridad para los aficionados extranjeros."
+        },
+        {
+          "label": "precedentes",
+          "text": "En años anteriores, autoridades de países sudamericanos han deportado a seguidores de equipos extranjeros cuando se detectan antecedentes de comportamiento violento o restricciones migratorias, como ocurrió en la Copa Libertadores de 2015 en Ecuador."
+        },
+        {
+          "label": "cooperación binacional",
+          "text": "Para este encuentro, Paraguay y Argentina desplegaron un dispositivo conjunto de control y seguridad, coordinado por fuerzas policiales de ambos países, con el fin de vigilar la entrada de los hinchas y evitar incidentes en el estadio Defensores del Chaco."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "1d5508c90a79",
+      "title": "Trasladan a cinco reos a penal federal de Villa Crisol en Chiapas; uno es líder del CJNG y dos de La Unión Tepito",
+      "summary": "Las autoridades mexicanas trasladaron a cinco reos, incluido un presunto líder del Cártel Jalisco Nueva Generación y dos miembros de La Unión Tepito, al penal federal Villa Crisol en Chiapas, mediante un operativo aéreo y terrestre con participación del Ejército, Guardia Nacional y policías.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/trasladan-a-cinco-reos-a-penal-federal-de-villa-crisol-en-chiapas-uno-es-lider-del-cjng-y-dos-de-la-union-tepito/",
+      "published_at": "2026-08-19T04:58:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos sin usar adjetivos cargados ni ofrecer opiniones, manteniendo un tono neutral y objetivo.",
+      "focus_analysis": "El medio se centra en la dimensión de seguridad y la acción institucional de trasladar a figuras delictivas, dejando de lado el impacto humano de los reos y el contexto de derechos penitenciarios.",
+      "focus_tags": [
+        "seguridad pública",
+        "cárteles de droga",
+        "transferencia penitenciaria"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes penitenciarios",
+          "text": "El penal federal Villa Crisol, inaugurado en 2023, está diseñado para albergar a internos de alto riesgo y reducir la capacidad de los cárteles de ejercer influencia dentro de los centros penitenciarios."
+        },
+        {
+          "label": "Carteles involucrados",
+          "text": "El Cártel Jalisco Nueva Generación y La Unión Tepito son organizaciones criminales que operan en varios estados de México y son responsables de una parte significativa de la violencia y el tráfico de drogas del país."
+        },
+        {
+          "label": "Política de traslado de reos",
+          "text": "El gobierno federal ha implementado una política de reubicación de presos de alto perfil a prisiones lejanas como medida para dificultar la coordinación entre los líderes de los cárteles y sus redes."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "86d88a17f309",
+      "title": "Hormiga González en el Olympiacos: estos son los delanteros que le disputarían la titularidad",
+      "summary": "Armando González, el delantero mexicano de Chivas, podría incorporarse al Olympiacos de Grecia, donde tendría que competir por un puesto titular con los experimentados atacantes Ayoub El Kaabi, Mehdi Taremi y Roman Yaremchuk.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/19/hormiga-gonzalez-en-el-olympiacos-estos-son-los-delanteros-que-le-disputarian-la-titularidad/",
+      "published_at": "2026-08-19T04:59:20+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra exclusivamente en el aspecto deportivo, usa un lenguaje descriptivo sin cargar ideológico y no favorece ni critica a ninguna corriente política.",
+      "focus_analysis": "El medio eló el ángulo deportivo, resaltando la competencia interna del Olympiacos y el desafío para González, dejando de lado temas como el impacto financiero del fichaje o la política de fichajes internacionales.",
+      "focus_tags": [
+        "fútbol",
+        "transferencias",
+        "competencia"
+      ],
+      "context": [
+        {
+          "label": "Olympiacos",
+          "text": "El Olympiacos es el club más dominante de la Superliga de Grecia y suele participar en competiciones europeas como la UEFA Champions League y la Europa League."
+        },
+        {
+          "label": "Armando González",
+          "text": "González fue el máximo goleador de la Liga MX en la temporada 2025‑2026 con el Club Deportivo Guadalajara, conocido como 'La Hormiga'."
+        },
+        {
+          "label": "Delanteros rivales",
+          "text": "Ayoub El Kaabi (Marruecos), Mehdi Taremi (Irán) y Roman Yaremchuk (Ucrania) son atacantes con trayectoria europea y experiencia internacional que forman parte del plantel del Olympiacos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "833395d66f63",
       "title": "Ediciones Era deja como legado 66 años de libros en bibliotecas y sus lectores; reducirá al mínimo sus operaciones",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "d4f319b7391e",
-      "title": "Deportaron de Paraguay a 10 hinchas de Boca en la previa del partido ante Recoleta",
-      "summary": "Diez seguidores del club argentino Boca Juniors fueron expulsados de Paraguay por la autoridad migratoria antes del partido de vuelta contra Recoleta en la Copa Sudamericana, mientras miles de hinchas xeneizes ingresaron sin incidentes al estadio Defensores del Chaco en Asunción.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/deportaron-de-paraguay-a-10-hinchas-de-boca-en-la-previa-del-partido-ante-recoleta/",
-      "published_at": "2026-08-19T04:18:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se mantiene descriptivo y objetivo, citando a autoridades y evitando adjetivos cargados o juicios de valor; no muestra preferencia política ni deportiva.",
-      "focus_analysis": "El medio se centró en la operativa de seguridad y control migratorio alrededor del encuentro, dejando de lado el impacto humano y emocional de la deportación sobre los aficionados.",
-      "focus_tags": [
-        "seguridad migratoria",
-        "copa sudamericana",
-        "deportación de hinchas"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del torneo",
-          "text": "Boca Juniors y Recoleta se enfrentaban en los octavos de final de la Copa Sudamericana, con Boca liderando la serie 3‑1 tras el partido de ida en Buenos Aires, lo que aumentó la afluencia de seguidores al encuentro de vuelta en Asunción."
-        },
-        {
-          "label": "Política migratoria deportiva",
-          "text": "Paraguay aplica restricciones de ingreso a extranjeros que tengan observaciones en su historial migratorio para eventos internacionales organizados por la Conmebol, lo que permite a la autoridad expulsar a individuos que no cumplan con los requisitos de seguridad."
-        },
-        {
-          "label": "Reacción de los hinchas",
-          "text": "Aproximadamente 20 000 seguidores de Boca Juniors viajaron a Asunción; la mayoría ingresó sin problemas bajo un estricto control de seguridad, mientras que diez fueron deportados tras ser detectados en el sistema con alertas de restricción."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "a21047f8e67e",
-      "title": "El mercado inmobiliario de EU siguió bajo presión en julio",
-      "summary": "El mercado inmobiliario de Estados Unidos experimentó en julio una fuerte caída en la construcción de viviendas unifamiliares, con una disminución del 9,9% respecto al mes anterior y el nivel más bajo desde 2022, mientras que los permisos de construcción y los contratos de viviendas de segunda mano también mostraron retrocesos, reflejando la presión de las altas tasas hipotecarias y la incertidumbre económica.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/mercado-inmobiliario-eu-siguio-presion-julio-20260818-828983.html",
-      "published_at": "2026-08-19T03:55:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar datos oficiales y citas de economistas sin usar un carga ni favorecer una postura política o empresarial específica.",
-      "focus_analysis": "El medio se centró en el ángulo económico, resaltando cifras de construcción, permisos y ventas, y dejó de lado el impacto social y de asequibilidad para los compradores de vivienda.",
-      "focus_tags": [
-        "construcción de viviendas",
-        "tasas hipotecarias",
-        "mercado inmobiliario EE.UU."
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del mercado",
-          "text": "Desde el aumento de las tasas de interés por parte de la Reserva Federal en 2022, el mercado de la vivienda en EE.UU. ha enfrentado una reducción sostenida en la demanda y en la actividad de construcción, con precios de viviendas en alza y una mayor dificultad de acceso para los compradores."
-        },
-        {
-          "label": "Comparación histórica",
-          "text": "La caída del 9,9% en la construcción de casas unifamiliares en julio representa el nivel más bajo desde noviembre de 2022, una tendencia similar a la observada en el segundo semestre de 2023, cuando la actividad de construcción también se redujo significativamente por los costos de financiamiento."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otras publicaciones que cubren el mismo hecho, como Reuters, subrayan además la incertidumbre provocada por la tensión geopolítica con Irán como un factor que amplifica la cautela de los inversores y constructores en el sector inmobiliario."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Javier Treviño en Letras Libres sostiene que la ventaja competitiva futura de las empresas no será el acceso a modelos avanzados de IA, sino su capacidad organizacional para aprender y usar la IA de forma inteligente, ejemplificada por la reversión de la política de IA de Duolingo.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto adopta un tono crítico hacia la adopción indiscriminada de IA y enfatiza la reflexión organizacional, sin citar fuentes conservadoras, lo que indica una ligera inclinación progresista.",
-      "focus_analysis": "El medio elige un ángulo de estrategia empresarial y aprendizaje organizacional, dejando de lado los aspectos técnicos de la IA y la regulación pública.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "estrategia empresarial",
-        "IA en negocios"
-      ],
-      "context": [
-        {
-          "label": "historia de la IA en empresas",
-          "text": "Desde principios de los 2000, compañías como Google y Amazon han integrado IA en sus procesos, pero los estudios indican que la ventaja competitiva depende más de la capacidad de aprendizaje organizacional que del mero uso de algoritmos."
-        },
-        {
-          "label": "caso Duolingo",
-          "text": "En 2025, Duolingo anunció una política de evaluación basada en IA que fue cuestionada por sus empleados; su fundador Luis von Ahn revocó la medida, subrayando la necesidad de decidir cuándo usar la IA."
-        },
-        {
-          "label": "perspectiva académica",
-          "text": "Investigadores como Peter Drucker y Alfred Chandler han señalado que la ventaja competitiva histórica se basa en la coordinación y el conocimiento interno, una idea que se reitera en la literatura actual sobre IA y aprendizaje organizacional."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar respuestas en Gmail de forma autónoma cuando el usuario lo configura, aunque la compañía mantiene una opción de aprobación explícita para evitar envíos no deseados.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 12,
-      "bias_reason": "El texto destaca las ventajas y funcionalidades de la nueva integración con un tono positivo y escasa crítica, enfocándose en la innovación tecnológica y la comodidad para el usuario.",
-      "focus_analysis": "El artículo se centra en el aspecto técnico y de usabilidad de la función de envío automático de correos, dejando de lado una discusión profunda sobre riesgos de privacidad o implicaciones éticas.",
-      "focus_tags": [
-        "IA",
-        "automatización de email",
-        "Google Workspace"
-      ],
-      "context": [
-        {
-          "label": "capacidad previa de Claude",
-          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, pero el envío requería la intervención manual del usuario."
-        },
-        {
-          "label": "integraciones de IA en Google Workspace",
-          "text": "Google Workspace ya permite a otras IA, como las de Microsoft y Google, interactuar con correos y archivos, facilitando búsquedas y gestión de etiquetas mediante lenguaje natural."
-        },
-        {
-          "label": "preocupaciones de privacidad y regulación",
-          "text": "Expertos y reguladores han advertido sobre los riesgos de que sistemas de IA envíen mensajes sin supervisión, lo que podría derivar en filtraciones de datos o comunicaciones no autorizadas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "e9f43cb0cf15",
-      "title": "Banfield eliminó por penales a Midland y será el rival de Deportivo Riestra en los cuartos de final de la Copa Argentina",
-      "summary": "El club argentino Banfield eliminó a Midland en la tanda de penales y se medirá con Deportivo Riestra en los cuartos de final de la Copa Argentina.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
-      "published_at": "2026-08-19T03:25:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido con un lenguaje neutral, sin palabras cargadas ni fuentes con sesgo político.",
-      "focus_analysis": "El medio se centró en el desarrollo del encuentro y la definición por penales, dejando fuera el contexto más amplio del torneo y la repercusión entre los aficionados.",
-      "focus_tags": [
-        "copa argentina",
-        "penales",
-        "cuartos de final"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "La Copa Argentina es un torneo de eliminación directa que reúne a equipos de todas las categorías del fútbol argentino; los octavos de final determinan los ocho equipos que pasarán a cuartos."
-        },
-        {
-          "label": "datos comparables",
-          "text": "En la misma jornada, el Atlético Tucumán venció 4‑0 a Independiente, mostrando la variedad de resultados que se pueden dar en esta fase del campeonato."
-        },
-        {
-          "label": "postura de otros actores",
-          "text": "Deportivo Riestra había asegurado su pase a cuartos tras superar a Gimnasia La Plata en penales, lo que indica que ambos rivales llegan al próximo duelo tras victorias similares."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "4f1efacd7bdf",
-      "title": "Cuauhtémoc Blanco es la inspiración de Edwin Cerrillo, refuerzo mexicoamericano del club América",
-      "summary": "Edwin Cerrillo, mediocampista mexicoamericano que llegó al Club América para el Apertura 2026, declaró que su mayor inspiración es el legendario futbolista Cuauhtémoc Blanco, cuyo legado familiar y cultural lo motivó a defender la camiseta azulcrema.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/19/cuauhtemoc-blanco-es-la-inspiracion-de-edwin-cerrillo-refuerzo-mexicoamericano-del-club-america/",
-      "published_at": "2026-08-19T04:01:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en una historia personal y deportiva sin usar lenguaje cargado ni presentar opiniones políticas; la cobertura es neutra y descriptiva.",
-      "focus_analysis": "El medio eligió un ángulo humano y cultural, resaltando la idolatría y la conexión familiar con el club, mientras dejó de lado aspectos de rendimiento deportivo o estratégicos del equipo.",
-      "focus_tags": [
-        "inspiración deportiva",
-        "identidad mexicoamericana",
-        "Club América"
-      ],
-      "context": [
-        {
-          "label": "Cuauhtémoc Blanco",
-          "text": "Cuauhtémoc Blanco es una de las figuras más emblemáticas del Club América, habiendo jugado en el primer equipo desde los años noventa y convirtiéndose en ídolo para la afición y futuros jugadores."
-        },
-        {
-          "label": "Club América y la diaspora",
-          "text": "El Club América ha incorporado a varios jugadores mexicoamericanos, como Edwin Cerrillo, reflejando la creciente presencia de la diáspora mexicana en la Liga MX y su aporte al talento del equipo."
-        },
-        {
-          "label": "Enfoque de otros medios",
-          "text": "El Economista, en su cobertura del mismo hecho, subrayó la estrategia basada en datos y el uso de la ciencia analítica por parte del Club América, contrastando con el enfoque más emotivo y personal de Infobae."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
