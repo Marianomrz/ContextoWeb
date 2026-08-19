@@ -1,6 +1,213 @@
 {
-  "generated_at": "2026-08-19T03:02:12.309529+00:00",
+  "generated_at": "2026-08-19T03:08:38.515695+00:00",
   "articles": [
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar correos desde Gmail de forma autónoma cuando el usuario lo configura, aunque la compañía mantiene una opción de aprobación explícita.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto es descriptivo y neutral, sin lenguaje cargado ni fuentes que favorezcan una postura política o comercial.",
+      "focus_analysis": "El artículo destaca la novedad técnica y la forma de activar la función, mientras omite la discusión sobre los riesgos de privacidad y la posible regulación del uso de IA en comunicaciones.",
+      "focus_tags": [
+        "IA",
+        "productividad",
+        "privacidad"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de Claude",
+          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, dejando siempre al usuario la decisión de enviarlos."
+        },
+        {
+          "label": "competencia del mercado",
+          "text": "Otros proveedores de IA, como Google con y Microsoft Copilot, ya ofrecen funciones que permiten redactar y enviar correos automáticamente mediante comandos de lenguaje natural."
+        },
+        {
+          "label": "preocupaciones de privacidad",
+          "text": "Expertos en seguridad y privacidad han advertido que la capacidad de una IA para enviar mensajes sin supervisión podría generar abusos o filtraciones de información confidencial."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "b10f4675965f",
+      "title": "Ataque israelí deja siete muertos en Ciudad de Gaza",
+      "summary": "Un ataque aéreo israelí contra una cafetería en el puerto de la Ciudad de Gaza dejó al menos siete muertos, entre ellos un niño, y más de quince heridos, según informaron autoridades sanitarias palestinas.",
+      "category": "internacional",
+      "source_name": "DW Español",
+      "source_url": "https://www.dw.com/es/ataque-israelí-deja-siete-muertos-en-ciudad-de-gaza/a-78420964?maca=spa-rss-sp-all-1122-xml-mrss",
+      "published_at": "2026-08-19T02:29:00+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto presenta el relato oficial israelí sobre el objetivo del ataque y menciona la presión estadounidense, mientras que la cobertura se centra en las cifras de víctimas palestinas sin usar un lenguaje emotivo, lo que indica una ligera inclinación hacia la perspectiva militar israelí.",
+      "focus_analysis": "El medio se concentra en el evento violento y sus consecuencias inmediatas, resaltando la narrativa de seguridad y la justificación israelí, dejando de lado un análisis más profundo del impacto humanitario y la respuesta internacional.",
+      "focus_tags": [
+        "conflicto militar",
+        "civiles mueren",
+        "politica internacional"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del conflicto",
+          "text": "Desde el inicio de la guerra en Gaza en octubre de 2023, la Franja ha registrado más de 73,400 muertes y una grave escasez de recursos básicos."
+        },
+        {
+          "label": "Justificación israelí",
+          "text": "El ejército israelí declaró que el bombardeo tenía como objetivo a comandantes de Hamas que planeaban ataques terroristas contra sus fuerzas."
+        },
+        {
+          "label": "Perspectiva de otros medios",
+          "text": "Coberturas como la de France24 subrayan la condena de Estados Unidos a ataques israelíes en Siria, señalando una visión de escalada innecesaria que contrasta con el enfoque centrado en la precisión del ataque en la nota de DW."
+        }
+      ],
+      "confidence": "alta"
+    },
+    {
+      "id": "a9f455c9c282",
+      "title": "Stan Wawrinka vence al campeón defensor del Cancun Country Open y se instala en segunda ronda",
+      "summary": "El tenista suizo Stan Wawrinka, de 41 años, superó al campeón defensor Dalibor Svrcina en el Cancún Country Open 2026 y avanzó a la segunda ronda del torneo.",
+      "category": "deportes",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/deportes/stan-wawrinka-vence-al-campeon-defensor-del-cancun-country-open-y-se-instala-en-segunda-ronda/",
+      "published_at": "2026-08-19T02:54:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el desempeño deportivo sin usar lenguaje cargado ni referencias políticas, manteniendo un tono neutral y objetivo.",
+      "focus_analysis": "El medio destaca el aspecto humano y la resiliencia del veterano del Wawrinka y el apoyo del público, dejando de lado el impacto económico del torneo o el contexto del circuito Challenger.",
+      "focus_tags": [
+        "tennis",
+        "Wawrinka",
+        "Cancún Country Open"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Stan Wawrinka es un tenista suizo que alcanzó el puesto número 3 del ranking mundial y ganó tres Grand Slam, convirtiéndose en una de las figuras más destacadas de la era del \"Big Three\"."
+        },
+        {
+          "label": "datos comparables",
+          "text": "El Cancún Country Open es un torneo ATP Challenger 125 que se celebra en Quintana Roo, México, y suele atraer a jugadores de rango medio a alto que buscan puntos para mejorar su clasificación."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "Dalibor Svrcina, tenista checo, era el campeón defensor del evento tras ganar la edición anterior, lo que hacía su derrota contra Wawrinka una sorpresa para los seguidores del circuito."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "990c511df2f9",
+      "title": "Juan Manuel Cerúndolo cayó ante Auger-Aliassime y se despidió del Masters 1000 de Cincinnati",
+      "summary": "Juan Manuel Cerúndolo, tenista argentino de 51.º puesto mundial, fue eliminado en la tercera ronda del Masters 1000 de Cincinnati tras perder 7‑5 y 6‑1 contra el canadiense Félix Auger‑Aliassime, número 4 del ranking.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/juan-manuel-cerundolo-cayo-ante-auger-aliassime-y-se-despidio-del-masters-1000-de-cincinnati/",
+      "published_at": "2026-08-19T02:56:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta los hechos de forma objetiva, sin lenguaje cargado ni selección de fuentes que favorezcan una visión política; se limitan a describir el encuentro y el historial de los jugadores.",
+      "focus_analysis": "El artículo se centra en el desempeño y trayectoria del tenista argentino, resaltando su carrera y la derrota, mientras omite un análisis más amplio del torneo o de la repercusión en la clasificación mundial.",
+      "focus_tags": [
+        "tenis",
+        "argentino",
+        "Masters 1000"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria reciente de Cerúndolo",
+          "text": "Cerúndolo alcanzó su mejor ranking (42.º) en junio de 2026, sorprendió en Roland Garros al vencer a Jannik Sinner y ha ganado varios títulos Challenger y un ATP 250 en Córdoba."
+        },
+        {
+          "label": "Posición de Auger‑Aliassime",
+          "text": "Félix Auger‑Aliassime, número 4 del ranking mundial, ha llegado a los octavos de final en cinco de las últimas seis ediciones del Masters de Cincinnati, consolidándose como uno de los principales contendientes."
+        },
+        {
+          "label": "Importancia del Masters 1000 de Cincinnati",
+          "text": "El torneo de Cincinnati es uno de los nueve eventos Masters 1000, ofreciendo valiosos puntos de clasificación y sirviendo como preparación clave antes del US Open."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "9ff8a86750b8",
+      "title": "Wall Street suma tres días a la baja, en medio de alzas en el crudo y Bonos",
+      "summary": "Wall Street registró tres jornadas consecutivas de caídas, impulsadas por el aumento de los rendimientos de los bonos del Tesoro de EE. UU., el encarecimiento del petróleo y la fuerte caída de las acciones de chips de inteligencia artificial, en un contexto de tensiones geopolíticas entre EE. UU. e Irán.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/mercados/wall-street-suma-tres-dias-baja-medio-alzas-crudo-bonos-20260818-828966.html",
+      "published_at": "2026-08-19T02:57:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir datos de mercado y citar a analistas sin usar lenguaje cargado ni favorecer una postura política, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El medio eligió un enfoque económico‑financiero, resaltando la influencia de los precios del crudo, los bonos y el sector de chips de IA en los índices bursátiles, mientras dejó de lado el impacto social o las repercusiones políticas más amplias.",
+      "focus_tags": [
+        "mercados financieros",
+        "precios del petróleo",
+        "geopolítica US‑Irán"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En las últimas semanas, los rendimientos de los bonos del Tesoro de EE. UU. han subido de forma sostenida, lo que históricamente ejerce presión a la baja sobre los precios de acciones."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "El precio del crudo ha alcanzado su nivel más alto en tres semanas, impulsando la inflación de los costos de energía y generando incertidumbre entre los inversores."
+        },
+        {
+          "label": "Posturas de otros actores",
+          "text": "Analistas de GBM Research y Banco Bx+ señalaron que la expiración del memorándum de entendimiento entre EE. UU. e Irán y la falta de conversaciones con Teherán aumentan la percepción de riesgo geopolítico en los mercados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "55f30ee2ea45",
+      "title": "¡Histórico! El piloto mexicano Noel León consigue su primera pole gracias a esta estrategia",
+      "summary": "El piloto mexicano Noel León, de Monterrey, logró la primera pole position de México en la Fórmula 2 al aplicar una estrategia sin rebufo en el Red Bull Ring de Austria, marcando un hito histórico para el automovilismo nacional.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/06/27/historico-el-piloto-mexicano-noel-leon-consigue-su-primera-pole-en-formula-2-gracias-a-esta-estrategia/",
+      "published_at": "2026-08-19T03:02:19+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un tono celebratorio y emotivo, resaltando el orgullo nacional y calificando el logro como \"histórico\" y \"tener huevos\", lo que indica una ligera inclinación positiva hacia el piloto mexicano.",
+      "focus_analysis": "El medio se centra en el logro deportivo y la emoción del piloto, destacando la estrategia arriesgada y el orgullo nacional, dejando de lado análisis técnicos profundos o implicaciones económicas del deporte.",
+      "focus_tags": [
+        "deporte mexicano",
+        "Fórmula 2",
+        "estrategia de clasificación"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Hasta 2026, ningún piloto mexicano había conseguido una pole position en la Fórmula 2, una categoría que sirve como escalón directo a la Fórmula 1."
+        },
+        {
+          "label": "dato comparativo",
+          "text": "La Fórmula 2, creada en 2017, reúne a los mejores talentos jóvenes del automovilismo y es considerada la principal antesala de la máxima categoría mundial."
+        },
+        {
+          "label": "postura de otro actor",
+          "text": "Otros pilotos mexicanos destacados, como Sergio Pérez y Esteban Gutiérrez, han abierto camino en la Fórmula 1, pero la pole de León representa el primer logro de este tipo en la Fórmula 2."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
     {
       "id": "95b947965fec",
       "title": "La empresa que piensa",
@@ -840,216 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.0
-      }
-    },
-    {
-      "id": "16d90656ae9a",
-      "title": "Suspenden actividades en inmueble de alcaldía Álvaro Obregón; operaba como supuesto Consulado de Nicaragua",
-      "summary": "La alcaldía Álvaro Obregón de la Ciudad de México suspendió las actividades de un inmueble que se hacía pasar por consulado de Nicaragua después de que la Secretaría de Relaciones Exteriores confirmara que no estaba registrado como sede consular.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/suspenden-actividades-en-inmueble-de-alcaldia-alvaro-obregon-operaba-como-supuesto-consulado-de-nicaragua/",
-      "published_at": "2026-08-19T02:01:13+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutro, sin adjetivos cargados ni opiniones, y se limita a reportar los hechos y la normativa aplicable.",
-      "focus_analysis": "El medio se centró en la acción institucional y legal de las autoridades locales y federales, dejando de lado el posible contexto político o diplomático entre México y Nicaragua.",
-      "focus_tags": [
-        "autoridades locales",
-        "consulado no registrado",
-        "suspensión administrativa"
-      ],
-      "context": [
-        {
-          "label": "Marco legal",
-          "text": "En México, los consulados deben estar registrados ante la Secretaría de Relaciones Exteriores para operar oficialmente, según la Ley de Asuntos Consulares."
-        },
-        {
-          "label": "Casos previos",
-          "text": "En los últimos años, se han detectado varios establecimientos que se presentaban como consulados extranjeros sin contar con la autorización correspondiente, lo que llevó a acciones de verificación y cierre por parte de autoridades mexicanas."
-        },
-        {
-          "label": "Relaciones México‑Nicaragua",
-          "text": "México ha mantenido una postura crítica ante algunas políticas del gobierno nicaragüense, lo que ha generado tensiones diplomáticas que se reflejan en la vigilancia de actividades consulares no oficiales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Letras Libres argumenta que la ventaja competitiva futura de las empresas no será el acceso a modelos de IA avanzados, sino la capacidad de desarrollar una inteligencia organizacional que sepa formular preguntas, aprender y adaptarse rápidamente.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje técnico y neutral, sin cargarse de términos ideológicos ni citar fuentes con sesgo evidente; se centra en la reflexión empresarial más que en una agenda política.",
-      "focus_analysis": "El medio elige abordar el tema desde la perspectiva de la estrategia y la gestión organizacional, resaltando la importancia de la inteligencia colectiva; deja de lado aspectos económicos de costos, regulaciones laborales o impactos sociales de la IA.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "estrategia AI",
-        "transformación empresarial"
-      ],
-      "context": [
-        {
-          "label": "caso Duolingo",
-          "text": "Duolingo, tras anunciarse como empresa \"AI‑first\", intentó usar la IA para evaluar el desempeño de sus empleados, pero tras la protesta interna el fundador Luis von Ahn revirtió la política, evidenciando la necesidad de decidir cuándo y cómo aplicar la IA."
-        },
-        {
-          "label": "evolución teoría empresarial",
-          "text": "Desde Adam Smith y la división del trabajo hasta Peter Drucker y el conocimiento como recurso estratégico, la teoría de la empresa ha evolucionado, pero ahora se plantea que la clave será la capacidad cognitiva de la organización para aprender y adaptarse."
-        },
-        {
-          "label": "perspectiva Harvard Business Review",
-          "text": "Un artículo de Harvard Business Review cuestionó que la ventaja competitiva de la IA radique en los modelos mismos, señalando que el contexto interno y el saber interpretarlo son los verdaderos diferenciadores entre compañías."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar mensajes de Gmail de forma autónoma cuando el usuario lo configura, aunque por defecto se solicita aprobación explícita para evitar envíos no deseados.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y neutral, sin usar vocabulario cargado ni favorecer a alguna posición política o comercial; simplemente explica la nueva funcionalidad.",
-      "focus_analysis": "El artículo se centra en la capacidad tecnológica y la configuración de la IA, dejando de lado una discusión profunda sobre los riesgos de privacidad o el impacto competitivo en el mercado de asistentes de IA.",
-      "focus_tags": [
-        "IA",
-        "correo electrónico",
-        "automatización"
-      ],
-      "context": [
-        {
-          "label": "Competencia en IA",
-          "text": "Claude compite con otros asistentes como ChatGPT de OpenAI, que también están integrando funciones de correo electrónico y productividad dentro de plataformas de Google."
-        },
-        {
-          "label": "Evolución de funciones",
-          "text": "Hasta hace poco, Claude solo podía redactar borradores de correos; la actualización elimina esa limitación y permite el envío automático bajo configuración del usuario."
-        },
-        {
-          "label": "Preocupaciones de privacidad",
-          "text": "El creciente uso de IA para enviar mensajes sin supervisión ha generado debates sobre la seguridad de los datos y la necesidad de mecanismos de control y auditoría."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "0e572da5aac1",
-      "title": "9 historias y rostros de aspirantes en el examen de control de la UNAM; \"sentí un poquito de miedo por perder mi lugar\", cuentan",
-      "summary": "La Universidad Autónoma de México (UNAM) llevó a cabo el examen de control presencial para más de 53 mil aspirantes, tras irregularidades en la fase en línea. Jóvenes de Guanajuato, Oaxaca y la Ciudad de México relataron nerviosismo y que la prueba resultó más complicada que la anterior.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/10-historias-y-rostros-de-aspirantes-en-el-examen-de-control-de-la-unam-senti-un-poquito-de-miedo-por-perder-mi-lugar-cuentan/",
-      "published_at": "2026-08-19T01:52:54+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje neutro, se centra en testimonios de estudiantes y no incluye carga política ni fuentes partidistas.",
-      "focus_analysis": "El medio eligió un ángulo humano, resaltando las experiencias y emociones de los aspirantes; quedó fuera el análisis institucional o crítico sobre la gestión de la UNAM.",
-      "focus_tags": [
-        "examen de control",
-        "experiencias estudiantiles",
-        "UNAM"
-      ],
-      "context": [
-        {
-          "label": "background",
-          "text": "La UNAM convoca a 53 568 aspirantes a un examen de control presencial después de detectar irregularidades en el proceso de admisión en línea."
-        },
-        {
-          "label": "comparative",
-          "text": "El Sol de México informó que casi el 40 % de los aspirantes no asistieron al examen de control en la Ciudad de México, indicando una baja participación respecto a la expectativa de 5 900 por turno."
-        },
-        {
-          "label": "other_media",
-          "text": "Otros medios han destacado la presión académica y la competencia intensa para ingresar a la UNAM, contextualizando el temor de los estudiantes a perder su plaza."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "4c406805927d",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy martes 18 de agosto: Harfuch presume en Argentina y frente a la DEA estrategia de seguridad en México",
-      "summary": "El secretario de Seguridad Ciudadana de México, Omar Harfuch, participó en una conferencia en Argentina y ante la DEA, donde destacó los resultados de la estrategia de seguridad mexicana contra el narcotráfico y el crimen.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/18/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-martes-18-de-agosto/",
-      "published_at": "2026-08-19T01:54:40+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto utiliza verbos como “presume” y se centra en los logros del gobierno sin incluir críticas ni voces opositoras, lo que indica una ligera inclinación favorable a la gestión de seguridad.",
-      "focus_analysis": "El medio optó por un ángulo institucional, resaltando los éxitos de la estrategia de seguridad y la cooperación con la DEA, mientras dejó de lado la discusión sobre violaciones de derechos humanos y la percepción pública de la seguridad.",
-      "focus_tags": [
-        "seguridad pública",
-        "política de drogas",
-        "relaciones internacionales"
-      ],
-      "context": [
-        {
-          "label": "Política de seguridad de México",
-          "text": "Bajo la administración de la presidenta Claudia Sheinbaum, el gobierno mexicano ha implementado una estrategia de seguridad que, según datos oficiales, ha reducido los homicidios y desmantelado varios laboratorios de narcotráfico."
-        },
-        {
-          "label": "Cooperación con la DEA",
-          "text": "La DEA ha organizado conferencias internacionales donde autoridades mexicanas, como Harfuch, presentan sus avances, reforzando la colaboración bilateral en la lucha contra el narcotráfico."
-        },
-        {
-          "label": "Críticas de derechos humanos",
-          "text": "Organizaciones como la CDHCM han señalado que la Secretaría de Seguridad Ciudadana de la Ciudad de México lidera las quejas por violaciones a derechos humanos, una perspectiva que medios como Reforma y Aristegui no enfatizan en sus coberturas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "a2b84282b639",
-      "title": "García Harfuch destaca en Buenos Aires resultados de la UIF en el combate a delitos financieros",
-      "summary": "El secretario de Seguridad y Protección Ciudadana de México, Omar García Harfuch, presentó en la Conferencia Internacional para el Control de Drogas en Buenos Aires los resultados de la Unidad de Inteligencia Financiera, que incluyen la incorporación de más de 2,300 personas a la lista de bloqueados, la inmovilización de 8,600 millones de pesos y la coordinación con la OFAC y FinCEN de EE. UU.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/garcia-harfuch-destaca-buenos-aires-resultados-uif-combate-delitos-financieros-20260818-828945.html",
-      "published_at": "2026-08-19T01:59:06+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto utiliza un tono celebratorio y se centra en los logros oficiales sin incluir voces críticas o datos que maticen los resultados, lo que indica un leve sesgo a favor del gobierno.",
-      "focus_analysis": "El medio eligió destacar los resultados institucionales de la UIF y la cooperación internacional, dejando de lado el análisis de la efectividad real de estas medidas o perspectivas de la sociedad civil.",
-      "focus_tags": [
-        "seguridad financiera",
-        "cooperación internacional",
-        "logros institucionales"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la UIF",
-          "text": "La Unidad de Inteligencia Financiera de México, creada en 2004, se encarga de detectar y prevenir el lavado de dinero y el financiamiento del terrorismo, y ha aumentado su capacidad operativa en los últimos años."
-        },
-        {
-          "label": "Cooperación México‑EE. UU. en lucha contra el crimen organizado",
-          "text": "El intercambio de información entre la UIF y la Oficina de Control de Activos Extranjeros (OFAC) y FinCEN ha sido reforzado en los últimos años, facilitando la identificación de redes financieras vinculadas a grupos criminales."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios como Reforma y Aristegui Noticias resaltaron la disminución de homicidios y el elogio del director de la DEA, lo que muestra un énfasis en los resultados de seguridad y la amistad bilateral, diferente al enfoque puramente estadístico de El Economista."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]
