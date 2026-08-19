@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T04:02:30.831004+00:00",
+  "generated_at": "2026-08-19T04:11:15.641831+00:00",
   "articles": [
+    {
+      "id": "a21047f8e67e",
+      "title": "El mercado inmobiliario de EU siguió bajo presión en julio",
+      "summary": "El mercado inmobiliario de Estados Unidos experimentó en julio una fuerte caída en la construcción de viviendas unifamiliares, con una disminución del 9,9% respecto al mes anterior y el nivel más bajo desde 2022, mientras que los permisos de construcción y los contratos de viviendas de segunda mano también mostraron retrocesos, reflejando la presión de las altas tasas hipotecarias y la incertidumbre económica.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/mercado-inmobiliario-eu-siguio-presion-julio-20260818-828983.html",
+      "published_at": "2026-08-19T03:55:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos oficiales y citas de economistas sin usar un carga ni favorecer una postura política o empresarial específica.",
+      "focus_analysis": "El medio se centró en el ángulo económico, resaltando cifras de construcción, permisos y ventas, y dejó de lado el impacto social y de asequibilidad para los compradores de vivienda.",
+      "focus_tags": [
+        "construcción de viviendas",
+        "tasas hipotecarias",
+        "mercado inmobiliario EE.UU."
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del mercado",
+          "text": "Desde el aumento de las tasas de interés por parte de la Reserva Federal en 2022, el mercado de la vivienda en EE.UU. ha enfrentado una reducción sostenida en la demanda y en la actividad de construcción, con precios de viviendas en alza y una mayor dificultad de acceso para los compradores."
+        },
+        {
+          "label": "Comparación histórica",
+          "text": "La caída del 9,9% en la construcción de casas unifamiliares en julio representa el nivel más bajo desde noviembre de 2022, una tendencia similar a la observada en el segundo semestre de 2023, cuando la actividad de construcción también se redujo significativamente por los costos de financiamiento."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otras publicaciones que cubren el mismo hecho, como Reuters, subrayan además la incertidumbre provocada por la tensión geopolítica con Irán como un factor que amplifica la cautela de los inversores y constructores en el sector inmobiliario."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "95b947965fec",
+      "title": "La empresa que piensa",
+      "summary": "El artículo de Javier Treviño en Letras Libres sostiene que la ventaja competitiva futura de las empresas no será el acceso a modelos avanzados de IA, sino su capacidad organizacional para aprender y usar la IA de forma inteligente, ejemplificada por la reversión de la política de IA de Duolingo.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
+      "published_at": "2026-08-18T17:38:56+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto adopta un tono crítico hacia la adopción indiscriminada de IA y enfatiza la reflexión organizacional, sin citar fuentes conservadoras, lo que indica una ligera inclinación progresista.",
+      "focus_analysis": "El medio elige un ángulo de estrategia empresarial y aprendizaje organizacional, dejando de lado los aspectos técnicos de la IA y la regulación pública.",
+      "focus_tags": [
+        "inteligencia organizacional",
+        "estrategia empresarial",
+        "IA en negocios"
+      ],
+      "context": [
+        {
+          "label": "historia de la IA en empresas",
+          "text": "Desde principios de los 2000, compañías como Google y Amazon han integrado IA en sus procesos, pero los estudios indican que la ventaja competitiva depende más de la capacidad de aprendizaje organizacional que del mero uso de algoritmos."
+        },
+        {
+          "label": "caso Duolingo",
+          "text": "En 2025, Duolingo anunció una política de evaluación basada en IA que fue cuestionada por sus empleados; su fundador Luis von Ahn revocó la medida, subrayando la necesidad de decidir cuándo usar la IA."
+        },
+        {
+          "label": "perspectiva académica",
+          "text": "Investigadores como Peter Drucker y Alfred Chandler han señalado que la ventaja competitiva histórica se basa en la coordinación y el conocimiento interno, una idea que se reitera en la literatura actual sobre IA y aprendizaje organizacional."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, el asistente de IA de Anthropic, ahora puede redactar y enviar respuestas en Gmail de forma autónoma cuando el usuario lo configura, aunque la compañía mantiene una opción de aprobación explícita para evitar envíos no deseados.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 12,
+      "bias_reason": "El texto destaca las ventajas y funcionalidades de la nueva integración con un tono positivo y escasa crítica, enfocándose en la innovación tecnológica y la comodidad para el usuario.",
+      "focus_analysis": "El artículo se centra en el aspecto técnico y de usabilidad de la función de envío automático de correos, dejando de lado una discusión profunda sobre riesgos de privacidad o implicaciones éticas.",
+      "focus_tags": [
+        "IA",
+        "automatización de email",
+        "Google Workspace"
+      ],
+      "context": [
+        {
+          "label": "capacidad previa de Claude",
+          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, pero el envío requería la intervención manual del usuario."
+        },
+        {
+          "label": "integraciones de IA en Google Workspace",
+          "text": "Google Workspace ya permite a otras IA, como las de Microsoft y Google, interactuar con correos y archivos, facilitando búsquedas y gestión de etiquetas mediante lenguaje natural."
+        },
+        {
+          "label": "preocupaciones de privacidad y regulación",
+          "text": "Expertos y reguladores han advertido sobre los riesgos de que sistemas de IA envíen mensajes sin supervisión, lo que podría derivar en filtraciones de datos o comunicaciones no autorizadas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "e9f43cb0cf15",
+      "title": "Banfield eliminó por penales a Midland y será el rival de Deportivo Riestra en los cuartos de final de la Copa Argentina",
+      "summary": "El club argentino Banfield eliminó a Midland en la tanda de penales y se medirá con Deportivo Riestra en los cuartos de final de la Copa Argentina.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
+      "published_at": "2026-08-19T03:25:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido con un lenguaje neutral, sin palabras cargadas ni fuentes con sesgo político.",
+      "focus_analysis": "El medio se centró en el desarrollo del encuentro y la definición por penales, dejando fuera el contexto más amplio del torneo y la repercusión entre los aficionados.",
+      "focus_tags": [
+        "copa argentina",
+        "penales",
+        "cuartos de final"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "La Copa Argentina es un torneo de eliminación directa que reúne a equipos de todas las categorías del fútbol argentino; los octavos de final determinan los ocho equipos que pasarán a cuartos."
+        },
+        {
+          "label": "datos comparables",
+          "text": "En la misma jornada, el Atlético Tucumán venció 4‑0 a Independiente, mostrando la variedad de resultados que se pueden dar en esta fase del campeonato."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "Deportivo Riestra había asegurado su pase a cuartos tras superar a Gimnasia La Plata en penales, lo que indica que ambos rivales llegan al próximo duelo tras victorias similares."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
+    {
+      "id": "4f1efacd7bdf",
+      "title": "Cuauhtémoc Blanco es la inspiración de Edwin Cerrillo, refuerzo mexicoamericano del club América",
+      "summary": "Edwin Cerrillo, mediocampista mexicoamericano que llegó al Club América para el Apertura 2026, declaró que su mayor inspiración es el legendario futbolista Cuauhtémoc Blanco, cuyo legado familiar y cultural lo motivó a defender la camiseta azulcrema.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/19/cuauhtemoc-blanco-es-la-inspiracion-de-edwin-cerrillo-refuerzo-mexicoamericano-del-club-america/",
+      "published_at": "2026-08-19T04:01:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en una historia personal y deportiva sin usar lenguaje cargado ni presentar opiniones políticas; la cobertura es neutra y descriptiva.",
+      "focus_analysis": "El medio eligió un ángulo humano y cultural, resaltando la idolatría y la conexión familiar con el club, mientras dejó de lado aspectos de rendimiento deportivo o estratégicos del equipo.",
+      "focus_tags": [
+        "inspiración deportiva",
+        "identidad mexicoamericana",
+        "Club América"
+      ],
+      "context": [
+        {
+          "label": "Cuauhtémoc Blanco",
+          "text": "Cuauhtémoc Blanco es una de las figuras más emblemáticas del Club América, habiendo jugado en el primer equipo desde los años noventa y convirtiéndose en ídolo para la afición y futuros jugadores."
+        },
+        {
+          "label": "Club América y la diaspora",
+          "text": "El Club América ha incorporado a varios jugadores mexicoamericanos, como Edwin Cerrillo, reflejando la creciente presencia de la diáspora mexicana en la Liga MX y su aporte al talento del equipo."
+        },
+        {
+          "label": "Enfoque de otros medios",
+          "text": "El Economista, en su cobertura del mismo hecho, subrayó la estrategia basada en datos y el uso de la ciencia analítica por parte del Club América, contrastando con el enfoque más emotivo y personal de Infobae."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "1d0cf9adf769",
+      "title": "Arantza Ruiz reflexiona sobre su distanciamiento con Flor Vigna: \"no tenía las herramientas para sostenerla\"",
+      "summary": "La actriz mexicana Arantza Ruiz, expulsada de \"La casa de los famosos México\", reconoce que no disponía de los recursos necesarios para apoyar a la concursante argentina Flor Vigna, quien padece depresión clínica.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/arantza-ruiz-reflexiona-sobre-su-distanciamiento-con-flor-vigna-no-tenia-las-herramientas-para-sostenerla/",
+      "published_at": "2026-08-19T04:01:53+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el conflicto personal y la reflexión de la participante, sin emplear lenguaje cargado político ni citar fuentes con sesgo.",
+      "focus_analysis": "El medio se centra en el aspecto humano y psicológico del distanciamiento entre las concursantes, dejando de lado el análisis del programa o la repercusión mediática.",
+      "focus_tags": [
+        "conflicto personal",
+        "salud mental",
+        "reality show"
+      ],
+      "context": [
+        {
+          "label": "programa",
+          "text": "La casa de los famosos México es la versión local del reality show internacional donde celebridades conviven bajo vigilancia constante y ha generado polémicas por la presión emocional que ejerce sobre los participantes."
+        },
+        {
+          "label": "participante",
+          "text": "Flor Vigna, actriz argentina conocida por su trayectoria en televisión, ha hablado públicamente sobre su diagnóstico de depresión clínica, lo que ha generado debate sobre la salud mental en los realities."
+        },
+        {
+          "label": "cobertura",
+          "text": "Otros medios de comunicación han resaltado la necesidad de que los programas de televisión ofrezcan apoyo psicológico a sus participantes, aunque la nota de El Universal se mantiene en la perspectiva de la propia Arantza Ruiz."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "990c511df2f9",
       "title": "Juan Manuel Cerúndolo cayó ante Auger-Aliassime y se despidió del Masters 1000 de Cincinnati",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.4
-      }
-    },
-    {
-      "id": "df8d389483c6",
-      "title": "Mattel lanza Barbie edición especial inspirada en Marilyn Monroe; ¿cuánto cuesta?",
-      "summary": "Mattel, la empresa de juguetes, lanzó una edición limitada de la muñeca Barbie inspirada en Marilyn Monroe para conmemorar los 100 años de la icónica actriz, disponible a $1,650 pesos en la tienda oficial de Mattel Creations.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/tendencias/mattel-lanza-barbie-edicion-especial-inspirada-en-marilyn-monroe-cuanto-cuesta/",
-      "published_at": "2026-08-19T03:16:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono celebratorio y promocional, sin críticas ni análisis político, enfocándose en el glamour del producto y su precio, lo que indica una cobertura neutral con ligera inclinación comercial.",
-      "focus_analysis": "El medio eligió resaltar el aspecto de consumo y nostalgia cultural, destacando el diseño y el precio del artículo, mientras omitió cualquier discusión sobre accesibilidad o críticas al consumismo.",
-      "focus_tags": [
-        "cultura pop",
-        "coleccionismo",
-        "producto de lujo"
-      ],
-      "context": [
-        {
-          "label": "Historial de Barbie",
-          "text": "Barbie, creada por Mattel en 1959, ha lanzado múltiples ediciones especiales en colaboración con figuras históricas y culturales, como la línea \"Barbie Signature\" que celebra íconos del cine y la moda."
-        },
-        {
-          "label": "Legado de Marilyn Monroe",
-          "text": "Marilyn Monroe, considerada una de las mayores estrellas de Hollywood del siglo XX, es recordada por su influencia en la moda y la cultura popular, y su centenario en 2026 ha motivado diversas celebraciones y productos conmemorativos."
-        },
-        {
-          "label": "Tendencia de juguetes coleccionables",
-          "text": "En los últimos años, el mercado de juguetes de coleccionista ha crecido, con precios que pueden superar los mil dólares, atrayendo a consumidores dispuestos a pagar por piezas de edición limitada y alta calidad."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El artículo de Letras Libres analiza cómo la ventaja competitiva de las empresas ya no dependerá de poseer los modelos de IA más avanzados, sino de desarrollar una \"inteligencia organizacional\" que permita formular preguntas correctas y aprender rápidamente, ejemplificado con la reversión de la política AI‑first de Duolingo.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": -15,
-      "bias_reason": "El texto emplea un tono crítico hacia la adopción acrítica de la IA y destaca la necesidad de un enfoque colectivo y reflexivo, lo que refleja una ligera inclinación progresista sin usar un lenguaje polarizado.",
-      "focus_analysis": "El medio se centra en el ángulo estratégico‑organizacional, resaltando la importancia de la capacidad de aprendizaje interno frente a la tecnología, mientras deja de lado los aspectos técnicos de la IA y su impacto económico directo.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "IA empresarial",
-        "transformación digital"
-      ],
-      "context": [
-        {
-          "label": "Democratización de la IA",
-          "text": "En los últimos años, los modelos de inteligencia artificial se han vuelto cada vez más accesibles para empresas de todos los tamaños, reduciendo la ventaja de quien solo posee la tecnología más avanzada."
-        },
-        {
-          "label": "Caso Duolingo",
-          "text": "Duolingo, tras anunciar una estrategia \"AI‑first\", recibió preguntas de sus empleados sobre la real utilidad de la IA y su fundador Luis von Ahn anuló la política, subrayando la necesidad de una evaluación crítica interna."
-        },
-        {
-          "label": "Teorías clásicas de la empresa",
-          "text": "Desde Adam Smith hasta Peter Drucker, los estudios sobre la organización empresarial han enfatizado la importancia del conocimiento, la coordinación y la adaptación, conceptos que el autor vincula ahora a la era de la IA."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "La empresa Anthropic ha habilitado en su asistente de IA Claude la capacidad de redactar y enviar correos desde Gmail de forma autónoma, siempre que el usuario haya activado previamente la función y pueda exigir aprobación explícita.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta la novedad de forma descriptiva, sin usar lenguaje cargado ni favorecer una postura política; se limita a explicar la funcionalidad y las medidas de control.",
-      "focus_analysis": "El medio se centra en el aspecto tecnológico de la integración de IA con Gmail y en los mecanismos de privacidad ofrecidos, dejando de lado discusiones sobre riesgos de seguridad o implicaciones éticas más amplias.",
-      "focus_tags": [
-        "IA",
-        "automatización",
-        "privacidad"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Claude",
-          "text": "Claude es el modelo de lenguaje desarrollado por Anthropic, una empresa de IA conocida por priorizar la seguridad y la alineación de sus sistemas, y hasta ahora solo podía redactar borradores sin enviarlos."
-        },
-        {
-          "label": "Tendencia de asistentes de IA en correo electrónico",
-          "text": "Otros proveedores como Microsoft y Google ya ofrecen funciones de respuesta automática en Outlook y Gmail, lo que sitúa a Anthropic en una carrera por ofrecer capacidades similares."
-        },
-        {
-          "label": "Preocupaciones de privacidad en IA",
-          "text": "Expertos en ciberseguridad suelen advertir que la automatización de envíos de correo puede generar vulnerabilidades si no se establecen controles de autorización claros."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "990c511df2f9",
-      "title": "Juan Manuel Cerúndolo cayó ante Auger-Aliassime y se despidió del Masters 1000 de Cincinnati",
-      "summary": "El tenista argentino Juan Manuel Cerúndolo fue eliminado tras perder en sets corridos contra el canadiense Félix Auger‑Aliassime en la tercera ronda del Masters 1000 de Cincinnati.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/juan-manuel-cerundolo-cayo-ante-auger-aliassime-y-se-despidio-del-masters-1000-de-cincinnati/",
-      "published_at": "2026-08-19T02:56:35+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto destaca la trayectoria y logros de Cerúndolo con tono elogioso, pero mantiene un enfoque factual y sin carga política, lo que indica un leve sesgo favorable al jugador argentino.",
-      "focus_analysis": "El artículo se centra en el resultado del partido y en la carrera de Cerúndolo, dejando de lado un análisis más amplio del torneo o del desempeño del rival.",
-      "focus_tags": [
-        "tennis",
-        "Masters 1000",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Cerúndolo",
-          "text": "Juan Manuel Cerúndolo alcanzó su mejor ranking histórico (n.º 42) en junio de 2026 y había conseguido títulos en ATP 250, además de una destacada actuación en Roland Garros 2025."
-        },
-        {
-          "label": "Perfil de Auger‑Aliassime",
-          "text": "Félix Auger‑Aliassime, número 4 del ranking mundial, ha sido constante en los octavos de final de Cincinnati en los últimos años y es considerado uno de los principales contendientes del circuito."
-        },
-        {
-          "label": "Importancia del Masters 1000",
-          "text": "Los torneos Masters 1000 son eventos de alto nivel en el ATP Tour que otorgan muchos puntos y premios, y suelen atraer a los mejores jugadores del mundo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "4d0bd3c5b9a8",
-      "title": "Tampico se prepara para vibrar al ritmo del jazz mundial: Sectur",
-      "summary": "El secretario de Turismo de Tamaulipas, Benjamín Hernández Rodríguez, anunció que Tampico será sede de la segunda edición del Festival Internacional de Jazz del 21 al 25 de octubre de 2026, junto con el Gran Fondo Tampico, una competencia ciclista con una bolsa de 135 mil pesos, como parte de la estrategia estatal para impulsar el turismo cultural y deportivo.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/politica/tampico-prepara-vibrar-ritmo-jazz-mundial-sectur-20260818-828969.html",
-      "published_at": "2026-08-19T03:04:14+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto emplea un tono muy elogioso, resaltando los beneficios económicos y la imagen positiva del gobierno, sin presentar críticas ni voces opositoras, lo que indica una ligera inclinación pro‑gobierno y pro‑negocio.",
-      "focus_analysis": "El artículo se centra en la promoción turística y el potencial económico de los eventos, dejando de lado el impacto social o cultural en la comunidad local más allá de la generación de ingresos.",
-      "focus_tags": [
-        "turismo cultural",
-        "festival de jazz",
-        "desarrollo económico"
-      ],
-      "context": [
-        {
-          "label": "Crecimiento turístico de Tamaulipas",
-          "text": "En los últimos años, Tamaulipas ha registrado un aumento sostenido en la llegada de visitantes nacionales e internacionales, consolidándose como un destino de playa y cultura en el noreste de México."
-        },
-        {
-          "label": "Historia de los festivales de jazz en México",
-          "text": "Los festivales de jazz, como el Festival Internacional de Jazz de la Ciudad de México, han sido históricamente impulsores de la escena musical y atraen a audiencias tanto locales como extranjeras, generando cobertura mediática y actividad económica."
-        },
-        {
-          "label": "Éxito de la primera edición del Festival de Jazz Tampico",
-          "text": "La edición inaugural del Festival Internacional de Jazz Tampico recibió elogios en la Feria Internacional de Turismo (FITUR) 2026 y se destacó por su programación internacional, lo que motivó la organización de una segunda edición."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "df8d389483c6",
-      "title": "Mattel lanza Barbie edición especial inspirada en Marilyn Monroe; ¿cuánto cuesta?",
-      "summary": "Mattel, la compañía de juguetes, presentó la edición Barbie Signature inspirada en Marilyn Monroe para con su centenario, ofreciendo la figura con su icónico vestido rosa a un precio de $1,650 pesos.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/tendencias/mattel-lanza-barbie-edicion-especial-inspirada-en-marilyn-monroe-cuanto-cuesta/",
-      "published_at": "2026-08-19T03:16:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono promocional y descriptivo sin usar lenguaje cargado ni citar fuentes con sesgo político; se centra en la novedad del producto y su precio.",
-      "focus_analysis": "El medio destaca el aspecto de consumo y nostalgia, resaltando el glamour de Marilyn Monroe y el valor coleccionable de la muñeca, mientras omite cualquier análisis crítico sobre la industria del juguete o su impacto cultural más amplio.",
-      "focus_tags": [
-        "cultura pop",
-        "coleccionismo",
-        "moda"
-      ],
-      "context": [
-        {
-          "label": "Marilyn Monroe",
-          "text": "Marilyn Monroe, icono de Hollywood nacido en 1926, es recordado por su estilo y presencia en la moda de los años 50 y 60, y su centenario en 2026 ha generado múltiples homenajes comerciales."
-        },
-        {
-          "label": "Barbie Signature",
-          "text": "La línea Barbie Signature de Mattel, desde hace años, lanza ediciones limitadas inspiradas en celebridades y momentos históricos, dirigidas a coleccionistas adultos."
-        },
-        {
-          "label": "Mercado de coleccionables en México",
-          "text": "En México, la demanda de juguetes de edición limitada ha crecido, con precios que varían según la exclusividad y el branding, situando a esta Barbie en un rango premium de $1,600‑$2,000 pesos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
