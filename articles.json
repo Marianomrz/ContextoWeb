@@ -1,6 +1,252 @@
 {
-  "generated_at": "2026-08-19T03:42:09.009568+00:00",
+  "generated_at": "2026-08-19T03:56:23.353783+00:00",
   "articles": [
+    {
+      "id": "ddcc65c380c7",
+      "title": "Club América: vuelo sostenido a través de la data",
+      "summary": "El Club América, el equipo más ganador de la Liga MX, ha consolidado la ciencia de datos como una herramienta clave en su estructura, lo que ha contribuido a sus recientes tricampeonatos en las categorías varonil y femenil.",
+      "category": "deportes",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/deportes/club-america-vuelo-sostenido-traves-data-20260818-828972.html",
+      "published_at": "2026-08-19T03:39:18+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene descriptivo y positivo, sin usar lenguaje cargado ni favorecer posturas políticas; se centra en resultados deportivos y en la innovación tecnológica del club.",
+      "focus_analysis": "El medio eló un ángulo institucional y tecnológico al destacar la integración de la ciencia de datos en la gestión del Club América, dejando de lado aspectos humanos o narrativas de los jugadores.",
+      "focus_tags": [
+        "ciencia de datos",
+        "fútbol mexicano",
+        "innovación deportiva"
+      ],
+      "context": [
+        {
+          "label": "Adopción global de la analítica deportiva",
+          "text": "Ligas como la MLB y la NFL llevan años utilizando la ciencia de datos para decisiones estratégicas, mientras que en México su incorporación ha sido más reciente y todavía está en proceso de consolidación."
+        },
+        {
+          "label": "Éxitos recientes del Club América",
+          "text": "El América logró el tricampeonato de torneos cortos entre 2023 y 2024 en la rama varonil y, en 2026, la sección femenil ganó la Liga MX, la Concachampions y el Campeón de Campeonas en menos de un año."
+        },
+        {
+          "label": "Colaboración con la academia",
+          "text": "El club forma parte del programa ISAC del ITAM, al igual que los Diablos Rojos del México, donde se plantean problemas reales de análisis deportivo para estudiantes, fomentando la vinculación entre la industria y la investigación académica."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "95b947965fec",
+      "title": "La empresa que piensa",
+      "summary": "El artículo de Letras Libres argumenta que el futuro competitivo de las empresas no dependerá de poseer los modelos de IA más avanzados, sino de desarrollar una inteligencia organizacional que permita aprender, cuestionar y adaptarse rápidamente, ejemplificado por la reversión de la política AI‑first de Duolingo.",
+      "category": "economia",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
+      "published_at": "2026-08-18T17:38:56+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto adopta un tono crítico hacia la adopción indiscriminada de IA en las empresas y enfatiza la democratización de la tecnología, lo que refleja una postura ligeramente progresista sin llegar a ser partidista.",
+      "focus_analysis": "El medio se centra en el ángulo de gestión y aprendizaje organizacional frente a la revolución tecnológica, dejando de lado los aspectos técnicos de la IA y la discusión de políticas públicas al respecto.",
+      "focus_tags": [
+        "inteligencia organizacional",
+        "estrategia empresarial",
+        "IA democratizada"
+      ],
+      "context": [
+        {
+          "label": "Caso Duolingo",
+          "text": "Duolingo anunció una estrategia AI‑first y luego, tras la presión de sus empleados, su fundador Luis von Ahn revocó la política, subrayando la necesidad de decidir cuándo usar la IA."
+        },
+        {
+          "label": "Historia de la teoría empresarial",
+          "text": "Desde Adam Smith y Frederick Taylor hasta Peter Drucker, la teoría de la empresa ha evolucionado enfocándose en división del trabajo, eficiencia y conocimiento como fuentes de ventaja competitiva."
+        },
+        {
+          "label": "Harvard Business Review",
+          "text": "Un artículo de Rohan Narayana Murty y Ravi Kumar S en Harvard Business Review plantea que la ventaja competitiva futura residirá en el contexto y el conocimiento interno de cada organización, no en los modelos de IA."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
+    {
+      "id": "160cfbe1b51b",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "summary": "Claude, la inteligencia artificial de Anthropic, ha incorporado una función que permite redactar y enviar correos de Gmail de forma autónoma, siempre que el usuario haya configurado previamente el permiso para hacerlo.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
+      "published_at": "2026-08-18T23:33:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, sin usar vocabulario cargado ni presentar opiniones, limitándose a explicar la nueva funcionalidad y sus configuraciones.",
+      "focus_analysis": "El artículo se centra en el aspecto tecnológico y de automatización del producto, dejando de lado discusiones sobre riesgos de privacidad o implicaciones éticas del envío automático de correos.",
+      "focus_tags": [
+        "IA",
+        "automatización de email",
+        "Google Workspace"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores de respuestas, pero el envío debía ser realizado por el usuario."
+        },
+        {
+          "label": "comparación",
+          "text": "Asistentes como Microsoft Copilot y Google Gemini ya ofrecen funciones de envío automático de correos, aunque con distintas configuraciones de control y autorización."
+        },
+        {
+          "label": "postura externa",
+          "text": "Especialistas en seguridad digital advierten que la automatización de respuestas de correo puede incrementar el riesgo de exposición de datos sensibles si no se aplican medidas de supervisión adecuadas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
+    {
+      "id": "e9f43cb0cf15",
+      "title": "Banfield eliminó por penales a Midland y será el rival de Deportivo Riestra en los cuartos de final de la Copa Argentina",
+      "summary": "El club argentino Banfield superó a Midland en la tanda de penales y se clasificó para los cuartos de final de la Copa Argentina, donde se medirá con Deportivo Riestra.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/18/riestra-gimnasia-lp-y-banfield-midland-se-enfrentaran-por-los-octavos-de-final-de-la-copa-argentina/",
+      "published_at": "2026-08-19T03:25:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido con un lenguaje objetivo y sin cargar carga política o emocional, sin selección de fuentes sesgadas.",
+      "focus_analysis": "El medio se centró en el desarrollo del encuentro y el desenlace por penales, dejando de lado el contexto más amplio del torneo y la repercusión entre los aficionados.",
+      "focus_tags": [
+        "copa argentina",
+        "penales",
+        "cuartos de final"
+      ],
+      "context": [
+        {
+          "label": "estructura del torneo",
+          "text": "La Copa Argentina es una competición de eliminación directa que reúne a equipos de todas las categorías del fútbol argentino, con octavos de final que definen los cuartos de final."
+        },
+        {
+          "label": "historial de Banfield en la Copa",
+          "text": "Banfield ha participado regularmente en la Copa Argentina y ha alcanzado en cuartos de final en ediciones anteriores, manteniendo una reputación de equipo competitivo en torneos de copa."
+        },
+        {
+          "label": "posición de Midland",
+          "text": "Midland es un club de la Primera Nacional, la segunda categoría del fútbol argentino, que a menudo se enfrenta a equipos de primera división en la Copa Argentina, lo que convierte sus partidos en duelos de 'underdog' contra equipos de mayor nivel."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a9ba96a3e35a",
+      "title": "Sinaloa retomará festejos del Grito de Independencia; fueron cancelados durante dos años por la violencia",
+      "summary": "La gobernadora interina de Sinaloa, Yeraldine Bonilla Valverde, anunció que este año se retomarán los festejos populares del Grito de Independencia, los cuales fueron suspendidos durante dos años por la violencia que afectó a Culiacán y Los Mochis.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/sinaloa-retomara-festejos-del-grito-de-independencia-fueron-cancelados-durante-dos-anos-por-la-violencia/",
+      "published_at": "2026-08-19T03:46:40+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a reportar el anuncio oficial sin usar adjetivos cargados ni citar fuentes partidistas, manteniendo un tono descriptivo y neutro.",
+      "focus_analysis": "El artículo se enfoca en la decisión institucional de reactivar la celebración y en la programación del evento, mientras omite un análisis más profundo de la violencia que provocó la cancelación y sus consecuencias sociales.",
+      "focus_tags": [
+        "gobierno",
+        "cultura",
+        "seguridad"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "En 2024 y 2025, los festejos del Grito de Independencia en Sinaloa fueron cancelados tras intensos episodios de violencia en Culiacán y Los Mochis, que incluyeron enfrentamientos entre grupos criminales y la intervención de fuerzas de seguridad."
+        },
+        {
+          "label": "situación de seguridad",
+          "text": "Sinaloa ha registrado índices de homicidios y delitos vinculados al narcotráfico superiores al promedio nacional, lo que ha generado preocupación en la población y ha limitado la realización de eventos públicos masivos."
+        },
+        {
+          "label": "importancia cultural",
+          "text": "El Grito de Independencia es una tradición nacional en México, celebrada cada 15 de septiembre con actos patrióticos y festividades que reúnen a comunidades de todo el país."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "3ebe08374dc8",
+      "title": "Cae rayo cerca de un hombre de 70 años en Acámbaro y sufre quemaduras",
+      "summary": "Un hombre de 70 años de Acámbaro, Guanajuato, sufrió quemaduras después de que un rayo cayera cerca mientras cuidaba su ganado; fue atendido por la Cruz Roja y la policía municipal y se encuentra estable en el hospital.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/guanajuato-sur/2026/08/18/cae-rayo-cerca-de-un-hombre-de-70-anos-en-acambaro-y-sufre-quemaduras-1834024.html",
+      "published_at": "2026-08-19T03:52:52+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutro y descriptivo, sin palabras cargadas ni fuentes con sesgo político, y se centra en hechos de la emergencia local.",
+      "focus_analysis": "El medio se enfocó en el incidente humano y la respuesta de los servicios de emergencia, dejando de lado un análisis más amplio sobre la frecuencia de rayos o políticas de prevención en zonas rurales.",
+      "focus_tags": [
+        "seguridad pública",
+        "accidentes naturales",
+        "salud"
+      ],
+      "context": [
+        {
+          "label": "seguridad pública",
+          "text": "En México, la Cruz Roja y los cuerpos de policía municipal son los primeros en responder a emergencias rurales, proporcionando primeros auxilios y traslado a hospitales."
+        },
+        {
+          "label": "estadísticas de rayos",
+          "text": "El Servicio Meteorológico Nacional registra cientos de incidentes de rayos al año en el país, con mayor concentración en áreas rurales y montañosas."
+        },
+        {
+          "label": "recomendaciones municipales",
+          "text": "Las autoridades de Acámbaro, al igual que otras municipalidades mexicanas, aconsejan a la población buscar refugio en interiores durante tormentas eléctricas para prevenir lesiones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "5724bfd8d19f",
+      "title": "Cuando la lluvia escribe: Yōko Ogawa y los susurros de lo cotidiano",
+      "summary": "Una lluvia fina se cuela por la rendija de la ventana, dibujando ríos diminutos sobre la mesa de madera donde reposan los libros. Cada gota parece un punto de puntuación que invita a abrir una página y escuchar el murmullo de los objetos que, en la prosa de Ogawa, cobran vida.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-19T03:55:06.258267+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, mientras la crisis climática intensifica los episodios de lluvia, la capacidad de Ogawa para transformar lo cotidiano en un universo de quietud y extrañeza nos recuerda que el refugio se encuentra en la atención al detalle. Elegí su obra porque su estilo minimalista se alinea con la necesidad de leer lentamente, como quien saborea una gota de agua.",
+      "focus_tags": [
+        "ficción contemporánea",
+        "Japón",
+        "literatura de lo cotidiano"
+      ],
+      "context": [
+        {
+          "label": "Introducción a Yōko Ogawa",
+          "text": "Nacida en 1962 en Osaka, Ogawa debutó con cuentos que mezclan lo cotidiano con lo inquietante; su carrera ha sido marcada por premios como el Akutagawa y el World Fantasy, consolidándola como una de las voces más singulares de la literatura japonesa contemporánea."
+        },
+        {
+          "label": "Obras recomendadas",
+          "text": "Comienza con 'El huésped', novela que explora la relación entre la memoria y el cuerpo; sigue con 'La fórmula del amor', una colección de relatos donde la domesticidad se vuelve laberinto; y culmina con 'El libro de los extraños', una pieza corta que revela la extrañeza de los objetos cotidianos."
+        },
+        {
+          "label": "Conexiones temáticas",
+          "text": "La atmósfera de la lluvia que permea la obra de Ogawa se refleja también en autores como Hiromi Itō y Banana Yoshimoto, cuyas narrativas convierten el clima en personaje y el silencio en discurso."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true,
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "990c511df2f9",
       "title": "Juan Manuel Cerúndolo cayó ante Auger-Aliassime y se despidió del Masters 1000 de Cincinnati",
@@ -801,251 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "55f30ee2ea45",
-      "title": "¡Histórico! El piloto mexicano Noel León consigue su primera pole gracias a esta estrategia",
-      "summary": "El piloto mexicano Noel León, de Monterrey, logró la primera pole position de México en la Fórmula 2 al aplicar una estrategia sin rebufo en el Red Bull Ring de Austria, marcando un hito histórico para el automovilismo nacional.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/deportes/2026/06/27/historico-el-piloto-mexicano-noel-leon-consigue-su-primera-pole-en-formula-2-gracias-a-esta-estrategia/",
-      "published_at": "2026-08-19T03:02:19+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto emplea un tono celebratorio y emotivo, resaltando el orgullo nacional y calificando el logro como \"histórico\" y \"tener huevos\", lo que indica una ligera inclinación positiva hacia el piloto mexicano.",
-      "focus_analysis": "El medio se centra en el logro deportivo y la emoción del piloto, destacando la estrategia arriesgada y el orgullo nacional, dejando de lado análisis técnicos profundos o implicaciones económicas del deporte.",
-      "focus_tags": [
-        "deporte mexicano",
-        "Fórmula 2",
-        "estrategia de clasificación"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Hasta 2026, ningún piloto mexicano había conseguido una pole position en la Fórmula 2, una categoría que sirve como escalón directo a la Fórmula 1."
-        },
-        {
-          "label": "dato comparativo",
-          "text": "La Fórmula 2, creada en 2017, reúne a los mejores talentos jóvenes del automovilismo y es considerada la principal antesala de la máxima categoría mundial."
-        },
-        {
-          "label": "postura de otro actor",
-          "text": "Otros pilotos mexicanos destacados, como Sergio Pérez y Esteban Gutiérrez, han abierto camino en la Fórmula 1, pero la pole de León representa el primer logro de este tipo en la Fórmula 2."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.4
-      }
-    },
-    {
-      "id": "95b947965fec",
-      "title": "La empresa que piensa",
-      "summary": "El texto argumenta que la ventaja competitiva futura de las empresas dependerá más de su inteligencia organizacional —la capacidad de formular preguntas, aprender y adaptarse— que de poseer los modelos de IA más avanzados, ejemplificado con la experiencia de Duolingo y la reflexión de autores de Harvard Business Review.",
-      "category": "economia",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ciencia-y-tecnologia/la-empresa-que-piensa/18/08/2026/",
-      "published_at": "2026-08-18T17:38:56+00:00",
-      "bias_score": -15,
-      "bias_reason": "El artículo proviene de Letras Libres, una publicación de tendencia progresista, pero su tono es analítico y citan fuentes académicas sin lenguaje cargado, lo que indica un sesgo leve hacia la izquierda.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y organizativo, resaltando la importancia de la inteligencia organizacional y la capacidad de aprendizaje, mientras deja de lado aspectos económicos de rentabilidad y el impacto humano directo de la IA.",
-      "focus_tags": [
-        "inteligencia organizacional",
-        "IA empresarial",
-        "cambio organizacional"
-      ],
-      "context": [
-        {
-          "label": "Tendencia de IA en empresas",
-          "text": "En los últimos años, muchas compañías han adoptado la etiqueta \"AI‑first\" y han invertido en la adquisición de modelos de inteligencia artificial, aunque el acceso a estos sistemas se está convirtiendo en algo cada vez más común y menos exclusivo."
-        },
-        {
-          "label": "Teorías clásicas de la empresa",
-          "text": "Desde Adam Smith y la división del trabajo hasta Peter Drucker y la sustitución del capital físico por conocimiento, los estudios de gestión han explicado históricamente por qué algunas organizaciones prosperan mientras otras fracasan."
-        },
-        {
-          "label": "Artículo de Harvard Business Review",
-          "text": "Un informe de Harvard Business Review planteó que, cuando todas las empresas pueden usar los mismos modelos de IA, la ventaja competitiva radica en el contexto interno y el conocimiento acumulado sobre clientes y procesos, no en la tecnología en sí."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "160cfbe1b51b",
-      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
-      "summary": "Claude, la inteligencia artificial de Anthropic, ahora puede redactar y enviar correos de Gmail de forma autónoma cuando el usuario lo configura, aunque la compañía mantiene una opción de aprobación explícita para evitar envíos no deseados.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/claude-enviar-correos-gmail-sin-aprobacion/",
-      "published_at": "2026-08-18T23:33:05+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto usa un tono descriptivo y neutral, sin adjetivos cargados ni juicios de valor, y menciona tanto la funcionalidad como los mecanismos de control para la privacidad.",
-      "focus_analysis": "El artículo se centra en los aspectos técnicos y de usabilidad de la nueva función de Claude, dejando de lado la discusión sobre los riesgos éticos o el impacto social de la automatización de la comunicación.",
-      "focus_tags": [
-        "IA y productividad",
-        "automatización de correo",
-        "privacidad de datos"
-      ],
-      "context": [
-        {
-          "label": "Evolución de Claude",
-          "text": "Antes de esta actualización, Claude solo podía leer la bandeja de entrada y generar borradores, pero el envío debía ser siempre revisado y aprobado por el usuario."
-        },
-        {
-          "label": "Herramientas similares",
-          "text": "Otros proveedores, como Microsoft con su Copilot para Outlook, también ofrecen funciones de respuesta automática, lo que ha generado debates sobre la privacidad y el control del usuario."
-        },
-        {
-          "label": "Marco regulatorio",
-          "text": "En la Unión Europea, la Ley de IA y el GDPR exigen que los sistemas que procesan comunicaciones personales incluyan salvaguardas y permitan la intervención humana."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "a9f455c9c282",
-      "title": "Stan Wawrinka vence al campeón defensor del Cancun Country Open y se instala en segunda ronda",
-      "summary": "El tenista suizo Stan Wawrinka, de 41 años, superó al campeón defensor checo Dalibor Svrcina en el Cancun Country Open 2026 y se clasificó para la segunda ronda del torneo.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/stan-wawrinka-vence-al-campeon-defensor-del-cancun-country-open-y-se-instala-en-segunda-ronda/",
-      "published_at": "2026-08-19T02:54:21+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo usa un tono elogioso y emotivo, pero no incorpora contenido político ni sesgo ideológico; simplemente celebra el desempeño del deportista.",
-      "focus_analysis": "Se centra en la narrativa humana del veterano que vence al campeón defensor, resaltando su edad y el apoyo del público, mientras omite análisis técnico del juego o la repercusión del torneo en el circuito.",
-      "focus_tags": [
-        "tenis",
-        "deporte",
-        "heroico"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Stan Wawrinka es un tenista suizo que alcanzó el puesto número tres del ranking mundial y ganó tres torneos de Grand Slam, además de una medalla olímpica, convirtiéndose en una figura destacada del llamado \"Big Three\"."
-        },
-        {
-          "label": "datos comparables",
-          "text": "El Cancun Country Open es un torneo ATP Challenger de categoría 125 que se celebra en Quintana Roo, México, y suele atraer a jugadores que buscan mejorar su posición en el ranking mundial."
-        },
-        {
-          "label": "postura de otros actores",
-          "text": "Dalibor Svrcina, tenista checo, había conquistado el título del Cancun Country Open en la edición anterior, posicionándose como el favorito para repetir como campeón en 2026."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "ae36d7a3a131",
-      "title": "Yahir alerta sobre su posible salida de La Casa de los Famosos México por “paz mental”",
-      "summary": "El cantante mexicano Yahir, concursante de La Casa de los Famosos México, anunció que podría abandonar el programa para proteger su paz mental.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/yahir-alerta-sobre-su-posible-salida-de-la-casa-de-los-famosos-mexico-por-paz-mental/",
-      "published_at": "2026-08-19T02:55:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a informar la declaración de Yahir sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniendo un tono neutral y descriptivo.",
-      "focus_analysis": "El medio se centra en el aspecto humano y psicológico del participante, dejando de lado cualquier análisis económico o institucional del reality.",
-      "focus_tags": [
-        "salud mental",
-        "reality show",
-        "Yahir"
-      ],
-      "context": [
-        {
-          "label": "programa",
-          "text": "La Casa de los Famosos México es un reality show en el que celebridades conviven bajo vigilancia constante, generando a tensión y conflictos entre los participantes."
-        },
-        {
-          "label": "participante",
-          "text": "Yahir, cantante mexicano conocido por su trayectoria en la música pop y por haber participado en otros programas de televisión, ha expresado preocupación por su bienestar emocional."
-        },
-        {
-          "label": "tendencia",
-          "text": "En los últimos años, varios concursantes de reality shows han citado la salud mental como razón para abandonar o solicitar pausas en la competencia."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "990c511df2f9",
-      "title": "Juan Manuel Cerúndolo cayó ante Auger-Aliassime y se despidió del Masters 1000 de Cincinnati",
-      "summary": "El tenista argentino Juan Manuel Cerúndolo perdió en la tercera ronda del Masters 1000 de Cincinnati contra el canadiense Félix Auger‑Aliassime, quien ganó 7‑5 y 6‑1, mientras que el resto de los argentinos en el cuadro sigue con Thiago Tirante.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/juan-manuel-cerundolo-cayo-ante-auger-aliassime-y-se-despidio-del-masters-1000-de-cincinnati/",
-      "published_at": "2026-08-19T02:56:35+00:00",
-      "bias_score": -5,
-      "bias_reason": "El texto destaca de forma positiva los logros y trayectoria del jugador argentino, mientras que al rival se describe de forma más neutral, lo que refleja una ligera inclinación favorable hacia Argentina.",
-      "focus_analysis": "El medio se centró en la actuación y la carrera de Cerúndolo, resaltando su trayectoria y futuros torneos, dejando de lado aspectos económicos o de la organización del torneo.",
-      "focus_tags": [
-        "tenis",
-        "Masters 1000",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Cerúndolo",
-          "text": "Juan Manuel Cerúndolo alcanzó su primer título ATP en Córdoba 2021, volvió a los Top 100 en 2025 y logró su mejor ranking histórico (n.º 42) en junio de 2026, con destacadas actuaciones en Roland Garros y en el Masters de Madrid."
-        },
-        {
-          "label": "Perfil de Auger‑Aliassime",
-          "text": "Félix Auger‑Aliassime, número 4 del ranking mundial, ha sido semifinalista en varios Masters 1000 y busca consolidarse como contendiente regular en los octavos de final de Cincinnati."
-        },
-        {
-          "label": "Importancia del Masters de Cincinnati",
-          "text": "El Masters 1000 de Cincinnati es uno de los torneos más importantes del circuito ATP, sirviendo como preparación clave para el US Open y atrayendo a los mejores jugadores del mundo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
-    },
-    {
-      "id": "9ff8a86750b8",
-      "title": "Wall Street suma tres días a la baja, en medio de alzas en el crudo y Bonos",
-      "summary": "Los índices bursátiles de Nueva York registraron su tercera jornada consecutiva a la baja, impulsados por el aumento de los rendimientos de los bonos del Tesoro de EE. UU., el alza del precio del petróleo y la caída de las acciones de empresas de chips de IA, en un contexto de tensiones geopolíticas entre EE. UU. e Irán.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/mercados/wall-street-suma-tres-dias-baja-medio-alzas-crudo-bonos-20260818-828966.html",
-      "published_at": "2026-08-19T02:57:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje mayormente descriptivo y se centra en datos de mercado, sin usar adjetivos cargados ni favorecer a ninguna posición política; las fuentes citadas son analistas y declaraciones oficiales.",
-      "focus_analysis": "El medio eligió un ángulo económico‑financiero, resaltando la evolución de los índices y los factores macroeconómicos, mientras dejó de lado el impacto social o político más profundo de la tensión EE. UU.–Irán.",
-      "focus_tags": [
-        "mercados financieros",
-        "precios del petróleo",
-        "tensiones geopolíticas"
-      ],
-      "context": [
-        {
-          "label": "Rendimientos de bonos del Tesoro",
-          "text": "El aumento sostenido de los rendimientos de los bonos del Tesoro de EE. UU. suele ejercer presión a la baja sobre las acciones, pues eleva el costo de financiación y hace más atractivos los instrumentos de renta fija."
-        },
-        {
-          "label": "Tensiones EE. UU.–Irán",
-          "text": "Las recientes negociaciones estancadas entre EE. UU. e Irán y la expiración del memorándum de entendimiento han generado incertidumbre en los mercados, impulsando el precio del crudo y la volatilidad de los activos."
-        },
-        {
-          "label": "Sector de chips de IA",
-          "text": "Las acciones de empresas dedicadas a los chips de inteligencia artificial han experimentado caídas pronunciadas en los últimos meses, reflejando tanto la sobrevaloración previa como la cautela de los inversores ante una posible desaceleración de la demanda."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]

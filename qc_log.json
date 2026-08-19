@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-18T22:53:58.354837+00:00",
-      "title": "El director de Alpine confirmó el paquete de mejoras que tendrá la escudería de Colapinto en el GP d",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta buena estructura y objetividad, pero la precisión de los datos y la falta de fuentes contrastadas son insuficientes para considerarlo una noticia fiable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T22:54:06.488376+00:00",
-      "title": "Crítica de la BBC: Antony Bourdain quizás no estaría contento con \"Tony\", la nueva película que retr",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido, pero la falta de fuentes múltiples y la ausencia de verificaciones concretas reducen ligeramente su puntuación en veracidad y contraste.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T22:54:18.533074+00:00",
-      "title": "El hombre que dirigió PlayStation da su opinión sobre la muerte de los juegos en disco",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, bien estructurada y objetiva, aunque podría beneficiarse de fuentes más diversificadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T22:54:32.827915+00:00",
-      "title": "La empresa que piensa",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta una visión interesante pero con datos no confirmados y falta de fuentes contrastantes, lo que reduce su credibilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T22:54:39.905373+00:00",
-      "title": "Mundial 2026 CDMX: Recaudación de impuestos por hospedaje subió 20% en junio de este año; significar",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada de la información.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T22:54:50.571493+00:00",
-      "title": "Temblor hoy 18 de agosto en México: se registró un sismo de magnitud 4.1 en Chiapas",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los requisitos de precisión, objetividad y estructura, aunque podría mejorar citando directamente la fuente primaria del Servicio Sismológico Nacional.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T23:00:54.688343+00:00",
-      "title": "Estrellas del Sahel: la ciencia ficción que germina en la arena",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 8,
-        "voz_autor": 9,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares literarios de Contexto, ofreciendo una pieza bien escrita y reflexiva, pese a una ligera duda sobre la precisión de la fecha de publicación en español.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T23:01:01.361885+00:00",
-      "title": "¡Atención fumadores! Cigarros suben de precio por segunda vez en el año: ¿cuánto te costarán?",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales; solo se sugiere reforzar la verificación de la cifra de contrabando y añadir voces de salud pública para mayor equilibrio.",
-      "error": null
-    },
-    {
-      "at": "2026-08-18T23:01:09.558428+00:00",
-      "title": "Estos son los logros que Harfuch exhibió ante el mundo: desde la muerte de “El Mencho” hasta la caíd",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta datos poco verificables y una clara parcialidad en la presentación de los logros, aunque incluye contexto y fuentes diversas; necesita mayor rigor factual antes de publicarse.",
-      "error": null
-    },
-    {
       "at": "2026-08-18T23:01:14.099956+00:00",
       "title": "Israel alista “pabellón” para palestinos condenados a muerte",
       "kind": "noticia",
@@ -3392,6 +3239,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial y puede publicarse con pequeñas mejoras en la diversificación de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:55:08.697314+00:00",
+      "title": "Cuando la lluvia escribe: Yōko Ogawa y los susurros de lo cotidiano",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una presentación original y bien estructurada que invita a la reflexión sin infracciones de derechos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:55:21.605011+00:00",
+      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero su falta de fuentes contrastantes y su carácter claramente opinativo reducen su idoneidad como noticia objetiva.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:55:32.059002+00:00",
+      "title": "Cae rayo cerca de un hombre de 70 años en Acámbaro y sufre quemaduras",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzarse con fuentes adicionales para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:55:39.228004+00:00",
+      "title": "Sinaloa retomará festejos del Grito de Independencia; fueron cancelados durante dos años por la viol",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo una información veraz y objetiva, aunque sería deseable incluir referencias más concretas para reforzar la precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:55:46.092214+00:00",
+      "title": "Trump pausa los aranceles del 50 % a Canadá",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete falla gravemente en veracidad y contraste de fuentes, aunque mantiene una estructura adecuada y es actual.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:55:53.130163+00:00",
+      "title": "Banfield eliminó por penales a Midland y será el rival de Deportivo Riestra en los cuartos de final ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y objetividad, ofreciendo una cobertura clara y bien estructurada del hecho deportivo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:56:03.656943+00:00",
+      "title": "Claude ahora puede enviar tus correos de Gmail sin pedirte permiso",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, aunque la veracidad de la funcionalidad de Claude podría beneficiarse de fuentes más concretas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:56:14.820952+00:00",
+      "title": "La empresa que piensa",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero necesita fuentes más verificables y una mayor variedad de perspectivas para reforzar su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T03:56:22.289238+00:00",
+      "title": "Club América: vuelo sostenido a través de la data",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la precisión de algunos datos y la diversidad de fuentes podrían mejorarse.",
       "error": null
     }
   ]
