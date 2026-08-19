@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T10:58:04.217153+00:00",
-      "title": "Solución Final",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple con los requisitos básicos de objetividad y actualidad, aunque podría mejorar la verificabilidad al incluir referencias específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T10:58:12.948798+00:00",
-      "title": "Incendio consume negocio en la Colonia Centro: Bomberos de la CDMX evitan que el fuego se extienda a",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información reciente, objetiva y bien estructurada, aunque podría reforzarse con datos más concretos y fuentes adicionales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T11:00:51.418845+00:00",
-      "title": "Del peonaje al algoritmo: El desafío del Tecno-Feudalismo y la ruta hacia la autonomía",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 4.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 7
-      },
-      "observacion": "El artículo tiene problemas de veracidad y falta de contraste y objetividad, pese a ser actual y bien estructurado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T11:00:59.995985+00:00",
-      "title": "La Casa de los Famosos hoy 19 de agosto: sigue en vivo la cuarta nominación, alianzas y traiciones",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo, siendo preciso, objetivo y actual, aunque podría beneficiarse de fuentes adicionales para reforzar la verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T11:01:08.300892+00:00",
-      "title": "Israel construye instalaciones con “cabinas de observación” para ejecutar en la horca a palestinos c",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 4.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete muestra graves dudas de veracidad y falta de equilibrio, pese a su actualidad y adecuada estructura de pirámide invertida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T11:01:15.377531+00:00",
-      "title": "Nick Kyrgios dio positivo por cocaína en un control de dopaje y quedó suspendido del circuito de ten",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando una noticia clara, reciente y objetiva, aunque podría reforzar la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T11:01:23.374152+00:00",
-      "title": "CoComelon lleva corazón de YouTube al cine",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta una noticia reciente pero con escasa verificación y falta de fuentes contrastadas, además de un sesgo promocional que afecta la objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T11:01:31.920077+00:00",
-      "title": "A precio de outlet el Magic Mouse de Apple, un ratón con un diseño muy particular y gestos Multi-Tou",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de información objetiva y actual, aunque podría reforzar la verificación de datos y reducir el tono promocional.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T11:01:45.227191+00:00",
-      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 2",
-      "kind": "noticia",
-      "category": "literatura",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y objetivo, pero la precisión de los datos y la falta de fuentes externas limitan su calidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T11:01:55.680078+00:00",
       "title": "Solución Final",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información reciente, estructurada y mayor en gran medida objetiva, aunque podría reforzar la diversidad de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:20:56.376768+00:00",
+      "title": "Adiós a los rumores: Checo Pérez queda fuera de Williams tras renovar Carlos Sainz",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, contraste de fuentes, objetividad, actualidad y estructura, y puede publicarse sin modificaciones.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:21:08.175861+00:00",
+      "title": "Trump prevé reunirse con Kim Jong-un antes de que acabe el año; “me entiendo muy bien con él\"",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta información reciente pero con problemas de veracidad y falta de contraste de fuentes, y muestra un sesgo parcial; necesita mayor rigor y múltiples perspectivas para cumplir con los estándares editoriales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:21:15.003694+00:00",
+      "title": "Cómo saber si te han bloqueado en WhatsApp",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, aunque podría reforzarse con fuentes oficiales adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:21:31.222340+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo anuncia que acudirá al Supremo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete es reciente y está estructurado de forma aceptable, pero contiene errores fácticos y carece de fuentes contrastantes, lo que afecta su fiabilidad y equilibrio.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:21:37.467330+00:00",
+      "title": "El día que reveló su divorcio al vestuario y el cruce con Haaland: el impactante documental sobre la",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque es actual y está bien estructurado; requiere fuentes fiables y corroboración para ser publicado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:21:46.987014+00:00",
+      "title": "España rescata a 29 ajolotes mexicanos del tráfico ilegal de especies: ¿Qué se sabe?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, bien contextualizada y presentada de forma clara y oportuna.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:22:03.756986+00:00",
+      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 2",
+      "kind": "noticia",
+      "category": "literatura",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando datos precisos y recientes, aunque muestra un leve sesgo promocional propio del medio cultural.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:22:14.807044+00:00",
+      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 19 de agosto: operativo contra el “Tío Lako",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y estructurado, pero contiene imprecisiones y falta de fuentes contrastantes que limitan su veracidad y profundidad de cobertura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-19T16:22:25.285279+00:00",
+      "title": "Acuerdan frenar asentamientos irregulares en parque nacional El Tepozteco; activan mesa de trabajo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad, aunque podría mejorar la inclusión de fuentes y perspectivas diversas.",
       "error": null
     }
   ]
