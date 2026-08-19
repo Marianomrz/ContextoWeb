@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T17:58:10.360812+00:00",
+  "generated_at": "2026-08-19T18:02:35.603344+00:00",
   "articles": [
+    {
+      "id": "289c15faab43",
+      "title": "Xóchitl Gálvez acusa a Sheinbaum de “adelantar perdón” para Andy López Beltrán por señalamientos de huachicol fiscal",
+      "summary": "La exsenadora Xóchitl Gálvez del PAN acusa a la presidenta de México, Claudia Sheinbaum, de proteger al hijo del expresidente Andrés Manuel López Obrador, Andy López Beltrán, al anticipar un perdón frente a las acusaciones de huachicol fiscal, mientras Sheinbaum niega que haya investigaciones y califica el caso de asunto político.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/xochitl-galvez-acusa-a-sheinbaum-de-adelantar-perdon-para-andy-lopez-beltran-por-senalamientos-de-huachicol-fiscal/",
+      "published_at": "2026-08-19T17:54:40+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto reproduce tanto la crítica de Gálvez como la defensa de Sheinbaum sin emplear lenguaje cargado propio del medio, lo que indica una cobertura mayormente equilibrada con ligera inclinación a la izquierda al dar mayor espacio a la oposición.",
+      "focus_analysis": "El artículo se centra en el conflicto político institucional entre la oposición y el gobierno sobre la revocación de la visa y las acusaciones de corrupción, dejando de lado el impacto personal de los involucrados.",
+      "focus_tags": [
+        "política mexicana",
+        "visa y corrupción",
+        "conflicto institucional"
+      ],
+      "context": [
+        {
+          "label": "Contexto de la visa",
+          "text": "Analistas señalan que la cancelación de la visa estadounidense a Andy López Beltrán genera dudas sobre su motivación política y no constituye una acusación legal formal."
+        },
+        {
+          "label": "Jurisdicción del caso",
+          "text": "Según el abogado Epigmenio Mendieta, el proceso principal sobre el presunto huachicol fiscal se desarrollará en tribunales de Estados Unidos, lo que complica la investigación mexicana."
+        },
+        {
+          "label": "Posicionamiento de Sheinbaum",
+          "text": "En declaraciones previas, Sheinbaum elogió a funcionarios estadounidenses como el agente Harfuch, lo que contrasta con su actual defensa de que el caso es un asunto político interno."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
+    {
+      "id": "45e89abaf49d",
+      "title": "\"Súper\" El Niño amenaza a Perú con lluvias que golpean Machu Picchu",
+      "summary": "El fenómeno climático El Niño está provocando intensas lluvias en Perú que han inundado el acceso a la ciudadela arqueológica Machu Picchu y causado deslizamientos y cortes de carreteras en varias regiones del país.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/internacionales/super-nino-amenaza-peru-lluvias-golpean-machu-picchu-20260819-829072.html",
+      "published_at": "2026-08-19T17:39:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo, cita a autoridades y a una empresa minera, y no emplea lenguaje cargado ni favorece a ningún grupo político.",
+      "focus_analysis": "El medio se centra en los efectos ambientales y económicos del fenómeno, destacando los impactos en el turismo, la infraestructura y la minería, mientras que la dimensión política o de gestión de riesgos queda menos desarrollada.",
+      "focus_tags": [
+        "clima",
+        "turismo",
+        "minería"
+      ],
+      "context": [
+        {
+          "label": "fenómeno histórico",
+          "text": "El Niño ha generado históricamente inundaciones y sequías en la costa y sierra peruana, como en 1997‑1998, cuando provocó graves daños en la agricultura y el transporte."
+        },
+        {
+          "label": "importancia de Machu Picchu",
+          "text": "Machu Picchu es la principal atracción turística de Perú, recibiendo más de 1,5 millones de visitantes al año y generando ingresos significativos para la economía local."
+        },
+        {
+          "label": "sector minero peruano",
+          "text": "Perú es el tercer mayor productor mundial de cobre, y sus minas, como las de Southern Copper, son vulnerables a interrupciones causadas por fenómenos climáticos extremos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "c98172091619",
+      "title": "Lo que faltaba: Microsoft rompe Windows Defender, el antivirus nativo de Windows 11",
+      "summary": "Microsoft ha detectado fallos en Windows Defender, el antivirus nativo de Windows 11, que impiden la finalización de los escaneos rápidos y completos, aunque el escaneo desde el menú contextual sigue funcionando. El problema parece estar ligado a combinaciones específicas entre versiones de la aplicación y de la inteligencia de seguridad, y actualizar a la versión más reciente de esta última podría solucionarlo.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/software/microsoft-rompe-windows-defender-antivirus-windows-11/",
+      "published_at": "2026-08-19T17:24:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el problema técnico y posibles soluciones sin usar lenguaje cargado ni presentar opiniones políticas o corporativas, manteniéndose neutral.",
+      "focus_analysis": "El medio se centra en el aspecto técnico del fallo del antivirus y en los pasos para mitigarlo, dejando de lado la reacción oficial de Microsoft y el impacto en la seguridad general del sistema.",
+      "focus_tags": [
+        "Windows 11",
+        "antivirus bug",
+        "software update"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Windows Defender",
+          "text": "Windows Defender, conocido también como Microsoft Defender, es el antivirus integrado en los sistemas operativos Windows desde Windows 8 y ha evolucionado como una capa de protección contra malware y amenazas en tiempo real."
+        },
+        {
+          "label": "Actualizaciones de seguridad recientes",
+          "text": "Microsoft lanza periódicamente actualizaciones de la inteligencia de seguridad de Windows Defender, que incluyen definiciones de amenazas y mejoras de detección, y a veces pueden generar incompatibilidades con versiones específicas del motor."
+        },
+        {
+          "label": "Incidentes similares en el pasado",
+          "text": "En ocasiones anteriores, actualizaciones de Windows Defender han provocado fallos en la función de escaneo o en la detección de amenazas, lo que ha llevado a usuarios y foros a buscar soluciones temporales mientras se publica un parche oficial."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "89965ab901d1",
+      "title": "River Plate abrirá su serie de octavos de final de la Copa Sudamericana ante Independiente Santa Fe: hora, TV y formaciones",
+      "summary": "El club argentino River Plate visitará el Estadio El Campín de Bogotá para enfrentar a Independiente Santa Fe en la ida de los octavos de final de la Copa Sudamericana, con el partido programado a las 21:30 hora local y transmitido por ESPN y Disney+. El equipo de Eduardo Coudet cuenta con la ausencia de Gonzalo Montiel y la incorporación del juvenil Ángel Yutiel Susano en la defensa.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/river-plate-abrira-su-serie-de-octavos-de-final-de-la-copa-libertadores-ante-independiente-santa-fe-hora-tv-y-formaciones/",
+      "published_at": "2026-08-19T17:30:20+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y factual, sin palabras cargadas ni selección de fuentes que favorezcan una postura política o deportiva.",
+      "focus_analysis": "El medio se centra en los aspectos logísticos del partido, la alineación y la ausencia por lesión de un jugador clave, dejando de lado un análisis táctico profundo o la perspectiva de los aficionados.",
+      "focus_tags": [
+        "copa sudamericana",
+        "river plate",
+        "independiente santa fe"
+      ],
+      "context": [
+        {
+          "label": "historial de River Plate en la Copa Sudamericana",
+          "text": "River Plate ha participado regularmente en la Copa Sudamericana, ganando la edición 2014 y manteniéndose como uno de los clubes más exitosos de Argentina en el torneo continental."
+        },
+        {
+          "label": "situación de Independiente Santa Fe",
+          "text": "Independiente Santa Fe, campeón colombiano en 2015, se encuentra en la mitad de la tabla de la liga local y busca avanzar en la Sudamericana tras una campaña sólida en la fase de grupos."
+        },
+        {
+          "label": "lesión de Gonzalo Montiel",
+          "text": "El lateral derecho argentino Gonzalo Montiel sufrió una lesión muscular que lo dejó fuera del encuentro, obligando a Eduardo Coudet a promover al juvenil Ángel Yutiel Susano como reemplazo en la defensa."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "d5e8a27cb963",
+      "title": "Calendario SEP 2026-2027: vacaciones, puentes y días feriados; conoce todas las fechas clave del nuevo ciclo escolar",
+      "summary": "La Secretaría de Educación Pública (SEP) de México divulgó el calendario provisional del ciclo escolar 2026‑2027, indicando fechas de vacaciones, puentes, días festivos y jornadas de Consejo Técnico Escolar para los estudiantes y docentes del país.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/tendencias/calendario-sep-2026-2027-vacaciones-puentes-y-dias-feriados-conoce-todas-las-fechas-clave-del-nuevo-ciclo-escolar/",
+      "published_at": "2026-08-19T17:53:17+00:00",
+      "bias_score": 3,
+      "bias_reason": "El texto se limita a presentar datos oficiales sin usar vocabulario cargado ni citar fuentes con postura política, lo que indica una cobertura mayormente neutral.",
+      "focus_analysis": "El medio se centró en proporcionar la información práctica del calendario académico, omitiendo cualquier análisis sobre el impacto de políticas educativas o controversias relacionadas.",
+      "focus_tags": [
+        "educación",
+        "calendario escolar",
+        "vacaciones"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "La SEP es la dependencia federal encargada de regular la educación básica y media en México, y cada año publica un calendario escolar que establece los periodos lectivos y de descanso."
+        },
+        {
+          "label": "comparación",
+          "text": "Tradicionalmente, el calendario incluye vacaciones de diciembre, la Semana Santa y los puentes de los días festivos nacionales como el 16 de septiembre (Independencia), el 2 de noviembre (Día de Muertos) y el 20 de noviembre (Revolución)."
+        },
+        {
+          "label": "postura",
+          "text": "Recientes reformas bajo la Nueva Escuela Mexicana han buscado modernizar la organización escolar, pero el esquema de vacaciones y CTE sigue manteniendo la estructura tradicional para garantizar la continuidad del proceso educativo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "76012ae82705",
+      "title": "Protección animal en México: así cambiaron las leyes tras una década de debates en el Congreso",
+      "summary": "El Congreso mexicano aprobó, tras más de una década de debates, reformas que prohíben el uso de animales silvestres en circos, tipifican las peleas de perros como delito federal y restringen los espectáculos con mamíferos marinos, marcando un giro significativo en la legislación de protección animal del país.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/proteccion-animal-en-mexico-asi-cambiaron-las-leyes-tras-una-decada-de-debates-en-el-congreso/",
+      "published_at": "2026-08-19T17:54:43+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto utiliza un lenguaje mayormente descriptivo y se centra en hechos legislativos, aunque destaca la presión de grupos civiles y la visión progresista de la protección animal, lo que indica un leve sesgo de izquierda.",
+      "focus_analysis": "El medio se enfocó en el proceso institucional y la participación de la sociedad civil, dejando de lado el análisis del impacto económico en la industria del entretenimiento y la posible oposición de sectores tradicionales.",
+      "focus_tags": [
+        "legislación animal",
+        "derechos de los animales",
+        "presión social"
+      ],
+      "context": [
+        {
+          "label": "Situación previa a 2014",
+          "text": "Antes de 2014 México no contaba con una normativa federal que prohibiera el uso de animales silvestres en espectáculos, lo que permitía la presencia de leones, tigres y elefantes en circos."
+        },
+        {
+          "label": "Comparación regional",
+          "text": "Países como Argentina y Brasil ya habían adoptado leyes que limitan el uso de animales en circos y espectáculos marinos años antes, lo que sirvió de referencia para los legisladores mexicanos."
+        },
+        {
+          "label": "Rol de la sociedad civil",
+          "text": "Organizaciones de protección animal y colectivos como Animal Equality presionaron al Congreso mediante campañas y denuncias, contribuyendo al impulso de las reformas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "289c15faab43",
       "title": "Xóchitl Gálvez acusa a Sheinbaum de “adelantar perdón” para Andy López Beltrán por señalamientos de huachicol fiscal",
@@ -837,216 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.4
-      }
-    },
-    {
-      "id": "d71a7515cdc8",
-      "title": "Anuncian nuevo disco en vivo de Jenni Rivera a 15 años de su muerte",
-      "summary": "La cantante mexicana Jenni Rivera, fallecida en 2012, recibirá el 3 de septiembre un álbum en vivo con 45 canciones del concierto que dio en el Staples Center, quince años después de su muerte.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/anuncian-nuevo-disco-en-vivo-de-jenni-rivera-a-15-anos-de-su-muerte/",
-      "published_at": "2026-08-19T17:19:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono celebratorio y descriptivo, sin vocabulario cargado ni fuentes polémicas, centrado en el legado musical del artista.",
-      "focus_analysis": "El medio opta por un ángulo cultural y nostálgico, resaltando la importancia del concierto y la expectativa de los fans; omite cualquier análisis económico o político del lanzamiento.",
-      "focus_tags": [
-        "legado musical",
-        "concierto póstumo",
-        "cultura popular"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la artista",
-          "text": "Jenni Rivera, conocida como 'La Diva de la Banda', fue una de las voces más influyentes de la música regional mexicana y falleció en diciembre de 2012 tras un accidente aéreo."
-        },
-        {
-          "label": "Postumidad en la industria musical",
-          "text": "Es habitual que sellos discográficos publiquen grabaciones inéditas de artistas fallecidos, como los álbumes póstumos de Selena Quintanilla o Tupac Shakur, para mantener viva su presencia comercial y cultural."
-        },
-        {
-          "label": "Importancia del concierto en Staples Center",
-          "text": "El concierto de Jenni Rivera en el Staples Center de Los Ángeles, realizado en 2011, fue uno de sus eventos más grandes, con una audiencia de varios miles y una duración de más de dos horas, lo que lo convierte en un material valioso para los seguidores."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "33dd164c5a83",
-      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 25 años de Letras Libres España",
-      "summary": "La revista Letras Libres España conmemora sus 25 años con una conversación que repasa su historia, sus 4 000 colaboradores y sus proyectos editoriales, resaltando su carácter de espacio público de intercambio cultural.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/cultura/una-revista-es-una-conversacion-que-te-gusta-tanto-que-la-abres-al-publico-un-dialogo-sobre-los-25-anos-de-letras-libres-espana/19/08/2026/",
-      "published_at": "2026-08-19T09:23:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y celebratorio sin emplear vocabulario cargado ni citar fuentes con inclinación política; se centra en la historia y la cultura de la revista.",
-      "focus_analysis": "El medio optó por un ángulo cultural e institucional, resaltando la trayectoria y la comunidad de colaboradores de la revista, sin abordar aspectos políticos o económicos.",
-      "focus_tags": [
-        "cultura",
-        "revista literaria",
-        "aniversario"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Letras Libres se fundó en México en 1999 como una publicación de pensamiento crítico y literario, y en 2001 se lanzó la edición española, que ha mantenido una línea editorial independiente."
-        },
-        {
-          "label": "Comparación",
-          "text": "Otros periódicos literarios como 'Babel' o 'Quimera' también celebraron recientemente hitos importantes, subrayando la relevancia de los espacios de difusión cultural en el ámbito hispano."
-        },
-        {
-          "label": "Postura de actores externos",
-          "text": "Organizadores de la Feria del Libro de Madrid destacaron la presencia de la revista como un punto de encuentro entre escritores, críticos y lectores, reforzando su papel como foro de debate público."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "c0f092c11ce4",
-      "title": "Adiós a la burocracia, Centro Federal Laboral recorta tiempos y requisitos en trámites clave",
-      "summary": "El Centro Federal de Conciliación y Registro Laboral (CFCRL) anunció una reestructuración que reduce los plazos de respuesta y elimina varios requisitos documentales en trámites como el registro de contratos colectivos y reglamentos interiores, con el objetivo de agilizar la gestión administrativa laboral.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/adios-burocracia-centro-federal-laboral-recorta-tiempos-requisitos-tramites-clave-20260819-829063.html",
-      "published_at": "2026-08-19T16:39:22+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono informativo y neutro, sin palabras cargadas ni énfasis político; se centra en la eficiencia administrativa, lo que indica una ligera inclinación pro‑mercado pero sin sesgo evidente.",
-      "focus_analysis": "El medio destaca el ángulo institucional y de eficiencia burocrática, resaltando la simplificación de procesos y la digitalización, mientras que queda en segundo plano el impacto directo sobre los trabajadores y los sindicatos.",
-      "focus_tags": [
-        "burocracia",
-        "reforma laboral",
-        "digitalización"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "El CFCRL, creado para regular la conciliación y el registro laboral en México, había sido criticado por la extensividad de sus requisitos y los largos tiempos de respuesta en la tramitación de contratos colectivos y reglamentos."
-        },
-        {
-          "label": "comparables",
-          "text": "En los últimos años, otras dependencias federales como el Servicio de Administración Tributaria (SAT) y la Secretaría del Trabajo y Previsión Social (STPS) han implementado plataformas digitales para reducir la carga documental, siguiendo una tendencia nacional de modernización administrativa."
-        },
-        {
-          "label": "postura de actores",
-          "text": "Organizaciones empresariales han manifestado su apoyo a la simplificación, argumentando que facilitará la contratación, mientras que algunos sindicatos han solicitado garantías de que la reducción de requisitos no debilite la protección de los derechos laborales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "151463ea0adc",
-      "title": "Las Leonas vencieron 2-0 a Escocia y clasificaron a la próxima ronda del Mundial de hockey",
-      "summary": "La selección femenina de hockey sobre césped de Argentina, conocida como Las Leonas, venció 2‑0 a Escocia y aseguró su paso a la segunda ronda del Mundial disputado en Bélgica y Países Bajos.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/las-leonas-vencieron-2-0-a-escocia-y-clasificaron-a-la-proxima-ronda-del-mundial-de-hockey/",
-      "published_at": "2026-08-19T16:40:45+00:00",
-      "bias_score": 12,
-      "bias_reason": "El texto destaca con entusiasmo la superioridad de Las Leonas y utiliza un tono patriótico, sin presentar críticas ni perspectivas externas, lo que indica un leve sesgo favorable al equipo argentino.",
-      "focus_analysis": "El medio se centró en el logro deportivo y la clasificación del equipo nacional, dejando de lado aspectos como la financiación del deporte femenino o la comparación con otras selecciones.",
-      "focus_tags": [
-        "deporte",
-        "éxito nacional",
-        "hockey femenino"
-      ],
-      "context": [
-        {
-          "label": "Historia de Las Leonas",
-          "text": "Las Leonas han sido una de las selecciones más exitosas del hockey femenino, con múltiples medallas olímpicas y mundiales, lo que genera gran expectación en cada torneo."
-        },
-        {
-          "label": "Formato del Mundial 2026",
-          "text": "El Mundial de hockey sobre césped 2026 se juega en Bélgica y Países Bajos con un sistema de grupos iniciales y una segunda fase que define los clasificados a semifinales."
-        },
-        {
-          "label": "Rendimiento de otras potencias",
-          "text": "En la misma jornada, Alemania superó a Estados Unidos 3‑1, lo que muestra la competitividad del torneo y la relevancia de la victoria de Argentina para mantenerse entre los ocho mejores equipos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "5f1088938182",
-      "title": "Noé Hernández pide no glorificar al narco en \"La Captura\": \"Es una historia con un enfoque distinto\"",
-      "summary": "El actor mexicano Noé Hernández declaró que la película \"La Captura\" busca mostrar la labor de los policías involucrados en la captura de Joaquín \"El Chapo\" Guzmán, evitando glorificar al narcotraficante.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/noe-hernandez-pide-no-glorificar-al-narco-en-la-captura-es-una-historia-con-un-enfoque-distinto/",
-      "published_at": "2026-08-19T16:50:13+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin carga ideológica ni selección de fuentes partidistas, limitándose a reproducir la opinión del actor.",
-      "focus_analysis": "El medio se centra en la perspectiva cultural y artística del proyecto cinematográfico, resaltando la intención del actor de presentar una visión distinta del narcotráfico; omite el contexto político‑seguridad del fenómeno y la polémica social sobre la representación del narco.",
-      "focus_tags": [
-        "cultura cinematográfica",
-        "representación policial",
-        "narco"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En los últimos años, varias series y películas mexicanas han retratado al narcotráfico enfatizando al criminal, lo que ha generado críticas sobre la glorificación del narco en los medios."
-        },
-        {
-          "label": "datos comparables",
-          "text": "Organizaciones de la sociedad civil, como la Fundación para la Libertad de Prensa, han llamado la atención sobre la necesidad de evitar la romantización de los capos de la droga en la cultura popular."
-        },
-        {
-          "label": "posturas de otros actores",
-          "text": "Alfonso Herrera, quien también actúa en \"La Captura\", ha señalado que la película pretende destacar la valentía y el deber de los agentes de la ley en la captura de \"El Chapo\"."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "e5b2c5d802b2",
-      "title": "El Gobierno trabaja en el traslado urgente de 500 niñas migrantes de Ceuta a la Península",
-      "summary": "El Gobierno de España está organizando el traslado inmediato de 500 niñas migrantes que se encuentran en la ciudad autónoma de Ceuta hacia la península, mientras la autoridad local acepta la medida como extraordinaria pero exige el regreso de los extranjeros que ingresaron irregularmente.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-19/el-gobierno-trabaja-en-el-traslado-urgente-de-500-ninas-migrantes-de-ceuta-a-la-peninsula.html",
-      "published_at": "2026-08-19T16:53:31+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje neutro, sin adjetivos cargados ni fuentes partidistas, limitándose a describir la acción del Ejecutivo y la reacción de Ceuta.",
-      "focus_analysis": "El artículo se centra en el ángulo institucional y de seguridad del traslado, dejando de lado la dimensión humanitaria y personal de las menores migrantes.",
-      "focus_tags": [
-        "migración",
-        "política de seguridad",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "situación migratoria en Ceuta",
-          "text": "Ceuta, enclave español en el norte de África, ha visto un flujo constante de migrantes que intentan entrar a la UE, generando tensiones políticas y desafíos humanitarios."
-        },
-        {
-          "label": "reacción del Gobierno español",
-          "text": "El Gobierno de España ha anunciado el traslado urgente de 500 menores migrantes desde Ceuta a la península, describiéndolo como una medida extraordinaria para gestionar la presión migratoria."
-        },
-        {
-          "label": "perspectiva de otros medios",
-          "text": "Algunos medios, como Euronews Español, critican la decisión del Gobierno al calificarla de desobediencia a la Unión Europea y señalan la falta de coordinación con la UE."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
