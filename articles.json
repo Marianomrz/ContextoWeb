@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T21:35:11.659273+00:00",
+  "generated_at": "2026-08-19T21:42:51.081967+00:00",
   "articles": [
+    {
+      "id": "74d2ba3c4e91",
+      "title": "Meta AI lanza su app para Mac con una función que preocupa a ChatGPT y Claude",
+      "summary": "Meta AI, la unidad de inteligencia artificial de Meta Platforms, Inc., lanzó una aplicación nativa para Mac con Apple Silicon que permite interactuar con el chatbot mediante atajos de teclado, dictado por voz y acceso a datos de cuentas de Facebook, Instagram y Google Workspace, mientras genera críticas sobre la necesidad de conceder permisos de captura de pantalla y accesibilidad.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/meta-ai-app-mac-nueva-funcion/",
+      "published_at": "2026-08-19T19:19:00+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea un tono crítico al subrayar los riesgos de privacidad y al presentar la iniciativa como una maniobra de Mark Zuckerberg contra competidores como ChatGPT y Claude, lo que indica una ligera inclinación escéptica hacia la empresa.",
+      "focus_analysis": "El artículo se centra en el aspecto tecnológico del lanzamiento y en los posibles problemas de privacidad, dejando de lado la evaluación del impacto comercial o la adopción por parte de los usuarios.",
+      "focus_tags": [
+        "tecnología",
+        "privacidad",
+        "competencia IA"
+      ],
+      "context": [
+        {
+          "label": "competencia IA",
+          "text": "En los últimos años, asistentes de IA como ChatGPT de OpenAI y Claude de Anthropic han dominado el mercado, impulsando a otras compañías a desarrollar sus propias soluciones para mantenerse relevantes."
+        },
+        {
+          "label": "privacidad datos",
+          "text": "Los asistentes de IA que pueden leer el contenido de la pantalla requieren permisos de grabación y accesibilidad, lo que ha generado preocupación entre usuarios y expertos en seguridad sobre el posible uso indebido de información personal."
+        },
+        {
+          "label": "estrategia Meta",
+          "text": "Meta ha ampliado su oferta de IA con productos como Gemini y ahora busca integrar sus herramientas de publicidad y gestión de cuentas de redes sociales en la nueva app para Mac, reforzando su estrategia de monetización y retención de usuarios empresariales."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.0
+      }
+    },
+    {
+      "id": "d217eaa19a7b",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El PP acude al Supremo por la negativa de los ministros a comparecer en el Senado",
+      "summary": "El Partido Popular (PP) presentó ante el Tribunal Supremo un recurso contra la decisión del Gobierno de Pedro Sánchez de no atender citaciones del Senado a varios ministros, mientras la crisis migratoria en Ceuta se agudiza tras la entrada masiva de migrantes el 30 de julio y el Gobierno contempla el traslado de 500 niñas migrantes a la península.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-19/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-19T21:06:14+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto prioriza la acción del PP y sus demandas, usando términos como “invasión ilegal” y citando a Vox y al Gobierno que critican al PP, lo que refleja una ligera inclinación hacia la visión de la izquierda crítica con el partido conservador.",
+      "focus_analysis": "El medio se centra en el conflicto institucional y legal entre el PP y el Gobierno sobre la gestión de la crisis migratoria, dejando de lado la perspectiva humanitaria de los migrantes y los derechos de los menores.",
+      "focus_tags": [
+        "política española",
+        "crisis migratoria",
+        "acción judicial"
+      ],
+      "context": [
+        {
+          "label": "Antecedente de la crisis",
+          "text": "El 30 de julio de 2026 una gran ola de migrantes ingresó a la ciudad autónoma de Ceuta, desencadenando una situación que los autores describen como insostenible a nivel social y de seguridad."
+        },
+        {
+          "label": "Posición del Gobierno",
+          "text": "El Gobierno de Pedro Sánchez, a través de la ministra de Infancia Sira Rego, ha señalado que la devolución automática de menores sin los trámites legales es ilegal y que se están estudiando medidas de protección para las 500 niñas migrantes."
+        },
+        {
+          "label": "Reacción de la oposición",
+          "text": "Vox ha denunciado una supuesta dimensión organizada de agresiones sexuales contra mujeres extranjeras en Ceuta y ha pedido una investigación forense, mientras el PP, liderado por Alberto Núñez Feijóo, exige el regreso de todos los migrantes y la creación de un marco normativo que impida presiones migratorias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "950f1144d223",
+      "title": "Estabilizado el nuevo incendio de Aldea del Fresno tras afectar a 330 hectáreas",
+      "summary": "El nuevo incendio que afecta a 330 hectáreas en Aldea del Fresno ha sido estabilizado; se levantó el confinamiento en Villamantilla y los vecinos desalojados de las urbanizaciones pueden regresar a sus hogares.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/madrid/2026-08-19/nuevo-incendio-forestal-en-madrid-los-vecinos-de-aldea-del-fresno-y-villamantilla-confinados.html",
+      "published_at": "2026-08-19T21:18:21+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un lenguaje neutro y se limita a informar hechos sin adjetivos cargados ni fuentes parciales, lo que indica una cobertura centrada.",
+      "focus_analysis": "El medio se centra en la gestión institucional del incendio y la vuelta de los desplazados, dejando de lado el impacto económico del sin y la posible culpa de la gestión forestal.",
+      "focus_tags": [
+        "incendio",
+        "desplazamiento",
+        "autoridades"
+      ],
+      "context": [
+        {
+          "label": "ubicación y vulnerabilidad",
+          "text": "Aldea del Fresno es una localidad de la Comunidad de Madrid situada cerca de áreas forestales propensas a incendios, una característica que ha aumentado la frecuencia de emergencias de fuego en los últimos años."
+        },
+        {
+          "label": "incendios previos en la región",
+          "text": "En 2023, la Sierra de Guadarrama sufrió un gran incendio que quemó más de 500 hectáreas, lo que llevó a reforzar los planes de prevención y respuesta en la zona."
+        },
+        {
+          "label": "política nacional de prevención de incendios",
+          "text": "El Gobierno español implementó el Plan Nacional de Prevención y Gestión de Incendios Forestales 2022‑2025, que incluye mayor vigilancia y recursos para la intervención rápida."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "885d9dccfaa2",
+      "title": "Misterio por la muerte de un hombre de 33 años en el estadio de un club europeo: “Sigue bajo investigación”",
+      "summary": "Una investigación policial se abrió en Londres tras el hallazgo del cuerpo sin vida de un hombre de 33 años en el estadio The Valley, sede del Charlton Athletic, y el club está colaborando con la autoridad mientras solicita información a testigos.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/misterio-por-la-muerte-de-un-hombre-de-33-anos-en-el-estadio-de-un-club-europeo-sigue-bajo-investigacion/",
+      "published_at": "2026-08-19T21:26:37+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono informativo, cite fuentes oficiales como la Policía Metropolitana, la BBC y Reuters, y evita lenguaje cargado o juicios de valor, manteniendo una cobertura neutra.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad, describiendo la investigación policial y la respuesta del club, mientras deja fuera detalles sobre la identidad de la víctima o posibles causas del fallecimiento.",
+      "focus_tags": [
+        "investigación policial",
+        "deceso en estadio",
+        "Charlton Athletic"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del club",
+          "text": "Charlton Athletic es un club histórico del fútbol inglés que ascendió al Championship en 2025 y juega sus partidos en el estadio The Valley, con una afición local y una estructura organizativa que colabora estrechamente con las autoridades en caso de incidentes."
+        },
+        {
+          "label": "Procedimientos de seguridad en estadios ingleses",
+          "text": "Los estadios de la Football League y la Premier League están sujetos a estrictas normas de seguridad y protocolos de emergencia; cuando se detecta una persona inconsciente o fallecida, los servicios de emergencia y la policía son alertados de inmediato para iniciar una investigación."
+        },
+        {
+          "label": "Prácticas policiales británicas ante muertes inesperadas",
+          "text": "En el Reino Unido, la Policía Metropolitana abre una causa de muerte cuando se encuentra un cadáver sin identificación clara, recopilando pruebas y solicitando la colaboración de testigos para determinar la causa y las circunstancias del fallecimiento."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "bb669de82915",
+      "title": "Bolsa mexicana avanza tras cuatro jornadas con pérdidas; destacan acciones de Inbursa",
+      "summary": "La Bolsa Mexicana de Valores cerró con ganancias moderadas el miércoles, recuperándose tras cuatro jornadas con pérdidas y registrando niveles más bajos desde marzo; dentro del índice S&P/BMV IPC destacaron al Grupo Financiero Inbursa, Coca‑Cola Femsa y Peñoles.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/mercados/bolsa-mexicana-avanza-cuatro-jornadas-perdidas-destacan-acciones-inbursa-20260819-829116.html",
+      "published_at": "2026-08-19T21:34:25+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto usa un tono neutro y se centra en datos de mercado sin lenguaje cargado ni fuentes políticas, lo que indica una cobertura mayormente centrista con ligera inclinación pro‑negocios.",
+      "focus_analysis": "El medio eligió un ángulo económico, describiendo la evolución de los índices bursátiles y resaltando acciones destacadas; quedó fuera la perspectiva humana de los inversionistas y cualquier contexto político o regulatorio.",
+      "focus_tags": [
+        "bolsa mexicana",
+        "índices bursátiles",
+        "acciones destacadas"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del mercado",
+          "text": "Durante los últimos cuatro días la Bolsa Mexicana de Valores había registrado caídas consecutivas, situando al S&P/BMV IPC y al FTSE BIVA en sus niveles más bajos desde marzo de 2026."
+        },
+        {
+          "label": "Comparación sectorial",
+          "text": "En recuperaciones bursátiles anteriores, los sectores financiero y de consumo suelen liderar los repuntes, similar a la actualidad donde Inbursa, Coca‑Cola Femsa y Peñoles fueron los valores con mayor alza."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Mientras El Economista se centró en la evolución de los índices y acciones mexicanas, El País América destacó una supuesta vacuna personalizada contra el melanoma, enfocándose en el sector biotecnológico y sus implicaciones bursátiles."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "fdd77866358a",
+      "title": "Jugadoras de Cruz Azul Femenil, Katia Itzel García y otras víctimas de violencia digital en la Liga Femenil BBVA",
+      "summary": "Las jugadoras de Cruz Azul Femenil y la árbitra Katia Itzel García han sido víctimas de acoso y violencia digital en la Liga Femenil BBVA, lo que ha llevado a la Secretaría de Mujeres y a ONU Mujeres a exigir mejores mecanismos de protección y denuncia.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/jugadoras-de-cruz-azul-femenil-katia-itzel-garcia-y-otras-victimas-de-violencia-digital-en-la-liga-femenil-bbva/",
+      "published_at": "2026-08-19T21:40:00+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto utiliza un lenguaje cargado contra el machismo y destaca la intervención de organismos de derechos de la mujer, enfocándose en la victimización y la falta de acción institucional sin presentar opiniones contrapuestas.",
+      "focus_analysis": "El medio se centra en la violencia de género y la respuesta institucional, dejando de lado aspectos deportivos o económicos del fútbol femenino.",
+      "focus_tags": [
+        "violencia digital",
+        "fútbol femenino",
+        "derechos de la mujer"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la liga",
+          "text": "La Liga Femenil BBVA se fundó en 2017 como la máxima categoría del fútbol femenino en México, buscando profesionalizar y dar mayor visibilidad a las jugadoras."
+        },
+        {
+          "label": "Datos de acoso",
+          "text": "Según un estudio citado por El País, alrededor del 80 % de las mujeres que participan en el fútbol mexicano ha recibido algún tipo de ataque digital o comentarios sexistas."
+        },
+        {
+          "label": "Postura de organismos internacionales",
+          "text": "ONU Mujeres y la Secretaría de Mujeres de México han emitido comunicados exigiendo la creación de protocolos claros y mecanismos de denuncia para proteger a las futbolistas y árbitras de la violencia en línea."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "94e1a8fbf570",
       "title": "Las páginas vivas de Era",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.8
-      }
-    },
-    {
-      "id": "753f7786173a",
-      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 19 de agosto",
-      "summary": "La Secretaría de Seguridad Ciudadana de la Ciudad de México informó que este 19 de agosto varias avenidas del Valle de México fueron bloqueadas por manifestantes y se reportaron accidentes, recomendando rutas alternativas a los conductores.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-19-de-agosto/",
-      "published_at": "2026-08-19T20:51:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos de tráfico y manifestaciones con un tono neutral y sin lenguaje cargado ni fuentes partidistas.",
-      "focus_analysis": "El medio se centra en la información de tráfico y seguridad vial, dejando de lado el contexto político o social de las protestas.",
-      "focus_tags": [
-        "tráfico",
-        "manifestaciones",
-        "seguridad pública"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de protestas en la CDMX",
-          "text": "En los últimos meses, la Ciudad de México ha registrado varias manifestaciones callejeras organizadas por sindicatos y grupos sociales que han bloqueado avenidas principales, como Insurgentes, como parte de demandas laborales y sociales."
-        },
-        {
-          "label": "Impacto del programa No Circula",
-          "text": "El programa 'No Circula' vigente en la zona del Valle de México restringe la circulación de vehículos según su holograma, lo que ya genera congestiones y obliga a los conductores a buscar rutas alternas."
-        },
-        {
-          "label": "Respuesta de la Secretaría de Seguridad Ciudadana",
-          "text": "La SSC‑CDMX, a través de su unidad de información vial OVIAL, publica actualizaciones en tiempo real sobre bloqueos y accidentes, recomendando rutas alternativas para mitigar los efectos del tráfico."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "934bfc781490",
-      "title": "China acelera industria de robots humanoides",
-      "summary": "La empresa china pionera en robots humanoides Unitree vio subir más del 600 % sus acciones en su debut bursátil, reflejando el rápido impulso que el gobierno y el sector otorgan a la industria robótica en China.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/videos/china-acelera-industria-robots-humanoides-20260819-829104.html",
-      "published_at": "2026-08-19T20:19:20+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos económicos y de mercado sin emplear vocabulario cargado ni presentar opiniones, manteniendo un tono neutral.",
-      "focus_analysis": "El medio se centra en el aspecto económico y bursátil del crecimiento de la industria robótica china, dejando de lado la dimensión política o de seguridad nacional que también puede estar involucrada.",
-      "focus_tags": [
-        "industria robótica",
-        "mercado bursátil",
-        "China"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "China ha lanzado planes nacionales, como el \"Made in China 2025\", para impulsar la automatización y la robótica, destinando recursos a investigación y desarrollo en este sector."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "En los últimos años, varias startups chinas de robótica han experimentado valoraciones rápidas en los mercados financieros, siguiendo la tendencia de empresas tecnológicas que cotizan en la Bolsa de Shanghai y Shenzhen."
-        },
-        {
-          "label": "Postura de terceros",
-          "text": "Analistas internacionales señalan que el auge de los robots humanoides forma parte de una carrera global por la supremacía en IA y automatización, lo que genera tanto oportunidades económicas como debates sobre su impacto laboral y de seguridad."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "58ddbf83f5e1",
-      "title": "El “operativo seducción” de la selección argentina para citar a un europibe que brilla en el Real Madrid: “Estaría encantado”",
-      "summary": "La Asociación del Fútbol Argentino (AFA) está lanzando un “operativo seducción” para convencer al joven capitán del Sub‑19 del Real Madrid, Carlos Díez, de representar a la selección argentina, pese a que nació en España y ha sido citado previamente por la Federación española.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/el-operativo-seduccion-de-la-seleccion-argentina-para-citar-a-un-europibe-que-brilla-en-el-real-madrid-estaria-encantado/",
-      "published_at": "2026-08-19T20:21:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es mayormente descriptivo y neutro, sin vocabulario cargado ni fuentes partidistas; se limita a informar sobre la estrategia de la AFA y los antecedentes del jugador.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y de gestión del talento de la AFA, dejando de lado una mirada más profunda al impacto personal del jugador o a la opinión de los clubes europeos.",
-      "focus_tags": [
-        "scouting A",
-        "talentos juveniles",
-        "selección argentina"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "La AFA mantiene desde hace años un departamento de scouting en España que registra a jóvenes con raíces argentinas, como explicó el director Juan Martín Tassi, para evitar perder talentos a temprana edad."
-        },
-        {
-          "label": "comparables",
-          "text": "Otros países, como Italia y España, también han reclutado a jugadores nacidos en el extranjero pero con ascendencia local, ejemplo de Mauro Icardi o de futbolistas de origen marroquí que optan por la selección española."
-        },
-        {
-          "label": "postura de otros actores",
-          "text": "El Real Madrid mostró reticencia a ceder a Carlos Díez para la selección argentina en el pasado, argumentando conflictos con el calendario de fechas FIFA y la prioridad del club."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
-    },
-    {
-      "id": "94e1a8fbf570",
-      "title": "Las páginas vivas de Era",
-      "summary": "Ediciones Era, la editorial mexicana creada en 1960 por exiliados españoles, fusionó literatura y política de izquierda, publicando obras que influyeron profundamente en la cultura y la crítica mexicana durante varias décadas.",
-      "category": "literatura",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/literatura/las-paginas-vivas-de-era/19/08/2026/",
-      "published_at": "2026-08-19T20:21:58+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto utiliza un tono elogioso hacia la agenda izquierdista de la editorial, resaltando sus colecciones marxistas y su papel revolucionario, sin presentar voces críticas ni equilibrar con perspectivas conservadoras.",
-      "focus_analysis": "El artículo se centra en la historia cultural y política de la editorial, destacando su contribución literaria y su ideología de izquierda, mientras omite aspectos comerciales y críticas externas.",
-      "focus_tags": [
-        "literatura mexicana",
-        "izquierda cultural",
-        "historia editorial"
-      ],
-      "context": [
-        {
-          "label": "Fundación y origen",
-          "text": "Ediciones Era se fundó en 1960 por Neus Espresate, Vicente Rojo y José Hernández Azorín, exiliados españoles que buscaban un espacio para publicar literatura y política de corte latinoamericano."
-        },
-        {
-          "label": "Entorno editorial latinoamericano",
-          "text": "Durante la misma época surgieron otras casas como Siglo XXI en México y Casa de las Américas en Cuba, que también combinaban literatura con ideas marxistas y latinoamericanas."
-        },
-        {
-          "label": "Contexto político de los años 60‑70",
-          "text": "La publicación de títulos como 'La batalla de Cuba' coincidió con la expansión de los movimientos revolucionarios y la influencia del pensamiento marxista en América Latina."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
-    },
-    {
-      "id": "0b72c41e63e1",
-      "title": "Los violentos \"narcobloqueos\" de carreteras que paralizaron partes del estado mexicano de Michoacán, bastión del Cartel Jalisco Nueva Generación",
-      "summary": "Los bloqueos de carreteras en el norte de Michoacán, organizados por grupos vinculados al Cártel Jalisco Nueva Generación liderado por Heraclio Guerrero Martínez \"Tío Lako\", paralizaron vías principales como respuesta a una operación federal, y fueron disueltos después de la intervención de la Guardia Nacional, el Ejército y la policía estatal.",
-      "category": "sociedad",
-      "source_name": "BBC News Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/c7vgpm1d7e4o?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-19T20:28:52+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo expone los hechos de forma objetiva, citando a autoridades y evitando lenguaje sensacionalista, lo que refleja una cobertura neutral.",
-      "focus_analysis": "El medio enfatiza la dimensión de seguridad y la acción de las fuerzas estatales, sin profundizar en las causas sociales o económicas del narcotráfico en la zona.",
-      "focus_tags": [
-        "seguridad pública",
-        "narcotráfico",
-        "Michoacán"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "El Cártel Jalisco Nueva Generación ha consolidado su presencia en Michoacán desde 2019, con episodios previos de bloqueos de carreteras y enfrentamientos armados que han afectado la movilidad y la seguridad de la población."
-        },
-        {
-          "label": "Respuesta gubernamental",
-          "text": "El presidente de México, Claudia Sheinbaum, y el gobernador de Michoacán, Alfredo Ramírez Bedolla, anunciaron operativos de detención y desplegaron a la Guardia Nacional y al Ejército para restablecer el tránsito, resaltando la estrategia de seguridad del gobierno federal."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Medios como Infobae y El Universal pusieron mayor énfasis en la captura de familiares del líder del CJNG, señalando que los bloqueos fueron una reacción a la detención de integrantes del cártel, lo que muestra una perspectiva centrada en la dinámica interna del grupo criminal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "4d5d4dec2b3e",
-      "title": "Refuerzan seguridad en Mazatlán; llegan más militares, marinos y policías estatales",
-      "summary": "La gobernadora interina de Sinaloa, Yeraldine Bonilla Valverde, anunció el despliegue de tropas del Ejército, la Marina y la Policía Estatal en Mazatlán para reforzar la seguridad y diseñar una estrategia conjunta con el nuevo subsecretario de Seguridad Pública, coronel Efrén Martínez Casimiro.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/refuerzan-seguridad-en-mazatlan-llegan-mas-militares-marinos-y-policias-estatales/",
-      "published_at": "2026-08-19T20:29:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto reproduce exclusivamente declaraciones oficiales y describe la medida de seguridad sin incluir voces críticas ni análisis alternativos, manteniendo un tono neutro y descriptivo.",
-      "focus_analysis": "El artículo se centra en la perspectiva institucional y de seguridad, resaltando la acción del gobierno y la coordinación entre fuerzas, mientras omite el contexto de violencia subyacente y la opinión de la población o de organizaciones de derechos humanos.",
-      "focus_tags": [
-        "seguridad pública",
-        "intervención militar",
-        "mazatlán"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Mazatlán ha sido señalada en los últimos años por altos índices de violencia vinculada al narcotráfico, incluyendo homicidios y feminicidios, lo que ha motivado la presencia de fuerzas federales en la zona."
-        },
-        {
-          "label": "Comparación",
-          "text": "Otros municipios de Sinaloa, como Culiacán y Escuinapa, también han recibido refuerzos de militares y policías estatales como parte de la estrategia estatal de seguridad."
-        },
-        {
-          "label": "Postura de actores",
-          "text": "Organizaciones de derechos humanos y algunos sectores de la sociedad civil han expresado preocupación por la creciente militarización de la seguridad pública y sus posibles impactos en los derechos de los ciudadanos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
