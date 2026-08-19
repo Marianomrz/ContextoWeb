@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-19T09:22:02.109004+00:00",
+  "generated_at": "2026-08-19T09:42:41.635120+00:00",
   "articles": [
+    {
+      "id": "5c5c05b837f2",
+      "title": "Solución Final",
+      "summary": "El Economista publica una página titulada \"Solución Final\" que muestra una lista de últimos artículos o \"cartones\" de varios autores, sin contenido noticioso específico.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/cartones/solucion-final-20260819-829013.html",
+      "published_at": "2026-08-19T08:40:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a enumerar títulos y autores sin emitir juicios ni usar lenguaje cargado; no hay selección de fuentes ni encuadre que indique sesgo.",
+      "focus_analysis": "El medio se centra en presentar su propio catálogo de contenidos recientes, resaltando la actividad editorial; no aborda temas económicos, políticos o sociales en profundidad.",
+      "focus_tags": [
+        "lista de artículos",
+        "cartones",
+        "El Economista"
+      ],
+      "context": [
+        {
+          "label": "Perfil del medio",
+          "text": "El Economista es un periódico financiero mexicano que cubre economía, negocios y finanzas, con una línea editorial generalmente centrista."
+        },
+        {
+          "label": "Formato de \"cartón\"",
+          "text": "Los \"cartones\" son columnas de opinión y análisis que aparecen regularmente en la página, escritos por colaboradores como Chavo del Toro y Perujo."
+        },
+        {
+          "label": "Práctica comparable",
+          "text": "Otros medios financieros, como Expansión, también utilizan secciones de listado de artículos recientes para mantener a los lectores informados sobre sus publicaciones."
+        }
+      ],
+      "confidence": "baja",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "342571a35eed",
+      "title": "“A Nadal le confiaría un partido si mi vida dependiera de ello”, el exentrenador de Djokovic reabre el debate sobre el mejor de la historia",
+      "summary": "El extenista y exentrenador croata Goran Ivanisevic volvió a abrir la discusión sobre quién es el mejor tenista de la historia, calificando a Novak Djokovic como posible número uno pero asegurando que, en una situación extrema, confiaría en Rafael Nadal. Además, destacó la elegancia de Roger Federer y la fortaleza mental como factor diferenciador de los grandes del deporte.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/a-nadal-le-confiaria-un-partido-si-mi-vida-dependiera-de-ello-el-exentrenador-de-djokovic-reabre-el-debate-sobre-el-mejor-de-la-historia/",
+      "published_at": "2026-08-19T09:00:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la valoración deportiva y utiliza adjetivos positivos sin inclinarse hacia una postura política o ideológica, manteniendo un tono neutral propio del periodismo deportivo.",
+      "focus_analysis": "El medio eligió un ángulo centrado en la comparación de legados y la fortaleza mental de los jugadores, dejando de lado aspectos económicos o de gestión del tenis.",
+      "focus_tags": [
+        "tenis",
+        "debate histórico",
+        "mentalidad deportiva"
+      ],
+      "context": [
+        {
+          "label": "datos_jokovic",
+          "text": "Novak Djokovic acumula 24 títulos de Grand Slam, superando a Rafael Nadal (22) y Roger Federer (20), y sigue activo en la élite mundial."
+        },
+        {
+          "label": "perfil_ivanisevic",
+          "text": "Goran Ivanisevic, campeón de Wimbledon en 2001, entrenó a Djokovic entre 2019 y 2024, periodo en el que el serbio ganó nueve Grand Slams."
+        },
+        {
+          "label": "contexto_debate",
+          "text": "El debate sobre el mejor tenista de la historia suele centrarse en los logros de los \"Big Three\" y en criterios como la consistencia, la elegancia y la capacidad de rendir bajo presión."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
+    {
+      "id": "d2cb04acd73d",
+      "title": "Piden distribuidor vial para acceder a Huehuetoca",
+      "summary": "Los habitantes del municipio de Huehuetoca, Estado de México, solicitaron la construcción de un distribuidor vial para aliviar el tráfico en la carretera Jorobas‑Tula y su acceso a la autopista México‑Querétaro.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/piden-distribuidor-vial-para-acceder-a-huehuetoca/",
+      "published_at": "2026-08-19T09:07:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono informativo y neutral, solo cita a un vecino y no emplea vocabulario cargado ni presenta opiniones políticas.",
+      "focus_analysis": "El artículo se centra en la problemática de congestión vehicular y la demanda de una solución de infraestructura local, sin abordar la posición de autoridades estatales ni los planes de inversión regional.",
+      "focus_tags": [
+        "infraestructura vial",
+        "congestión tráfico",
+        "Huehuetoca"
+      ],
+      "context": [
+        {
+          "label": "Ubicación y conexión",
+          "text": "Huehuetoca es un municipio del Estado de México que se encuentra a unos 50 km al noroeste de la Ciudad de México y está conectado a la autopista México‑Querétaro a través de la carretera Jorobas‑Tula."
+        },
+        {
+          "label": "Problema de tráfico",
+          "text": "Los conductores suelen experimentar retrasos de 20 a 30 minutos en la ruta Jorobas‑Tula, un tramo que, según los residentes, debería tomar menos de cinco minutos en condiciones normales."
+        },
+        {
+          "label": "Marco de infraestructura estatal",
+          "text": "En los últimos años, el Gobierno del Estado de México ha anunciado varios proyectos de ampliación y mejora de carreteras, pero la prioridad de la construcción de distribuidores viales en zonas como Huehuetoca no ha sido claramente definida."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "33dd164c5a83",
+      "title": "“Una revista es una conversación que te gusta tanto que la abres al público”: un diálogo sobre los 25 años de Letras Libres España",
+      "summary": "La revista Letras Libres España celebró sus 25 años en la Feria del Libro de Madrid, donde su redacción repasó su historia, colaboradores y proyectos, subrayando que la publicación es una conversación abierta al público.",
+      "category": "literatura",
+      "source_name": "Letras Libres",
+      "source_url": "https://letraslibres.com/cultura/una-revista-es-una-conversacion-que-te-gusta-tanto-que-la-abres-al-publico-un-dialogo-sobre-los-25-anos-de-letras-libres-espana/19/08/2026/",
+      "published_at": "2026-08-19T09:23:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en la trayectoria y la labor editorial sin usar lenguaje cargado ni citar fuentes polémicas; la cobertura es descriptiva y neutral.",
+      "focus_analysis": "El medio eligió enfatizar la dimensión cultural e institucional de la revista, resaltando su trayectoria y su papel como espacio de diálogo, dejando de lado cualquier análisis de mercado o de impacto mediático.",
+      "focus_tags": [
+        "cultura",
+        "revista",
+        "aniversario"
+      ],
+      "context": [
+        {
+          "label": "historial de la revista",
+          "text": "Letras Libres España, fundada en 2001, ha publicado más de 4.000 colaboraciones y ha convertido varias series en libros, consolidándose como un referente del ensayo y la crítica en el ámbito hispano."
+        },
+        {
+          "label": "evento de la Feria del Libro",
+          "text": "En la Feria del Libro de Madrid 2026, la edición española de la revista organizó una mesa redonda con Daniel Gascón, Bárbara Mingo, Aloma Rodríguez y Ricardo Dudda, donde se celebró el cuarto de décadas de la publicación."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "Otros medios, como Infobae México, abordaron la misma feria destacando episodios de polémica y figuras de la farándula, centrando su atención en la controversia personal más que en la labor editorial."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "feca4fa9f23b",
+      "title": "El Ministerio de Igualdad pide a la Fiscalía que valore estudiar el asesinato de un joven gay en Alicante como delito de odio",
+      "summary": "El Ministerio de Igualdad solicitó a la Fiscalía que analice el asesinato de un joven gay en Alicante como delito de odio, mientras que una asociación local apoya la clasificación como crimen homófobo y el Ayuntamiento condena la agresión pero considera arriesgado calificarla de esa forma.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/sociedad/2026-08-19/una-asociacion-pide-que-se-investigue-como-delito-de-odio-el-asesinato-de-un-joven-gay-en-alicante.html",
+      "published_at": "2026-08-19T09:27:08+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto enfatiza la perspectiva del Ministerio de Igualdad y de la asociación LGBT, usando un lenguaje que favorece la clasificación del hecho como delito de odio y omite voces conservadoras o de la defensa de la clasificación tradicional.",
+      "focus_analysis": "El medio centra su cobertura en el ángulo de derechos humanos y la lucha contra la homofobia, dejando de lado aspectos judiciales o de seguridad pública que podrían haber sido resaltados.",
+      "focus_tags": [
+        "derechos LGTB",
+        "delitos de odio",
+        "política de igualdad"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "En España, la Ley Orgánica 1/1982, de Protección Civil del Derecho a la Igualdad y la Ley de Enjuiciamiento Criminal contemplan la tipificación de los delitos motivados por la orientación sexual como agravantes de homicidio."
+        },
+        {
+          "label": "Tendencias de violencia",
+          "text": "Los últimos años han registrado un aumento de los crímenes homófobos en el país, según datos del Ministerio del Interior, que advierten la necesidad de respuestas judiciales específicas."
+        },
+        {
+          "label": "Rol del Ministerio de Igualdad",
+          "text": "El Ministerio de Igualdad, creado en 2020, tiene como objetivo promover la igualdad de género y la lucha contra la discriminación, y suele intervenir en casos que puedan constituir delitos de odio."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.2
+      }
+    },
+    {
+      "id": "addfaed01046",
+      "title": "Cynthia Klitbo estalla contra sus compañeros de La Casa de los Famosos México tras función de cine sobre sus ronquidos",
+      "summary": "La actriz Cynthia Klitbo, participante de La Casa de los Famosos México, confrontó a sus compañeros tras una proyección que burlaba sus ronquidos, los cuales atribuye a una nariz fracturada por violencia doméstica y anunció que se operará al concluir el reality.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/19/cynthia-klitbo-estalla-contra-sus-companeros-de-la-casa-de-los-famosos-mexico-tras-funcion-de-cine-sobre-sus-ronquidos/",
+      "published_at": "2026-08-19T09:38:19+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un lenguaje cargado y emotivo (\"jauría de hienas\", \"bullean\") y enfatiza la victimización por violencia doméstica, lo que genera una ligera inclinación hacia la empatía y la crítica social más que una postura política neutra.",
+      "focus_analysis": "El medio se centra en el drama personal y la experiencia de violencia doméstica de la actriz dentro del reality, dejando de lado aspectos económicos del programa o cualquier implicación política del formato televisivo.",
+      "focus_tags": [
+        "reality TV",
+        "violencia doméstica",
+        "escándalo mediático"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del programa",
+          "text": "La Casa de los Famosos México es una versión local del reality de convivencia en la que celebridades permanecen aisladas y son filmadas 24 horas, generando conflictos y polémicas que atraen gran audiencia."
+        },
+        {
+          "label": "Violencia doméstica en México",
+          "text": "Según datos oficiales, México registra altas tasas de violencia de género, con cientos de miles de casos reportados cada año y una creciente conciencia social sobre la necesidad de apoyo a las víctimas."
+        },
+        {
+          "label": "Reacción del público",
+          "text": "En redes sociales, los seguidores del reality han expresado tanto apoyo a Klitbo por su valentía al denunciar la violencia como críticas a los compañeros por el bullying, reflejando la polarización típica de los debates en programas de entretenimiento."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 7.4
+      }
+    },
     {
       "id": "07d6bb0c4961",
       "title": "Abre en Pompano Beach el primer museo de medusas de EE.UU.",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "240c970b1efa",
-      "title": "La Real Sociedad será el nuevo equipo de Edson Álvarez",
-      "summary": "El club español Real Sociedad está a punto de cerrar la incorporación del centrocampista mexicano Edson Álvarez, quien actualmente milita en el West Ham de la Premier League.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/opinion/barra-brava/la-real-sociedad-sera-el-nuevo-equipo-de-edson-alvarez/",
-      "published_at": "2026-08-19T08:46:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar datos del fichaje sin usar vocabulario cargado ni citar fuentes con sesgo político, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en el aspecto deportivo del traspaso, resaltando el interés del club y la perspectiva del jugador, sin abordar dimensiones económicas ni de impacto en la selección nacional.",
-      "focus_tags": [
-        "transfer",
-        "fútbol",
-        "España"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Edson Álvarez, internacional mexicano, ha jugado en la Premier League con West Ham desde 2023, consolidándose como pieza clave del mediocampo."
-        },
-        {
-          "label": "comparables",
-          "text": "Jugadores mexicanos como Hirving Lozano y Raúl Jiménez han firmado recientemente con clubes de LaLiga, evidenciando una corriente de talento mexicano en el fútbol español."
-        },
-        {
-          "label": "posturas",
-          "text": "Los medios deportivos en México suelen presentar los traspasos a ligas europeas como motivo de orgullo nacional y señal del desarrollo del fútbol mexicano."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "f8c2ac64860c",
-      "title": "Xiaomi lanza la campana extractora perfecta: ha solucionado dos problemas de toda la vida",
-      "summary": "Xiaomi, la empresa tecnológica china, ha presentado la Mijia Smart Smoke Cleaner Pro, una campana extractora de cocina que combina una potencia de succión récord, bajo nivel de ruido y control por gestos, posicionándose por encima de la competencia de gama alta.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/tecnologia/xiaomi-lanza-la-campana-extractora-perfecta-ha-solucionado-dos-problemas-de-toda-la-vida/",
-      "published_at": "2026-08-19T08:04:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono promocional y superlativo, pero no muestra sesgo político ni favorece a una ideología; la cobertura se centra en las características del producto sin abordar controversias sociales o políticas.",
-      "focus_analysis": "El artículo se centra en la innovación tecnológica y el diseño del nuevo electrodoméstico, resaltando sus ventajas comparativas y precio, mientras omite la perspectiva de los consumidores, el impacto en el mercado o consideraciones medioambientales.",
-      "focus_tags": [
-        "tecnología doméstica",
-        "innovación de cocina",
-        "electrodomésticos"
-      ],
-      "context": [
-        {
-          "label": "Historial de Xiaomi en electrodomésticos",
-          "text": "Xiaomi ha ampliado su portafolio más smartphones a dispositivos para el hogar inteligente, lanzando productos como purificadores de aire y aspiradoras robotizadas, lo que le ha permitido consolidarse como una marca de tecnología de consumo con precios competitivos."
-        },
-        {
-          "label": "Mercado de campanas extractoras",
-          "text": "El segmento de campanas extractoras de gama alta está dominado por marcas como Samsung y LG, que ofrecen potencias de succión similares pero con precios superiores y niveles de ruido más altos, lo que hace que la propuesta de Xiaomi resulte atractiva por su relación calidad‑precio."
-        },
-        {
-          "label": "Tendencia de hogares inteligentes",
-          "text": "Los consumidores demandan cada vez más electrodomésticos conectados que integren sensores y control por voz o gestos, una tendencia que Xiaomi aprovecha al incluir funciones automáticas de limpieza y ajuste de potencia según el flujo de aire exterior."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
-    },
-    {
-      "id": "2c53cdbe638a",
-      "title": "Arantza Ruiz llora al ver su conversación con Flor Vigna y asegura que el público la malinterpretó: “Claro que la quiero”",
-      "summary": "Arantza Ruiz, concursante de La Casa de los Famosos México 2026, lloró al ver el video de su conversación con Flor Vigna y afirmó que sus palabras fueron malinterpretadas, asegurando que la quería y que su intención no era herirla.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/arantza-ruiz-llora-al-ver-su-conversacion-con-flor-vigna-y-asegura-que-el-publico-la-malinterpreto-claro-que-la-quiero/",
-      "published_at": "2026-08-19T08:23:34+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono emotivo y sensacionalista pero no contiene lenguaje político ni fuentes partidistas; se basa en la entrevista de la actriz y en imágenes del programa, manteniéndose centrado en el drama personal.",
-      "focus_analysis": "El artículo se centra en el ángulo humano‑emocional del conflicto entre las concursantes, resaltando la reacción de Arantza Ruiz y su explicación; omite la perspectiva de los productores, la repercusión en la audiencia y el impacto en la dinámica del reality.",
-      "focus_tags": [
-        "reality TV",
-        "drama",
-        "entrevista"
-      ],
-      "context": [
-        {
-          "label": "antecedentes del programa",
-          "text": "La Casa de los Famosos México es un reality show transmitido por Televisa y ViX+, donde celebridades conviven y compiten por el voto del público, generando gran atención mediática y debates en redes sociales."
-        },
-        {
-          "label": "conflicto previo",
-          "text": "Antes de la ruptura entre Arantza Ruiz y Flor Vigna, hubo una disputa entre Flor Vigna y la concursante Cynthia Klitbo durante la prueba del presupuesto semanal, que intensificó la tensión dentro de la casa."
-        },
-        {
-          "label": "cobertura de El Universal",
-          "text": "El Universal presentó el hecho destacando que Arantza Ruiz no disponía de las herramientas necesarias para sostener a Flor Vigna, ofreciendo una interpretación más centrada en la falta de apoyo emocional que en la reacción del público."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "75329a4afe9e",
-      "title": "A buena luz",
-      "summary": "El Economista publicó la columna titulada 'A buena luz', que agrupa una serie de notas breves de distintos autores sin abordar un tema específico.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/cartones/buena-luz-20260819-829012.html",
-      "published_at": "2026-08-19T08:35:08+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a listar artículos y no contiene lenguaje cargado ni selección de fuentes que indique una inclinación política clara.",
-      "focus_analysis": "El medio, conocido por su cobertura económica, opta en este caso por presentar una colección de piezas de opinión y contenido ligero, dejando de lado el análisis financiero habitual.",
-      "focus_tags": [
-        "opinion",
-        "cultura",
-        "variedad"
-      ],
-      "context": [
-        {
-          "label": "Perfil del medio",
-          "text": "El Economista es un periódico de alcance nacional especializado en noticias financieras, económicas y de negocios, con una sección de opinión que publica columnas breves."
-        },
-        {
-          "label": "Naturaleza de la columna",
-          "text": "La sección 'A buena luz' funciona como un espacio para artículos cortos y variados, típicos de la zona de opinión de los medios de comunicación."
-        },
-        {
-          "label": "Comparación con otras publicaciones",
-          "text": "En otros diarios de habla hispana, columnas similares suelen mezclar comentarios culturales con referencias económicas, aunque en este caso el contenido parece más orientado al entretenimiento."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "0c593ae0d83d",
-      "title": "EE.UU. critica a Israel por la \"escalada innecesaria\" tras los ataques a una base siria",
-      "summary": "El gobierno de Estados Unidos calificó de \"escalada innecesaria\" los ataques aéreos israelíes contra la base aérea siria de Abu Duhur, mientras que Israel los justificó por la supuesta amenaza de tropas turcas en la zona, y varios países de la región condenaron la acción.",
-      "category": "internacional",
-      "source_name": "Euronews Español",
-      "source_url": "http://es.euronews.com/2026/08/19/eeuu-critica-a-israel-por-la-escalada-innecesaria-tras-los-ataques-a-una-base-siria",
-      "published_at": "2026-08-19T08:16:53+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto destaca la crítica estadounidense y las condenas regionales, usando términos como \"escalada innecesaria\" que reflejan una postura crítica hacia Israel; sin embargo, también presenta la versión oficial israelí, manteniendo un equilibrio general.",
-      "focus_analysis": "El artículo se centra en la dimensión de seguridad y diplomática del conflicto, resaltando la reacción de EE. UU. y la preocupación por la estabilidad regional, mientras omite el impacto humanitario y los antecedentes políticos internos de Siria.",
-      "focus_tags": [
-        "seguridad regional",
-        "tensiones Israel‑Turquía",
-        "intervención EE.UU."
-      ],
-      "context": [
-        {
-          "label": "Historial de ataques israelíes en Siria",
-          "text": "Desde 2014, Israel ha llevado a cabo decenas de ataques aéreos contra objetivos sirios, argumentando que buscan evitar la transferencia de armas al Irán y sus aliados."
-        },
-        {
-          "label": "Posición de la ONU",
-          "text": "El Consejo de Seguridad de la ONU ha llamado repetidamente a la calma en la zona de Damasco y ha instado a todas las partes a respetar la soberanía siria, aunque sin imponer sanciones concretas."
-        },
-        {
-          "label": "Cobertura de France24 Español",
-          "text": "France24 enfatiza la condena de EE. UU. y la falta de víctimas, subrayando la necesidad de que la ONU frene las violaciones a la soberanía siria, un ángulo menos presente en la nota de Euronews."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
-    },
-    {
-      "id": "10234788d3d1",
-      "title": "México cuestiona resolución de EE.UU. que señala ‘dumping’ en exportaciones de fresa",
-      "summary": "El gobierno de México expresó su grave preocupación por la resolución preliminar del Departamento de Comercio de EE. UU., que acusa a productores mexicanos de fresa de prácticas de dumping, y anunció que trabajará con los exportadores para impugnarla antes de la decisión final prevista para 2027.",
-      "category": "economia",
-      "source_name": "Aristegui Noticias",
-      "source_url": "https://aristeguinoticias.com/1908/dinero-y-economia/mexico-cuestiona-resolucion-de-ee-uu-que-senala-dumping-en-exportaciones-de-fresa/",
-      "published_at": "2026-08-19T08:25:51+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto utiliza principalmente declaraciones oficiales y datos técnicos, sin lenguaje cargado, pero enfatiza el impacto negativo sobre productores y trabajadores y califica la decisión estadounidense de arbitraria, lo que le otorga un leve sesgo crítico hacia EE. UU.",
-      "focus_analysis": "El medio se centra en el aspecto económico‑legal del conflicto comercial, resaltando los márgenes de dumping y sus repercusiones laborales, mientras deja de lado un análisis más amplio de la política exterior o de la estrategia comercial de EE. UU.",
-      "focus_tags": [
-        "dumping",
-        "exportaciones de fresa",
-        "relaciones comerciales"
-      ],
-      "context": [
-        {
-          "label": "Definición de dumping",
-          "text": "El dumping es la práctica de vender un producto en el exterior a un precio inferior al valor normal, lo que puede generar distorsiones en el mercado y suele ser sancionado mediante derechos antidumping bajo la normativa de la OMC."
-        },
-        {
-          "label": "Casos previos de antidumping México‑EE. UU.",
-          "text": "En años recientes, EE. UU. ha impuesto medidas antidumping contra productos agrícolas mexicanos como el aguacate y los tomates, lo que ha generado tensiones comerciales y ha llevado a México a presentar recursos ante la OMC y el T‑MEC."
-        },
-        {
-          "label": "Cobertura de El Sol de México",
-          "text": "Otro medio resaltó que la Secretaría de Economía cuestiona la forma en que EE. UU. definió el producto y el mercado investigado, subrayando una diferencia de enfoque respecto a la noticia de Aristegui, que enfatiza más el impacto laboral y el carácter arbitrario de la resolución."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
       }
     }
   ]
