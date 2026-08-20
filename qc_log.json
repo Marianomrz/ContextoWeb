@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:20:40.173508+00:00",
-      "title": "En I Sem. aseguradoras cubrieron 42% de las pérdidas económicas por catástrofes",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada de los hechos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:20:45.441797+00:00",
       "title": "Esposa del contralmirante Fernando Farías pide a Sheinbaum y a Harfuch que cuiden su integridad dura",
       "kind": "noticia",
@@ -3393,6 +3376,17 @@
       },
       "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad; solo se podría reforzar la verificación con fuentes directas, pero en conjunto es apto para publicación.",
       "error": null
+    },
+    {
+      "at": "2026-08-20T10:39:28.218054+00:00",
+      "title": "A Facebook cada vez se le está poniendo más cara de Marlboro en los años 70",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }

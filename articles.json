@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T10:21:08.455381+00:00",
+  "generated_at": "2026-08-20T10:39:58.905716+00:00",
   "articles": [
+    {
+      "id": "9eada928ae90",
+      "title": "A Facebook cada vez se le está poniendo más cara de Marlboro en los años 70",
+      "summary": "Meta, la empresa propietaria de Facebook e Instagram, está siendo demandada por 29 estados de EE. UU. que la acusan de diseñar sus plataformas para fomentar la adicción en niños y adolescentes, lo que podría resultar en multas de hasta 200 000 millones de dólares y exigir cambios obligatorios en su funcionamiento.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/legislacion-y-derechos/a-facebook-cada-vez-se-le-esta-poniendo-cara-marlboro-anos-70",
+      "published_at": "2026-08-20T10:31:33+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea un lenguaje cargado como \"nueva tabacalera\" y destaca la supuesta priorización de ganancias sobre la protección de menores, lo que muestra una postura crítica hacia la empresa y una ligera inclinación izquierdista.",
+      "focus_analysis": "El artículo se centra en el ángulo institucional‑legal y de salud pública, resaltando la acusación de adicción y las posibles sanciones, mientras deja de lado el impacto económico positivo de la compañía o la perspectiva de los usuarios.",
+      "focus_tags": [
+        "regulación",
+        "adicción digital",
+        "multas"
+      ],
+      "context": [
+        {
+          "label": "precedente judicial",
+          "text": "En marzo de 2025, un jurado de Los Ángeles declaró responsables a Meta y YouTube por prácticas adictivas en sus plataformas, otorgando una indemnización de seis millones de dólares a la demandante."
+        },
+        {
+          "label": "acciones estatales en EE. UU.",
+          "text": "Varios estados estadounidenses, como Texas y California, han impulsado leyes y demandas que buscan limitar el tiempo de uso de redes sociales por parte de menores y exigir a los sistemas de protección de datos."
+        },
+        {
+          "label": "regulación internacional",
+          "text": "En Europa y España, los reguladores están implementando medidas de protección de menores que incluyen restricciones de edad y mayor control de privacidad, reflejando una tendencia global hacia la limitación del acceso de jóvenes a plataformas digitales."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "92eb95cc7534",
       "title": "CDMX prevé plantar un millón de árboles en banquetas para 2030",
@@ -1015,41 +1047,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 9.0
-      }
-    },
-    {
-      "id": "8124486b0bd6",
-      "title": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
-      "summary": "El periódico Der Spiegel lanzó una portada titulada “El hombre más peligroso de Alemania”, la cual el partido Alternativa para Alemania (AfD) considera clave para alcanzar la mayoría absoluta en Sajonia-Anhalt.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/internacional/2026-08-20/el-hombre-mas-peligroso-de-alemania-una-portada-de-prensa-revoluciona-la-campana-electoral-de-la-extrema-derecha.html",
-      "published_at": "2026-08-20T08:52:56+00:00",
-      "bias_score": -65,
-      "bias_reason": "El lenguaje emplea términos cargados como “más peligroso” y “extrema derecha”, y el medio El País América, de tendencia centro‑izquierda, enfatiza la amenaza del AfD sin presentar su perspectiva.",
-      "focus_analysis": "El artículo se centra en el impacto mediático y electoral de la extrema derecha, dejando de lado el análisis de políticas o el contexto económico de la región.",
-      "focus_tags": [
-        "política",
-        "extrema derecha",
-        "medios de comunicación"
-      ],
-      "context": [
-        {
-          "label": "AfD en Sajonia‑Anhalt",
-          "text": "El partido Alternativa para Alemania (AfD) ha consolidado alrededor del 30 % del voto en Sajonia‑Anhalt y aspira a lograr la mayoría absoluta en las próximas elecciones regionales."
-        },
-        {
-          "label": "Der Spiegel",
-          "text": "Der Spiegel, un semanario de línea editorial centro‑izquierda, publicó una portada que califica al líder de AfD como “el hombre más peligroso de Alemania”."
-        },
-        {
-          "label": "Contexto europeo",
-          "text": "En varios países europeos se ha observado un crecimiento electoral de partidos de extrema derecha, aunque los analistas destacan diferencias en sus agendas económicas y sociales."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 7.6
       }
     }
   ]
