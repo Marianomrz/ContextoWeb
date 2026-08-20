@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:59:20.637196+00:00",
-      "title": "Revolución en Europa con los 5 fichajes que superaron los 100 millones de dólares en este mercado: e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mayor rigor factual y fuentes verificadas para ser publicado como noticia objetiva, pese a su actualidad y estructura adecuada.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:59:33.258742+00:00",
       "title": "En directo: Trump anuncia ofensiva económica contra Irán y amenaza a países que ayuden a Teherán",
       "kind": "noticia",
@@ -3297,6 +3280,17 @@
       },
       "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza literaria bien estructurada y con suficiente profundidad temática.",
       "error": null
+    },
+    {
+      "at": "2026-08-20T20:58:45.665739+00:00",
+      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 20 de agosto: continúa el bloqueo",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
