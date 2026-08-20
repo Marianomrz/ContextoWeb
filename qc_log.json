@@ -1,278 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T02:46:18.603453+00:00",
-      "title": "Alfonso Durazo informa del primer caso de gusano barrenador en Sonora",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría reforzar la verificación de cifras con fuentes específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T02:46:29.289464+00:00",
-      "title": "Donald Trump propone a su asesora Heidi Overton para dirigir la FDA",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla gravemente en veracidad, lo que impide su publicación a pesar de la buena estructura y actualidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T02:46:37.670027+00:00",
-      "title": "Metro CDMX activa marcha de seguridad en 7 líneas por lluvias; trenes reducen su velocidad",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste, objetividad, actualidad y estructura, presentando la noticia de forma clara y verificable.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:00:52.824815+00:00",
-      "title": "Cruz Azul con la obligación de ganar ante un Atlas que busca sorprender en el Azteca",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete muestra buena estructura y objetividad, pero su precisión factual es baja debido a inconsistencias y datos no corroborados.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:01:04.362400+00:00",
-      "title": "CFE recabaría hasta 20,000 millones de pesos con emisión en la BMV",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste de fuentes, objetividad y actualidad, aunque la estructura podría reforzarse ligeramente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:01:17.508184+00:00",
-      "title": "Colombia declara emergencia económica, social y ecológica por terremoto; busca acelerar reconstrucci",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastadas, lo que compromete su fiabilidad, aunque su estructura y actualidad son adecuadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:01:26.064464+00:00",
-      "title": "“¡Cerrá el c..., carajo!”: el acalorado ida y vuelta entre Coudet y Borré en medio del empate de Riv",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es sólido, preciso y objetivo; cumple con los estándares editoriales.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:01:40.215596+00:00",
-      "title": "Pyongyang no confirma contactos de Kim con Trump",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, aunque podría enriquecer el contraste de fuentes añadiendo perspectivas surcoreanas o independientes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:01:52.908895+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete parece ser un contenido cultural de bajo respaldo factual, pero mantiene objetividad y actualidad; necesita mayor verificación de datos y fuentes complementarias.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:02:05.765379+00:00",
-      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una información poco verificable y con fuentes limitadas, aunque mantiene un tono objetivo y está actualizado.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:02:19.909602+00:00",
-      "title": "La ciencia lo respalda: los niños que conviven con perros los primeros años de su vida sufren menos ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque necesita mayor precisión en la citación y fuentes más diversificadas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:02:33.314441+00:00",
-      "title": "Aranceles y peso fuerte golpean exportaciones muebleras: Afamjal",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero necesita fuentes más diversas y mayor respaldo de datos para alcanzar una calidad editorial óptima.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:02:39.967547+00:00",
-      "title": "Asteroide 9 Metis alcanza su mejor momento para observarlo; ¿cuándo verlo desde México en agosto?",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, con buena claridad y actualidad, pero debería reforzar sus fuentes y corregir la imprecisión sobre el tipo de eclipse lunar.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:02:52.948502+00:00",
-      "title": "Tigre perdió 2-1 con Montevideo City Torque y quedó eliminado en los octavos de final de la Sudameri",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad; la única mejora posible sería incluir fuentes adicionales, aunque no es esencial para este tipo de noticia deportiva.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:05:32.187821+00:00",
-      "title": "Pemex reporta incendio en un tanque del complejo Pajaritos por tormenta eléctrica",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, imparcialidad y actualidad, presentando la noticia de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T03:05:49.459787+00:00",
-      "title": "CFE recabaría hasta 20,000 millones de pesos con emisión en la BMV",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido, con buena objetividad y actualidad; solo podría mejorar la diversidad de fuentes para un contraste más robusto.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T03:05:57.305324+00:00",
       "title": "Segiagua despliega Operativo Tlaloque por lluvias; atiende encharcamiento en Paseo de la Reforma",
       "kind": "noticia",
@@ -3392,6 +3120,278 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de fuentes múltiples y verificables reduce su puntuación en veracidad y contraste de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:50:28.686670+00:00",
+      "title": "David Harbour la lía y hace spoiler del mayor secreto de ‘Avengers: Doomsday’",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 0,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo es actual pero carece de verificación y fuentes múltiples, y su estilo sensacionalista afecta la objetividad y credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:50:33.997628+00:00",
+      "title": "Galilea Montijo rompe el protocolo en La Casa de los Famosos México 2026 y regaña a los habitantes: ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría reforzar la verificación de citas y datos específicos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:50:43.462608+00:00",
+      "title": "Hayek y el conservadurismo",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.8,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo está bien estructurado y es reciente, pero presenta errores de factualidad y falta de fuentes contrastantes, lo que afecta su objetividad y precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:50:49.152040+00:00",
+      "title": "Acuerdan fortalecer atención del ISSSTE en Aguascalientes",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete necesita correcciones de datos y fuentes adicionales para ser publicado; la redacción es objetiva y actual, pero la inexactitud de cargos compromete su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:50:53.579797+00:00",
+      "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una estructura adecuada y un tono objetivo, pero la falta de verificación del hecho central y la ausencia de fuentes concretas reducen significativamente su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:02.110431+00:00",
+      "title": "Un caballo troyano sin caballos",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero necesita fuentes más precisas y mayor contraste de voces para alcanzar una calidad editorial completa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:07.338866+00:00",
+      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y objetivo, pero contiene datos inexactos sobre los jugadores, lo que afecta gravemente su veracidad. Se recomienda corregir los nombres y confirmar fuentes antes de publicar.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:13.830136+00:00",
+      "title": "Si esto del iPhone 18 Pro es cierto, nadie va a querer comprarlo este año",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la triangulación de fuentes.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:19.491554+00:00",
+      "title": "Luis Chaparro nominó a Ese Pérez cara a cara y así reaccionó el creador de contenido",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada del hecho de entretenimiento.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:29.357277+00:00",
+      "title": "Nadie escapa de Widow’s Bay",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque mantiene una estructura adecuada y objetividad razonable.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:34.158425+00:00",
+      "title": "¿Gas importado o fracking? El dilema energético de México",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la precisión de datos y ampliar la variedad de fuentes, pero en general mantiene objetividad y estructura adecuada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:39.545686+00:00",
+      "title": "Enrique de Inglaterra y Meghan Markle se mudan al Reino Unido seis años después de su sonada marcha ",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque podría reforzar la verificación de algunos datos con fuentes directas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:48.458617+00:00",
+      "title": "¿Doblar la apuesta contra Estados Unidos por Andy?",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta serias deficiencias de veracidad y equilibrio de aunque es actual y está estructurado razonablemente.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:51:54.831095+00:00",
+      "title": "Revolución en Europa con los 5 fichajes que superaron los 100 millones de dólares en este mercado: e",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo está bien estructurado y es objetivo, pero falla gravemente en veracidad y contraste de fuentes, presentando datos no verificables.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:52:01.715393+00:00",
+      "title": "La odisea del emprendedor que compró un viejo crucero, gastó un millón de dólares en su restauración",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete necesita mejorar la precisión de los datos y la variedad de fuentes, pero cumple con la objetividad, actualidad y estructura requerida.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T07:52:07.471354+00:00",
+      "title": "Resultados del Chispazo: números ganadores del sorteo de hoy 19 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y bien estructurada.",
       "error": null
     }
   ]
