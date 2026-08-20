@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:20:50.314944+00:00",
-      "title": "Familiares de la pequeña Fátima Cecilia temen liberación de feminicidas; magistrados revisan apelaci",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría reforzar la variedad de fuentes para mayor profundidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:20:54.900519+00:00",
       "title": "Ataques rusos matan a 6 personas en Kiev y zona circundante",
       "kind": "noticia",
@@ -3374,6 +3357,17 @@
     {
       "at": "2026-08-20T10:58:53.129926+00:00",
       "title": "\"Un hijo propio\": cuando ser madre es un mandato",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T11:20:39.138245+00:00",
+      "title": "Nicola Porcella critica a La Casa de los Famosos México por meter demasiados influencers: “Tanto cre",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,
