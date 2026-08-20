@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:21:09.057132+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y estructurado, pero carece de datos verificables y de fuentes contrastantes, lo que limita su credibilidad y profundidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:21:11.628009+00:00",
       "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
       "kind": "noticia",
@@ -3358,6 +3341,17 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes",
       "kind": "noticia",
       "category": "internacional",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T13:00:40.374986+00:00",
+      "title": "Guanajuato y Querétaro buscan atraer turismo de reuniones",
+      "kind": "noticia",
+      "category": "economia",
       "approved": true,
       "overall": null,
       "scores": {},

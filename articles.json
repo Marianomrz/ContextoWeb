@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T12:41:13.615083+00:00",
+  "generated_at": "2026-08-20T13:01:13.529579+00:00",
   "articles": [
+    {
+      "id": "632105413672",
+      "title": "Guanajuato y Querétaro buscan atraer turismo de reuniones",
+      "summary": "Los estados de Guanajuato y Querétaro, a través de sus secretarías de turismo, buscan captar mayor participación en el mercado de congresos y eventos corporativos al presentar sus ofertas en la feria IBTM Americas 2026, resaltando su infraestructura y el aporte del turismo de reuniones al PIB estatal.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/estados/guanajuato-queretaro-buscan-atraer-turismo-reuniones-20260820-829169.html",
+      "published_at": "2026-08-20T13:00:00+00:00",
+      "bias_score": 12,
+      "bias_reason": "El texto enfatiza datos económicos y promociona la actividad turística sin incluir críticas ni perspectivas sociales, reflejando un sesgo pro‑negocio ligeramente a la derecha.",
+      "focus_analysis": "El medio se centra en el potencial económico del turismo MICE, destacando cifras de PIB y empleo, mientras omite aspectos humanos o ambientales del sector.",
+      "focus_tags": [
+        "turismo MICE",
+        "economía regional",
+        "eventos corporativos"
+      ],
+      "context": [
+        {
+          "label": "Industria nacional de reuniones",
+          "text": "En México, el sector de reuniones representa alrededor del 1.5 % del PIB nacional y genera más de un millón de empleos directos e indirectos, según datos citados en la nota."
+        },
+        {
+          "label": "Posición de Guanajuato en turismo de reuniones",
+          "text": "Guanajuato se ubica como el quinto destino nacional en turismo de reuniones, con 10 recintos especializados y 83 000 m² de espacio de exhibición, aportando el 3.5 % al PIB estatal."
+        },
+        {
+          "label": "Enfoque de otras coberturas",
+          "text": "El Sol de México destacó la presencia de Miss Universe y la mayor expo de reuniones en Los Cabos, centrando su cobertura en el atractivo de eventos de alto perfil y entretenimiento, contrastando con el enfoque mayormente económico de El Economista."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "482a86eae16b",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes de la playa del Trampolín y prevé habilitar nuevos espacios",
@@ -1000,41 +1032,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.8
-      }
-    },
-    {
-      "id": "6fa7f1896339",
-      "title": "\"Mala madre\" cuestiona la maternidad y los mandatos sociales",
-      "summary": "La escritora chilena María Paz Rodríguez presentó en México su novela \"Mala madre\", una obra que cuestiona los roles tradicionales de la mujer y la maternidad, señalando la presión de los mandatos sociales y la influencia de políticas conservadoras en Chile.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/cultura/mala-madre-cuestiona-la-maternidad-y-los-mandatos-sociales/",
-      "published_at": "2026-08-20T09:02:00+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto utiliza un lenguaje crítico hacia la extrema derecha chilena y enfatiza la perspectiva feminista, lo que muestra una ligera inclinación hacia la izquierda.",
-      "focus_analysis": "El medio se centra en la dimensión de género y la crítica a los mandatos sociales sobre la maternidad, dejando de lado aspectos económicos o literarios de la obra.",
-      "focus_tags": [
-        "feminismo",
-        "maternidad",
-        "crítica social"
-      ],
-      "context": [
-        {
-          "label": "Marco legal en Chile",
-          "text": "En Chile, el gobierno ha propuesto leyes que obligan a las mujeres embarazadas a escuchar los latidos fetales antes de abortar, medida criticada como invasiva por grupos feministas."
-        },
-        {
-          "label": "Tendencia de fertilidad",
-          "text": "Los países latinoamericanos han registrado una caída de la natalidad entre mujeres con estudios universitarios, que posponen o renuncian a tener hijos por razones económicas y de carrera."
-        },
-        {
-          "label": "Recepción de literatura feminista en México",
-          "text": "México ha visto un creciente interés en obras literarias que abordan temáticas de género, con editoriales como Seix Barral promocionando autores extranjeros que cuestionan los roles tradicionales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
       }
     }
   ]
