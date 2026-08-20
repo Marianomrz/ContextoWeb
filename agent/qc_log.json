@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:40:01.354586+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 19 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste y actualidad, aunque podría enriquecer la cobertura con más contexto cultural o de audiencia.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:40:11.695726+00:00",
       "title": "Familiares de la pequeña Fátima Cecilia temen liberación de feminicidas; magistrados revisan apelaci",
       "kind": "noticia",
@@ -3316,6 +3299,17 @@
       "title": "Olinia Carga llegará en 2027",
       "kind": "noticia",
       "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T18:53:09.171499+00:00",
+      "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 20 de agosto? Líneas del MB afectadas por manifest",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
