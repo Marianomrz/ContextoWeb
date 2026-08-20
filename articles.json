@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T12:00:50.640632+00:00",
+  "generated_at": "2026-08-20T12:25:28.241588+00:00",
   "articles": [
+    {
+      "id": "3f622c9528f9",
+      "title": "Sonora detecta el primer caso de gusano barrenador en el estado; activa protocolos de vigilancia",
+      "summary": "El gobierno del estado mexicano de Sonora, bajo la dirección del gobernador Alfonso Durazo, puso en marcha protocolos de vigilancia y control después de confirmar el primer caso de gusano barrenador en la región, mientras el Departamento de Agricultura de EE. UU. (USDA) evalúa levantar la prohibición a las importaciones de ganado mexicano.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/sonora-detecta-primer-caso-gusano-barrenador-activa-protocolos-vigilancia-20260820-829248.html",
+      "published_at": "2026-08-20T12:17:50+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono informativo y neutral, citando únicamente al gobernador y a la autoridad sanitaria, sin emplear vocabulario cargado ni fuentes partidistas.",
+      "focus_analysis": "El medio se centró en la respuesta institucional y sanitaria del estado, dejando de lado el impacto económico directo sobre la industria ganadera y el aspecto humano de la alerta.",
+      "focus_tags": [
+        "salud animal",
+        "vigilancia sanitaria",
+        "política pública"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del gusano barrenador",
+          "text": "El gusano barrenador es un parásito que ataca el hígado de bovinos, provocando pérdidas económicas significativas en la producción ganadera de México y Estados Unidos."
+        },
+        {
+          "label": "Situación previa en Sonora",
+          "text": "Antes de este reporte, Sonora no había registrado casos confirmados del gusano barrenador, lo que hacía de este hallazgo el primero en el estado."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "En contraste, El Informador destacó una alerta en Ciudad Juárez, Chihuahua, donde se detectó el parásito en un perro, subrayando la preocupación por la propagación fronteriza del problema."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "2a6ae5631866",
       "title": "Nicola Porcella critica a La Casa de los Famosos México por meter demasiados influencers: “Tanto creador de contenido no era”",
@@ -1001,41 +1033,6 @@
         {
           "label": "Otros clubes con movimientos similares",
           "text": "Recientemente, River Plate también ha registrado la salida de varios jugadores, como el traspaso de un delantero a la liga mexicana, lo que muestra una tendencia de renovaciones masivas en el fútbol argentino."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "cab3cc69db8e",
-      "title": "Hayek y el conservadurismo",
-      "summary": "El artículo de Letras Libres analiza el ensayo de Friedrich Hayek \"Por qué no soy conservador\", señalando que el economista austriaco consideraba al conservadurismo carente de una teoría propia y capaz solo de frenar cambios, mientras que su liberalismo proponía una dirección basada en instituciones espontáneas y el libre mercado.",
-      "category": "politica",
-      "source_name": "Letras Libres",
-      "source_url": "https://letraslibres.com/ideas/hayek-y-el-conservadurismo/20/08/2026/",
-      "published_at": "2026-08-20T07:38:46+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto muestra una postura crítica hacia el conservadurismo y destaca la superioridad del liberalismo hayekiano, empleando un lenguaje que valora la libertad de mercado y cuestiona la rigidez conservadora, típico de una línea editorial de izquierda.",
-      "focus_analysis": "Se centra en el análisis filosófico‑histórico de la relación entre Hayek y el conservadurismo, dejando de lado la discusión de sus implicaciones políticas contemporáneas o económicas.",
-      "focus_tags": [
-        "filosofía política",
-        "historia del liberalismo",
-        "crítica al conservadurismo"
-      ],
-      "context": [
-        {
-          "label": "Ensayo de Hayek",
-          "text": "En 1960, Friedrich Hayek publicó \"Por qué no soy conservador\", donde rechazó la clasificación lineal izquierda‑derecha y describió al conservadurismo como un intento de frenar el cambio sin ofrecer una dirección alternativa."
-        },
-        {
-          "label": "Debate ideológico del siglo XX",
-          "text": "El liberalismo hayekiano se opone al conservadurismo tradicional de Burke y al racionalismo de Mill, defendiendo la evolución espontánea de instituciones como el derecho y la moral."
-        },
-        {
-          "label": "Perspectiva editorial mexicana",
-          "text": "Letras Libres, con una línea editorial progresista, suele criticar las posturas conservadoras y destacar ideas liberales que promueven la libertad individual y el mercado."
         }
       ],
       "confidence": "alta",

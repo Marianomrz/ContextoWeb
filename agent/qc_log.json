@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:20:54.900519+00:00",
-      "title": "Ataques rusos matan a 6 personas en Kiev y zona circundante",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque se beneficiaría de fuentes más diversas para equilibrar la cobertura del conflicto.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:21:00.173421+00:00",
       "title": "Tigre perdió 2-1 con Montevideo City Torque y quedó eliminado en los octavos de final de la Sudameri",
       "kind": "noticia",
@@ -3370,6 +3353,17 @@
       "title": "Nicola Porcella critica a La Casa de los Famosos México por meter demasiados influencers: “Tanto cre",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T12:25:09.792662+00:00",
+      "title": "Sonora detecta el primer caso de gusano barrenador en el estado; activa protocolos de vigilancia",
+      "kind": "noticia",
+      "category": "economia",
       "approved": true,
       "overall": null,
       "scores": {},
