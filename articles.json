@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T12:25:28.241588+00:00",
+  "generated_at": "2026-08-20T12:41:13.615083+00:00",
   "articles": [
+    {
+      "id": "482a86eae16b",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes de la playa del Trampolín y prevé habilitar nuevos espacios",
+      "summary": "El Gobierno de España, encabezado por el PSOE, reubicó a 1.800 migrantes del campamento del Trampolín en Ceuta en dos centros controlados y criticó la propuesta del Partido Popular de devolver a todos los migrantes como una ilegalidad.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-20T12:36:20+00:00",
+      "bias_score": -35,
+      "bias_reason": "El texto utiliza expresiones cargadas como \"única propuesta\" e \"ilegalidad\" para describir la medida del PP, enfatiza la acción del Gobierno y omite la perspectiva de los migrantes, lo que muestra una postura favorable al PSOE y desfavorable al PP.",
+      "focus_analysis": "El artículo se centra en el enfrentamiento político entre el Gobierno y el PP respecto a la gestión de la inmigración en Ceuta, dejando de lado el detalle de las condiciones y testimonios de los migrantes.",
+      "focus_tags": [
+        "inmigración",
+        "política española",
+        "Ceuta"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Ceuta",
+          "text": "Ceuta es una ciudad autónoma española en el norte de África que ha recibido históricamente flujos masivos de migrantes que intentan entrar a Europa, con episodios de cientos de personas que llegan diariamente desde Marruecos."
+        },
+        {
+          "label": "Posición del PP",
+          "text": "El Partido Popular ha propuesto la devolución masiva de los migrantes que llegan a Ceuta, una medida que el Gobierno de coalición ha calificado de ilegal."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros medios como France24 y Euronews han puesto el acento en la motivación de los migrantes y en el traslado de menores, subrayando la dimensión humanitaria del episodio."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "3f622c9528f9",
       "title": "Sonora detecta el primer caso de gusano barrenador en el estado; activa protocolos de vigilancia",
@@ -1003,41 +1035,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.0
-      }
-    },
-    {
-      "id": "b5a3b0118e88",
-      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que podrían emigrar",
-      "summary": "El club argentino Boca Juniors anunció que ocho futbolistas ya abandonaron su plantel en el actual mercado de pases y que dos más podrían salir en los próximos días, como parte de una remodelación dirigida por la directiva. Estas bajas incluyen a veteranos como Edinson Cavani y a varios jugadores jóvenes que fueron cedidos o rescindidos.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/20/boca-juniors-la-lista-de-ocho-futbolistas-que-ya-se-fueron-en-este-mercado-de-pases-y-los-dos-que-podrian-emigrar/",
-      "published_at": "2026-08-20T05:57:42+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir hechos y nombres sin usar lenguaje cargado ni favorecer opiniones, presentando la información de forma objetiva y equilibrada.",
-      "focus_analysis": "El medio se centra en la dimensión institucional y deportiva de la renovación del plantel de Boca Juniors, omitiendo la reacción de los hinchas y el análisis financiero de las transferencias.",
-      "focus_tags": [
-        "transferencias",
-        "Boca Juniors",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Objetivos del club",
-          "text": "Boca Juniors busca competir por la Copa Sudamericana, el Torneo Clausura, la Copa Argentina, la clasificación a la Copa Libertadores 2027 y el primer puesto de la tabla anual."
-        },
-        {
-          "label": "Contexto del mercado de pases argentino",
-          "text": "Los clubes argentinos suelen vender jugadores al exterior, especialmente a Europa y la MLS, para equilibrar sus finanzas y aprovechar la demanda de talento local."
-        },
-        {
-          "label": "Otros clubes con movimientos similares",
-          "text": "Recientemente, River Plate también ha registrado la salida de varios jugadores, como el traspaso de un delantero a la liga mexicana, lo que muestra una tendencia de renovaciones masivas en el fútbol argentino."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
       }
     }
   ]
