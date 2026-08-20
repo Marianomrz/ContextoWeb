@@ -1,6 +1,216 @@
 {
-  "generated_at": "2026-08-20T02:21:48.076502+00:00",
+  "generated_at": "2026-08-20T02:46:38.716519+00:00",
   "articles": [
+    {
+      "id": "4e41c1ba3723",
+      "title": "Metro CDMX activa marcha de seguridad en 7 líneas por lluvias; trenes reducen su velocidad",
+      "summary": "El Sistema de Transporte Colectivo Metro de la Ciudad de México redujo la velocidad de los trenes en siete líneas y activó una marcha de seguridad para garantizar trayectos seguros mientras continúan las lluvias intensas.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/metro-cdmx-activa-marcha-de-seguridad-en-7-lineas-por-lluvias-trenes-reducen-su-velocidad/",
+      "published_at": "2026-08-20T02:27:06+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar la medida oficial del STC y la alerta de la SGIRPC, sin usar vocabulario cargado ni citar fuentes con orientación política.",
+      "focus_analysis": "El medio se centra en el aspecto operativo y de seguridad del transporte público, dejando de lado cualquier análisis de impacto económico o de gestión de riesgos a largo plazo.",
+      "focus_tags": [
+        "seguridad del metro",
+        "lluvias CDMX",
+        "alerta amarilla"
+      ],
+      "context": [
+        {
+          "label": "Alerta meteorológica",
+          "text": "La Secretaría de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México emitió una alerta amarilla que cubre a las 16 alcaldías, anticipando precipitaciones de 15 a 29 milímetros y posible granizo, lo que motivó la medida del Metro."
+        },
+        {
+          "label": "Procedimientos habituales del Metro",
+          "text": "El Metro de la CDMX ha activado previamente marchas de seguridad y reducción de velocidad en sus líneas cuando las condiciones climáticas, como lluvias fuertes, representan un riesgo para la operación."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Mientras El Universal reportó la medida de seguridad, Infobae destacó la alerta meteorológica y El Sol de México centró su atención en normas internas del Metro, como la uniformización del personal, mostrando enfoques diferentes del mismo hecho."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "a7c0c7e6e2f6",
+      "title": "Alfonso Durazo informa del primer caso de gusano barrenador en Sonora",
+      "summary": "Alfonso Durazo, gobernador de Sonora, anunció la detección del primer caso del gusano barrenador en el estado y activó los protocolos de vigilancia y contención en coordinación con autoridades sanitarias federales y productores.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/20/alfonso-durazo-informa-del-primer-caso-de-gusano-barrenador-en-sonora/",
+      "published_at": "2026-08-20T02:40:38+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje informativo y neutro, sin adjetivos cargados ni fuentes partidistas, limitándose a citar al gobernador y a datos oficiales.",
+      "focus_analysis": "El medio se centra en la respuesta institucional y en las implicaciones sanitarias y comerciales del brote, dejando de lado el análisis del impacto económico directo en los productores y la posible polémica política.",
+      "focus_tags": [
+        "salud animal",
+        "seguridad sanitaria",
+        "comercio ganadero"
+      ],
+      "context": [
+        {
+          "label": "Antecedente sanitario",
+          "text": "El gusano barrenador es un parásito que afecta al ganado bovino y ha sido responsable de restricciones sanitarias en la frontera entre México y Estados Unidos."
+        },
+        {
+          "label": "Datos de comercio",
+          "text": "Entre 2020 y 2025, más de 121 000 cabezas de ganado mexicano fueron rechazadas por Estados Unidos, en su mayoría por incumplimientos de bienestar animal, lo que ha generado presión para reforzar los controles sanitarios."
+        },
+        {
+          "label": "Cobertura adicional",
+          "text": "Otro medio informó que el gusano barrenador también se detectó en un perro en Ciudad Juárez, Chihuahua, indicando que la amenaza se extiende más allá del ganado y afecta a la zona fronteriza."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
+    {
+      "id": "bd790bc0a39f",
+      "title": "Estados Unidos alcanza un nivel de deuda federal récord de 40 billones de dólares",
+      "summary": "Estados Unidos alcanzó un nivel histórico de deuda federal de 40 billones de dólares, una cifra que, según analistas, evidencia una creciente crisis fiscal impulsada por el gasto en defensa, seguridad social y los intereses de la deuda.",
+      "category": "economia",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/programas/econom%C3%ADa/20260820-estados-unidos-alcanza-un-nivel-de-deuda-federal-r%C3%A9cord-de-40-billones-de-d%C3%B3lares",
+      "published_at": "2026-08-20T02:21:54+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto enfatiza la \"crisis fiscal\" y los riesgos económicos, citando a expertos críticos, aunque incluye una declaración positiva de la Casa Blanca sobre la gestión de Trump, lo que lo sitúa ligeramente a la izquierda del centro.",
+      "focus_analysis": "El medio elige un ángulo económico‑fiscal, resaltando el tamaño de la deuda, sus causas y sus efectos sobre los intereses y el presupuesto, mientras deja de lado el debate político sobre soluciones y la confrontación partidista.",
+      "focus_tags": [
+        "deuda federal",
+        "crisis fiscal",
+        "EE.UU."
+      ],
+      "context": [
+        {
+          "label": "Antecedentes históricos",
+          "text": "La deuda federal de EE.UU. había superado los 39 billones de dólares en marzo y es el doble de la cifra que existía al inicio del mandato de Donald Trump en 2017."
+        },
+        {
+          "label": "Presión demográfica",
+          "text": "El envejecimiento de la generación de \"baby boomers\", con aproximadamente 10,000 jubilaciones diarias, aumenta la carga sobre los programas de Seguridad Social y Medicare, contribuyendo al crecimiento de la deuda."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Según DW Español, el gobierno federal gasta alrededor de dos billones de dólares más de lo que ingresa cada año, subrayando el desequilibrio fiscal que también menciona la nota de France24."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "c36fde0e8eb9",
+      "title": "Tigre perdió 2-1 con Montevideo City Torque y quedó eliminado en los octavos de final de la Sudamericana",
+      "summary": "El club Atlético Tigre de Argentina perdió 2‑1 contra Montevideo City Torque de Uruguay y quedó fuera de los octavos de final de la Copa Sudamericana.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/19/tigre-apuesta-a-revertir-la-serie-ante-montevideo-city-torque-por-los-octavos-de-final-de-la-sudamericana-hora-tv-y-formaciones/",
+      "published_at": "2026-08-20T02:32:42+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el resultado del partido y datos del evento sin usar adjetivos cargados ni citar fuentes con sesgo político.",
+      "focus_analysis": "El artículo se centra en el resultado deportivo y la eliminación del equipo, dejando de lado aspectos como la reacción de la afición o las repercusiones económicas del club.",
+      "focus_tags": [
+        "resultado",
+        "copa sudamericana",
+        "eliminación"
+      ],
+      "context": [
+        {
+          "label": "Montevideo City Torque",
+          "text": "Montevideo City Torque es un club de fútbol uruguayo que compite en la Primera División de Uruguay y ha participado recientemente en la Copa Sudamericana."
+        },
+        {
+          "label": "Copa Sudamericana",
+          "text": "La Copa Sudamericana es el segundo torneo continental de clubes de fútbol en América del Sur, con una fase de octavos de final que elimina a los perdedores en cada ronda."
+        },
+        {
+          "label": "Tigre en la competición",
+          "text": "El club Atlético Tigre, con sede en Buenos Aires, había llegado a los octavos de final de la Copa Sudamericana tras una campaña exitosa en la fase de grupos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "ba0eddaca640",
+      "title": "Presidente de la Premier League pide un candidato a la FIFA capaz de unir a las confederaciones",
+      "summary": "El presidente ejecutivo de la Premier League, Richard Masters, ha solicitado que el próximo candidato a la presidencia de la FIFA presente una propuesta que logre unir a las confederaciones del fútbol, señalando la necesidad de reformar la gobernanza de la entidad tras la crisis provocada por la gestión de Gianni Infantino.",
+      "category": "deportes",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/deportes/presidente-premier-league-pide-candidato-fifa-capaz-unir-confederaciones-20260819-829180.html",
+      "published_at": "2026-08-20T02:38:16+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono neutro, se limita a citar a los dirigentes y no emplea vocabulario cargado ni favorece a ninguna posición política.",
+      "focus_analysis": "Se centra en la dimensión institucional y de gobernanza de la FIFA, dejando de lado los impactos económicos y la perspectiva de los aficionados.",
+      "focus_tags": [
+        "gobernanza deportiva",
+        "reforma FIFA",
+        "unidad confederaciones"
+      ],
+      "context": [
+        {
+          "label": "Fondo histórico",
+          "text": "La FIFA ha enfrentado críticas sobre su estructura de poder, especialmente bajo la presidencia de Gianni Infantino, quien ha impulsado reformas controvertidas y ha sido señalado por algunos dirigentes como autor de decisiones que generan división entre las confederaciones."
+        },
+        {
+          "label": "Posición de la Premier League",
+          "text": "Richard Masters, presidente ejecutivo de la Premier League, ha manifestado que la crisis reciente en la FIFA evidencia la necesidad de revisar sus estructuras de poder y propone que el futuro presidente presente una visión que una a las confederaciones."
+        },
+        {
+          "label": "Otros actores del fútbol",
+          "text": "Confederaciones como UEFA, CONCACAF y CAF han recordado que el fútbol no pertenece a una sola persona y han pedido una mayor inclusión en la toma de decisiones de la FIFA."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
+    {
+      "id": "4a22e3e5529b",
+      "title": "Aficionados de Chivas llaman “mercenario” a la Hormiga González por irse al Olympiacos sin haber ganado la Liga MX",
+      "summary": "El delantero mexicano Armando \"Hormiga\" González, figura clave de Chivas, ha confirmado su salida al Olympiacos de Grecia, lo que ha generado una fuerte polémica entre los aficionados rojiblancos que lo acusan de \"mercenario\" por marcharse sin haber conseguido un título de Liga MX.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/20/aficionados-de-chivas-llaman-mercenario-a-la-hormiga-gonzalez-por-irse-al-olympiacos-sin-haber-ganado-la-liga-mx/",
+      "published_at": "2026-08-20T02:44:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto muestra tanto críticas como opiniones favorables de los seguidores, sin inclinarse a una postura política o partidista; el lenguaje es deportivo y emocional, pero equilibrado.",
+      "focus_analysis": "El medio se centra en la reacción emotiva de la afición y el debate sobre la lealtad del jugador, dejando de lado el análisis económico de la transferencia y la perspectiva institucional del club.",
+      "focus_tags": [
+        "reacción de aficionados",
+        "transferencia internacional",
+        "debate de lealtad"
+      ],
+      "context": [
+        {
+          "label": "historia del club",
+          "text": "Club Deportivo Guadalajara, conocido como Chivas, es uno de los equipos más tradicionales de México y se caracteriza por su política de jugar únicamente con futbolistas mexicanos, lo que intensifica la identificación de los aficionados con sus jugadores."
+        },
+        {
+          "label": "destino europeo",
+          "text": "Olympiacos es el club más laureado de Grecia y suele participar en competiciones europeas como la UEFA Champions League, lo que lo convierte en un objetivo atractivo para futbolistas latinoamericanos que buscan ampliar su carrera."
+        },
+        {
+          "label": "cobertura ajena",
+          "text": "Otros medios, como El Sol de México, resaltan el prestigio histórico y la potencia del Olympiacos, enfocándose en la oportunidad deportiva del jugador más que en la crítica de los seguidores."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "89965ab901d1",
       "title": "River Plate empata contra Independiente Santa Fe por el partido de ida de los octavos de la Copa Sudamericana",
@@ -840,216 +1050,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 7.4
-      }
-    },
-    {
-      "id": "39288596eca9",
-      "title": "La 39ª Feria Universitaria del Libro de Hidalgo tendrá como eje el comercio global",
-      "summary": "La Feria Universitaria del Libro de la Universidad Autónoma del Estado de Hidalgo (UAEH) celebrará su 39ª edición del 4 al 13 de septiembre, con Filipinas como país invitado y el eje temático de comercio global, reunirá a más de 800 casas editoriales y ofrecerá premios y actividades culturales para distintos públicos.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/arteseideas/39a-feria-universitaria-libro-hidalgo-tendra-eje-comercio-global-20260819-829164.html",
-      "published_at": "2026-08-20T01:39:33+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, presenta declaraciones de autoridades y datos sin usar vocabulario cargado ni favorecer una perspectiva ideológica.",
-      "focus_analysis": "El medio destaca el aspecto económico y estructural del evento, como el comercio global y la crisis de librerías, dejando de lado el relato personal de lectores o autores.",
-      "focus_tags": [
-        "comercio global",
-        "cultura editorial",
-        "crisis de librerías"
-      ],
-      "context": [
-        {
-          "label": "declive de librerías",
-          "text": "Según la Cuenta Satélite de la Cultura del INEGI, el número de librerías en México pasó de 1,724 en 2016 a 1,624 en 2021, reflejando una crisis del sector tradicional de distribución."
-        },
-        {
-          "label": "vínculos México‑Filipinas",
-          "text": "La participación de Filipinas como país invitado recuerda los cuatro siglos de relaciones históricas surgadas por la ruta del Galeón de Manila, que conectó ambos países durante la época colonial."
-        },
-        {
-          "label": "rol de las ferias del libro",
-          "text": "Las ferias de libro, como la FUL, son consideradas por autoridades y organizadores como canales críticos para mantener el ecosistema entre autores, lectores y editores, especialmente en un contexto de desafíos digitales."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "09db0375cf71",
-      "title": "Hallan el cuerpo de un hombre baleado en San Francisco del Rincón",
-      "summary": "El cuerpo de un hombre fue encontrado con supuestos impactos de arma de fuego en la calle Olmos, colonia Vista Oviedo, de Francisco del Rincón, Guanajuato; la Fiscalía General del Estado y el Servicio Médico Forense iniciaron la investigación y la necropsia.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/guanajuato/2026/08/19/hallan-el-cuerpo-de-un-hombre-baleado-en-san-francisco-del-rincon-1834342.html",
-      "published_at": "2026-08-20T01:09:43+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta los hechos de forma descriptiva y neutral, sin usar vocabulario cargado ni citar fuentes con inclinación política.",
-      "focus_analysis": "El medio se enfocó en el reporte del hallazgo y la respuesta de las autoridades de seguridad, dejando fuera el contexto de violencia local y posibles motivaciones del homicidio.",
-      "focus_tags": [
-        "seguridad pública",
-        "homicidio",
-        "San Francisco del Rincón"
-      ],
-      "context": [
-        {
-          "label": "Tendencias de violencia en Guanajuato",
-          "text": "En los últimos años, el estado de Guanajuato ha registrado un incremento en los índices de homicidios, lo que ha generado preocupación entre autoridades y la población."
-        },
-        {
-          "label": "Procedimientos de investigación criminal en México",
-          "text": "Cuando se localiza un cuerpo con indicios de arma de fuego, la Fiscalía General del Estado y el Servicio Médico Forense se hacen cargo de la investigación y la necropsia, según el protocolo legal."
-        },
-        {
-          "label": "Cobertura de crímenes en medios locales",
-          "text": "Los periódicos regionales como Periódico AM suelen publicar notas breves que informan los hechos básicos y la respuesta de seguridad, sin profundizar en la identidad de la víctima o posibles motivaciones."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "27f20fcf5904",
-      "title": "Cooperativa Cruz Azul impulsa en Hidalgo inversión deportiva y Liga de Expansión",
-      "summary": "El presidente de la Cooperativa Cruz Azul, Víctor Velázquez, anunció una inversión de 6,500 millones de pesos en Tula de Allende, Hidalgo, para reactivar la economía local mediante la construcción de un estadio de la Liga de Expansión, la modernización de la cementera y la creación de un hospital. El proyecto contempla la generación de decenas de miles de empleos y la producción anual de cemento, y se presentó en la conferencia matutina de la presidenta Claudia Sheinbaum.",
-      "category": "deportes",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/deportes/cooperativa-cruz-azul-impulsa-hidalgo-inversion-deportiva-liga-expansion-20260819-829159.html",
-      "published_at": "2026-08-20T01:06:29+00:00",
-      "bias_score": 30,
-      "bias_reason": "El texto utiliza un lenguaje muy positivo y se centra en los beneficios económicos sin incluir voces críticas ni perspectivas opositoras, citando solo al presidente del equipo y a la autoridad estatal, lo que indica una inclinación pro‑empresa y pro‑gobierno.",
-      "focus_analysis": "El medio eligió destacar el impacto económico y la generación de empleo como principal ángulo, dejando de lado posibles discusiones sobre el costo fiscal, la sostenibilidad ambiental o la opinión de la ciudadanía local.",
-      "focus_tags": [
-        "inversión deportiva",
-        "desarrollo económico",
-        "empleos en Hidalgo"
-      ],
-      "context": [
-        {
-          "label": "antecedente histórico",
-          "text": "Cruz Azul surgió como una fábrica de cemento en Hidalgo y, tras años de declive, la cooperativa está retomando sus raíces con la reapertura de la planta y la construcción de infraestructura deportiva."
-        },
-        {
-          "label": "situación de la segunda división",
-          "text": "El equipo de la Liga de Expansión estuvo inactivo durante cinco años, por lo que la nueva sede en el Estadio Refundación representa su regreso a la competición profesional."
-        },
-        {
-          "label": "perspectiva política externa",
-          "text": "Otros medios, como Infobae, resaltaron la participación del gobernador de Hidalgo, Julio Menchaca, en el anuncio, subrayando la alineación del proyecto con la agenda de desarrollo económico del gobierno estatal."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "717bbbcc4200",
-      "title": "Con un golazo de Messi, el Inter Miami iguala ante Philadelphia Union por la MLS",
-      "summary": "El Inter Miami CF empató 2‑2 contra el Philadelphia Union en la MLS, con un gol de Lionel Messi que marcó su primer tanto tras el fallecimiento de su padre.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/19/el-inter-miami-de-messi-visitara-a-philadelphia-union-por-una-nueva-fecha-de-la-mls-hora-tv-y-formaciones/",
-      "published_at": "2026-08-20T01:16:04+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto usa un tono emotivo y destaca la figura de Messi, pero mantiene un enfoque informativo y equilibrado sin favorecer a ningún equipo o agenda política.",
-      "focus_analysis": "El artículo se centra en la dimensión humana del regreso de Messi y el desarrollo del partido, dejando de lado un análisis táctico profundo o la repercusión financiera del encuentro.",
-      "focus_tags": [
-        "Messi",
-        "MLS",
-        "Inter Miami"
-      ],
-      "context": [
-        {
-          "label": "Regreso de Messi",
-          "text": "Lionel Messi volvió a la alineación titular del Inter Miami tras la muerte de su padre, Jorge Messi, y anotó su primer gol desde ese su en el partido contra el Philadelphia Union."
-        },
-        {
-          "label": "Posición de Inter Miami",
-          "text": "El Inter Miami ocupa el segundo puesto de la Conferencia Este de la MLS con 38 puntos en 19 partidos, liderando la tabla de goleadores del club con 13 tantos."
-        },
-        {
-          "label": "Forma del Philadelphia Union",
-          "text": "El Philadelphia Union, con 19 puntos y en el puesto 13 de la Conferencia Este, llegaba al encuentro tras una racha de cuatro victorias consecutivas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
-    },
-    {
-      "id": "c022d3dc98d3",
-      "title": "Cuál fue el último equipo que Víctor Manuel Vucetich dirigió en la Liga MX",
-      "summary": "El último equipo que dirigió Víctor Manuel Vucetich en la Liga MX fue Mazatlán FC, donde estuvo de mayo de 2024 a mayo de 2025 y dejó al club en el último lugar, mientras circulan rumores sobre su posible regreso a Tigres.",
-      "category": "deportes",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/20/cual-fue-el-ultimo-equipo-que-victor-manuel-vucetich-dirigio-en-la-liga-mx/",
-      "published_at": "2026-08-20T01:13:40+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo mantiene un tono mayormente descriptivo y neutral, sin vocabulario cargado ni fuentes claramente alineadas a un espectro político; la ligera inclinación percibida es la valoración positiva de la posible vuelta a Tigres.",
-      "focus_analysis": "Se centra en la trayectoria profesional de Vucetich y en los rumores de su contratación por Tigres, dejando de lado el impacto en la afición y la política más amplia del fútbol mexicano.",
-      "focus_tags": [
-        "carrera deportiva",
-        "rumores de contratación",
-        "Liga MX"
-      ],
-      "context": [
-        {
-          "label": "Cobertura de El Universal",
-          "text": "Otro medio, El Universal, resaltó la cercanía de Vucetich a asumir la dirección técnica de Tigres, subrayando su experiencia y vínculo histórico con el club."
-        },
-        {
-          "label": "Rendimiento de Mazatlán FC",
-          "text": "Durante la etapa de Vucetich, Mazatlán FC terminó último último lugar de la tabla de cocientes en la temporada 2024‑2025 y recibió la multa más alta por ese motivo."
-        },
-        {
-          "label": "Situación de Tigres",
-          "text": "Tigres busca un nuevo director técnico tras la salida de Guido Pizarro, y Vucetich es una de las opciones que la directiva está evaluando."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
-    },
-    {
-      "id": "1e5e43369538",
-      "title": "Jefe de la DEA dice que Argentina es \"modelo\" para la región en combate al narco",
-      "summary": "Terrance \"Terry\" Cole, director de la Administración de Control de Drogas de EE. UU., calificó la estrategia argentina de lucha contra el narcotráfico como un \"modelo para la región\" durante la 40ª Conferencia Internacional para el Control de Drogas en Buenos Aires, donde también participó la ministra de Seguridad Nacional de Argentina, Alejandra Monteoliva.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/jefe-dea-dice-argentina-modelo-region-combate-narco-20260819-829160.html",
-      "published_at": "2026-08-20T01:15:34+00:00",
-      "bias_score": 15,
-      "bias_reason": "El texto emplea un tono elogioso y solo incluye declaraciones de funcionarios estadounidenses y argentinos que resaltan la cooperación, sin presentar críticas ni perspectivas alternativas, lo que refleja una ligera inclinación favorable al gobierno de Milei y a la agenda de seguridad.",
-      "focus_analysis": "El medio se centra en la dimensión institucional y de seguridad, resaltando la cooperación entre la DEA y el gobierno argentino; deja de lado el impacto humano del narcotráfico y los debates económicos sobre la política de drogas.",
-      "focus_tags": [
-        "seguridad",
-        "cooperación internacional",
-        "política de drogas"
-      ],
-      "context": [
-        {
-          "label": "Política interna de Argentina",
-          "text": "Desde la asunción de Javier Milei, el gobierno argentino ha intensificado la lucha contra el narcotráfico con medidas más estrictas y mayor cooperación con agencias extranjeras."
-        },
-        {
-          "label": "Rol histórico de la DEA en América Latina",
-          "text": "La DEA ha mantenido una presencia activa en la región desde la década de 1980, apoyando a gobiernos locales en la erradicación y persecución de organizaciones criminales."
-        },
-        {
-          "label": "Tendencias del narcotráfico en Sudamérica",
-          "text": "Sudamérica sigue siendo la principal fuente de producción de cocaína a nivel mundial, lo que genera desafíos de seguridad y coordinación internacional para los países de la región."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
       }
     }
   ]
