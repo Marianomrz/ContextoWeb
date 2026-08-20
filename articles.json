@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T21:41:04.498939+00:00",
+  "generated_at": "2026-08-20T21:55:52.723096+00:00",
   "articles": [
+    {
+      "id": "7097dbe798b9",
+      "title": "Develan en Metro Auditorio \"Apoteosis\", el mural holográfico más grande del mundo; \"hace de la estación una obra de arte\": Adrián Rubalcava",
+      "summary": "El artista mexicano Federico Kampf presentó “Apoteosis”, el mural holográfico más grande del mundo, en la estación Auditorio de la línea 7 del Metro de la Ciudad de México, con la presencia de la jefa de Gobierno Clara Brugada y la certificación para intentar el récord Guinness.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/metropoli/develan-en-metro-auditorio-apoteosis-el-mural-holografico-mas-grande-del-mundo-hace-de-la-estacion-una-obra-de-arte-adrian-rubalcava/",
+      "published_at": "2026-08-20T21:53:51+00:00",
+      "bias_score": 15,
+      "bias_reason": "El texto usa lenguaje elogioso y destaca la participación de autoridades locales sin incluir voces críticas o contrapuntos, lo que muestra una ligera inclinación favorable al gobierno.",
+      "focus_analysis": "El medio se centró en el valor cultural y artístico del mural y su significado simbólico para la ciudad, dejando de lado aspectos económicos o de movilidad del transporte público.",
+      "focus_tags": [
+        "cultura urbana",
+        "arte público",
+        "infraestructura"
+      ],
+      "context": [
+        {
+          "label": "Renovación de la estación",
+          "text": "La estación Auditorio había iniciado obras de remodelación en diciembre y reanudó su servicio en mayo, aunque algunos accesos seguían en construcción al momento del anuncio."
+        },
+        {
+          "label": "Tradición de arte en el Metro",
+          "text": "El Metro de la Ciudad de México celebra su 57.º aniversario y tiene una larga tradición de incorporar obras de arte público en sus estaciones, lo que refuerza la identidad cultural de la capital."
+        },
+        {
+          "label": "Récord Guinness",
+          "text": "El intento de registrar el mural como el más grande del mundo sigue la práctica de la Ciudad de México de buscar reconocimiento internacional mediante récords Guinness en diferentes proyectos."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "060f41cd16f9",
       "title": "Brian Hickerson reacciona a la muerte de Hayden Panettiere en medio de la investigación",
@@ -958,41 +990,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.4
-      }
-    },
-    {
-      "id": "1eac5dd81616",
-      "title": "“No quiero que mi legado quede reducido a títulos o estadísticas”, la reflexión de Novak Djokovic sobre su futuro",
-      "summary": "El tenista serbio Novak Djokovic, de 39 años, habla sobre su legado más allá de los títulos y las estadísticas, enfatizando la importancia de la familia y contemplando su futuro dentro y fuera del tenis.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/20/no-quiero-que-mi-legado-quede-reducido-a-titulos-o-estadisticas-la-reflexion-de-novak-djokovic-sobre-su-futuro/",
-      "published_at": "2026-08-20T09:00:01+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono neutro y descriptivo, sin palabras cargadas ni selección de fuentes que favorezcan una posición política; se centra en la perspectiva personal del deportista.",
-      "focus_analysis": "El medio optó por un ángulo humano y familiar, resaltando los valores personales y la vida privada de Djokovic, mientras dejó de lado el análisis de su rendimiento deportivo y su posición en los rankings.",
-      "focus_tags": [
-        "familia",
-        "legado personal",
-        "carrera deportiva"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria deportiva",
-          "text": "Novak Djokovic es uno de los tenistas más laureados de la historia, con más de veinte títulos de Grand Slam y una larga permanencia en la cima del ranking mundial."
-        },
-        {
-          "label": "Infancia en Serbia",
-          "text": "Creció durante la guerra y la crisis económica en Serbia, lo que según él forjó su carácter y su resiliencia desde temprana edad."
-        },
-        {
-          "label": "Tendencia de atletas veteranos",
-          "text": "Es frecuente que deportistas de larga trayectoria, como Roger Federer o Serena Williams, prioricen la familia y proyectos fuera del deporte al acercarse al final de sus carreras."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]

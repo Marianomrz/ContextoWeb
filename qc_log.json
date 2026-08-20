@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:59:44.665677+00:00",
-      "title": "¿Quiénes son los nuevos nominados de \"La casa de los famosos México\"?; así fue la cuarta gala de nom",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información veraz, actual y estructurada, aunque podría incluir más fuentes para reforzar la precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:59:54.292779+00:00",
       "title": "Nadie escapa de Widow’s Bay",
       "kind": "noticia",
@@ -3272,6 +3255,17 @@
     {
       "at": "2026-08-20T21:37:06.031990+00:00",
       "title": "Brian Hickerson reacciona a la muerte de Hayden Panettiere en medio de la investigación",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T21:55:26.039157+00:00",
+      "title": "Develan en Metro Auditorio \"Apoteosis\", el mural holográfico más grande del mundo; \"hace de la estac",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,
