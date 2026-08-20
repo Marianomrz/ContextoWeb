@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T10:41:09.746218+00:00",
+  "generated_at": "2026-08-20T10:59:20.965752+00:00",
   "articles": [
+    {
+      "id": "674c0bf0aecd",
+      "title": "\"Un hijo propio\": cuando ser madre es un mandato",
+      "summary": "El documental mexicano \"Un hijo propio\" de la directora chilena Maite Alberdi, disponible en Netflix, revisita el caso de Eleonor Alejandra Marín, quien en 2009 robó a una recién nacida para simular una maternidad, y lo utiliza para denunciar la presión social y mediática que enfrentan las mujeres respecto a la maternidad.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/un-hijo-propio-cuando-ser-madre-es-un-mandato/",
+      "published_at": "2026-08-20T10:54:25+00:00",
+      "bias_score": -40,
+      "bias_reason": "El texto emplea un lenguaje crítico con la prensa y con los roles tradicionales de género, citando a la directora y a la actriz que resaltan la necesidad de autonomía femenina, sin presentar voces contrarias ni un enfoque neutral.",
+      "focus_analysis": "El medio se centra en el ángulo de género y la crítica a la presión social sobre la maternidad, dejando de lado los aspectos legales del caso y la perspectiva de la víctima.",
+      "focus_tags": [
+        "género",
+        "maternidad",
+        "presión social"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "En 2009, Eleonor Alejandra Marín, una trabajadora administrativa del Hospital General de México, fingió estar embarazada y sust una recién nacida para presentarla como su hija; fue detenida y la niña fue recuperada sana."
+        },
+        {
+          "label": "dato comparable",
+          "text": "El documental \"Un hijo propio\", dirigido por la cineasta chilena Maite Alberdi, combina testimonios reales con dramatizaciones y se lanzó en Netflix el 13 de agosto de 2026, abordando la presión de la maternidad en la sociedad latinoamericana."
+        },
+        {
+          "label": "postura de otro actor",
+          "text": "En redes sociales ha crecido la tendencia de las \"trad wives\", creadoras de contenido que promueven roles tradicionales de esposa y madre, lo que, según la actriz Ana Celeste Montalvo, intensifica la presión sobre las mujeres para cumplir con expectativas tradicionales."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "9eada928ae90",
       "title": "A Facebook cada vez se le está poniendo más cara de Marlboro en los años 70",
@@ -1007,41 +1039,6 @@
         {
           "label": "industry",
           "text": "Los reality‑shows de competencia en México suelen generar gran interacción en redes y son un punto de referencia para la programación de entretenimiento dominical de las cadenas de televisión."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
-    },
-    {
-      "id": "a18bfa7e5267",
-      "title": "Si tienes mala visión, Google acaba de solucionarte la vida con esta mejora (a tus padres y abuelos también)",
-      "summary": "Google ha añadido una función al teclado de Android que permite ajustar el tamaño de los emojis, facilitando su uso a personas con problemas de visión y a cualquier usuario que prefiera iconos más grandes.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/tecnologia/si-tienes-mala-vision-google-acaba-de-solucionarte-la-vida-con-esta-mejora-a-tus-padres-y-abuelos-tambien/",
-      "published_at": "2026-08-20T08:39:00+00:00",
-      "bias_score": 10,
-      "bias_reason": "El artículo emplea un tono entusiasta y solo resalta los beneficios de la nueva función, sin mencionar posibles limitaciones o críticas, lo que muestra una ligera inclinación favorable hacia la empresa.",
-      "focus_analysis": "El medio se centra en la mejora tecnológica y la accesibilidad visual, dejando de lado aspectos como la privacidad del teclado o la comparación con otras soluciones de accesibilidad.",
-      "focus_tags": [
-        "accesibilidad digital",
-        "emoji ampliado",
-        "teclado Android"
-      ],
-      "context": [
-        {
-          "label": "Accesibilidad en Android",
-          "text": "Android incluye desde hace años opciones de texto ampliado y lector de pantalla, pero los emojis siempre han mantenido un tamaño fijo, lo que dificultaba su identificación a usuarios con baja visión."
-        },
-        {
-          "label": "Respuesta de Apple",
-          "text": "Apple introdujo recientemente la posibilidad de cambiar el tamaño de los emojis en iOS, aunque la función está limitada a la vista del teclado y no permite reducir la cantidad de emojis mostrados por panel."
-        },
-        {
-          "label": "Prevalencia de la baja visión",
-          "text": "Según la Organización Mundial de la Salud, alrededor del 2 % de la población mundial su una discapacidad visual que dificulta la lectura de pequeños iconos en dispositivos móviles."
         }
       ],
       "confidence": "alta",
