@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:21:11.628009+00:00",
-      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene información actual y bien estructurada, pero la veracidad de los detalles y la objetividad del contenido son limitadas; se recomienda reforzar fuentes verificables y equilibrar la presentación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T05:39:15.214955+00:00",
-      "title": "Hormiga González al Olympiacos: cómo le ha ido a los jugadores mexicanos que han llegado al club gri",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete muestra buena estructura y neutralidad, pero contiene datos inexactos que requieren verificación antes de publicar.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:39:18.172494+00:00",
       "title": "¿Quiénes son los nuevos nominados de \"La casa de los famosos México\"?; así fue la cuarta gala de nom",
       "kind": "noticia",
@@ -3352,6 +3318,34 @@
       "title": "Guanajuato y Querétaro buscan atraer turismo de reuniones",
       "kind": "noticia",
       "category": "economia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T14:41:10.246782+00:00",
+      "title": "Sheinbaum defiende abstención de México en la OEA sobre Nicaragua: “es un tema de autodeterminación”",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y bien estructurado, pero le falta contraste de fuentes y una mayor objetividad en la cobertura.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T14:41:11.980840+00:00",
+      "title": "Estremecedora revelación del futbolista Jonathan Gómez sobre su adicción al juego: “Perdí todo, mi f",
+      "kind": "noticia",
+      "category": "deportes",
       "approved": true,
       "overall": null,
       "scores": {},
