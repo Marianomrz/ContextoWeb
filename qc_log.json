@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:59:12.717598+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 19 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, presentando información reciente, bien estructurada y con contraste de fuentes, aunque la verificación externa de nombres y datos no es posible. Se recomienda mantener la precisión y ampliar fuentes cuando sea viable.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:59:20.637196+00:00",
       "title": "Revolución en Europa con los 5 fichajes que superaron los 100 millones de dólares en este mercado: e",
       "kind": "noticia",
@@ -3297,6 +3280,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T20:39:01.375455+00:00",
+      "title": "Ríos de memoria: la genealogía de los ecos en la obra de Yaa Gyasi",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza literaria bien estructurada y con suficiente profundidad temática.",
+      "error": null
     }
   ]
 }
