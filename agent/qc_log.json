@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:59:38.063064+00:00",
-      "title": "Inflación en UK repunta a 2.9% anual en julio",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es estructuralmente sólido y objetivo, pero contiene errores verificables y falta de fuentes contrastantes, lo que compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:59:44.665677+00:00",
       "title": "¿Quiénes son los nuevos nominados de \"La casa de los famosos México\"?; así fue la cuarta gala de nom",
       "kind": "noticia",
@@ -3280,6 +3263,17 @@
       "title": "La Suprema Corte niega a los estados hacer leyes sobre la extorsión",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T21:37:06.031990+00:00",
+      "title": "Brian Hickerson reacciona a la muerte de Hayden Panettiere en medio de la investigación",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},

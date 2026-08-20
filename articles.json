@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T21:21:07.171858+00:00",
+  "generated_at": "2026-08-20T21:37:34.232820+00:00",
   "articles": [
+    {
+      "id": "060f41cd16f9",
+      "title": "Brian Hickerson reacciona a la muerte de Hayden Panettiere en medio de la investigación",
+      "summary": "Brian Hickerson, exnovio de la actriz estadounidense Hayden Panettiere, emitió un comunicado a través de su abogado tras la muerte de la artista de 36 años en Greenville, Carolina del Sur, mientras se mantiene una investigación que podría incluir causas criminales.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/brian-hickerson-reacciona-a-la-muerte-de-hayden-panettiere-en-medio-de-la-investigacion/",
+      "published_at": "2026-08-20T21:35:01+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a relatar los hechos y declaraciones oficiales sin usar lenguaje cargado ni favorecer una postura política, aunque incorpora algunos elementos sensacionalistas sobre una posible conducta criminal.",
+      "focus_analysis": "El medio se centró en la reacción del exnovio y en la investigación policial, destacando la posibilidad de un delito, mientras omitió profundizar en la historia personal y de salud de la actriz.",
+      "focus_tags": [
+        "reacción personal",
+        "investigación criminal",
+        "muerte de celebridad"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria y problemas de salud de Hayden Panettiere",
+          "text": "Hayden Panettiere, conocida por papeles en series como \"Grey's Anatomy\" y la película \"Triunfos robados\", había enfrentado adicciones y problemas de salud pública antes de su muerte, según reportes de medios internacionales."
+        },
+        {
+          "label": "Estado de la investigación",
+          "text": "Las autoridades de Greenville, Carolina del Sur, han indicado que no hay indicios claros de delito y están esperando resultados toxicológicos para determinar la causa oficial del fallecimiento."
+        },
+        {
+          "label": "Historial de violencia doméstica",
+          "text": "Previo a su muerte, la relación entre Panettiere y Hickerson estuvo marcada por acusaciones de violencia doméstica y procesos legales, lo que añadió un contexto de tensión a la cobertura."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "ab2218c1f7f6",
       "title": "La Suprema Corte niega a los estados hacer leyes sobre la extorsión",
@@ -961,41 +993,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "3c743d7e751e",
-      "title": "Primero la paria",
-      "summary": "El Economista ofrece una lista de sus últimos artículos bajo el encabezado 'Primero la paria', que incluye piezas sobre ecosistema analógico, solución final, poder de soberanía y otros temas de opinión.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/cartones/primero-paria-20260820-829240.html",
-      "published_at": "2026-08-20T07:58:30+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a enumerar contenidos sin usar lenguaje cargado ni citar fuentes que inclinen la visión política.",
-      "focus_analysis": "El medio se concentra en presentar un compendio de piezas de opinión, dejando de lado el análisis profundo de cada tema y cualquier contexto político o económico.",
-      "focus_tags": [
-        "lista de artículos",
-        "opinión",
-        "cultura digital"
-      ],
-      "context": [
-        {
-          "label": "Perfil del medio",
-          "text": "El Economista es un periódico español especializado en economía, finanzas y negocios, con una sección de opinión que publica columnas breves y análisis de actualidad."
-        },
-        {
-          "label": "Formato de 'cartones'",
-          "text": "En la publicación, los 'cartones' son columnas cortas que abordan temas variados, desde tecnología hasta política, y suelen aparecer de forma regular bajo títulos creativos."
-        },
-        {
-          "label": "Uso del término 'paria'",
-          "text": "El término 'paria' aparece como un mote recurrente en algunos columnas del medio, similar a otros diarios que utilizan apodos o secciones temáticas para identificar series de artículos."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]
