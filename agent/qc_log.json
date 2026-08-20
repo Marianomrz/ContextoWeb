@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:39:46.352064+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta problemas de veracidad y falta de fuentes contrastantes, aunque está bien estructurado y es reciente.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:39:53.329901+00:00",
       "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
       "kind": "noticia",
@@ -3333,6 +3316,17 @@
       },
       "observacion": "El paquete cumple con los estándares de precisión y objetividad, aunque podría mejorarse con fuentes más múltiples.",
       "error": null
+    },
+    {
+      "at": "2026-08-20T18:20:47.113083+00:00",
+      "title": "Pepe Salinas y Eduardo Figueroa ganan Copa Jerez México 2026 y van por el título internacional",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
