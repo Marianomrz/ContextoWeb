@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T15:42:56.018372+00:00",
+  "generated_at": "2026-08-20T16:05:54.325513+00:00",
   "articles": [
+    {
+      "id": "701f1f3531ca",
+      "title": "Sheinbaum reacciona a la detención de Fausto Corrales",
+      "summary": "La presidenta de México, Claudia Sheinbaum Pardo, calificó de \"relevante\" la detención de Fausto Corrales Rodríguez, quien acompañó a Héctor Melesio Cuén Ojeda en una reunión con el narcotraficante Ismael \"El Mayo\" Zambada, y afirmó que la captura ayudará a esclarecer el caso.",
+      "category": "politica",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/sheinbaum-reacciona-a-la-detencion-de-fausto-corrales-20260820-0069.html",
+      "published_at": "2026-08-20T16:03:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a reproducir declaraciones oficiales y datos de la FGR sin usar vocabulario cargado ni presentar opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en la reacción institucional de la presidenta y en la investigación legal, dejando fuera detalles sobre la magnitud del narcotráfico o el impacto humano del crimen.",
+      "focus_tags": [
+        "política mexicana",
+        "seguridad",
+        "detención"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Fausto Corrales Rodríguez ha sido señalado como colaborador de Héctor Melesio Cuén Ojeda, quien fue asesinado en una reunión con el líder del cártel Sinaloa, Ismael \"El Mayo\" Zambada, en la finca Huertos del Pedregal."
+        },
+        {
+          "label": "political_context",
+          "text": "Claudia Sheinbaum Pardo, presidenta de México, utiliza la conferencia matutina \"La Mañanera\" para comunicar decisiones y respuestas a eventos de seguridad nacional."
+        },
+        {
+          "label": "media_comparison",
+          "text": "Otros medios, como Infobae, incluyeron la detención dentro de una agenda más amplia que también cubría temas como la OEA y la Olinia de carga, mostrando que la noticia se presentó como parte de un conjunto de asuntos de relevancia nacional."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "0217c3d87314",
       "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy jueves 20 de agosto: Olinia de carga, votación de la OEA, detención de Fausto Corrales, entre lo relevante",
@@ -988,41 +1020,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "482a86eae16b",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de la playa de El Trampolín y su traslado a dos espacios habilitados",
-      "summary": "El presidente de la comunidad autónoma de Andalucía, Juan Manuel Moreno, viajó a Ceuta para supervisar el desalojo de migrantes de la playa de El Trampolín y su traslado a dos centros de acogida.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-20T08:59:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin calificativos cargados ni fuentes partidistas, centrado en los hechos del desalojo y la visita del presidente regional.",
-      "focus_analysis": "El medio se enfocó en el aspecto institucional y humanitario del operativo de desalojo, dejando de lado el debate político sobre la política migratoria y la presión de la UE.",
-      "focus_tags": [
-        "inmigración",
-        "desalojo",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de migración en Ceuta",
-          "text": "Ceuta, enclave español en el norte de África, ha visto oleadas de llegadas masivas de migrantes que cruzan la valla fronteriza, con miles de personas intentando llegar por mar en los últimos meses."
-        },
-        {
-          "label": "Respuesta de autoridades españolas",
-          "text": "El Gobierno español ha puesto en marcha operativos de desalojo y traslado de los migrantes a centros de acogida, incluyendo la reciente evacuación de la playa de El Trampolín y la reubicación de niños y niñas, según informes de medios europeos."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Euronews resaltó el traslado urgente de 500 niñas migrantes desde Ceuta, mientras que France24 subrayó que cerca de 80 000 personas habían llegado nadando desde Marruecos este verano, poniendo énfasis en la dimensión humana de la crisis."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]

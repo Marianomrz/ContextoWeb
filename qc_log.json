@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:39:29.481125+00:00",
-      "title": "Ataques rusos matan a 6 personas en Kiev y zona circundante",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y está bien estructurado, pero su falta de fuentes contrapuestas y el uso de lenguaje parcial lo hacen insuficiente para cumplir plenamente con los estándares de objetividad y contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:39:35.590491+00:00",
       "title": "Tigre perdió 2-1 con Montevideo City Torque y quedó eliminado en los octavos de final de la Sudameri",
       "kind": "noticia",
@@ -3332,6 +3315,17 @@
     {
       "at": "2026-08-20T15:20:40.583512+00:00",
       "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy jueves 20 de agosto: Olinia de carga, votación de",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T16:05:26.166094+00:00",
+      "title": "Sheinbaum reacciona a la detención de Fausto Corrales",
       "kind": "noticia",
       "category": "politica",
       "approved": true,
