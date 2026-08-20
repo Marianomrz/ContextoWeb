@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:39:18.172494+00:00",
-      "title": "¿Quiénes son los nuevos nominados de \"La casa de los famosos México\"?; así fue la cuarta gala de nom",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presentando información veraz, reciente y estructurada de manera objetiva.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:39:23.576796+00:00",
       "title": "En I Sem. aseguradoras cubrieron 42% de las pérdidas económicas por catástrofes",
       "kind": "noticia",
@@ -3346,6 +3329,17 @@
       "title": "Estremecedora revelación del futbolista Jonathan Gómez sobre su adicción al juego: “Perdí todo, mi f",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T15:01:12.287233+00:00",
+      "title": "Fovissste acuerda gratuidad de escrituras para acreditados en Michoacán",
+      "kind": "noticia",
+      "category": "economia",
       "approved": true,
       "overall": null,
       "scores": {},
