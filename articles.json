@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T21:01:12.331510+00:00",
+  "generated_at": "2026-08-20T21:21:07.171858+00:00",
   "articles": [
+    {
+      "id": "ab2218c1f7f6",
+      "title": "La Suprema Corte niega a los estados hacer leyes sobre la extorsión",
+      "summary": "La Suprema Corte de Justicia de la Nación de México declaró inconstitucionales los intentos de los estados de Tabasco y Baja California Sur de crear leyes locales sobre extorsión, confirmando que solo el Congreso de la Unión puede legislar en esa materia según la reforma constitucional de 2025.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/20/la-suprema-corte-niega-a-los-estados-hacer-leyes-sobre-la-extorsion/",
+      "published_at": "2026-08-20T21:20:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir la decisión judicial y el marco legal sin usar lenguaje cargado ni favorecer a alguna posición política, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El artículo se centra en el ángulo institucional y jurídico, destacando la competencia del poder federal y la decisión de la SCJN, mientras omite el impacto humano de la extorsión y los datos de criminalidad.",
+      "focus_tags": [
+        "jurisdicción penal",
+        "reforma constitucional",
+        "extorsión"
+      ],
+      "context": [
+        {
+          "label": "Antecedente legal",
+          "text": "En 2025 se aprobó una reforma constitucional y la Ley General para prevenir, investigar y sancionar la extorsión, que asignó al Congreso de la Unión la autoridad exclusiva para definir los tipos penales y sanciones en este delito."
+        },
+        {
+          "label": "Postura estatal",
+          "text": "Los congresos locales de Tabasco y Baja California Sur intentaron legislar sobre la extorsión mediante normas propias, pero la SCJN invalidó esas disposiciones al considerar que vulneraban la distribución de competencias establecida por la reforma constitucional."
+        },
+        {
+          "label": "Impacto social",
+          "text": "La extorsión es uno de los delitos más graves en México, afectando a empresas y ciudadanos y generando una demanda de respuestas legales más efectivas a nivel federal."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "d1c262c10ef5",
       "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 20 de agosto: continúa el bloqueo en la carretera México-Pachuca",
@@ -964,41 +996,6 @@
       "confidence": "baja",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "482a86eae16b",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de la playa de El Trampolín y su traslado a dos espacios habilitados",
-      "summary": "Las fuerzas de seguridad de la ciudad autónoma de Ceuta comenzaron este lunes el desalojo del campamento de la playa del Trampolín, trasladando a unos 1 200 migrantes subsaharianos a un recinto militar y a los magrebíes a otro espacio habilitado, mientras el Gobierno central critica la propuesta del Partido Popular de devolver a todos los cruzados.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-20T09:35:17+00:00",
-      "bias_score": -30,
-      "bias_reason": "El artículo emplea calificativos negativos hacia el PP, como “una ilegalidad”, y se apoya mayormente en declaraciones del Gobierno y de ministros, sin presentar la posición del propio partido, lo que indica un sesgo favorable al gobierno de centro‑izquierda.",
-      "focus_analysis": "El medio prioriza el ángulo institucional y político, describiendo la operación de desalojo y la polémica entre el Gobierno y el PP, dejando de lado la perspectiva humanitaria de los migrantes.",
-      "focus_tags": [
-        "política migratoria",
-        "desalojo",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "antecedentes migratorios",
-          "text": "En julio de 2026, Ceuta registró una oleada masiva de llegadas, con cerca de 80 000 personas cruzando la frontera en pocos días, lo que desencadenó la creación de un campamento en la playa del Trampolín."
-        },
-        {
-          "label": "postura del PP",
-          "text": "El Partido Popular propuso devolver a todos los migrantes que cruzaron la frontera, medida que el Gobierno describió como una “ilegalidad”, según declaraciones del ministro de Hacienda Arcadi España."
-        },
-        {
-          "label": "cobertura de medios",
-          "text": "Otros medios como France24 subrayan la motivación de los migrantes y su esperanza de un futuro en Europa, contrastando con la cobertura de El País que se centra mayormente en la gestión policial y la polémica política."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
