@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T22:41:04.947819+00:00",
+  "generated_at": "2026-08-20T22:57:49.477685+00:00",
   "articles": [
+    {
+      "id": "2c90fe0f1b5d",
+      "title": "Matan a hombre y hieren a mujer  en ataque armado en casa de la colonia Las Heras",
+      "summary": "Un hombre fue asesinado y su esposa herida de un disparo en el pie durante un ataque armado en su vivienda de la colonia Las Heras, en Irapuato, Guanajuato, cuando dos individuos en motocicleta irrumpieron y dispararon.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/irapuato/2026/08/20/matan-a-hombre-y-hieren-a-mujer-en-ataque-armado-en-casa-de-la-colonia-las-heras-1834666.html",
+      "published_at": "2026-08-20T22:56:51+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos con un tono neutro, sin adjetivos cargados ni fuentes con opinión, y solo menciona a la Policía y a la Fiscalía como autoridades involucradas.",
+      "focus_analysis": "El medio se centró en la crónica del hecho violento y la respuesta inmediata de la policía, dejando de lado el contexto de inseguridad o posibles motivaciones del ataque.",
+      "focus_tags": [
+        "violencia",
+        "seguridad pública",
+        "Irapuato"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Irapuato, ciudad del estado de Guanajuato, ha registrado en los últimos años una tasa de homicidios superior al promedio nacional, con episodios de violencia armada que generan preocupación entre sus habitantes."
+        },
+        {
+          "label": "respuesta institucional",
+          "text": "La Policía Municipal de Irapuato suele coordinar con la Agencia de Investigación Criminal de la Fiscalía General del Estado para investigar delitos graves y realizar peritajes forenses."
+        },
+        {
+          "label": "área afectada",
+          "text": "La colonia Las Heras es una zona residencial ubicada en la zona sur de Irapuato, conocida por su densidad poblacional y la presencia de viviendas unifamiliares."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "7666cec20035",
       "title": "Termina destrozada camioneta BMW tras chocar en la carretera Silao-Irapuato",
@@ -952,41 +984,6 @@
       "confidence": "baja",
       "qc": {
         "overall": 7.8
-      }
-    },
-    {
-      "id": "cbd8e0e7cfe9",
-      "title": "Reemplacamiento Edomex 2026: Este es el plazo para obtener beneficios fiscales donde no habrá prórroga",
-      "summary": "El Gobierno del Estado de México anunció que el 31 de agosto de 2026 se extinguirán sin prórroga los beneficios fiscales del Programa de Reemplacamiento 2026, instando a los propietarios de vehículos con placas de 2021 y anteriores a regularizar su situación antes de esa fecha.",
-      "category": "economia",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/20/reemplacamiento-edomex-2026-este-es-el-plazo-para-obtener-beneficios-fiscales-donde-no-habra-prorroga/",
-      "published_at": "2026-08-20T09:55:25+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono informativo y descriptivo, sin lenguaje cargado ni selección de fuentes que favorezcan a una posición política.",
-      "focus_analysis": "El medio se centra en el aspecto fiscal y administrativo del programa, explicando los descuentos y trámites, mientras deja de lado el impacto social o ambiental de la renovación de vehículos.",
-      "focus_tags": [
-        "beneficios fiscales",
-        "reemplazamiento vehicular",
-        "plazo 31 agosto"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del programa",
-          "text": "El Programa de Reemplacamiento del Estado de México se lanzó en 2021 para incentivar la sustitución de placas antiguas por nuevas, ofreciendo reducciones de tenencia, refrendo y otros impuestos a los propietarios que regularicen sus vehículos."
-        },
-        {
-          "label": "Comparación con otros estados",
-          "text": "Estados como Jalisco y Nuevo León también implementan esquemas de reemplacamiento con descuentos similares, aunque sus fechas límite y porcentajes de reducción pueden variar."
-        },
-        {
-          "label": "Contexto fiscal nacional",
-          "text": "A nivel federal, el gobierno mexicano ha promovido reformas para simplificar el pago de tenencia y fomentar la formalización del parque vehicular, lo que se refleja en iniciativas locales como la de Edomex."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]

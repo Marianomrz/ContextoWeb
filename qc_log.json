@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:00:03.655879+00:00",
-      "title": "El Supremo y la DGT lo confirmaron hace tiempo: los radares móviles no pueden sancionarte si circula",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, aunque la precisión de algunas referencias legales podría mejorarse.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:00:13.662402+00:00",
       "title": "Volvían en moto tras jugar futbol, los alcanzan y les disparan: hay tres muertos en Irapuato",
       "kind": "noticia",
@@ -3266,6 +3249,17 @@
     {
       "at": "2026-08-20T22:37:16.231713+00:00",
       "title": "Termina destrozada camioneta BMW tras chocar en la carretera Silao-Irapuato",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T22:57:21.616193+00:00",
+      "title": "Matan a hombre y hieren a mujer  en ataque armado en casa de la colonia Las Heras",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,
