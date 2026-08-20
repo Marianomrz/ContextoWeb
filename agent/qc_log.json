@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:40:11.695726+00:00",
-      "title": "Familiares de la pequeña Fátima Cecilia temen liberación de feminicidas; magistrados revisan apelaci",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente preciso y actual, aunque le falta mayor diversidad de fuentes y mayor neutralidad en el tono.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:40:15.676848+00:00",
       "title": "“Crimen organizado debilita a gobiernos”",
       "kind": "noticia",
@@ -3308,6 +3291,17 @@
     {
       "at": "2026-08-20T18:53:09.171499+00:00",
       "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 20 de agosto? Líneas del MB afectadas por manifest",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T19:12:05.850644+00:00",
+      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: inicia la rutina del día, las tensiones",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,
