@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:40:15.676848+00:00",
-      "title": "“Crimen organizado debilita a gobiernos”",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete presenta problemas de veracidad y falta de contraste de fuentes, aunque es reciente y sigue una estructura adecuada.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:40:24.001374+00:00",
       "title": "Trump busca encuentro con Kim Jong-un en medio de tensiones nucleares",
       "kind": "noticia",
@@ -3302,6 +3285,17 @@
     {
       "at": "2026-08-20T19:12:05.850644+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: inicia la rutina del día, las tensiones",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T19:57:39.827631+00:00",
+      "title": "Quién es la hija del “Tío Lako”, líder del CJNG, ubicada entre los detenidos en Michoacán",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,
