@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:39:23.576796+00:00",
-      "title": "En I Sem. aseguradoras cubrieron 42% de las pérdidas económicas por catástrofes",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada del hecho.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:39:29.481125+00:00",
       "title": "Ataques rusos matan a 6 personas en Kiev y zona circundante",
       "kind": "noticia",
@@ -3340,6 +3323,17 @@
       "title": "Fovissste acuerda gratuidad de escrituras para acreditados en Michoacán",
       "kind": "noticia",
       "category": "economia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T15:20:40.583512+00:00",
+      "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy jueves 20 de agosto: Olinia de carga, votación de",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},

@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-20T15:07:33.454004+00:00",
+  "generated_at": "2026-08-20T15:21:06.681992+00:00",
   "articles": [
+    {
+      "id": "0217c3d87314",
+      "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy jueves 20 de agosto: Olinia de carga, votación de la OEA, detención de Fausto Corrales, entre lo relevante",
+      "summary": "La presidenta de México, Claudia Sheinbaum, anunció el segundo modelo del vehículo eléctrico Olinia Carga, explicó la abstención de México en la votación de la OEA sobre Nicaragua y señaló que la Fiscalía General de la República informará sobre la detención del testigo Fausto Corrales en el caso del secuestro de \"El Mayo\".",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/20/en-vivo-la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-jueves-20-de-agosto/",
+      "published_at": "2026-08-20T15:16:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono descriptivo y neutro, sin adjetivos cargados ni selección sesgada de fuentes; presenta varios temas sin favorecer explícitamente a ninguna posición política.",
+      "focus_analysis": "El medio se centra en la agenda institucional de la presidenta, resaltando decisiones de política pública y eventos oficiales, mientras que el impacto humano de la detención de Corrales recibe menor atención.",
+      "focus_tags": [
+        "política mexicana",
+        "tecnología automotriz",
+        "relaciones internacionales"
+      ],
+      "context": [
+        {
+          "label": "Política de movilidad eléctrica",
+          "text": "El lanzamiento de Olinia Carga forma parte de la estrategia nacional para impulsar la industria de vehículos eléctricos, con metas de producción de 10 mil unidades el primer año y 50 mil anuales, y se espera su comercialización a finales de 2027."
+        },
+        {
+          "label": "Postura de México en la OEA",
+          "text": "México se abstuvo en la votación de la Organización de los Estados Americanos sobre Nicaragua, citando principios constitucionales de autodeterminación y no intervención, posición respaldada por el representante Alejandro Encinas."
+        },
+        {
+          "label": "Caso Fausto Corrales",
+          "text": "La detención del testigo Fausto Corrales, involucrado en la investigación del secuestro de \"El Mayo\", fue considerada relevante por la presidenta para esclarecer hechos del caso, según la Fiscalía General de la República."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "ff2d55a4a27e",
       "title": "Fovissste acuerda gratuidad de escrituras para acreditados en Michoacán",
@@ -991,41 +1023,6 @@
       "confidence": "baja",
       "qc": {
         "overall": 8.4
-      }
-    },
-    {
-      "id": "1eac5dd81616",
-      "title": "“No quiero que mi legado quede reducido a títulos o estadísticas”, la reflexión de Novak Djokovic sobre su futuro",
-      "summary": "El tenista serbio Novak Djokovic, de 39 años, declaró que prefiere que su legado sea recordado por valores familiares y personales más que por sus títulos y estadísticas.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/20/no-quiero-que-mi-legado-quede-reducido-a-titulos-o-estadisticas-la-reflexion-de-novak-djokovic-sobre-su-futuro/",
-      "published_at": "2026-08-20T09:00:01+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto enfatiza aspectos positivos y emocionales del deportista, sin incluir controversias ni fuentes críticas, lo que muestra una ligera inclinación favorable.",
-      "focus_analysis": "El medio se centra en el aspecto humano y familiar de Djokovic, dejando de lado el análisis de su rendimiento deportivo o implicaciones económicas.",
-      "focus_tags": [
-        "familia",
-        "legado",
-        "tenis"
-      ],
-      "context": [
-        {
-          "label": "carrera deportiva",
-          "text": "Novak Djokovic es el tenista con más títulos de Grand Slam en la historia del tenis masculino, con 24 majors y numerosos récords de semanas como número uno del mundo."
-        },
-        {
-          "label": "vida personal",
-          "text": "En entrevistas anteriores, Djokovic ha hablado de la importancia de su esposa Jelena y sus hijos, y de cómo la paternidad ha influido en su perspectiva sobre el deporte."
-        },
-        {
-          "label": "tendencia de atletas",
-          "text": "Varios deportistas de élite, como Roger Federer y Serena Williams, han señalado la relevancia de la familia y la vida fuera de la competencia al acercarse al final de sus carreras."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
       }
     }
   ]
