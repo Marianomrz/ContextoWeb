@@ -1,159 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-19T23:21:57.880692+00:00",
-      "title": "Quién es Natalie Harp, la mano derecha de Trump que está siempre al lado del presidente de EE.UU.",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la pieza es reciente y sigue la pirámide invertida, contiene varias inexactitudes y falta de fuentes contrastadas, lo que compromete su veracidad y objetividad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:22:05.358114+00:00",
-      "title": "Miguel Borja, nuevo refuerzo del América, ya está en la Ciudad de México",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo cumple con la mayoría de los estándares periodísticos, pero la inexactitud en la edad del jugador requiere corrección antes de su publicación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:22:10.510153+00:00",
-      "title": "La peculiar oferta que recibió Dennis Rodman para volver al mundo del básquet a los 65 años: “Sería ",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete muestra una buena estructura y objetividad, pero la falta de fuentes verificables y contraste de información debilita su credibilidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:22:14.913566+00:00",
-      "title": "Meta AI lanza su app para Mac con una función que preocupa a ChatGPT y Claude",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es informativo y actual, pero presenta sesgo crítico no atribuido que afecta la objetividad; se recomienda suavizar el tono o citar fuentes de valoración.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:31:25.096163+00:00",
-      "title": "Platense empata contra Coquimbo en busca de un pase histórico a los cuartos de la Copa Libertadores",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo presenta buena estructura y objetividad, pero la falta de precisión factual y de fuentes contrastadas compromete su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:31:35.951462+00:00",
-      "title": "Ex jefe de Checo Pérez habría intentado frenar su llegada a Cadillac, según Memo Rojas",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero presenta problemas de precisión y carece de fuentes contrastadas, lo que afecta su fiabilidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:31:51.592314+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es actual y sigue una estructura razonable, pero su falta de verificación factual y de fuentes múltiples reduce su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:32:00.151845+00:00",
-      "title": "No es tu Internet, sitio del Gobierno de México está inhabilitado; \"en 25 minutos quedarán\", explica",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información precisa, actual y estructurada, con solo una ligera incertidumbre sobre la verificación de la duración exacta de la restauración.",
-      "error": null
-    },
-    {
-      "at": "2026-08-19T23:32:10.299944+00:00",
-      "title": "Fracasa una misión de la NASA para rescatar un telescopio espacial",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "Aunque la estructura y la objetividad son adecuadas, la información es mayormente falsa y carece de fuentes contrastadas, lo que compromete la calidad editorial del artículo.",
-      "error": null
-    },
-    {
       "at": "2026-08-19T23:32:20.439172+00:00",
       "title": "El jefe de Inteligencia de Ecuador y un directivo de 'Telemundo', entre los muertos de un accidente ",
       "kind": "noticia",
@@ -3398,6 +3245,159 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple bien con la estructura y la objetividad, pero la ausencia de fuentes oficiales disminuye la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:09:40.761952+00:00",
+      "title": "Cuando la luz del faro se vuelve sombra: la poesía de Rumi en el desierto del tiempo",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "originalidad_creatividad": 7,
+        "riqueza_estilo": 8,
+        "estructura_narrativa": 7,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza original y bien estructurada que explora la condición humana con una voz cálida y una estética cuidada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:09:48.530904+00:00",
+      "title": "Rescatan a dos pescadores chiapanecos tras seis días a la deriva en el Pacífico",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; presenta datos precisos, está actualizado y sigue la estructura de pirámide invertida, pese a un ligero sesgo institucional.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:09:57.037536+00:00",
+      "title": "Lionel Messi recupera el gol: anota y asiste en empate del Inter Miami ante el Union",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es objetivo, pero la falta de precisión en un dato clave (el gol tras la muerte del padre) afecta gravemente su veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:10:05.143266+00:00",
+      "title": "Tigre perdió 2-1 con Montevideo City Torque y quedó eliminado en los octavos de final de la Sudameri",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y estructura, siendo una nota informativa de calidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:10:13.555983+00:00",
+      "title": "ASICS: “traemos pilares de crecimiento en México”",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando la información de forma clara, reciente y objetiva, aunque podría reforzar la precisión con datos cuantitativos y citas específicas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:10:29.260178+00:00",
+      "title": "Nadie escapa de Widow’s Bay",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete cumple con la estructura y la actualidad, pero la falta de verificación de datos y la ausencia de fuentes contrastadas reducen su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:10:35.596071+00:00",
+      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido y actual, aunque le falta mayor profundidad y equilibrio en la presentación de la información.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:10:42.223393+00:00",
+      "title": "La Casa de los Famosos hoy 19 de agosto: comienza la pre gala de miércoles",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información precisa, actual y estructurada, aunque podría enriquecer la cobertura con fuentes complementarias.",
+      "error": null
+    },
+    {
+      "at": "2026-08-20T04:10:53.041966+00:00",
+      "title": "\"Aporta a la historia del Chapo\"; De Mauleón, hoy en Con los de Casa",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información precisa y objetiva, bien estructurada y actual.",
       "error": null
     }
   ]
