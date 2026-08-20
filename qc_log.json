@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:39:53.329901+00:00",
-      "title": "Google regala un año completo de Google AI Plus si cumples este requisito",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "Aunque la nota es actual y está bien estructurada, su falta de verificación, fuentes limitadas y tono claramente promocional comprometen su objetividad y credibilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T05:40:01.354586+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 19 de agosto: la cuarta Gala de Nominación deja a 9 h",
       "kind": "noticia",
@@ -3322,6 +3305,17 @@
       "title": "Pepe Salinas y Eduardo Figueroa ganan Copa Jerez México 2026 y van por el título internacional",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T18:40:52.247162+00:00",
+      "title": "Olinia Carga llegará en 2027",
+      "kind": "noticia",
+      "category": "tecnologia",
       "approved": true,
       "overall": null,
       "scores": {},
