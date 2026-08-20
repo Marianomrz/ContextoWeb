@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T05:59:54.292779+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    },
-    {
       "at": "2026-08-20T06:00:03.655879+00:00",
       "title": "El Supremo y la DGT lo confirmaron hace tiempo: los radares móviles no pueden sancionarte si circula",
       "kind": "noticia",
@@ -3266,6 +3255,17 @@
     {
       "at": "2026-08-20T21:55:26.039157+00:00",
       "title": "Develan en Metro Auditorio \"Apoteosis\", el mural holográfico más grande del mundo; \"hace de la estac",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-20T22:37:16.231713+00:00",
+      "title": "Termina destrozada camioneta BMW tras chocar en la carretera Silao-Irapuato",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,
