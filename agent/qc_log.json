@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:00:22.374292+00:00",
-      "title": "Tigre perdió 2-1 con Montevideo City Torque y quedó eliminado en los octavos de final de la Sudameri",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, ofreciendo información veraz, reciente y estructurada de forma clara.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:20:41.995224+00:00",
       "title": "El eco de un cuenco roto: descubriendo a Sadeq Hedayat",
       "kind": "literatura",
@@ -3261,6 +3244,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T06:45:15.619486+00:00",
+      "title": "Bajo la luz de una lámpara de aceite: la voz de Clarice Lispector",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "originalidad_creatividad": 6,
+        "riqueza_estilo": 6,
+        "estructura_narrativa": 7,
+        "voz_autor": 8,
+        "profundidad_tematica": 7
+      },
+      "observacion": "El texto cumple con los estándares editoriales, muestra una voz adecuada y profundidad temática, sin infracciones de derechos de autor.",
+      "error": null
     }
   ]
 }
