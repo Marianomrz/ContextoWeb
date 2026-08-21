@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T09:25:21.420667+00:00",
+  "generated_at": "2026-08-21T09:41:05.782794+00:00",
   "articles": [
+    {
+      "id": "51bbc4a9522c",
+      "title": "Bilbao se ha marcado un Alemania: prohibido pagar con Bizum o tarjeta en la Aste Nagusia",
+      "summary": "Bilbao ha decidido que en la Aste Nagusia, su fiesta mayor, solo se aceptará efectivo, prohibiendo el uso de Bizum, tarjetas o códigos QR, bajo el argumento de evitar comisiones bancarias, problemas de cobertura móvil y cumplir con la normativa fiscal TicketBAI.",
+      "category": "sociedad",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/magnet/bilbao-se-ha-marcado-alemania-prohibido-pagar-bizum-tarjeta-aste-nagusia",
+      "published_at": "2026-08-21T09:31:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos y los argumentos de los organizadores sin usar vocabulario cargado ni favorecer una postura política o tecnológica.",
+      "focus_analysis": "El artículo se centra en la tradición y la lógica fiscal de la fiesta, dejando de lado el debate sobre la inclusión digital y la modernización de los sistemas de pago.",
+      "focus_tags": [
+        "cultura local",
+        "pagos en efectivo",
+        "fiesta tradicional"
+      ],
+      "context": [
+        {
+          "label": "Historia de la Aste Nagusia",
+          "text": "La Aste Nagusia es la Semana Grande de Bilbao, celebrada desde 1978 con más de 500 actividades gratuitas y cientos de miles de asistentes cada edición."
+        },
+        {
+          "label": "Normativa TicketBAI",
+          "text": "Desde 2019, la Norma Foral 4/2019 obliga a las casetas de la Aste Nagusia a emitir facturas electrónicas y a registrar sus ingresos bajo el sistema TicketBAI, que controla la fiscalidad de entidades que facturen más de 50.000 euros en nueve días."
+        },
+        {
+          "label": "Resistencia al pago digital en Europa",
+          "text": "Al igual que en Alemania, el sur de Italia, Polonia y Japón, algunas festividades y locales siguen prefiriendo el efectivo por motivos de privacidad, tradición y problemas de infraestructura."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "215e9e600cdb",
       "title": "Llega a México Fernando Farías Laguna, excontralmirante de la Marina acusado de liderar red de huachicol fiscal",
@@ -939,41 +971,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "92eb95cc7534",
-      "title": "CDMX prevé plantar un millón de árboles en banquetas para 2030",
-      "summary": "La administración de la Ciudad de México, encabezada por la jefa de Gobierno Clara Brugada, lanzó un programa de reforestación urbana que busca plantar un millón de árboles nativos en banquetas y espacios públicos antes de 2030, con una meta inicial de 100 mil árboles este año y la participación de escuelas y vecinos.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/cdmx-preve-plantar-un-millon-de-arboles-en-banquetas-para-2030/",
-      "published_at": "2026-08-20T09:13:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el plan y sus metas con un tono informativo y sin uso de vocabulario cargado o fuentes partidistas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se concentra en el aspecto ambiental y de planificación urbana, destacando los beneficios climáticos y la participación ciudadana, mientras omite cualquier discusión sobre costos, posibles controversias políticas o críticas a la gestión.",
-      "focus_tags": [
-        "reforestación urbana",
-        "cambio climático",
-        "participación ciudadana"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de cobertura verde en la CDMX",
-          "text": "La Ciudad de México ha mantenido históricamente una baja cobertura arbórea en comparación con otras capitales, lo que ha motivado iniciativas previas de aumento de áreas verdes."
-        },
-        {
-          "label": "Regla internacional 3-30-300",
-          "text": "El objetivo de que cada habitante vea al menos tres árboles desde su vivienda, que el 30 % del territorio de cada colonia esté cubierto por árboles y que exista un espacio verde de 300 m para cada ciudadano es una directriz adoptada por varias ciudades para mejorar la calidad del aire y el bienestar."
-        },
-        {
-          "label": "Ejemplos de programas similares en la región",
-          "text": "Ciudades como São Paulo y Buenos Aires han implementado planes de plantación masiva de árboles en áreas públicas, sirviendo como referencia para la estrategia de la CDMX."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
     }
   ]
 }

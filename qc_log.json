@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:21:00.967305+00:00",
-      "title": "El mejor adaptador inalámbrico para Android Auto, el Motorola Drive MA2, está de oferta en Amazon a ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en general con los estándares editoriales, aunque podría mejorar la verificación de datos de precio y proporcionar fuentes más explícitas para los descuentos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:21:08.038611+00:00",
       "title": "La Casa de los Famosos México 2026: quiénes son los nominados de la cuarta semana",
       "kind": "noticia",
@@ -3238,6 +3221,17 @@
       "title": "Llega a México Fernando Farías Laguna, excontralmirante de la Marina acusado de liderar red de huach",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T09:40:50.166489+00:00",
+      "title": "Bilbao se ha marcado un Alemania: prohibido pagar con Bizum o tarjeta en la Aste Nagusia",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
