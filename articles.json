@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T11:41:06.284281+00:00",
+  "generated_at": "2026-08-21T11:55:19.456995+00:00",
   "articles": [
+    {
+      "id": "1493bcd6c317",
+      "title": "En la única práctica del GP de Países Bajos, Franco Colapinto quedó 13° en una sesión con noticias alentadoras para Alpine",
+      "summary": "El piloto argentino Franco Colapinto, de Alpine, quedó 13.º en la única sesión de entrenamientos del Gran Premio de Países Bajos, señalando una mejora alentadora tras las actualizaciones del coche.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/21/franco-colapinto-afronta-la-practica-libre-y-la-clasificacion-de-la-sprint-del-gp-de-paises-bajos-hora-tv-y-todo-lo-que-hay-que-saber/",
+      "published_at": "2026-08-21T11:51:52+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto destaca positivamente al piloto argentino y a Alpine, usando expresiones como “buena noticia para el argentino”, lo que indica un leve sesgo nacionalista sin carga política.",
+      "focus_analysis": "El medio se centra en el desempeño técnico del piloto y del equipo Alpine durante la práctica, resaltando las mejoras del coche, mientras deja de lado el contexto del campeonato y la comparación con otros equipos.",
+      "focus_tags": [
+        "Fórmula 1",
+        "Alpine",
+        "Gran Premio de Países Bajos"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del piloto",
+          "text": "Franco Colapinto es un joven piloto argentino que debutó en Fórmula 1 en 2025 con el equipo Alpine, mostrando progresos constantes en su segunda temporada."
+        },
+        {
+          "label": "Situación del equipo Alpine",
+          "text": "Alpine ha tenido una temporada irregular en 2026, con varios cambios de componentes para mejorar el rendimiento y buscar puntos en el campeonato."
+        },
+        {
+          "label": "Importancia del GP de Países Bajos",
+          "text": "El Gran Premio de Países Bajos en Zandvoort es una de las carreras clave del calendario, donde la única sesión de práctica suele ser decisiva para afinar la estrategia de los equipos."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "9133cac4fd70",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Infancia confía en trasladar a las niñas “en pocas semanas” pero admite que no ha enviado aún una propuesta concreta a Ceuta",
@@ -942,38 +974,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "3f622c9528f9",
-      "title": "Sonora detecta el primer caso de gusano barrenador en el estado; activa protocolos de vigilancia",
-      "summary": "El gobierno del estado mexicano de Sonora, bajo la dirección del gobernador Alfonso Durazo, puso en marcha protocolos de vigilancia y control después de confirmar el primer caso de gusano barrenador en la región, mientras el Departamento de Agricultura de EE. UU. (USDA) evalúa levantar la prohibición a las importaciones de ganado mexicano.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/sonora-detecta-primer-caso-gusano-barrenador-activa-protocolos-vigilancia-20260820-829248.html",
-      "published_at": "2026-08-20T12:17:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono informativo y neutral, citando únicamente al gobernador y a la autoridad sanitaria, sin emplear vocabulario cargado ni fuentes partidistas.",
-      "focus_analysis": "El medio se centró en la respuesta institucional y sanitaria del estado, dejando de lado el impacto económico directo sobre la industria ganadera y el aspecto humano de la alerta.",
-      "focus_tags": [
-        "salud animal",
-        "vigilancia sanitaria",
-        "política pública"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del gusano barrenador",
-          "text": "El gusano barrenador es un parásito que ataca el hígado de bovinos, provocando pérdidas económicas significativas en la producción ganadera de México y Estados Unidos."
-        },
-        {
-          "label": "Situación previa en Sonora",
-          "text": "Antes de este reporte, Sonora no había registrado casos confirmados del gusano barrenador, lo que hacía de este hallazgo el primero en el estado."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "En contraste, El Informador destacó una alerta en Ciudad Juárez, Chihuahua, donde se detectó el parásito en un perro, subrayando la preocupación por la propagación fronteriza del problema."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
