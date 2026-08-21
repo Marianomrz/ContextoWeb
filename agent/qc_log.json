@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:40:53.494277+00:00",
-      "title": "China tendrá un radiotelescopio de 110 metros con precisión extrema: podrá apuntar al equivalente de",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es de alta calidad informativa, con solo una ligera carencia en la diversidad de fuentes citadas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:40:58.934344+00:00",
       "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 20 de agosto",
       "kind": "noticia",
@@ -3202,6 +3185,17 @@
       "title": "En la única práctica del GP de Países Bajos, Franco Colapinto quedó 13° en una sesión con noticias a",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T13:53:40.352924+00:00",
+      "title": "Nuevos vídeos muestran un deslizamiento mortal que sepulta a mineros en República Centroafricana",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
