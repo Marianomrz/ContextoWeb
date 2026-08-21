@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:00:23.691554+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 9,
-        "estructura_piramide": 6
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, pero es objetivo y actual; necesita fuentes verificables y una estructura más clara según la pirámide invertida.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:00:30.740880+00:00",
       "title": "El mejor adaptador inalámbrico para Android Auto, el Motorola Drive MA2, está de oferta en Amazon a ",
       "kind": "noticia",
@@ -3153,6 +3136,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T21:20:41.646699+00:00",
+      "title": "En el ejército estadounidense, las mujeres y los afroamericanos en el punto de mira de Pete Hegseth",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete no alcanza los estándares de veracidad y objetividad requeridos para su publicación; necesita correcciones y fuentes más equilibradas.",
+      "error": null
     }
   ]
 }
