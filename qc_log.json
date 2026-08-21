@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:59:59.576302+00:00",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 20 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad, presentando la información de manera clara y estructurada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T07:00:07.220468+00:00",
-      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es mayormente adecuado, pero la incoherencia entre título y contenido y la falta de fuentes múltiples reducen su calidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:00:13.625913+00:00",
       "title": "¿Quiénes son los nuevos nominados de \"La casa de los famosos México\"?; así fue la cuarta gala de nom",
       "kind": "noticia",
@@ -3160,6 +3126,34 @@
       "title": "Retrasos, cierres y afectaciones en el Metrobús en tiempo real",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T20:05:08.816720+00:00",
+      "title": "Paredes recibió una de las sanciones más severas en la historia de los Mundiales: el antecedente de ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete está bien estructurado y es objetivo, pero falla gravemente en veracidad y en la calidad del contraste de fuentes, lo que compromete su idoneidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-21T20:05:12.160229+00:00",
+      "title": "Segob fija postura tras regreso de Rocha Moya al gobierno de Sinaloa",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},

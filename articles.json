@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T19:54:35.498118+00:00",
+  "generated_at": "2026-08-21T20:05:40.801025+00:00",
   "articles": [
+    {
+      "id": "349cb37c8c6a",
+      "title": "Segob fija postura tras regreso de Rocha Moya al gobierno de Sinaloa",
+      "summary": "Rubén Rocha Moya retomó sus funciones como gobernador constitucional del estado de Sinaloa, México, después de una licencia temporal; la Secretaría de Gobernación declaró que su regreso es una determinación de carácter personal y recordó que la Fiscalía General de la República mantiene abiertas las investigaciones vinculadas a las acusaciones del Departamento de Justicia de EE. UU.",
+      "category": "politica",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/segob-determinacion-de-caracter-personal-regreso-de-rocha-moya-al-gobierno-de-sinaloa-20260821-0121.html",
+      "published_at": "2026-08-21T19:59:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, presenta declaraciones oficiales y datos de la investigación sin usar adjetivos cargados ni favorecer a ninguna postura política.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y legal, resaltando la posición de la Segob y la FGR frente al caso, mientras que omite análisis de impacto político interno o de seguridad pública.",
+      "focus_tags": [
+        "politica institucional",
+        "investigacion legal",
+        "relaciones mexico-eeuu"
+      ],
+      "context": [
+        {
+          "label": "antecedente judicial",
+          "text": "En abril de 2026 el Departamento de Justicia de Estados Unidos acusó a diez personas, entre ellas Rubén Rocha Moya, de tráfico de drogas y delitos relacionados con armas, asignando el caso a la jueza federal Katherine Polk Failla."
+        },
+        {
+          "label": "procedimientos mexicanos",
+          "text": "La Fiscalía General de la República mantiene abiertas las carpetas de investigación relacionadas con los acusados y es la autoridad competente para proporcionar pruebas y avances al caso."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "Otros medios como Infobae México y El Sol de México también describieron el regreso del gobernador como una decisión personal de la Segob, enfatizando el respeto al debido proceso y la falta de pruebas concluyentes."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "beece6bc7eaf",
       "title": "Retrasos, cierres y afectaciones en el Metrobús en tiempo real",
@@ -948,38 +980,6 @@
       "qc": {
         "overall": 7.6
       }
-    },
-    {
-      "id": "517289f65315",
-      "title": "\"Mi hijo probara su inocencia\", asegura padre de Fausto Corrales; testigo del secuestro de \"El Mayo\" Zambada y detenido por encubrir homicidio de Melesio Cuén",
-      "summary": "El diputado local Víctor Antonio Corrales Burgueño, padre de Fausto Corrales, afirma que su hijo demostrará su inocencia en los cargos de homicidio y encubrimiento relacionados con la muerte de Héctor Melesio Cuén Ojeda y el secuestro del narcotraficante conocido como “El Mayo” Zambada.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/mi-hijo-probara-su-inocencia-asegura-padre-de-fausto-corrales-testigo-del-secuestro-de-el-mayo-zambada-y-detenido-por-encubrir-homicidio-de-melesio-cuen/",
-      "published_at": "2026-08-20T20:12:29+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto emplea un lenguaje emotivo que respalda al hijo del diputado y destaca fallas de la investigación, sin presentar una visión equilibrada de la acusación, lo que indica una ligera inclinación favorable al sujeto.",
-      "focus_analysis": "El medio privilegia la defensa familiar y la crítica a la investigación policial, dejando de lado el contexto de seguridad y la implicación del cártel en los hechos.",
-      "focus_tags": [
-        "defensa familiar",
-        "deficiencias investigativas",
-        "secuestro El Mayo"
-      ],
-      "context": [
-        {
-          "label": "antecedentes familiares",
-          "text": "Fausto Corrales es hijo del diputado local del Partido Sinaloense, Víctor Antonio Corrales Burgueño, quien también fue rector de la Universidad Autónoma de Sinaloa."
-        },
-        {
-          "label": "evento criminal",
-          "text": "Héctor Melesio Cuén Ojeda, fundador del Partido Sinaloense, fue asesinado en 2024; la Fiscalía ha señalado inconsistencias en la autopsia y la recolección de pruebas."
-        },
-        {
-          "label": "cobertura de otros medios",
-          "text": "La Jornada y Aristegui Noticias enfocaron la noticia en el papel de Fausto como testigo clave del secuestro de “El Mayo” y en la investigación de posibles contradicciones, contrastando con la perspectiva defensiva del artículo de El Universal."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }
