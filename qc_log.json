@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:40:58.934344+00:00",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 20 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, imparcialidad y actualidad; solo se podría enriquecer con más fuentes independientes, pero en general es una publicación adecuada.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:41:05.403028+00:00",
       "title": "De la Espriella declara el estado de emergencia en 15 departamentos de Colombia tras el terremoto",
       "kind": "noticia",
@@ -3196,6 +3179,17 @@
       "title": "Nuevos vídeos muestran un deslizamiento mortal que sepulta a mineros en República Centroafricana",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T15:25:11.026031+00:00",
+      "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy viernes 21 de agosto: enfermedad de la mandataria",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
