@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:00:30.740880+00:00",
-      "title": "El mejor adaptador inalámbrico para Android Auto, el Motorola Drive MA2, está de oferta en Amazon a ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares, aunque la falta de fuentes verificables y el tono promocional reducen ligeramente su puntuación.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:00:36.207741+00:00",
       "title": "Enrique de Inglaterra y Meghan Markle se mudan al Reino Unido seis años después de su sonada marcha ",
       "kind": "noticia",
@@ -3152,6 +3135,23 @@
         "estructura_piramide": 7
       },
       "observacion": "El paquete no alcanza los estándares de veracidad y objetividad requeridos para su publicación; necesita correcciones y fuentes más equilibradas.",
+      "error": null
+    },
+    {
+      "at": "2026-08-21T23:05:21.823123+00:00",
+      "title": "Tras la victoria de Unión ante Aldosivi, San Lorenzo visita a Estudiantes de Río Cuarto por la fecha",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 5
+      },
+      "observacion": "El paquete es actual y objetivo, pero la inconsistencia entre título y resumen y la falta de una estructura clara reducen su calidad editorial.",
       "error": null
     }
   ]
