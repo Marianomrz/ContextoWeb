@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-21T15:25:39.099821+00:00",
+  "generated_at": "2026-08-21T15:41:18.347350+00:00",
   "articles": [
+    {
+      "id": "45def2364fb6",
+      "title": "Detienen en Chiapas a 8 personas ligadas a grupos delictivos; \"Cadenudo\" e integrantes de \"Los Cuatetes\", entre ellos",
+      "summary": "El secretario de Seguridad y Protección Ciudadana, Omar García Harfuch, anunció que en cinco operativos en Chiapas se detuvo a ocho personas vinculadas a grupos delictivos, entre ellos el presunto narcotraficante \"Cadenudo\" y miembros de la organización \"Los Cuatetes\". Los detenidos enfrentan órdenes de extradición y aprehensión en Guatemala por su presunta participación en el tráfico de cocaína y homicidios.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/detienen-en-chiapas-a-8-personas-ligadas-a-grupos-delictivos-cadenudo-e-integrantes-de-los-cuatetes-entre-ellos/",
+      "published_at": "2026-08-21T15:37:33+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto se basa exclusivamente en declaraciones del gobierno y presenta la acción policial como un éxito, sin incluir voces críticas ni análisis de causas, lo que indica un sesgo ligeramente favorable al oficialismo.",
+      "focus_analysis": "El medio se centra en la perspectiva institucional y de seguridad, resaltando la efectividad de los operativos y la captura de criminales, mientras omite el contexto social y las posibles repercusiones en la población local.",
+      "focus_tags": [
+        "seguridad pública",
+        "crimen organizado",
+        "Chiapas"
+      ],
+      "context": [
+        {
+          "label": "antecedentes criminales",
+          "text": "Chiapas ha sido históricamente una zona de paso para el narcotráfico y de actividad de grupos como Los Cuatetes, que se asocian con homicidios y el contrabando de combustible."
+        },
+        {
+          "label": "autoridad de seguridad",
+          "text": "Omar García Harfuch, titular de la Secretaría de Seguridad y Protección Ciudadana, ha liderado una política de despliegue de operativos contra el crimen organizado a nivel nacional."
+        },
+        {
+          "label": "relaciones binacionales",
+          "text": "México y Guatemala mantienen acuerdos de extradición para combatir el tráfico de drogas, y varios de los detenidos cuentan con órdenes de captura emitidas por la justicia guatemalteca."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "cfddf9204df1",
       "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy viernes 21 de agosto: enfermedad de la mandataria, consulta de las audiencias, reunión con Ronald D. Johnson, entre lo relevante",
@@ -939,38 +974,6 @@
         {
           "label": "media_comparison",
           "text": "Otros medios, como Infobae, incluyeron la detención dentro de una agenda más amplia que también cubría temas como la OEA y la Olinia de carga, mostrando que la noticia se presentó como parte de un conjunto de asuntos de relevancia nacional."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "0217c3d87314",
-      "title": "La Mañanera de la presidenta Claudia Sheinbaum hoy jueves 20 de agosto: Olinia de carga, votación de la OEA, detención de Fausto Corrales, entre lo relevante",
-      "summary": "La presidenta de México, Claudia Sheinbaum, anunció el segundo modelo del vehículo eléctrico Olinia Carga, explicó la abstención de México en la votación de la OEA sobre Nicaragua y señaló que la Fiscalía General de la República informará sobre la detención del testigo Fausto Corrales en el caso del secuestro de \"El Mayo\".",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/20/en-vivo-la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-jueves-20-de-agosto/",
-      "published_at": "2026-08-20T15:16:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono descriptivo y neutro, sin adjetivos cargados ni selección sesgada de fuentes; presenta varios temas sin favorecer explícitamente a ninguna posición política.",
-      "focus_analysis": "El medio se centra en la agenda institucional de la presidenta, resaltando decisiones de política pública y eventos oficiales, mientras que el impacto humano de la detención de Corrales recibe menor atención.",
-      "focus_tags": [
-        "política mexicana",
-        "tecnología automotriz",
-        "relaciones internacionales"
-      ],
-      "context": [
-        {
-          "label": "Política de movilidad eléctrica",
-          "text": "El lanzamiento de Olinia Carga forma parte de la estrategia nacional para impulsar la industria de vehículos eléctricos, con metas de producción de 10 mil unidades el primer año y 50 mil anuales, y se espera su comercialización a finales de 2027."
-        },
-        {
-          "label": "Postura de México en la OEA",
-          "text": "México se abstuvo en la votación de la Organización de los Estados Americanos sobre Nicaragua, citando principios constitucionales de autodeterminación y no intervención, posición respaldada por el representante Alejandro Encinas."
-        },
-        {
-          "label": "Caso Fausto Corrales",
-          "text": "La detención del testigo Fausto Corrales, involucrado en la investigación del secuestro de \"El Mayo\", fue considerada relevante por la presidenta para esclarecer hechos del caso, según la Fiscalía General de la República."
         }
       ],
       "confidence": "alta"
