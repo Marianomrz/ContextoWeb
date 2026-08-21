@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:59:40.769429+00:00",
-      "title": "Se filtra una funda del iPhone 18 Pro: no hay cambios a la vista",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y mantiene un tono objetivo, pero la precisión de los datos es cuestionable al presentar rumores como declaraciones oficiales.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:59:47.000748+00:00",
       "title": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
       "kind": "noticia",
@@ -3177,6 +3160,17 @@
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, pese a leves imprecisiones y una fuente única.",
       "error": null
+    },
+    {
+      "at": "2026-08-21T19:20:35.741936+00:00",
+      "title": "Así es por dentro El Altiplano, penal donde estará Fernando \"N\"",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
