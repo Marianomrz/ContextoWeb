@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:00:13.625913+00:00",
-      "title": "¿Quiénes son los nuevos nominados de \"La casa de los famosos México\"?; así fue la cuarta gala de nom",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contrastada del evento televisivo.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:00:23.691554+00:00",
       "title": "Nadie escapa de Widow’s Bay",
       "kind": "noticia",
@@ -3154,6 +3137,17 @@
       "title": "Segob fija postura tras regreso de Rocha Moya al gobierno de Sinaloa",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T20:34:35.874184+00:00",
+      "title": "Mientras la hija de Brad Pitt avanza para quitarse su apellido, el actor revela pensamientos suicida",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
