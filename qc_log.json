@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:21:36.584363+00:00",
-      "title": "Por primera vez deuda pública de EU supera los 40 billones de dólares",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, aunque la precisión histórica de la afirmación sobre la 'primera vez' necesita verificación.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:40:47.754103+00:00",
       "title": "Castigo a fresa mexicana sienta mal precedente en el comercio con EU: CNA",
       "kind": "noticia",
@@ -3214,6 +3197,17 @@
       "title": "En la única práctica del GP de Países Bajos, Franco Colapinto quedó 13° en una sesión con noticias a",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T12:20:42.713475+00:00",
+      "title": "El mejor anime de Netflix, ‘Samurai de ojos azules’, lanza su espectacular nuevo tráiler y renueva p",
+      "kind": "noticia",
+      "category": "tecnologia",
       "approved": true,
       "overall": null,
       "scores": {},

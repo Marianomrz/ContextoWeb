@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T12:05:48.090062+00:00",
+  "generated_at": "2026-08-21T12:21:10.778234+00:00",
   "articles": [
+    {
+      "id": "c61c21fc93f1",
+      "title": "El mejor anime de Netflix, ‘Samurai de ojos azules’, lanza su espectacular nuevo tráiler y renueva para su tercera y última temporada",
+      "summary": "Netflix ha publicado el nuevo tráiler de la segunda temporada del anime \"Samurai de ojos azules\" y confirmó que la serie tendrá una tercera y última temporada, cuyo estreno está previsto para enero de 2027.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/el-mejor-anime-de-netflix-samurai-de-ojos-azules-lanza-su-espectacular-nuevo-trailer-y-renueva-para-su-tercera-y-ultima-temporada/",
+      "published_at": "2026-08-21T12:19:57+00:00",
+      "bias_score": 15,
+      "bias_reason": "El texto utiliza superlativos y un tono muy promocional, enfatizando lo \"espectacular\" y \"mejor\" sin ofrecer críticas ni perspectivas alternativas, lo que indica un sesgo ligeramente positivo hacia la plataforma.",
+      "focus_analysis": "El medio se centra en el anuncio de lanzamiento y la continuidad de la serie, resaltando aspectos de producción y expectativa, mientras omite análisis de audiencia, recepción crítica o contexto competitivo del mercado del anime.",
+      "focus_tags": [
+        "anime",
+        "Netflix",
+        "estreno"
+      ],
+      "context": [
+        {
+          "label": "antecedentes de la serie",
+          "text": "Samurai de ojos azules se estrenó en Netflix en 2023 y rápidamente se posicionó como una de las series de anime más populares entre los suscriptores, destacándose por su animación de alta calidad y temáticas adultas."
+        },
+        {
+          "label": "estrategia de anime de Netflix",
+          "text": "En los últimos años Netflix ha incrementado su inversión en contenido de anime, produciendo series originales y adquiriendo derechos para competir con plataformas japonesas y ampliar su audiencia global."
+        },
+        {
+          "label": "tendencia de series limitadas",
+          "text": "Es habitual que series de streaming planifiquen concluir en tres temporadas, una estrategia que permite cerrar la trama manteniendo la calidad, como ha anunciado Netflix para \"Samurai de ojos azules\"."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "1493bcd6c317",
       "title": "En la única práctica del GP de Países Bajos, Franco Colapinto quedó 13° en una sesión con noticias alentadoras para Alpine",
@@ -942,38 +974,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "482a86eae16b",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes de la playa del Trampolín y prevé habilitar nuevos espacios",
-      "summary": "El Gobierno de España, encabezado por el PSOE, reubicó a 1.800 migrantes del campamento del Trampolín en Ceuta en dos centros controlados y criticó la propuesta del Partido Popular de devolver a todos los migrantes como una ilegalidad.",
-      "category": "internacional",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-20/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-20T12:36:20+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto utiliza expresiones cargadas como \"única propuesta\" e \"ilegalidad\" para describir la medida del PP, enfatiza la acción del Gobierno y omite la perspectiva de los migrantes, lo que muestra una postura favorable al PSOE y desfavorable al PP.",
-      "focus_analysis": "El artículo se centra en el enfrentamiento político entre el Gobierno y el PP respecto a la gestión de la inmigración en Ceuta, dejando de lado el detalle de las condiciones y testimonios de los migrantes.",
-      "focus_tags": [
-        "inmigración",
-        "política española",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Ceuta",
-          "text": "Ceuta es una ciudad autónoma española en el norte de África que ha recibido históricamente flujos masivos de migrantes que intentan entrar a Europa, con episodios de cientos de personas que llegan diariamente desde Marruecos."
-        },
-        {
-          "label": "Posición del PP",
-          "text": "El Partido Popular ha propuesto la devolución masiva de los migrantes que llegan a Ceuta, una medida que el Gobierno de coalición ha calificado de ilegal."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Otros medios como France24 y Euronews han puesto el acento en la motivación de los migrantes y en el traslado de menores, subrayando la dimensión humanitaria del episodio."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }
