@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-21T15:46:50.124003+00:00",
+  "generated_at": "2026-08-21T16:05:14.007448+00:00",
   "articles": [
+    {
+      "id": "ffbbfd03cbf8",
+      "title": "Así puedes crear una carpeta en tu Mac que convierta y redimensione imágenes automáticamente",
+      "summary": "El portal Applesfera muestra paso a paso cómo usar Automator en macOS para crear una carpeta que convierta automáticamente imágenes a JPG y las redimensione al 80 % al arrastrarlas dentro.",
+      "category": "tecnologia",
+      "source_name": "Applesfera",
+      "source_url": "https://www.applesfera.com/tutoriales/asi-puedes-crear-carpeta-tu-mac-que-convierta-redimensione-imagenes-automaticamente",
+      "published_at": "2026-08-21T16:01:34+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es meramente informativo y técnico, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o comercial.",
+      "focus_analysis": "El artículo se centra en el aspecto técnico y práctico de la automatización en macOS, dejando de lado cualquier discusión sobre alternativas de terceros o implicaciones de seguridad.",
+      "focus_tags": [
+        "macOS",
+        "Automator",
+        "tutorial"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "macOS incorpora desde hace años la herramienta Automator, que permite crear flujos de trabajo automáticos sin necesidad de instalar software adicional."
+        },
+        {
+          "label": "dato",
+          "text": "El formato de imagen HEIF fue introducido por Apple en 2017, lo que incrementó la variedad de formatos que los usuarios deben gestionar en sus dispositivos."
+        },
+        {
+          "label": "postura",
+          "text": "Según la documentación de Apple, la versión beta de macOS Golden Gate mantiene la compatibilidad con las acciones de carpeta de Automator, garantizando que los tutoriales actuales seguirán funcionando."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "45def2364fb6",
       "title": "Detienen en Chiapas a 8 personas ligadas a grupos delictivos; \"Cadenudo\" e integrantes de \"Los Cuatetes\", entre ellos",
@@ -945,38 +980,6 @@
       "qc": {
         "overall": 8.4
       }
-    },
-    {
-      "id": "701f1f3531ca",
-      "title": "Sheinbaum reacciona a la detención de Fausto Corrales",
-      "summary": "La presidenta de México, Claudia Sheinbaum Pardo, calificó de \"relevante\" la detención de Fausto Corrales Rodríguez, quien acompañó a Héctor Melesio Cuén Ojeda en una reunión con el narcotraficante Ismael \"El Mayo\" Zambada, y afirmó que la captura ayudará a esclarecer el caso.",
-      "category": "politica",
-      "source_name": "El Informador (GDL)",
-      "source_url": "https://www.informador.mx/mexico/sheinbaum-reacciona-a-la-detencion-de-fausto-corrales-20260820-0069.html",
-      "published_at": "2026-08-20T16:03:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a reproducir declaraciones oficiales y datos de la FGR sin usar vocabulario cargado ni presentar opiniones, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en la reacción institucional de la presidenta y en la investigación legal, dejando fuera detalles sobre la magnitud del narcotráfico o el impacto humano del crimen.",
-      "focus_tags": [
-        "política mexicana",
-        "seguridad",
-        "detención"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Fausto Corrales Rodríguez ha sido señalado como colaborador de Héctor Melesio Cuén Ojeda, quien fue asesinado en una reunión con el líder del cártel Sinaloa, Ismael \"El Mayo\" Zambada, en la finca Huertos del Pedregal."
-        },
-        {
-          "label": "political_context",
-          "text": "Claudia Sheinbaum Pardo, presidenta de México, utiliza la conferencia matutina \"La Mañanera\" para comunicar decisiones y respuestas a eventos de seguridad nacional."
-        },
-        {
-          "label": "media_comparison",
-          "text": "Otros medios, como Infobae, incluyeron la detención dentro de una agenda más amplia que también cubría temas como la OEA y la Olinia de carga, mostrando que la noticia se presentó como parte de un conjunto de asuntos de relevancia nacional."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
