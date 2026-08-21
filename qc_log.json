@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:41:47.359962+00:00",
-      "title": "Temblor hoy en México: noticias actividad sísmica 20 de agosto de 2026",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo información clara, actual y objetiva sobre la actividad sísmica en México.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:59:40.769429+00:00",
       "title": "Se filtra una funda del iPhone 18 Pro: no hay cambios a la vista",
       "kind": "noticia",
@@ -3177,6 +3160,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T18:40:47.782026+00:00",
+      "title": "Hijo del R1 asegura que Valeria Márquez sabía a qué se dedicaba su familia: “Llegó a ir a un cumplea",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, pese a leves imprecisiones y una fuente única.",
+      "error": null
     }
   ]
 }
