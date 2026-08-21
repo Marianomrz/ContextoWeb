@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T17:21:06.308989+00:00",
+  "generated_at": "2026-08-21T17:38:14.009575+00:00",
   "articles": [
+    {
+      "id": "5086a58604d9",
+      "title": "Take-Two saca sus garras y sale a la caza del filtrador de ‘GTA 6’",
+      "summary": "Take‑Two Interactive, la empresa matriz de Rockstar Games, ha iniciado una investigación para identificar a los responsables de las filtraciones de GTA 6, enviando citaciones a Microsoft y Discord para obtener registros y datos de usuarios.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/videojuegos/take-two-saca-sus-garras-y-sale-a-la-caza-del-filtrador-de-gta-6/",
+      "published_at": "2026-08-21T17:35:30+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es mayormente informativo, aunque emplea expresiones sensacionalistas como “saca sus garras”, pero no muestra una inclinación política ni selección de fuentes sesgada.",
+      "focus_analysis": "El artículo se centra en la respuesta legal y técnica de Take‑Two frente a los leaks, dejando de lado la reacción de la comunidad de jugadores y el impacto económico de la filtración.",
+      "focus_tags": [
+        "leak investigation",
+        "gaming industry",
+        "legal action"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de filtraciones",
+          "text": "Durante la última semana se difundieron varios videos y archivos de GTA 6, incluyendo gameplay y clips de acción, que incrementaron la presión sobre la compañía."
+        },
+        {
+          "label": "Historial de defensa de la propiedad intelectual",
+          "text": "Take‑Two ha tomado medidas legales en el pasado contra filtraciones de sus juegos, como la demanda de 2022 contra un grupo de hackers que compartió contenido de Red Dead Redemption 2."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros sitios especializados, como Kotaku, también reportaron que Microsoft y Discord tienen hasta el 4 de septiembre para entregar la información solicitada por Take‑Two."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "c3b17e710009",
       "title": "Rocha Moya retoma gubernatura de Sinaloa tras 112 días de investigación; tacha de falsas las acusaciones de EU",
@@ -945,38 +977,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "12c742267983",
-      "title": "Pepe Salinas y Eduardo Figueroa ganan Copa Jerez México 2026 y van por el título internacional",
-      "summary": "El chef Pepe Salinas y el sommelier Eduardo Figueroa, de Balcón del Zócalo, obtuvieron el primer puesto en la Copa Jerez México 2026 y representarán a México en la final internacional de 2027 en Jerez de la Frontera, España.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/bistronomie/pepe-salinas-eduardo-figueroa-ganan-copa-jerez-mexico-2026-titulo-internacional-20260820-829298.html",
-      "published_at": "2026-08-20T18:19:04+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto es descriptivo y celebra la innovación culinaria sin usar lenguaje cargado ni presentar opiniones políticas; se limita a reportar hechos del concurso.",
-      "focus_analysis": "El medio se centra en el aspecto gastronómico y creativo del concurso, resaltando la originalidad del maridaje y la trayectoria de los ganadores, mientras omite cualquier análisis económico o sociocultural más amplio.",
-      "focus_tags": [
-        "gastronomía",
-        "competencia culinaria",
-        "maridaje innovador"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del concurso",
-          "text": "La Copa Jerez México, impulsada por las Denominaciones de Origen Jerez‑Xérès‑Sherry y Manzanilla‑Sanlúcar de Barrameda, es una competición nacional que busca integrar la alta cocina mexicana con los vinos de Jerez, fomentando la innovación en el maridaje."
-        },
-        {
-          "label": "Ediciones anteriores",
-          "text": "La primera edición del certamen, ganada por el chef Oswaldo Oliva, marcó el inicio de una creciente participación de chefs y sommeliers en México, consolidando el evento como una plataforma de referencia para la gastronomía contemporánea."
-        },
-        {
-          "label": "Tendencias del maridaje con Jerez",
-          "text": "Tradicionalmente, los vinos de Jerez se emparejan con postres dulces o platos que complementan su acidez; sin embargo, la propuesta de Salinas y Figueroa rompe esa norma al combinar un pastel tres leches con un Fino seco, reflejando una tendencia global hacia maridajes más contrastantes."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

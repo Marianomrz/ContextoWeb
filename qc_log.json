@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:41:34.688462+00:00",
-      "title": "Seguros médicos, ¿corte embrujada?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general preciso y actual, pero necesita más fuentes contrastantes y mayor neutralidad en el tono para alcanzar los estándares editoriales completos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:41:41.169455+00:00",
       "title": "El mejor adaptador inalámbrico para Android Auto, el Motorola Drive MA2, está de oferta en Amazon a ",
       "kind": "noticia",
@@ -3184,6 +3167,17 @@
       "title": "Rocha Moya retoma gubernatura de Sinaloa tras 112 días de investigación; tacha de falsas las acusaci",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T17:37:41.945983+00:00",
+      "title": "Take-Two saca sus garras y sale a la caza del filtrador de ‘GTA 6’",
+      "kind": "noticia",
+      "category": "tecnologia",
       "approved": true,
       "overall": null,
       "scores": {},
