@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:41:41.169455+00:00",
-      "title": "El mejor adaptador inalámbrico para Android Auto, el Motorola Drive MA2, está de oferta en Amazon a ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es informativo y actual, pero el lenguaje promocional reduce su objetividad; se recomienda moderar los superlativos para mejorar la imparcialidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:41:47.359962+00:00",
       "title": "Temblor hoy en México: noticias actividad sísmica 20 de agosto de 2026",
       "kind": "noticia",
@@ -3178,6 +3161,17 @@
       "title": "Take-Two saca sus garras y sale a la caza del filtrador de ‘GTA 6’",
       "kind": "noticia",
       "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T17:58:05.089904+00:00",
+      "title": "Sedema lanza dos licitaciones para rehabilitar Bosque de Tláhuac; fecha límite para adquirir las bas",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
