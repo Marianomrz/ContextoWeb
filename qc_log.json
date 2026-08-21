@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:59:47.000748+00:00",
-      "title": "El Santander cierra la compra de Webster en un tiempo récord y exhibe músculo en Estados Unidos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta la información de forma estructurada y reciente, pero la falta de datos verificables sobre la adquisición de Webster reduce su credibilidad. Se recomienda confirmar los hechos antes de publicar.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:59:52.686241+00:00",
       "title": "Castigo a fresa mexicana sienta mal precedente en el comercio con EU: CNA",
       "kind": "noticia",
@@ -3171,6 +3154,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T19:32:14.417654+00:00",
+      "title": "Previo a Estudiantes de Río Cuarto-San Lorenzo, Unión derrotó a Aldosivi en Mar del Plata y lo hundi",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la diversidad de fuentes.",
+      "error": null
     }
   ]
 }

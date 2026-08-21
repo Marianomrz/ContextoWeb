@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-21T19:21:01.890853+00:00",
+  "generated_at": "2026-08-21T19:32:43.907672+00:00",
   "articles": [
+    {
+      "id": "605016f0e6a1",
+      "title": "Previo a Estudiantes de Río Cuarto-San Lorenzo, Unión derrotó a Aldosivi en Mar del Plata y lo hundió en la tabla",
+      "summary": "Unión de Santa Fe volvió a ganar al vencer 3‑1 a Aldosivi en Mar del Plata, mientras que Estudiantes de Río Cuarto se prepara para enfrentar a San Lorenzo en la siguiente fecha del Torneo Clausura, ambos con la vista puesta en la permanencia en la máxima categoría.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/21/se-pone-en-marcha-la-fecha-6-del-torneo-clausura-con-dos-partidos-hora-tv-y-todo-lo-que-hay-que-saber/",
+      "published_at": "2026-08-21T19:28:49+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir resultados, goles y situaciones de tabla sin usar adjetivos cargados ni citar fuentes con sesgo; el tono es objetivo y centrado en hechos deportivos.",
+      "focus_analysis": "El medio se concentra en el resultado del partido y su impacto en la clasificación, destacando la lucha por evitar el descenso; no aborda aspectos humanos como declaraciones de jugadores o entrenadores ni análisis táctico profundo.",
+      "focus_tags": [
+        "resultado de fútbol",
+        "tabla de posiciones",
+        "relegación"
+      ],
+      "context": [
+        {
+          "label": "situación de Unión de Santa Fe",
+          "text": "Unión de Santa Fe se encuentra en la zona media‑alta de la tabla, acumulando puntos tras victorias recientes, lo que le permite seguir en la pelea por los puestos de clasificación a torneos internacionales."
+        },
+        {
+          "label": "riesgo de descenso de Aldosivi",
+          "text": "Aldosivi ocupa los últimos lugares de la clasificación anual y de promedios, con escasos triunfos en la temporada, lo que lo coloca en una posición vulnerable de descenso a la Primera Nacional."
+        },
+        {
+          "label": "batalla de permanencia de Estudiantes de Río Cuarto",
+          "text": "Estudiantes de Río Cuarto, equipo de la zona A, lleva una campaña irregular con pocos puntos y necesita sumar victorias para mantenerse en la Primera División, mientras que San Lorenzo busca consolidarse en la parte alta de la tabla."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "8d9f1104526a",
       "title": "Así es por dentro El Altiplano, penal donde estará Fernando \"N\"",
@@ -948,38 +983,6 @@
       "qc": {
         "overall": 9.2
       }
-    },
-    {
-      "id": "554472e82c7d",
-      "title": "Quién es la hija del “Tío Lako”, líder del CJNG, ubicada entre los detenidos en Michoacán",
-      "summary": "Marisol, hija de Heraclio Gerardo Martínez, alias \"Tío Lako\", líder del Cartel Jalisco Nueva Generación, fue detenida en un operativo de Michoacán junto a la pareja del capo, mientras su padre sigue prófugo. La noticia detalla la lujosa fiesta de XV años que celebró en Tinaja de Vargas, con artistas, drones y seguridad armada vinculada al cártel.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/19/quien-es-la-hija-del-tio-lako-lider-del-cjng-que-celebro-entre-los-detenidos-en-michoacan/",
-      "published_at": "2026-08-20T19:53:16+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono descriptivo y neutro, sin adjetivos cargados ni selección de fuentes que favorezcan una posición política; se limita a relatar hechos sobre la detención y la celebración.",
-      "focus_analysis": "El medio se centra en el aspecto criminal y de seguridad, resaltando la ostentación de poder del cartel y la respuesta de las fuerzas estatales, dejando de lado un análisis social más amplio sobre el impacto de la violencia del narco en la comunidad.",
-      "focus_tags": [
-        "crimen organizado",
-        "seguridad pública",
-        "cultura de fiesta"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del líder del CJNG",
-          "text": "Heraclio Gerardo Martínez, conocido como \"Tío Lako\", lleva al frente la célula criminal Los Guerrero del CJNG desde 2011 y es socio cercano de Nemesio Oseguera Cervantes, \"El Mencho\"."
-        },
-        {
-          "label": "Operativos recientes contra el CJNG",
-          "text": "Según La Jornada, en la misma semana de la detención de Marisol, fuerzas federales capturaron a 12 miembros del CJNG en Michoacán, evidenciando un amplio despliegue de seguridad contra la organización."
-        },
-        {
-          "label": "Contexto de la lucha contra el narcotráfico en la región",
-          "text": "Michoacán y Jalisco son focos de la violencia del CJNG; el gobierno estatal ha intensificado operativos para desarticular a sus líderes y reducir la influencia del cártel en la zona fronteriza."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }
