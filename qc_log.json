@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:20:55.755975+00:00",
-      "title": "De la Espriella declara el estado de emergencia en Colombia, dificultando su control por parte del C",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar significativamente la verificación de datos, pero en cuanto a fuentes, objetividad, actualidad y estructura, cumple con los estándares editoriales.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:21:00.967305+00:00",
       "title": "El mejor adaptador inalámbrico para Android Auto, el Motorola Drive MA2, está de oferta en Amazon a ",
       "kind": "noticia",
@@ -3244,6 +3227,17 @@
       "title": "Las 'batallas de aura' saltan de TikTok a las calles de México",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T09:25:10.653281+00:00",
+      "title": "Llega a México Fernando Farías Laguna, excontralmirante de la Marina acusado de liderar red de huach",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},

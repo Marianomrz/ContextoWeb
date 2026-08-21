@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T09:10:13.581183+00:00",
+  "generated_at": "2026-08-21T09:25:21.420667+00:00",
   "articles": [
+    {
+      "id": "215e9e600cdb",
+      "title": "Llega a México Fernando Farías Laguna, excontralmirante de la Marina acusado de liderar red de huachicol fiscal",
+      "summary": "El excontralmirante de la Marina, Fernando Farías Laguna, llegó a México bajo custodia después de ser deportado de Argentina, donde estaba siendo investigado por liderar una red de huachicol fiscal que operó en varios estados del país. Será internado en el penal del Altiplano y puesto a disposición del juez de control por delitos de delincuencia organizada en materia de hidrocarburos.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/21/llega-a-mexico-fernando-farias-laguna-excontralmirante-de-la-marina-acusado-de-liderar-red-de-huachicol-fiscal/",
+      "published_at": "2026-08-21T09:20:13+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar hechos citados de autoridades y documentos oficiales, sin usar lenguaje cargado ni ofrecer opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y legal del caso, describiendo el proceso de deportación, la acusación y el impacto económico. No se profundiza en el contexto político ni en la posible repercusión social del esquema.",
+      "focus_tags": [
+        "legal",
+        "corrupción fiscal",
+        "seguridad nacional"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "El huachicol fiscal es una práctica de evasión de impuestos sobre combustibles que ha sido perseguida por la Fiscalía Especializada en Materia de Delincuencia Organizada, con operativos que han recuperado cientos de millones de pesos y detenido a funcionarios públicos."
+        },
+        {
+          "label": "cooperación internacional",
+          "text": "El traslado de Farías Laguna contó con la participación de agencias de EE. UU. como el FBI y la DEA, así como de la autoridad argentina, lo que muestra la dimensión transnacional del caso."
+        },
+        {
+          "label": "postura de otros medios",
+          "text": "Otros medios destacaron distintos ángulos: Aristegui Noticias enfatizó el vuelo del excontralmirante, El Sol de México subrayó la pérdida económica de 340 millones de pesos, mientras que El Universal puso foco en la escala en Colombia del avión que lo transportó."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "4d1a1e6ab70c",
       "title": "Las 'batallas de aura' saltan de TikTok a las calles de México",
@@ -941,41 +973,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "1eac5dd81616",
-      "title": "“No quiero que mi legado quede reducido a títulos o estadísticas”, la reflexión de Novak Djokovic sobre su futuro",
-      "summary": "El tenista serbio Novak Djokovic, de 39 años, declaró que quiere que su legado sea recordado por su familia y valores más que por títulos o estadísticas, y anunció que podría retirarse del circuito competitivo manteniéndose vinculado al tenis de forma más íntima.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/20/no-quiero-que-mi-legado-quede-reducido-a-titulos-o-estadisticas-la-reflexion-de-novak-djokovic-sobre-su-futuro/",
-      "published_at": "2026-08-20T09:00:01+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje neutro y descriptivo, sin cargar palabras ni citar fuentes con carga ideológica; se centra en la perspectiva personal del deportista sin abordar temas políticos o controversias.",
-      "focus_analysis": "El medio optó por un ángulo humano y familiar, resaltando los valores y la vida privada de Djokovic, mientras dejó de lado el análisis de su rendimiento deportivo y su posición en los rankings.",
-      "focus_tags": [
-        "vida familiar",
-        "legado deportivo",
-        "documental"
-      ],
-      "context": [
-        {
-          "label": "carrera deportiva",
-          "text": "Novak Djokovic es uno de los tenistas más laureados de la historia, con más de 20 títulos de Grand Slam y numerosos récords de semanas como número uno del mundo."
-        },
-        {
-          "label": "documental reciente",
-          "text": "En agosto de 2026 se estrenó el documental 'Novak Djokovic: The Wolf in Winter', que muestra su trayectoria y aspectos íntimos de su vida fuera de la pista."
-        },
-        {
-          "label": "tendencia de atletas",
-          "text": "Cada vez más deportistas de élite utilizan medios como documentales o entrevistas para compartir sus historias personales y enfatizar valores familiares, siguiendo la línea de figuras como LeBron James o Serena Williams."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]
