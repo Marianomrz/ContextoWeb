@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:00:13.662402+00:00",
-      "title": "Volvían en moto tras jugar futbol, los alcanzan y les disparan: hay tres muertos en Irapuato",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de veracidad, objetividad y estructura, aunque podría fortalecerse con fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:00:22.374292+00:00",
       "title": "Tigre perdió 2-1 con Montevideo City Torque y quedó eliminado en los octavos de final de la Sudameri",
       "kind": "noticia",
@@ -3262,6 +3245,17 @@
       "title": "Matan a hombre y hieren a mujer  en ataque armado en casa de la colonia Las Heras",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T00:20:42.702058+00:00",
+      "title": "AMPI Guadalajara activa \"Cita Segura\" tras desaparición de agentes inmobiliarios",
+      "kind": "noticia",
+      "category": "economia",
       "approved": true,
       "overall": null,
       "scores": {},

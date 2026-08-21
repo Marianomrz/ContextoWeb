@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T00:01:12.892181+00:00",
+  "generated_at": "2026-08-21T00:21:11.192299+00:00",
   "articles": [
+    {
+      "id": "93bc936e8ef9",
+      "title": "AMPI Guadalajara activa \"Cita Segura\" tras desaparición de agentes inmobiliarios",
+      "summary": "La Asociación Mexicana de Profesionales Inmobiliarios (AMPI) Guadalajara lanzó la herramienta \"Cita Segura\" para registrar datos y ubicación de las visitas a inmuebles, tras la desaparición de tres agentes inmobiliarios en los municipios de Zapopan y Puerto Vallarta, y solicitó mayor coordinación con la Fiscalía de Jalisco.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/estados/ampi-guadalajara-activa-cita-segura-desaparicion-agentes-inmobiliarios-20260820-829372.html",
+      "published_at": "2026-08-21T00:19:15+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutro, sin emplear vocabulario cargado ni citar fuentes partidistas, enfocándose en la iniciativa de la asociación y la petición a autoridades.",
+      "focus_analysis": "El medio se centró en el ángulo institucional y de seguridad, destacando la respuesta de la asociación y la herramienta tecnológica; dejó de lado la dimensión humana de las desapariciones y el posible impacto económico del sector.",
+      "focus_tags": [
+        "seguridad inmobiliaria",
+        "tecnología",
+        "prevención"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En los últimos meses, tres asesores inmobiliarios fueron reportados desaparecidos en Jalisco, dos en Zapopan y uno en Puerto Vallarta, lo que generó preocupación entre los profesionales del sector."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "En otras regiones de México y de América Latina, la seguridad de los agentes inmobiliarios suele depender de medidas informales; la implementación de una aplicación que registre citas y ubicación es poco frecuente."
+        },
+        {
+          "label": "Postura de autoridades",
+          "text": "La Fiscalía de Jalisco ha confirmado que continúa investigando los casos de desaparición y ha recibido la solicitud de AMPI Guadalajara para mejorar la comunicación y compartir información que ayude a prevenir futuros incidentes."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "2c90fe0f1b5d",
       "title": "Matan a hombre y hieren a mujer  en ataque armado en casa de la colonia Las Heras",
@@ -949,41 +981,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.4
-      }
-    },
-    {
-      "id": "3c743d7e751e",
-      "title": "Primero la paria",
-      "summary": "El Economista publica una columna titulada \"Primero la paria\" que reúne una serie de comentarios y análisis de distintos autores sobre temas variados como ecosistema analógico, solución final y poder de soberanía.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/cartones/primero-paria-20260820-829240.html",
-      "published_at": "2026-08-20T07:58:30+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a enumerar contenidos sin usar lenguaje cargado ni citar fuentes con sesgo, presentando la información de forma neutral.",
-      "focus_analysis": "El medio prioriza la presentación de una colección de opiniones y análisis breves, dejando fuera un desarrollo periodístico profundo o investigativo del tema central.",
-      "focus_tags": [
-        "opinión",
-        "cultura",
-        "media"
-      ],
-      "context": [
-        {
-          "label": "Perfil del medio",
-          "text": "El Economista es un periódico financiero de habla hispana que suele combinar noticias de economía con columnas de opinión y análisis de actualidad."
-        },
-        {
-          "label": "Uso del término \"paria\"",
-          "text": "La palabra \"paria\" tradicionalmente alude a grupos marginados, lo que sugiere que la columna podría abordar una perspectiva social o de exclusión."
-        },
-        {
-          "label": "Diversidad de temas recientes",
-          "text": "Los títulos listados (ecosistema analógico, solución final, poder de soberanía, etc.) indican que el medio cubre una amplia gama de asuntos, desde tecnología hasta política internacional."
-        }
-      ],
-      "confidence": "baja",
-      "qc": {
-        "overall": 7.8
       }
     }
   ]
