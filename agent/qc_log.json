@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:41:27.643452+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y contraste de fuentes, y muestra sesgo sin atribución, aunque está actualizado y estructurado razonablemente.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:41:34.688462+00:00",
       "title": "Seguros médicos, ¿corte embrujada?",
       "kind": "noticia",
@@ -3195,6 +3178,17 @@
       },
       "observacion": "El paquete es informativo y bien estructurado, pero contiene una posible inexactitud respecto al nombre de la versión de macOS, lo que impide una puntuación perfecta.",
       "error": null
+    },
+    {
+      "at": "2026-08-21T16:20:40.451767+00:00",
+      "title": "Rocha Moya retoma gubernatura de Sinaloa tras 112 días de investigación; tacha de falsas las acusaci",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
