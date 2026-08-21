@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T19:41:02.951399+00:00",
+  "generated_at": "2026-08-21T19:54:35.498118+00:00",
   "articles": [
+    {
+      "id": "beece6bc7eaf",
+      "title": "Retrasos, cierres y afectaciones en el Metrobús en tiempo real",
+      "summary": "El Metrobús de la Ciudad de México informó que todas sus líneas operan con estado regular y sin estaciones afectadas en la última hora, mientras describe sus rutas, tarifas y horarios de funcionamiento.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/21/retrasos-cierres-y-afectaciones-en-el-metrobus-en-tiempo-real/",
+      "published_at": "2026-08-21T19:45:45+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin adjetivos cargados ni selección de fuentes que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El artículo se centra en proporcionar información operativa del transporte público, detallando el estado del servicio, rutas y tarifas, dejando de lado análisis de problemas de tráfico, políticas de movilidad o críticas al sistema.",
+      "focus_tags": [
+        "transporte público",
+        "estado del servicio",
+        "CDMX"
+      ],
+      "context": [
+        {
+          "label": "uso del Metrobús",
+          "text": "Según datos del INEGI, el Metrobús transporta más de 22 millones de usuarios al año, convirtiéndose en el segundo medio de transporte más utilizado en la Ciudad de México después del Metro."
+        },
+        {
+          "label": "comparación con el Metro",
+          "text": "El Sistema de Transporte Colectivo (Metro) sigue siendo el principal medio de transporte masivo en la capital, mientras que el Metrobús complementa la red con sus siete líneas y 283 estaciones."
+        },
+        {
+          "label": "información en tiempo real",
+          "text": "El gobierno de la Ciudad de México ha lanzado plataformas digitales que permiten a los usuarios consultar en tiempo real el estado de los servicios de transporte, como el Metrobús, para reducir retrasos y mejorar la experiencia del viajero."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "605016f0e6a1",
       "title": "Previo a Estudiantes de Río Cuarto-San Lorenzo, Unión derrotó a Aldosivi en Mar del Plata y lo hundió en la tabla",
@@ -948,41 +980,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "7a94c1cfb6f8",
-      "title": "Peso mexicano cae marginalmente frente al dólar tras anotar nuevo mejor nivel del año",
-      "summary": "El peso mexicano retrocedió ligeramente frente al dólar, situándose en 16.9573 pesos por unidad, tras haber registrado un nuevo máximo anual y después de la minuta del Banxico que confirmó la mantención de la tasa de interés en 6.50%. El analista Alfredo Marentes atribuye la mayor parte del movimiento al debilitamiento del dólar impulsado por la decisión del Tesoro de ampliar sus operaciones de recompra de bonos.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/mercados/precio-dolar-hoy-20-agosto-2026-cuanto-cerro-20260820-829328.html",
-      "published_at": "2026-08-20T20:15:02+00:00",
-      "bias_score": 12,
-      "bias_reason": "El texto emplea un lenguaje técnico y descriptivo, citando fuentes oficiales como Banxico y analistas de mercado sin usar vocabulario cargado ni favorecer una postura política específica.",
-      "focus_analysis": "El medio se centró en el ángulo económico‑financiero, describiendo la evolución del tipo de cambio y la política monetaria, mientras dejó de lado el impacto social o el contexto político más amplio.",
-      "focus_tags": [
-        "tipo de cambio",
-        "política monetaria",
-        "mercados financieros"
-      ],
-      "context": [
-        {
-          "label": "Política monetaria de Banxico",
-          "text": "En su última reunión, la Junta de Gobierno del Banco de México decidió mantener la tasa de referencia en 6.50%, extendiendo la pausa monetaria que comenzó en junio y posponiendo hasta el cuarto trimestre de 2027 el objetivo de inflación del 3%."
-        },
-        {
-          "label": "Acciones del Tesoro de EE. UU.",
-          "text": "El Departamento del Tesoro anunció que duplicará el tamaño máximo de sus operaciones de recompra de bonos de largo plazo, lo que ha contribuido a un debilitamiento del dólar y ha influido en la cotización del peso mexicano."
-        },
-        {
-          "label": "Comparación histórica del tipo de cambio",
-          "text": "El peso había tocado su nivel más bajo en más de dos años a principios de agosto de 2024, y la reciente caída marginal de 0.06% lo sitúa cerca de ese mínimo histórico, reflejando la volatilidad del mercado cambiario en los últimos años."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
     }
   ]
 }

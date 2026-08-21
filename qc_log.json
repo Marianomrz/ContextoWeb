@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:59:52.686241+00:00",
-      "title": "Castigo a fresa mexicana sienta mal precedente en el comercio con EU: CNA",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y mayormente objetivo, pero la falta de fuentes múltiples limita su exhaustividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:59:59.576302+00:00",
       "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 20 de agosto",
       "kind": "noticia",
@@ -3171,6 +3154,17 @@
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque podría mejorar la diversidad de fuentes.",
       "error": null
+    },
+    {
+      "at": "2026-08-21T19:54:06.296510+00:00",
+      "title": "Retrasos, cierres y afectaciones en el Metrobús en tiempo real",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
