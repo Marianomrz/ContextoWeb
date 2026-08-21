@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-21T08:41:02.805238+00:00",
+  "generated_at": "2026-08-21T08:52:40.849392+00:00",
   "articles": [
+    {
+      "id": "4d1a1e6ab70c",
+      "title": "Las 'batallas de aura' saltan de TikTok a las calles de México",
+      "summary": "Jóvenes mexicanos están organizando 'batallas de aura', concursos de baile y expresiones donde el carisma y la creatividad deciden al ganador, una moda que surgió en TikTok y ahora se celebra en eventos callejeros de ciudades como Veracruz, Xalapa y Ciudad de México, con premios en efectivo.",
+      "category": "sociedad",
+      "source_name": "Euronews Español",
+      "source_url": "http://es.euronews.com/video/2026/08/21/mexico-las-batallas-de-aura-convierten-un-meme-viral-en-concursos-en-directo",
+      "published_at": "2026-08-21T08:46:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a describir la tendencia con tono informativo, sin usar lenguaje cargado ni citar fuentes con inclinación política.",
+      "focus_analysis": "El medio destaca el aspecto lúdico y creativo de la moda entre los jóvenes, dejando de lado posibles análisis sobre su impacto económico o la posición de autoridades locales.",
+      "focus_tags": [
+        "cultura juvenil",
+        "tendencia digital",
+        "entretenimiento urbano"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "TikTok ha impulsado en los últimos años una gran cantidad de retos y micro‑tendencias que pasan de los videos virales a eventos presenciales, como los 'dance challenges' que se organizan en plazas de distintas ciudades del mundo."
+        },
+        {
+          "label": "comparables",
+          "text": "En América Latina ya existen otros eventos callejeros basados en la improvisación, como las batallas de rap o los concursos de freestyle, que comparten la dinámica de rápido impacto y participación del público."
+        },
+        {
+          "label": "posturas",
+          "text": "Algunas municipalidades han expresado preocupación por la seguridad y el uso del espacio público, mientras que organizadores y participantes resaltan el valor social y recreativo de la actividad."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "eaed7b86301f",
       "title": "Una llave oxidada en la nieve del alba: la purga de recuerdos en Sofi Oksanen",
@@ -944,41 +976,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "b6b5e1d27208",
-      "title": "Los widgets cambian para siempre en los móviles Samsung: One UI 9.5 tiene una opción para crearlos tú mismo",
-      "summary": "Samsung, la compañía surcoreana, lanzará One UI 9.5, una actualización que incluirá la función My Custom Widget para crear widgets desde cero en la pantalla de inicio, además de otros cambios de diseño en sus dispositivos compatibles.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/mobile/los-widgets-cambian-para-siempre-en-los-moviles-samsung-one-ui-9-5-tiene-una-opcion-para-crearlos-tu-mismo/",
-      "published_at": "2026-08-20T09:54:50+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto destaca con entusiasmo las novedades de Samsung y no presenta críticas ni opiniones contrapuestas, lo que indica un ligero sesgo positivo pero sin inclinación política clara.",
-      "focus_analysis": "El artículo se centra en los aspectos tecnológicos y de personalización del software, dejando de lado posibles inconvenientes como el consumo de batería o la privacidad de los datos.",
-      "focus_tags": [
-        "personalización UI",
-        "widgets Samsung",
-        "One UI 9.5"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "One UI 9 se lanzó hace poco junto con los nuevos dispositivos plegables de Samsung, y la compañía ya está preparando la versión 9.5 para todos los móviles compatibles."
-        },
-        {
-          "label": "comparación",
-          "text": "Google introdujo una herramienta similar en Android 17 que permite crear widgets personalizados, sirviendo de referencia para la nueva función My Custom Widget de Samsung."
-        },
-        {
-          "label": "cobertura externa",
-          "text": "El Androide Libre, por su parte, enfocó su atención en la renovación del sistema de cámaras del Galaxy S27 Ultra, subrayando que Samsung también está cambiando el hardware de sus dispositivos."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 7.6
       }
     }
   ]

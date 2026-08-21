@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:20:47.927638+00:00",
-      "title": "México aumenta su déficit en el comercio de servicios con EU",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares de precisión y objetividad, aunque presenta una ligera inconsistencia en el contexto histórico que impide una puntuación perfecta.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:20:55.755975+00:00",
       "title": "De la Espriella declara el estado de emergencia en Colombia, dificultando su control por parte del C",
       "kind": "noticia",
@@ -3250,6 +3233,17 @@
       "title": "Una llave oxidada en la nieve del alba: la purga de recuerdos en Sofi Oksanen",
       "kind": "literatura",
       "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-21T08:52:12.757827+00:00",
+      "title": "Las 'batallas de aura' saltan de TikTok a las calles de México",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
