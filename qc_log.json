@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T06:20:41.995224+00:00",
-      "title": "El eco de un cuenco roto: descubriendo a Sadeq Hedayat",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.4,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 8,
-        "estructura_narrativa": 7,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "Texto sólido y evocativo, listo para publicación tras pequeños ajustes estilísticos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T06:20:47.927638+00:00",
       "title": "México aumenta su déficit en el comercio de servicios con EU",
       "kind": "noticia",
@@ -3261,6 +3244,17 @@
       },
       "observacion": "El texto cumple con los estándares editoriales, muestra una voz adecuada y profundidad temática, sin infracciones de derechos de autor.",
       "error": null
+    },
+    {
+      "at": "2026-08-21T07:20:47.416724+00:00",
+      "title": "Una llave oxidada en la nieve del alba: la purga de recuerdos en Sofi Oksanen",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
