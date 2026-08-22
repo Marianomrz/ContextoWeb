@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:20:43.172140+00:00",
-      "title": "Comar ha recibido 684,234 solicitudes de asilo desde 2019",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial, presentando datos recientes y objetivo con fuentes confiables y una estructura clara.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:20:49.606375+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
       "kind": "noticia",
@@ -3130,6 +3113,17 @@
       "title": "\"No quiero que mi epitafio diga que pasé mucho tiempo con el móvil\": los españoles que han dejado Wh",
       "kind": "noticia",
       "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-22T12:00:46.607477+00:00",
+      "title": "Elecciones 2027: ¿Cuándo inicia el Proceso Electoral Federal?",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},

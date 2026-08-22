@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-22T11:49:27.798631+00:00",
+  "generated_at": "2026-08-22T12:01:13.926993+00:00",
   "articles": [
+    {
+      "id": "35e0619b9f1c",
+      "title": "Elecciones 2027: ¿Cuándo inicia el Proceso Electoral Federal?",
+      "summary": "El Instituto Nacional Electoral (INE) de México anunció que el Proceso Electoral Federal 2026‑2027 comenzará el 10 de septiembre de 2026, con una serie de más de 500 actividades que culminarán en la Jornada Electoral del 6 de junio de 2027 para elegir diputados, gobernadores y cargos locales.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/politica/elecciones-2027-inicia-proceso-electoral-federal-20260822-829641.html",
+      "published_at": "2026-08-22T12:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y objetivo, sin palabras cargadas ni selección de fuentes que favorezcan una posición política.",
+      "focus_analysis": "El medio se centró en el ángulo institucional y procedimental, detallando fechas y etapas del proceso electoral, mientras dejó de lado el contexto político, los candidatos y la opinión pública.",
+      "focus_tags": [
+        "proceso electoral",
+        "cronograma",
+        "INE"
+      ],
+      "context": [
+        {
+          "label": "Calendario electoral mexicano",
+          "text": "En México, las elecciones intermedias se realizan cada seis años, en la mitad del sexenio presidencial, y el 2027 corresponde a la elección de la Cámara de Diputados, 17 gobernaturas y numerosos cargos locales."
+        },
+        {
+          "label": "Rol y autonomía del INE",
+          "text": "El Instituto Nacional Electoral, creado en 1990, es la autoridad autónoma encargada de organizar y supervisar los com, garantizando principios de legalidad, imparcialidad y transparencia."
+        },
+        {
+          "label": "Comparación con procesos anteriores",
+          "text": "El inicio del PEF 2026‑2027 sigue una estructura similar a la de 2021‑2022, aunque incorpora nuevas etapas de registro de visitantes extranjeros y mayor énfasis en la capacitación de mesas directivas."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "29101082852e",
       "title": "\"No quiero que mi epitafio diga que pasé mucho tiempo con el móvil\": los españoles que han dejado WhatsApp y el smartphone",
@@ -948,38 +980,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "7666cec20035",
-      "title": "Termina destrozada camioneta BMW tras chocar en la carretera Silao-Irapuato",
-      "summary": "Una camioneta BMW de alta gama se estrelló contra un puente peatonal en la carretera Silao‑Irapuato alrededor de las cuatro de la madrugada, dejando a sus dos ocupantes ilesos y caminando fuera del vehículo.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/leon/2026/08/20/termina-destrozada-camioneta-bmw-tras-chocar-en-la-carretera-silao-irapuato-1834629.html",
-      "published_at": "2026-08-20T22:36:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos sin usar adjetivos cargados ni citar fuentes con sesgo; la redacción es neutra y meramente informativa.",
-      "focus_analysis": "El medio se centró en la descripción del accidente y la condición de los ocupantes, omitiendo análisis sobre la seguridad vial o la infraestructura de la carretera.",
-      "focus_tags": [
-        "accidente vehicular",
-        "seguridad vial",
-        "León"
-      ],
-      "context": [
-        {
-          "label": "Seguridad vial en México",
-          "text": "México presenta una de las tasas más altas de muertes por accidentes de tráfico en América Latina, con miles de incidentes cada año en carreteras como la de Silao‑Irapuato."
-        },
-        {
-          "label": "Vehículos de alta gama y accidentes",
-          "text": "Los automóviles de lujo, como los BMW, suelen contar con sistemas de seguridad avanzados que aumentan la probabilidad de que los ocupantes salgan ilesos incluso en colisiones graves."
-        },
-        {
-          "label": "Policía municipal de León",
-          "text": "Recientes reportes indican que agentes de la Policía Municipal de León han sufrido accidentes durante sus patrullas, lo que refleja los riesgos de la vigilancia en vías urbanas."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }
