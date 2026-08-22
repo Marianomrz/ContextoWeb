@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:21:26.828257+00:00",
-      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general, el paquete cumple con los estándares de objetividad, actualidad y estructura, aunque podría reforzar la verificación de datos y la especificidad de fuentes externas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:21:41.974522+00:00",
       "title": "Nadie escapa de Widow’s Bay",
       "kind": "noticia",
@@ -3104,6 +3087,17 @@
     {
       "at": "2026-08-22T16:00:41.170164+00:00",
       "title": "Experiencia gratis en CDMX: conoce la nueva Casa FIAT en Polanco",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-22T16:34:41.949369+00:00",
+      "title": "Agricultores mexicanos en la mira de defraudadores: así los engañan para robarles 35 mil pesos",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,

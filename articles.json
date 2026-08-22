@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-22T16:21:16.514832+00:00",
+  "generated_at": "2026-08-22T16:35:06.783875+00:00",
   "articles": [
+    {
+      "id": "9cfcb6ee5d7d",
+      "title": "Agricultores mexicanos en la mira de defraudadores: así los engañan para robarles 35 mil pesos",
+      "summary": "La Secretaría de Agricultura y Desarrollo Rural de México emitió una alerta sobre un esquema de fraude que utiliza documentos falsos para solicitar a de 35 mil pesos a agricultores, bajo el pretexto de patrocinio o espacios publicitarios, y advierte que todos sus trámites son gratuitos.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/22/agricultores-mexicanos-en-la-mira-de-defraudadores-asi-los-enganan-para-robarles-35-mil-pesos/",
+      "published_at": "2026-08-22T16:30:47+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a reportar la advertencia oficial con un lenguaje neutral, sin incluir opiniones partidistas ni cargar la información con términos emocionales.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad económica, resaltando la alerta gubernamental y el riesgo financiero para los productores agrícolas, mientras deja de lado el impacto personal y social de los agricultores afectados.",
+      "focus_tags": [
+        "fraude agrícola",
+        "advertencia gubernamental",
+        "seguridad financiera"
+      ],
+      "context": [
+        {
+          "label": "Aumento de denuncias de fraude en México",
+          "text": "Según datos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, las denuncias por fraude en México han crecido un 17 % en el último año, acumulando más de 168 mil casos durante el sexenio de la presidenta Claudia Sheinbaum."
+        },
+        {
+          "label": "Rol de la Secretaría de Agricultura",
+          "text": "La Secretaría de Agricultura y Desarrollo Rural de México, junto con Senasica, Cofepris y Semarnat, ofrece de forma gratuita todos sus programas, servicios y documentos de vinculación institucional a los productores del sector agroalimentario."
+        },
+        {
+          "label": "Tácticas comunes de estafas con documentos falsos",
+          "text": "En México, los estafadores suelen emplear documentos con dominios y números de contacto no oficiales, como correos que no terminan en .gob.mx, para simular patrocinio o publicidad y así obtener pagos de agricultores y empresas del sector."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "ea944b3428af",
       "title": "Experiencia gratis en CDMX: conoce la nueva Casa FIAT en Polanco",
@@ -947,38 +979,6 @@
         {
           "label": "Resistencia al pago digital en Europa",
           "text": "Al igual que en Alemania, el sur de Italia, Polonia y Japón, algunas festividades y locales siguen prefiriendo el efectivo por motivos de privacidad, tradición y problemas de infraestructura."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "215e9e600cdb",
-      "title": "Llega a México Fernando Farías Laguna, excontralmirante de la Marina acusado de liderar red de huachicol fiscal",
-      "summary": "El excontralmirante de la Marina, Fernando Farías Laguna, llegó a México bajo custodia después de ser deportado de Argentina, donde estaba siendo investigado por liderar una red de huachicol fiscal que operó en varios estados del país. Será internado en el penal del Altiplano y puesto a disposición del juez de control por delitos de delincuencia organizada en materia de hidrocarburos.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/21/llega-a-mexico-fernando-farias-laguna-excontralmirante-de-la-marina-acusado-de-liderar-red-de-huachicol-fiscal/",
-      "published_at": "2026-08-21T09:20:13+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a presentar hechos citados de autoridades y documentos oficiales, sin usar lenguaje cargado ni ofrecer opiniones, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y legal del caso, describiendo el proceso de deportación, la acusación y el impacto económico. No se profundiza en el contexto político ni en la posible repercusión social del esquema.",
-      "focus_tags": [
-        "legal",
-        "corrupción fiscal",
-        "seguridad nacional"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "El huachicol fiscal es una práctica de evasión de impuestos sobre combustibles que ha sido perseguida por la Fiscalía Especializada en Materia de Delincuencia Organizada, con operativos que han recuperado cientos de millones de pesos y detenido a funcionarios públicos."
-        },
-        {
-          "label": "cooperación internacional",
-          "text": "El traslado de Farías Laguna contó con la participación de agencias de EE. UU. como el FBI y la DEA, así como de la autoridad argentina, lo que muestra la dimensión transnacional del caso."
-        },
-        {
-          "label": "postura de otros medios",
-          "text": "Otros medios destacaron distintos ángulos: Aristegui Noticias enfatizó el vuelo del excontralmirante, El Sol de México subrayó la pérdida económica de 340 millones de pesos, mientras que El Universal puso foco en la escala en Colombia del avión que lo transportó."
         }
       ],
       "confidence": "alta"
