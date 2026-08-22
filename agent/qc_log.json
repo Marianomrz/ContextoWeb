@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:00:50.411055+00:00",
-      "title": "Temblor hoy en México: noticias actividad sísmica 20 de agosto de 2026",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete cumple con la mayoría de los estándares de calidad, aunque podría mejorar la variedad de fuentes y la claridad del hecho principal en la estructura.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:20:43.172140+00:00",
       "title": "Comar ha recibido 684,234 solicitudes de asilo desde 2019",
       "kind": "noticia",
@@ -3136,6 +3119,17 @@
       "title": "El río de colores que escribe la identidad de Brasil",
       "kind": "literatura",
       "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-22T11:20:41.440849+00:00",
+      "title": "\"No quiero que mi epitafio diga que pasé mucho tiempo con el móvil\": los españoles que han dejado Wh",
+      "kind": "noticia",
+      "category": "tecnologia",
       "approved": true,
       "overall": null,
       "scores": {},

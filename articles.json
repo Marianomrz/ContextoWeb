@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-22T11:01:05.310272+00:00",
+  "generated_at": "2026-08-22T11:21:07.638699+00:00",
   "articles": [
+    {
+      "id": "29101082852e",
+      "title": "\"No quiero que mi epitafio diga que pasé mucho tiempo con el móvil\": los españoles que han dejado WhatsApp y el smartphone",
+      "summary": "El español Diego Hidalgo, ex emprendedor digital y promotor del Movimiento OFF, ha dejado de usar smartphone y WhatsApp, y en la entrevista de Xataka muestra cómo otros ciudadanos como Pablo Marinero también optan por la comunicación tradicional y aplicaciones más privadas.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/moviles/no-quiero-que-mi-epitafio-diga-que-pase-mucho-tiempo-movil-espanoles-que-han-dejado-whatsapp-smartphone",
+      "published_at": "2026-08-22T11:15:33+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y personal sin cargar lenguaje político ni favorecer a ninguna ideología; se centra en experiencias individuales y datos de uso de tecnología.",
+      "focus_analysis": "El medio el el ángulo humano y tecnológico, resaltando historias de desintoxicación digital y privacidad, mientras omite análisis económicos o de políticas públicas sobre la industria móvil.",
+      "focus_tags": [
+        "digital detox",
+        "privacidad",
+        "movimiento OFF"
+      ],
+      "context": [
+        {
+          "label": "Penetración de smartphones en España",
+          "text": "Según datos de la CNMV de 2025, el 94,8 % de los españoles entre 10 y 85 años posee un smartphone, lo que supera los 40 millones de usuarios."
+        },
+        {
+          "label": "Uso de WhatsApp",
+          "text": "El mismo informe indica que el 94,6 % de la población española utiliza WhatsApp como su principal aplicación de mensajería."
+        },
+        {
+          "label": "Movimiento OFF",
+          "text": "El Movimiento OFF, fundado en 2022, promueve la reducción del uso de dispositivos y aplicaciones digitales, organizando campañas como \"Off February 2026\" que animan a los participantes a eliminar apps sociales durante 28 días."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "cff685dc995b",
       "title": "El río de colores que escribe la identidad de Brasil",
@@ -948,38 +980,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "7097dbe798b9",
-      "title": "Develan en Metro Auditorio \"Apoteosis\", el mural holográfico más grande del mundo; \"hace de la estación una obra de arte\": Adrián Rubalcava",
-      "summary": "El artista mexicano Federico Kampf presentó “Apoteosis”, el mural holográfico más grande del mundo, en la estación Auditorio de la línea 7 del Metro de la Ciudad de México, con la presencia de la jefa de Gobierno Clara Brugada y la certificación para intentar el récord Guinness.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/develan-en-metro-auditorio-apoteosis-el-mural-holografico-mas-grande-del-mundo-hace-de-la-estacion-una-obra-de-arte-adrian-rubalcava/",
-      "published_at": "2026-08-20T21:53:51+00:00",
-      "bias_score": 15,
-      "bias_reason": "El texto usa lenguaje elogioso y destaca la participación de autoridades locales sin incluir voces críticas o contrapuntos, lo que muestra una ligera inclinación favorable al gobierno.",
-      "focus_analysis": "El medio se centró en el valor cultural y artístico del mural y su significado simbólico para la ciudad, dejando de lado aspectos económicos o de movilidad del transporte público.",
-      "focus_tags": [
-        "cultura urbana",
-        "arte público",
-        "infraestructura"
-      ],
-      "context": [
-        {
-          "label": "Renovación de la estación",
-          "text": "La estación Auditorio había iniciado obras de remodelación en diciembre y reanudó su servicio en mayo, aunque algunos accesos seguían en construcción al momento del anuncio."
-        },
-        {
-          "label": "Tradición de arte en el Metro",
-          "text": "El Metro de la Ciudad de México celebra su 57.º aniversario y tiene una larga tradición de incorporar obras de arte público en sus estaciones, lo que refuerza la identidad cultural de la capital."
-        },
-        {
-          "label": "Récord Guinness",
-          "text": "El intento de registrar el mural como el más grande del mundo sigue la práctica de la Ciudad de México de buscar reconocimiento internacional mediante récords Guinness en diferentes proyectos."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
