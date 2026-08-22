@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:21:41.974522+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastantes, y muestra un sesgo evidente, pese a estar actualizado y bien estructurado.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:21:49.107542+00:00",
       "title": "Aprueban en fast track renuncia de Soto al TEPJF",
       "kind": "noticia",
@@ -3100,6 +3083,17 @@
       "title": "Agricultores mexicanos en la mira de defraudadores: así los engañan para robarles 35 mil pesos",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-22T18:20:38.999176+00:00",
+      "title": "“México merece servidores públicos que entiendan que los cargos son pasajeros”, Sheinbaum reacciona ",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},

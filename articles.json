@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-22T18:01:10.035906+00:00",
+  "generated_at": "2026-08-22T18:21:06.792908+00:00",
   "articles": [
+    {
+      "id": "a15b8771d0cc",
+      "title": "“México merece servidores públicos que entiendan que los cargos son pasajeros”, Sheinbaum reacciona al caso Rocha Moya",
+      "summary": "La presidenta de México, Claudia Sheinbaum Pardo, declaró que los cargos públicos son pasajeros y que el servicio a la nación debe primar sobre intereses personales, tras el regreso del gobernador de Sinaloa, Rubén Rocha Moya, quien había tomado una licencia tras acusaciones de EE. UU. de vínculo con el crimen organizado.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/politica/mexico-merece-servidores-publicos-entiendan-cargos-son-pasajeros-sheinbaum-reacciona-caso-rocha-moya-20260822-829665.html",
+      "published_at": "2026-08-22T18:19:59+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto usa un lenguaje moralista y destaca exclusivamente las declaraciones de Sheinbaum, omitiendo voces críticas de la oposición o de la ciudadanía, lo que le da un tono levemente favorable al gobierno de izquierda.",
+      "focus_analysis": "El medio se centró en el discurso institucional de la presidenta sobre la temporariedad de los cargos y la responsabilidad nacional, dejando de lado el análisis de las implicaciones legales o la perspectiva de los ciudadanos de Sinaloa.",
+      "focus_tags": [
+        "política institucional",
+        "ética pública",
+        "controversia Sinaloa"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Rubén Rocha Moya, gobernante de Sinaloa, solicitó una licencia indefinida después de que EE. UU. lo vinculara con el crimen organizado, permaneciendo fuera del cargo más de 110 días antes de regresar."
+        },
+        {
+          "label": "reacción de Morena",
+          "text": "Diversos dirigentes del partido Morena criticaron el regreso de Rocha Moya, exigiendo mayor madurez y congruencia política, según informó Infobae."
+        },
+        {
+          "label": "fuente de la información de Sheinbaum",
+          "text": "El Universal informó que la presidenta Sheinbaum se enteró del retorno de Rocha Moya a través de sus redes sociales y que no había mantenido conversación directa con el gobernador."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "9cfcb6ee5d7d",
       "title": "Agricultores mexicanos en la mira de defraudadores: así los engañan para robarles 35 mil pesos",
@@ -947,38 +979,6 @@
         {
           "label": "explicación psicológica",
           "text": "El psicólogo experimental Charles Spence de Oxford compara la fascinación por los alimentos locales con la \"paradoja del vino rosado de Provenza\", señalando que el contexto del viaje otorga un valor simbólico a productos cotidianos."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "51bbc4a9522c",
-      "title": "Bilbao se ha marcado un Alemania: prohibido pagar con Bizum o tarjeta en la Aste Nagusia",
-      "summary": "Bilbao ha decidido que en la Aste Nagusia, su fiesta mayor, solo se aceptará efectivo, prohibiendo el uso de Bizum, tarjetas o códigos QR, bajo el argumento de evitar comisiones bancarias, problemas de cobertura móvil y cumplir con la normativa fiscal TicketBAI.",
-      "category": "sociedad",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/magnet/bilbao-se-ha-marcado-alemania-prohibido-pagar-bizum-tarjeta-aste-nagusia",
-      "published_at": "2026-08-21T09:31:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos y los argumentos de los organizadores sin usar vocabulario cargado ni favorecer una postura política o tecnológica.",
-      "focus_analysis": "El artículo se centra en la tradición y la lógica fiscal de la fiesta, dejando de lado el debate sobre la inclusión digital y la modernización de los sistemas de pago.",
-      "focus_tags": [
-        "cultura local",
-        "pagos en efectivo",
-        "fiesta tradicional"
-      ],
-      "context": [
-        {
-          "label": "Historia de la Aste Nagusia",
-          "text": "La Aste Nagusia es la Semana Grande de Bilbao, celebrada desde 1978 con más de 500 actividades gratuitas y cientos de miles de asistentes cada edición."
-        },
-        {
-          "label": "Normativa TicketBAI",
-          "text": "Desde 2019, la Norma Foral 4/2019 obliga a las casetas de la Aste Nagusia a emitir facturas electrónicas y a registrar sus ingresos bajo el sistema TicketBAI, que controla la fiscalidad de entidades que facturen más de 50.000 euros en nueve días."
-        },
-        {
-          "label": "Resistencia al pago digital en Europa",
-          "text": "Al igual que en Alemania, el sur de Italia, Polonia y Japón, algunas festividades y locales siguen prefiriendo el efectivo por motivos de privacidad, tradición y problemas de infraestructura."
         }
       ],
       "confidence": "alta"
