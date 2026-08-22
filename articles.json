@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-22T15:30:34.410063+00:00",
+  "generated_at": "2026-08-22T15:41:08.120001+00:00",
   "articles": [
+    {
+      "id": "9e92746210f7",
+      "title": "Profeco le da la razón al Coyote y promete atender su queja contra ACME",
+      "summary": "La Procuraduría Federal del Consumidor de México, Profeco, aceptó la queja ficticia del personaje animado Wile E. Coyote contra la empresa ACME y anunció que la atenderá, en el contexto de la campaña promocional de la película Coyote vs. ACME que se estrenará el 27 de agosto de 2026.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/22/profeco-le-da-la-razon-al-coyote-y-promete-atender-su-queja-contra-acme/",
+      "published_at": "2026-08-22T15:37:18+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono humorístico y promocional sin emplear vocabulario cargado ni fuentes políticas, limitándose a citar a la distribuidora y a Profeco, lo que indica una cobertura neutra.",
+      "focus_analysis": "El medio se centró en el aspecto de entretenimiento y la interacción ligera entre la autoridad de consumo y la campaña de la película, omitiendo cualquier análisis sobre la efectividad real de Profeco o sobre problemas de consumo más amplios.",
+      "focus_tags": [
+        "entretenimiento",
+        "protección al consumidor",
+        "cultura pop"
+      ],
+      "context": [
+        {
+          "label": "Profeco",
+          "text": "La Procuraduría Federal del Consumidor (Profeco) es la autoridad mexicana responsable de defender los derechos de los consumidores y de tramitar quejas contra proveedores de bienes y servicios."
+        },
+        {
+          "label": "Coyote vs. ACME",
+          "text": "La película 'Coyote vs. ACME', dirigida por Dave Green y con Will Forte, John Cena y Lana Condor en el elenco, se estrenará en México el 27 de agosto de 2026, combinando acción real con animación del icónico personaje de Looney Tunes."
+        },
+        {
+          "label": "Cobertura comparada",
+          "text": "Infobae enfatiza la interacción humorística entre Profeco y la distribuidora, mientras que El Sol de México se enfoca en los detalles de producción y reparto, resaltando la cinta como un evento cultural más que una cuestión de consumo."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "62d572488027",
       "title": "Qué hacía el hijo el R1 cerca de donde asesinaron a Valeria Márquez, su ex pareja con quien habló poco antes de su muerte",
@@ -950,39 +982,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "eaed7b86301f",
-      "title": "Una llave oxidada en la nieve del alba: la purga de recuerdos en Sofi Oksanen",
-      "summary": "Una llave oxidada yace bajo la nieve recién derretida, su metal frío recordando los secretos que el invierno ha guardado. Al levantarla, el crujido rompe el silencio del amanecer, como la voz de una generación que emerge de la escarcha de la represión. En la novela 'Purge', Sofi Oksanen despliega esa misma llave, abriendo puertas a recuerdos que la historia intentó enterrar.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-21T07:20:47.174977+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, el clima de incertidumbre política en Europa vuelve a resonar con los ecos de los regímenes autoritarios del siglo XX. 'Purge' ofrece una lente íntima para entender cómo los traumas individuales se entrelazan con los procesos de limpieza histórica. Elegí este libro porque su estructura fragmentada refleja la forma en que la memoria se recompone tras el deshielo.",
-      "focus_tags": [
-        "Estonia",
-        "Ficción contemporánea",
-        "Feminismo"
-      ],
-      "context": [
-        {
-          "label": "Primer paso",
-          "text": "Comienza leyendo la edición española de 'Purge', disponible en librerías y plataformas digitales; la prosa de Oksanen combina precisión poética con un ritmo que atrapa al lector desde la primera página."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Si te impacta 'Purge', continúa con 'El libro de los muertos' de Antti Tuomainen o con 'El bosque de los recuerdos' de Valentina Šimonienė, novelas que exploran la sombra del pasado en la zona báltica."
-        },
-        {
-          "label": "Trasfondo histórico",
-          "text": "Investiga la ocupación soviética de Estonia y la política de 'purga' de los años 1940‑1950; los archivos del Museo de la Ocupación en Tallin ofrecen testimonios que enriquecen la lectura."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true
     }
   ]
 }

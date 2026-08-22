@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:21:06.111724+00:00",
-      "title": "El líder criminal del CJNG en los límites con Jalisco",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares, aunque la verificación de algunos nombres y eventos es incierta y la falta de fuentes múltiples reduce el contraste.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:21:15.953772+00:00",
       "title": "El accesorio ideal para los que tenemos un Mac mini M4 o M5 con poco almacenamiento. Es de Satechi y",
       "kind": "noticia",
@@ -3123,6 +3106,17 @@
       },
       "observacion": "El paquete es puntual y bien estructurado, pero la falta de fuentes contrastantes reduce su cobertura completa del conflicto.",
       "error": null
+    },
+    {
+      "at": "2026-08-22T15:40:39.387484+00:00",
+      "title": "Profeco le da la razón al Coyote y promete atender su queja contra ACME",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
