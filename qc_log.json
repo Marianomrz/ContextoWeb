@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:00:36.207741+00:00",
-      "title": "Enrique de Inglaterra y Meghan Markle se mudan al Reino Unido seis años después de su sonada marcha ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo presenta una estructura adecuada y es actual, pero su falta de veracidad y el sesgo evidente lo hacen poco fiable como noticia objetiva.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:00:44.041741+00:00",
       "title": "Seguros médicos, ¿corte embrujada?",
       "kind": "noticia",
@@ -3153,6 +3136,17 @@
       },
       "observacion": "El paquete es actual y objetivo, pero la inconsistencia entre título y resumen y la falta de una estructura clara reducen su calidad editorial.",
       "error": null
+    },
+    {
+      "at": "2026-08-22T01:20:43.748560+00:00",
+      "title": "Germán Berterame confiesa su sorpresa al quedar fuera del Mundial 2026",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
