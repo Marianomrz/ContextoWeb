@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:00:44.041741+00:00",
-      "title": "Seguros médicos, ¿corte embrujada?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los requisitos de actualidad y estructura, pero necesita fuentes más contrastadas y citas verificables para alcanzar una mayor precisión y equilibrio.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:00:50.411055+00:00",
       "title": "Temblor hoy en México: noticias actividad sísmica 20 de agosto de 2026",
       "kind": "noticia",
@@ -3142,6 +3125,17 @@
       "title": "Germán Berterame confiesa su sorpresa al quedar fuera del Mundial 2026",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-22T09:53:10.519918+00:00",
+      "title": "El río de colores que escribe la identidad de Brasil",
+      "kind": "literatura",
+      "category": "literatura",
       "approved": true,
       "overall": null,
       "scores": {},
