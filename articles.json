@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-22T15:01:05.411414+00:00",
+  "generated_at": "2026-08-22T15:21:16.214573+00:00",
   "articles": [
+    {
+      "id": "62d572488027",
+      "title": "Qué hacía el hijo el R1 cerca de donde asesinaron a Valeria Márquez, su ex pareja con quien habló poco antes de su muerte",
+      "summary": "Francisco Álvarez Osorio, hijo de José Rodolfo Villarreal, conocido como el R1 del Cártel Jalisco Nueva Generación, declaró en una entrevista que estuvo cerca del salón donde la influencer Valeria Márquez fue asesinada en 2025 y que no tiene ninguna relación con el feminicidio.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/22/que-hacia-el-hijo-el-r1-cerca-de-donde-asesinaron-a-valeria-marquez-su-ex-pareja-con-quien-hablo-poco-antes-de-su-muerte/",
+      "published_at": "2026-08-22T15:14:58+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto se centra en la entrevista y en la defensa del entrevistado, usando un tono descriptivo sin incluir opiniones políticas; la ligera inclinación sensacionalista no supera la neutralidad.",
+      "focus_analysis": "El medio prioriza el testimonio personal y los detalles del crimen, dejando de lado un análisis más amplio del contexto delictivo del cartel y de la violencia de género estructural.",
+      "focus_tags": [
+        "testimonio personal",
+        "feminicidio",
+        "relación de pareja"
+      ],
+      "context": [
+        {
+          "label": "antecedente del hecho",
+          "text": "Valeria Márquez, influencer mexicana, fue asesinada a tiros durante una transmisión en vivo en mayo de 2025, provocando una gran cobertura mediática y debates sobre la violencia contra las mujeres."
+        },
+        {
+          "label": "perfil del R1",
+          "text": "José Rodolfo Villarreal, apodado el R1, es reconocido como uno de los líderes del Cártel Jalisco Nueva Generación, una organización criminal que opera en varios estados de México."
+        },
+        {
+          "label": "comparación con otras coberturas",
+          "text": "Otros medios, como la BBC Mundo, contextualizan casos similares dentro de redes políticas y criminales más amplias, mientras que Infobae se centra en la narrativa del propio sospechoso."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.8
+      }
+    },
     {
       "id": "b1f9a40b4510",
       "title": "Franco Colapinto largará 14° la carrera principal del Gran Premio de Países Bajos de Fórmula 1",
@@ -948,38 +983,6 @@
       ],
       "confidence": "alta",
       "editorial_pick": true
-    },
-    {
-      "id": "93bc936e8ef9",
-      "title": "AMPI Guadalajara activa \"Cita Segura\" tras desaparición de agentes inmobiliarios",
-      "summary": "La Asociación Mexicana de Profesionales Inmobiliarios (AMPI) Guadalajara lanzó la herramienta \"Cita Segura\" para registrar datos y ubicación de las visitas a inmuebles, tras la desaparición de tres agentes inmobiliarios en los municipios de Zapopan y Puerto Vallarta, y solicitó mayor coordinación con la Fiscalía de Jalisco.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/ampi-guadalajara-activa-cita-segura-desaparicion-agentes-inmobiliarios-20260820-829372.html",
-      "published_at": "2026-08-21T00:19:15+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y neutro, sin emplear vocabulario cargado ni citar fuentes partidistas, enfocándose en la iniciativa de la asociación y la petición a autoridades.",
-      "focus_analysis": "El medio se centró en el ángulo institucional y de seguridad, destacando la respuesta de la asociación y la herramienta tecnológica; dejó de lado la dimensión humana de las desapariciones y el posible impacto económico del sector.",
-      "focus_tags": [
-        "seguridad inmobiliaria",
-        "tecnología",
-        "prevención"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "En los últimos meses, tres asesores inmobiliarios fueron reportados desaparecidos en Jalisco, dos en Zapopan y uno en Puerto Vallarta, lo que generó preocupación entre los profesionales del sector."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "En otras regiones de México y de América Latina, la seguridad de los agentes inmobiliarios suele depender de medidas informales; la implementación de una aplicación que registre citas y ubicación es poco frecuente."
-        },
-        {
-          "label": "Postura de autoridades",
-          "text": "La Fiscalía de Jalisco ha confirmado que continúa investigando los casos de desaparición y ha recibido la solicitud de AMPI Guadalajara para mejorar la comunicación y compartir información que ayude a prevenir futuros incidentes."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

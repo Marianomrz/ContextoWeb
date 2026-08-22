@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:20:57.289966+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, neutralidad y actualidad, ofreciendo una cobertura adecuada y bien estructurada del evento televisivo.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:21:06.111724+00:00",
       "title": "El líder criminal del CJNG en los límites con Jalisco",
       "kind": "noticia",
@@ -3123,6 +3106,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-22T15:20:46.559472+00:00",
+      "title": "Qué hacía el hijo el R1 cerca de donde asesinaron a Valeria Márquez, su ex pareja con quien habló po",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es puntual y bien estructurado, pero la falta de fuentes contrastantes reduce su cobertura completa del conflicto.",
+      "error": null
     }
   ]
 }
