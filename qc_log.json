@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:21:58.992905+00:00",
-      "title": "Al menos 12 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares editoriales; sólo podría mejorar la verificación directa de cifras.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:25:14.442936+00:00",
       "title": "Carlos Torres Piña: “No tengo padrinos, tengo un proyecto”; busca coordinar la 4T en Michoacán",
       "kind": "noticia",
@@ -3093,6 +3076,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-22T23:40:50.219422+00:00",
+      "title": "Continúa la fecha 6 del Torneo Clausura: así está la pelea de la Tabla Anual por la Libertadores y l",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la ausencia de fuentes verificables limita la puntuación de veracidad.",
+      "error": null
     }
   ]
 }

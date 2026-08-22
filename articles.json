@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-22T23:29:42.176579+00:00",
+  "generated_at": "2026-08-22T23:41:23.291809+00:00",
   "articles": [
+    {
+      "id": "13a20e338cba",
+      "title": "Continúa la fecha 6 del Torneo Clausura: así está la pelea de la Tabla Anual por la Libertadores y la lucha por evitar el descenso",
+      "summary": "En la sexta jornada del Torneo Clausura de la Liga Profesional de Fútbol de Argentina, los equipos disputan puestos para la Copa Libertadores y luchan por evitar el descenso, con Unión de Santa Fe venciendo a Aldosivi y Belgrano de Córdoba ya asegurado para la Libertadores tras el Apertura.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/22/continua-la-fecha-6-del-torneo-clausura-asi-esta-la-pelea-de-la-tabla-anual-por-la-libertadores-y-la-lucha-por-evitar-el-descenso/",
+      "published_at": "2026-08-22T23:35:35+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir resultados y la tabla sin usar adjetivos cargados ni favorecer a ningún club, manteniendo un tono informativo típico de la cobertura deportiva.",
+      "focus_analysis": "El medio se centra en el aspecto competitivo del torneo, resaltando la clasificación a copas internacionales y la lucha por la permanencia, mientras omite temas como la afición, la economía del club o la gestión institucional.",
+      "focus_tags": [
+        "torneo clausura",
+        "clasificación liberta",
+        "lucha por descenso"
+      ],
+      "context": [
+        {
+          "label": "estructura del torneo",
+          "text": "En la Liga Profesional de Fútbol de Argentina, la temporada se divide en Apertura y Clausura; los ocho primeros de cada zona avanzan a los octavos de final y los mejores puestos de la Tabla Anual determinan los cupos a la Copa Libertadores y a la Copa Sudamericana."
+        },
+        {
+          "label": "Belgrano de Córdoba",
+          "text": "Belgrano de Córdoba ganó el Torneo Apertura 2026, lo que le garantiza un puesto directo en la Copa Libertadores 2027, independientemente de su desempeño en la Clausura."
+        },
+        {
+          "label": "sistema de descenso",
+          "text": "El descenso en la Primera División argentina se calcula mediante un promedio de puntos de los últimos tres torneos; los equipos con el promedio más bajo al final de la temporada descienden, lo que coloca a Aldosivi y al equipo conocido como el Tiburón en posición vulnerable."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "1211e33e0de0",
       "title": "Ingresaron a su casa y mataron a doctora en Chilpancingo, Guerrero: habría recibido amenazas",
@@ -950,38 +985,6 @@
       "qc": {
         "overall": 8.6
       }
-    },
-    {
-      "id": "1493bcd6c317",
-      "title": "Franco Colapinto afronta la práctica libre del GP de Países Bajos",
-      "summary": "El piloto argentino Franco Colapinto participó en la práctica libre del Gran Premio de Países Bajos en Zandvoort, logrando el segundo puesto con un tiempo de 1:25.562, mientras se preparaba para la clasificación y la carrera del fin de semana.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/21/franco-colapinto-afronta-la-practica-libre-y-la-clasificacion-de-la-sprint-del-gp-de-paises-bajos-hora-tv-y-todo-lo-que-hay-que-saber/",
-      "published_at": "2026-08-21T10:35:22+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje descriptivo y objetivo, sin adjetivos cargados ni selección de fuentes que favorezcan una postura política o deportiva.",
-      "focus_analysis": "El artículo se centra en el desempeño deportivo de Colapinto y la programación del evento, omitiendo aspectos humanos o institucionales más amplios.",
-      "focus_tags": [
-        "Formula 1",
-        "Gran Premio de Países Bajos",
-        "Franco Colapinto"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria de Franco Colapinto",
-          "text": "Franco Colapinto es el primer piloto argentino en competir de forma regular en la Fórmula 1, debutando con el equipo Alpine en 2024 y ganando reconocimiento por su rapidez en sesiones de práctica."
-        },
-        {
-          "label": "Historia del GP de Países Bajos",
-          "text": "El Gran Premio de Países Bajos, celebrado en el circuito de Zandvoort, regresó al calendario de la Fórmula 1 en 2021 tras una larga ausencia, y se ha convertido en una cita importante para los equipos y pilotos europeos."
-        },
-        {
-          "label": "Representación argentina en la F1",
-          "text": "Argentina ha tenido escasa representación en la Fórmula 1 en las últimas décadas, por lo que la participación de Colapinto genera un amplio interés mediático y de los aficionados en su país."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
