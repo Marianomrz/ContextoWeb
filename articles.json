@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-23T01:21:23.523118+00:00",
+  "generated_at": "2026-08-23T01:41:11.327113+00:00",
   "articles": [
+    {
+      "id": "b896dd862711",
+      "title": "Día del Bombero en Guanajuato: Homenajean a rescatistas de León, Salamanca y la capital",
+      "summary": "En el Día del Bombero, los municipios de León, Salamanca y la capital de Guanajuato rindieron homenaje a sus cuerpos de rescate, destacando la trayectoria del joven bombero Diego Paúl Castillo y anunciando inversiones de más de 43 millones de pesos para renovar estaciones y equipar a más de 300 bomberos en León.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/leon/2026/08/22/dia-del-bombero-en-guanajuato-homenajean-a-rescatistas-de-leon-salamanca-y-la-capital-1835507.html",
+      "published_at": "2026-08-23T01:38:42+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono laudatorio y descriptivo, sin cargar lenguaje político ni seleccionar fuentes controversiales; se centra en la celebración y en datos institucionales.",
+      "focus_analysis": "El medio eligió un ángulo humano‑institucional, resaltando historias personales y la inversión en infraestructura de los bomberos, mientras omite análisis críticos sobre la asignación de recursos o desafíos operacionales.",
+      "focus_tags": [
+        "homenaje bomberos",
+        "inversión infraestructura",
+        "historias personales"
+      ],
+      "context": [
+        {
+          "label": "Día del Bombero",
+          "text": "El 22 de agosto se conmemora en México el Día Nacional del Bombero, una jornada que reconoce la labor de los cuerpos de bomberos en todo el país."
+        },
+        {
+          "label": "Cuerpo de Bomberos de León",
+          "text": "León cuenta con más de 300 bomberos distribuidos en nueve estaciones operativas; en los últimos años se han destinado más de 43 millones de pesos para la renovación de estaciones y la adquisición de equipamiento especializado."
+        },
+        {
+          "label": "Cuerpo de Bomberos Voluntarios de Salamanca",
+          "text": "El cuerpo de bomberos voluntarios de Salamanca celebra 66 años de existencia, manteniendo una tradición de servicio intergeneracional que incluye a familias como la de Juan y Israel Orta."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "13a20e338cba",
       "title": "Continúa la fecha 6 del Torneo Clausura: así está la pelea de la Tabla Anual por la Libertadores y la lucha por evitar el descenso",
@@ -950,41 +982,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "9133cac4fd70",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Infancia confía en trasladar a las niñas “en pocas semanas” pero admite que no ha enviado aún una propuesta concreta a Ceuta",
-      "summary": "El gobierno español está preparando el traslado de unas 500 niñas migrantes que llegaron a Ceuta, mientras las autoridades locales retoman la limpieza de la playa del Trampolín y la Unión Europea exige la devolución de todos los migrantes que entraron de manera irregular.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-21/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-21T11:32:40+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto utiliza el término \"entrada ilegal\" y destaca la vulnerabilidad de las menores, lo que refleja una postura ligeramente izquierdista centrada en la dimensión humanitaria, aunque también menciona la posición de la UE.",
-      "focus_analysis": "El medio se centra en la situación de las menores migrantes y en la labor de limpieza, dejando de lado la perspectiva de seguridad y el impacto económico del proceso.",
-      "focus_tags": [
-        "migración infantil",
-        "política de asilo",
-        "respuesta institucional"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes geográficos",
-          "text": "Ceuta es un enclave español en el norte de África que suele ser punto de llegada de migrantes procedentes de África subsahariana."
-        },
-        {
-          "label": "Datos del incidente",
-          "text": "A finales de junio de 2026, miles de migrantes ingresaron a Ceuta de forma no autorizada, entre ellos varios cientos de menores no acompañados."
-        },
-        {
-          "label": "Cobertura comparada",
-          "text": "Otros medios, como France24, subrayan el conflicto con la política de la Unión Europea y la intención del Gobierno de trasladar a 500 niñas a la península, enfatizando la crítica al plan."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }

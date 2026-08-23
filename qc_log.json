@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:25:14.442936+00:00",
-      "title": "Carlos Torres Piña: “No tengo padrinos, tengo un proyecto”; busca coordinar la 4T en Michoacán",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "En general, el paquete es reciente y estructurado, pero necesita mayor contraste de fuentes para cumplir plenamente con los estándares de objetividad y equilibrio.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:25:24.117474+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
       "kind": "noticia",
@@ -3093,6 +3076,17 @@
       },
       "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la ausencia de fuentes verificables limita la puntuación de veracidad.",
       "error": null
+    },
+    {
+      "at": "2026-08-23T01:40:43.376467+00:00",
+      "title": "Día del Bombero en Guanajuato: Homenajean a rescatistas de León, Salamanca y la capital",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
