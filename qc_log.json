@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:26:17.725862+00:00",
-      "title": "UNAM prevé que más de la mitad de los aspirantes que presentaron examen de control obtengan un lugar",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 0,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los requisitos de precisión, contraste de fuentes y objetividad, aunque podría ampliarse con más voces para una cobertura más completa.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:26:23.589813+00:00",
       "title": "Aprueban en fast track renuncia de Soto al TEPJF",
       "kind": "noticia",
@@ -3052,6 +3035,17 @@
       "title": "Elche - Barcelona en directo | Adeyemi marca el segundo justo antes del descanso",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-23T21:40:37.752118+00:00",
+      "title": "Luchan para defender 613 árboles en Morelia: Gobierno inicia tala para construir sistema de transpor",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
