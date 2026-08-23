@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-23T20:01:06.131314+00:00",
+  "generated_at": "2026-08-23T20:25:37.083455+00:00",
   "articles": [
+    {
+      "id": "9b29cde76abc",
+      "title": "Elche - Barcelona en directo | Adeyemi marca el segundo justo antes del descanso",
+      "summary": "El Barcelona de la Liga española, dirigido por Hansi Flick, ganó al Elche 2‑0 en el Martínez Valero, con goles de Raphinha de penalti y Karim Adeyemi, quien anotó en su debut.",
+      "category": "deportes",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html",
+      "published_at": "2026-08-23T20:23:20+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del partido sin usar adjetivos cargados ni seleccionar fuentes con agenda, manteniendo un tono neutral típico de la crónica deportiva.",
+      "focus_analysis": "El medio se centra en el desarrollo del juego y los goles, resaltando el debut de Adeyemi, mientras deja de lado análisis táctico profundo o la repercusión del resultado en la clasificación.",
+      "focus_tags": [
+        "fútbol",
+        "Liga española",
+        "Barcelona"
+      ],
+      "context": [
+        {
+          "label": "Objetivo del Barcelona",
+          "text": "El Barcelona busca conseguir su tercera Liga consecutiva bajo Hansi Flick, quien comenzó su tercera temporada al frente del club."
+        },
+        {
+          "label": "Situación del Elche",
+          "text": "El Elche, que empató 1‑1 contra el Deportivo en su debut, intenta mejorar su posición en la tabla tras una temporada de altibajos."
+        },
+        {
+          "label": "Ajustes de plantilla",
+          "text": "El equipo de Barcelona aún no cuenta con Rodri, su reciente incorporación, y sufrió la lesión de Gavi, lo que afecta su esquema ofensivo."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "75045f455860",
       "title": "Gala Montes se va contra Juan Guarnizo y su ataque reaviva los rumores sobre Ari Gameplays y Rivers: “Con razón te dejaron por una mujer”",
@@ -950,41 +982,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "45def2364fb6",
-      "title": "Detienen en Chiapas a 8 personas ligadas a grupos delictivos; \"Cadenudo\" e integrantes de \"Los Cuatetes\", entre ellos",
-      "summary": "El secretario de Seguridad y Protección Ciudadana, Omar García Harfuch, anunció que en cinco operativos en Chiapas se detuvo a ocho personas vinculadas a grupos delictivos, entre ellos el presunto narcotraficante \"Cadenudo\" y miembros de la organización \"Los Cuatetes\". Los detenidos enfrentan órdenes de extradición y aprehensión en Guatemala por su presunta participación en el tráfico de cocaína y homicidios.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/detienen-en-chiapas-a-8-personas-ligadas-a-grupos-delictivos-cadenudo-e-integrantes-de-los-cuatetes-entre-ellos/",
-      "published_at": "2026-08-21T15:37:33+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto se basa exclusivamente en declaraciones del gobierno y presenta la acción policial como un éxito, sin incluir voces críticas ni análisis de causas, lo que indica un sesgo ligeramente favorable al oficialismo.",
-      "focus_analysis": "El medio se centra en la perspectiva institucional y de seguridad, resaltando la efectividad de los operativos y la captura de criminales, mientras omite el contexto social y las posibles repercusiones en la población local.",
-      "focus_tags": [
-        "seguridad pública",
-        "crimen organizado",
-        "Chiapas"
-      ],
-      "context": [
-        {
-          "label": "antecedentes criminales",
-          "text": "Chiapas ha sido históricamente una zona de paso para el narcotráfico y de actividad de grupos como Los Cuatetes, que se asocian con homicidios y el contrabando de combustible."
-        },
-        {
-          "label": "autoridad de seguridad",
-          "text": "Omar García Harfuch, titular de la Secretaría de Seguridad y Protección Ciudadana, ha liderado una política de despliegue de operativos contra el crimen organizado a nivel nacional."
-        },
-        {
-          "label": "relaciones binacionales",
-          "text": "México y Guatemala mantienen acuerdos de extradición para combatir el tráfico de drogas, y varios de los detenidos cuentan con órdenes de captura emitidas por la justicia guatemalteca."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
       }
     }
   ]

@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:26:12.117994+00:00",
-      "title": "El líder criminal del CJNG en los límites con Jalisco",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo presenta una información reciente y estructurada, pero su veracidad y contraste de fuentes son insuficientes para cumplir plenamente con los estándares de calidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:26:17.725862+00:00",
       "title": "UNAM prevé que más de la mitad de los aspirantes que presentaron examen de control obtengan un lugar",
       "kind": "noticia",
@@ -3058,6 +3041,17 @@
       "title": "Gala Montes se va contra Juan Guarnizo y su ataque reaviva los rumores sobre Ari Gameplays y Rivers:",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-23T20:25:07.688817+00:00",
+      "title": "Elche - Barcelona en directo | Adeyemi marca el segundo justo antes del descanso",
+      "kind": "noticia",
+      "category": "deportes",
       "approved": true,
       "overall": null,
       "scores": {},
