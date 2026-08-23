@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:25:33.654929+00:00",
-      "title": "Comar ha recibido 684,234 solicitudes de asilo desde 2019",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y objetivo, pero necesita incorporar fuentes y perspectivas adicionales para cubrir el contraste necesario en un tema de migración.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T07:25:44.275559+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión y actualidad, pero necesita mayor diversidad de fuentes para reforzar el contraste y la profundidad del informe.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:25:51.127568+00:00",
       "title": "El accesorio ideal para los que tenemos un Mac mini M4 o M5 con poco almacenamiento. Es de Satechi y",
       "kind": "noticia",
@@ -3076,6 +3042,34 @@
       "title": "El susurro del nieve caída: Kawabata y la belleza del silencio",
       "kind": "literatura",
       "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-23T15:20:41.537627+00:00",
+      "title": "Detienen a 4 sospechosos por la muerte de elefantes en Kenia; indagan causa de muerte",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 7.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado para publicación, pero necesita fuentes más verificables y una mayor diversidad de voces para reforzar su credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-23T15:20:44.200118+00:00",
+      "title": "Atlas firma tercera derrota seguida de Cruz Azul en el Apertura 2026",
+      "kind": "noticia",
+      "category": "deportes",
       "approved": true,
       "overall": null,
       "scores": {},
