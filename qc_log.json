@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:26:08.150173+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete muestra problemas de veracidad y falta de fuentes contrastadas, lo que compromete su calidad editorial a pesar de ser objetivo y actual.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:26:12.117994+00:00",
       "title": "El líder criminal del CJNG en los límites con Jalisco",
       "kind": "noticia",
@@ -3064,6 +3047,17 @@
       "title": "Sheinbaum reacciona a nueva licencia de Rocha Moya: “fue lo mejor para Sinaloa”",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-23T18:40:44.306404+00:00",
+      "title": "Gala Montes se va contra Juan Guarnizo y su ataque reaviva los rumores sobre Ari Gameplays y Rivers:",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
