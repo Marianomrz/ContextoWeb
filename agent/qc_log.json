@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:25:24.117474+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando información veraz, contrastada y objetiva.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:25:33.654929+00:00",
       "title": "Comar ha recibido 684,234 solicitudes de asilo desde 2019",
       "kind": "noticia",
@@ -3082,6 +3065,17 @@
       "title": "Día del Bombero en Guanajuato: Homenajean a rescatistas de León, Salamanca y la capital",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-23T13:00:48.621333+00:00",
+      "title": "El susurro del nieve caída: Kawabata y la belleza del silencio",
+      "kind": "literatura",
+      "category": "literatura",
       "approved": true,
       "overall": null,
       "scores": {},
