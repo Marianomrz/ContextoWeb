@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:25:51.127568+00:00",
-      "title": "El accesorio ideal para los que tenemos un Mac mini M4 o M5 con poco almacenamiento. Es de Satechi y",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita mejorar la veracidad y la diversidad de fuentes para alcanzar un estándar periodístico más sólido, aunque la actualidad y la estructura son adecuadas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:25:58.355254+00:00",
       "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
       "kind": "noticia",
@@ -3075,6 +3058,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-23T16:20:38.100311+00:00",
+      "title": "Franco Colapinto recibió una de las sanciones más duras que se aplican en una carrera de F1 en el GP",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente adecuado, pero presenta imprecisiones en la terminología del penal y se beneficia de fuentes más variadas para reforzar la veracidad.",
+      "error": null
     }
   ]
 }
