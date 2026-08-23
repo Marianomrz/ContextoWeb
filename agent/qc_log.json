@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:25:58.355254+00:00",
-      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es mayormente adecuado pero presenta inconsistencias que afectan su veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:26:08.150173+00:00",
       "title": "Nadie escapa de Widow’s Bay",
       "kind": "noticia",
@@ -3075,6 +3058,17 @@
       },
       "observacion": "El paquete es mayormente adecuado, pero presenta imprecisiones en la terminología del penal y se beneficia de fuentes más variadas para reforzar la veracidad.",
       "error": null
+    },
+    {
+      "at": "2026-08-23T17:20:38.185380+00:00",
+      "title": "Sheinbaum reacciona a nueva licencia de Rocha Moya: “fue lo mejor para Sinaloa”",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
