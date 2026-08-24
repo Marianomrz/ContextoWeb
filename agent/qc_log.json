@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:50:43.462608+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo está bien estructurado y es reciente, pero presenta errores de factualidad y falta de fuentes contrastantes, lo que afecta su objetividad y precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:50:49.152040+00:00",
       "title": "Acuerdan fortalecer atención del ISSSTE en Aguascalientes",
       "kind": "noticia",
@@ -2991,6 +2974,17 @@
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y estructurada.",
       "error": null
+    },
+    {
+      "at": "2026-08-24T14:25:09.495766+00:00",
+      "title": "Temblor hoy 24 de agosto en México: se registra un sismo de magnitud 4.1 en Ciudad Hidalgo, Chiapas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
