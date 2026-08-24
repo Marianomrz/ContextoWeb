@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T16:49:48.816992+00:00",
+  "generated_at": "2026-08-24T17:01:11.774528+00:00",
   "articles": [
+    {
+      "id": "aa8bd30de2c8",
+      "title": "Nacer Global y Secretaría de Turismo colaborarán en materia de certificación",
+      "summary": "Nacer Global, el mayor conglomerado universitario privado de México, y la Secretaría de Turismo, encabezada por Josefina Rodríguez Zamora, firmarán una colaboración para certificar a los actores de la industria turística en áreas de hospitalidad, gastronomía e inglés, con el objetivo de mejorar la productividad y la calidad de vida en el sector.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/nacer-global-secretaria-turismo-colaboraran-materia-certificacion-20260824-829752.html",
+      "published_at": "2026-08-24T17:00:00+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un tono mayormente positivo, citando sólo a representantes del sector público y privado, y resalta los beneficios económicos sin presentar críticas ni voces opositoras, lo que indica una ligera inclinación pro‑negocio.",
+      "focus_analysis": "El medio se centra en el impacto económico y de productividad de la certificación turística, dejando de lado la perspectiva de los trabajadores y los posibles retos sociales del proceso.",
+      "focus_tags": [
+        "turismo",
+        "certificación",
+        "colaboración público‑privada"
+      ],
+      "context": [
+        {
+          "label": "background",
+          "text": "El turismo representa aproximadamente el 8 % del PIB mexicano de forma directa y hasta un 15 % cuando se consideran los efectos indirectos, posicionando a México como el sexto destino mundial más visitado."
+        },
+        {
+          "label": "precedent",
+          "text": "En años anteriores, la Secretaría de Turismo ha impulsado programas de certificación de calidad turística en alianza con empresas y escuelas privadas, buscando estandarizar la oferta y elevar la competitividad del país."
+        },
+        {
+          "label": "regional_comparison",
+          "text": "Otros países latinoamericanos, como Brasil y Colombia, han implementado sistemas de certificación turística que han contribuido a mejorar la reputación internacional y la capacitación del personal del sector."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "0b7305160c8b",
       "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 24 de agosto: reducción de carriles sobre Avenida Sur 122",
@@ -960,38 +992,6 @@
       "qc": {
         "overall": 8.4
       }
-    },
-    {
-      "id": "1211e33e0de0",
-      "title": "Ingresaron a su casa y mataron a doctora en Chilpancingo, Guerrero: habría recibido amenazas",
-      "summary": "La doctora Nadia Vehurini, médica general y excandidata suplente del PRI en Guerrero, fue asesinada a balazos dentro de su vivienda en la colonia Atlitenco de Altamira, Chilpancingo, según informó la Fiscalía General del Estado de Guerrero.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/22/ingresaron-a-su-casa-y-mataron-a-doctora-en-chilpancingo-guerrero-habria-recibido-amenazas/",
-      "published_at": "2026-08-22T20:17:07+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin adjetivos cargados ni selección evidente de fuentes que favorezcan una postura ideológica.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y de seguridad del crimen, describiendo la investigación y la escena del hecho, mientras que el impacto humano y la posible motivación del asesinato quedan poco desarrollados.",
-      "focus_tags": [
-        "homicidio",
-        "violencia de género",
-        "política local"
-      ],
-      "context": [
-        {
-          "label": "Violencia contra mujeres en México",
-          "text": "México registra una de las tasas más altas de feminicidios y agresiones contra mujeres, especialmente en estados como Guerrero, donde la impunidad y la falta de protección son problemáticas recurrentes."
-        },
-        {
-          "label": "Inseguridad en Guerrero",
-          "text": "El estado de Guerrero ha sido escenario de numerosos actos de violencia contra funcionarios públicos y civiles, vinculados a grupos criminales y conflictos locales."
-        },
-        {
-          "label": "Profesionales de salud en la política",
-          "text": "En México es frecuente que médicos y otros profesionales de la salud participen en la política local, lo que a veces los expone a riesgos adicionales por la exposición pública de su labor."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
