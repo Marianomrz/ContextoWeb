@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T10:47:43.314852+00:00",
+  "generated_at": "2026-08-24T11:05:37.346915+00:00",
   "articles": [
+    {
+      "id": "8909a84edb1f",
+      "title": "Entra Mara al jet-set",
+      "summary": "La gobernadora de Quintana Roo, Mara Lezama (Morena), ha registrado más de 100 vuelos privados y comerciales desde que asumió el cargo, cifra que supera ampliamente los ocho viajes al extranjero de la presidenta de México, Claudia Sheinbaum, en el mismo periodo.",
+      "category": "politica",
+      "source_name": "Reforma",
+      "source_url": "https://www.reforma.com/entra-mara-al-jet-set/ar3263090",
+      "published_at": "2026-08-24T11:01:26+00:00",
+      "bias_score": 30,
+      "bias_reason": "El texto enfatiza la ostentación de la gobernadora al comparar sus numerosos vuelos privados con los escasos viajes de la presidenta, usando un tono crítico y resaltando detalles de aeronaves, lo que indica una inclinación a favorecer la oposición y desfavorecer al partido en el poder.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y de posible uso indebido de recursos al destacar los viajes de lujo de la gobernadora, dejando de lado cualquier logro o política pública de su gestión.",
+      "focus_tags": [
+        "política",
+        "corrupción",
+        "viajes privados"
+      ],
+      "context": [
+        {
+          "label": "Perfil político",
+          "text": "Mara Lezama es miembro del partido Morena y ocupa la gobernatura de Quintana Roo desde septiembre de 2022, tras haber sido alcaldesa de Cancún en dos periodos consecutivos."
+        },
+        {
+          "label": "Comparación con la presidenta",
+          "text": "Claudia Sheinbaum, presidenta de México y también de Morena, ha realizado únicamente ocho viajes internacionales en los dos años de su mandato, según los registros oficiales."
+        },
+        {
+          "label": "Uso de aviones privados en la política mexicana",
+          "text": "El uso de aviones privados por funcionarios ha sido objeto de críticas en varias administraciones mexicanas, señalándose como un indicador de privilegio y posible malgaste de recursos públicos."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "92f78c73bdba",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
@@ -949,38 +981,6 @@
       ],
       "confidence": "alta",
       "editorial_pick": true
-    },
-    {
-      "id": "7019b03eb09a",
-      "title": "Germán Berterame confiesa su sorpresa al quedar fuera del Mundial 2026",
-      "summary": "Germán Berterame, delantero mexicano del Inter Miami, confesó su sorpresa al quedar fuera de la lista final de la Selección Mexicana para el Mundial de Fútbol 2026.",
-      "category": "deportes",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/deportes/german-berterame-confiesa-su-sorpresa-al-quedar-fuera-del-mundial-2026/",
-      "published_at": "2026-08-22T01:16:54+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y declaraciones del jugador sin usar vocabulario cargado ni presentar opiniones, manteniendo un tono neutral y objetivo.",
-      "focus_analysis": "El medio se centró en la reacción personal y la lesión del jugador, dejando de lado un análisis táctico o crítico sobre la decisión del técnico Javier Aguirre.",
-      "focus_tags": [
-        "selección mexicana",
-        "Mundial 2026",
-        "lesión cabeza"
-      ],
-      "context": [
-        {
-          "label": "Selección mexicana 2026",
-          "text": "El técnico Javier Aguirre presentó la lista definitiva de la Selección Mexicana para el Mundial 2026, incluyendo a Raúl Jiménez, Santiago Giménez, Armando González y Guillermo Martínez, pero excluyendo a Germán Berterame."
-        },
-        {
-          "label": "Lesión de Berterame",
-          "text": "A finales de julio, Berterame sufrió un fuerte choque cabeza en un partido contra el Impact Montreal, lo que lo obligó a abandonar el campo y permanecer hospitalizado por varias horas, retrasando su regreso a la actividad competitiva."
-        },
-        {
-          "label": "Cobertura de Infobae",
-          "text": "Infobae destacó el relato del jugador sobre el impacto de la lesión y su proceso de recuperación, enfocándose en la salud y el posible regreso a los partidos, mientras que El Universal se centró en su sorpresa por la exclusión del mundial."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

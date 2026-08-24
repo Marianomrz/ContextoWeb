@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:41:18.066763+00:00",
-      "title": "¿Gas importado o fracking? El dilema energético de México",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de precisión y objetividad, pero necesita mayor diversidad de fuentes para cubrir adecuadamente el contraste en un tema conflictivo.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:41:25.296282+00:00",
       "title": "Un caballo troyano sin caballos",
       "kind": "noticia",
@@ -3002,6 +2985,17 @@
     {
       "at": "2026-08-24T10:40:41.960820+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabi",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T11:05:09.945891+00:00",
+      "title": "Entra Mara al jet-set",
       "kind": "noticia",
       "category": "politica",
       "approved": true,
