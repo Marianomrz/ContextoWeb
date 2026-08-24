@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T09:41:02.346003+00:00",
+  "generated_at": "2026-08-24T09:58:05.940688+00:00",
   "articles": [
+    {
+      "id": "ca103c26acdd",
+      "title": "Meta patenta un interruptor físico para sus gafas inteligentes que desactiva sus sensores, cámaras y micrófonos",
+      "summary": "Meta, la empresa matriz de Facebook e Instagram, ha registrado una patente que incorpora un interruptor físico para sus gafas de realidad aumentada Ray‑Ban Meta, permitiendo desactivar por completo cámaras, micrófonos y sensores, con el objetivo de proteger la privacidad de los usuarios contra posibles ciberataques.",
+      "category": "tecnologia",
+      "source_name": "El Androide Libre",
+      "source_url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20260824/meta-patenta-interruptor-fisico-gafas-inteligentes-desactiva-sensores-camaras-microfonos/1003744361078_0.html",
+      "published_at": "2026-08-24T09:55:54+00:00",
+      "bias_score": -35,
+      "bias_reason": "El texto utiliza expresiones cargadas como \"serio peligro para la privacidad\" y enfatiza riesgos de ciberseguridad, presentando a Meta de forma crítica y sin equilibrar con potenciales beneficios del dispositivo.",
+      "focus_analysis": "El medio se centra en la dimensión de privacidad y seguridad de la tecnología, dejando de lado aspectos comerciales, de usabilidad o de innovación que podrían interesar a los consumidores.",
+      "focus_tags": [
+        "privacidad",
+        "seguridad",
+        "hardware"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la línea Ray‑Ban Meta",
+          "text": "Meta lanzó en 2023 las gafas de realidad aumentada Ray‑Ban Meta, que integran cámaras y asistentes de IA en el rostro del usuario, generando debates sobre la vigilancia y el uso de datos personales."
+        },
+        {
+          "label": "Regulación europea de privacidad",
+          "text": "La Unión Europea ha reforzado la normativa de protección de datos con el GDPR, lo que obliga a las empresas de tecnología a implementar medidas de seguridad y privacidad más estrictas en sus dispositivos."
+        },
+        {
+          "label": "Preocupaciones de ciberdelincuentes",
+          "text": "Expertos en ciberseguridad advierten que los dispositivos con sensores activados pueden ser vulnerables a ataques remotos y a la captura no autorizada de audio y video, lo que justifica la búsqueda de soluciones de hardware como la patente de Meta."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "b9f9b5dbc19e",
       "title": "Así fue la pelea entre Ese Pérez, Masad y Karina Torres en La Casa de los Famosos México tras la gala de eliminación",
@@ -952,38 +984,6 @@
       "qc": {
         "overall": 7.6
       }
-    },
-    {
-      "id": "3b7293a90266",
-      "title": "Mientras la hija de Brad Pitt avanza para quitarse su apellido, el actor revela pensamientos suicidas y una recaída",
-      "summary": "Vivienne Jolie-Pitt, hija de Brad Pitt y Angelina Jolie, avanzó en el proceso legal para eliminar el apellido \"Pitt\" de su nombre, mientras que el actor de 62 años reveló haber experimentado pensamientos suicidas y una recaída en el consumo de alcohol.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/espectaculos/mientras-la-hija-de-brad-pitt-avanza-para-quitarse-su-apellido-el-actor-revela-pensamientos-suicidas-y-una-recaida/",
-      "published_at": "2026-08-21T20:31:33+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos y las declaraciones de los involucrados sin emplear un lenguaje cargado ni inclinarse hacia una postura política, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centró en el ángulo familiar y emocional, destacando la crisis personal y la salud mental de Brad Pitt, omitiendo un análisis más profundo del marco jurídico o del impacto en la industria del entretenimiento.",
-      "focus_tags": [
-        "familia",
-        "salud mental",
-        "cambio de nombre"
-      ],
-      "context": [
-        {
-          "label": "Marco legal",
-          "text": "En California, una persona mayor de 18 años puede solicitar el cambio de nombre mediante la publicación de un aviso en un periódico y una audiencia judicial, según la legislación del estado."
-        },
-        {
-          "label": "Antecedentes familiares",
-          "text": "Brad Pitt y Angelina Jolie se divorciaron en 2016, y desde entonces sus hijos han mantenido una relación distante con el actor, con acusaciones de alienación parental por parte de fuentes cercanas."
-        },
-        {
-          "label": "Salud mental de Brad Pitt",
-          "text": "En entrevistas recientes, Brad Pitt ha hablado públicamente sobre episodios de depresión, pensamientos suicidas y una recaída en el consumo de alcohol, reflejando una creciente apertura sobre la salud mental en la esfera pública."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

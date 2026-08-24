@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:41:06.855966+00:00",
-      "title": "Si esto del iPhone 18 Pro es cierto, nadie va a querer comprarlo este año",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero la falta de fuentes verificables y la ausencia de contraste de voces limitan su precisión y objetividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:41:11.843993+00:00",
       "title": "Resultados del Chispazo: números ganadores del sorteo de hoy 19 de agosto",
       "kind": "noticia",
@@ -3016,6 +2999,17 @@
       "title": "Así fue la pelea entre Ese Pérez, Masad y Karina Torres en La Casa de los Famosos México tras la gal",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T09:57:37.674706+00:00",
+      "title": "Meta patenta un interruptor físico para sus gafas inteligentes que desactiva sus sensores, cámaras y",
+      "kind": "noticia",
+      "category": "tecnologia",
       "approved": true,
       "overall": null,
       "scores": {},
