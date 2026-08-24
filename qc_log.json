@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:50:53.579797+00:00",
-      "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta una estructura adecuada y un tono objetivo, pero la falta de verificación del hecho central y la ausencia de fuentes concretas reducen significativamente su credibilidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:51:02.110431+00:00",
       "title": "Un caballo troyano sin caballos",
       "kind": "noticia",
@@ -2985,6 +2968,17 @@
       },
       "observacion": "El paquete cumple con los estándares de calidad periodística, presentando una opinión bien contextualizada y reciente, aunque con margen de mejora en la verificación de fuentes externas.",
       "error": null
+    },
+    {
+      "at": "2026-08-24T15:40:40.879914+00:00",
+      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 24 de agosto: reducción de carril",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
