@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:01:28.635414+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y estructurado, pero carece de fuentes contrastantes y de una presentación objetiva, lo que limita su calidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:01:35.714680+00:00",
       "title": "Acuerdan fortalecer atención del ISSSTE en Aguascalientes",
       "kind": "noticia",
@@ -2926,6 +2909,17 @@
       "title": "César Huerta se queda sin equipo en Europa pero le hace el feo a la Liga MX",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T23:40:43.956876+00:00",
+      "title": "Mueren dos mil peces en la presa La Soledad por fuga y desfogue",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},

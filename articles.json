@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T23:30:23.333737+00:00",
+  "generated_at": "2026-08-24T23:41:12.998385+00:00",
   "articles": [
+    {
+      "id": "4289695f6037",
+      "title": "Mueren dos mil peces en la presa La Soledad por fuga y desfogue",
+      "summary": "Cerca de dos mil peces murieron en la presa La Soledad, Guanajuato, tras una fuga de agua y el desfogue del embalse, lo que provocó la denuncia de grupos ambientalistas y una respuesta del Sistema Municipal de Agua Potable y Alcantarillado (Simapg).",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/guanajuato-sur/2026/08/24/mueren-dos-mil-peces-en-la-presa-la-soledad-por-fuga-y-desfogue-1836127.html",
+      "published_at": "2026-08-24T23:38:01+00:00",
+      "bias_score": -30,
+      "bias_reason": "El artículo destaca citas con lenguaje cargado como “ecocidio técnico” y “negligencia administrativa” de los activistas, mientras que la explicación del director de Simapg se presenta de forma más descriptiva, lo que inclina la cobertura ligeramente a favor de la crítica ambiental.",
+      "focus_analysis": "El medio se centra en el impacto ecológico y la supuesta falta de gestión del organismo municipal, dejando de lado aspectos técnicos o económicos del mantenimiento de la presa.",
+      "focus_tags": [
+        "medio ambiente",
+        "gestión pública",
+        "fauna acuática"
+      ],
+      "context": [
+        {
+          "label": "Presas la Guanajuato",
+          "text": "La presa La Soledad es una de las principales obras hidráulicas del estado de Guanajuato, utilizada para el suministro de agua potable y riego, y ha presentado problemas de filtraciones en años anteriores."
+        },
+        {
+          "label": "Mortalidad de peces en embalses mexicanos",
+          "text": "En México, los cambios bruscos en los niveles de agua y la baja oxigenación suelen provocar muertes masivas de peces en presas, lo que ha generado preocupación entre ambientalistas y pescadores."
+        },
+        {
+          "label": "Simapg y controversias previas",
+          "text": "El Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato ha sido objeto de críticas por su manejo de infraestructuras hidráulicas, incluyendo denuncias de falta de mantenimiento y respuestas tardías a emergencias."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "486cf616f5fa",
       "title": "César Huerta se queda sin equipo en Europa pero le hace el feo a la Liga MX",
@@ -962,38 +994,6 @@
       "qc": {
         "overall": 7.2
       }
-    },
-    {
-      "id": "61dfa095a3d9",
-      "title": "Energía detona superávit comercial en Argentina",
-      "summary": "El sector energético de Argentina impulsó un superávit comercial de 2,115 millones de dólares en julio de 2026, gracias a un aumento del 97.8% en sus exportaciones y una ligera caída de las importaciones.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/energia-detona-superavit-comercial-argentina-20260823-829793.html",
-      "published_at": "2026-08-24T05:19:08+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo se limita a presentar datos estadísticos positivos del sector energético y no incluye críticas ni perspectivas de la izquierda, lo que indica un sesgo ligeramente favorable al sector empresarial.",
-      "focus_analysis": "El medio se centra en los indicadores macroeconómicos y el desempeño del sector energético, dejando de lado el impacto social o ambiental de este crecimiento.",
-      "focus_tags": [
-        "superávit comercial",
-        "energía",
-        "Argentina"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes comerciales",
-          "text": "Argentina ha registrado históricamente déficits en su balanza comercial, pero en los últimos años ha logrado reducir el déficit gracias a la expansión de exportaciones agropecuarias y energéticas."
-        },
-        {
-          "label": "Importancia del sector energético",
-          "text": "El sector energético representa alrededor del 10% del PIB argentino y sus exportaciones de petróleo crudo y derivados son una fuente clave de divisas."
-        },
-        {
-          "label": "Precio global del petróleo",
-          "text": "Los precios internacionales del petróleo han aumentado en 2026, lo que ha favorecido las exportaciones argentinas de crudo y contribuido al superávit registrado."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
