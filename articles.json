@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T12:01:09.054163+00:00",
+  "generated_at": "2026-08-24T12:21:11.750098+00:00",
   "articles": [
+    {
+      "id": "92f78c73bdba",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez convoca al Consejo de Seguridad Nacional 26 días después del inicio de la crisis migratoria de Ceuta",
+      "summary": "El presidente de España, Pedro Sánchez, ha convocado al Consejo de Seguridad Nacional para atender la crisis migratoria que afecta a la ciudad autónoma de Ceuta, mientras el Partido Popular exige una operación de expulsión intensiva y la ministra de Sanidad, Elma Saiz, critica duramente los comentarios del líder del PP, Alberto Núñez Feijóo.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-24T12:19:13+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto emplea calificativos críticos como “irresponsabilidad mayúscula” hacia el PP y destaca la presión del partido para expulsar a los migrantes, lo que indica una ligera inclinación hacia la postura del gobierno de izquierda.",
+      "focus_analysis": "El artículo se centra en la disputa política y la respuesta institucional al crisis migratoria, dejando de lado el impacto humanitario de los migrantes y los aspectos de seguridad y económicos que también son relevantes.",
+      "focus_tags": [
+        "crisis migratoria",
+        "política española",
+        "seguridad nacional"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "Ceuta, enclave español en el norte de África, ha experimentado oleadas de llegadas irregulares de migrantes, lo que ha generado tensiones políticas y humanitarias recurrentes."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "En años anteriores, el gobierno español ha recurrido al Consejo de Seguridad Nacional para coordinar respuestas ante crisis migratorias en Ceuta y Melilla, combinando medidas de seguridad y asistencia humanitaria."
+        },
+        {
+          "label": "Posturas de otros actores",
+          "text": "Otros medios, como El Sol de México, describen la situación como una seria crisis política, subrayando la dimensión institucional y el conflicto entre los partidos gobernantes y la oposición."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "239c4b649312",
       "title": "Una terapia me ayudó a recordar los abusos de mi hermanastro y me permitió llevarlo ante la justicia",
@@ -948,38 +980,6 @@
         {
           "label": "Comparación con procesos anteriores",
           "text": "El inicio del PEF 2026‑2027 sigue una estructura similar a la de 2021‑2022, aunque incorpora nuevas etapas de registro de visitantes extranjeros y mayor énfasis en la capacitación de mesas directivas."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "29101082852e",
-      "title": "\"No quiero que mi epitafio diga que pasé mucho tiempo con el móvil\": los españoles que han dejado WhatsApp y el smartphone",
-      "summary": "El español Diego Hidalgo, ex emprendedor digital y promotor del Movimiento OFF, ha dejado de usar smartphone y WhatsApp, y en la entrevista de Xataka muestra cómo otros ciudadanos como Pablo Marinero también optan por la comunicación tradicional y aplicaciones más privadas.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/moviles/no-quiero-que-mi-epitafio-diga-que-pase-mucho-tiempo-movil-espanoles-que-han-dejado-whatsapp-smartphone",
-      "published_at": "2026-08-22T11:15:33+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y personal sin cargar lenguaje político ni favorecer a ninguna ideología; se centra en experiencias individuales y datos de uso de tecnología.",
-      "focus_analysis": "El medio el el ángulo humano y tecnológico, resaltando historias de desintoxicación digital y privacidad, mientras omite análisis económicos o de políticas públicas sobre la industria móvil.",
-      "focus_tags": [
-        "digital detox",
-        "privacidad",
-        "movimiento OFF"
-      ],
-      "context": [
-        {
-          "label": "Penetración de smartphones en España",
-          "text": "Según datos de la CNMV de 2025, el 94,8 % de los españoles entre 10 y 85 años posee un smartphone, lo que supera los 40 millones de usuarios."
-        },
-        {
-          "label": "Uso de WhatsApp",
-          "text": "El mismo informe indica que el 94,6 % de la población española utiliza WhatsApp como su principal aplicación de mensajería."
-        },
-        {
-          "label": "Movimiento OFF",
-          "text": "El Movimiento OFF, fundado en 2022, promueve la reducción del uso de dispositivos y aplicaciones digitales, organizando campañas como \"Off February 2026\" que animan a los participantes a eliminar apps sociales durante 28 días."
         }
       ],
       "confidence": "alta"

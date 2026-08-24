@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:41:30.923421+00:00",
-      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es adecuado para publicación: presenta la información de forma clara y objetiva, con una estructura invertida y reciente, aunque podría reforzarse con fuentes más explícitas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:41:43.172805+00:00",
       "title": "Nadie escapa de Widow’s Bay",
       "kind": "noticia",
@@ -3003,6 +2986,17 @@
       },
       "observacion": "El paquete cumple con la mayoría de los estándares editoriales, aunque la falta de verificabilidad de algunos datos reduce la puntuación de veracidad.",
       "error": null
+    },
+    {
+      "at": "2026-08-24T12:20:41.230970+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez convoca al Consejo de Segurid",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
