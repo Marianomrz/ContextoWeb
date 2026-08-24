@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T13:06:56.965466+00:00",
+  "generated_at": "2026-08-24T13:21:15.693632+00:00",
   "articles": [
+    {
+      "id": "43a7a9d1738e",
+      "title": "EN VIVO | Clima en CDMX y resto de México hoy 24 de agosto",
+      "summary": "El Servicio Meteorológico Nacional y la Comisión Nacional del Agua informan en tiempo real que este lunes 24 de agosto se esperan lluvias muy fuertes en los estados de Nayarit, Jalisco, Colima y Michoacán, además de precipitaciones intensas en otros dieciséis estados de México.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/24/en-vivo-clima-en-cdmx-y-resto-de-mexico-hoy-24-de-agosto/",
+      "published_at": "2026-08-24T13:19:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos meteorológicos y alertas sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniendo un tono informativo y neutral.",
+      "focus_analysis": "El medio se centra en la información meteorológica y las alertas de lluvia, dejando de lado los posibles impactos económicos o humanos de los eventos climáticos.",
+      "focus_tags": [
+        "clima",
+        "pronóstico",
+        "alertas"
+      ],
+      "context": [
+        {
+          "label": "Instituciones meteorológicas",
+          "text": "En México, el Servicio Meteorológico Nacional (SMN) y la Comisión Nacional del Agua (CONAGUA) son las agencias oficiales encargadas de monitorear y divulgar pronósticos y alertas del tiempo."
+        },
+        {
+          "label": "Tendencias climáticas",
+          "text": "Los últimos años han mostrado un aumento en la frecuencia e intensidad de lluvias extremas en el país, vinculado por los científicos al cambio climático y a patrones meteorológicos más volátiles."
+        },
+        {
+          "label": "Eventos previos",
+          "text": "Durante el verano de 2024, varias regiones del occidente mexicano también enfrentaron lluvias intensas que provocaron inundaciones y afectaron la actividad agrícola."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "59970b16dc4d",
       "title": "Indicadores del 24 al 28 de agosto: Inflación, empleo y crecimiento del PIB",
@@ -954,41 +986,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "62d572488027",
-      "title": "Qué hacía el hijo el R1 cerca de donde asesinaron a Valeria Márquez, su ex pareja con quien habló poco antes de su muerte",
-      "summary": "Francisco Álvarez Osorio, hijo de José Rodolfo Villarreal, conocido como el R1 del Cártel Jalisco Nueva Generación, declaró en una entrevista que estuvo cerca del salón donde la influencer Valeria Márquez fue asesinada en 2025 y que no tiene ninguna relación con el feminicidio.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/22/que-hacia-el-hijo-el-r1-cerca-de-donde-asesinaron-a-valeria-marquez-su-ex-pareja-con-quien-hablo-poco-antes-de-su-muerte/",
-      "published_at": "2026-08-22T15:14:58+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto se centra en la entrevista y en la defensa del entrevistado, usando un tono descriptivo sin incluir opiniones políticas; la ligera inclinación sensacionalista no supera la neutralidad.",
-      "focus_analysis": "El medio prioriza el testimonio personal y los detalles del crimen, dejando de lado un análisis más amplio del contexto delictivo del cartel y de la violencia de género estructural.",
-      "focus_tags": [
-        "testimonio personal",
-        "feminicidio",
-        "relación de pareja"
-      ],
-      "context": [
-        {
-          "label": "antecedente del hecho",
-          "text": "Valeria Márquez, influencer mexicana, fue asesinada a tiros durante una transmisión en vivo en mayo de 2025, provocando una gran cobertura mediática y debates sobre la violencia contra las mujeres."
-        },
-        {
-          "label": "perfil del R1",
-          "text": "José Rodolfo Villarreal, apodado el R1, es reconocido como uno de los líderes del Cártel Jalisco Nueva Generación, una organización criminal que opera en varios estados de México."
-        },
-        {
-          "label": "comparación con otras coberturas",
-          "text": "Otros medios, como la BBC Mundo, contextualizan casos similares dentro de redes políticas y criminales más amplias, mientras que Infobae se centra en la narrativa del propio sospechoso."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.8
-      }
     }
   ]
 }
