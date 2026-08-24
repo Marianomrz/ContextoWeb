@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:26:31.337833+00:00",
-      "title": "Al menos 12 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, y está bien estructurado y actualizado para una publicación de noticias.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:26:39.372672+00:00",
       "title": "Se filtra una funda del iPhone 18 Pro: no hay cambios a la vista",
       "kind": "noticia",
@@ -3050,6 +3033,23 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial para una noticia deportiva, presentando datos precisos, fuentes fiables y una estructura clara.",
+      "error": null
+    },
+    {
+      "at": "2026-08-24T03:12:27.842034+00:00",
+      "title": "La Casa de los Famosos México en vivo: Flor Vigna asegura que ella debería irse",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, con pequeñas áreas de mejora en la precisión de fuentes.",
       "error": null
     }
   ]
