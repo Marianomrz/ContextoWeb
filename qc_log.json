@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:51:13.830136+00:00",
-      "title": "Si esto del iPhone 18 Pro es cierto, nadie va a querer comprarlo este año",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la triangulación de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:51:19.491554+00:00",
       "title": "Luis Chaparro nominó a Ese Pérez cara a cara y así reaccionó el creador de contenido",
       "kind": "noticia",
@@ -2973,6 +2956,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T17:20:43.846034+00:00",
+      "title": "La temperatura media diaria de la superficie del mar registra nuevo récord de 21.1 grados Celsius",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, presentando información veraz y objetiva, con fuentes contrastadas y una estructura clara; solo se sugiere añadir referencias más precisas para reforzar la verificabilidad.",
+      "error": null
     }
   ]
 }
