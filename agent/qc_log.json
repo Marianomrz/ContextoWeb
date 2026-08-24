@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:01:16.983114+00:00",
-      "title": "David Harbour la lía y hace spoiler del mayor secreto de ‘Avengers: Doomsday’",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 5.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 2,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de verificación y fuentes contrastadas, aunque está bien estructurado y actualizado; necesita mayor rigor antes de publicarse.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:01:28.635414+00:00",
       "title": "Hayek y el conservadurismo",
       "kind": "noticia",
@@ -2932,6 +2915,17 @@
       "title": "Kenia López Rabadán aclara que al Partido Verde le toca la presidencia de la Cámara de Diputados",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T22:55:31.621118+00:00",
+      "title": "César Huerta se queda sin equipo en Europa pero le hace el feo a la Liga MX",
+      "kind": "noticia",
+      "category": "deportes",
       "approved": true,
       "overall": null,
       "scores": {},
