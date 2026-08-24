@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:40:54.303145+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura; la objetividad es adecuada aunque el análisis de sesgo indica una ligera inclinación percibida.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:41:01.358184+00:00",
       "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
       "kind": "noticia",
@@ -3026,6 +3009,17 @@
     {
       "at": "2026-08-24T07:39:42.891984+00:00",
       "title": "Taylor Sheridan es acusado de plagiar ‘Yellowstone’ y se enfrentará a la justicia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T08:00:50.029605+00:00",
+      "title": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,

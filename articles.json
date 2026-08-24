@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T07:40:12.710572+00:00",
+  "generated_at": "2026-08-24T08:01:18.291197+00:00",
   "articles": [
+    {
+      "id": "d8962fb5238f",
+      "title": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
+      "summary": "Un drón detectado cerca del Aeropuerto de Málaga obligó al cierre temporal de la pista durante unos 30 minutos, provocando la desviación de varios vuelos. El incidente se produjo la noche del domingo y afectó las operaciones aéreas en la zona.",
+      "category": "sociedad",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-24/la-presencia-de-un-dron-cerca-del-aeropuerto-de-malaga-obliga-a-su-cierre-durante-30-minutos.html",
+      "published_at": "2026-08-24T07:44:23+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto es meramente informativo y utiliza un lenguaje neutro sin adjetivos cargados ni fuentes que inclinen la interpretación política.",
+      "focus_analysis": "El medio se centra en el impacto inmediato en la operatividad del aeropuerto y la seguridad aérea, dejando de lado la investigación de las causas del avistamiento del drón y la posible responsabilidad normativa.",
+      "focus_tags": [
+        "seguridad aérea",
+        "cierre de aeropuerto",
+        "incidente de drón"
+      ],
+      "context": [
+        {
+          "label": "Incidentes de drones en aeropuertos europeos",
+          "text": "En los últimos años, varios aeropuertos de España y de la UE han registrado interrupciones temporales por la presencia de drones no autorizados, lo que ha llevado a reforzar los protocolos de detección y respuesta."
+        },
+        {
+          "label": "Regulación española de drones",
+          "text": "La Agencia Estatal de Seguridad Aérea (AESA) exige que los drones operen a una distancia mínima de 5 kilómetros de aeropuertos, con sanciones para quienes vulneren la normativa."
+        },
+        {
+          "label": "Incidente similar en el Aeropuerto de Barcelona",
+          "text": "En junio de 2025, un drón provocó el cierre de la pista de aterrizaje del Aeropuerto de Barcelona durante 45 minutos, obligando a desviar más de veinte vuelos y generando una revisión de los sistemas de vigilancia."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "569681e73202",
       "title": "Taylor Sheridan es acusado de plagiar ‘Yellowstone’ y se enfrentará a la justicia",
@@ -949,38 +981,6 @@
         {
           "label": "cobertura de otros medios",
           "text": "Otros medios como Infobae México y El Sol de México también describieron el regreso del gobernador como una decisión personal de la Segob, enfatizando el respeto al debido proceso y la falta de pruebas concluyentes."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "beece6bc7eaf",
-      "title": "Retrasos, cierres y afectaciones en el Metrobús en tiempo real",
-      "summary": "El Metrobús de la Ciudad de México informó que todas sus líneas operan con estado regular y sin estaciones afectadas en la última hora, mientras describe sus rutas, tarifas y horarios de funcionamiento.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/21/retrasos-cierres-y-afectaciones-en-el-metrobus-en-tiempo-real/",
-      "published_at": "2026-08-21T19:45:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y objetivo, sin adjetivos cargados ni selección de fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El artículo se centra en proporcionar información operativa del transporte público, detallando el estado del servicio, rutas y tarifas, dejando de lado análisis de problemas de tráfico, políticas de movilidad o críticas al sistema.",
-      "focus_tags": [
-        "transporte público",
-        "estado del servicio",
-        "CDMX"
-      ],
-      "context": [
-        {
-          "label": "uso del Metrobús",
-          "text": "Según datos del INEGI, el Metrobús transporta más de 22 millones de usuarios al año, convirtiéndose en el segundo medio de transporte más utilizado en la Ciudad de México después del Metro."
-        },
-        {
-          "label": "comparación con el Metro",
-          "text": "El Sistema de Transporte Colectivo (Metro) sigue siendo el principal medio de transporte masivo en la capital, mientras que el Metrobús complementa la red con sus siete líneas y 283 estaciones."
-        },
-        {
-          "label": "información en tiempo real",
-          "text": "El gobierno de la Ciudad de México ha lanzado plataformas digitales que permiten a los usuarios consultar en tiempo real el estado de los servicios de transporte, como el Metrobús, para reducir retrasos y mejorar la experiencia del viajero."
         }
       ],
       "confidence": "alta"
