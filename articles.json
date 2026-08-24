@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-24T20:41:29.513491+00:00",
+  "generated_at": "2026-08-24T21:01:08.414340+00:00",
   "articles": [
+    {
+      "id": "5ce5d2e4cd83",
+      "title": "Las Leonas empataron con Bélgica y se enfrentarán a Australia en las semifinales del Mundial de Hockey",
+      "summary": "La selección argentina de hockey femenino, Las Leonas, empató 0‑0 contra Bélgica y garantizó el primer puesto de su grupo en el Mundial 2026, lo que les permite enfrentar a Australia en semifinales.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/24/las-leonas-empataron-con-belgica-y-se-enfrentaran-a-australia-en-las-semifinales-del-mundial-de-hockey/",
+      "published_at": "2026-08-24T20:57:34+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto destaca el desempeño y el orgullo nacional del equipo argentino con lenguaje positivo, pero sin usar términos cargados ni favorecer una ideología política.",
+      "focus_analysis": "El medio se concentra en el desempeño deportivo y la reacción de las jugadoras, resaltando la táctica defensiva y la emoción del grupo, sin abordar aspectos económicos o políticos.",
+      "focus_tags": [
+        "deporte",
+        "hockey femenino",
+        "Mundial 2026"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Las Leonas ya habían ganado dos títulos mundiales (2002 y 2010) y fueron subcampeonas en 2022, lo que genera altas expectativas para el torneo de 2026."
+        },
+        {
+          "label": "competidor",
+          "text": "Bélgica, conocida por su presión alta, es una de las potencias europeas en hockey femenino y su estilo de juego obligó a Argentina a adoptar una postura más defensiva."
+        },
+        {
+          "label": "próximo rival",
+          "text": "Australia, con dos campeonatos mundiales (1994 y 1998), será el adversario de Las Leonas en semifinales, una contienda que definirá quién avanza a la final."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
     {
       "id": "bfed7e2b30c8",
       "title": "La Casa de los Famosos México en vivo: Inicia la prueba del líder este lunes 24 de agosto",
@@ -965,38 +1000,6 @@
       "qc": {
         "overall": 9.0
       }
-    },
-    {
-      "id": "db41a76d75fd",
-      "title": "Luchan para defender 613 árboles en Morelia: Gobierno inicia tala para construir sistema de transporte entre protestas de vecinos",
-      "summary": "El gobierno municipal de Morelia, bajo la dirección del gobernador Alfredo Ramírez Bedolla, inició la tala de 613 árboles para construir el sistema de transporte BRT Morebús, lo que ha provocado protestas vecinales que denuncian un ecocidio y exigen la revisión del proyecto.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/23/luchan-para-defender-613-arboles-en-morelia-gobierno-inicia-tala-para-construir-sistema-de-transporte-entre-protestas-de-vecinos/",
-      "published_at": "2026-08-23T21:36:27+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto emplea vocabulario cargado como \"ecocidio\" y se centra en las protestas y los riesgos ambientales, citando mayormente a vecinos y activistas, mientras que los beneficios del proyecto se presentan de forma escueta, lo que indica una postura favorable a la causa ambiental.",
-      "focus_analysis": "El medio privilegia el ángulo ambiental y humano, resaltando la pérdida de árboles y la reacción de la comunidad, dejando en segundo plano los argumentos de desarrollo urbano y movilidad que presenta el gobierno.",
-      "focus_tags": [
-        "medio ambiente",
-        "protestas vecinales",
-        "desarrollo urbano"
-      ],
-      "context": [
-        {
-          "label": "Proyecto BRT Morebús",
-          "text": "El proyecto de transporte rápido BRT Morebús, anunciado en febrero de 2026 por el gobernador morenista Alfredo Ramírez Bedolla, forma parte del Plan Michoacán por la Paz y la Justicia impulsado por la presidenta de México, Claudia Sheinbaum, y pretende movilizar a más de 80 mil personas al día."
-        },
-        {
-          "label": "Importancia de los árboles urbanos",
-          "text": "En ciudades mexicanas, la pérdida de cobertura arbórea se ha vinculado a mayor contaminación del aire, incremento de temperaturas y riesgos de salud pública, especialmente durante episodios de calor extremo."
-        },
-        {
-          "label": "Controversias similares en México",
-          "text": "Otros proyectos de infraestructura, como el Tren Maya y varias líneas de BRT en la Ciudad de México, han enfrentado protestas de grupos ambientalistas que exigen estudios de impacto y medidas de reforestación."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

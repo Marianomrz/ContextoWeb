@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:00:53.195941+00:00",
-      "title": "Primero la paria",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es actual, pero la falta de verificación de datos y fuentes limitadas reducen su credibilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:01:02.746097+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
       "kind": "noticia",
@@ -2948,6 +2931,23 @@
         "estructura_piramide": 8
       },
       "observacion": "El paquete muestra problemas de veracidad y falta de fuentes contrastantes, aunque está actualizado y estructurado correctamente; requiere mejoras antes de su publicación.",
+      "error": null
+    },
+    {
+      "at": "2026-08-24T21:00:41.045263+00:00",
+      "title": "Las Leonas empataron con Bélgica y se enfrentarán a Australia en las semifinales del Mundial de Hock",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.8,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contextualizada del evento deportivo.",
       "error": null
     }
   ]
