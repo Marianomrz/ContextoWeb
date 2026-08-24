@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:41:43.172805+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, actual y estructurada, aunque podría beneficiarse de fuentes adicionales para reforzar la precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:41:49.124155+00:00",
       "title": "Enrique de Inglaterra y Meghan Markle se mudan al Reino Unido seis años después de su sonada marcha ",
       "kind": "noticia",
@@ -2997,6 +2980,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T12:40:40.220815+00:00",
+      "title": "Ucrania quiere la paz, pero no se rendirá, dice Zelenski en el Día de la Independencia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de precisión y actualidad, aunque presenta un sesgo leve a favor de la posición ucraniana y podría enriquecer el contraste de fuentes.",
+      "error": null
     }
   ]
 }
