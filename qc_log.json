@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:51:54.831095+00:00",
-      "title": "Revolución en Europa con los 5 fichajes que superaron los 100 millones de dólares en este mercado: e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo está bien estructurado y es objetivo, pero falla gravemente en veracidad y contraste de fuentes, presentando datos no verificables.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:52:01.715393+00:00",
       "title": "La odisea del emprendedor que compró un viejo crucero, gastó un millón de dólares en su restauración",
       "kind": "noticia",
@@ -2950,6 +2933,17 @@
       "title": "El detrás de escena de la furia de Pierre Gasly tras el Gran Premio de Países Bajos: “Arruinaron nue",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T19:56:45.878475+00:00",
+      "title": "Gael García presenta su nueva película como director encabezada por Ricky Martin: ‘Hombre al agua’",
+      "kind": "noticia",
+      "category": "internacional",
       "approved": true,
       "overall": null,
       "scores": {},
