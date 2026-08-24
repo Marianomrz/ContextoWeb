@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:50:33.997628+00:00",
-      "title": "Galilea Montijo rompe el protocolo en La Casa de los Famosos México 2026 y regaña a los habitantes: ",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría reforzar la verificación de citas y datos específicos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:50:43.462608+00:00",
       "title": "Hayek y el conservadurismo",
       "kind": "noticia",
@@ -2991,6 +2974,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T13:32:03.855625+00:00",
+      "title": "El Kun Agüero se suma a la política en Independiente: “Quiero aportar mi experiencia deportiva”",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la noticia de forma clara y estructurada.",
+      "error": null
     }
   ]
 }
