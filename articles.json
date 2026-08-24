@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T18:00:25.213148+00:00",
+  "generated_at": "2026-08-24T18:21:10.911336+00:00",
   "articles": [
+    {
+      "id": "ee2b682b5963",
+      "title": "Xiaomi presenta un chip seis veces más potente que el A19 del iPhone 17 Pro",
+      "summary": "Xiaomi, la empresa china de electrónica, presentó el procesador móvil Xring O3, que según sus pruebas es casi seis veces más potente en tareas de inteligencia artificial que el chip A19 del iPhone 17 Pro.",
+      "category": "tecnologia",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/mobile/xiaomi-xring-o3-chip-caracteristicas/",
+      "published_at": "2026-08-24T18:20:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir especificaciones técnicas y comparaciones de rendimiento sin usar lenguaje cargado ni citar fuentes con sesgo político; el enfoque es neutral y centrado en la tecnología.",
+      "focus_analysis": "El medio privilegió la dimensión tecnológica y la rivalidad con Apple, dejando de lado el análisis de precios, disponibilidad comercial o repercusiones en la cadena de suministro.",
+      "focus_tags": [
+        "tecnología",
+        "competencia",
+        "hardware móvil"
+      ],
+      "context": [
+        {
+          "label": "estrategia de Xiaomi",
+          "text": "Xiaomi ha anunciado varios procesadores propios, como la serie Xring, con el objetivo de reducir su dependencia de proveedores externos como Qualcomm y MediaTek y reforzar su ecosistema de dispositivos."
+        },
+        {
+          "label": "comparación con Apple",
+          "text": "El chip A19 del iPhone 17 Pro, basado en la arquitectura de Apple Silicon, es el referente que Xiaomi utiliza para medir la potencia de su Xring O3, señalando una mejora de hasta seis veces en tareas de IA."
+        },
+        {
+          "label": "perspectiva de otros medios",
+          "text": "Según El Androide Libre, el lanzamiento de los nuevos chips de Xiaomi se interpreta como un intento de superar a Apple en rendimiento y de consolidar la independencia tecnológica del fabricante chino."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "6628d53ec088",
       "title": "La temperatura media diaria de la superficie del mar registra nuevo récord de 21.1 grados Celsius",
@@ -960,38 +992,6 @@
       ],
       "confidence": "alta",
       "editorial_pick": true
-    },
-    {
-      "id": "b896dd862711",
-      "title": "Día del Bombero en Guanajuato: Homenajean a rescatistas de León, Salamanca y la capital",
-      "summary": "En el Día del Bombero, los municipios de León, Salamanca y la capital de Guanajuato rindieron homenaje a sus cuerpos de rescate, destacando la trayectoria del joven bombero Diego Paúl Castillo y anunciando inversiones de más de 43 millones de pesos para renovar estaciones y equipar a más de 300 bomberos en León.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/leon/2026/08/22/dia-del-bombero-en-guanajuato-homenajean-a-rescatistas-de-leon-salamanca-y-la-capital-1835507.html",
-      "published_at": "2026-08-23T01:38:42+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono laudatorio y descriptivo, sin cargar lenguaje político ni seleccionar fuentes controversiales; se centra en la celebración y en datos institucionales.",
-      "focus_analysis": "El medio eligió un ángulo humano‑institucional, resaltando historias personales y la inversión en infraestructura de los bomberos, mientras omite análisis críticos sobre la asignación de recursos o desafíos operacionales.",
-      "focus_tags": [
-        "homenaje bomberos",
-        "inversión infraestructura",
-        "historias personales"
-      ],
-      "context": [
-        {
-          "label": "Día del Bombero",
-          "text": "El 22 de agosto se conmemora en México el Día Nacional del Bombero, una jornada que reconoce la labor de los cuerpos de bomberos en todo el país."
-        },
-        {
-          "label": "Cuerpo de Bomberos de León",
-          "text": "León cuenta con más de 300 bomberos distribuidos en nueve estaciones operativas; en los últimos años se han destinado más de 43 millones de pesos para la renovación de estaciones y la adquisición de equipamiento especializado."
-        },
-        {
-          "label": "Cuerpo de Bomberos Voluntarios de Salamanca",
-          "text": "El cuerpo de bomberos voluntarios de Salamanca celebra 66 años de existencia, manteniendo una tradición de servicio intergeneracional que incluye a familias como la de Juan y Israel Orta."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

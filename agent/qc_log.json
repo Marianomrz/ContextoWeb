@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:51:19.491554+00:00",
-      "title": "Luis Chaparro nominó a Ese Pérez cara a cara y así reaccionó el creador de contenido",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, ofreciendo una presentación clara y bien estructurada del hecho de entretenimiento.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:51:29.357277+00:00",
       "title": "Nadie escapa de Widow’s Bay",
       "kind": "noticia",
@@ -2973,6 +2956,17 @@
       },
       "observacion": "El paquete cumple con los estándares editoriales, presentando información veraz y objetiva, con fuentes contrastadas y una estructura clara; solo se sugiere añadir referencias más precisas para reforzar la verificabilidad.",
       "error": null
+    },
+    {
+      "at": "2026-08-24T18:20:42.842986+00:00",
+      "title": "Xiaomi presenta un chip seis veces más potente que el A19 del iPhone 17 Pro",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
