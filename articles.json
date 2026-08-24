@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-24T11:21:01.898309+00:00",
+  "generated_at": "2026-08-24T11:42:25.880408+00:00",
   "articles": [
+    {
+      "id": "239c4b649312",
+      "title": "Una terapia me ayudó a recordar los abusos de mi hermanastro y me permitió llevarlo ante la justicia",
+      "summary": "Nikita Dallison y su hermana Mellissa Arkwright, quienes fueron abusadas sexualmente por su hermanastro Adrian Austin, lograron que la justicia condenara al agresor tras que Mellissa recuperara recuerdos del abuso mediante la terapia EMDR.",
+      "category": "sociedad",
+      "source_name": "BBC News Mundo",
+      "source_url": "https://www.bbc.com/mundo/articles/cy8zxpz5e9xo?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-08-24T11:36:50+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo utiliza un tono informativo y objetivo, sin emplear vocabulario cargado ni favorecer a ninguna posición política; se centra en hechos y testimonios personales.",
+      "focus_analysis": "El medio elige un ángulo humano y de salud mental, resaltando el papel de la terapia EMDR y la experiencia de las víctimas, omitiendo análisis de políticas públicas o del sistema judicial más amplio.",
+      "focus_tags": [
+        "abuso sexual",
+        "terapia EMDR",
+        "justicia penal"
+      ],
+      "context": [
+        {
+          "label": "Marco legal del Reino Unido",
+          "text": "En el Reino Unido, las víctimas de delitos sexuales gozan de anonimato automático, aunque pueden renunciar a él para dar testimonio, y los agresores pueden ser condenados a largas penas de prisión bajo la legislación de delitos sexuales."
+        },
+        {
+          "label": "Terapia EMDR",
+          "text": "La desensibilización y reprocesamiento por movimientos oculares (EMDR) es una técnica psicológica reconocida para tratar traumas, que ayuda a los pacientes a procesar recuerdos dolorosos mediante estimulación bilateral."
+        },
+        {
+          "label": "Respuesta policial a abusos históricos",
+          "text": "Las fuerzas policiales británicas han enfrentado críticas por la lentitud en la investigación de casos de abuso sexual infantil del pasado, lo que ha llevado a revisiones de protocolos y a una mayor sensibilidad en la toma de declaraciones."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "8909a84edb1f",
       "title": "Entra Mara al jet-set",
@@ -948,39 +983,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "cff685dc995b",
-      "title": "El río de colores que escribe la identidad de Brasil",
-      "summary": "Un río de colores se desborda entre la selva y la ciudad, arrastrando lenguas y mitos en su cauce. Cada tono, del verde profundo al rojo vibrante, se mezcla como palabras en la prosa de Mário de Andrade, dibujando un Brasil que se reinventa a sí mismo. En esa corriente, la novela *Macunaíma* navega como un espejo roto que refleja la multiplicidad del país.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-22T09:53:10.295540+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, al cerrar el verano, el calor nos recuerda la intensidad de los pigmentos que Andrade entrelaza en su obra. El tema permite explorar cómo la literatura puede ser un mapa de identidades fluidas, algo urgente en tiempos de migraciones y reinvenciones culturales. Además, la novela celebra la resistencia de lo marginal, una voz que resuena en la conversación global sobre la diversidad.",
-      "focus_tags": [
-        "Modernismo",
-        "Brasil",
-        "Novela"
-      ],
-      "context": [
-        {
-          "label": "Autor",
-          "text": "Mário de Andrade (1893‑1945), arquitecto de la Semana de Arte Moderna de 1922, combinó la investigación etnográfica con la experimentación literaria, creando un estilo que vibra entre lo popular y lo erudito."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Además de *Macunaíma*, lea *Paulicéia Desvairada* (poesía) y *Amar, verbo intransitivo* para percibir la misma corriente de mezcla de dialectos y mitos que atraviesa la narrativa de Andrade."
-        },
-        {
-          "label": "Contexto histórico",
-          "text": "La década de 1920 marcó la búsqueda de una identidad nacional brasileña, rompiendo con la herencia colonial y abrazando la diversidad cultural del país; *Macunaíma* captura ese crisol de voces en una fiesta de lenguaje y forma."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true
     }
   ]
 }
