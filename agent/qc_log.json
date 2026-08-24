@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:26:45.148151+00:00",
-      "title": "Revolución en Europa con los 5 fichajes que superaron los 100 millones de dólares en este mercado: e",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete carece de veracidad y fuentes sólidas para los datos centrales, aunque está bien estructurado y es actual; necesita mayor rigor factual antes de publicar.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:26:58.178926+00:00",
       "title": "Las páginas vivas de Era",
       "kind": "noticia",
@@ -3040,6 +3023,17 @@
       "title": "La desafiante frase de Guillermo Barros Schelotto tras el empate de Vélez ante River y la pregunta q",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T05:20:28.702190+00:00",
+      "title": "Energía detona superávit comercial en Argentina",
+      "kind": "noticia",
+      "category": "economia",
       "approved": true,
       "overall": null,
       "scores": {},
