@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:01:02.746097+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque la falta de fuentes específicas para algunas cifras reduce ligeramente la veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:01:09.600994+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
       "kind": "noticia",
@@ -2949,6 +2932,17 @@
       },
       "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, ofreciendo una cobertura objetiva y bien contextualizada del evento deportivo.",
       "error": null
+    },
+    {
+      "at": "2026-08-24T21:55:21.872925+00:00",
+      "title": "Uno de los comisarios deportivos del GP de Países Bajos dio detalles de la sanción a Colapinto: “Yo ",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
