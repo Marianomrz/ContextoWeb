@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T07:21:05.379945+00:00",
+  "generated_at": "2026-08-24T07:40:12.710572+00:00",
   "articles": [
+    {
+      "id": "569681e73202",
+      "title": "Taylor Sheridan es acusado de plagiar ‘Yellowstone’ y se enfrentará a la justicia",
+      "summary": "Taylor Sheridan, creador de la serie de televisión Yellowstone, ha sido demandado por la guionista Lauren J. Salkin, quien alega que Sheridan plagió elementos de su proyecto Sovereign Nation al desarrollar la popular serie.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/taylor-sheridan-es-acusado-de-plagiar-yellowstone-y-se-enfrentara-a-la-justicia/",
+      "published_at": "2026-08-24T07:38:58+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje neutro, se limita a describir la demanda y las alegaciones sin emplear términos cargados ni presentar opiniones, y las fuentes citadas son la propia demanda y un reporte de Variety.",
+      "focus_analysis": "El medio se centra en el aspecto legal del caso, describiendo la acusación de plagio y la falta de respuesta de los involucrados, mientras omite la repercusión en la audiencia y la posible influencia en la industria televisiva.",
+      "focus_tags": [
+        "plagio",
+        "serie TV",
+        "demanda legal"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes legales",
+          "text": "En el sector televisivo de Estados Unidos han existido precedentes de demandas por plagio de guiones, lo que muestra que los litigios sobre derechos de autor son comunes en la producción de series."
+        },
+        {
+          "label": "Demandante",
+          "text": "Lauren J. Salkin, guionista y creadora del proyecto western Sovereign Nation, presentó su idea a la agencia Elevate Entertainment en 2016 antes de que Paramount iniciara la producción de Yellowstone."
+        },
+        {
+          "label": "Respuesta de los productores",
+          "text": "Según informó Variety, ni Paramount Pictures, ni 101 Studios, ni Elevate Entertainment han emitido declaraciones públicas respecto a la demanda presentada contra Taylor Sheridan."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "b6b8b3310566",
       "title": "El espejo roto del río: Arundhati Roy y los recuerdos que flotan",
@@ -952,41 +984,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "605016f0e6a1",
-      "title": "Previo a Estudiantes de Río Cuarto-San Lorenzo, Unión derrotó a Aldosivi en Mar del Plata y lo hundió en la tabla",
-      "summary": "Unión de Santa Fe volvió a ganar al vencer 3‑1 a Aldosivi en Mar del Plata, mientras que Estudiantes de Río Cuarto se prepara para enfrentar a San Lorenzo en la siguiente fecha del Torneo Clausura, ambos con la vista puesta en la permanencia en la máxima categoría.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/21/se-pone-en-marcha-la-fecha-6-del-torneo-clausura-con-dos-partidos-hora-tv-y-todo-lo-que-hay-que-saber/",
-      "published_at": "2026-08-21T19:28:49+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir resultados, goles y situaciones de tabla sin usar adjetivos cargados ni citar fuentes con sesgo; el tono es objetivo y centrado en hechos deportivos.",
-      "focus_analysis": "El medio se concentra en el resultado del partido y su impacto en la clasificación, destacando la lucha por evitar el descenso; no aborda aspectos humanos como declaraciones de jugadores o entrenadores ni análisis táctico profundo.",
-      "focus_tags": [
-        "resultado de fútbol",
-        "tabla de posiciones",
-        "relegación"
-      ],
-      "context": [
-        {
-          "label": "situación de Unión de Santa Fe",
-          "text": "Unión de Santa Fe se encuentra en la zona media‑alta de la tabla, acumulando puntos tras victorias recientes, lo que le permite seguir en la pelea por los puestos de clasificación a torneos internacionales."
-        },
-        {
-          "label": "riesgo de descenso de Aldosivi",
-          "text": "Aldosivi ocupa los últimos lugares de la clasificación anual y de promedios, con escasos triunfos en la temporada, lo que lo coloca en una posición vulnerable de descenso a la Primera Nacional."
-        },
-        {
-          "label": "batalla de permanencia de Estudiantes de Río Cuarto",
-          "text": "Estudiantes de Río Cuarto, equipo de la zona A, lleva una campaña irregular con pocos puntos y necesita sumar victorias para mantenerse en la Primera División, mientras que San Lorenzo busca consolidarse en la parte alta de la tabla."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.2
-      }
     }
   ]
 }

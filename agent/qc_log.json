@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:40:44.290354+00:00",
-      "title": "A través del cristal roto: el susurro de Fernando Pessoa en \"El libro del desasosiego\"",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 6,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una presentación interesante y bien estructurada de Pessoa y su obra, aunque podría profundizar más en la narrativa para alcanzar mayor dinamismo.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:40:54.303145+00:00",
       "title": "Hayek y el conservadurismo",
       "kind": "noticia",
@@ -3039,6 +3022,17 @@
       },
       "observacion": "El texto cumple con los estándares editoriales, ofreciendo una visión interesante y bien estructurada aunque con algunos toques de convencionalismo.",
       "error": null
+    },
+    {
+      "at": "2026-08-24T07:39:42.891984+00:00",
+      "title": "Taylor Sheridan es acusado de plagiar ‘Yellowstone’ y se enfrentará a la justicia",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
