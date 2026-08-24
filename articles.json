@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-24T18:41:04.907036+00:00",
+  "generated_at": "2026-08-24T18:57:57.634736+00:00",
   "articles": [
+    {
+      "id": "37575dbeca25",
+      "title": "¿Cómo la vida en refugios temporales afecta psicológicamente a damnificados por el terremoto?",
+      "summary": "France24 Español analiza el impacto psicológico que la estancia prolongada en refugios temporales tiene en los miles de venezolanos desplazados por el reciente terremoto doble, con la participación del experto Carlos Ibarra, presidente de la Sociedad Venezolana de Psicología Clínica y Salud.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/video/20260824-c%C3%B3mo-la-vida-en-refugios-temporales-afecta-psicol%C3%B3gicamente-a-damnificados-por-el-terremoto",
+      "published_at": "2026-08-24T18:55:30+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y neutral, se basa en la opinión de un especialista y no emplea vocabulario cargado ni fuentes partidistas.",
+      "focus_analysis": "El medio se centra en el ángulo humano y de salud mental de los damnificados, dejando de lado el análisis de la gestión gubernamental y la infraestructura de reconstrucción.",
+      "focus_tags": [
+        "salud mental",
+        "refugios temporales",
+        "terremoto Venezuela"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del sismo",
+          "text": "El 12 de agosto de 2026 un terremoto de magnitud 7,2 sacudió la zona costera de La Guaira y la capital Caracas, provocando cientos de muertos y dejando a más de 30 000 personas sin vivienda."
+        },
+        {
+          "label": "Efectos psicológicos de la desplazación",
+          "text": "Según estudios de la Organización Mundial de la Salud, la exposición prolongada a condiciones de refugio temporal aumenta significativamente el riesgo de trastornos de estrés postraumático, depresión y ansiedad entre los desplazados."
+        },
+        {
+          "label": "Respuesta institucional y crítica",
+          "text": "Organizaciones no gubernamentales han señalado que la respuesta del gobierno venezolano ha sido lenta y que la escasez de recursos para la reconstrucción ha empeorado la situación de los refugios, generando mayor incertidumbre entre los afectados."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "ee2b682b5963",
       "title": "Xiaomi presenta un chip seis veces más potente que el A19 del iPhone 17 Pro",
@@ -959,39 +994,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "ba48b94f43e8",
-      "title": "El susurro del nieve caída: Kawabata y la belleza del silencio",
-      "summary": "Una hoja de papel, recién caída, se posa sobre un cuenco de té humeante; su blancura parece un copo de nieve que se niega a derretirse. En esa quietud, la historia de un viajero solitario se desliza como vapor, dejando tras de sí la estela de una melancolía que solo el invierno puede comprender.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-23T13:00:48.400400+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Hoy, bajo el sol abrasador del verano, la imagen de la nieve sobre el té me recuerda la necesidad de refugios fríos en la literatura. Elegí a Kawabata porque su capacidad de transformar lo cotidiano en un paisaje de silencio es un bálsamo contra el calor agobiante. Además, su obra abre una ventana a la estética del \"majestoso vacío\" que resuena en la era digital.",
-      "focus_tags": [
-        "novela",
-        "Japón",
-        "siglo XX"
-      ],
-      "context": [
-        {
-          "label": "Autor",
-          "text": "Yasunari Kawabata (1899‑1972) fue el primer escritor japonés en recibir el Premio Nobel de Literatura. Su estilo, marcado por la precisión poética y la economía de palabras, captura la belleza efímera de los momentos ordinarios, convirtiéndolos en universos de emoción contenida."
-        },
-        {
-          "label": "Obra recomendada",
-          "text": "«Snow Country» (1947) narra el encuentro entre un hombre de ciudad y una geisha en un remoto pueblo nevado. La novela, como una pintura de tinta, dibuja la frialdad del paisaje y la calidez oculta de los corazones, creando una paradoja de cercanía y distancia."
-        },
-        {
-          "label": "Lectura complementaria",
-          "text": "Para ampliar la experiencia, pruebe «The Master of Go» de Kawabata, que explora la tradición y el cambio a través de una partida de Go, o «Kitchen» de Banana Yoshimoto, cuya sensibilidad minimalista comparte el mismo tono de melancolía serena."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true
     }
   ]
 }

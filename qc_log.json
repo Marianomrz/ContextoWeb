@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:51:29.357277+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete carece de veracidad y fuentes contrastadas, aunque mantiene una estructura adecuada y objetividad razonable.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:51:34.158425+00:00",
       "title": "¿Gas importado o fracking? El dilema energético de México",
       "kind": "noticia",
@@ -2967,6 +2950,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T18:57:30.238457+00:00",
+      "title": "¿Cómo la vida en refugios temporales afecta psicológicamente a damnificados por el terremoto?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es en general sólido y actual, aunque le falta mayor precisión en fuentes y contraste con la posición oficial.",
+      "error": null
     }
   ]
 }
