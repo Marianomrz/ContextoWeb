@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:52:01.715393+00:00",
-      "title": "La odisea del emprendedor que compró un viejo crucero, gastó un millón de dólares en su restauración",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete necesita mejorar la precisión de los datos y la variedad de fuentes, pero cumple con la objetividad, actualidad y estructura requerida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T07:52:07.471354+00:00",
-      "title": "Resultados del Chispazo: números ganadores del sorteo de hoy 19 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:00:53.195941+00:00",
       "title": "Primero la paria",
       "kind": "noticia",
@@ -2949,6 +2915,40 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T20:40:54.337344+00:00",
+      "title": "La Casa de los Famosos México en vivo: Inicia la prueba del líder este lunes 24 de agosto",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, contraste y objetividad, estando actualizado y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-24T20:41:00.933768+00:00",
+      "title": "Países Bajos anuncia que no participará en el Festival de Eurovisión en 2027; \"ya no es neutral\", di",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 5.0,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 3,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete muestra problemas de veracidad y falta de fuentes contrastantes, aunque está actualizado y estructurado correctamente; requiere mejoras antes de su publicación.",
+      "error": null
     }
   ]
 }
