@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:26:39.372672+00:00",
-      "title": "Se filtra una funda del iPhone 18 Pro: no hay cambios a la vista",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta problemas de precisión factual al presentar una filtración como revelación oficial, pero mantiene una buena estructura, actualidad y objetividad general.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:26:45.148151+00:00",
       "title": "Revolución en Europa con los 5 fichajes que superaron los 100 millones de dólares en este mercado: e",
       "kind": "noticia",
@@ -3051,6 +3034,17 @@
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, con pequeñas áreas de mejora en la precisión de fuentes.",
       "error": null
+    },
+    {
+      "at": "2026-08-24T03:25:06.937678+00:00",
+      "title": "La desafiante frase de Guillermo Barros Schelotto tras el empate de Vélez ante River y la pregunta q",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
