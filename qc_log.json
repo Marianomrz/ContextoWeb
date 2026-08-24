@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:51:48.458617+00:00",
-      "title": "¿Doblar la apuesta contra Estados Unidos por Andy?",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete presenta serias deficiencias de veracidad y equilibrio de aunque es actual y está estructurado razonablemente.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:51:54.831095+00:00",
       "title": "Revolución en Europa con los 5 fichajes que superaron los 100 millones de dólares en este mercado: e",
       "kind": "noticia",
@@ -2956,6 +2939,17 @@
       "title": "Trump anuncia nueva tarifa de 100 mil dólares para programa de visas H-1B; es para trabajadores alta",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T19:37:07.960518+00:00",
+      "title": "El detrás de escena de la furia de Pierre Gasly tras el Gran Premio de Países Bajos: “Arruinaron nue",
+      "kind": "noticia",
+      "category": "deportes",
       "approved": true,
       "overall": null,
       "scores": {},
