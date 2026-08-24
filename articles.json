@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-24T10:21:06.854483+00:00",
+  "generated_at": "2026-08-24T10:40:50.223635+00:00",
   "articles": [
+    {
+      "id": "92f78c73bdba",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
+      "summary": "El Ministerio de Sanidad, liderado por la ministra Elma Saiz, se reunió con las comunidades autónomas para organizar la entrega de vacunas a la ciudad norteña de Ceuta, y la ministra calificó de \"irresponsabilidad mayúscula\" los comentarios del presidente gallego Alberto Núñez Feijóo sobre la posibilidad de confinar Ceuta.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-24T10:36:14+00:00",
+      "bias_score": -35,
+      "bias_reason": "El texto enfatiza la crítica de la ministra Elma Saiz a las declaraciones de Feijóo, usando un lenguaje valorativo y sin presentar la versión del presidente gallego, lo que muestra una ligera inclinación hacia la posición del PSOE.",
+      "focus_analysis": "El medio se centra en la polémica política entre la ministra de Sanidad y el presidente gallego, dejando de lado la situación humanitaria de los inmigrantes en Ceuta.",
+      "focus_tags": [
+        "política española",
+        "crisis migratoria",
+        "salud pública"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "Ceuta es una ciudad autónoma española en el norte de África que recibe flujos constantes de inmigrantes que intentan entrar en la UE."
+        },
+        {
+          "label": "postura",
+          "text": "El presidente gallego Alberto Núñez Feijóo declaró que se debería confinar Ceuta para controlar la llegada de migrantes, lo que generó críticas de la ministra de Sanidad."
+        },
+        {
+          "label": "dato",
+          "text": "El Gobierno de España ha lanzado un programa de donación de vacunas a Ceuta, coordinado con las comunidades autónomas para reforzar la protección sanitaria de la población."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "ca103c26acdd",
       "title": "Meta patenta un interruptor físico para sus gafas inteligentes que desactiva sus sensores, cámaras y micrófonos",
@@ -949,41 +981,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "605016f0e6a1",
-      "title": "Tras la victoria de Unión ante Aldosivi, San Lorenzo visita a Estudiantes de Río Cuarto por la fecha 6 del Torneo Clausura",
-      "summary": "Después de vencer a Aldosivi, el club de fútbol Unión de Santa Fe visita a San Lorenzo en el Estadio Ciudad de Río Cuarto, donde el conjunto cordobés busca sumar puntos para mantenerse en la zona de permanencia mientras San Lorenzo intenta consolidarse en la Zona A del Torneo Clausura.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/21/se-pone-en-marcha-la-fecha-6-del-torneo-clausura-con-dos-partidos-hora-tv-y-todo-lo-que-hay-que-saber/",
-      "published_at": "2026-08-21T23:00:38+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta datos y resultados de forma objetiva, sin usar adjetivos cargados ni citar fuentes con sesgo político.",
-      "focus_analysis": "El artículo se centra en el aspecto competitivo del fútbol, resaltando la posición en la tabla y la necesidad de puntos de ambos equipos; omite la perspectiva de los aficionados o el impacto económico del encuentro.",
-      "focus_tags": [
-        "fútbol argentino",
-        "torneo clausura",
-        "relegación"
-      ],
-      "context": [
-        {
-          "label": "situación de Estudiantes de Río Cuarto",
-          "text": "El equipo de Río Cuarto ocupa los últimos lugares de la tabla anual y de promedios, con escasos triunfos en la temporada, por lo que necesita resultados positivos para evitar el descenso a la Primera Nacional."
-        },
-        {
-          "label": "posición de San Lorenzo",
-          "text": "San Lorenzo se encuentra en la Zona A del Torneo Clausura, con la intención de consolidar su puesto en la tabla y acercarse a los lugares de clasificación a la Sudamericana 2027."
-        },
-        {
-          "label": "resultado previo de Unión",
-          "text": "Unión de Santa Fe ganó 3‑1 a Aldosivi, mejorando su posición en la tabla y reforzando la moral del equipo antes del próximo compromiso contra San Lorenzo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
     }
   ]
 }

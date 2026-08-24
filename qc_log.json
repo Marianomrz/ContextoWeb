@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:41:11.843993+00:00",
-      "title": "Resultados del Chispazo: números ganadores del sorteo de hoy 19 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad; es una cobertura adecuada del anuncio de resultados del sorteo.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:41:18.066763+00:00",
       "title": "¿Gas importado o fracking? El dilema energético de México",
       "kind": "noticia",
@@ -3010,6 +2993,17 @@
       "title": "Meta patenta un interruptor físico para sus gafas inteligentes que desactiva sus sensores, cámaras y",
       "kind": "noticia",
       "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T10:40:41.960820+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabi",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
