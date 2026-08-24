@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:41:01.358184+00:00",
-      "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque está actualizado y estructurado correctamente.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:41:06.855966+00:00",
       "title": "Si esto del iPhone 18 Pro es cierto, nadie va a querer comprarlo este año",
       "kind": "noticia",
@@ -3020,6 +3003,17 @@
     {
       "at": "2026-08-24T08:00:50.029605+00:00",
       "title": "La presencia de un dron cerca del aeropuerto de Málaga obliga a su cierre durante 30 minutos",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T08:20:40.587571+00:00",
+      "title": "Así fue la pelea entre Ese Pérez, Masad y Karina Torres en La Casa de los Famosos México tras la gal",
       "kind": "noticia",
       "category": "sociedad",
       "approved": true,
