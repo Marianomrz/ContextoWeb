@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:51:02.110431+00:00",
-      "title": "Un caballo troyano sin caballos",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero necesita fuentes más precisas y mayor contraste de voces para alcanzar una calidad editorial completa.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:51:07.338866+00:00",
       "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
       "kind": "noticia",
@@ -2979,6 +2962,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T16:40:38.960775+00:00",
+      "title": "Hoy arranca consulta a maestros sobre uso de celulares en aulas: Mario Delgado; contestarán cuestion",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero necesita mayor variedad de fuentes para cubrir los diferentes intereses involucrados.",
+      "error": null
     }
   ]
 }
