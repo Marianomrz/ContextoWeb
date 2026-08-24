@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-24T12:41:07.585085+00:00",
+  "generated_at": "2026-08-24T13:01:11.154249+00:00",
   "articles": [
+    {
+      "id": "59970b16dc4d",
+      "title": "Indicadores del 24 al 28 de agosto: Inflación, empleo y crecimiento del PIB",
+      "summary": "El Economista publica el calendario de indicadores económicos de la semana del 24 al 28 de agosto de 2026, que incluye datos de inflación, empleo, balanza comercial y estimaciones del PIB para México y Estados Unidos. Estos indicadores servirán para evaluar la evolución de la actividad económica y las decisiones de política monetaria en ambos países.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/indicadores-24-28-agosto-inflacion-empleo-crecimiento-pib-20260824-829700.html",
+      "published_at": "2026-08-24T13:00:00+00:00",
+      "bias_score": 10,
+      "bias_reason": "El artículo se limita a enumerar datos macroeconómicos sin emplear lenguaje emotivo ni citar fuentes con postura marcada; la selección es meramente informativa, lo que sugiere una posición centrista con ligera inclinación pro‑mercado.",
+      "focus_analysis": "El medio opta por un ángulo macro‑económico, centrado en los números de inflación, empleo y crecimiento del PIB, dejando de lado el impacto social de los análisis de políticas específicas.",
+      "focus_tags": [
+        "inflación",
+        "PIB",
+        "mercado laboral"
+      ],
+      "context": [
+        {
+          "label": "inflación México",
+          "text": "Durante los últimos meses el índice de precios al consumidor de México ha registrado una tendencia al alza, lo que ha llevado al Banco de México a mantener una política monetaria restrictiva para contener la inflación."
+        },
+        {
+          "label": "PCE EE.UU.",
+          "text": "En Estados Unidos, el índice de precios del gasto en consumo personal (PCE) de julio mostró una moderación de la inflación, pero sigue siendo monitorizado de cerca por la Reserva Federal como referencia para sus decisiones de tasas de interés."
+        },
+        {
+          "label": "perspectiva regional",
+          "text": "El Fondo Monetario Internacional ha advertido que el crecimiento económico de América Latina se desacelerará en 2026, destacando la importancia de los indicadores de actividad y empleo para evaluar la resiliencia de la región."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.8
+      }
+    },
     {
       "id": "b3ae4ead69e1",
       "title": "Ucrania quiere la paz, pero no se rendirá, dice Zelenski en el Día de la Independencia",
@@ -954,38 +989,6 @@
       "qc": {
         "overall": 7.8
       }
-    },
-    {
-      "id": "b1f9a40b4510",
-      "title": "Franco Colapinto largará 14° la carrera principal del Gran Premio de Países Bajos de Fórmula 1",
-      "summary": "El piloto argentino Franco Colapinto, de Alpine, quedó fuera de la segunda fase de clasificación del Gran Premio de Países Bajos y se ubicará en la decimocuarta posición para la carrera.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/22/tras-ser-12-en-la-sprint-franco-colapinto-afrontara-la-clasificacion-para-la-carrera-principal-del-gran-premio-de-paises-bajos-de-formula-1/",
-      "published_at": "2026-08-22T14:42:45+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se limita a describir tiempos y posiciones sin usar lenguaje cargado ni citar fuentes con inclinación política; la cobertura es puramente informativa y deportiva.",
-      "focus_analysis": "El medio se centra en los resultados técnicos de la clasificación y los tiempos de los pilotos, omitiendo el aspecto humano y las implicaciones estratégicas para el equipo.",
-      "focus_tags": [
-        "Fórmula 1",
-        "cualificación",
-        "Gran Premio de Países Bajos"
-      ],
-      "context": [
-        {
-          "label": "historial de Colapinto",
-          "text": "Franco Colapinto debutó en Fórmula 1 en 2024 con Alpine y ha tenido dificultades para avanzar a Q3, habitualmente quedando en los puestos intermedios de la clasificación."
-        },
-        {
-          "label": "GP de Países Bajos",
-          "text": "El Gran Premio de Países Bajos se celebra en el circuito de Zandvoort, conocido por su clima variable y por ser decisivo para la lucha de puntos en la segunda mitad de la temporada."
-        },
-        {
-          "label": "cobertura comparada",
-          "text": "Mientras Infobae Deportes reporta la posición de Colapinto, Infobae México destacó la problemática de Checo Pérez en la misma sesión, subrayando un enfoque más centrado en la figura mexicana."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
