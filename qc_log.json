@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:01:09.600994+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de un artículo informativo objetivo y reciente, aunque podría mejorar la verificación directa de algunas afirmaciones.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:01:16.983114+00:00",
       "title": "David Harbour la lía y hace spoiler del mayor secreto de ‘Avengers: Doomsday’",
       "kind": "noticia",
@@ -2938,6 +2921,17 @@
       "title": "Uno de los comisarios deportivos del GP de Países Bajos dio detalles de la sanción a Colapinto: “Yo ",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T22:36:24.826917+00:00",
+      "title": "Kenia López Rabadán aclara que al Partido Verde le toca la presidencia de la Cámara de Diputados",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
