@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-24T14:25:37.775420+00:00",
+  "generated_at": "2026-08-24T14:41:06.852533+00:00",
   "articles": [
+    {
+      "id": "857d5599dfc2",
+      "title": "¿Qué compra el mercado de tu profesión?",
+      "summary": "En su columna de opinión para El Economista, la consultora independiente Maribel Núñez Mora explica que los profesionales deben aprender a traducir su experiencia al lenguaje del cliente, mostrando el valor concreto de sus competencias en vez de limitarse a describir sus tareas. Destaca la importancia de comprender el contexto del mercado y de adoptar una visión interdisciplinaria para conectar sus habilidades con necesidades reales.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/compra-mercado-profesion-20260824-829853.html",
+      "published_at": "2026-08-24T14:38:46+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono neutral y se centra en consejos profesionales sin emplear lenguaje cargado ni citar fuentes con sesgo político, por lo que la cobertura se sitúa en el centro del espectro ideológico.",
+      "focus_analysis": "El medio elige el ángulo de desarrollo profesional y marketing de habilidades, dejando de lado aspectos macroeconómicos o de política laboral.",
+      "focus_tags": [
+        "desarrollo profesional",
+        "valor de mercado",
+        "orientación al cliente"
+      ],
+      "context": [
+        {
+          "label": "Tendencia freelance",
+          "text": "En los últimos años ha aumentado la proporción de trabajadores independientes que deben gestionar su propia propuesta de valor para competir en mercados cada vez más saturados."
+        },
+        {
+          "label": "Interdisciplinariedad",
+          "text": "El libro \"Range\" de David Epstein populariza la idea de que combinar conocimientos de distintas áreas permite identificar oportunidades que una visión especializada no percibe."
+        },
+        {
+          "label": "Demanda de soluciones integradas",
+          "text": "Empresas que buscan reducir costos o entrar a nuevos mercados suelen requerir equipos con habilidades cruzadas, lo que obliga a los profesionales a presentar sus servicios como respuestas a problemas concretos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "4d498f62ab22",
       "title": "Temblor hoy 24 de agosto en México: se registra un sismo de magnitud 4.1 en Ciudad Hidalgo, Chiapas",
@@ -954,38 +989,6 @@
         {
           "label": "fuente de la información de Sheinbaum",
           "text": "El Universal informó que la presidenta Sheinbaum se enteró del retorno de Rocha Moya a través de sus redes sociales y que no había mantenido conversación directa con el gobernador."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "9cfcb6ee5d7d",
-      "title": "Agricultores mexicanos en la mira de defraudadores: así los engañan para robarles 35 mil pesos",
-      "summary": "La Secretaría de Agricultura y Desarrollo Rural de México emitió una alerta sobre un esquema de fraude que utiliza documentos falsos para solicitar a de 35 mil pesos a agricultores, bajo el pretexto de patrocinio o espacios publicitarios, y advierte que todos sus trámites son gratuitos.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/22/agricultores-mexicanos-en-la-mira-de-defraudadores-asi-los-enganan-para-robarles-35-mil-pesos/",
-      "published_at": "2026-08-22T16:30:47+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a reportar la advertencia oficial con un lenguaje neutral, sin incluir opiniones partidistas ni cargar la información con términos emocionales.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad económica, resaltando la alerta gubernamental y el riesgo financiero para los productores agrícolas, mientras deja de lado el impacto personal y social de los agricultores afectados.",
-      "focus_tags": [
-        "fraude agrícola",
-        "advertencia gubernamental",
-        "seguridad financiera"
-      ],
-      "context": [
-        {
-          "label": "Aumento de denuncias de fraude en México",
-          "text": "Según datos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, las denuncias por fraude en México han crecido un 17 % en el último año, acumulando más de 168 mil casos durante el sexenio de la presidenta Claudia Sheinbaum."
-        },
-        {
-          "label": "Rol de la Secretaría de Agricultura",
-          "text": "La Secretaría de Agricultura y Desarrollo Rural de México, junto con Senasica, Cofepris y Semarnat, ofrece de forma gratuita todos sus programas, servicios y documentos de vinculación institucional a los productores del sector agroalimentario."
-        },
-        {
-          "label": "Tácticas comunes de estafas con documentos falsos",
-          "text": "En México, los estafadores suelen emplear documentos con dominios y números de contacto no oficiales, como correos que no terminan en .gob.mx, para simular patrocinio o publicidad y así obtener pagos de agricultores y empresas del sector."
         }
       ],
       "confidence": "alta"

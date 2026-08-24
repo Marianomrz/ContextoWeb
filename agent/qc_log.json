@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T07:50:49.152040+00:00",
-      "title": "Acuerdan fortalecer atención del ISSSTE en Aguascalientes",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete necesita correcciones de datos y fuentes adicionales para ser publicado; la redacción es objetiva y actual, pero la inexactitud de cargos compromete su veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T07:50:53.579797+00:00",
       "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
       "kind": "noticia",
@@ -2985,6 +2968,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-24T14:40:38.894246+00:00",
+      "title": "¿Qué compra el mercado de tu profesión?",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad periodística, presentando una opinión bien contextualizada y reciente, aunque con margen de mejora en la verificación de fuentes externas.",
+      "error": null
     }
   ]
 }
