@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:41:31.494631+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente sólido y actual, aunque le falta contraste de fuentes y mayor respaldo de datos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:41:35.154059+00:00",
       "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
       "kind": "noticia",
@@ -2829,6 +2812,17 @@
       },
       "observacion": "El paquete es en general sólido y actual, pero contiene algunas afirmaciones potencialmente imprecisas que deberían revisarse.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T17:20:43.491465+00:00",
+      "title": "Mira el emocionante tráiler del regreso de ‘Avengers: Endgame’ a los cines",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
