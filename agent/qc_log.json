@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:40:39.148848+00:00",
-      "title": "Entre la grieta del cuenco: descubriendo el bosque interior de Pessoa",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "originalidad_creatividad": 8,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo originalidad, claridad estructural y profundidad temática adecuada para su publicación.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:40:46.119816+00:00",
       "title": "Si tienes mala visión, Google acaba de solucionarte la vida con esta mejora (a tus padres y abuelos ",
       "kind": "noticia",
@@ -2834,6 +2817,23 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T15:40:45.547626+00:00",
+      "title": "Bolsa mexicana retrocede levemente tras racha de cuatro avances; recorta toma de utilidad",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial; presenta datos precisos, es objetivo, actual y bien estructurado, aunque podría incluir fuentes adicionales para los factores macroeconómicos.",
       "error": null
     }
   ]

@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T15:23:58.535285+00:00",
+  "generated_at": "2026-08-25T15:41:12.564765+00:00",
   "articles": [
+    {
+      "id": "755db1357cea",
+      "title": "Bolsa mexicana retrocede levemente tras racha de cuatro avances; recorta toma de utilidad",
+      "summary": "La Bolsa Mexicana de Valores registró una ligera caída de 0.02% en el S&P/BMV IPC y de 0.05% en el FTSE BIVA, tras cuatro jornadas consecutivas de alzas y una toma de ganancias que redujo la caída inicial de más del 1% en la apertura.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/mercados/bolsa-mexicana-retrocede-levemente-racha-cuatro-avances-recorta-toma-utilidad-20260825-830073.html",
+      "published_at": "2026-08-25T15:37:44+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto es meramente descriptivo, utiliza datos numéricos y evita lenguaje cargado o fuentes con sesgo, manteniendo un tono neutral típico de la cobertura financiera.",
+      "focus_analysis": "El artículo se centra en el desempeño económico de los índices bursátiles y la dinámica de toma de ganancias, dejando de lado aspectos humanos o sociales del mercado.",
+      "focus_tags": [
+        "mercados financieros",
+        "índices bursátiles",
+        "toma de ganancias"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de mercado",
+          "text": "Antes de la sesión de este martes, la Bolsa Mexicana de Valores había registrado cuatro sesiones seguidas con avances, lo que había impulsado los índices a niveles cercanos a máximos anuales."
+        },
+        {
+          "label": "Comportamiento de los inversionistas",
+          "text": "Es habitual que los participantes del mercado vendan acciones para asegurar utilidades después de rachas alcistas, lo que se conoce como toma de ganancias y suele generar retrocesos temporales en los índices."
+        },
+        {
+          "label": "Entorno macroeconómico",
+          "text": "El movimiento de los índices mexicanos también se ve influenciado por la cotización del peso frente al dólar y por las tensiones comerciales entre México y Estados Unidos, que pueden afectar la confianza de los inversionistas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "3ddf944c5d0e",
       "title": "La confianza de los consumidores estadounidenses cae en agosto: The Conference Board",
@@ -954,38 +989,6 @@
         {
           "label": "importancia del Festival de Venecia",
           "text": "El Festival de Cine de Venecia es uno de los eventos más prestigiosos del cine mundial; la inclusión de una película mexicana en su sección Spotlight suele impulsar su visibilidad y posibilidades de reconocimiento internacional."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "cb043c4c597f",
-      "title": "El detrás de escena de la furia de Pierre Gasly tras el Gran Premio de Países Bajos: “Arruinaron nuestra carrera”",
-      "summary": "El piloto francés Pierre Gasly, de Alpine, acusó al equipo Racing Bulls de haberle bloqueado en la carrera del Gran Premio de Países Bajos, lo que según él arruinó sus posibilidades de sumar puntos. A pesar de terminar décimo, mantuvo su malestar mientras el rival minimizó la polémica.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/24/el-detras-de-escena-de-la-furia-de-pierre-gasly-tras-el-gran-premio-de-paises-bajos-arruinaron-nuestra-carrera/",
-      "published_at": "2026-08-24T19:34:09+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta declaraciones de ambas partes y utiliza un tono descriptivo sin adjetivos cargados ni selección de fuentes parcial, lo que indica una cobertura centrada y neutral.",
-      "focus_analysis": "El artículo se centra en la disputa entre Alpine y Racing Bulls y la frustración del piloto, dejando de lado un análisis técnico del coche o de la estrategia de pit stops más profunda.",
-      "focus_tags": [
-        "F1",
-        "conflicto de equipos",
-        "estrategia de carrera"
-      ],
-      "context": [
-        {
-          "label": "competencia",
-          "text": "Alpine y Racing Bulls están muy cerca en el campeonato de constructores, con 63 y 66 puntos respectivamente, lo que genera una presión constante en cada carrera."
-        },
-        {
-          "label": "formato de carrera",
-          "text": "El Gran Premio de Países Bajos incluye una sesión sprint que otorga puntos y una carrera principal, lo que influye en la estrategia de paradas y posiciones."
-        },
-        {
-          "label": "enfoque mediático",
-          "text": "Mientras Infobae Deportes se concentra en la disputa deportiva entre los equipos, otras coberturas como la de DW Español destacan la dimensión política de eventos simultáneos, como la polémica de Eurovisión."
         }
       ],
       "confidence": "alta"
