@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:21:05.311118+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la falta de citas directas y la baja confianza reducen ligeramente la precisión percibida.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:21:14.875698+00:00",
-      "title": "Cinco días a la deriva sobre una hielera: así sobrevivieron dos pescadores en Chiapas | Video",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, pero la inconsistencia en datos compromete su veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:21:24.196714+00:00",
       "title": "Primero la paria",
       "kind": "noticia",
@@ -2847,6 +2813,40 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T13:40:46.065861+00:00",
+      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 25 de agosto: Volcadura de camión",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo información veraz, objetiva y oportuna, aunque podría reforzar la veracidad con fuentes oficiales adicionales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T13:40:53.151756+00:00",
+      "title": "Trump exige cesar las ejecuciones de manifestantes en Irán",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.6,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "Aunque la pieza es actual y sigue la estructura adecuada, la falta de fuentes verificables y el sesgo evidente la hacen inadecuada para publicación sin una revisión y corrección de la objetividad.",
+      "error": null
     }
   ]
 }

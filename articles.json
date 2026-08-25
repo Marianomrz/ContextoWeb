@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T13:30:11.658818+00:00",
+  "generated_at": "2026-08-25T13:41:18.812270+00:00",
   "articles": [
+    {
+      "id": "450c397c6f1c",
+      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 25 de agosto: Volcadura de camión afecta la circulación en la México-Puebla",
+      "summary": "Un camión se volcó en la autopista México-Puebla, provocando interrupciones en la circulación y recomendando a los conductores extremar precauciones, mientras la Secretaría de Seguridad Ciudadana de la Ciudad de México anuncia una jornada con bloqueos, accidentes y manifestaciones en varios puntos de la capital.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/25/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-25-de-agosto/",
+      "published_at": "2026-08-25T13:39:26+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono informativo y neutral, sin palabras cargadas ni fuentes partidistas, limitándose a describir los hechos y las recomendaciones de seguridad.",
+      "focus_analysis": "El medio prioriza el aspecto de tráfico y seguridad pública, informando sobre el accidente y la agenda de movilizaciones, dejando de lado un análisis político o de los motivos de las protestas.",
+      "focus_tags": [
+        "tráfico",
+        "manifestaciones",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "Agenda de la Secretaría de Seguridad Ciudadana",
+          "text": "La Secretaría de Seguridad Ciudadana de la Ciudad de México publica diariamente una agenda que indica posibles bloqueos y manifestaciones, con el fin de alertar a la población y coordinar acciones de seguridad."
+        },
+        {
+          "label": "Incidente en la autopista México-Puebla",
+          "text": "La autopista México-Puebla es una vía de alta circulación que conentemente registra accidentes y cierres temporales, afectando tanto al transporte de mercancías como al tráfico de pasajeros."
+        },
+        {
+          "label": "Impacto de las movilizaciones en la movilidad urbana",
+          "text": "En los últimos años, las movilizaciones sociales en la Ciudad de México han generado congestiones y desvíos vehiculares, obligando a las autoridades a implementar planes de contingencia y a los conductores a buscar rutas alternas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "9af0c2fe84ee",
       "title": "Tesla entierra su Solar Roof casi diez años después: las promesas de sus revolucionarias tejas solares que “no salen rentables”",
@@ -954,38 +989,6 @@
       "qc": {
         "overall": 9.0
       }
-    },
-    {
-      "id": "aa8bd30de2c8",
-      "title": "Nacer Global y Secretaría de Turismo colaborarán en materia de certificación",
-      "summary": "Nacer Global, el mayor conglomerado universitario privado de México, y la Secretaría de Turismo, encabezada por Josefina Rodríguez Zamora, firmarán una colaboración para certificar a los actores de la industria turística en áreas de hospitalidad, gastronomía e inglés, con el objetivo de mejorar la productividad y la calidad de vida en el sector.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/nacer-global-secretaria-turismo-colaboraran-materia-certificacion-20260824-829752.html",
-      "published_at": "2026-08-24T17:00:00+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea un tono mayormente positivo, citando sólo a representantes del sector público y privado, y resalta los beneficios económicos sin presentar críticas ni voces opositoras, lo que indica una ligera inclinación pro‑negocio.",
-      "focus_analysis": "El medio se centra en el impacto económico y de productividad de la certificación turística, dejando de lado la perspectiva de los trabajadores y los posibles retos sociales del proceso.",
-      "focus_tags": [
-        "turismo",
-        "certificación",
-        "colaboración público‑privada"
-      ],
-      "context": [
-        {
-          "label": "background",
-          "text": "El turismo representa aproximadamente el 8 % del PIB mexicano de forma directa y hasta un 15 % cuando se consideran los efectos indirectos, posicionando a México como el sexto destino mundial más visitado."
-        },
-        {
-          "label": "precedent",
-          "text": "En años anteriores, la Secretaría de Turismo ha impulsado programas de certificación de calidad turística en alianza con empresas y escuelas privadas, buscando estandarizar la oferta y elevar la competitividad del país."
-        },
-        {
-          "label": "regional_comparison",
-          "text": "Otros países latinoamericanos, como Brasil y Colombia, han implementado sistemas de certificación turística que han contribuido a mejorar la reputación internacional y la capacitación del personal del sector."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
