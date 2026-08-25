@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:01:42.051363+00:00",
-      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado, con buena actualidad y claridad estructural, aunque podría mejorar la verificación de datos y la diversidad de fuentes.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:01:50.887580+00:00",
-      "title": "Ecosistema analógico",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:01:57.057387+00:00",
       "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
       "kind": "noticia",
@@ -2914,6 +2880,34 @@
       "title": "Tigre venció 2-1 a Central Córdoba de Santiago del Estero y extendió su racha en el Torneo Clausura",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T00:40:43.958768+00:00",
+      "title": "Un teacup roto y la eternidad de Morel: redescubriendo la novela que anticipó la ciencia ficción",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": 7.8,
+      "scores": {
+        "originalidad_creatividad": 8,
+        "riqueza_estilo": 7,
+        "estructura_narrativa": 8,
+        "voz_autor": 8,
+        "profundidad_tematica": 8
+      },
+      "observacion": "Texto sólido y creativo que cumple con los estándares literarios de Contexto, aunque podría enriquecer aún más su estilo con mayor variedad de recursos retóricos.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T00:40:46.583583+00:00",
+      "title": "CDMX impulsa nuevo Pacto Digital para regular el uso de celulares a niños y adolescentes en escuelas",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
