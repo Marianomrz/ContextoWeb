@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T11:20:55.357049+00:00",
+  "generated_at": "2026-08-25T11:37:12.306567+00:00",
   "articles": [
+    {
+      "id": "02197f47c53b",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
+      "summary": "La ministra de Interior advirtió que Ceuta y Melilla son territorios españoles e intocables mientras el Gobierno crea un mando único bajo Ángel Víctor Torres para gestionar la entrada de inmigrantes, y el PP exige la dimisión de la titular de Defensa, alegando que la crisis se pudo haber evitado.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-25T11:32:56+00:00",
+      "bias_score": -15,
+      "bias_reason": "El texto combina la posición oficial del Gobierno con la crítica del PP, pero el tono y la selección de fuentes siguen la línea editorial de El País, que tiende a presentar la crisis migratoria como un problema de gestión gubernamental y a cuestionar a la derecha.",
+      "focus_analysis": "El artículo se centra en el ángulo político‑institucional y de seguridad, destacando decisiones del Gobierno y reacciones del PP, dejando de lado la perspectiva humanitaria de los migrantes y sus condiciones.",
+      "focus_tags": [
+        "crisis migratoria",
+        "seguridad",
+        "política española"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de Ceuta",
+          "text": "Ceuta es una ciudad autónoma española en el norte de África que ha sido punto de entrada frecuente de migrantes procedentes de África subsahariana, generando episodios de tensión migraria en los últimos años."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "El Gobierno español ha creado un mando único bajo la dirección de Ángel Víctor Torres para coordinar a las fuerzas de seguridad y el CNI en la gestión de la crisis migratoria en Ceuta."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Euronews Español informó que el presidente Sánchez convocó al Consejo de Seguridad Nacional para tratar la crisis en Ceuta, un detalle que no aparece en la nota de El País América."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "02197f47c53b",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
@@ -957,38 +989,6 @@
       "qc": {
         "overall": 8.4
       }
-    },
-    {
-      "id": "4d498f62ab22",
-      "title": "Temblor hoy 24 de agosto en México: se registra un sismo de magnitud 4.1 en Ciudad Hidalgo, Chiapas",
-      "summary": "El Servicio Sismológico Nacional de México informó que el 24 de agosto se registró un sismo de magnitud 4.1 a 136 kilómetros al suroeste de Ciudad Hidalgo, en el estado de Chiapas, sin reportes de daños ni heridos.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/24/temblor-hoy-en-mexico-noticias-actividad-sismica-24-de-agosto-de-2026/",
-      "published_at": "2026-08-24T14:22:28+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono meramente informativo, sin adjetivos cargados ni fuentes que favorezcan una postura política o ideológica.",
-      "focus_analysis": "El medio se centró en la descripción técnica del sismo y su monitoreo por parte del SSN, dejando de lado aspectos como la respuesta de autoridades locales o el impacto económico en la población.",
-      "focus_tags": [
-        "sismicidad",
-        "Ciudad Hidalgo",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "Entorno tectónico",
-          "text": "México está situado sobre la intersección de cinco placas tectónicas, lo que lo coloca en una zona de alta actividad sísmica y genera frecuentes temblores de distintas magnitudes."
-        },
-        {
-          "label": "Historial sísmico",
-          "text": "El país ha experimentado terremotos de gran impacto, como el sismo de 7.1 grados que sacudió Puebla y Morelos en 2017, provocando pérdidas humanas y materiales significativas."
-        },
-        {
-          "label": "Rol del SSN",
-          "text": "El Servicio Sismológico Nacional es la autoridad oficial que monitorea en tiempo real la actividad sísmica en México y emite alertas y reportes para la población y las autoridades."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

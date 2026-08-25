@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:07:52.830253+00:00",
-      "title": "Por qué el garaje es el peor lugar donde puedes guardar tus dispositivos electrónicos (y qué hacer s",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El artículo es reciente y está bien estructurado, pero la ausencia de fuentes verificables y la dependencia de un único medio reducen su puntuación global.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:08:03.975796+00:00",
       "title": "Ecosistema analógico",
       "kind": "noticia",
@@ -2857,6 +2840,17 @@
     },
     {
       "at": "2026-08-25T11:20:45.589362+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T11:36:43.059587+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del ",
       "kind": "noticia",
       "category": "politica",
