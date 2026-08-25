@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:01:32.084549+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque podría beneficiarse de fuentes más diversas para reforzar el contraste.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:01:40.738860+00:00",
       "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
       "kind": "noticia",
@@ -2770,6 +2753,17 @@
       "title": "Juez suspende provisionalmente proyecto \"Las Dunas\" en Yucatán; habitantes señalan violaciones a der",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T23:32:49.583250+00:00",
+      "title": "¿Riesgo de fracturas en Morena? Ricardo Monreal pide diálogo y calma entre quienes buscan candidatur",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
