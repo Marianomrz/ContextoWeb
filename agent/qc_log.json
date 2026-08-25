@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:21:24.196714+00:00",
-      "title": "Primero la paria",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida los estándares editoriales, con ligera falta de fuentes contrastantes pero es objetivo, actual y bien estructurado.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:21:37.077785+00:00",
       "title": "Hayek y el conservadurismo",
       "kind": "noticia",
@@ -2846,6 +2829,23 @@
         "estructura_piramide": 8
       },
       "observacion": "Aunque la pieza es actual y sigue la estructura adecuada, la falta de fuentes verificables y el sesgo evidente la hacen inadecuada para publicación sin una revisión y corrección de la objetividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T13:58:43.101589+00:00",
+      "title": "Superávit comercial: ¿compra anticipada o cambio de motor?",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 8.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y objetivo, pero necesita mayor contraste de fuentes y citas para reforzar la veracidad de los datos.",
       "error": null
     }
   ]
