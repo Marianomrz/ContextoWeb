@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:08:10.624178+00:00",
-      "title": "Narcocorridos revelan quién es ‘El Tío Lako’ del CJNG: los Guerrero, 200 pistoleros y el asesinato d",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere enriquecer la cobertura con más fuentes independientes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:20:47.332195+00:00",
       "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 20 de agosto",
       "kind": "noticia",
@@ -2853,6 +2836,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T12:20:44.632796+00:00",
+      "title": "El bitcoin supera los 80,000 dólares ante la debilidad del dólar y el temor a su depreciación",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": false,
+      "overall": 5.2,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 9,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque es reciente y está bien estructurado.",
+      "error": null
     }
   ]
 }
