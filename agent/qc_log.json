@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:01:57.057387+00:00",
-      "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.2,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en precisión factual y en ofrecer un contraste de fuentes adecuado, aunque su estructura y actualidad son correctas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:02:04.031399+00:00",
       "title": "Narcocorridos revelan quién es ‘El Tío Lako’ del CJNG: los Guerrero, 200 pistoleros y el asesinato d",
       "kind": "noticia",
@@ -2913,6 +2896,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T01:20:46.973021+00:00",
+      "title": "“Espalda con espalda”: el romántico posteo del Cuti Romero junto a su esposa Karen Cavaller en el in",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete necesita mejorar la veracidad y la diversidad de fuentes, aunque mantiene objetividad y actualidad adecuada.",
+      "error": null
     }
   ]
 }
