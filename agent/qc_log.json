@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:02:11.251085+00:00",
-      "title": "Si esto del iPhone 18 Pro es cierto, nadie va a querer comprarlo este año",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero necesita fuentes verificables y mayor neutralidad para alcanzar la excelencia editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:02:21.924955+00:00",
-      "title": "Nadie escapa de Widow’s Bay",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y actualizado, pero su veracidad es cuestionable al describir una serie que no se verifica en fuentes externas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:02:29.107402+00:00",
       "title": "¿Gas importado o fracking? El dilema energético de México",
       "kind": "noticia",
@@ -2902,6 +2868,34 @@
       "title": "Sedema clausura Balneario de San Juan de Aragón; detectan consumo de alcohol y venta de animales",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T03:05:18.719477+00:00",
+      "title": "Cuándo y a qué hora será el segundo informe de Gobierno de Claudia Sheinbaum",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.8,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El artículo cumple con la veracidad, objetividad y estructura, pero necesita incorporar perspectivas de contraste para cumplir plenamente con los estándares de cobertura política.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T03:05:22.756531+00:00",
+      "title": "El cómico vence al terrorista",
+      "kind": "noticia",
+      "category": "internacional",
       "approved": true,
       "overall": null,
       "scores": {},

@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T02:41:09.433473+00:00",
+  "generated_at": "2026-08-25T03:05:54.182311+00:00",
   "articles": [
+    {
+      "id": "055c89b68131",
+      "title": "El cómico vence al terrorista",
+      "summary": "El columnista Fausto Pretelin Muñoz de Cote, de El Economista, utiliza la metáfora de un cómico que vence a un terrorista para criticar a los regímenes autoritarios de Irán, Rusia e Israel, calificando a Vladimir Putin, Benjamin Netanyahu y Donald Trump como criminales o incompetentes y aludiendo a la heroica defensa ucraniana.",
+      "category": "internacional",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/comico-vence-terrorista-20260824-829979.html",
+      "published_at": "2026-08-25T02:54:02+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto emplea un lenguaje cargado como \"terrorista\", \"criminales de guerra\" y \"ultra religiosos\", y muestra una postura crítica hacia Estados Unidos e Israel mientras condena al autoritarismo ruso, lo que indica una tendencia ligeramente izquierdista.",
+      "focus_analysis": "El artículo se centra en la dimensión política‑moral de los conflictos internacionales, resaltando el autoritarismo y el nacionalismo como amenazas, mientras omite cualquier análisis económico o social de los países involucrados.",
+      "focus_tags": [
+        "geopolítica",
+        "autoritarismo",
+        "nacionalismo"
+      ],
+      "context": [
+        {
+          "label": "Irán y el teocentrismo",
+          "text": "Desde la Revolución de 1979, Irán ha mantenido un sistema de gobierno teocrático que restringe las libertades civiles, una característica que el autor menciona como ejemplo de totalitarismo."
+        },
+        {
+          "label": "Guerra en Ucrania",
+          "text": "Desde 2022, Ucrania se ha defendido contra la invasión rusa con apoyo militar y financiero de la Unión Europea y Estados Unidos, una resistencia que el artículo describe como heroica."
+        },
+        {
+          "label": "Conflicto Israel‑Palestina",
+          "text": "El gobierno israelí, encabezado por Benjamin Netanyahu, ha sido criticado internacionalmente por políticas consideradas ultranacionalistas y por la gestión de los asentamientos en Cisjordania."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "cfa216c8eac5",
       "title": "Sedema clausura Balneario de San Juan de Aragón; detectan consumo de alcohol y venta de animales",
@@ -962,38 +994,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "ca103c26acdd",
-      "title": "Meta patenta un interruptor físico para sus gafas inteligentes que desactiva sus sensores, cámaras y micrófonos",
-      "summary": "Meta, la empresa matriz de Facebook e Instagram, ha registrado una patente que incorpora un interruptor físico para sus gafas de realidad aumentada Ray‑Ban Meta, permitiendo desactivar por completo cámaras, micrófonos y sensores, con el objetivo de proteger la privacidad de los usuarios contra posibles ciberataques.",
-      "category": "tecnologia",
-      "source_name": "El Androide Libre",
-      "source_url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20260824/meta-patenta-interruptor-fisico-gafas-inteligentes-desactiva-sensores-camaras-microfonos/1003744361078_0.html",
-      "published_at": "2026-08-24T09:55:54+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto utiliza expresiones cargadas como \"serio peligro para la privacidad\" y enfatiza riesgos de ciberseguridad, presentando a Meta de forma crítica y sin equilibrar con potenciales beneficios del dispositivo.",
-      "focus_analysis": "El medio se centra en la dimensión de privacidad y seguridad de la tecnología, dejando de lado aspectos comerciales, de usabilidad o de innovación que podrían interesar a los consumidores.",
-      "focus_tags": [
-        "privacidad",
-        "seguridad",
-        "hardware"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la línea Ray‑Ban Meta",
-          "text": "Meta lanzó en 2023 las gafas de realidad aumentada Ray‑Ban Meta, que integran cámaras y asistentes de IA en el rostro del usuario, generando debates sobre la vigilancia y el uso de datos personales."
-        },
-        {
-          "label": "Regulación europea de privacidad",
-          "text": "La Unión Europea ha reforzado la normativa de protección de datos con el GDPR, lo que obliga a las empresas de tecnología a implementar medidas de seguridad y privacidad más estrictas en sus dispositivos."
-        },
-        {
-          "label": "Preocupaciones de ciberdelincuentes",
-          "text": "Expertos en ciberseguridad advierten que los dispositivos con sensores activados pueden ser vulnerables a ataques remotos y a la captura no autorizada de audio y video, lo que justifica la búsqueda de soluciones de hardware como la patente de Meta."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
