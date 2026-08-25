@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:07:24.914278+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y bien estructurada.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:07:31.388581+00:00",
       "title": "Acuerdan fortalecer atención del ISSSTE en Aguascalientes",
       "kind": "noticia",
@@ -2877,6 +2860,17 @@
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, reciente y estructurada, aunque podría enriquecer el contraste de fuentes con más voces diversas.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T09:40:43.385209+00:00",
+      "title": "La Casa de los Famosos México en vivo: Masad es el nuevo líder de la semana y compartirá la suite co",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }

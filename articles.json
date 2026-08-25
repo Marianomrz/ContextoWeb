@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T09:21:12.964980+00:00",
+  "generated_at": "2026-08-25T09:41:16.818350+00:00",
   "articles": [
+    {
+      "id": "bfed7e2b30c8",
+      "title": "La Casa de los Famosos México en vivo: Masad es el nuevo líder de la semana y compartirá la suite con Yahir",
+      "summary": "En el reality La Casa de los Famosos México 2026, el concursante Masad Altamimi se impuso como líder semanal tras ganar una prueba de equilibrio y eligió al cantante Yahir para compartir la suite, mientras nominó directamente a la actriz Gema Garoa.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/23/la-casa-de-los-famosos-mexico-2026-en-vivo-quien-seria-el-cuarto-eliminado-y-que-habitantes-la-produccion-podria-sacar/",
+      "published_at": "2026-08-25T09:38:29+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono descriptivo y objetivo, sin palabras cargadas ni selección de fuentes que favorezcan una postura política; simplemente informa los hechos del programa.",
+      "focus_analysis": "El medio se concentra en la dinámica de la competencia y los conflictos entre los participantes, dejando de lado análisis sobre la audiencia o el impacto cultural del reality.",
+      "focus_tags": [
+        "reality TV",
+        "competencia",
+        "conflicto"
+      ],
+      "context": [
+        {
+          "label": "Formato del programa",
+          "text": "La Casa de los Famosos México, producido por Televisa y transmitido en ViX+, reúne a celebridades que conviven 24/7; cada semana se elige un líder que puede nominar directamente a un compañero para la eliminación."
+        },
+        {
+          "label": "Mecanismo de \"El Exilio\" y \"muebles\"",
+          "text": "En esta temporada, el público vota para identificar a los participantes considerados \"muebles\", es decir, los menos comprometidos, y los envía temporalmente al área de \"Exilio\", una dinámica que afecta la estrategia del juego."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Universal destacó la expulsión de tres concursantes al \"Exilio\", mientras que Infobae se centra en el ascenso de Masad al liderazgo y sus decisiones, evidenciando diferentes ángulos de cobertura del mismo hecho."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "567d93b5b3ba",
       "title": "La Carta Magna registra 370 reformas",
@@ -957,41 +989,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "59970b16dc4d",
-      "title": "Indicadores del 24 al 28 de agosto: Inflación, empleo y crecimiento del PIB",
-      "summary": "El Economista publica el calendario de indicadores económicos de la semana del 24 al 28 de agosto de 2026, que incluye datos de inflación, empleo, balanza comercial y estimaciones del PIB para México y Estados Unidos. Estos indicadores servirán para evaluar la evolución de la actividad económica y las decisiones de política monetaria en ambos países.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/opinion/indicadores-24-28-agosto-inflacion-empleo-crecimiento-pib-20260824-829700.html",
-      "published_at": "2026-08-24T13:00:00+00:00",
-      "bias_score": 10,
-      "bias_reason": "El artículo se limita a enumerar datos macroeconómicos sin emplear lenguaje emotivo ni citar fuentes con postura marcada; la selección es meramente informativa, lo que sugiere una posición centrista con ligera inclinación pro‑mercado.",
-      "focus_analysis": "El medio opta por un ángulo macro‑económico, centrado en los números de inflación, empleo y crecimiento del PIB, dejando de lado el impacto social de los análisis de políticas específicas.",
-      "focus_tags": [
-        "inflación",
-        "PIB",
-        "mercado laboral"
-      ],
-      "context": [
-        {
-          "label": "inflación México",
-          "text": "Durante los últimos meses el índice de precios al consumidor de México ha registrado una tendencia al alza, lo que ha llevado al Banco de México a mantener una política monetaria restrictiva para contener la inflación."
-        },
-        {
-          "label": "PCE EE.UU.",
-          "text": "En Estados Unidos, el índice de precios del gasto en consumo personal (PCE) de julio mostró una moderación de la inflación, pero sigue siendo monitorizado de cerca por la Reserva Federal como referencia para sus decisiones de tasas de interés."
-        },
-        {
-          "label": "perspectiva regional",
-          "text": "El Fondo Monetario Internacional ha advertido que el crecimiento económico de América Latina se desacelerará en 2026, destacando la importancia de los indicadores de actividad y empleo para evaluar la resiliencia de la región."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
     }
   ]
 }
