@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T14:01:37.386889+00:00",
+  "generated_at": "2026-08-25T14:21:17.622859+00:00",
   "articles": [
+    {
+      "id": "85e631a9c8be",
+      "title": "Israel toma oficinas de UNRWA en Jerusalén; Netanyahu dice que actuará contra la agencia con \"todos los medios a su alcance\"",
+      "summary": "El primer ministro israelí, Benjamin Netanyahu, anunció que Israel desalojará la oficina de la Agencia de la ONU para los Refugiados Palestinos (UNRWA) en Jerusalén Este y que empleará todas las medidas disponibles contra la agencia, alegando su participación en la masacre de Hamas del 7 de octubre de 2023.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/israel-toma-oficinas-de-unrwa-en-jerusalen-netanyahu-dice-que-actuara-contra-la-agencia-con-todos-los-medios-a-su-alcance/",
+      "published_at": "2026-08-25T14:16:51+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea expresiones como \"extremista judío y antiárabe\" y presenta la acción israelí como una respuesta justificada, sin profundizar en la crítica a la violación de la inmunidad de la UNRWA, lo que indica una ligera inclinación pro‑seguridad israelí.",
+      "focus_analysis": "El medio se concentra en el ángulo político‑seguridad, resaltando la decisión de Netanyahu y la supuesta vinculación de la UNRWA con Hamas, mientras deja de lado el impacto humanitario sobre los refugiados y la controversia legal internacional.",
+      "focus_tags": [
+        "seguridad",
+        "política israelí",
+        "UNRWA"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes legales",
+          "text": "La Corte Internacional de Justicia, en octubre de 2025, concluyó que Israel no había presentado pruebas suficientes que vincularan a la UNRWA con Hamas, cuestionando la base legal del desalojo."
+        },
+        {
+          "label": "Situación de la UNRWA",
+          "text": "Fundada en 1949, la UNRWA brinda asistencia humanitaria y educativa a más de cinco millones de refugiados palestinos en Oriente Medio y ha sido objeto de controversias políticas en los últimos años."
+        },
+        {
+          "label": "Reacción internacional",
+          "text": "Varios gobiernos y organizaciones internacionales han expresado preocupación por la violación de la inmunidad de la UNRWA y por el precedente que representa la ocupación de instalaciones de la ONU."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "450c397c6f1c",
       "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 25 de agosto: Volcadura de camión afecta la circulación en la México-Puebla",
@@ -954,41 +986,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "6628d53ec088",
-      "title": "La temperatura media diaria de la superficie del mar registra nuevo récord de 21.1 grados Celsius",
-      "summary": "El Servicio de Cambio Climático de Copernicus informó que la temperatura media diaria de la superficie del mar alcanzó un nuevo máximo histórico de 21,1 °C el 22 de agosto, superando el récord anterior y señalando la continuidad del calentamiento oceánico y la influencia del fenómeno de El Niño.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/temperatura-media-diaria-superficie-mar-registra-nuevo-record-21-1-grados-celsius-20260824-829879.html",
-      "published_at": "2026-08-24T17:18:40+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un lenguaje técnico y objetivo, citando únicamente fuentes científicas sin usar vocabulario cargado ni presentar opiniones políticas.",
-      "focus_analysis": "El medio se centra en el aspecto climático y ambiental del récord de temperatura, destacando sus consecuencias para ecosistemas y comunidades costeras, mientras deja de lado análisis económicos o políticos del fenómeno.",
-      "focus_tags": [
-        "cambio climático",
-        "temperatura oceánica",
-        "impactos costeros"
-      ],
-      "context": [
-        {
-          "label": "registro_anterior",
-          "text": "El récord anterior de temperatura media diaria del océano se había establecido en marzo de 2024 con 21,09 °C, y el máximo de agosto de 2023 había sido 20,98 °C."
-        },
-        {
-          "label": "el_nino",
-          "text": "Los científicos de Copernicus advierten que el fenómeno de El Niño, que se prevé que se intensifique en los próximos meses, está contribuyendo al aumento de las temperaturas marinas."
-        },
-        {
-          "label": "other_media",
-          "text": "En su cobertura, El País América subrayó la crisis climática como la causa subyacente del récord de temperatura, enfatizando los riesgos globales asociados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
     }
   ]
 }
