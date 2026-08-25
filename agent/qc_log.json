@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:06:55.533867+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura, pero presenta dudas de veracidad y fuentes limitadas; necesita mayor corroboración de datos y fuentes múltiples para alcanzar un nivel editorial óptimo.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:07:02.207431+00:00",
       "title": "Pensábamos que los 28 °C del Mediterráneo eran una maravilla para bañarse. Pero el calor acumulado e",
       "kind": "noticia",
@@ -2890,6 +2873,17 @@
       "title": "La Casa de los Famosos México en vivo: Luis Chaparro, Yanet García y Ese Pérez son considerados los ",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T07:56:42.561225+00:00",
+      "title": "Ramas que cruzan océanos: la saga de Homegoing de Yaa Gyasi",
+      "kind": "literatura",
+      "category": "literatura",
       "approved": true,
       "overall": null,
       "scores": {},
