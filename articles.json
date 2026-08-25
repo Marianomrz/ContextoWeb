@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T21:21:14.296333+00:00",
+  "generated_at": "2026-08-25T21:37:39.761100+00:00",
   "articles": [
+    {
+      "id": "da5c17177595",
+      "title": "¿Cuándo cae el pago de las Pensiones del Bienestar en septiembre?",
+      "summary": "La Secretaría del Bienestar del Gobierno Federal de México anunció que los pagos de las Pensiones del Bienestar para septiembre se realizarán de forma escalonada a partir del 1 de septiembre, con montos de hasta 6,400 pesos para adultos mayores y 3,300 pesos para personas con discapacidad.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/25/cuando-cae-el-pago-de-las-pensiones-del-bienestar-en-septiembre/",
+      "published_at": "2026-08-25T21:34:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir fechas, montos y procedimientos sin usar adjetivos cargados ni presentar opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centró en el aspecto administrativo y económico del programa, detallando fechas, montos y esquema de entrega, mientras dejó de lado la perspectiva de los beneficiarios o posibles críticas al programa.",
+      "focus_tags": [
+        "pagos de pensiones",
+        "programas sociales",
+        "Gobierno federal"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del programa",
+          "text": "Las Pensiones del Bienestar fueron creadas en 2020 como parte de la política social del Gobierno Federal de México para garantizar un ingreso básico a adultos mayores, personas con discapacidad y otros grupos vulnerables."
+        },
+        {
+          "label": "Alcance del programa",
+          "text": "A septiembre de 2026 el programa beneficia a más de 12 millones de mexicanos, convirtiéndose en uno de los mayores sistemas de apoyo directo del país."
+        },
+        {
+          "label": "Esquema de pagos anteriores",
+          "text": "En meses previos, la Secretaría del Bienestar ha entregado los pagos de forma escalonada según la inicial del apellido del beneficiario, un método que busca distribuir la carga operativa y evitar congestiones bancarias."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "a2455be6ad2c",
       "title": "Mía y Lía Cueva reinan en el trampolín de 3 metros en el Mundial Junior de Clavados",
@@ -956,38 +988,6 @@
         {
           "label": "postura de otros medios",
           "text": "Otros medios, como Periódico AM, han vinculado el reality a programas competidores como La Granja VIP, resaltando la interacción entre los concursos de celebridades y la estrategia de los canales para mantener la audiencia."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "055c89b68131",
-      "title": "El cómico vence al terrorista",
-      "summary": "El columnista Fausto Pretelin Muñoz de Cote, de El Economista, utiliza la metáfora de un cómico que vence a un terrorista para criticar a los regímenes autoritarios de Irán, Rusia e Israel, calificando a Vladimir Putin, Benjamin Netanyahu y Donald Trump como criminales o incompetentes y aludiendo a la heroica defensa ucraniana.",
-      "category": "internacional",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/opinion/comico-vence-terrorista-20260824-829979.html",
-      "published_at": "2026-08-25T02:54:02+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto emplea un lenguaje cargado como \"terrorista\", \"criminales de guerra\" y \"ultra religiosos\", y muestra una postura crítica hacia Estados Unidos e Israel mientras condena al autoritarismo ruso, lo que indica una tendencia ligeramente izquierdista.",
-      "focus_analysis": "El artículo se centra en la dimensión política‑moral de los conflictos internacionales, resaltando el autoritarismo y el nacionalismo como amenazas, mientras omite cualquier análisis económico o social de los países involucrados.",
-      "focus_tags": [
-        "geopolítica",
-        "autoritarismo",
-        "nacionalismo"
-      ],
-      "context": [
-        {
-          "label": "Irán y el teocentrismo",
-          "text": "Desde la Revolución de 1979, Irán ha mantenido un sistema de gobierno teocrático que restringe las libertades civiles, una característica que el autor menciona como ejemplo de totalitarismo."
-        },
-        {
-          "label": "Guerra en Ucrania",
-          "text": "Desde 2022, Ucrania se ha defendido contra la invasión rusa con apoyo militar y financiero de la Unión Europea y Estados Unidos, una resistencia que el artículo describe como heroica."
-        },
-        {
-          "label": "Conflicto Israel‑Palestina",
-          "text": "El gobierno israelí, encabezado por Benjamin Netanyahu, ha sido criticado internacionalmente por políticas consideradas ultranacionalistas y por la gestión de los asentamientos en Cisjordania."
         }
       ],
       "confidence": "alta"
