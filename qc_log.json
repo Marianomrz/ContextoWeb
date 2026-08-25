@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:08:03.975796+00:00",
-      "title": "Ecosistema analógico",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la ausencia de fuentes externas limita la profundidad del contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:08:10.624178+00:00",
       "title": "Narcocorridos revelan quién es ‘El Tío Lako’ del CJNG: los Guerrero, 200 pistoleros y el asesinato d",
       "kind": "noticia",
@@ -2854,6 +2837,17 @@
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del ",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T12:01:03.185969+00:00",
+      "title": "‘El ser querido’ (★★★★½), la consagración de Sorogoyen y una de las mejores películas españolas del ",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},

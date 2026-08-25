@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T11:41:01.542256+00:00",
+  "generated_at": "2026-08-25T12:01:29.047706+00:00",
   "articles": [
+    {
+      "id": "c2eedac90407",
+      "title": "‘El ser querido’ (★★★★½), la consagración de Sorogoyen y una de las mejores películas españolas del año",
+      "summary": "La película española “El ser querido”, dirigida por Rodrigo Sorogoyen y protagonizada por Javier Bardem y Victoria Luengo, ha sido catalogada por Hipertextual como una de las mejores obras del cine español de 2026. El crítico destaca la maestría del director, la intensidad dramática y las actuaciones sobresalientes que convierten al film en una pieza imprescindible.",
+      "category": "sociedad",
+      "source_name": "Hipertextual",
+      "source_url": "https://hipertextual.com/cine-television/el-ser-querido-critica/",
+      "published_at": "2026-08-25T12:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en elogiar la película y su calidad artística sin incluir opiniones políticas ni seleccionar fuentes con carga ideológica; el lenguaje es típico de una reseña cultural.",
+      "focus_analysis": "El medio elige un ángulo artístico‑crítico, resaltando la dirección, el guion y las actuaciones, mientras omite datos de taquilla, recepción del público y contexto industrial más amplio.",
+      "focus_tags": [
+        "cine español",
+        "crítica cinematográfica",
+        "actuaciones"
+      ],
+      "context": [
+        {
+          "label": "antecedente del director",
+          "text": "Rodrigo Sorogoyen ha consolidado su reputación en la última década con películas como \"As Bestas\" y \"El Reino\", y ha participado recientemente en el Festival de Cannes."
+        },
+        {
+          "label": "perfil del protagonista principal",
+          "text": "Javier Bardem es un actor español con reconocimiento internacional, ganador del Oscar y con una larga trayectoria en cine y televisión."
+        },
+        {
+          "label": "situación del cine español en 2026",
+          "text": "El cine español ha experimentado un notable repunte en los últimos años, con varias producciones compitiendo en festivales internacionales y ganando premios Goya."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "02197f47c53b",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
@@ -954,41 +986,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "857d5599dfc2",
-      "title": "¿Qué compra el mercado de tu profesión?",
-      "summary": "En su columna de opinión para El Economista, la consultora independiente Maribel Núñez Mora explica que los profesionales deben aprender a traducir su experiencia al lenguaje del cliente, mostrando el valor concreto de sus competencias en vez de limitarse a describir sus tareas. Destaca la importancia de comprender el contexto del mercado y de adoptar una visión interdisciplinaria para conectar sus habilidades con necesidades reales.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/opinion/compra-mercado-profesion-20260824-829853.html",
-      "published_at": "2026-08-24T14:38:46+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono neutral y se centra en consejos profesionales sin emplear lenguaje cargado ni citar fuentes con sesgo político, por lo que la cobertura se sitúa en el centro del espectro ideológico.",
-      "focus_analysis": "El medio elige el ángulo de desarrollo profesional y marketing de habilidades, dejando de lado aspectos macroeconómicos o de política laboral.",
-      "focus_tags": [
-        "desarrollo profesional",
-        "valor de mercado",
-        "orientación al cliente"
-      ],
-      "context": [
-        {
-          "label": "Tendencia freelance",
-          "text": "En los últimos años ha aumentado la proporción de trabajadores independientes que deben gestionar su propia propuesta de valor para competir en mercados cada vez más saturados."
-        },
-        {
-          "label": "Interdisciplinariedad",
-          "text": "El libro \"Range\" de David Epstein populariza la idea de que combinar conocimientos de distintas áreas permite identificar oportunidades que una visión especializada no percibe."
-        },
-        {
-          "label": "Demanda de soluciones integradas",
-          "text": "Empresas que buscan reducir costos o entrar a nuevos mercados suelen requerir equipos con habilidades cruzadas, lo que obliga a los profesionales a presentar sus servicios como respuestas a problemas concretos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
     }
   ]
 }
