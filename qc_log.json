@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:01:35.714680+00:00",
-      "title": "Acuerdan fortalecer atención del ISSSTE en Aguascalientes",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete falla en veracidad y contraste de fuentes, pese a ser actual y estructurado.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:01:42.051363+00:00",
       "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
       "kind": "noticia",
@@ -2920,6 +2903,17 @@
       "title": "Mueren dos mil peces en la presa La Soledad por fuga y desfogue",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T00:00:38.769848+00:00",
+      "title": "Tigre venció 2-1 a Central Córdoba de Santiago del Estero y extendió su racha en el Torneo Clausura",
+      "kind": "noticia",
+      "category": "deportes",
       "approved": true,
       "overall": null,
       "scores": {},
