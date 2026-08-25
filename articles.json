@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T20:01:07.137855+00:00",
+  "generated_at": "2026-08-25T20:21:14.945385+00:00",
   "articles": [
+    {
+      "id": "97e96be9b09b",
+      "title": "De ser campeón con Boca y jugar en la Selección a brillar en el básquet con 44 años: la actuación de Rodrigo Palacio en una liga regional",
+      "summary": "El exdelista argentino Rodrigo Palacio, quien jugó en Boca Juniors y la selección nacional, a los 44 años destacó con 12 puntos y 6 asistencias en la liga regional de básquet de Tres Arroyos.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/25/de-ser-campeon-con-boca-y-jugar-en-la-seleccion-a-brillar-en-el-basquet-con-44-anos-la-actuacion-de-rodrigo-palacio-en-una-liga-regional/",
+      "published_at": "2026-08-25T20:19:33+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos deportivos y elogiar la actuación sin usar lenguaje cargado ni citas que indiquen una postura política.",
+      "focus_analysis": "El medio se centró en la historia personal y el regreso de Palacio al deporte, resaltando su desempeño y la sorpresa del público, mientras deja de lado el análisis del nivel competitivo de la liga o el contexto del básquet regional.",
+      "focus_tags": [
+        "deporte",
+        "carrera deportiva",
+        "basketball"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria futbolística de Rodrigo Palacio",
+          "text": "Rodrigo Palacio, nacido en 1982 en Bahía Blanca, jugó en Boca Juniors, el Inter de Milán y la selección argentina, participando en la final del Mundial 2014."
+        },
+        {
+          "label": "Liga Intermedia de Tres Arroyos",
+          "text": "La Liga Intermedia de Tres Arroyos es una competición regional de básquet en la provincia de Buenos Aires, donde equipos locales compiten en torneos anuales."
+        },
+        {
+          "label": "Exfutbolistas que practican otros deportes",
+          "text": "Varios exfutbolistas, como Juan Román Riquelme y Pablo Aimar, han incursionado en el básquet o el fútbol sala después de retirarse, demostrando la transición de atletas entre disciplinas."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "85f3832ddffd",
       "title": "Alcaldías de CDMX tienen hasta el 31 de agosto para reportar proyectos inviables del Presupuesto Participativo 2026; IECM fija reglas",
@@ -959,38 +991,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "9577edb9c328",
-      "title": "CDMX impulsa nuevo Pacto Digital para regular el uso de celulares a niños y adolescentes en escuelas",
-      "summary": "Clara Brugada, jefa de Gobierno de la Ciudad de México, presentó el Pacto Digital CDMX, un conjunto de ocho medidas destinadas a regular el uso de celulares en escuelas y a proteger los derechos digitales de niños y adolescentes, en línea con la iniciativa nacional impulsada por la presidenta Claudia Sheinbaum.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/estados/cdmx-impulsa-nuevo-pacto-digital-regular-celulares-ninos-adolescentes-escuelas-20260824-829951.html",
-      "published_at": "2026-08-25T00:39:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa mayormente declaraciones oficiales y datos estadísticos sin lenguaje cargado ni fuentes opositoras, ofreciendo una presentación equilibrada del programa.",
-      "focus_analysis": "El artículo se centra en el encu institucional institucional y legislativo del Pacto Digital, describiendo acciones gubernamentales y propuestas de ley, mientras omite testimonios de familias, estudiantes o críticos que podrían aportar una perspectiva más humana o de oposición.",
-      "focus_tags": [
-        "política pública",
-        "educación digital",
-        "regulación de celulares"
-      ],
-      "context": [
-        {
-          "label": "Marco nacional",
-          "text": "La presidenta de México, Claudia Sheinbaum, ha llamado a una regulación más estricta del uso de dispositivos móviles en entornos educativos, lo que ha motivado a distintas entidades federales y locales a diseñar propuestas de ley y campañas de alfabetización digital."
-        },
-        {
-          "label": "Datos de uso de internet",
-          "text": "Según el INEGI, en la Ciudad de México el 8.5 % de niños de 6 a 14 años pasa alrededor de tres horas diarias en internet, mientras que el 98 % de los adolescentes de 12 a 17 años lo hace aproximadamente cinco horas al día."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Sol de México resaltó que el Pacto Digital incluye ocho medidas específicas, entre ellas la propuesta de una Ley de Derechos Digitales para infancias y adolescencias, enfocándose más en la dimensión legal que en los componentes de salud mental."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
