@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T18:21:03.247260+00:00",
+  "generated_at": "2026-08-25T18:41:14.754428+00:00",
   "articles": [
+    {
+      "id": "c4529318ac78",
+      "title": "Robaron más de 300 drones tras salir del AIFA a empresa china",
+      "summary": "El 19 de agosto de 2026 se sustrajeron 348 drones, cámaras y accesorios de la empresa china DJI al salir del Aeropuerto Internacional Felipe Ángeles, en Zumpango, Estado de México; la compañía y Grupo HB bloquearon los números de serie para impedir su activación y pidieron a la población que no los comercialice.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/25/robaron-mas-de-300-drones-tras-salir-del-aifa-a-empresa-china/",
+      "published_at": "2026-08-25T18:38:28+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un tono informativo y evita lenguaje cargado; solo cita a la empresa DJI y a Grupo HB, sin incorporar opiniones políticas ni fuentes gubernamentales que inclinen la cobertura.",
+      "focus_analysis": "El medio se centró en el aspecto económico y técnico del robo, describiendo el bloqueo de serie y el impacto en el mercado, mientras que dejó de lado la perspectiva de seguridad pública o de los posibles perpetradores.",
+      "focus_tags": [
+        "robo de drones",
+        "seguridad aeroportuaria",
+        "bloqueo de serie"
+      ],
+      "context": [
+        {
+          "label": "Participación de DJI en el mercado",
+          "text": "DJI controla entre el 70% y 80% del mercado mundial de drones civiles, lo que la convierte en una empresa de gran relevancia tanto para usuarios profesionales como para consumidores."
+        },
+        {
+          "label": "AIFA y seguridad",
+          "text": "El Aeropuerto Internacional Felipe Ángeles, inaugurado en 2022, ha sido objeto de críticas por su infraestructura de seguridad, y este robo subraya los desafíos que enfrenta en la protección de mercancías."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "El Economista también informó del robo y del bloqueo de los equipos, enfatizando la respuesta de Grupo HB y la necesidad de evitar la comercialización de los drones robados."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "0ddbffe0c3c4",
       "title": "Aseguran armamento en Ciudad Victoria, Tamaulipas; decomiso incluye 590 dosis de marihuana y 50 de metanfetamina",
@@ -957,38 +992,6 @@
         {
           "label": "Estructura del Torneo Clausura",
           "text": "El Torneo Clausura de la Liga Profesional argentina se juega con dos zonas (A y B) y la sexta fecha incluyó duelos clave que pueden modificar la clasificación a los octavos de final."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "4289695f6037",
-      "title": "Mueren dos mil peces en la presa La Soledad por fuga y desfogue",
-      "summary": "Cerca de dos mil peces murieron en la presa La Soledad, Guanajuato, tras una fuga de agua y el desfogue del embalse, lo que provocó la denuncia de grupos ambientalistas y una respuesta del Sistema Municipal de Agua Potable y Alcantarillado (Simapg).",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/guanajuato-sur/2026/08/24/mueren-dos-mil-peces-en-la-presa-la-soledad-por-fuga-y-desfogue-1836127.html",
-      "published_at": "2026-08-24T23:38:01+00:00",
-      "bias_score": -30,
-      "bias_reason": "El artículo destaca citas con lenguaje cargado como “ecocidio técnico” y “negligencia administrativa” de los activistas, mientras que la explicación del director de Simapg se presenta de forma más descriptiva, lo que inclina la cobertura ligeramente a favor de la crítica ambiental.",
-      "focus_analysis": "El medio se centra en el impacto ecológico y la supuesta falta de gestión del organismo municipal, dejando de lado aspectos técnicos o económicos del mantenimiento de la presa.",
-      "focus_tags": [
-        "medio ambiente",
-        "gestión pública",
-        "fauna acuática"
-      ],
-      "context": [
-        {
-          "label": "Presas la Guanajuato",
-          "text": "La presa La Soledad es una de las principales obras hidráulicas del estado de Guanajuato, utilizada para el suministro de agua potable y riego, y ha presentado problemas de filtraciones en años anteriores."
-        },
-        {
-          "label": "Mortalidad de peces en embalses mexicanos",
-          "text": "En México, los cambios bruscos en los niveles de agua y la baja oxigenación suelen provocar muertes masivas de peces en presas, lo que ha generado preocupación entre ambientalistas y pescadores."
-        },
-        {
-          "label": "Simapg y controversias previas",
-          "text": "El Sistema Municipal de Agua Potable y Alcantarillado de Guanajuato ha sido objeto de críticas por su manejo de infraestructuras hidráulicas, incluyendo denuncias de falta de mantenimiento y respuestas tardías a emergencias."
         }
       ],
       "confidence": "alta"

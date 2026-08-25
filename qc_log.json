@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:50:30.464893+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero contiene pequeñas imprecisiones y un contraste de fuentes algo limitado.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:50:35.863422+00:00",
       "title": "Si tienes mala visión, Google acaba de solucionarte la vida con esta mejora (a tus padres y abuelos ",
       "kind": "noticia",
@@ -2811,6 +2794,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T18:40:54.874454+00:00",
+      "title": "Robaron más de 300 drones tras salir del AIFA a empresa china",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque podría reforzar la veracidad con fuentes oficiales y ampliar el contraste de fuentes.",
+      "error": null
     }
   ]
 }
