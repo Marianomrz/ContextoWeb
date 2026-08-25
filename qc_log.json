@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:50:58.792864+00:00",
-      "title": "Primero la paria",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una descripción precisa y objetiva de la columna con contexto suficiente y actualidad óptima.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:51:13.686662+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es veraz, actual y estructurado, pero muestra un sesgo ideológico pronunciado y una limitada diversidad de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:00:49.015667+00:00",
       "title": "Congreso aprueba renuncia de Mónica Soto al TEPJF entre críticas por falta de una causa grave",
       "kind": "noticia",
@@ -2800,6 +2766,34 @@
       "title": "Adultas mayores exhiben a policía por no dejarlas entrar gratis al Metrobús CDMX con tarjeta de Inap",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T19:39:29.429705+00:00",
+      "title": "La inminente oferta del Manchester City por Enzo Fernández: la condición que pondría el Chelsea para",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y estructurado, pero presenta datos inexactos y falta de fuentes contrastantes, lo que afecta su veracidad y exhaustividad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T19:39:32.674961+00:00",
+      "title": "Alcaldías de CDMX tienen hasta el 31 de agosto para reportar proyectos inviables del Presupuesto Par",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
