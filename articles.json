@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T15:01:20.811235+00:00",
+  "generated_at": "2026-08-25T15:21:05.817506+00:00",
   "articles": [
+    {
+      "id": "3ddf944c5d0e",
+      "title": "La confianza de los consumidores estadounidenses cae en agosto: The Conference Board",
+      "summary": "El índice de confianza de los consumidores estadounidenses cayó en agosto a 89.4 puntos, su nivel más bajo en siete meses, impulsado por expectativas más pesimistas sobre el mercado laboral y la inflación, según datos de The Conference Board.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/economia/confianza-consumidores-estadounidenses-cae-agosto-the-conference-board-20260825-830071.html",
+      "published_at": "2026-08-25T15:19:48+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar datos y citas de fuentes oficiales sin usar lenguaje cargado ni favorecer una postura política o ideológica.",
+      "focus_analysis": "El artículo se centra en el aspecto económico, resaltando la evolución del índice de confianza y sus componentes de empleo e inflación, mientras deja de lado el contexto político o las posibles respuestas de política monetaria.",
+      "focus_tags": [
+        "confianza del consumidor",
+        "inflación",
+        "mercado laboral"
+      ],
+      "context": [
+        {
+          "label": "Histórico del índice",
+          "text": "El índice de confianza de los consumidores, elaborado por The Conference Board, se mide mensualmente y ha sido un indicador clave de la salud económica de EE. UU., con valores por encima de 90 durante la mayor parte de 2025."
+        },
+        {
+          "label": "Tendencias de inflación",
+          "text": "En los últimos meses, la inflación anual en EE. UU. ha rondado el 5.6‑5.8 %, una de las más altas de la última década, lo que ha afectado las expectativas de precios de los hogares."
+        },
+        {
+          "label": "Comparación internacional",
+          "text": "Otros países desarrollados, como la zona euro y Japón, también han registrado caídas en la confianza del consumidor en el mismo periodo, aunque con índices menos pronunciados que en EE. UU."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "c548b5b2b71f",
       "title": "Baja California refuerza seguridad en Mexicali ante alerta de EU; suspenden viajes hacia la capital por una amenaza no especificada",
@@ -951,38 +986,6 @@
         {
           "label": "enfoque mediático",
           "text": "Mientras Infobae Deportes se concentra en la disputa deportiva entre los equipos, otras coberturas como la de DW Español destacan la dimensión política de eventos simultáneos, como la polémica de Eurovisión."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "0ad968ef0a1c",
-      "title": "Trump anuncia nueva tarifa de 100 mil dólares para programa de visas H-1B; es para trabajadores altamente calificados",
-      "summary": "El presidente de Estados Unidos, Donald Trump, propuso añadir una tarifa de 100 mil dólares al programa de visas H‑1B para trabajadores altamente calificados, medida que ya había sido anulada por un juez federal por considerarla un impuesto sin autorización del Congreso.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/trump-anuncia-nueva-tarifa-de-100-mil-dolares-para-programa-de-visas-h-1b-es-para-trabajadores-altamente-calificados/",
-      "published_at": "2026-08-24T19:16:04+00:00",
-      "bias_score": -12,
-      "bias_reason": "El texto destaca la anulación judicial y califica la tarifa de \"impuesto\", lo que sugiere una postura crítica hacia la iniciativa de Trump; no se presentan argumentos a favor del gobierno.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y legal de la propuesta, resaltando la normativa y los fallos judiciales, mientras que queda menos desarrollado el impacto humano sobre los solicitantes de la visa.",
-      "focus_tags": [
-        "inmigración",
-        "visa H‑1B",
-        "política de EE. UU."
-      ],
-      "context": [
-        {
-          "label": "Marco del programa H‑1B",
-          "text": "El programa de visas H‑1B está limitado por ley a 85 mil visas anuales, de las cuales 20 mil se reservan para trabajadores con títulos de alta cualificación, y tradicionalmente incluye una tarifa de solicitud mucho menor a los 100 mil dólares propuestos."
-        },
-        {
-          "label": "Política migratoria de la administración Trump",
-          "text": "Durante su mandato, Donald Trump impulsó políticas migratorias restrictivas, como la construcción del muro fronterizo y la reducción de visas de trabajo, lo que genera un contexto de mayor control y costos elevados para los inmigrantes."
-        },
-        {
-          "label": "Cobertura de medios sobre el mismo hecho",
-          "text": "Otros medios como France24 y El País América centraron su atención en las medidas comerciales de Trump contra Canadá, mostrando que la prensa internacional priorizó el aspecto económico‑comercial sobre la polémica de la tarifa H‑1B."
         }
       ],
       "confidence": "alta"

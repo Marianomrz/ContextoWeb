@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:22:09.998461+00:00",
-      "title": "Ecosistema analógico",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, ofreciendo una descripción objetiva y actual, aunque la falta de fuentes externas limita ligeramente el contraste de perspectivas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:40:39.148848+00:00",
       "title": "Entre la grieta del cuenco: descubriendo el bosque interior de Pessoa",
       "kind": "literatura",
@@ -2835,6 +2818,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T15:20:38.677273+00:00",
+      "title": "La confianza de los consumidores estadounidenses cae en agosto: The Conference Board",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, y está bien estructurado para una noticia informativa.",
+      "error": null
     }
   ]
 }
