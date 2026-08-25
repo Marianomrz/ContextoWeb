@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:20:47.332195+00:00",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 20 de agosto",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando una información meteorológica reciente y bien contextualizada.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:20:56.550691+00:00",
-      "title": "En marcha la secuela más innecesaria de ‘Sons of Anarchy’ con el reparto original: es una ida de oll",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y está bien estructurado, pero carece de fuentes verificables y muestra cierta falta de neutralidad, lo que afecta su veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:21:05.311118+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
       "kind": "noticia",
@@ -2853,6 +2819,34 @@
       },
       "observacion": "El paquete falla en veracidad y contraste de fuentes, aunque es reciente y está bien estructurado.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T13:25:19.135521+00:00",
+      "title": "Así fue el primer contacto entre Emma Coronel y April Black Diamond, diseñadora de los vestidos de X",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete cumple parcialmente con los estándares: es actual y estructurado, pero la falta de fuentes verificables y contraste reduce su calidad informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T13:25:22.585167+00:00",
+      "title": "Tesla entierra su Solar Roof casi diez años después: las promesas de sus revolucionarias tejas solar",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
