@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T16:48:51.054490+00:00",
+  "generated_at": "2026-08-25T17:01:05.964109+00:00",
   "articles": [
+    {
+      "id": "a114be6691b8",
+      "title": "Precio del huevo, por las nubes: tiene mayor alza en 20 años, ¿cómo impacta en los hogares del país?",
+      "summary": "El precio del huevo en México alcanzó su mayor aumento en veinte años, con una alza del 7.92 % en la primera quincena de agosto, lo que afecta especialmente a los hogares de menores ingresos que destinan más de la mitad de su gasto a alimentos.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/finanzaspersonales/precio-huevo-nubes-mayor-alza-20-anos-impacta-hogares-pais-20260825-829903.html",
+      "published_at": "2026-08-25T17:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se basa en datos oficiales y citas de expertos sin usar lenguaje emotivo ni adoptar una postura política, manteniendo una cobertura neutra y centrada en los hechos económicos.",
+      "focus_analysis": "El medio enfatiza el impacto económico del alza del huevo en los hogares, particularmente los de bajos ingresos, mientras omite la discusión sobre respuestas políticas o causas estructurales del incremento.",
+      "focus_tags": [
+        "inflación alimentos",
+        "impacto hogares",
+        "precio huevo"
+      ],
+      "context": [
+        {
+          "label": "histórico precios huevo",
+          "text": "Según datos del INEGI, el precio del huevo ha registrado aumentos menores en los últimos veinte años, con la última alza del 7.92 % en agosto de 2026 superando cualquier incremento similar desde 2006."
+        },
+        {
+          "label": "gasto alimentos bajos ingresos",
+          "text": "En México, los hogares del decil más bajo destinan alrededor del 52 % de su ingreso total a alimentos, lo que los hace especialmente vulnerables a aumentos de precios de productos básicos como el huevo."
+        },
+        {
+          "label": "consumo y producción huevo México",
+          "text": "México consume en promedio 345 huevos por persona al año, lo que lo coloca como el mayor consumidor per cápita del mundo y el cuarto productor global, con una producción anual cercana a 2.77 millones de toneladas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "bbc67a700dca",
       "title": "¿Quién es Graciela Domínguez Nava, la apuesta de Morena para sustituir a Rubén Rocha Moya en Sinaloa?",
@@ -957,41 +992,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "5ce5d2e4cd83",
-      "title": "Las Leonas empataron con Bélgica y se enfrentarán a Australia en las semifinales del Mundial de Hockey",
-      "summary": "La selección argentina de hockey femenino, Las Leonas, empató 0‑0 contra Bélgica y garantizó el primer puesto de su grupo en el Mundial 2026, lo que les permite enfrentar a Australia en semifinales.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/24/las-leonas-empataron-con-belgica-y-se-enfrentaran-a-australia-en-las-semifinales-del-mundial-de-hockey/",
-      "published_at": "2026-08-24T20:57:34+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto destaca el desempeño y el orgullo nacional del equipo argentino con lenguaje positivo, pero sin usar términos cargados ni favorecer una ideología política.",
-      "focus_analysis": "El medio se concentra en el desempeño deportivo y la reacción de las jugadoras, resaltando la táctica defensiva y la emoción del grupo, sin abordar aspectos económicos o políticos.",
-      "focus_tags": [
-        "deporte",
-        "hockey femenino",
-        "Mundial 2026"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Las Leonas ya habían ganado dos títulos mundiales (2002 y 2010) y fueron subcampeonas en 2022, lo que genera altas expectativas para el torneo de 2026."
-        },
-        {
-          "label": "competidor",
-          "text": "Bélgica, conocida por su presión alta, es una de las potencias europeas en hockey femenino y su estilo de juego obligó a Argentina a adoptar una postura más defensiva."
-        },
-        {
-          "label": "próximo rival",
-          "text": "Australia, con dos campeonatos mundiales (1994 y 1998), será el adversario de Las Leonas en semifinales, una contienda que definirá quién avanza a la final."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.8
-      }
     }
   ]
 }
