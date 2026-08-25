@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:22:03.903424+00:00",
-      "title": "Trump declara una ‘guerra económica’ contra Irán y amenaza a países que ayuden a Teherán",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.6,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo es reciente y estructurado, pero falla gravemente en veracidad al presentar a Trump como presidente y carece de fuentes oficiales que respalden sus afirmaciones.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:22:09.998461+00:00",
       "title": "Ecosistema analógico",
       "kind": "noticia",
@@ -2841,6 +2824,17 @@
       },
       "observacion": "El paquete presenta una estructura adecuada y actualidad, pero la inconsistencia en nombres y la falta de verificación de datos reducen su fiabilidad global.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T14:55:33.037607+00:00",
+      "title": "Baja California refuerza seguridad en Mexicali ante alerta de EU; suspenden viajes hacia la capital ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
