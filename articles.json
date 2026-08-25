@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T11:05:14.900646+00:00",
+  "generated_at": "2026-08-25T11:20:55.357049+00:00",
   "articles": [
+    {
+      "id": "02197f47c53b",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
+      "summary": "El gobierno de España, encabezado por el presidente Pedro Sánchez, creó un mando único y designó a Ángel Víctor Torres para gestionar la crisis de entrada masiva de inmigrantes en Ceuta, mientras el ministro del Interior, José Luis Robles, informó que 25 agentes del CNI compartieron información con las fuerzas de seguridad y el Gobierno.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-25T11:17:08+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a reproducir declaraciones oficiales y describir medidas gubernamentales sin usar lenguaje cargado ni presentar críticas, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad, resaltando la respuesta del Gobierno y la coordinación de fuerzas, dejando fuera la perspectiva humana de los migrantes y las causas estructurales del flujo migratorio.",
+      "focus_tags": [
+        "seguridad",
+        "política interior",
+        "crisis migratoria"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Ceuta, enclave español en el norte de África, ha sido punto de entrada frecuente para flujos migratorios irregulares, con episodios previos de llegadas masivas que han generado tensiones políticas y humanitarias."
+        },
+        {
+          "label": "datos comparables",
+          "text": "En 2023, el gobierno español también activó un mando de seguridad en Ceuta durante una oleada de inmigrantes, lo que llevó a la intervención de las Fuerzas y Seguridad del Estado y del CNI."
+        },
+        {
+          "label": "postura de otros medios",
+          "text": "Euronews Español destacó que la convocatoria del Consejo de Seguridad Nacional por parte del presidente Sánchez se inscribe en una agenda de seguridad más amplia, que incluye la ayuda militar a Ucrania, subrayando la prioridad del gobierno en asuntos de seguridad nacional."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "02197f47c53b",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles ya comparece en el Congreso para hablar de la emergencia migratoria",
@@ -957,41 +989,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "7c82f8fd406c",
-      "title": "El Kun Agüero se suma a la política en Independiente: “Quiero aportar mi experiencia deportiva”",
-      "summary": "El exdelantero argentino Sergio Agüero anunció que apoyará a la Lista Roja en el proceso electoral de Club Atlético Independiente, ofreciendo su experiencia deportiva para contribuir al desarrollo de juveniles y la estructuración institucional del club, sin ocupar un cargo directivo.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/24/el-kun-aguero-se-suma-a-la-politica-en-indepeniente-quiero-aportar-mi-experiencia-deportiva/",
-      "published_at": "2026-08-24T13:28:02+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos y declaraciones sin usar adjetivos cargados ni presentar opiniones, manteniendo un tono informativo y equilibrado.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y deportivo del aporte de Agüero al club, dejando de lado cualquier análisis de la política interna o controversias electorales.",
-      "focus_tags": [
-        "fútbol argentino",
-        "política deportiva",
-        "Club Independiente"
-      ],
-      "context": [
-        {
-          "label": "Tendencia de ex‑jugadores en la gestión",
-          "text": "En el fútbol argentino es frecuente que ex‑jugadores como Juan Sebastián Verón, Juan Román Riquelme o Diego Milito asuman roles de dirección o asesoría en sus clubs, aportando su experiencia al nivel institucional."
-        },
-        {
-          "label": "Elecciones en Independiente",
-          "text": "El club definirá la fecha de su asamblea electoral el 29 de septiembre, donde la Lista Roja, liderada por Luciano Nakis, buscará renovar la conducción institucional."
-        },
-        {
-          "label": "Aportes previos de Agüero al club",
-          "text": "Sergio Agüero ya había colaborado con Independiente a través del Centro de Alto Rendimiento, financiando infraestructura y apoyando la formación de jóvenes talentos."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
-      }
     }
   ]
 }

@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:07:46.075640+00:00",
-      "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.0,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 6,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete presenta información reciente y bien estructurada, pero la veracidad de la afirmación central es dudosa y necesita fuentes verificables.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:07:52.830253+00:00",
       "title": "Por qué el garaje es el peor lugar donde puedes guardar tus dispositivos electrónicos (y qué hacer s",
       "kind": "noticia",
@@ -2871,6 +2854,17 @@
       },
       "observacion": "El paquete es actual y está bien estructurado, pero necesita mayor verificación de datos y una gama más amplia de fuentes para cumplir plenamente con los estándares de calidad editorial.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T11:20:45.589362+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del ",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
