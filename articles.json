@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T08:21:09.963210+00:00",
+  "generated_at": "2026-08-25T08:41:07.217117+00:00",
   "articles": [
+    {
+      "id": "6d1c01698910",
+      "title": "Fabiola Alanís Sámano: “Quiero ser un factor de unidad”; confía en que Morena postule a una mujer en Michoacán",
+      "summary": "Fabiola Alanís Sámano, diputada del Congreso de Michoacán y coordinadora política de Morena, expresó su intención de ser un factor de unidad y confía en que el partido postule a una mujer para la gubernatura del estado en 2027, resaltando la fuerza electoral de Morena y la importancia de la paridad de género.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/fabiola-alanis-samano-quiero-ser-un-factor-de-unidad-confia-en-que-morena-postule-a-una-mujer-en-michoacan/",
+      "published_at": "2026-08-25T08:35:29+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto reproduce mayormente declaraciones positivas de la dirigente de Morena sin incluir voces críticas ni análisis contrapuestos, y enfatiza los logros del partido, lo que indica una ligera inclinación a favor del bloque de izquierda.",
+      "focus_analysis": "El medio privilegia el ángulo institucional y de género, centrado en la unidad interna de Morena y la candidatura femenina, mientras omite la perspectiva de la oposición y los detalles de políticas públicas.",
+      "focus_tags": [
+        "unidad política",
+        "paridad de género",
+        "Morena Michoacán"
+      ],
+      "context": [
+        {
+          "label": "antecedente electoral",
+          "text": "En las elecciones federales de 2024, Morena obtuvo más de un millón de votos en Michoacán y ganó nueve de los diez distritos, consolidando una posición dominante en el estado."
+        },
+        {
+          "label": "marco legal de paridad",
+          "text": "La legislación mexicana exige la paridad sustantiva en candidaturas, obligando a los partidos a presentar al menos el 50 % de mujeres en las contiendas electorales."
+        },
+        {
+          "label": "competencia electoral 2027",
+          "text": "Las próximas elecciones estatales de 2027 contarán con la participación de varios partidos, incluidos PAN y PRI, que buscarán desafiar la hegemonía de Morena en Michoacán."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "02197f47c53b",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
@@ -960,38 +992,6 @@
       "qc": {
         "overall": 8.0
       }
-    },
-    {
-      "id": "92f78c73bdba",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez convoca al Consejo de Seguridad Nacional 26 días después del inicio de la crisis migratoria de Ceuta",
-      "summary": "El presidente de España, Pedro Sánchez, ha convocado al Consejo de Seguridad Nacional para atender la crisis migratoria que afecta a la ciudad autónoma de Ceuta, mientras el Partido Popular exige una operación de expulsión intensiva y la ministra de Sanidad, Elma Saiz, critica duramente los comentarios del líder del PP, Alberto Núñez Feijóo.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-24T12:19:13+00:00",
-      "bias_score": -20,
-      "bias_reason": "El texto emplea calificativos críticos como “irresponsabilidad mayúscula” hacia el PP y destaca la presión del partido para expulsar a los migrantes, lo que indica una ligera inclinación hacia la postura del gobierno de izquierda.",
-      "focus_analysis": "El artículo se centra en la disputa política y la respuesta institucional al crisis migratoria, dejando de lado el impacto humanitario de los migrantes y los aspectos de seguridad y económicos que también son relevantes.",
-      "focus_tags": [
-        "crisis migratoria",
-        "política española",
-        "seguridad nacional"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Ceuta, enclave español en el norte de África, ha experimentado oleadas de llegadas irregulares de migrantes, lo que ha generado tensiones políticas y humanitarias recurrentes."
-        },
-        {
-          "label": "Datos comparables",
-          "text": "En años anteriores, el gobierno español ha recurrido al Consejo de Seguridad Nacional para coordinar respuestas ante crisis migratorias en Ceuta y Melilla, combinando medidas de seguridad y asistencia humanitaria."
-        },
-        {
-          "label": "Posturas de otros actores",
-          "text": "Otros medios, como El Sol de México, describen la situación como una seria crisis política, subrayando la dimensión institucional y el conflicto entre los partidos gobernantes y la oposición."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }

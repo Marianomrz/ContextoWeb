@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:07:08.289450+00:00",
-      "title": "Primero la paria",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares editoriales, aunque podría mejorar la referencia a fuentes externas para reforzar el contraste de perspectivas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:07:15.101605+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
       "kind": "noticia",
@@ -2876,6 +2859,17 @@
     {
       "at": "2026-08-25T08:20:42.155165+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Segur",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T08:40:39.545212+00:00",
+      "title": "Fabiola Alanís Sámano: “Quiero ser un factor de unidad”; confía en que Morena postule a una mujer en",
       "kind": "noticia",
       "category": "politica",
       "approved": true,
