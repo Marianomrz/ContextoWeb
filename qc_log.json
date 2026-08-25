@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:41:06.667898+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, aunque se apoya en una única fuente, lo cual es aceptable para este tipo de noticia.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:41:15.716375+00:00",
       "title": "Cinco días a la deriva sobre una hielera: así sobrevivieron dos pescadores en Chiapas | Video",
       "kind": "noticia",
@@ -2829,6 +2812,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T16:40:45.119137+00:00",
+      "title": "Cómo puede Canadá contraatacar para perjudicar la economía de EE.UU. (y a Trump) en plena guerra com",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 4.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 2,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete presenta serios problemas de veracidad y parcialidad, pese a ser reciente y bien estructurado; necesita correcciones y mayor balance de fuentes antes de publicarse.",
+      "error": null
     }
   ]
 }
