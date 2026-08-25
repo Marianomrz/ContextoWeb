@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T15:41:12.564765+00:00",
+  "generated_at": "2026-08-25T15:53:39.013794+00:00",
   "articles": [
+    {
+      "id": "545278d3ce94",
+      "title": "Tito Double P llegará con su People Tour & Friends a León",
+      "summary": "El cantante mexicano Tito Double P, reconocido dentro de la generación de corridos tumbados, realizará el 21 de noviembre el concierto \"People Tour & Friends\" en la Explanada Poliforum de León, Guanajuato, con venta de boletos a partir del 29 de agosto a través de Superboletos.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/espectaculos/2026/08/25/tito-double-p-llegara-con-su-people-tour-friends-a-leon-1836308.html",
+      "published_at": "2026-08-25T15:52:10+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un tono entusiasta y promocional, resaltando la energía del espectáculo y la participación de invitados sin ofrecer críticas ni perspectivas alternativas.",
+      "focus_analysis": "El medio se centra en el aspecto cultural y de entretenimiento del concierto, destacando la música y la experiencia para los seguidores, mientras omite análisis sobre la industria musical o posibles controversias del género.",
+      "focus_tags": [
+        "música mexicana",
+        "gira",
+        "León"
+      ],
+      "context": [
+        {
+          "label": "género",
+          "text": "Los corridos tumbados, estilo al que pertenece Tito Double P, han ganado popularidad internacional en los últimos años, combinando música regional mexicana con influencias urbanas."
+        },
+        {
+          "label": "gira anterior",
+          "text": "En una visita previa, Tito Double P presentó su \"Ay mamá, Tour\" en León, consolidando una base de seguidores locales antes del nuevo evento."
+        },
+        {
+          "label": "lugar del evento",
+          "text": "La Explanada Poliforum de León es un recinto frecuentemente utilizado para conciertos y eventos de gran escala, ofreciendo infraestructura adecuada para producciones musicales de alto nivel."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "755db1357cea",
       "title": "Bolsa mexicana retrocede levemente tras racha de cuatro avances; recorta toma de utilidad",
@@ -960,38 +995,6 @@
       "qc": {
         "overall": 9.2
       }
-    },
-    {
-      "id": "1b64c5b57282",
-      "title": "Gael García presenta su nueva película como director encabezada por Ricky Martin: ‘Hombre al agua’",
-      "summary": "El actor y director mexicano Gael García Bernal lanza su nueva película 'Hombre al Agua', con Ricky Martin como actor y productor ejecutivo; la obra se estrenará en el Festival de Cine de Venecia y aspira a una nominación al Oscar a Mejor Película Internacional.",
-      "category": "internacional",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/espectaculos/2026/08/24/hombre-al-agua-es-la-nueva-pelicula-de-gael-garcia-como-director-con-ricky-martin-1836051.html",
-      "published_at": "2026-08-24T19:55:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono laudatorio y descriptivo, sin críticas ni carga política, enfocándose en los logros de los artistas y la proyección internacional del filme.",
-      "focus_analysis": "El medio elige resaltar el aspecto cultural y de prestigio internacional del proyecto cinematográfico, dejando de lado cualquier análisis crítico del contenido o de su posible impacto social.",
-      "focus_tags": [
-        "cine mexicano",
-        "festival de Venecia",
-        "estrella internacional"
-      ],
-      "context": [
-        {
-          "label": "carrera de Gael García Bernal",
-          "text": "Gael García Bernal es reconocido mundialmente por su trabajo como actor, guionista y director, con películas como 'Amores perros' y 'La jaula de oro', y ha sido premiado en festivales internacionales."
-        },
-        {
-          "label": "participación de Ricky Martin en el cine",
-          "text": "Ricky Martin, conocido principalmente como cantante, ha retomado la actuación en los últimos años, participando en series como 'Palm Royale' y ahora en 'Hombre al Agua', marcando su regreso al cine en español."
-        },
-        {
-          "label": "importancia del Festival de Venecia",
-          "text": "El Festival de Cine de Venecia es uno de los eventos más prestigiosos del cine mundial; la inclusión de una película mexicana en su sección Spotlight suele impulsar su visibilidad y posibilidades de reconocimiento internacional."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
