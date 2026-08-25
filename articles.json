@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T09:10:18.041044+00:00",
+  "generated_at": "2026-08-25T09:21:12.964980+00:00",
   "articles": [
+    {
+      "id": "567d93b5b3ba",
+      "title": "La Carta Magna registra 370 reformas",
+      "summary": "La Constitución Política de los Estados Unidos Mexicanos ha experimentado 370 reformas en los últimos quince años, lo que representa una aceleración notable respecto a los 503 cambios acumulados entre 1917 y 2010, según el profesor Francisco Burgoa Perea de la UNAM.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/nacion/la-carta-magna-registra-370-reformas/",
+      "published_at": "2026-08-25T09:16:32+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a datos y citas académicas sin usar lenguaje cargado ni favorecer a ningún partido, manteniendo un tono informativo y neutro.",
+      "focus_analysis": "El artículo se centra en el ángulo institucional e histórico, cuantificando las reformas constitucionales y citando a un experto, pero omite el impacto social y político de dichos cambios en la ciudadanía.",
+      "focus_tags": [
+        "reformas constitucionales",
+        "historia legal",
+        "México"
+      ],
+      "context": [
+        {
+          "label": "antecedentes históricos",
+          "text": "Desde su promulgación en 1917, la Constitución mexicana había acumulado 503 reformas hasta el año 2010, lo que muestra una tasa de cambio más lenta antes del periodo reciente."
+        },
+        {
+          "label": "datos recientes",
+          "text": "En los últimos quince años se han registrado 370 reformas, dejando sin cambios solo 17 de los 136 artículos originales, lo que equivale al 12.5% del texto constitucional."
+        },
+        {
+          "label": "debate institucional",
+          "text": "Expertos de la UNAM y del Museo de las Constituciones destacan que la reforma al Poder Judicial, que propone la elección popular de jueces, sigue generando controversia sobre su efectividad y acceso a la justicia."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "6d1c01698910",
       "title": "Fabiola Alanís Sámano: “Quiero ser un factor de unidad”; confía en que Morena postule a una mujer en Michoacán",
@@ -956,41 +991,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.8
-      }
-    },
-    {
-      "id": "b3ae4ead69e1",
-      "title": "Ucrania quiere la paz, pero no se rendirá, dice Zelenski en el Día de la Independencia",
-      "summary": "El presidente de Ucrania, Volodímir Zelenski, declaró en el Día de la Independencia que el país busca la paz pero no aceptará rendirse ante Rusia, pidiendo mayor apoyo internacional y sanciones contra Moscú.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/ucrania-quiere-paz-rendira-dice-zelenski-dia-independencia-20260824-829833.html",
-      "published_at": "2026-08-24T12:35:51+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto usa un lenguaje emotivo y positivo hacia Zelenski, destaca la presencia de líderes occidentales y la ayuda de la UE, sin incluir voces críticas ni perspectivas opositoras, lo que indica una ligera inclinación pro‑occidental.",
-      "focus_analysis": "El medio se centra en la dimensión política‑seguridad del conflicto, resaltando la postura de Zelenski y el respaldo diplomático, mientras deja de lado la profundidad del impacto humanitario y económico.",
-      "focus_tags": [
-        "politica internacional",
-        "seguridad",
-        "diplomacia"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del conflicto",
-          "text": "Desde la invasión rusa de febrero de 2022, Ucrania ha sufrido cientos de miles de muertos y la devastación de amplias zonas, con un frente de combate de aproximadamente 1 200 km."
-        },
-        {
-          "label": "Apoyo internacional",
-          "text": "La Unión Europea ha aprobado una ayuda de más de 7 mil millones de dólares para la defensa ucraniana, y la llamada \"Coalición de los Dispuestos\" reúne a varios países que respaldan a Kiev."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "France24 enfatiza el debate interno sobre la convocatoria de elecciones durante la guerra, mientras que la BBC menciona críticas sobre la corrupción en el gobierno de Zelenski, mostrando un enfoque más centrado en la política interna ucraniana."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.0
       }
     }
   ]

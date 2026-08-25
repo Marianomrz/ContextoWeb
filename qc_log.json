@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:07:15.101605+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque la ausencia de citas verificables reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:07:24.914278+00:00",
       "title": "Hayek y el conservadurismo",
       "kind": "noticia",
@@ -2877,6 +2860,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T09:20:45.528340+00:00",
+      "title": "La Carta Magna registra 370 reformas",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, reciente y estructurada, aunque podría enriquecer el contraste de fuentes con más voces diversas.",
+      "error": null
     }
   ]
 }
