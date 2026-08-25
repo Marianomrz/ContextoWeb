@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:07:31.388581+00:00",
-      "title": "Acuerdan fortalecer atención del ISSSTE en Aguascalientes",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es mayormente adecuado y objetivo, pero contiene inexactitudes en los nombres de los funcionarios, lo que compromete su veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:07:36.872117+00:00",
       "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
       "kind": "noticia",
@@ -2871,6 +2854,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T10:00:44.710848+00:00",
+      "title": "WhatsApp va a cambiar para siempre: estaría preparando la llegada de los pagos a España para competi",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 9,
+        "estructura_piramide": 7
+      },
+      "observacion": "El paquete cumple con la actualidad y la estructura, pero carece de fuentes contrastadas y de datos verificables, lo que reduce su precisión y robustez informativa.",
+      "error": null
     }
   ]
 }
