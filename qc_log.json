@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:02:04.031399+00:00",
-      "title": "Narcocorridos revelan quién es ‘El Tío Lako’ del CJNG: los Guerrero, 200 pistoleros y el asesinato d",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es reciente y bien estructurado, pero contiene errores de precisión y una cobertura de fuentes limitada, lo que afecta su fiabilidad global.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:02:11.251085+00:00",
       "title": "Si esto del iPhone 18 Pro es cierto, nadie va a querer comprarlo este año",
       "kind": "noticia",
@@ -2913,6 +2896,17 @@
       },
       "observacion": "El paquete necesita mejorar la veracidad y la diversidad de fuentes, aunque mantiene objetividad y actualidad adecuada.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T02:00:39.130009+00:00",
+      "title": "Sedema clausura Balneario de San Juan de Aragón; detectan consumo de alcohol y venta de animales",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
