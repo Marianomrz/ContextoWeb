@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:07:36.872117+00:00",
-      "title": "Boca Juniors: la lista de ocho futbolistas que ya se fueron en este mercado de pases y los dos que p",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 7
-      },
-      "observacion": "El paquete es reciente y objetivo, pero la falta de precisión y consistencia reduce su calidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:07:46.075640+00:00",
       "title": "Trump afirma que se reunirá con Kim Jong-un a finales de 2026",
       "kind": "noticia",
@@ -2870,6 +2853,23 @@
         "estructura_piramide": 7
       },
       "observacion": "El paquete cumple con la actualidad y la estructura, pero carece de fuentes contrastadas y de datos verificables, lo que reduce su precisión y robustez informativa.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T10:40:47.417741+00:00",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles ya comparece en el Congreso pa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es actual y está bien estructurado, pero necesita mayor verificación de datos y una gama más amplia de fuentes para cumplir plenamente con los estándares de calidad editorial.",
       "error": null
     }
   ]

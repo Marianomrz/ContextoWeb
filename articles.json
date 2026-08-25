@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-25T10:21:08.139010+00:00",
+  "generated_at": "2026-08-25T10:41:16.597513+00:00",
   "articles": [
+    {
+      "id": "02197f47c53b",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles ya comparece en el Congreso para hablar de la emergencia migratoria",
+      "summary": "El Gobierno español, encabezado por el presidente Pedro Sánchez, ha creado un mando único para gestionar la crisis migratoria en Ceuta y ha designado a Ángel Víctor Torres como responsable de la coordinación, mientras convoca al Consejo de Seguridad Nacional para abordar la emergencia.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-25T10:36:23+00:00",
+      "bias_score": -5,
+      "bias_reason": "El texto utiliza un tono mayormente informativo y neutral, aunque la elección de palabras como \"crisis\" y \"emergencia\" refleja una ligera tendencia a enfatizar la gravedad del asunto, típica de medios de centro‑izquierda.",
+      "focus_analysis": "El artículo se centra en la respuesta institucional y política del Gobierno frente a la crisis migratoria en Ceuta, dejando de lado la dimensión humana y los testimonios de los migrantes.",
+      "focus_tags": [
+        "crisis migratoria",
+        "respuesta institucional",
+        "Ceuta"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de la crisis",
+          "text": "Desde febrero de 2026, Ceuta ha recibido más de 80.000 migrantes que cruzaron a nado desde Marruecos, generando una situación de presión humanitaria y sanitaria."
+        },
+        {
+          "label": "Respuesta del Gobierno central",
+          "text": "El Gobierno español, bajo la dirección del presidente Pedro Sánchez, creó un mando único y nombró a Ángel Víctor Torres para coordinar la gestión, y convocó al Consejo de Seguridad Nacional."
+        },
+        {
+          "label": "Postura de otros medios",
+          "text": "France24 Español destacó la preocupación por la posible propagación de enfermedades y la necesidad de vacunar a la población del enclave, subrayando el componente sanitario de la crisis."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 7.4
+      }
+    },
     {
       "id": "bfed7e2b30c8",
       "title": "La Casa de los Famosos México en vivo: Masad es el nuevo líder de la semana y compartirá la suite con Yahir",
@@ -957,38 +992,6 @@
       "qc": {
         "overall": 9.0
       }
-    },
-    {
-      "id": "43a7a9d1738e",
-      "title": "EN VIVO | Clima en CDMX y resto de México hoy 24 de agosto",
-      "summary": "El Servicio Meteorológico Nacional y la Comisión Nacional del Agua informan en tiempo real que este lunes 24 de agosto se esperan lluvias muy fuertes en los estados de Nayarit, Jalisco, Colima y Michoacán, además de precipitaciones intensas en otros dieciséis estados de México.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/24/en-vivo-clima-en-cdmx-y-resto-de-mexico-hoy-24-de-agosto/",
-      "published_at": "2026-08-24T13:19:29+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos meteorológicos y alertas sin usar lenguaje cargado ni citar fuentes con sesgo político, manteniendo un tono informativo y neutral.",
-      "focus_analysis": "El medio se centra en la información meteorológica y las alertas de lluvia, dejando de lado los posibles impactos económicos o humanos de los eventos climáticos.",
-      "focus_tags": [
-        "clima",
-        "pronóstico",
-        "alertas"
-      ],
-      "context": [
-        {
-          "label": "Instituciones meteorológicas",
-          "text": "En México, el Servicio Meteorológico Nacional (SMN) y la Comisión Nacional del Agua (CONAGUA) son las agencias oficiales encargadas de monitorear y divulgar pronósticos y alertas del tiempo."
-        },
-        {
-          "label": "Tendencias climáticas",
-          "text": "Los últimos años han mostrado un aumento en la frecuencia e intensidad de lluvias extremas en el país, vinculado por los científicos al cambio climático y a patrones meteorológicos más volátiles."
-        },
-        {
-          "label": "Eventos previos",
-          "text": "Durante el verano de 2024, varias regiones del occidente mexicano también enfrentaron lluvias intensas que provocaron inundaciones y afectaron la actividad agrícola."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }
