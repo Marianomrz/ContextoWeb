@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T08:10:16.656589+00:00",
+  "generated_at": "2026-08-25T08:21:09.963210+00:00",
   "articles": [
+    {
+      "id": "02197f47c53b",
+      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
+      "summary": "El Gobierno de España, liderado por el presidente Pedro Sánchez, ha creado un mando único para la crisis migratoria en Ceuta y ha nombrado a Ángel Víctor Torres como responsable, mientras el Consejo de Seguridad Nacional se reúne con la participación de siete ministros, entre ellos la ministra de Defensa Margarita Robles.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-25T08:17:06+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto utiliza un lenguaje neutro y se centra en la respuesta institucional del Gobierno, sin emplear adjetivos cargados ni citar fuentes opositoras, lo que refleja el sesgo centrista‑izquierda típico de El País.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad, describiendo la creación del mando y la convocatoria del consejo, mientras que el aspecto humanitario de los migrantes queda poco desarrollado.",
+      "focus_tags": [
+        "crisis migratoria",
+        "seguridad nacional",
+        "Gobierno español"
+      ],
+      "context": [
+        {
+          "label": "antecedente",
+          "text": "En agosto de 2024, Ceuta recibió más de 80.000 migrantes que cruzaron a nado desde Marruecos, saturando los recursos locales y generando una emergencia humanitaria."
+        },
+        {
+          "label": "ángulo de salud",
+          "text": "France24 destacó que el Gobierno enviará 45.000 dosis de vacunas a Ceuta para prevenir posibles brotes de enfermedades, un detalle que El País no menciona."
+        },
+        {
+          "label": "contexto europeo",
+          "text": "Euronews informó que, en la misma jornada, la Unión Europea aprobó 6.100 millones de euros en ayuda militar a Ucrania, mostrando la amplia agenda de seguridad del bloque mientras España gestiona la crisis de Ceuta."
+        }
+      ],
+      "confidence": "media"
+    },
     {
       "id": "406e72f38715",
       "title": "Ramas que cruzan océanos: la saga de Homegoing de Yaa Gyasi",
@@ -960,41 +992,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "239c4b649312",
-      "title": "Una terapia me ayudó a recordar los abusos de mi hermanastro y me permitió llevarlo ante la justicia",
-      "summary": "Nikita Dallison y su hermana Mellissa Arkwright, quienes fueron abusadas sexualmente por su hermanastro Adrian Austin, lograron que la justicia condenara al agresor tras que Mellissa recuperara recuerdos del abuso mediante la terapia EMDR.",
-      "category": "sociedad",
-      "source_name": "BBC News Mundo",
-      "source_url": "https://www.bbc.com/mundo/articles/cy8zxpz5e9xo?at_medium=RSS&at_campaign=rss",
-      "published_at": "2026-08-24T11:36:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo utiliza un tono informativo y objetivo, sin emplear vocabulario cargado ni favorecer a ninguna posición política; se centra en hechos y testimonios personales.",
-      "focus_analysis": "El medio elige un ángulo humano y de salud mental, resaltando el papel de la terapia EMDR y la experiencia de las víctimas, omitiendo análisis de políticas públicas o del sistema judicial más amplio.",
-      "focus_tags": [
-        "abuso sexual",
-        "terapia EMDR",
-        "justicia penal"
-      ],
-      "context": [
-        {
-          "label": "Marco legal del Reino Unido",
-          "text": "En el Reino Unido, las víctimas de delitos sexuales gozan de anonimato automático, aunque pueden renunciar a él para dar testimonio, y los agresores pueden ser condenados a largas penas de prisión bajo la legislación de delitos sexuales."
-        },
-        {
-          "label": "Terapia EMDR",
-          "text": "La desensibilización y reprocesamiento por movimientos oculares (EMDR) es una técnica psicológica reconocida para tratar traumas, que ayuda a los pacientes a procesar recuerdos dolorosos mediante estimulación bilateral."
-        },
-        {
-          "label": "Respuesta policial a abusos históricos",
-          "text": "Las fuerzas policiales británicas han enfrentado críticas por la lentitud en la investigación de casos de abuso sexual infantil del pasado, lo que ha llevado a revisiones de protocolos y a una mayor sensibilidad en la toma de declaraciones."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
     }
   ]
 }
