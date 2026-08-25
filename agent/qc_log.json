@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:40:55.525405+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de información objetiva y actual, aunque podría mejorar la diversidad de fuentes para mayor contraste.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:41:06.667898+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
       "kind": "noticia",
@@ -2835,6 +2818,17 @@
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial; solo muestra un leve sesgo promocional que no afecta la información esencial.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T16:25:14.628618+00:00",
+      "title": "¿Quién es Graciela Domínguez Nava, la apuesta de Morena para sustituir a Rubén Rocha Moya en Sinaloa",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
