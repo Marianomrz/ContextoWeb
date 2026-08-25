@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:50:44.717896+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando una noticia reciente y estructurada con fuentes contrastadas, aunque podría mejorar la verificación explícita de cifras específicas.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:50:50.529014+00:00",
-      "title": "Cinco días a la deriva sobre una hielera: así sobrevivieron dos pescadores en Chiapas | Video",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 9.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 10,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete cumple con los estándares de calidad editorial, pese a una menor inconsistencia en los detalles del incidente.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:50:58.792864+00:00",
       "title": "Primero la paria",
       "kind": "noticia",
@@ -2811,6 +2777,34 @@
       },
       "observacion": "El paquete cumple con la mayoría de los estándares de objetividad y actualidad, pero necesita mayor verificación de fuentes para respaldar la afirmación central.",
       "error": null
+    },
+    {
+      "at": "2026-08-25T19:20:56.033789+00:00",
+      "title": "Dolly Parton, la reina de la música country, ha muerto a los 80 años",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 4.4,
+      "scores": {
+        "veracidad_precision": 1,
+        "contraste_fuentes": 2,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 5,
+        "estructura_piramide": 8
+      },
+      "observacion": "El artículo falla gravemente en veracidad y contraste de fuentes, pese a una buena estructura y tono neutral; no cumple con los estándares editoriales de Contexto.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T19:21:00.361615+00:00",
+      "title": "Adultas mayores exhiben a policía por no dejarlas entrar gratis al Metrobús CDMX con tarjeta de Inap",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }

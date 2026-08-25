@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T19:10:32.159720+00:00",
+  "generated_at": "2026-08-25T19:21:25.813733+00:00",
   "articles": [
+    {
+      "id": "d49827ed2520",
+      "title": "Adultas mayores exhiben a policía por no dejarlas entrar gratis al Metrobús CDMX con tarjeta de Inapam",
+      "summary": "Un grupo de mujeres adultas mayores de la Ciudad de México fue detenido por una oficial de seguridad en la Línea 5 del Metrobús al intentar entrar con su credencial del INAPAM, pero la Secretaría de Seguridad Ciudadana explicó que no cumplían con los requisitos de edad y discapacidad exigidos para la gratuidad en ese sistema de transporte.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/25/adultas-mayores-exhiben-a-policia-por-no-dejarlas-entrar-gratis-al-metrobus-cdmx-con-tarjeta-de-inapam/",
+      "published_at": "2026-08-25T19:18:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto mantiene un tono descriptivo y balanceado, presentando tanto la queión de las mujeres como la explicación oficial sin usar vocabulario cargado ni favorecer a una parte.",
+      "focus_analysis": "El medio se centra en el conflicto humano y la confusión normativa sobre la gratuidad para adultos mayores, dejando de lado el análisis económico o la evaluación de la gestión policial.",
+      "focus_tags": [
+        "transporte público",
+        "adultas mayores",
+        "política de gratuidad"
+      ],
+      "context": [
+        {
+          "label": "Regulación de la gratuidad",
+          "text": "En la Ciudad de México, el Metro permite el acceso gratuito a usuarios mayores de 60 años con credencial del INAPAM, mientras que el Metrobús exige edad mínima de 70 años o una discapacidad certificada, lo que genera confusión entre los usuarios."
+        },
+        {
+          "label": "Reacción en redes sociales",
+          "text": "El video del enfrentamiento se viralizó en plataformas digitales, provocando una oleada de comentarios que denunciaban la supuesta falta de respeto de la autoridad y exigiendo mayor claridad en los requisitos de ingreso."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "La Secretaría de Seguridad Ciudadana de la CDMX emitió un comunicado aclarando que las mujeres no cumplían los criterios establecidos para la gratuidad en el Metrobús, subrayando la diferencia de normas entre los distintos sistemas de transporte público."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "c4529318ac78",
       "title": "Robaron más de 300 drones tras salir del AIFA a empresa china",
@@ -963,38 +995,6 @@
       "qc": {
         "overall": 7.8
       }
-    },
-    {
-      "id": "a20fa636aeb2",
-      "title": "Tigre venció 2-1 a Central Córdoba de Santiago del Estero y extendió su racha en el Torneo Clausura",
-      "summary": "El club Tigre de la Primera División argentina ganó 2‑1 a Central Córdoba de Santiago del Estero en el estadio José Dellagiovanna, consolidando su buena racha en la sexta fecha del Torneo Clausura.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/24/se-cierra-la-fecha-6-del-torneo-clausura-con-tres-partidos-todo-lo-que-hay-que-saber/",
-      "published_at": "2026-08-24T23:59:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos del partido con un lenguaje neutro y sin opiniones, evitando carga emotiva o selección de fuentes que favorezcan a un equipo.",
-      "focus_analysis": "El medio se centró en el desarrollo del juego y el impacto en la tabla de posiciones, dejando de lado aspectos como la situación financiera de los clubes o la repercusión entre los hinchas.",
-      "focus_tags": [
-        "resultado",
-        "torneo clausura",
-        "fútbol argentino"
-      ],
-      "context": [
-        {
-          "label": "Rendimiento reciente de Tigre",
-          "text": "Tigre había acumulado ocho puntos en la zona B tras dos victorias, un empate y una derrota, y su último compromiso local había sido un empate sin goles contra Aldosivi."
-        },
-        {
-          "label": "Situación de Central Córdoba",
-          "text": "Central Córdoba de Santiago del Estero ostentaba seis puntos en la zona A con dos triunfos y tres derrotas, y había perdido su anterior encuentro 1‑0 frente a Instituto."
-        },
-        {
-          "label": "Estructura del Torneo Clausura",
-          "text": "El Torneo Clausura de la Liga Profesional argentina se juega con dos zonas (A y B) y la sexta fecha incluyó duelos clave que pueden modificar la clasificación a los octavos de final."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
