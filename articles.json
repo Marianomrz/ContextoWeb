@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-08-25T14:22:23.812475+00:00",
+  "generated_at": "2026-08-25T14:41:53.771082+00:00",
   "articles": [
+    {
+      "id": "217de01f8e39",
+      "title": "Volkswagen prevé 50,000 despidos adicionales y la mitad será en Alemania",
+      "summary": "Volkswagen anunció que planea despedir a 50 000 empleados adicionales, aproximadamente la mitad de los cuales se ubicarán en Alemania, como parte de su segundo plan de ajuste para afrontar la crisis del sector automotriz.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/empresas/volkswagen-preve-50-000-despidos-adicionales-mitad-sera-alemania-20260825-830063.html",
+      "published_at": "2026-08-25T14:38:56+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta datos y declaraciones de la dirección y los sindicatos sin usar lenguaje cargado ni favorecer a ninguna de las partes, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El medio se centra en el aspecto económico y estructural del ajuste de Volkswagen, resaltando cifras de despidos y cierre de plantas, mientras que el impacto social y personal de los trabajadores queda menos desarrollado.",
+      "focus_tags": [
+        "despidos masivos",
+        "restructuración industrial",
+        "sindicatos alemanes"
+      ],
+      "context": [
+        {
+          "label": "Plan de ajuste anterior",
+          "text": "En 2024 Volkswagen presentó un primer plan de reestructuración que también incluía recortes de personal y cierre de fábricas, como respuesta a la caída de ventas y la presión competitiva en Europa."
+        },
+        {
+          "label": "Crisis del sector automotriz europeo",
+          "text": "El fabricante alemán se encuentra en medio de una crisis que afecta a toda la industria europea, marcada por la transición a vehículos eléctricos y la reducción de la demanda de motores de combustión interna."
+        },
+        {
+          "label": "Posición de IG Metall",
+          "text": "El sindicato IG Metall ha exigido garantías sobre inversiones y futuros modelos, advirtiendo que se opondrá firmemente a cualquier medida que considere insuficiente para proteger los puestos de trabajo."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
+    {
+      "id": "9060c005dfd8",
+      "title": "La pensión más alta posible: cómo fusionar IMSS e ISSSTE para elevar tu pago",
+      "summary": "El Instituto Mexicano del Seguro Social (IMSS) y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) ofrecen la Portabilidad de Derechos Pensionarios, un trámite gratuito que permite a los trabajadores que cotizaron en ambos sistemas combinar sus años de aportación para obtener una pensión más alta, siempre que cumplan requisitos de edad y afiliación.",
+      "category": "economia",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/25/la-pension-mas-alta-posible-como-fusionar-imss-e-issste-para-elevar-tu-pago/",
+      "published_at": "2026-08-25T14:40:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir el procedimiento y los requisitos de manera neutra, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El artículo se centra en el aspecto institucional y económico del sistema de pensiones, explicando el mecanismo de portabilidad y los pasos administrativos; omite la dimensión personal de los beneficiarios y cualquier debate político sobre la reforma del sistema de seguridad social.",
+      "focus_tags": [
+        "pensión",
+        "portabilidad",
+        "IMSS/ISSSTE"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del sistema de pensiones en México",
+          "text": "México cuenta con dos regímenes principales de seguridad social: el IMSS, que cubre al sector privado, y el ISSSTE, que cubre a los empleados del gobierno, cada uno con su propio historial de cotizaciones y cálculo de pensiones."
+        },
+        {
+          "label": "Marco legal de la Portabilidad de Derechos Pensionarios",
+          "text": "El mecanismo de portabilidad se estableció mediante un decreto publicado en el Diario Oficial de la Federación en diciembre de 2020, permitiendo sumar los periodos cotizados en IMSS e ISSSTE siempre que el trabajador tenga al menos 59 años y esté inscrito en el régimen de cuentas individuales del ISSSTE."
+        },
+        {
+          "label": "Comparación internacional",
+          "text": "A diferencia de algunos países donde los regímenes de pensiones son incompatibles, México permite la transferencia gratuita de años cotizados entre sistemas, una práctica que busca evitar la pérdida de derechos al cambiar de sector laboral."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "85e631a9c8be",
       "title": "Israel toma oficinas de UNRWA en Jerusalén; Netanyahu dice que actuará contra la agencia con \"todos los medios a su alcance\"",
@@ -919,73 +989,6 @@
       "qc": {
         "overall": 7.8
       }
-    },
-    {
-      "id": "37575dbeca25",
-      "title": "¿Cómo la vida en refugios temporales afecta psicológicamente a damnificados por el terremoto?",
-      "summary": "France24 Español analiza el impacto psicológico que la estancia prolongada en refugios temporales tiene en los miles de venezolanos desplazados por el reciente terremoto doble, con la participación del experto Carlos Ibarra, presidente de la Sociedad Venezolana de Psicología Clínica y Salud.",
-      "category": "sociedad",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/video/20260824-c%C3%B3mo-la-vida-en-refugios-temporales-afecta-psicol%C3%B3gicamente-a-damnificados-por-el-terremoto",
-      "published_at": "2026-08-24T18:55:30+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutral, se basa en la opinión de un especialista y no emplea vocabulario cargado ni fuentes partidistas.",
-      "focus_analysis": "El medio se centra en el ángulo humano y de salud mental de los damnificados, dejando de lado el análisis de la gestión gubernamental y la infraestructura de reconstrucción.",
-      "focus_tags": [
-        "salud mental",
-        "refugios temporales",
-        "terremoto Venezuela"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del sismo",
-          "text": "El 12 de agosto de 2026 un terremoto de magnitud 7,2 sacudió la zona costera de La Guaira y la capital Caracas, provocando cientos de muertos y dejando a más de 30 000 personas sin vivienda."
-        },
-        {
-          "label": "Efectos psicológicos de la desplazación",
-          "text": "Según estudios de la Organización Mundial de la Salud, la exposición prolongada a condiciones de refugio temporal aumenta significativamente el riesgo de trastornos de estrés postraumático, depresión y ansiedad entre los desplazados."
-        },
-        {
-          "label": "Respuesta institucional y crítica",
-          "text": "Organizaciones no gubernamentales han señalado que la respuesta del gobierno venezolano ha sido lenta y que la escasez de recursos para la reconstrucción ha empeorado la situación de los refugios, generando mayor incertidumbre entre los afectados."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.0
-      }
-    },
-    {
-      "id": "ee2b682b5963",
-      "title": "Xiaomi presenta un chip seis veces más potente que el A19 del iPhone 17 Pro",
-      "summary": "Xiaomi, la empresa china de electrónica, presentó el procesador móvil Xring O3, que según sus pruebas es casi seis veces más potente en tareas de inteligencia artificial que el chip A19 del iPhone 17 Pro.",
-      "category": "tecnologia",
-      "source_name": "Hipertextual",
-      "source_url": "https://hipertextual.com/mobile/xiaomi-xring-o3-chip-caracteristicas/",
-      "published_at": "2026-08-24T18:20:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir especificaciones técnicas y comparaciones de rendimiento sin usar lenguaje cargado ni citar fuentes con sesgo político; el enfoque es neutral y centrado en la tecnología.",
-      "focus_analysis": "El medio privilegió la dimensión tecnológica y la rivalidad con Apple, dejando de lado el análisis de precios, disponibilidad comercial o repercusiones en la cadena de suministro.",
-      "focus_tags": [
-        "tecnología",
-        "competencia",
-        "hardware móvil"
-      ],
-      "context": [
-        {
-          "label": "estrategia de Xiaomi",
-          "text": "Xiaomi ha anunciado varios procesadores propios, como la serie Xring, con el objetivo de reducir su dependencia de proveedores externos como Qualcomm y MediaTek y reforzar su ecosistema de dispositivos."
-        },
-        {
-          "label": "comparación con Apple",
-          "text": "El chip A19 del iPhone 17 Pro, basado en la arquitectura de Apple Silicon, es el referente que Xiaomi utiliza para medir la potencia de su Xring O3, señalando una mejora de hasta seis veces en tareas de IA."
-        },
-        {
-          "label": "perspectiva de otros medios",
-          "text": "Según El Androide Libre, el lanzamiento de los nuevos chips de Xiaomi se interpreta como un intento de superar a Apple en rendimiento y de consolidar la independencia tecnológica del fabricante chino."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

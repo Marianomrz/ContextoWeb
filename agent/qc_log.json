@@ -1,57 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:21:45.526508+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los criterios de calidad periodística, aunque la ausencia de fuentes directas verificables reduce ligeramente la puntuación de veracidad.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:21:52.160011+00:00",
-      "title": "A precio de liquidación el Samsung Galaxy S26, un móvil compacto con una autonomía excelente",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es reciente, pero la falta de verificabilidad de los datos sobre el Galaxy S26 compromete su veracidad y lo hace inadecuado para publicación sin corroboración adicional.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T08:21:56.878455+00:00",
-      "title": "Corea del Norte rechaza el gesto de Trump y enfría una posible reunión con Kim Jong-un",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo está bien estructurado y es actual, pero la falta de evidencia verificable sobre el supuesto gesto de Trump reduce su puntuación de veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:22:03.903424+00:00",
       "title": "Trump declara una ‘guerra económica’ contra Irán y amenaza a países que ayuden a Teherán",
       "kind": "noticia",
@@ -2841,6 +2790,57 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T14:41:10.117202+00:00",
+      "title": "La pensión más alta posible: cómo fusionar IMSS e ISSSTE para elevar tu pago",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad informativa, aunque podría mejorar la diversidad de fuentes para reforzar la credibilidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T14:41:17.283741+00:00",
+      "title": "Volkswagen prevé 50,000 despidos adicionales y la mitad será en Alemania",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la mayoría de los estándares de calidad editorial, aunque la falta de citas directas limita ligeramente su precisión.",
+      "error": null
+    },
+    {
+      "at": "2026-08-25T14:41:24.774816+00:00",
+      "title": "Quién es Tito Petruzzella, el argentino que buscará ganar un contrato en UFC: qué necesita para ingr",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 3,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete presenta una estructura adecuada y actualidad, pero la inconsistencia en nombres y la falta de verificación de datos reducen su fiabilidad global.",
+      "error": null
     }
   ]
 }
