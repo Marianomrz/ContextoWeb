@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-25T04:49:06.713536+00:00",
+  "generated_at": "2026-08-25T05:01:12.033977+00:00",
   "articles": [
+    {
+      "id": "bfed7e2b30c8",
+      "title": "La Casa de los Famosos México en vivo: Luis Chaparro, Yanet García y Ese Pérez son considerados los “muebles” del reality",
+      "summary": "En la cuarta gala de eliminación de La Casa de los Famosos México 2026, los participantes Luis Chaparro, Yanet García y Ese Pérez fueron catalogados como los “muebles” del reality tras una decisión del público, mientras se canceló el proceso de posicionamiento y se intensificaron los conflictos dentro de la casa.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/23/la-casa-de-los-famosos-mexico-2026-en-vivo-quien-seria-el-cuarto-eliminado-y-que-habitantes-la-produccion-podria-sacar/",
+      "published_at": "2026-08-25T04:56:31+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos del programa sin usar vocabulario cargado ni citar fuentes con sesgo político; la cobertura es neutral y centrada en el entretenimiento.",
+      "focus_analysis": "El medio se enfocó en la dinámica interna del reality y la percepción del público sobre los concursantes, dejando de lado análisis sobre la audiencia, la estrategia de Televisa o el impacto cultural del programa.",
+      "focus_tags": [
+        "reality TV",
+        "entretenimiento mexicano",
+        "dinámica de concurso"
+      ],
+      "context": [
+        {
+          "label": "antecedente del programa",
+          "text": "La Casa de los Famosos México es un reality show de Televisa transmitido 24/7 en la plataforma ViX+, basado en el formato internacional de los “Housemates” donde celebridades compiten por mantenerse en la casa."
+        },
+        {
+          "label": "cifras de audiencia",
+          "text": "Las ediciones anteriores del programa han registrado ratings superiores a los 10 millones de espectadores, consolidando a la producción como uno de los contenidos de mayor éxito de la televisión mexicana."
+        },
+        {
+          "label": "postura de otros medios",
+          "text": "Otros medios, como Periódico AM, han vinculado el reality a programas competidores como La Granja VIP, resaltando la interacción entre los concursos de celebridades y la estrategia de los canales para mantener la audiencia."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "055c89b68131",
       "title": "El cómico vence al terrorista",
@@ -962,38 +994,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "92f78c73bdba",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
-      "summary": "El Ministerio de Sanidad, liderado por la ministra Elma Saiz, se reunió con las comunidades autónomas para organizar la entrega de vacunas a la ciudad norteña de Ceuta, y la ministra calificó de \"irresponsabilidad mayúscula\" los comentarios del presidente gallego Alberto Núñez Feijóo sobre la posibilidad de confinar Ceuta.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-24T10:36:14+00:00",
-      "bias_score": -35,
-      "bias_reason": "El texto enfatiza la crítica de la ministra Elma Saiz a las declaraciones de Feijóo, usando un lenguaje valorativo y sin presentar la versión del presidente gallego, lo que muestra una ligera inclinación hacia la posición del PSOE.",
-      "focus_analysis": "El medio se centra en la polémica política entre la ministra de Sanidad y el presidente gallego, dejando de lado la situación humanitaria de los inmigrantes en Ceuta.",
-      "focus_tags": [
-        "política española",
-        "crisis migratoria",
-        "salud pública"
-      ],
-      "context": [
-        {
-          "label": "antecedente",
-          "text": "Ceuta es una ciudad autónoma española en el norte de África que recibe flujos constantes de inmigrantes que intentan entrar en la UE."
-        },
-        {
-          "label": "postura",
-          "text": "El presidente gallego Alberto Núñez Feijóo declaró que se debería confinar Ceuta para controlar la llegada de migrantes, lo que generó críticas de la ministra de Sanidad."
-        },
-        {
-          "label": "dato",
-          "text": "El Gobierno de España ha lanzado un programa de donación de vacunas a Ceuta, coordinado con las comunidades autónomas para reforzar la protección sanitaria de la población."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }

@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T08:02:29.107402+00:00",
-      "title": "¿Gas importado o fracking? El dilema energético de México",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es actual y objetivo, pero necesita mayor contraste de fuentes y citas más precisas para reforzar su veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T08:06:55.533867+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
       "kind": "noticia",
@@ -2896,6 +2879,17 @@
       "title": "El cómico vence al terrorista",
       "kind": "noticia",
       "category": "internacional",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-25T05:00:46.210127+00:00",
+      "title": "La Casa de los Famosos México en vivo: Luis Chaparro, Yanet García y Ese Pérez son considerados los ",
+      "kind": "noticia",
+      "category": "sociedad",
       "approved": true,
       "overall": null,
       "scores": {},
