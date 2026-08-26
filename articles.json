@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T03:21:06.119448+00:00",
+  "generated_at": "2026-08-26T03:34:42.950270+00:00",
   "articles": [
+    {
+      "id": "6984fdacb794",
+      "title": "EU mata a 4 personas en ataque contra embarcación en el Caribe; uman 227 muertos en ofensiva antidrogas",
+      "summary": "Las fuerzas armadas de Estados Unidos atacaron una embarcación sospechosa de narcotráfico en el mar Caribe, matando a cuatro personas, dentro de una ofensiva que ya ha causado al menos 227 muertos desde que la administración de Donald Trump la impulsó.",
+      "category": "internacional",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/mundo/eu-mata-a-4-personas-en-ataque-contra-embarcacion-en-el-caribe-uman-227-muertos-en-ofensiva-antidrogas/",
+      "published_at": "2026-08-26T03:28:03+00:00",
+      "bias_score": -30,
+      "bias_reason": "El texto enfatiza la falta de pruebas de contrabando y critica la escasez de evidencia del gobierno de Trump, usando expresiones como 'presuntos' y 'poco evidencia', lo que refleja una postura más crítica hacia la política estadounidense.",
+      "focus_analysis": "El medio se centra en el aspecto de seguridad y la campaña antidrogas de EE. UU., resaltando el número de víctimas y la narrativa oficial, mientras omite el impacto humanitario en la población local y los aspectos legales del ataque.",
+      "focus_tags": [
+        "seguridad",
+        "política exterior",
+        "droga"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "Desde hace casi un año, la administración de Donald Trump mantiene una ofensiva militar contra lo que denomina 'narcoterroristas' en América Latina, reanudada tras una pausa de más de dos meses."
+        },
+        {
+          "label": "datos comparables",
+          "text": "El 68.º ataque de la campaña ha elevado el total de fallecidos a 227, según el Comando Sur de EE. UU., aunque el ejército no ha presentado pruebas de que las embarcaciones interceptadas transportaran drogas."
+        },
+        {
+          "label": "reacciones internacionales",
+          "text": "Países como Colombia, Honduras y Ecuador han aceptado la presencia de fuerzas estadounidenses en tierra, mientras que Guatemala ha negado haber firmado acuerdos de este tipo."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "3abc8e6e2bee",
       "title": "Nissan, General Motors y Volkswagen pierden terreno en México ante la oferta china",
@@ -953,38 +985,6 @@
         {
           "label": "Cobertura de otros medios",
           "text": "Euronews Español informó que el presidente Sánchez convocó al Consejo de Seguridad Nacional para tratar la crisis en Ceuta, un detalle que no aparece en la nota de El País América."
-        }
-      ],
-      "confidence": "media"
-    },
-    {
-      "id": "02197f47c53b",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
-      "summary": "El gobierno de España, encabezado por el presidente Pedro Sánchez, creó un mando único y designó a Ángel Víctor Torres para gestionar la crisis de entrada masiva de inmigrantes en Ceuta, mientras el ministro del Interior, José Luis Robles, informó que 25 agentes del CNI compartieron información con las fuerzas de seguridad y el Gobierno.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-25T11:17:08+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a reproducir declaraciones oficiales y describir medidas gubernamentales sin usar lenguaje cargado ni presentar críticas, lo que indica una cobertura neutral.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y de seguridad, resaltando la respuesta del Gobierno y la coordinación de fuerzas, dejando fuera la perspectiva humana de los migrantes y las causas estructurales del flujo migratorio.",
-      "focus_tags": [
-        "seguridad",
-        "política interior",
-        "crisis migratoria"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "Ceuta, enclave español en el norte de África, ha sido punto de entrada frecuente para flujos migratorios irregulares, con episodios previos de llegadas masivas que han generado tensiones políticas y humanitarias."
-        },
-        {
-          "label": "datos comparables",
-          "text": "En 2023, el gobierno español también activó un mando de seguridad en Ceuta durante una oleada de inmigrantes, lo que llevó a la intervención de las Fuerzas y Seguridad del Estado y del CNI."
-        },
-        {
-          "label": "postura de otros medios",
-          "text": "Euronews Español destacó que la convocatoria del Consejo de Seguridad Nacional por parte del presidente Sánchez se inscribe en una agenda de seguridad más amplia, que incluye la ayuda militar a Ucrania, subrayando la prioridad del gobierno en asuntos de seguridad nacional."
         }
       ],
       "confidence": "media"

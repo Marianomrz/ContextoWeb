@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:08:03.382456+00:00",
-      "title": "Primero la paria",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 4,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con la actualidad y la estructura, pero carece de datos verificables y fuentes contrastadas, limitando su calidad editorial.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T09:08:17.921862+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "En general el paquete es informativo y actualizado, aunque podría reforzar la pluralidad de fuentes para un mayor contraste de perspectivas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:21:13.886071+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
       "kind": "noticia",
@@ -2740,6 +2706,34 @@
       "title": "Nissan, General Motors y Volkswagen pierden terreno en México ante la oferta china",
       "kind": "noticia",
       "category": "economia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T03:34:15.504905+00:00",
+      "title": "En medio de alerta por seguridad, Roberto Velasco se reunirá con Marco Rubio en Washington",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 7,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es reciente y está bien estructurado, pero contiene errores fácticos graves y una corroboración limitada de fuentes, lo que compromete su veracidad y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T03:34:20.300115+00:00",
+      "title": "EU mata a 4 personas en ataque contra embarcación en el Caribe; uman 227 muertos en ofensiva antidro",
+      "kind": "noticia",
+      "category": "internacional",
       "approved": true,
       "overall": null,
       "scores": {},
