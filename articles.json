@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-26T05:43:24.007536+00:00",
+  "generated_at": "2026-08-26T06:01:08.987723+00:00",
   "articles": [
+    {
+      "id": "d086b7c569cc",
+      "title": "Semillas de palabras: la migración literaria de Valeria Luiselli",
+      "summary": "Una maleta abierta, sus páginas sueltas como semillas que se despliegan en el aire, lleva consigo el eco de voces que cruzan fronteras. En la obra de Valeria Luiselli, cada relato es una hoja que germina en tierra ajena, revelando la extraña belleza de la desorientación.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-08-26T06:00:45.163063+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Elegí este tema porque la migración sigue marcando la literatura global, y Luiselli, con su estilo preciso, captura la tensión entre pertenencia y desplazamiento. Hoy, al cerrar la ventana del verano, sus palabras nos recuerdan que el hogar es una construcción itinerante.",
+      "focus_tags": [
+        "Migración",
+        "Contemporánea",
+        "México"
+      ],
+      "context": [
+        {
+          "label": "Descubre a Valeria Luiselli",
+          "text": "Comienza leyendo 'Los niños en la niebla', una novela corta que mezcla memorias familiares con la experiencia del exilio, y revela su voz íntima."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si te atrapa su estilo, avanza a 'Desierto sonoro', una colección de ensayos que exploran la frontera entre lo físico y lo narrativo, y luego a 'La historia de mi cuerpo', donde el cuerpo mismo se vuelve mapa."
+        },
+        {
+          "label": "Marco de la migración literaria",
+          "text": "El auge de la literatura de la diáspora en América Latina, impulsado por autores como Luiselli, Claudia Piñeiro y Junot Díaz, refleja una paradoja: la pérdida de territorio genera nuevos territorios narrativos."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true
+    },
     {
       "id": "4f6c4c0a3f60",
       "title": "Ventas de viviendas nuevas en EU caen en julio por debajo de las expectativas",
@@ -953,41 +986,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "450c397c6f1c",
-      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 25 de agosto: Volcadura de camión afecta la circulación en la México-Puebla",
-      "summary": "Un camión se volcó en la autopista México-Puebla, provocando interrupciones en la circulación y recomendando a los conductores extremar precauciones, mientras la Secretaría de Seguridad Ciudadana de la Ciudad de México anuncia una jornada con bloqueos, accidentes y manifestaciones en varios puntos de la capital.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/25/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-25-de-agosto/",
-      "published_at": "2026-08-25T13:39:26+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto usa un tono informativo y neutral, sin palabras cargadas ni fuentes partidistas, limitándose a describir los hechos y las recomendaciones de seguridad.",
-      "focus_analysis": "El medio prioriza el aspecto de tráfico y seguridad pública, informando sobre el accidente y la agenda de movilizaciones, dejando de lado un análisis político o de los motivos de las protestas.",
-      "focus_tags": [
-        "tráfico",
-        "manifestaciones",
-        "seguridad pública"
-      ],
-      "context": [
-        {
-          "label": "Agenda de la Secretaría de Seguridad Ciudadana",
-          "text": "La Secretaría de Seguridad Ciudadana de la Ciudad de México publica diariamente una agenda que indica posibles bloqueos y manifestaciones, con el fin de alertar a la población y coordinar acciones de seguridad."
-        },
-        {
-          "label": "Incidente en la autopista México-Puebla",
-          "text": "La autopista México-Puebla es una vía de alta circulación que conentemente registra accidentes y cierres temporales, afectando tanto al transporte de mercancías como al tráfico de pasajeros."
-        },
-        {
-          "label": "Impacto de las movilizaciones en la movilidad urbana",
-          "text": "En los últimos años, las movilizaciones sociales en la Ciudad de México han generado congestiones y desvíos vehiculares, obligando a las autoridades a implementar planes de contingencia y a los conductores a buscar rutas alternas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }
