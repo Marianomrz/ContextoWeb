@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T02:45:34.280601+00:00",
+  "generated_at": "2026-08-26T03:01:10.855685+00:00",
   "articles": [
+    {
+      "id": "3abc8e6e2bee",
+      "title": "Nissan, General Motors y Volkswagen pierden terreno en México ante la oferta china",
+      "summary": "Según la Asociación Mexicana de Distribuidores de Automotores, Nissan, General Motors y Volkswagen han visto disminuir su participación de mercado en México entre 2016 y 2026, cediendo terreno a marcas chinas y a la creciente demanda de vehículos híbridos y eléctricos.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/autos/nissan-general-motors-volkswagen-pierden-terreno-mexico-oferta-china-20260825-830207.html",
+      "published_at": "2026-08-26T02:59:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo presenta datos y declaraciones de fuentes institucionales sin usar lenguaje cargado ni favorecer a ninguna empresa, manteniendo un tono informativo y equilibrado.",
+      "focus_analysis": "El medio se centra en el ángulo económico, describiendo la pérdida de cuota de mercado y la competencia de fabricantes chinos, mientras omite aspectos políticos o regulatorios del sector automotriz.",
+      "focus_tags": [
+        "mercado automotriz",
+        "competencia china",
+        "cambio de cuota"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "En 2016, Nissan, General Motors y Volkswagen concentraban el 58 % de las ventas de autos ligeros en México, posición que ha caído a alrededor del 35 % en 2026."
+        },
+        {
+          "label": "datos comparables",
+          "text": "Las marcas chinas han incrementado su presencia en el mercado mexicano ofreciendo precios agresivos, equipamiento tecnológico avanzado y tiempos de entrega más cortos."
+        },
+        {
+          "label": "posturas de otros actores",
+          "text": "El presidente de la AMDA, Guillermo Rosales, señala que el mercado está cada vez más fragmentado y competitivo, y el CEO de Nissan, Iván Espinosa, destaca la necesidad de regionalizar la producción y acelerar la electrificación."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "400d78458b67",
       "title": "El pueblito en México que te hará sentir como en Grecia",
@@ -956,41 +988,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "02197f47c53b",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles ya comparece en el Congreso para hablar de la emergencia migratoria",
-      "summary": "El Gobierno español, encabezado por el presidente Pedro Sánchez, ha creado un mando único para gestionar la crisis migratoria en Ceuta y ha designado a Ángel Víctor Torres como responsable de la coordinación, mientras convoca al Consejo de Seguridad Nacional para abordar la emergencia.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-25T10:36:23+00:00",
-      "bias_score": -5,
-      "bias_reason": "El texto utiliza un tono mayormente informativo y neutral, aunque la elección de palabras como \"crisis\" y \"emergencia\" refleja una ligera tendencia a enfatizar la gravedad del asunto, típica de medios de centro‑izquierda.",
-      "focus_analysis": "El artículo se centra en la respuesta institucional y política del Gobierno frente a la crisis migratoria en Ceuta, dejando de lado la dimensión humana y los testimonios de los migrantes.",
-      "focus_tags": [
-        "crisis migratoria",
-        "respuesta institucional",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de la crisis",
-          "text": "Desde febrero de 2026, Ceuta ha recibido más de 80.000 migrantes que cruzaron a nado desde Marruecos, generando una situación de presión humanitaria y sanitaria."
-        },
-        {
-          "label": "Respuesta del Gobierno central",
-          "text": "El Gobierno español, bajo la dirección del presidente Pedro Sánchez, creó un mando único y nombró a Ángel Víctor Torres para coordinar la gestión, y convocó al Consejo de Seguridad Nacional."
-        },
-        {
-          "label": "Postura de otros medios",
-          "text": "France24 Español destacó la preocupación por la posible propagación de enfermedades y la necesidad de vacunar a la población del enclave, subrayando el componente sanitario de la crisis."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 7.4
-      }
     }
   ]
 }

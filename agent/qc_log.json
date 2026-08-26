@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:07:55.565608+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es objetivo y actual, pero la falta de fuentes directas y citas específicas disminuye la veracidad de los datos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:08:03.382456+00:00",
       "title": "Primero la paria",
       "kind": "noticia",
@@ -2751,6 +2734,17 @@
       },
       "observacion": "El paquete es actual y estructurado, pero carece de fuentes verificables y muestra un sesgo promocional que reduce su objetividad.",
       "error": null
+    },
+    {
+      "at": "2026-08-26T03:00:45.741471+00:00",
+      "title": "Nissan, General Motors y Volkswagen pierden terreno en México ante la oferta china",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
