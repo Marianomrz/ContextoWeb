@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:21:13.886071+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.0,
-      "scores": {
-        "veracidad_precision": 7,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en general sólido y cumple con los criterios de actualidad y estructura, aunque la ausencia de fuentes directas y de perspectivas de los migrantes limita ligeramente su puntuación en veracidad y contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:21:31.363388+00:00",
       "title": "CDMX prevé plantar un millón de árboles en banquetas para 2030",
       "kind": "noticia",
@@ -2734,6 +2717,17 @@
       "title": "EU mata a 4 personas en ataque contra embarcación en el Caribe; uman 227 muertos en ofensiva antidro",
       "kind": "noticia",
       "category": "internacional",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T04:00:46.880170+00:00",
+      "title": "Aficionados del Olympiacos ponen apodo “doble sentido” a la Hormiga González en Grecia",
+      "kind": "noticia",
+      "category": "deportes",
       "approved": true,
       "overall": null,
       "scores": {},

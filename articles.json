@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T03:40:53.245416+00:00",
+  "generated_at": "2026-08-26T04:01:11.763812+00:00",
   "articles": [
+    {
+      "id": "8f7e11680cdc",
+      "title": "Aficionados del Olympiacos ponen apodo “doble sentido” a la Hormiga González en Grecia",
+      "summary": "El delantero mexicano Armando \"Hormiga\" González, recién fichado por el Olympiacos de Grecia, recibió el apodo griego καυλιάρης, que en español se traduce como “cachondo”, provocando una curiosa diferencia cultural entre aficionados griegos y mexicanos mientras se prepara para su debut en la Superliga.",
+      "category": "deportes",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/deportes/2026/08/26/aficionados-del-olympiacos-ponen-apodo-doble-sentido-a-la-hormiga-gonzalez-en-grecia/",
+      "published_at": "2026-08-26T03:55:38+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto usa un tono descriptivo y neutral, sin lenguaje cargado ni selección de fuentes que favorezcan una postura política o ideológica.",
+      "focus_analysis": "El medio se centra en el aspecto cultural del apodo y la reacción de los seguidores, dejando en segundo plano el análisis del desempeño futbolístico del jugador.",
+      "focus_tags": [
+        "cultura deportiva",
+        "apodo",
+        "debut"
+      ],
+      "context": [
+        {
+          "label": "Trayectoria de González",
+          "text": "Armando González se formó en Chivas, donde fue máximo goleador del Apertura 2025 con 12 tantos antes de trasladarse a Europa."
+        },
+        {
+          "label": "Significado del apodo",
+          "text": "En griego, la palabra καυλιάρης (kauliáris) se emplea coloquialmente para describir a alguien enérgico y entusiasta, aunque su traducción literal al español puede interpretarse como “cachondo”."
+        },
+        {
+          "label": "Presencia mexicana en Grecia",
+          "text": "Otro futbolista mexicano, Jordan Silva, ya milita en el club Asteras, lo que indica una creciente participación de jugadores de México en la liga griega."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "6984fdacb794",
       "title": "EU mata a 4 personas en ataque contra embarcación en el Caribe; uman 227 muertos en ofensiva antidrogas",
@@ -956,38 +988,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "02197f47c53b",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
-      "summary": "La ministra de Interior advirtió que Ceuta y Melilla son territorios españoles e intocables mientras el Gobierno crea un mando único bajo Ángel Víctor Torres para gestionar la entrada de inmigrantes, y el PP exige la dimisión de la titular de Defensa, alegando que la crisis se pudo haber evitado.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-25T11:32:56+00:00",
-      "bias_score": -15,
-      "bias_reason": "El texto combina la posición oficial del Gobierno con la crítica del PP, pero el tono y la selección de fuentes siguen la línea editorial de El País, que tiende a presentar la crisis migratoria como un problema de gestión gubernamental y a cuestionar a la derecha.",
-      "focus_analysis": "El artículo se centra en el ángulo político‑institucional y de seguridad, destacando decisiones del Gobierno y reacciones del PP, dejando de lado la perspectiva humanitaria de los migrantes y sus condiciones.",
-      "focus_tags": [
-        "crisis migratoria",
-        "seguridad",
-        "política española"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes de Ceuta",
-          "text": "Ceuta es una ciudad autónoma española en el norte de África que ha sido punto de entrada frecuente de migrantes procedentes de África subsahariana, generando episodios de tensión migraria en los últimos años."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "El Gobierno español ha creado un mando único bajo la dirección de Ángel Víctor Torres para coordinar a las fuerzas de seguridad y el CNI en la gestión de la crisis migratoria en Ceuta."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Euronews Español informó que el presidente Sánchez convocó al Consejo de Seguridad Nacional para tratar la crisis en Ceuta, un detalle que no aparece en la nota de El País América."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }
