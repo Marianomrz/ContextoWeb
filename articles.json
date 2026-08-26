@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T13:09:23.473158+00:00",
+  "generated_at": "2026-08-26T13:20:59.167144+00:00",
   "articles": [
+    {
+      "id": "b5bb7c38a8b1",
+      "title": "Cientos de personas desaparecidos tras riadas e inundaciones en Nepal: lo que sabemos de la catástrofe",
+      "summary": "Una súbita inundación provocada por el desbordamiento del río Bhotekoshi en la frontera entre Nepal y el Tíbet dejó al menos 22 muertos y 384 desaparecidos, entre ellos numerosos turistas de países como India, Reino Unido y Corea del Sur, y ha generado una operación de rescate coordinada por Nepal, India y China.",
+      "category": "internacional",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260826-cientos-de-personas-desaparecidos-tras-riadas-e-inundaciones-en-nepal-lo-que-sabemos-de-la-cat%C3%A1strofe",
+      "published_at": "2026-08-26T13:19:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene objetivo, usando lenguaje descriptivo sin adjetivos cargados y citando fuentes oficiales y expertos, lo que indica una cobertura neutra.",
+      "focus_analysis": "El medio se centra en la dimensión humanitaria del desastre y la cooperación internacional para el rescate, dejando de lado el impacto económico y la discusión sobre el cambio climático.",
+      "focus_tags": [
+        "desastre natural",
+        "coordinación internacional",
+        "turismo afectado"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "En agosto de 2025, una ruptura de lago glaciar en el Tíbet provocó inundaciones similares en la zona fronteriza con Nepal, mostrando la recurrencia de desastres hidrológicos en el Himalaya."
+        },
+        {
+          "label": "vulnerabilidad climática",
+          "text": "Los expertos atribuyen la reciente riada a un alud de hielo y rocas desprendido de un glaciar, un fenómeno cada vez más frecuente por el rápido retroceso de los hielos del Himalaya."
+        },
+        {
+          "label": "respuesta internacional",
+          "text": "India y China enviaron equipos de rescate y recursos a Nepal, una cooperación que se ha repetido en eventos anteriores y que también fue destacada por medios como El País América y Euronews al señalar la coordinación transfronteriza."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "7eae9e5a500c",
       "title": "Cómo desarrollar al talento y evitar la rotación de los colaboradores",
@@ -945,38 +980,6 @@
       "qc": {
         "overall": 8.6
       }
-    },
-    {
-      "id": "0ddbffe0c3c4",
-      "title": "Aseguran armamento en Ciudad Victoria, Tamaulipas; decomiso incluye 590 dosis de marihuana y 50 de metanfetamina",
-      "summary": "La Guardia Nacional y el Ejército de México incautaron en Ciudad Victoria, Tamaulipas, siete armas largas, más de cien cartuchos, dos vehículos y 590 dosis de marihuana junto a 50 de metanfetamina, entregando el material a la Fiscalía General de la República para su investigación.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/aseguran-armamento-en-ciudad-victoria-tamaulipas-decomiso-incluye-590-dosis-de-marihuana-y-50-de-metanfetamina/",
-      "published_at": "2026-08-25T18:19:32+00:00",
-      "bias_score": 20,
-      "bias_reason": "El texto enfatiza la efectividad de las fuerzas de seguridad y utiliza un lenguaje elogioso como \"apego al estado de derecho\", sin presentar críticas ni perspectivas de la comunidad, lo que indica una ligera inclinación pro‑gobierno.",
-      "focus_analysis": "El medio se centra en el éxito de la operación de seguridad y en los números de decomiso, dejando de lado el contexto social del narcotráfico y la posible repercusión en la población local.",
-      "focus_tags": [
-        "seguridad pública",
-        "lucha contra el narcotráfico",
-        "fuerzas armadas"
-      ],
-      "context": [
-        {
-          "label": "situación de seguridad en Tamaulipas",
-          "text": "Tamaulipas ha sido históricamente una de las entidades mexicanas con mayor actividad de grupos delictivos dedicados al narcotráfico y la violencia, lo que genera frecuentes operativos de captura de armas y drogas."
-        },
-        {
-          "label": "rol de la Guardia Nacional",
-          "text": "Creada en 2019, la Guardia Nacional es una fuerza de seguridad pública que depende del Ministerio de Seguridad y tiene como objetivo principal combatir la criminalidad y apoyar a los gobiernos estatales en la preservación del orden."
-        },
-        {
-          "label": "estadísticas nacionales de decomisos",
-          "text": "Según la Secretaría de la Defensa Nacional, en la actual administración se han asegurado más de 25 mil armas de fuego, 4,6 millones de cartuchos y cientos de miles de kilos de marihuana y metanfetamina a nivel nacional."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
