@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T19:01:00.943707+00:00",
+  "generated_at": "2026-08-26T19:14:43.827854+00:00",
   "articles": [
+    {
+      "id": "e960939001c7",
+      "title": "¿Por qué la localidad de Kenscoff le interesa a las bandas armadas haitianas?",
+      "summary": "La localidad haitiana de Kenscoff fue escenario de una masacre que dejó al menos 47 muertos, lo que agudiza la crisis de seguridad en Haití mientras el país se prepara para sus primeras elecciones en una década.",
+      "category": "internacional",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/video/20260826-por-qu%C3%A9-la-localidad-de-kenscoff-le-interesa-a-las-bandas-armadas-haitianas",
+      "published_at": "2026-08-26T19:11:24+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un lenguaje descriptivo y neutral, citando a un analista político y a la Oficina Integrada de la ONU, sin usar vocabulario cargado ni favorecer alguna postura ideológica.",
+      "focus_analysis": "El medio se centra en la dimensión de seguridad y el impacto político del conflicto, dejando de lado un análisis profundo de las causas socio‑económicas que alimentan la violencia de las pandillas.",
+      "focus_tags": [
+        "seguridad",
+        "política",
+        "violencia"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes de violencia",
+          "text": "Haití lleva años inmersa en una ola de violencia de pandillas que ha provocado cientos de muertes y desplazamientos, con grupos armados controlando amplias zonas del territorio."
+        },
+        {
+          "label": "Elecciones próximas",
+          "text": "El país se dirige a sus primeras elecciones presidenciales en diez años, un proceso que ha generado tensiones y temores de que la inseguridad pueda influir en los resultados."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "En la cobertura de BBC News Mundo se destaca el dolor y la rabia de la población local y se menciona que la Oficina Integrada de la ONU en Haití confirmó los hechos y advirtió que la cifra de fallecidos podría incrementarse."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.8
+      }
+    },
     {
       "id": "d086b7c569cc",
       "title": "Cuando la Habana se vuelve selva: Alejo Carpentier y su reino de este mundo",
@@ -974,38 +1009,6 @@
         {
           "label": "tecnológico",
           "text": "Empresas como Amazon ya emplean una gran cantidad de robots en sus almacenes de Chiba, y el gobierno japonés planea carreteras automatizadas entre Tokio y Osaka para 2027."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "56a33a53eeac",
-      "title": "Derechos de audiencias, fin de la consulta pública: CRT",
-      "summary": "La Comisión Reguladora de Telecomunicaciones (CRT) de México anunció que concluirá la consulta pública sobre los nuevos lineamientos para proteger los derechos de las audiencias, un proceso que ha generado críticas de la industria y la sociedad civil por posibles riesgos de censura y discrecionalidad. La versión final será revisada por el pleno de la CRT y publicada en el Diario Oficial.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/opinion/derechos-audiencias-consulta-publica-crt-20260826-830264.html",
-      "published_at": "2026-08-26T07:13:41+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto presenta de manera equilibrada las opiniones del regulador, la industria y la sociedad civil, sin usar lenguaje cargado ni favorecer claramente a un lado; incluye también un apartado económico que refleja la línea editorial del medio.",
-      "focus_analysis": "El medio se centra en el ángulo institucional y regulatorio del proceso de la CRT, resaltando los riesgos de censura y las implicaciones económicas, mientras deja de lado el impacto directo sobre los usuarios y el debate político más amplio.",
-      "focus_tags": [
-        "regulación telecom",
-        "derechos de audiencias",
-        "censura potencial"
-      ],
-      "context": [
-        {
-          "label": "Rol de la CRT",
-          "text": "La Comisión Reguladora de Telecomunicaciones es el organismo autónomo encargado de supervisar y regular los servicios de telecomunicaciones y radiodifusión en México, y ha emitido previamente normas sobre infraestructura, espectro y protección de datos."
-        },
-        {
-          "label": "Resultados de la consulta pública",
-          "text": "Según otras coberturas, alrededor del 82 % de los participantes en la consulta expresaron su rechazo a los lineamientos, temiendo que permitan al gobierno censurar contenidos y limitar la libertad de expresión."
-        },
-        {
-          "label": "Postura de la industria y el gobierno",
-          "text": "La Cámara Nacional de la Industria de la Radio y la Televisión (CIRT) ha señalado ambigüedades en conceptos como \"información falsa\" y ha pedido mayor claridad, mientras que la jefa del Ejecutivo y la consejera jurídica del gobierno han defendido que el objetivo es proteger a las audiencias, no censurar."
         }
       ],
       "confidence": "alta"
