@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:21:49.793064+00:00",
-      "title": "¿Quiénes son los hijos de Heraclio Guerrero Martínez, ‘El Tío Lako’, líder regional del CJNG en Mich",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 6.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 9,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete destaca por su actualidad y estructura clara, pero requiere fuentes más sólidas y mayor objetividad para alcanzar un nivel editorial alto.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:21:57.098958+00:00",
       "title": "“No quiero que mi legado quede reducido a títulos o estadísticas”, la reflexión de Novak Djokovic so",
       "kind": "noticia",
@@ -2721,6 +2704,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T05:00:44.446471+00:00",
+      "title": "Netanyahu obtuvo la guerra, pero... ¿la victoria?",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": false,
+      "overall": 6.0,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 5,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete es puntual y bien estructurado, pero su precisión factual y falta de fuentes contrastantes limitan su calidad editorial.",
+      "error": null
     }
   ]
 }
