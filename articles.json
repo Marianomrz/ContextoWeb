@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T10:08:07.554787+00:00",
+  "generated_at": "2026-08-26T10:21:06.389850+00:00",
   "articles": [
+    {
+      "id": "84ad2313ab71",
+      "title": "Última hora de la entrada de  inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
+      "summary": "El ministerio de Inclusión, Seguridad Social y Migración, encabezado por Elma Saiz, volvió a Ceuta para reforzar los recursos de acogida mientras el presidente de la oposición, Alberto Núñez Feijóo, exigió al CNI que aclare las supuestas versiones del Gobierno sobre la crisis migratoria.",
+      "category": "politica",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
+      "published_at": "2026-08-26T10:18:32+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto presenta tanto la acción gubernamental como la crítica de la oposición sin usar un lenguaje cargado, lo que indica un enfoque mayormente neutral con una ligera tendencia hacia la perspectiva del gobierno.",
+      "focus_analysis": "El medio prioriza la dimensión política e institucional de la crisis, resaltando decisiones y demandas de autoridades, mientras omite la perspectiva humana y el impacto económico en la población de Ceuta.",
+      "focus_tags": [
+        "crisis migratoria",
+        "política española",
+        "Ceuta"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes migratorios",
+          "text": "A finales de julio de 2026, entre 70 000 y 80 000 migrantes cruzaron la frontera desde Marruecos a Ceuta, generando una presión sin precedentes sobre los servicios de acogida y la infraestructura de la ciudad autónoma."
+        },
+        {
+          "label": "Reformas legislativas",
+          "text": "El Gobierno español aprobó dos anteproyectos de ley el 25 de agosto de 2026 para reformar el marco de asilo y extranjería, alineando la normativa nacional con el Pacto Europeo de Migración y Asilo."
+        },
+        {
+          "label": "Reacción de la oposición",
+          "text": "El líder del Partido Popular, Alberto Núñez Feijóo, solicitó al Comité de Inteligencia Nacional que esclarezca supuestas versiones oficiales sobre la gestión de la crisis, demandando mayor transparencia y control."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 8.0
+      }
+    },
     {
       "id": "1a15929bc5ab",
       "title": "DOLLY PARTONEL ÍCONO QUE CAMBIÓ LA MÚSICA",
@@ -945,41 +980,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "545278d3ce94",
-      "title": "Tito Double P llegará con su People Tour & Friends a León",
-      "summary": "El cantante mexicano Tito Double P, reconocido dentro de la generación de corridos tumbados, realizará el 21 de noviembre el concierto \"People Tour & Friends\" en la Explanada Poliforum de León, Guanajuato, con venta de boletos a partir del 29 de agosto a través de Superboletos.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/espectaculos/2026/08/25/tito-double-p-llegara-con-su-people-tour-friends-a-leon-1836308.html",
-      "published_at": "2026-08-25T15:52:10+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto emplea un tono entusiasta y promocional, resaltando la energía del espectáculo y la participación de invitados sin ofrecer críticas ni perspectivas alternativas.",
-      "focus_analysis": "El medio se centra en el aspecto cultural y de entretenimiento del concierto, destacando la música y la experiencia para los seguidores, mientras omite análisis sobre la industria musical o posibles controversias del género.",
-      "focus_tags": [
-        "música mexicana",
-        "gira",
-        "León"
-      ],
-      "context": [
-        {
-          "label": "género",
-          "text": "Los corridos tumbados, estilo al que pertenece Tito Double P, han ganado popularidad internacional en los últimos años, combinando música regional mexicana con influencias urbanas."
-        },
-        {
-          "label": "gira anterior",
-          "text": "En una visita previa, Tito Double P presentó su \"Ay mamá, Tour\" en León, consolidando una base de seguidores locales antes del nuevo evento."
-        },
-        {
-          "label": "lugar del evento",
-          "text": "La Explanada Poliforum de León es un recinto frecuentemente utilizado para conciertos y eventos de gran escala, ofreciendo infraestructura adecuada para producciones musicales de alto nivel."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }
