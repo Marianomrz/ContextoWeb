@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:46:31.713468+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es actual y bien estructurado, pero carece de fuentes contrapuestas y muestra un sesgo liberal que compromete su objetividad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:46:39.400869+00:00",
       "title": "“No quiero que mi legado quede reducido a títulos o estadísticas”, la reflexión de Novak Djokovic so",
       "kind": "noticia",
@@ -2674,6 +2657,17 @@
       "title": "El TSJ de Castilla y León no deja lugar a dudas: entrar 7.685 veces a webs en horas de trabajo es mo",
       "kind": "noticia",
       "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T12:20:42.928464+00:00",
+      "title": "Suiza votará referéndum para reforzar su neutralidad o cooperar con la OTAN",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
