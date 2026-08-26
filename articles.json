@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T04:23:28.457510+00:00",
+  "generated_at": "2026-08-26T04:41:06.611429+00:00",
   "articles": [
+    {
+      "id": "4f6c4c0a3f60",
+      "title": "Ventas de viviendas nuevas en EU caen en julio por debajo de las expectativas",
+      "summary": "En julio de 2026, las ventas de viviendas nuevas en Estados Unidos descendieron un 10,5% respecto a junio, situándose en 607 000 unidades, por debajo de la previsión de analistas de 615 000, mientras que los inventarios aumentaron y los precios medianos se redujeron un 2,3% mensual.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/sectorfinanciero/ventas-viviendas-nuevas-eu-caen-julio-debajo-expectativas-20260825-830225.html",
+      "published_at": "2026-08-26T04:38:40+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta datos oficiales del Departamento de Comercio y de Freddie Mac sin usar lenguaje cargado ni citar fuentes con sesgo político; se limita a describir la evolución del mercado inmobiliario.",
+      "focus_analysis": "El medio se centra en el ángulo económico del mercado de vivienda, resaltando cifras de ventas, inventarios y precios, dejando de lado el impacto social en los compradores ni la posible respuesta de políticas públicas.",
+      "focus_tags": [
+        "vivienda nueva",
+        "EE. UU.",
+        "mercado inmobiliario"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "El mercado de la vivienda en EE. UU. ha mostrado sensibilidad a los cambios en las tasas de interés hipotecario, con caídas de ventas cuando los costos de financiamiento aumentan."
+        },
+        {
+          "label": "Dato comparativo",
+          "text": "En junio de 2026 se registraron 675 000 ventas de viviendas nuevas, superando las expectativas y marcando una mejora temporal antes del descenso de julio."
+        },
+        {
+          "label": "Factor externo",
+          "text": "La Reserva Federal ha mantenido la política monetaria restrictiva, manteniendo las tasas de interés a 30 años alrededor del 6,65%, lo que encarece los créditos hipotecarios y afecta la demanda."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "64c71b6c7caf",
       "title": "Abejas de León pierde contra Diablos Rojos del México… ¡por dos puntos!",
@@ -956,38 +988,6 @@
       "qc": {
         "overall": 8.6
       }
-    },
-    {
-      "id": "9af0c2fe84ee",
-      "title": "Tesla entierra su Solar Roof casi diez años después: las promesas de sus revolucionarias tejas solares que “no salen rentables”",
-      "summary": "Tesla ha dejado de ofrecer su producto Solar Roof, las tejas solares que prometió en 2016 como una solución rentable para hogares, porque la empresa concluyó que no eran rentables y ha pasado a vender únicamente paneles solares convencionales.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/energia/tesla-entierra-su-solar-roof-casi-diez-anos-despues-promesas-sus-revolucionarias-tejas-solares-que-no-salen-rentables",
-      "published_at": "2026-08-25T13:21:04+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se centra en la viabilidad económica del producto y en los problemas técnicos, sin recurrir a lenguaje político ni a fuentes con sesgo ideológico; la crítica es objetiva y basada en datos de costos y rendimiento.",
-      "focus_analysis": "El medio elige un ángulo económico‑tecnológico, resaltando los costos, la baja instalación y los problemas de rendimiento del Solar Roof; deja de lado el impacto humano de los clientes afectados y la dimensión regulatoria o de políticas energéticas.",
-      "focus_tags": [
-        "economía solar",
-        "tecnología energética",
-        "Tesla Solar Roof"
-      ],
-      "context": [
-        {
-          "label": "Adquisición de SolarCity",
-          "text": "En 2016 Tesla adquirió la empresa SolarCity por aproximadamente 2.600 millones de dólares, una operación que fue justificada en su momento como parte de la estrategia para lanzar el Solar Roof."
-        },
-        {
-          "label": "Promesas y resultados de Elon Musk",
-          "text": "Elon Musk anunció que el Solar Roof costaría menos que un tejado tradicional y que se instalarían 1.000 tejados por semana a finales de 2019, pero la empresa solo llegó a instalar entre 20 y 40 por semana, acumulando unos 3.000 sistemas en siete años."
-        },
-        {
-          "label": "Competencia y costos en la industria solar",
-          "text": "Los paneles solares estándar han disminuido de precio gracias a la producción en masa y la presión de fabricantes chinos, mientras que las tejas solares de Tesla requerían una fabricación personalizada que impidió la reducción de costos, situación que también afecta a otros fabricantes de tejas como GAF y Merlin."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
