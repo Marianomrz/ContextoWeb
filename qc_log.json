@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:01:32.402684+00:00",
-      "title": "PlayStation anuncia precio y fecha de los altavoces Pulse Elevate: 219,99 euros, se venden desde el ",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está actualizado y estructurado correctamente, pero la fuente poco fiable y el tono marcadamente promocional limitan su objetividad y credibilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:01:40.432020+00:00",
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes",
       "kind": "noticia",
@@ -2667,6 +2650,17 @@
       },
       "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una cobertura objetiva y bien estructurada, aunque podría reforzar la verificación con citas específicas.",
       "error": null
+    },
+    {
+      "at": "2026-08-26T13:35:39.295325+00:00",
+      "title": "El presidente del Barcelona presionó al Atlético Madrid por el fichaje de Julián Álvarez: “Nos gusta",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }

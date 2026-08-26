@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T13:20:59.167144+00:00",
+  "generated_at": "2026-08-26T13:35:51.485618+00:00",
   "articles": [
+    {
+      "id": "9beb4ae095ae",
+      "title": "El presidente del Barcelona presionó al Atlético Madrid por el fichaje de Julián Álvarez: “Nos gustaría que nuestra oferta fuera aceptada”",
+      "summary": "El presidente del FC Barcelona, Joan Laporta, reiteró su interés en fichar al delantero argentino Julián Álvarez y solicitó al Atlético de Madrid que acepte la oferta del club catalán. Laporta subrayó el respeto institucional y afirmó que la propuesta sigue vigente mientras el Atlético evalúa la posibilidad de vender al jugador.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/08/26/el-presidente-del-barcelona-presiono-al-atletico-madrid-por-el-fichaje-de-julian-alvarez-nos-gustaria-que-nuestra-oferta-fuera-aceptada/",
+      "published_at": "2026-08-26T13:34:03+00:00",
+      "bias_score": 0,
+      "bias_reason": "El artículo se limita a reproducir declaraciones oficiales de los dirigentes del Barcelona y del entrenador, usando un tono respetuoso y sin incluir lenguaje político ni fuentes partidistas, lo que indica una cobertura neutra.",
+      "focus_analysis": "El medio eligió cubrir el ángulo institucional y de negociación del club, destacando las declaraciones de Laporta y la postura del Barcelona, mientras omite la perspectiva del propio jugador y la reacción de los aficionados.",
+      "focus_tags": [
+        "transfer",
+        "club statements",
+        "football"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes del fichaje",
+          "text": "Julián Álvarez, delantero argentino del Atlético de Madrid, ha sido objeto de intensas negociaciones durante el mercado de verano, con varios clubes europeos mostrando interés."
+        },
+        {
+          "label": "Posición del Atlético de Madrid",
+          "text": "El Atlético de Madrid ha indicado que no tiene intención de vender a Álvarez a menos que aparezca una alternativa viable, y ha mantenido conversaciones con otros equipos como el Arsenal."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Otros periódicos, como El País América, describieron la situación como un 'culebrón' y también resaltaron la insistencia de Laporta en la aceptación de la oferta del Barcelona."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "b5bb7c38a8b1",
       "title": "Cientos de personas desaparecidos tras riadas e inundaciones en Nepal: lo que sabemos de la catástrofe",
@@ -945,41 +977,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "c4529318ac78",
-      "title": "Robaron más de 300 drones tras salir del AIFA a empresa china",
-      "summary": "El 19 de agosto de 2026 se sustrajeron 348 drones, cámaras y accesorios de la empresa china DJI al salir del Aeropuerto Internacional Felipe Ángeles, en Zumpango, Estado de México; la compañía y Grupo HB bloquearon los números de serie para impedir su activación y pidieron a la población que no los comercialice.",
-      "category": "economia",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/25/robaron-mas-de-300-drones-tras-salir-del-aifa-a-empresa-china/",
-      "published_at": "2026-08-25T18:38:28+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y evita lenguaje cargado; solo cita a la empresa DJI y a Grupo HB, sin incorporar opiniones políticas ni fuentes gubernamentales que inclinen la cobertura.",
-      "focus_analysis": "El medio se centró en el aspecto económico y técnico del robo, describiendo el bloqueo de serie y el impacto en el mercado, mientras que dejó de lado la perspectiva de seguridad pública o de los posibles perpetradores.",
-      "focus_tags": [
-        "robo de drones",
-        "seguridad aeroportuaria",
-        "bloqueo de serie"
-      ],
-      "context": [
-        {
-          "label": "Participación de DJI en el mercado",
-          "text": "DJI controla entre el 70% y 80% del mercado mundial de drones civiles, lo que la convierte en una empresa de gran relevancia tanto para usuarios profesionales como para consumidores."
-        },
-        {
-          "label": "AIFA y seguridad",
-          "text": "El Aeropuerto Internacional Felipe Ángeles, inaugurado en 2022, ha sido objeto de críticas por su infraestructura de seguridad, y este robo subraya los desafíos que enfrenta en la protección de mercancías."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Economista también informó del robo y del bloqueo de los equipos, enfatizando la respuesta de Grupo HB y la necesidad de evitar la comercialización de los drones robados."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }
