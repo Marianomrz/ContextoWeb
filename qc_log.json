@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T16:05:26.166094+00:00",
-      "title": "Sheinbaum reacciona a la detención de Fausto Corrales",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-20T16:20:51.414689+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: por primera vez Cynthia, Yahir, Ese Pér",
       "kind": "noticia",
@@ -2678,6 +2667,23 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, fuentes contrastadas, objetividad y actualidad, presentando la información de forma clara y estructurada.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T19:40:39.777667+00:00",
+      "title": "PAN exige desaparición de poderes en Sinaloa: considera que existe una crisis de ingobernabilidad",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 6.8,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 4,
+        "objetividad_imparcialidad": 6,
+        "actualidad": 9,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con la estructura y actualidad, pero necesita incorporar fuentes múltiples y confirmar la precisión de conceptos constitucionales para alcanzar un nivel editorial más alto.",
       "error": null
     }
   ]
