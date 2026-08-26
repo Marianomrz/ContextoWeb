@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:02:24.258755+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 9,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión y actualidad, aunque podría mejorar la inclusión de fuentes contrastantes y reducir la percepción de sesgo editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:02:31.744834+00:00",
       "title": "Los widgets cambian para siempre en los móviles Samsung: One UI 9.5 tiene una opción para crearlos t",
       "kind": "noticia",
@@ -2655,6 +2638,17 @@
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, y está actualizado y bien respaldado por fuentes.",
       "error": null
+    },
+    {
+      "at": "2026-08-26T14:53:57.477037+00:00",
+      "title": "El perfil psicológico de El Chapo Guzmán: expertos no habrían logrado definirlo, afirma actor de ‘La",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
