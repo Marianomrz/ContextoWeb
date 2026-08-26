@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T08:21:02.028257+00:00",
+  "generated_at": "2026-08-26T08:41:07.211722+00:00",
   "articles": [
+    {
+      "id": "db0500a08b53",
+      "title": "La Casa de los Famosos México EN VIVO: Yanet García es eliminada del reality",
+      "summary": "Yanet García, modelo y presentadora regiomontana, fue eliminada de La Casa de los Famosos México 2026 tras una votación interna de los habitantes de la casa, en medio de polémicas sobre su desempeño y acusaciones de posible manipulación de resultados.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/08/25/la-casa-de-los-famosos-mexico-2026-en-vivo-masad-es-lider-y-ese-perez-con-yanet-garcia-a-una-linea-de-la-eliminacion/",
+      "published_at": "2026-08-26T08:33:12+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir los hechos del reality y las reacciones del público y participantes, sin usar lenguaje cargado ni citar fuentes con sesgo político.",
+      "focus_analysis": "El medio se centró en el drama humano y las controversias del programa, dejando de lado un análisis institucional profundo de la producción o de la lógica de la votación.",
+      "focus_tags": [
+        "reality show",
+        "eliminación",
+        "controversia"
+      ],
+      "context": [
+        {
+          "label": "antecedentes del programa",
+          "text": "La Casa de los Famosos México es la versión local del reality de Televisa, transmitido 24/7 en ViX+, donde los concursantes conviven bajo vigilancia y enfrentan pruebas y nominaciones semanales."
+        },
+        {
+          "label": "dinámica de votación",
+          "text": "En esta edición, por primera vez, los propios habitantes de la casa decidieron la eliminación, en lugar del público, lo que generó sorpresa y críticas sobre la transparencia del proceso."
+        },
+        {
+          "label": "cobertura de medios externos",
+          "text": "Otros medios como El Universal y Periódico AM destacaron la polémica por supuesta manipulación de votos y la acusación de fraude por parte de la hermana de Yanet García, enfatizando el debate sobre la legitimidad del programa."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "9ac8f05c3996",
       "title": "Que Japón tenga 100.000 personas mayores de 100 años explica un problema: se están quedando sin conductores, literalmente",
@@ -948,38 +983,6 @@
       "qc": {
         "overall": 9.2
       }
-    },
-    {
-      "id": "c548b5b2b71f",
-      "title": "Baja California refuerza seguridad en Mexicali ante alerta de EU; suspenden viajes hacia la capital por una amenaza no especificada",
-      "summary": "El gobierno del estado de Baja California reforzó la seguridad en Mexicali y suspendió los viajes a la capital tras una alerta de seguridad emitida por el Departamento de Estado de EE. UU., sin especificar la naturaleza de la amenaza.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/baja-california-refuerza-seguridad-en-mexicali-ante-alerta-de-eu-suspenden-viajes-hacia-la-capital-por-una-amenaza-no-especificada/",
-      "published_at": "2026-08-25T14:51:58+00:00",
-      "bias_score": 5,
-      "bias_reason": "El artículo se basa exclusivamente en declaraciones oficiales y no incluye análisis crítico ni fuentes independientes, manteniendo un tono neutral y centrado en la respuesta institucional.",
-      "focus_analysis": "El medio se centró en la respuesta institucional y la coordinación de seguridad entre los distintos niveles de gobierno, dejando de lado cualquier discusión sobre el origen de la amenaza o sus implicaciones geopolíticas.",
-      "focus_tags": [
-        "seguridad",
-        "gobierno",
-        "alerta EE.UU."
-      ],
-      "context": [
-        {
-          "label": "Alerta de EE.UU.",
-          "text": "El Departamento de Estado de Estados Unidos emitió una alerta de seguridad para Mexicali, indicando que las actividades gubernamentales de sus ciudadanos y los viajes hacia la ciudad estaban suspendidos por una amenaza no especificada."
-        },
-        {
-          "label": "Reacción de autoridades locales",
-          "text": "La gobernadora Marina del Pilar y el secretario de Seguridad Ciudadana, General Laureano Carrillo, anunciaron la activación de operativos de patrullaje y vigilancia, involucrando a la Guardia Nacional, la Marina, la Sedena, la Fiscalía General de la República y otras dependencias para proteger la tranquilidad de la población."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "Mientras El Universal se limitó a los comunicados oficiales, Aristegui Noticias resaltó los consejos del consulado estadounidense a sus ciudadanos, e Infobae México especuló que la alerta podría haber sido provocada por acciones rusas, ofreciendo interpretaciones no presentes en la nota principal."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

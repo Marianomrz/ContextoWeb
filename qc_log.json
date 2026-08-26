@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:45:30.159470+00:00",
-      "title": "Max Verstappen terminó con los rumores sobre su salida de la Fórmula 1 y renovó contrato con Red Bul",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, pero la falta de fuentes corroborativas disminuye su veracidad.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:45:39.770624+00:00",
       "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
       "kind": "noticia",
@@ -2697,6 +2680,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T08:40:44.550538+00:00",
+      "title": "La Casa de los Famosos México EN VIVO: Yanet García es eliminada del reality",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, contrastada y objetiva, estructurada de forma adecuada.",
+      "error": null
     }
   ]
 }
