@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:45:39.770624+00:00",
-      "title": "La Casa de los Famosos México 2026 EN VIVO hoy 20 de agosto: la cuarta Gala de Nominación deja a 9 h",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.4,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales, presenta la información de forma clara y verificable, aunque la profundidad de fuentes podría ampliarse.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T09:45:52.737957+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Empieza el desalojo de migrantes de l",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, contraste de fuentes, objetividad, actualidad y estructura, pese a pequeñas dudas sobre la verificabilidad de algunos nombres.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:46:02.398234+00:00",
       "title": "China produce tanta energía limpia que la está tirando. Sus sobras podrían alimentar México durante ",
       "kind": "noticia",
@@ -2697,6 +2663,34 @@
       },
       "observacion": "El paquete cumple con los estándares editoriales, ofreciendo una información veraz, contrastada y objetiva, estructurada de forma adecuada.",
       "error": null
+    },
+    {
+      "at": "2026-08-26T09:52:23.417472+00:00",
+      "title": "El Gobierno español planea introducir normas más estrictas a los centros de datos tras la avalancha ",
+      "kind": "noticia",
+      "category": "tecnologia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de objetividad y actualidad, aunque podría reforzarse con fuentes más específicas y un contraste más amplio de voces.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T09:52:27.898152+00:00",
+      "title": "DOLLY PARTONEL ÍCONO QUE CAMBIÓ LA MÚSICA",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
