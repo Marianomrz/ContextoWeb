@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T01:40:58.853676+00:00",
+  "generated_at": "2026-08-26T01:51:50.015776+00:00",
   "articles": [
+    {
+      "id": "bf9c746ca116",
+      "title": "Sicario llega hasta barbería de Irapuato y al tener de frente al peluquero le dispara tres veces",
+      "summary": "Un peluquero de Irapuato, Guanajuato, resultó gravemente herido tras ser atacado a tiros dentro de su barbería en la colonia Flores Magón Sur el 25 de agosto.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/irapuato/2026/08/25/sicario-llega-hasta-barberia-de-irapuato-y-al-tener-de-frente-al-peluquero-le-dispara-tres-veces-1836592.html",
+      "published_at": "2026-08-26T01:51:08+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos sin usar vocabulario cargado, sin citar fuentes con sesgo y sin incluir opiniones o juicios políticos.",
+      "focus_analysis": "El medio se centra en el hecho del ataque armado y la víctima, omitiendo el contexto de seguridad pública y posibles motivaciones del delito.",
+      "focus_tags": [
+        "violencia",
+        "ataque armado",
+        "seguridad pública"
+      ],
+      "context": [
+        {
+          "label": "Aumento de la violencia en Guanajuato",
+          "text": "En los últimos años, el estado de Guanajuato ha registrado un incremento de los índices de homicidios y agresiones armadas, especialmente en zonas urbanas como Irapuato."
+        },
+        {
+          "label": "Presencia de la Guardia Nacional",
+          "text": "El gobierno federal ha desplegado a la Guardia Nacional en varios municipios de Guanajuato para reforzar la seguridad y combatir la criminalidad organizada."
+        },
+        {
+          "label": "Ataques a pequeños comercios",
+          "text": "Diversos medios locales han reportado incidentes similares en los que negocios pequeños, como barberías y tiendas, son objetivo de asaltos con armas de fuego."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "994100140515",
       "title": "Fuego & Café: la casa tostadora que debes conocer en CDMX",
@@ -956,41 +988,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "567d93b5b3ba",
-      "title": "La Carta Magna registra 370 reformas",
-      "summary": "La Constitución Política de los Estados Unidos Mexicanos ha experimentado 370 reformas en los últimos quince años, lo que representa una aceleración notable respecto a los 503 cambios acumulados entre 1917 y 2010, según el profesor Francisco Burgoa Perea de la UNAM.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/la-carta-magna-registra-370-reformas/",
-      "published_at": "2026-08-25T09:16:32+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a datos y citas académicas sin usar lenguaje cargado ni favorecer a ningún partido, manteniendo un tono informativo y neutro.",
-      "focus_analysis": "El artículo se centra en el ángulo institucional e histórico, cuantificando las reformas constitucionales y citando a un experto, pero omite el impacto social y político de dichos cambios en la ciudadanía.",
-      "focus_tags": [
-        "reformas constitucionales",
-        "historia legal",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "antecedentes históricos",
-          "text": "Desde su promulgación en 1917, la Constitución mexicana había acumulado 503 reformas hasta el año 2010, lo que muestra una tasa de cambio más lenta antes del periodo reciente."
-        },
-        {
-          "label": "datos recientes",
-          "text": "En los últimos quince años se han registrado 370 reformas, dejando sin cambios solo 17 de los 136 artículos originales, lo que equivale al 12.5% del texto constitucional."
-        },
-        {
-          "label": "debate institucional",
-          "text": "Expertos de la UNAM y del Museo de las Constituciones destacan que la reforma al Poder Judicial, que propone la elección popular de jueces, sigue generando controversia sobre su efectividad y acceso a la justicia."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }
