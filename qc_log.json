@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:01:56.565636+00:00",
-      "title": "Max Verstappen terminó con los rumores sobre su salida de la Fórmula 1 y renovó contrato con Red Bul",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": false,
-      "overall": 7.4,
-      "scores": {
-        "veracidad_precision": 3,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete tiene problemas de veracidad y falta de fuentes múltiples, aunque es actual y estructurado correctamente.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T10:02:05.656140+00:00",
-      "title": "Ola progresista continúa su avance en el partido demócrata",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 3,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El artículo carece de veracidad y fuentes contrastadas, mostrando sesgo a favor del progresismo; aunque es actual y está estructurado adecuadamente, no cumple los estándares de objetividad y precisión requeridos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:02:11.318306+00:00",
       "title": "Primero la paria",
       "kind": "noticia",
@@ -2655,6 +2621,40 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T14:20:56.152932+00:00",
+      "title": "Trump no cree que el líder iraní Mojtaba Jamenei esté muerto",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 5.4,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 4,
+        "actualidad": 10,
+        "estructura_piramide": 8
+      },
+      "observacion": "El paquete presenta datos falsos y falta de fuentes contrastantes, lo que compromete su veracidad y objetividad, pese a estar actualizado y bien estructurado.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T14:21:00.789083+00:00",
+      "title": "Caen dos choferes de autobús con 10 paquetes de fentanilo y 8 de heroína",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad informativa, aunque podría reforzar la verificación con citas directas a fuentes oficiales.",
+      "error": null
     }
   ]
 }

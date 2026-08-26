@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T14:00:59.830781+00:00",
+  "generated_at": "2026-08-26T14:21:10.822828+00:00",
   "articles": [
+    {
+      "id": "f6d48b7e3e49",
+      "title": "Caen dos choferes de autobús con 10 paquetes de fentanilo y 8 de heroína",
+      "summary": "Las autoridades mexicanas detuvieron a dos conductores de autobús en Sonora y decomisaron 10 kg de fentanilo y 8 kg de heroína ocultos en un compartimento del vehículo, en el marco de la intensificación de los operativos contra el narcotráfico sintético entre México y Estados Unidos.",
+      "category": "politica",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/2608/mexico/caen-dos-choferes-de-autobus-con-10-paquetes-de-fentanilo-y-8-de-heroina/",
+      "published_at": "2026-08-26T14:17:42+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos oficiales sin usar vocabulario cargado y cita únicamente a fuentes gubernamentales, manteniendo un tono neutro y informativo.",
+      "focus_analysis": "El medio prioriza el ángulo de seguridad y control del tráfico de drogas, resaltando la cooperación binacional y la presión de Washington; omite el impacto humano de los arrestos y cualquier análisis de las causas estructurales del narcotráfico.",
+      "focus_tags": [
+        "seguridad",
+        "tráfico de drogas",
+        "cooperación México-EEUU"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes",
+          "text": "En los últimos años, el fentanilo se ha convertido en la sustancia sintética más mortal en la frontera, impulsando una ola de operativos de decomiso y destrucción de laboratorios clandestinos por parte del gobierno mexicano."
+        },
+        {
+          "label": "Datos comparables",
+          "text": "Según datos de la Secretaría de Seguridad y Protección Ciudadana, los decomisos de fentanilo en la región noroeste de México han aumentado un 35 % en el último año, reflejando la mayor presión de Estados Unidos para frenar el flujo de drogas."
+        },
+        {
+          "label": "Posturas de otros medios",
+          "text": "El Universal cubrió el mismo hecho enfatizando la cantidad de droga incautada y la ubicación del busto, subrayando el carácter criminal de los detenidos sin profundizar en la estrategia gubernamental."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "e29122843915",
       "title": "‘¿Por qué esperó nueve meses?’: Grecia Quiroz a exsecretaria de Manzo",
@@ -945,38 +980,6 @@
         {
           "label": "Cobertura de La Jornada Deportes",
           "text": "Otro medio resaltó la plata obtenida por México en la prueba de equipo mixto y la quinta medalla total del país, enfocándose en el acumulado de podios más que en la actuación individual de las gemelas."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "97e96be9b09b",
-      "title": "De ser campeón con Boca y jugar en la Selección a brillar en el básquet con 44 años: la actuación de Rodrigo Palacio en una liga regional",
-      "summary": "El exdelista argentino Rodrigo Palacio, quien jugó en Boca Juniors y la selección nacional, a los 44 años destacó con 12 puntos y 6 asistencias en la liga regional de básquet de Tres Arroyos.",
-      "category": "deportes",
-      "source_name": "Infobae Deportes",
-      "source_url": "https://www.infobae.com/deportes/2026/08/25/de-ser-campeon-con-boca-y-jugar-en-la-seleccion-a-brillar-en-el-basquet-con-44-anos-la-actuacion-de-rodrigo-palacio-en-una-liga-regional/",
-      "published_at": "2026-08-25T20:19:33+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos deportivos y elogiar la actuación sin usar lenguaje cargado ni citas que indiquen una postura política.",
-      "focus_analysis": "El medio se centró en la historia personal y el regreso de Palacio al deporte, resaltando su desempeño y la sorpresa del público, mientras deja de lado el análisis del nivel competitivo de la liga o el contexto del básquet regional.",
-      "focus_tags": [
-        "deporte",
-        "carrera deportiva",
-        "basketball"
-      ],
-      "context": [
-        {
-          "label": "Trayectoria futbolística de Rodrigo Palacio",
-          "text": "Rodrigo Palacio, nacido en 1982 en Bahía Blanca, jugó en Boca Juniors, el Inter de Milán y la selección argentina, participando en la final del Mundial 2014."
-        },
-        {
-          "label": "Liga Intermedia de Tres Arroyos",
-          "text": "La Liga Intermedia de Tres Arroyos es una competición regional de básquet en la provincia de Buenos Aires, donde equipos locales compiten en torneos anuales."
-        },
-        {
-          "label": "Exfutbolistas que practican otros deportes",
-          "text": "Varios exfutbolistas, como Juan Román Riquelme y Pablo Aimar, han incursionado en el básquet o el fútbol sala después de retirarse, demostrando la transición de atletas entre disciplinas."
         }
       ],
       "confidence": "alta"
