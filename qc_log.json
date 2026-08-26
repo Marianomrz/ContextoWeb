@@ -1,28 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T18:20:47.113083+00:00",
-      "title": "Pepe Salinas y Eduardo Figueroa ganan Copa Jerez México 2026 y van por el título internacional",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
-      "at": "2026-08-20T18:40:52.247162+00:00",
-      "title": "Olinia Carga llegará en 2027",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-20T18:53:09.171499+00:00",
       "title": "¿Qué está pasando en el Metro CDMX y Metrobús hoy 20 de agosto? Líneas del MB afectadas por manifest",
       "kind": "noticia",
@@ -2672,6 +2650,34 @@
     {
       "at": "2026-08-26T20:00:43.156430+00:00",
       "title": "Mónica Soto no acude a su última sesión en el Tribunal Electoral; renuncia entra en vigor el lunes",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T20:20:43.208237+00:00",
+      "title": "‘Geraldinita’, la muñeca que lanzó Geraldine Ponce al estilo AMLO",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": false,
+      "overall": 7.4,
+      "scores": {
+        "veracidad_precision": 4,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente objetivo y actual, pero presenta imprecisiones factuales y falta de fuentes contrastantes, lo que reduce su calidad editorial.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T20:20:45.771417+00:00",
+      "title": "Graciela Domínguez afirma que llegó para servir y trabajar con la gente; asegura que se cumplimentar",
       "kind": "noticia",
       "category": "politica",
       "approved": true,

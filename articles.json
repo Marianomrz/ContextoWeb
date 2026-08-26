@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T20:01:03.691318+00:00",
+  "generated_at": "2026-08-26T20:21:05.493407+00:00",
   "articles": [
+    {
+      "id": "a6981584cd5e",
+      "title": "Graciela Domínguez afirma que llegó para servir y trabajar con la gente; asegura que se cumplimentaran todos los compromisos",
+      "summary": "Graciela Domínguez Nava, gobernadora interina de Sinaloa, declaró que su mandato está orientado a servir a la población, cumplir los compromisos pendientes como los pagos a los agricultores y respetar la pluralidad política.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/estados/graciela-dominguez-afirma-que-llego-para-servir-y-trabajar-con-la-gente-asegura-que-se-cumplimentaran-todos-los-compromisos/",
+      "published_at": "2026-08-26T20:15:36+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea un tono mayormente elogioso y solo reproduce declaraciones oficiales, sin incluir voces críticas ni análisis contrapuestos, lo que indica una ligera inclinación favorable al gobierno.",
+      "focus_analysis": "El medio se centra en la presentación institucional y los compromisos de la nueva gobernadora, dejando de lado los posibles retos económicos y la oposición política.",
+      "focus_tags": [
+        "política estatal",
+        "promesas gubernamentales",
+        "agricultura"
+      ],
+      "context": [
+        {
+          "label": "designación",
+          "text": "El Congreso de Sinaloa nombró a Graciela Domínguez Nava como gobernadora interina con 31 votos a favor y seis en contra, sustituyendo a Rubén Rocha Moya, quien solicitó una licencia temporal."
+        },
+        {
+          "label": "dinámica interna",
+          "text": "Según informes de El Informador, a pesar de su aparente caída política, la nueva gobernadora podría mantener la influencia del anterior mandatario a través de aliados leales dentro del partido Morena."
+        },
+        {
+          "label": "apoyos agrícolas",
+          "text": "Los agricultores de Sinaloa esperan el pago de los apoyos estatales de 400 pesos por tonelada de maíz, un compromiso pendiente que la gobernadora interina se comprometió a revisar con el gobierno federal."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "afc0a0e728ed",
       "title": "Mónica Soto no acude a su última sesión en el Tribunal Electoral; renuncia entra en vigor el lunes",
@@ -976,41 +1008,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.2
-      }
-    },
-    {
-      "id": "db0500a08b53",
-      "title": "La Casa de los Famosos México EN VIVO: Yanet García es eliminada del reality",
-      "summary": "Yanet García, modelo y presentadora regiomontana, fue eliminada de La Casa de los Famosos México 2026 tras una votación interna de los habitantes de la casa, en medio de polémicas sobre su desempeño y acusaciones de posible manipulación de resultados.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/25/la-casa-de-los-famosos-mexico-2026-en-vivo-masad-es-lider-y-ese-perez-con-yanet-garcia-a-una-linea-de-la-eliminacion/",
-      "published_at": "2026-08-26T08:33:12+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir los hechos del reality y las reacciones del público y participantes, sin usar lenguaje cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El medio se centró en el drama humano y las controversias del programa, dejando de lado un análisis institucional profundo de la producción o de la lógica de la votación.",
-      "focus_tags": [
-        "reality show",
-        "eliminación",
-        "controversia"
-      ],
-      "context": [
-        {
-          "label": "antecedentes del programa",
-          "text": "La Casa de los Famosos México es la versión local del reality de Televisa, transmitido 24/7 en ViX+, donde los concursantes conviven bajo vigilancia y enfrentan pruebas y nominaciones semanales."
-        },
-        {
-          "label": "dinámica de votación",
-          "text": "En esta edición, por primera vez, los propios habitantes de la casa decidieron la eliminación, en lugar del público, lo que generó sorpresa y críticas sobre la transparencia del proceso."
-        },
-        {
-          "label": "cobertura de medios externos",
-          "text": "Otros medios como El Universal y Periódico AM destacaron la polémica por supuesta manipulación de votos y la acusación de fraude por parte de la hermana de Yanet García, enfatizando el debate sobre la legitimidad del programa."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]
