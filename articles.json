@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T15:00:51.975292+00:00",
+  "generated_at": "2026-08-26T16:00:58.257024+00:00",
   "articles": [
+    {
+      "id": "fba2ff2296ac",
+      "title": "Conoce las 5 situaciones que pueden afectar una visa estadounidense",
+      "summary": "El Departamento de Estado de Estados Unidos ha anulado más de 175 000 visas bajo el argumento de que la visa es un privilegio y no un derecho, lo que ha generado preocupación entre los empresarios y ejecutivos mexicanos que viajan frecuentemente a EE. UU. por negocios o turismo.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/los-especiales/conoce-5-situaciones-afectar-visa-estadounidense-20260826-830216.html",
+      "published_at": "2026-08-26T16:00:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se mantiene descriptivo y neutral, sin usar vocabulario cargado ni favorecer a ninguna posición política; se limita a informar sobre la medida y sus repercusiones empresariales.",
+      "focus_analysis": "El medio elige un ángulo económico, resaltando cómo la revocación de visas afecta la planificación y la operatividad de las empresas mexicanas, mientras deja de lado el contexto diplomático o los debates sobre política migratoria de EE. UU.",
+      "focus_tags": [
+        "visas estadounidenses",
+        "empresarios mexicanos",
+        "política migratoria"
+      ],
+      "context": [
+        {
+          "label": "Política migratoria de EE. UU",
+          "text": "Estados Unidos ha reforzado su política de control migratorio en los últimos años, aplicando revisiones y revocaciones de visas bajo criterios de seguridad y cumplimiento de los requisitos de cada categoría."
+        },
+        {
+          "label": "Impacto en el sector empresarial mexicano",
+          "text": "Los ejecutivos y empresarios mexicanos dependen frecuentemente de visas B1/B2 para asistir a reuniones, negociaciones y eventos, por lo que la pérdida de una visa puede interrumpir proyectos y generar pérdidas económicas."
+        },
+        {
+          "label": "Marco legal de la revocación",
+          "text": "La revocación de visas se basa en la normativa de inmigración de EE. UU, que permite anular una visa por sobrepasar el periodo autorizado, realizar actividades no permitidas, proporcionar información falsa o incurrir en violaciones migratorias."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "3bed59358c83",
       "title": "El perfil psicológico de El Chapo Guzmán: expertos no habrían logrado definirlo, afirma actor de ‘La Captura’",
@@ -954,38 +989,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "767afae93a0e",
-      "title": "Juez suspende provisionalmente proyecto \"Las Dunas\" en Yucatán; habitantes señalan violaciones a derechos humanos ambientales",
-      "summary": "El juez federal del Juzgado Primero de Distrito en Yucatán concedió una suspensión provisional al proyecto turístico Las Dunas en Chuburná Puerto, tras el amparo presentado por los colectivos Kanan Derechos Humanos y Salvemos Las Dunas, que alegan violaciones a derechos humanos ambientales y falta de participación pública en la autorización municipal.",
-      "category": "sociedad",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/juez-suspende-provisionalmente-proyecto-las-dunas-en-yucatan-habitantes-senalan-violaciones-a-derechos-humanos-ambientales/",
-      "published_at": "2026-08-25T23:17:04+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto mantiene un tono informativo, citando tanto la decisión judicial como los argumentos de los colectivos, sin usar lenguaje cargado ni favorecer a ninguna posición política.",
-      "focus_analysis": "El medio se centra en el aspecto ambiental y de derechos humanos del caso, resaltando la suspensión judicial y la protesta de la comunidad; omite la perspectiva económica del proyecto turístico y los intereses del sector privado.",
-      "focus_tags": [
-        "derechos humanos ambientales",
-        "suspensión judicial",
-        "participación pública"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes legales",
-          "text": "El proyecto Las Dunas ya había sido suspendido previamente por la Procuraduría Federal de Protección al Ambiente (Profepa) antes de la intervención del juez federal."
-        },
-        {
-          "label": "Marco jurídico",
-          "text": "En México, el amparo es una herramienta constitucional que permite a ciudadanos y colectivos impugnar actos de autoridad que supuestamente vulneren derechos humanos, incluidos los ambientales."
-        },
-        {
-          "label": "Conflictos similares",
-          "text": "Diversas regiones de México han registrado disputas entre desarrollos turísticos y comunidades locales, donde organizaciones de derechos humanos han demandado mayor participación y protección del medio ambiente."
-        }
-      ],
-      "confidence": "media"
     }
   ]
 }

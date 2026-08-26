@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:02:31.744834+00:00",
-      "title": "Los widgets cambian para siempre en los móviles Samsung: One UI 9.5 tiene una opción para crearlos t",
-      "kind": "noticia",
-      "category": "tecnologia",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es en su pero tiene recientes al en fuentes y precisión de datos, lo que limita su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T10:02:41.134394+00:00",
-      "title": "La CPI separa el caso talibán del de EEUU, el futuro de las afganas sigue incierto",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.6,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 5,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete contiene información reciente y bien estructurada, pero presenta imprecisiones y una cobertura parcial que limita su objetividad y contraste de fuentes.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:02:44.160979+00:00",
       "title": "León cumple 82 años, suma 5 victorias al hilo… y ya tiene fecha límite para Grupo Pachuca",
       "kind": "noticia",
@@ -2649,6 +2615,40 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T16:00:41.483958+00:00",
+      "title": "Muere Tim Curry, icónico actor de ‘It’, ‘The Rocky Horror Picture Show’, ‘Clue’…",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": false,
+      "overall": 6.6,
+      "scores": {
+        "veracidad_precision": 2,
+        "contraste_fuentes": 3,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "Aunque la redacción es neutral y estructurada, la falta de verificación de la muerte de Tim Curry compromete gravemente la credibilidad del artículo.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T16:00:47.221477+00:00",
+      "title": "Conoce las 5 situaciones que pueden afectar una visa estadounidense",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de fuentes específicas para la cifra reduce ligeramente la puntuación de veracidad.",
+      "error": null
     }
   ]
 }
