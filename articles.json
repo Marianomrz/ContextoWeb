@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T18:20:47.320741+00:00",
+  "generated_at": "2026-08-26T18:40:57.745993+00:00",
   "articles": [
+    {
+      "id": "b4b7cdd06ff4",
+      "title": "Reinicia audiencia de Fernando \"N\", presunto líder de grupo dedicado al huachicol fiscal",
+      "summary": "Fernando Farías Laguna, excontralmirante de la Marina y presunto líder de una red de huachicol fiscal, volvió a estar bajo audiencia inicial mediante videoconferencia, tras la solicitud de su defensa de ampliar el plazo para presentar pruebas.",
+      "category": "politica",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/reinicia-audiencia-de-fernando-farias-laguna-presunto-lider-de-grupo-dedicado-al-huachicol-fiscal-20260826-0103.html",
+      "published_at": "2026-08-26T18:39:00+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos judiciales y declaraciones oficiales sin usar vocabulario cargado ni citar fuentes partidistas, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el aspecto institucional y procesal del caso, dejando de lado el impacto social del huachicol fiscal y la posible implicación de otros actores del crimen organizado.",
+      "focus_tags": [
+        "procedimiento judicial",
+        "huachicol fiscal",
+        "defensa legal"
+      ],
+      "context": [
+        {
+          "label": "antecedentes legales",
+          "text": "En los últimos años, la Fiscalía General de la República ha perseguido a varios exfuncionarios y empresarios vinculados al contrabando de combustible, logrando detenciones y condenas que buscan desarticular la red de huachicol fiscal en México."
+        },
+        {
+          "label": "postura de la FGR",
+          "text": "La FGR ha declarado que intensificará sus acciones contra el huachicol fiscal, considerando al delito como una amenaza a la seguridad nacional y al erario público."
+        },
+        {
+          "label": "cobertura de otros medios",
+          "text": "Otro diario nacional informó sobre la captura de \"Koki\", presunto líder de una organización delictiva en Hidalgo, subrayando que la operación forma parte de un esfuerzo más amplio contra el contrabando de hidrocarburos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "e48f5f302c87",
       "title": "Localizan camión con 58 migrantes dentro; investiga la implicación de \"red clandestina organizada\"",
@@ -973,39 +1008,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "d086b7c569cc",
-      "title": "Semillas de palabras: la migración literaria de Valeria Luiselli",
-      "summary": "Una maleta abierta, sus páginas sueltas como semillas que se despliegan en el aire, lleva consigo el eco de voces que cruzan fronteras. En la obra de Valeria Luiselli, cada relato es una hoja que germina en tierra ajena, revelando la extraña belleza de la desorientación.",
-      "category": "literatura",
-      "source_name": "Contexto · redacción propia",
-      "source_url": "",
-      "published_at": "2026-08-26T06:00:45.163063+00:00",
-      "bias_score": 0,
-      "bias_reason": "",
-      "focus_analysis": "Elegí este tema porque la migración sigue marcando la literatura global, y Luiselli, con su estilo preciso, captura la tensión entre pertenencia y desplazamiento. Hoy, al cerrar la ventana del verano, sus palabras nos recuerdan que el hogar es una construcción itinerante.",
-      "focus_tags": [
-        "Migración",
-        "Contemporánea",
-        "México"
-      ],
-      "context": [
-        {
-          "label": "Descubre a Valeria Luiselli",
-          "text": "Comienza leyendo 'Los niños en la niebla', una novela corta que mezcla memorias familiares con la experiencia del exilio, y revela su voz íntima."
-        },
-        {
-          "label": "Obras afines",
-          "text": "Si te atrapa su estilo, avanza a 'Desierto sonoro', una colección de ensayos que exploran la frontera entre lo físico y lo narrativo, y luego a 'La historia de mi cuerpo', donde el cuerpo mismo se vuelve mapa."
-        },
-        {
-          "label": "Marco de la migración literaria",
-          "text": "El auge de la literatura de la diáspora en América Latina, impulsado por autores como Luiselli, Claudia Piñeiro y Junot Díaz, refleja una paradoja: la pérdida de territorio genera nuevos territorios narrativos."
-        }
-      ],
-      "confidence": "alta",
-      "editorial_pick": true
     }
   ]
 }
