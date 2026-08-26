@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:45:19.223248+00:00",
-      "title": "Una linterna en la niebla: la melancolía de Yasunari Kawabata",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.2,
-      "scores": {
-        "originalidad_creatividad": 6,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 7
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una presentación atractiva y coherente aunque con ciertas ideas habituales.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:45:30.159470+00:00",
       "title": "Max Verstappen terminó con los rumores sobre su salida de la Fórmula 1 y renovó contrato con Red Bul",
       "kind": "noticia",
@@ -2698,6 +2681,17 @@
       "title": "Derechos de audiencias, fin de la consulta pública: CRT",
       "kind": "noticia",
       "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T07:40:39.989163+00:00",
+      "title": "Que Japón tenga 100.000 personas mayores de 100 años explica un problema: se están quedando sin cond",
+      "kind": "noticia",
+      "category": "tecnologia",
       "approved": true,
       "overall": null,
       "scores": {},

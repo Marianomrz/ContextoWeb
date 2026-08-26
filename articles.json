@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T07:28:14.983100+00:00",
+  "generated_at": "2026-08-26T07:41:01.922538+00:00",
   "articles": [
+    {
+      "id": "9ac8f05c3996",
+      "title": "Que Japón tenga 100.000 personas mayores de 100 años explica un problema: se están quedando sin conductores, literalmente",
+      "summary": "Japón, que registra cerca de 100 000 personas mayores de 100 años, enfrenta una grave escasez de conductores de camiones, lo que impulsa a empresas como Amazon a acelerar la automatización de sus centros logísticos. Con casi un tercio de la población mayor de 65 años, el país busca soluciones robóticas y de IA para cubrir la demanda de transporte pese a la legislación que limita las horas de conducción.",
+      "category": "tecnologia",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/magnet/que-japon-tenga-100-000-personas-mayores-100-anos-explica-problema-se-estan-quedando-conductores-literalmente",
+      "published_at": "2026-08-26T07:31:04+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto presenta de forma equilibrada la problemática demográfica y la respuesta tecnológica, sin usar vocabulario cargado ni favorecer a ninguna corriente política.",
+      "focus_analysis": "El artículo se centra en el ángulo tecnológico y económico, resaltando la automatización y la escasez de mano de obra, mientras deja de lado el impacto social y personal de la envejecimiento de la población.",
+      "focus_tags": [
+        "envejecimiento",
+        "automatización",
+        "escasez de conductores"
+      ],
+      "context": [
+        {
+          "label": "demográfico",
+          "text": "Japón tiene la población más envejecida del mundo, con casi un 30 % de sus habitantes mayores de 65 años y una natalidad en continuo descenso."
+        },
+        {
+          "label": "laboral",
+          "text": "Se proyecta que para 2030 el número de conductores de camiones activos se reducirá en torno al 30 %, dejando un déficit estimado de más de 200 000 puestos."
+        },
+        {
+          "label": "tecnológico",
+          "text": "Empresas como Amazon ya emplean una gran cantidad de robots en sus almacenes de Chiba, y el gobierno japonés planea carreteras automatizadas entre Tokio y Osaka para 2027."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "56a33a53eeac",
       "title": "Derechos de audiencias, fin de la consulta pública: CRT",
@@ -948,41 +980,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "217de01f8e39",
-      "title": "Volkswagen prevé 50,000 despidos adicionales y la mitad será en Alemania",
-      "summary": "Volkswagen anunció que planea despedir a 50 000 empleados adicionales, aproximadamente la mitad de los cuales se ubicarán en Alemania, como parte de su segundo plan de ajuste para afrontar la crisis del sector automotriz.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/empresas/volkswagen-preve-50-000-despidos-adicionales-mitad-sera-alemania-20260825-830063.html",
-      "published_at": "2026-08-25T14:38:56+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta datos y declaraciones de la dirección y los sindicatos sin usar lenguaje cargado ni favorecer a ninguna de las partes, manteniendo un tono informativo y equilibrado.",
-      "focus_analysis": "El medio se centra en el aspecto económico y estructural del ajuste de Volkswagen, resaltando cifras de despidos y cierre de plantas, mientras que el impacto social y personal de los trabajadores queda menos desarrollado.",
-      "focus_tags": [
-        "despidos masivos",
-        "restructuración industrial",
-        "sindicatos alemanes"
-      ],
-      "context": [
-        {
-          "label": "Plan de ajuste anterior",
-          "text": "En 2024 Volkswagen presentó un primer plan de reestructuración que también incluía recortes de personal y cierre de fábricas, como respuesta a la caída de ventas y la presión competitiva en Europa."
-        },
-        {
-          "label": "Crisis del sector automotriz europeo",
-          "text": "El fabricante alemán se encuentra en medio de una crisis que afecta a toda la industria europea, marcada por la transición a vehículos eléctricos y la reducción de la demanda de motores de combustión interna."
-        },
-        {
-          "label": "Posición de IG Metall",
-          "text": "El sindicato IG Metall ha exigido garantías sobre inversiones y futuros modelos, advirtiendo que se opondrá firmemente a cualquier medida que considere insuficiente para proteger los puestos de trabajo."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }
