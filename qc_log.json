@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:21:31.363388+00:00",
-      "title": "CDMX prevé plantar un millón de árboles en banquetas para 2030",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.6,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando la información de forma clara, veraz y oportuna, aunque podría beneficiarse de fuentes adicionales para mayor contraste.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:21:40.151659+00:00",
       "title": "Se filtró el vídeo de los AirPods con cámara: cuándo llegarán es otra historia",
       "kind": "noticia",
@@ -2726,6 +2709,17 @@
     {
       "at": "2026-08-26T04:00:46.880170+00:00",
       "title": "Aficionados del Olympiacos ponen apodo “doble sentido” a la Hormiga González en Grecia",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T04:23:03.834847+00:00",
+      "title": "Abejas de León pierde contra Diablos Rojos del México… ¡por dos puntos!",
       "kind": "noticia",
       "category": "deportes",
       "approved": true,
