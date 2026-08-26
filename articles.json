@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T06:21:01.140121+00:00",
+  "generated_at": "2026-08-26T06:41:16.751381+00:00",
   "articles": [
+    {
+      "id": "19fba16f76f3",
+      "title": "¿Está México pagando tasas muy altas en sus bonos?",
+      "summary": "El Economista analiza que los bonos del gobierno mexicano a diez años ofrecen rendimientos cercanos al 6.5 %, superiores a los de países sin grado de inversión como Costa Rica o Guatemala, y contrasta este dato con la mejora de los CDS y la reducción de la deuda de Pemex, señalando la necesidad de ajustar la política fiscal para mantener el rating.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/mexico-pagando-tasas-altas-bonos-20260826-830254.html",
+      "published_at": "2026-08-26T06:39:02+00:00",
+      "bias_score": 20,
+      "bias_reason": "El texto emplea expresiones críticas como “irresponsabilidad fiscal” y “austeridad extrema” que señalan fallas del gobierno, pero se apoya en datos de Bloomberg y de la Secretaría de Hacienda sin adoptar un tono ideológico marcado; el énfasis en la disciplina fiscal refleja una postura ligeramente pro‑mercado.",
+      "focus_analysis": "El medio se centra en el aspecto económico‑financiero de la deuda y los indicadores de riesgo, dejando de lado la dimensión política o social del debate.",
+      "focus_tags": [
+        "bonos soberanos",
+        "tasa de interés",
+        "déficit fiscal"
+      ],
+      "context": [
+        {
+          "label": "Comparación regional",
+          "text": "En América Latina, los bonos de países sin calificación de inversión como Costa Rica (5.3 %), Paraguay (5.5 %), Panamá (5.9 %) y Guatemala (6.0 %) rinden menos que los bonos mexicanos a diez años, que superan el 6 % anual."
+        },
+        {
+          "label": "Calificaciones crediticias",
+          "text": "Las agencias Moody’s, Fitch y S&P califican la deuda soberana y la de Pemex; la mejora en los CDS indica una percepción de riesgo menor, pero los rendimientos altos podrían amenazar el mantenimiento del grado de inversión."
+        },
+        {
+          "label": "Apoyos a Pemex",
+          "text": "El gobierno ha destinado alrededor de 130 mil millones de dólares a apoyar a Pemex, cuya deuda bruta ha disminuido como porcentaje del PIB, aunque persisten problemas operativos y un alto costo de financiamiento."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "d086b7c569cc",
       "title": "Semillas de palabras: la migración literaria de Valeria Luiselli",
@@ -954,38 +986,6 @@
       "qc": {
         "overall": 9.0
       }
-    },
-    {
-      "id": "85e631a9c8be",
-      "title": "Israel toma oficinas de UNRWA en Jerusalén; Netanyahu dice que actuará contra la agencia con \"todos los medios a su alcance\"",
-      "summary": "El primer ministro israelí, Benjamin Netanyahu, anunció que Israel desalojará la oficina de la Agencia de la ONU para los Refugiados Palestinos (UNRWA) en Jerusalén Este y que empleará todas las medidas disponibles contra la agencia, alegando su participación en la masacre de Hamas del 7 de octubre de 2023.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/mundo/israel-toma-oficinas-de-unrwa-en-jerusalen-netanyahu-dice-que-actuara-contra-la-agencia-con-todos-los-medios-a-su-alcance/",
-      "published_at": "2026-08-25T14:16:51+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto emplea expresiones como \"extremista judío y antiárabe\" y presenta la acción israelí como una respuesta justificada, sin profundizar en la crítica a la violación de la inmunidad de la UNRWA, lo que indica una ligera inclinación pro‑seguridad israelí.",
-      "focus_analysis": "El medio se concentra en el ángulo político‑seguridad, resaltando la decisión de Netanyahu y la supuesta vinculación de la UNRWA con Hamas, mientras deja de lado el impacto humanitario sobre los refugiados y la controversia legal internacional.",
-      "focus_tags": [
-        "seguridad",
-        "política israelí",
-        "UNRWA"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes legales",
-          "text": "La Corte Internacional de Justicia, en octubre de 2025, concluyó que Israel no había presentado pruebas suficientes que vincularan a la UNRWA con Hamas, cuestionando la base legal del desalojo."
-        },
-        {
-          "label": "Situación de la UNRWA",
-          "text": "Fundada en 1949, la UNRWA brinda asistencia humanitaria y educativa a más de cinco millones de refugiados palestinos en Oriente Medio y ha sido objeto de controversias políticas en los últimos años."
-        },
-        {
-          "label": "Reacción internacional",
-          "text": "Varios gobiernos y organizaciones internacionales han expresado preocupación por la violación de la inmunidad de la UNRWA y por el precedente que representa la ocupación de instalaciones de la ONU."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
