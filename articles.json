@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-08-26T13:40:53.704293+00:00",
+  "generated_at": "2026-08-26T14:00:59.830781+00:00",
   "articles": [
+    {
+      "id": "e29122843915",
+      "title": "‘¿Por qué esperó nueve meses?’: Grecia Quiroz a exsecretaria de Manzo",
+      "summary": "La alcaldesa de Uruapan, Grecia Quiroz, cuestionó a la exsecretaria de Carlos Manzo, Yesenia Méndez Rodríguez, por haber esperado nueve meses para ampliar su denuncia sobre el homicidio del exalcalde, y reiteró su solicitud a la Fiscalía General de la República para que abra la investigación.",
+      "category": "politica",
+      "source_name": "Aristegui Noticias",
+      "source_url": "https://aristeguinoticias.com/2608/mexico/por-que-espero-nueve-meses-grecia-quiroz-a-exsecretaria-de-manzo/",
+      "published_at": "2026-08-26T13:58:03+00:00",
+      "bias_score": -20,
+      "bias_reason": "El texto usa un tono crítico hacia la exsecretaria y destaca la disposición colaborativa de la alcaldesa, lo que refleja una ligera inclinación progresista al enfatizar la rendición de cuentas y la intervención de la FGR.",
+      "focus_analysis": "El medio se centra en la polémica política y la demora en la presentación de pruebas, dejando de lado el contexto de seguridad pública y la posible influencia de partidos políticos en el caso.",
+      "focus_tags": [
+        "politica_local",
+        "corrupcion",
+        "investigacion"
+      ],
+      "context": [
+        {
+          "label": "Caso Manzo",
+          "text": "El exalcalde de Uruapan, Carlos Manzo, fue asesinado en 2023, un hecho que ha generado múltiples investigaciones y presión pública para esclarecer los responsables."
+        },
+        {
+          "label": "Rol de la FGR",
+          "text": "La Fiscalía General de la República tiene la competencia para investigar delitos de alto impacto político, pero a menudo enfrenta críticas por retrasos y falta de avance en casos de violencia contra funcionarios."
+        },
+        {
+          "label": "Cobertura de otros medios",
+          "text": "Algunos periódicos nacionales han reportado la demora de la exsecretaria enfoc se centran en la escasez de pruebas concretas y en la presión del movimiento Ciudadano, ofreciendo una visión menos acusatoria que la de Aristegui Noticias."
+        }
+      ],
+      "confidence": "media"
+    },
+    {
+      "id": "72b432ecbae5",
+      "title": "¿Qué tan pobre de tiempo eres?",
+      "summary": "El artículo de El Economista explica que la pobreza de tiempo en México, provocada por largas jornadas laborales, desplazamientos y brechas de género en tareas domésticas, afecta a millones de personas y se está abordando mediante una propuesta de ley presentada por el diputado José Braña Mojica.",
+      "category": "sociedad",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/capital-humano/pobre-20260826-830211.html",
+      "published_at": "2026-08-26T14:00:00+00:00",
+      "bias_score": -10,
+      "bias_reason": "El texto enfatiza desigualdades de género y sociales, utiliza datos oficiales y presenta la iniciativa legislativa sin favorecer a ningún partido, lo que indica una ligera inclinación progresista pero en general neutral.",
+      "focus_analysis": "El medio se centra en el ángulo socioeconómico y de igualdad de género al describir la pobreza de tiempo, dejando de lado el debate político partidista o la perspectiva empresarial.",
+      "focus_tags": [
+        "pobreza de tiempo",
+        "igualdad de género",
+        "política laboral"
+      ],
+      "context": [
+        {
+          "label": "Datos de trabajo",
+          "text": "Según la Encuesta Nacional sobre Uso del Tiempo, los mexicanos trabajan en promedio 59.6 horas semanales, con mujeres dedicando 61.1 horas y hombres 58 horas, superando la media de la OCDE de 1,736 horas anuales."
+        },
+        {
+          "label": "Propuesta legislativa",
+          "text": "El diputado José Braña Mojica presentó la Ley General para la Prevención y Erradicación de la Pobreza de Tiempo, que busca reconocer legalmente este fenómeno y establecer medidas de desconexión digital y reducción de jornadas extensas."
+        },
+        {
+          "label": "Posición de México en la OCDE",
+          "text": "México se ubica al final de la tabla de Balance Vida‑Trabajo de la OCDE, reflejando que sus ciudadanos disponen de menos tiempo libre que la media de los países miembros."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.6
+      }
+    },
     {
       "id": "9beb4ae095ae",
       "title": "El presidente del Barcelona presionó al Atlético Madrid por el fichaje de Julián Álvarez: “Nos gustaría que nuestra oferta fuera aceptada”",
@@ -910,70 +977,6 @@
         {
           "label": "Exfutbolistas que practican otros deportes",
           "text": "Varios exfutbolistas, como Juan Román Riquelme y Pablo Aimar, han incursionado en el básquet o el fútbol sala después de retirarse, demostrando la transición de atletas entre disciplinas."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "85f3832ddffd",
-      "title": "Alcaldías de CDMX tienen hasta el 31 de agosto para reportar proyectos inviables del Presupuesto Participativo 2026; IECM fija reglas",
-      "summary": "Las alcaldías de la Ciudad de México deben, antes del 31 de agosto, presentar al Instituto Electoral de la Ciudad de México (IECM) un informe técnico‑jurídico que justifique la inviabilidad o ejecución parcial de los proyectos ganadores del Presupuesto Participativo 2026.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/metropoli/alcaldias-de-cdmx-tienen-hasta-el-31-de-agosto-para-reportar-proyectos-inviables-del-presupuesto-participativo-2026-iecm-fija-reglas/",
-      "published_at": "2026-08-25T19:36:50+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y neutral, sin adjetivos cargados ni fuentes que inclinen la información hacia una posición política.",
-      "focus_analysis": "El medio se centra en el aspecto institucional y regulatorio del proceso de presupuesto participativo, omitiendo el impacto directo sobre la ciudadanía o la evaluación de los proyectos.",
-      "focus_tags": [
-        "presupuesto participativo",
-        "regulación institucional",
-        "transparencia"
-      ],
-      "context": [
-        {
-          "label": "Marco del Presupuesto Participativo",
-          "text": "El Presupuesto Participativo es una herramienta de gestión pública que permite a los habitantes de la Ciudad de México proponer y votar proyectos de inversión local, con un ciclo anual que incluye la selección y ejecución de los proyectos ganadores."
-        },
-        {
-          "label": "Rol del IECM",
-          "text": "El Instituto Electoral de la Ciudad de México (IECM) es la autoridad responsable de supervisar los comités de ejecución y vigilancia del presupuesto participativo, garantizando que los procesos se ajusten a normas técnicas y jurídicas."
-        },
-        {
-          "label": "Procedimientos previos de reporte",
-          "text": "En ediciones anteriores del presupuesto participativo, se había establecido la obligación de que las alcaldías informaran al IECM sobre proyectos inviables, con plazos y requisitos de documentación similares, para asegurar la transparencia y la reasignación de recursos."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "d49827ed2520",
-      "title": "Adultas mayores exhiben a policía por no dejarlas entrar gratis al Metrobús CDMX con tarjeta de Inapam",
-      "summary": "Un grupo de mujeres adultas mayores de la Ciudad de México fue detenido por una oficial de seguridad en la Línea 5 del Metrobús al intentar entrar con su credencial del INAPAM, pero la Secretaría de Seguridad Ciudadana explicó que no cumplían con los requisitos de edad y discapacidad exigidos para la gratuidad en ese sistema de transporte.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/25/adultas-mayores-exhiben-a-policia-por-no-dejarlas-entrar-gratis-al-metrobus-cdmx-con-tarjeta-de-inapam/",
-      "published_at": "2026-08-25T19:18:36+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto mantiene un tono descriptivo y balanceado, presentando tanto la queión de las mujeres como la explicación oficial sin usar vocabulario cargado ni favorecer a una parte.",
-      "focus_analysis": "El medio se centra en el conflicto humano y la confusión normativa sobre la gratuidad para adultos mayores, dejando de lado el análisis económico o la evaluación de la gestión policial.",
-      "focus_tags": [
-        "transporte público",
-        "adultas mayores",
-        "política de gratuidad"
-      ],
-      "context": [
-        {
-          "label": "Regulación de la gratuidad",
-          "text": "En la Ciudad de México, el Metro permite el acceso gratuito a usuarios mayores de 60 años con credencial del INAPAM, mientras que el Metrobús exige edad mínima de 70 años o una discapacidad certificada, lo que genera confusión entre los usuarios."
-        },
-        {
-          "label": "Reacción en redes sociales",
-          "text": "El video del enfrentamiento se viralizó en plataformas digitales, provocando una oleada de comentarios que denunciaban la supuesta falta de respeto de la autoridad y exigiendo mayor claridad en los requisitos de ingreso."
-        },
-        {
-          "label": "Respuesta institucional",
-          "text": "La Secretaría de Seguridad Ciudadana de la CDMX emitió un comunicado aclarando que las mujeres no cumplían los criterios establecidos para la gratuidad en el Metrobús, subrayando la diferencia de normas entre los distintos sistemas de transporte público."
         }
       ],
       "confidence": "alta"

@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:01:40.432020+00:00",
-      "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno reubica a 1.800 migrantes",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": false,
-      "overall": 6.4,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 5,
-        "objetividad_imparcialidad": 4,
-        "actualidad": 9,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete es reciente y está bien estructurado, pero necesita mayor respaldo de fuentes y una presentación más neutra para cumplir plenamente con los estándares de objetividad y verificación.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T10:01:48.884744+00:00",
-      "title": "Reemplacamiento Edomex 2026: Este es el plazo para obtener beneficios fiscales donde no habrá prórro",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, imparcialidad y estructura, aunque la ausencia de fuentes múltiples limita ligeramente el contraste.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:01:56.565636+00:00",
       "title": "Max Verstappen terminó con los rumores sobre su salida de la Fórmula 1 y renovó contrato con Red Bul",
       "kind": "noticia",
@@ -2656,6 +2622,34 @@
       "title": "El presidente del Barcelona presionó al Atlético Madrid por el fichaje de Julián Álvarez: “Nos gusta",
       "kind": "noticia",
       "category": "deportes",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T14:00:48.352465+00:00",
+      "title": "¿Qué tan pobre de tiempo eres?",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 7.6,
+      "scores": {
+        "veracidad_precision": 6,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 8,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente informativo y actual, pero presenta inconsistencias en los datos y carece de fuentes múltiples, lo que limita su precisión y contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T14:00:51.368949+00:00",
+      "title": "‘¿Por qué esperó nueve meses?’: Grecia Quiroz a exsecretaria de Manzo",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
