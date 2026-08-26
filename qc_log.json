@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:02:44.160979+00:00",
-      "title": "León cumple 82 años, suma 5 victorias al hilo… y ya tiene fecha límite para Grupo Pachuca",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": false,
-      "overall": 7.2,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 4,
-        "objetividad_imparcialidad": 8,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y es reciente, pero contiene imprecisiones factuales y escasa variedad de fuentes, lo que limita su fiabilidad editorial.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:02:51.531883+00:00",
       "title": "“No quiero que mi legado quede reducido a títulos o estadísticas”, la reflexión de Novak Djokovic so",
       "kind": "noticia",
@@ -2648,6 +2631,23 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple en gran medida con los estándares de objetividad y actualidad, aunque la falta de fuentes específicas para la cifra reduce ligeramente la puntuación de veracidad.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T16:20:42.300923+00:00",
+      "title": "Cae producción de vivienda social en León; anuncian la Feria de la Vivienda 2026",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 6,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de una noticia objetiva y oportuna, aunque podría reforzar la veracidad con fuentes verificables y ampliar la variedad de voces.",
       "error": null
     }
   ]

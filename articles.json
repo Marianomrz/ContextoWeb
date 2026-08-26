@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T16:04:58.548092+00:00",
+  "generated_at": "2026-08-26T16:20:51.697486+00:00",
   "articles": [
+    {
+      "id": "bdd98c3c6bf9",
+      "title": "Cae producción de vivienda social en León; anuncian la Feria de la Vivienda 2026",
+      "summary": "La construcción de vivienda de interés social en León, México, ha caído de alrededor de 8 mil unidades anuales a cerca de 2 mil, según los dirigentes de Canadevi y Concamin, y en respuesta se organizará la Feria de la Vivienda 2026 para ofrecer distintas opciones de compra y financiamiento.",
+      "category": "sociedad",
+      "source_name": "Periódico AM (León)",
+      "source_url": "https://www.am.com.mx/leon/2026/08/26/cae-produccion-de-vivienda-social-en-leon-anuncian-la-feria-de-la-vivienda-2026-1836780.html",
+      "published_at": "2026-08-26T16:19:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono informativo, cite a fuentes oficiales y evita lenguaje cargado o juicios de valor, presentando tanto la caída de la producción como la iniciativa de la feria sin favorecer a ningún sector político.",
+      "focus_analysis": "El medio se centra en el aspecto económico y estructural del mercado de vivienda social, resaltando la disminución de la producción y la feria como solución, mientras deja de lado la perspectiva de los familias afectadas y el impacto social de los asentamientos irregulares.",
+      "focus_tags": [
+        "vivienda social",
+        "desarrollo urbano",
+        "feria inmobiliaria"
+      ],
+      "context": [
+        {
+          "label": "national_housing_policy",
+          "text": "El Programa Nacional de Vivienda para el Bienestar, impulsado por el gobierno federal, busca ampliar el acceso a vivienda digna, pero varios estados, incluido Guanajuato, reportan retrasos en cumplir sus metas por falta de terrenos y recursos."
+        },
+        {
+          "label": "economic_factor",
+          "text": "El alto costo de la tierra en zonas céntricas de León ha incentivado la proliferación de asentamientos irregulares, ya que familias sin acceso a vivienda formal recurren a terrenos sin servicios ni certeza jurídica."
+        },
+        {
+          "label": "regional_comparison",
+          "text": "En otras ciudades de México, como Puebla y Monterrey, la oferta de vivienda social también ha experimentado reducciones, aunque han implementado incentivos fiscales y alianzas público‑privadas para reactivar la construcción."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "fba2ff2296ac",
       "title": "Conoce las 5 situaciones que pueden afectar una visa estadounidense",
@@ -957,38 +992,6 @@
       ],
       "confidence": "alta",
       "editorial_pick": true
-    },
-    {
-      "id": "5d47f9ee5824",
-      "title": "¿Riesgo de fracturas en Morena? Ricardo Monreal pide diálogo y calma entre quienes buscan candidaturas",
-      "summary": "Ricardo Monreal, coordinador de Morena en la Cámara de Diputados, instó a los aspirantes a los cargos estatales a priorizar el diálogo, la generosidad y la unidad para evitar rupturas internas de cara a las elecciones de 2027.",
-      "category": "politica",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/25/riesgo-de-fracturas-en-morena-ricardo-monreal-pide-dialogo-y-calma-entre-quienes-buscan-candidaturas/",
-      "published_at": "2026-08-25T23:31:44+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutral, reproduciendo declaraciones de Monreal sin incluir adjetivos cargados ni fuentes partidistas que inclinen la cobertura.",
-      "focus_analysis": "El artículo se centra en la dinámica interna del partido y la necesidad de cohesión, dejando de lado el análisis de políticas públicas o el impacto electoral del conflicto.",
-      "focus_tags": [
-        "unidad interna",
-        "candidaturas 2027",
-        "Morena"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes",
-          "text": "Morena, fundado por el presidente Andrés Manuel López Obrador, ha gobernado México desde 2018 y controla la mayoría de los gobiernos estatales, lo que eleva la importancia de sus procesos internos de selección de candidatos."
-        },
-        {
-          "label": "Tensiones recientes",
-          "text": "En los últimos años, el partido ha enfrentado disputas internas por candidaturas en estados como Zacatecas y Sinaloa, que han generado renuncias y críticas públicas entre sus miembros."
-        },
-        {
-          "label": "Comparación",
-          "text": "Otros partidos mexicanos, como el PAN y el PRI, también han experimentado conflictos internos al definir candidaturas, pero la presión mediática sobre Morena es mayor debido a su posición dominante en la política nacional."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
