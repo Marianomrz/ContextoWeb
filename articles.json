@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T07:02:48.412381+00:00",
+  "generated_at": "2026-08-26T07:21:04.055878+00:00",
   "articles": [
+    {
+      "id": "56a33a53eeac",
+      "title": "Derechos de audiencias, fin de la consulta pública: CRT",
+      "summary": "La Comisión Reguladora de Telecomunicaciones (CRT) de México anunció que concluirá la consulta pública sobre los nuevos lineamientos para proteger los derechos de las audiencias, un proceso que ha generado críticas de la industria y la sociedad civil por posibles riesgos de censura y discrecionalidad. La versión final será revisada por el pleno de la CRT y publicada en el Diario Oficial.",
+      "category": "politica",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/opinion/derechos-audiencias-consulta-publica-crt-20260826-830264.html",
+      "published_at": "2026-08-26T07:13:41+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto presenta de manera equilibrada las opiniones del regulador, la industria y la sociedad civil, sin usar lenguaje cargado ni favorecer claramente a un lado; incluye también un apartado económico que refleja la línea editorial del medio.",
+      "focus_analysis": "El medio se centra en el ángulo institucional y regulatorio del proceso de la CRT, resaltando los riesgos de censura y las implicaciones económicas, mientras deja de lado el impacto directo sobre los usuarios y el debate político más amplio.",
+      "focus_tags": [
+        "regulación telecom",
+        "derechos de audiencias",
+        "censura potencial"
+      ],
+      "context": [
+        {
+          "label": "Rol de la CRT",
+          "text": "La Comisión Reguladora de Telecomunicaciones es el organismo autónomo encargado de supervisar y regular los servicios de telecomunicaciones y radiodifusión en México, y ha emitido previamente normas sobre infraestructura, espectro y protección de datos."
+        },
+        {
+          "label": "Resultados de la consulta pública",
+          "text": "Según otras coberturas, alrededor del 82 % de los participantes en la consulta expresaron su rechazo a los lineamientos, temiendo que permitan al gobierno censurar contenidos y limitar la libertad de expresión."
+        },
+        {
+          "label": "Postura de la industria y el gobierno",
+          "text": "La Cámara Nacional de la Industria de la Radio y la Televisión (CIRT) ha señalado ambigüedades en conceptos como \"información falsa\" y ha pedido mayor claridad, mientras que la jefa del Ejecutivo y la consejera jurídica del gobierno han defendido que el objetivo es proteger a las audiencias, no censurar."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "19fba16f76f3",
       "title": "¿Está México pagando tasas muy altas en sus bonos?",
@@ -950,41 +982,6 @@
       "confidence": "alta",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "9060c005dfd8",
-      "title": "La pensión más alta posible: cómo fusionar IMSS e ISSSTE para elevar tu pago",
-      "summary": "El Instituto Mexicano del Seguro Social (IMSS) y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) ofrecen la Portabilidad de Derechos Pensionarios, un trámite gratuito que permite a los trabajadores que cotizaron en ambos sistemas combinar sus años de aportación para obtener una pensión más alta, siempre que cumplan requisitos de edad y afiliación.",
-      "category": "economia",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/25/la-pension-mas-alta-posible-como-fusionar-imss-e-issste-para-elevar-tu-pago/",
-      "published_at": "2026-08-25T14:40:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir el procedimiento y los requisitos de manera neutra, sin usar vocabulario cargado ni citar fuentes con sesgo político.",
-      "focus_analysis": "El artículo se centra en el aspecto institucional y económico del sistema de pensiones, explicando el mecanismo de portabilidad y los pasos administrativos; omite la dimensión personal de los beneficiarios y cualquier debate político sobre la reforma del sistema de seguridad social.",
-      "focus_tags": [
-        "pensión",
-        "portabilidad",
-        "IMSS/ISSSTE"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del sistema de pensiones en México",
-          "text": "México cuenta con dos regímenes principales de seguridad social: el IMSS, que cubre al sector privado, y el ISSSTE, que cubre a los empleados del gobierno, cada uno con su propio historial de cotizaciones y cálculo de pensiones."
-        },
-        {
-          "label": "Marco legal de la Portabilidad de Derechos Pensionarios",
-          "text": "El mecanismo de portabilidad se estableció mediante un decreto publicado en el Diario Oficial de la Federación en diciembre de 2020, permitiendo sumar los periodos cotizados en IMSS e ISSSTE siempre que el trabajador tenga al menos 59 años y esté inscrito en el régimen de cuentas individuales del ISSSTE."
-        },
-        {
-          "label": "Comparación internacional",
-          "text": "A diferencia de algunos países donde los regímenes de pensiones son incompatibles, México permite la transferencia gratuita de años cotizados entre sistemas, una práctica que busca evitar la pérdida de derechos al cambiar de sector laboral."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 9.0
       }
     }
   ]

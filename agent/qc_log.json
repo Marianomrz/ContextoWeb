@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:22:22.850941+00:00",
-      "title": "Hayek y el conservadurismo",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares de precisión, actualidad y estructura, aunque la falta de fuentes múltiples limita el contraste de perspectivas.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:45:19.223248+00:00",
       "title": "Una linterna en la niebla: la melancolía de Yasunari Kawabata",
       "kind": "literatura",
@@ -2704,6 +2687,17 @@
       "title": "¿Está México pagando tasas muy altas en sus bonos?",
       "kind": "noticia",
       "category": "economia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T07:20:40.732086+00:00",
+      "title": "Derechos de audiencias, fin de la consulta pública: CRT",
+      "kind": "noticia",
+      "category": "politica",
       "approved": true,
       "overall": null,
       "scores": {},
