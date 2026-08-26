@@ -1,40 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:02:51.531883+00:00",
-      "title": "“No quiero que mi legado quede reducido a títulos o estadísticas”, la reflexión de Novak Djokovic so",
-      "kind": "noticia",
-      "category": "deportes",
-      "approved": true,
-      "overall": 8.2,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente objetivo y bien estructurado, pero la falta de verificación de algunos datos y la ausencia de fuentes múltiples reducen su puntuación global.",
-      "error": null
-    },
-    {
-      "at": "2026-08-20T10:02:59.619704+00:00",
-      "title": "CDMX prevé plantar un millón de árboles en banquetas para 2030",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 8.8,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 8,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete cumple con los estándares editoriales de precisión, objetividad y actualidad; solo se podría reforzar la verificación con fuentes directas, pero en conjunto es apto para publicación.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:39:28.218054+00:00",
       "title": "A Facebook cada vez se le está poniendo más cara de Marlboro en los años 70",
       "kind": "noticia",
@@ -2649,6 +2615,34 @@
       },
       "observacion": "El paquete cumple en gran medida con los estándares de una noticia objetiva y oportuna, aunque podría reforzar la veracidad con fuentes verificables y ampliar la variedad de voces.",
       "error": null
+    },
+    {
+      "at": "2026-08-26T16:40:56.001107+00:00",
+      "title": "Inundaciones y deslizamientos de tierra en Nepal: SRE no reporta mexicanos afectados; pide atender i",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete es mayormente sólido, con información veraz y neutral, aunque podría reforzarse con fuentes más variadas para mayor contraste.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T16:41:02.442971+00:00",
+      "title": "Meta pagará casi 18.000 millones de dólares para resolver las demandas por la adicción de los adoles",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
