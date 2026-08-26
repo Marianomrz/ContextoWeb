@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T01:01:05.591577+00:00",
+  "generated_at": "2026-08-26T01:21:05.812462+00:00",
   "articles": [
+    {
+      "id": "994100140515",
+      "title": "Fuego & Café: la casa tostadora que debes conocer en CDMX",
+      "summary": "La casa tostadora Fuego & Café, con dos sucursales en la Ciudad de México, permite a los clientes observar el proceso de tostado y participar en talleres de cata, resaltando su tradición familiar de cuatro generaciones y el uso de granos provenientes de Coatepec, Veracruz, y Temascaltepec, Estado de México.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/menu/fuego-cafe-la-casa-tostadora-que-debes-conocer-en-cdmx/",
+      "published_at": "2026-08-26T01:19:18+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto emplea un tono promocional y elogioso, destacando cualidades positivas del negocio sin incluir críticas ni perspectivas alternativas, lo que indica una ligera inclinación favorable.",
+      "focus_analysis": "El medio se centró en la experiencia sensorial y educativa del café de especialidad, dejando fuera el análisis económico del sector o la comparación con otras cafeterías de la ciudad.",
+      "focus_tags": [
+        "café de especialidad",
+        "tostado artesanal",
+        "talleres de cata"
+      ],
+      "context": [
+        {
+          "label": "industry_trend",
+          "text": "En los últimos años, el consumo de café de especialidad ha crecido en México, con un aumento estimado del 15 % anual en la apertura de cafeterías que ofrecen procesos de tostado in‑site."
+        },
+        {
+          "label": "regional_supply",
+          "text": "Coatepec, Veracruz, es reconocido como una de las principales regiones productoras de café de alta calidad en México, abasteciendo a numerosas torrefactores y cafeterías gourmet."
+        },
+        {
+          "label": "family_business",
+          "text": "Los negocios gastronómicos familiares en la Ciudad de México suelen destacar la herencia y la continuidad generacional como estrategia de diferenciación y fidelización de clientes."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "406e72f38715",
       "title": "Cuando el silencio se vuelve espejo: la extraña magia de Samanta Schweblin",
@@ -959,38 +991,6 @@
       "qc": {
         "overall": 8.6
       }
-    },
-    {
-      "id": "6d1c01698910",
-      "title": "Fabiola Alanís Sámano: “Quiero ser un factor de unidad”; confía en que Morena postule a una mujer en Michoacán",
-      "summary": "Fabiola Alanís Sámano, diputada del Congreso de Michoacán y coordinadora política de Morena, expresó su intención de ser un factor de unidad y confía en que el partido postule a una mujer para la gubernatura del estado en 2027, resaltando la fuerza electoral de Morena y la importancia de la paridad de género.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/estados/fabiola-alanis-samano-quiero-ser-un-factor-de-unidad-confia-en-que-morena-postule-a-una-mujer-en-michoacan/",
-      "published_at": "2026-08-25T08:35:29+00:00",
-      "bias_score": -30,
-      "bias_reason": "El texto reproduce mayormente declaraciones positivas de la dirigente de Morena sin incluir voces críticas ni análisis contrapuestos, y enfatiza los logros del partido, lo que indica una ligera inclinación a favor del bloque de izquierda.",
-      "focus_analysis": "El medio privilegia el ángulo institucional y de género, centrado en la unidad interna de Morena y la candidatura femenina, mientras omite la perspectiva de la oposición y los detalles de políticas públicas.",
-      "focus_tags": [
-        "unidad política",
-        "paridad de género",
-        "Morena Michoacán"
-      ],
-      "context": [
-        {
-          "label": "antecedente electoral",
-          "text": "En las elecciones federales de 2024, Morena obtuvo más de un millón de votos en Michoacán y ganó nueve de los diez distritos, consolidando una posición dominante en el estado."
-        },
-        {
-          "label": "marco legal de paridad",
-          "text": "La legislación mexicana exige la paridad sustantiva en candidaturas, obligando a los partidos a presentar al menos el 50 % de mujeres en las contiendas electorales."
-        },
-        {
-          "label": "competencia electoral 2027",
-          "text": "Las próximas elecciones estatales de 2027 contarán con la participación de varios partidos, incluidos PAN y PRI, que buscarán desafiar la hegemonía de Morena en Michoacán."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

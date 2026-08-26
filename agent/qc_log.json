@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:07:30.899020+00:00",
-      "title": "La epidemia de ébola más rápida de la historia avanza a ciegas para la ciencia",
-      "kind": "noticia",
-      "category": "internacional",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 6,
-        "contraste_fuentes": 7,
-        "objetividad_imparcialidad": 7,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete está bien estructurado y actualizado, pero contiene algunas afirmaciones no verificadas y un tono ligeramente sensacionalista, lo que reduce ligeramente su precisión.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:07:40.077485+00:00",
       "title": "¿Quiénes son los hijos de Heraclio Guerrero Martínez, ‘El Tío Lako’, líder regional del CJNG en Mich",
       "kind": "noticia",
@@ -2763,6 +2746,17 @@
       },
       "observacion": "El paquete contiene una información fundamentalmente incorrecta, por lo que no cumple con los estándares de veracidad requeridos para su publicación.",
       "error": null
+    },
+    {
+      "at": "2026-08-26T01:20:42.906230+00:00",
+      "title": "Fuego & Café: la casa tostadora que debes conocer en CDMX",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
