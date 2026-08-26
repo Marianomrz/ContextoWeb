@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T14:21:10.822828+00:00",
+  "generated_at": "2026-08-26T14:41:03.190376+00:00",
   "articles": [
+    {
+      "id": "68e8fe5db479",
+      "title": "El Kremlin confirma que el director de la CIA se reunió con los servicios de inteligencia rusos durante su visita a Moscú",
+      "summary": "El Kremlin confirmó que el director de la CIA de Estados Unidos se reunió con los servicios de inteligencia rusos durante su visita a Moscú, y el portavoz Dmitri Peskov señaló que aún es demasiado pronto para determinar si estos contactos podrían ayudar a superar la profunda crisis entre ambos países.",
+      "category": "internacional",
+      "source_name": "El País América",
+      "source_url": "https://elpais.com/internacional/2026-08-26/el-kremlin-confirma-que-el-director-de-la-cia-se-reunio-durante-su-visita-a-moscu-con-los-servicios-de-inteligencia-rusos.html",
+      "published_at": "2026-08-26T14:39:09+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a informar declaraciones oficiales sin usar vocabulario cargado ni incluir opiniones, manteniendo un tono neutral.",
+      "focus_analysis": "El artículo se centra en el aspecto diplomático y de relaciones internacionales, dejando de lado el análisis de seguridad o de las implicaciones internas de la CIA.",
+      "focus_tags": [
+        "relaciones internacionales",
+        "diplomacia",
+        "seguridad"
+      ],
+      "context": [
+        {
+          "label": "tensión histórica",
+          "text": "Estados Unidos y Rusia han mantenido una relación marcada por rivalidades y crisis profundas desde la Guerra Fría, con episodios recientes de desconfianza en ámbitos como la ciberseguridad y la expansión militar."
+        },
+        {
+          "label": "práctica de alto nivel",
+          "text": "Los directores de la CIA suelen reunirse con contrapartes extranjeras para intercambiar información y buscar canales de comunicación, aunque esas reuniones rara vez se hacen públicas."
+        },
+        {
+          "label": "cobertura paralela",
+          "text": "Otros medios, como DW Español, también citaron al vocero ruso diciendo que es demasiado pronto para evaluar el impacto de la visita en la relación bilateral, subrayando la cautela oficial."
+        }
+      ],
+      "confidence": "media",
+      "qc": {
+        "overall": 9.2
+      }
+    },
     {
       "id": "f6d48b7e3e49",
       "title": "Caen dos choferes de autobús con 10 paquetes de fentanilo y 8 de heroína",
@@ -948,38 +983,6 @@
         {
           "label": "Esquema de pagos anteriores",
           "text": "En meses previos, la Secretaría del Bienestar ha entregado los pagos de forma escalonada según la inicial del apellido del beneficiario, un método que busca distribuir la carga operativa y evitar congestiones bancarias."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "a2455be6ad2c",
-      "title": "Mía y Lía Cueva reinan en el trampolín de 3 metros en el Mundial Junior de Clavados",
-      "summary": "Mía y Lía Cueva, las gemelas mexicanas de clavados, se alzaron con el oro en la prueba de trampolín sincronizado de 3 metros en el Campeonato Mundial Junior de Clavados en Croacia, sumando a México un total de seis medallas en la competición.",
-      "category": "deportes",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/superdeportivo/2026/08/25/mia-y-lia-cueva-reinan-en-el-trampolin-de-3-metros-en-el-mundial-junior-de-clavados-1836438.html",
-      "published_at": "2026-08-25T21:20:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se centra en el logro mexicano con un tono celebratorio y no incluye opiniones o fuentes críticas, manteniendo una perspectiva neutral y deportiva.",
-      "focus_analysis": "El medio destaca el éxito de las gemelas y el orgullo nacional, dejando de lado análisis técnicos del deporte o la comparación profunda con otras naciones.",
-      "focus_tags": [
-        "deportes",
-        "clavados",
-        "gemelas mexicanas"
-      ],
-      "context": [
-        {
-          "label": "Histórico éxito mexicano en clavados",
-          "text": "México ha sido tradicionalmente fuerte en clavados, con medallistas como Paola Espinosa y Germán Sánchez que han destacado en Juegos Olímpicos y Campeonatos Mundiales."
-        },
-        {
-          "label": "Campeonato Mundial Junior de Clavados 2026",
-          "text": "El evento se llevó a cabo en Rijeka, Croacia, con la participación de jóvenes atletas de más de veinte países, compitiendo en distintas alturas y plataformas."
-        },
-        {
-          "label": "Cobertura de La Jornada Deportes",
-          "text": "Otro medio resaltó la plata obtenida por México en la prueba de equipo mixto y la quinta medalla total del país, enfocándose en el acumulado de podios más que en la actuación individual de las gemelas."
         }
       ],
       "confidence": "alta"

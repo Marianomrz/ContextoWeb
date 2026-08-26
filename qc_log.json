@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T10:02:11.318306+00:00",
-      "title": "Primero la paria",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": 7.8,
-      "scores": {
-        "veracidad_precision": 5,
-        "contraste_fuentes": 6,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 9
-      },
-      "observacion": "El paquete es mayormente adecuado y objetivo, aunque le falta evidencia verificable y fuentes complementarias para reforzar la precisión de los datos.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T10:02:24.258755+00:00",
       "title": "Hayek y el conservadurismo",
       "kind": "noticia",
@@ -2654,6 +2637,23 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de calidad informativa, aunque podría reforzar la verificación con citas directas a fuentes oficiales.",
+      "error": null
+    },
+    {
+      "at": "2026-08-26T14:40:51.000139+00:00",
+      "title": "El Kremlin confirma que el director de la CIA se reunió con los servicios de inteligencia rusos dura",
+      "kind": "noticia",
+      "category": "internacional",
+      "approved": true,
+      "overall": 9.2,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 10
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y estructura, y está actualizado y bien respaldado por fuentes.",
       "error": null
     }
   ]
