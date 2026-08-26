@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T17:45:25.710610+00:00",
+  "generated_at": "2026-08-26T18:00:50.866867+00:00",
   "articles": [
+    {
+      "id": "9b73471d97a1",
+      "title": "Crisis de basuras en La Paz: huelga de trabajadores de saneamiento cumple dos semanas",
+      "summary": "Los trabajadores de saneamiento de La Paz, Bolivia, llevan dos semanas en huelga por mejores salarios, lo que ha generado una acumulación de basura en la ciudad y ha obligado a las autoridades a activar un plan de emergencia con voluntarios.",
+      "category": "sociedad",
+      "source_name": "France24 Español",
+      "source_url": "https://www.france24.com/es/video/20260826-crisis-de-basuras-en-la-paz-huelga-de-trabajadores-de-saneamiento-cumple-dos-semanas",
+      "published_at": "2026-08-26T17:57:27+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, sin adjetivos cargados ni fuentes polarizadas, presentando hechos sobre la huelga y la respuesta municipal de forma equilibrada.",
+      "focus_analysis": "El artículo se centra en el conflicto laboral y la gestión institucional de la crisis de basuras, dejando de lado un análisis más amplio del contexto político o de las demandas sindicales a nivel nacional.",
+      "focus_tags": [
+        "huelga laboral",
+        "crisis de basuras",
+        "La Paz"
+      ],
+      "context": [
+        {
+          "label": "Antecedentes laborales",
+          "text": "En Bolivia, los trabajadores de saneamiento han protagonizado varias huelgas en los últimos años, reclamando salarios más altos y mejores condiciones de trabajo."
+        },
+        {
+          "label": "Impacto sanitario",
+          "text": "La acumulación de residuos sin recoger puede generar olores desagradables, atraer fauna urbana y elevar el riesgo de enfermedades transmisibles entre la población."
+        },
+        {
+          "label": "Respuesta institucional",
+          "text": "Cuando los servicios de recolección se interrumpen, los municipios suelen activar planes de emergencia que incluyen la contratación de personal temporal y la movilización de voluntarios para mitigar la crisis."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.4
+      }
+    },
     {
       "id": "e03c42050f71",
       "title": "Cae el “Koki”, objetivo prioritario y exoperador de La Barredora en Tabasco",
@@ -956,38 +991,6 @@
         {
           "label": "reacciones internacionales",
           "text": "Países como Colombia, Honduras y Ecuador han aceptado la presencia de fuerzas estadounidenses en tierra, mientras que Guatemala ha negado haber firmado acuerdos de este tipo."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "3abc8e6e2bee",
-      "title": "Nissan, General Motors y Volkswagen pierden terreno en México ante la oferta china",
-      "summary": "Según la Asociación Mexicana de Distribuidores de Automotores, Nissan, General Motors y Volkswagen han visto disminuir su participación de mercado en México entre 2016 y 2026, cediendo terreno a marcas chinas y a la creciente demanda de vehículos híbridos y eléctricos.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/autos/nissan-general-motors-volkswagen-pierden-terreno-mexico-oferta-china-20260825-830207.html",
-      "published_at": "2026-08-26T02:59:03+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo presenta datos y declaraciones de fuentes institucionales sin usar lenguaje cargado ni favorecer a ninguna empresa, manteniendo un tono informativo y equilibrado.",
-      "focus_analysis": "El medio se centra en el ángulo económico, describiendo la pérdida de cuota de mercado y la competencia de fabricantes chinos, mientras omite aspectos políticos o regulatorios del sector automotriz.",
-      "focus_tags": [
-        "mercado automotriz",
-        "competencia china",
-        "cambio de cuota"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En 2016, Nissan, General Motors y Volkswagen concentraban el 58 % de las ventas de autos ligeros en México, posición que ha caído a alrededor del 35 % en 2026."
-        },
-        {
-          "label": "datos comparables",
-          "text": "Las marcas chinas han incrementado su presencia en el mercado mexicano ofreciendo precios agresivos, equipamiento tecnológico avanzado y tiempos de entrega más cortos."
-        },
-        {
-          "label": "posturas de otros actores",
-          "text": "El presidente de la AMDA, Guillermo Rosales, señala que el mercado está cada vez más fragmentado y competitivo, y el CEO de Nissan, Iván Espinosa, destaca la necesidad de regionalizar la producción y acelerar la electrificación."
         }
       ],
       "confidence": "alta"

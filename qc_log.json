@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T11:20:39.138245+00:00",
-      "title": "Nicola Porcella critica a La Casa de los Famosos México por meter demasiados influencers: “Tanto cre",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-20T12:25:09.792662+00:00",
       "title": "Sonora detecta el primer caso de gusano barrenador en el estado; activa protocolos de vigilancia",
       "kind": "noticia",
@@ -2643,6 +2632,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-08-26T18:00:41.344407+00:00",
+      "title": "Crisis de basuras en La Paz: huelga de trabajadores de saneamiento cumple dos semanas",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 8.4,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de veracidad, objetividad y estructura, pero necesita mayor contraste de fuentes para cubrir todas las voces del conflicto.",
+      "error": null
     }
   ]
 }
