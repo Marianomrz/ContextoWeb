@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T17:05:28.506298+00:00",
+  "generated_at": "2026-08-26T17:20:50.514791+00:00",
   "articles": [
+    {
+      "id": "e8256736dc80",
+      "title": "Thalía cumple 55 años: una carrera de millones de discos, éxitos y polémicas",
+      "summary": "Thalía, la cantante y actriz mexicana que celebra sus 55 años, ha construido una carrera de más de cuatro décadas con millones de discos vendidos, éxitos en listas internacionales y telenovelas que alcanzaron audiencias de miles de millones de espectadores.",
+      "category": "sociedad",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/espectaculos/thalia-cumple-55-anos-una-carrera-de-millones-de-discos-exitos-y-polemicas/",
+      "published_at": "2026-08-26T17:17:36+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a describir hechos y cifras de la trayectoria de Thalía sin usar un cargado ni inclinarse hacia una posición política; el tono es mayormente informativo y celebratorio.",
+      "focus_analysis": "El medio destaca el éxito comercial y el impacto cultural de Thalía en la música y la televisión latina, dejando de lado un análisis profundo de sus polémicas personales o críticas a la industria.",
+      "focus_tags": [
+        "carrera musical",
+        "telenovelas",
+        "impacto cultural"
+      ],
+      "context": [
+        {
+          "label": "inicios",
+          "text": "Thalía empezó su carrera artística en la infancia con el grupo infantil Din‑Din y luego como parte del popular conjunto Timbiriche, lo que le permitió ganar visibilidad antes de lanzar su carrera como solista."
+        },
+        {
+          "label": "telenovelas",
+          "text": "Las telenovelas 'María Mercedes', 'Marimar' y 'María la del Barrio' fueron transmitidas en más de 180 países, acumulando una audiencia estimada de mil millones de espectadores y consolidando su fama internacional."
+        },
+        {
+          "label": "comparación",
+          "text": "En el ámbito de la música latina, Thalía se sitúa entre las artistas con mayor presencia en Billboard, detrás solo de Shakira y Ednita Nazario, lo que refleja su relevancia dentro del panorama del pop latino."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "6496228caa3a",
       "title": "Meta pagará casi 18.000 millones de dólares para resolver las demandas por la adicción de los adolescentes a sus herramientas",
@@ -962,38 +994,6 @@
       "qc": {
         "overall": 7.4
       }
-    },
-    {
-      "id": "bf9c746ca116",
-      "title": "Sicario llega hasta barbería de Irapuato y al tener de frente al peluquero le dispara tres veces",
-      "summary": "Un peluquero de Irapuato, Guanajuato, resultó gravemente herido tras ser atacado a tiros dentro de su barbería en la colonia Flores Magón Sur el 25 de agosto.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/irapuato/2026/08/25/sicario-llega-hasta-barberia-de-irapuato-y-al-tener-de-frente-al-peluquero-le-dispara-tres-veces-1836592.html",
-      "published_at": "2026-08-26T01:51:08+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se limita a describir hechos sin usar vocabulario cargado, sin citar fuentes con sesgo y sin incluir opiniones o juicios políticos.",
-      "focus_analysis": "El medio se centra en el hecho del ataque armado y la víctima, omitiendo el contexto de seguridad pública y posibles motivaciones del delito.",
-      "focus_tags": [
-        "violencia",
-        "ataque armado",
-        "seguridad pública"
-      ],
-      "context": [
-        {
-          "label": "Aumento de la violencia en Guanajuato",
-          "text": "En los últimos años, el estado de Guanajuato ha registrado un incremento de los índices de homicidios y agresiones armadas, especialmente en zonas urbanas como Irapuato."
-        },
-        {
-          "label": "Presencia de la Guardia Nacional",
-          "text": "El gobierno federal ha desplegado a la Guardia Nacional en varios municipios de Guanajuato para reforzar la seguridad y combatir la criminalidad organizada."
-        },
-        {
-          "label": "Ataques a pequeños comercios",
-          "text": "Diversos medios locales han reportado incidentes similares en los que negocios pequeños, como barberías y tiendas, son objetivo de asaltos con armas de fuego."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
