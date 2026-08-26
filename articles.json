@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-26T11:21:03.342307+00:00",
+  "generated_at": "2026-08-26T11:38:27.270991+00:00",
   "articles": [
+    {
+      "id": "0de8b25ab64a",
+      "title": "El TSJ de Castilla y León no deja lugar a dudas: entrar 7.685 veces a webs en horas de trabajo es motivo de despido",
+      "summary": "El Tribunal Superior de Justicia de Castilla y León confirmó el despido disciplinario de un gerente de Mercadona después de que el trabajador registrara 7.685 accesos a sitios web ajenos a su labor durante la jornada, además de otros incumplimientos del convenio colectivo.",
+      "category": "sociedad",
+      "source_name": "Xataka",
+      "source_url": "https://www.xataka.com/empresas-y-economia/tsj-castilla-leon-no-deja-lugar-a-dudas-entrar-7-685-veces-a-webs-horas-trabajo-motivo-despido",
+      "published_at": "2026-08-26T11:31:04+00:00",
+      "bias_score": 5,
+      "bias_reason": "El texto destaca la legitimidad del despido y la normativa empresarial sin profundizar en la defensa del trabajador, usando un tono que favorece la postura del empleador.",
+      "focus_analysis": "El medio se centra en el ángulo jurídico‑institucional y de productividad empresarial, omitiendo la perspectiva de los derechos del trabajador y el debate sobre la vigilancia digital.",
+      "focus_tags": [
+        "derecho laboral",
+        "despido disciplinario",
+        "uso de internet en el trabajo"
+      ],
+      "context": [
+        {
+          "label": "Marco legal",
+          "text": "El fallo se apoya en el artículo 54.2.d del Estatuto de los Trabajadores y en los artículos 39.3c y 39.3g del convenio colectivo de Mercadona, que consideran grave el uso no autorizado de recursos informáticos."
+        },
+        {
+          "label": "Prácticas de monitorización",
+          "text": "En España, muchas empresas registran la actividad online de sus empleados mediante sistemas de control de ordenadores para garantizar el cumplimiento de la política interna."
+        },
+        {
+          "label": "Perspectiva alternativa",
+          "text": "Otros medios, como Genbeta, ponen el foco en la necesidad de compras online en zonas rurales por la escasez de comercios, lo que muestra un contexto económico más amplio detrás del uso de internet en el trabajo."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "84ad2313ab71",
       "title": "Última hora de la entrada de  inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
@@ -945,41 +977,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "a114be6691b8",
-      "title": "Precio del huevo, por las nubes: tiene mayor alza en 20 años, ¿cómo impacta en los hogares del país?",
-      "summary": "El precio del huevo en México alcanzó su mayor aumento en veinte años, con una alza del 7.92 % en la primera quincena de agosto, lo que afecta especialmente a los hogares de menores ingresos que destinan más de la mitad de su gasto a alimentos.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/finanzaspersonales/precio-huevo-nubes-mayor-alza-20-anos-impacta-hogares-pais-20260825-829903.html",
-      "published_at": "2026-08-25T17:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El artículo se basa en datos oficiales y citas de expertos sin usar lenguaje emotivo ni adoptar una postura política, manteniendo una cobertura neutra y centrada en los hechos económicos.",
-      "focus_analysis": "El medio enfatiza el impacto económico del alza del huevo en los hogares, particularmente los de bajos ingresos, mientras omite la discusión sobre respuestas políticas o causas estructurales del incremento.",
-      "focus_tags": [
-        "inflación alimentos",
-        "impacto hogares",
-        "precio huevo"
-      ],
-      "context": [
-        {
-          "label": "histórico precios huevo",
-          "text": "Según datos del INEGI, el precio del huevo ha registrado aumentos menores en los últimos veinte años, con la última alza del 7.92 % en agosto de 2026 superando cualquier incremento similar desde 2006."
-        },
-        {
-          "label": "gasto alimentos bajos ingresos",
-          "text": "En México, los hogares del decil más bajo destinan alrededor del 52 % de su ingreso total a alimentos, lo que los hace especialmente vulnerables a aumentos de precios de productos básicos como el huevo."
-        },
-        {
-          "label": "consumo y producción huevo México",
-          "text": "México consume en promedio 345 huevos por persona al año, lo que lo coloca como el mayor consumidor per cápita del mundo y el cuarto productor global, con una producción anual cercana a 2.77 millones de toneladas."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.4
-      }
     }
   ]
 }
