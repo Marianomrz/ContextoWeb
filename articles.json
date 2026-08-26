@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-08-26T02:20:55.939754+00:00",
+  "generated_at": "2026-08-26T02:45:34.280601+00:00",
   "articles": [
+    {
+      "id": "400d78458b67",
+      "title": "El pueblito en México que te hará sentir como en Grecia",
+      "summary": "Rincón Santorini es un complejo inmobiliario y turístico en Totolapan, Morelos, México, que reproduce la arquitectura y el ambiente de las islas griegas para ofrecer a los visitantes una escapada de estilo mediterráneo a dos horas de la Ciudad de México.",
+      "category": "sociedad",
+      "source_name": "El Informador (GDL)",
+      "source_url": "https://www.informador.mx/mexico/el-pueblito-en-mexico-que-te-hara-sentir-como-en-grecia-20260825-0179.html",
+      "published_at": "2026-08-26T02:43:00+00:00",
+      "bias_score": 12,
+      "bias_reason": "El texto utiliza un lenguaje muy promocional y omite críticas o perspectivas locales, enfocándose en los atractivos y beneficios del proyecto, lo que indica una ligera inclinación pro‑turismo y pro‑desarrollo.",
+      "focus_analysis": "El medio eló el ángulo de ocio y estética mediterránea, resaltando las amenidades y la experiencia visual, mientras que dejó fuera la discusión sobre el impacto ambiental o la opinión de los residentes de la zona.",
+      "focus_tags": [
+        "turismo interno",
+        "escapada de fin de semana",
+        "arquitectura mediterránea"
+      ],
+      "context": [
+        {
+          "label": "Crecimiento del turismo interno en México",
+          "text": "En los últimos años, el turismo interno en México ha aumentado alrededor del 8 % anual, impulsado por la preferencia de los viajeros por destinos cercanos a la capital que ofrezcan experiencias diferenciadas."
+        },
+        {
+          "label": "Desarrollos temáticos similares",
+          "text": "Otros proyectos de estilo temático, como el complejo 'Bali' en Quintana Roo, también buscan atraer a visitantes ofreciendo una ambientación exótica dentro del territorio nacional."
+        },
+        {
+          "label": "Preocupaciones sobre impacto ambiental y social",
+          "text": "Organizaciones locales y ambientalistas suelen señalar que este tipo de desarrollos pueden generar presión sobre los recursos naturales y alterar la dinámica social de las comunidades cercanas."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 7.4
+      }
+    },
     {
       "id": "bf9c746ca116",
       "title": "Sicario llega hasta barbería de Irapuato y al tener de frente al peluquero le dispara tres veces",
@@ -956,38 +991,6 @@
       "qc": {
         "overall": 7.4
       }
-    },
-    {
-      "id": "bfed7e2b30c8",
-      "title": "La Casa de los Famosos México en vivo: Masad es el nuevo líder de la semana y compartirá la suite con Yahir",
-      "summary": "En el reality La Casa de los Famosos México 2026, el concursante Masad Altamimi se impuso como líder semanal tras ganar una prueba de equilibrio y eligió al cantante Yahir para compartir la suite, mientras nominó directamente a la actriz Gema Garoa.",
-      "category": "sociedad",
-      "source_name": "Infobae México",
-      "source_url": "https://www.infobae.com/mexico/2026/08/23/la-casa-de-los-famosos-mexico-2026-en-vivo-quien-seria-el-cuarto-eliminado-y-que-habitantes-la-produccion-podria-sacar/",
-      "published_at": "2026-08-25T09:38:29+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono descriptivo y objetivo, sin palabras cargadas ni selección de fuentes que favorezcan una postura política; simplemente informa los hechos del programa.",
-      "focus_analysis": "El medio se concentra en la dinámica de la competencia y los conflictos entre los participantes, dejando de lado análisis sobre la audiencia o el impacto cultural del reality.",
-      "focus_tags": [
-        "reality TV",
-        "competencia",
-        "conflicto"
-      ],
-      "context": [
-        {
-          "label": "Formato del programa",
-          "text": "La Casa de los Famosos México, producido por Televisa y transmitido en ViX+, reúne a celebridades que conviven 24/7; cada semana se elige un líder que puede nominar directamente a un compañero para la eliminación."
-        },
-        {
-          "label": "Mecanismo de \"El Exilio\" y \"muebles\"",
-          "text": "En esta temporada, el público vota para identificar a los participantes considerados \"muebles\", es decir, los menos comprometidos, y los envía temporalmente al área de \"Exilio\", una dinámica que afecta la estrategia del juego."
-        },
-        {
-          "label": "Cobertura de otros medios",
-          "text": "El Universal destacó la expulsión de tres concursantes al \"Exilio\", mientras que Infobae se centra en el ascenso de Masad al liderazgo y sus decisiones, evidenciando diferentes ángulos de cobertura del mismo hecho."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }
