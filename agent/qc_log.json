@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T09:46:12.455887+00:00",
-      "title": "Ola progresista continúa su avance en el partido demócrata",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": false,
-      "overall": 5.0,
-      "scores": {
-        "veracidad_precision": 2,
-        "contraste_fuentes": 3,
-        "objetividad_imparcialidad": 2,
-        "actualidad": 10,
-        "estructura_piramide": 8
-      },
-      "observacion": "El paquete falla en precisión y objetividad, y carece de fuentes contrastadas, aunque está bien estructurado y es actual.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T09:46:18.229920+00:00",
       "title": "Primero la paria",
       "kind": "noticia",
@@ -2691,6 +2674,17 @@
       },
       "observacion": "El paquete es en general sólido y cumple con los criterios de objetividad y actualidad, aunque podría mejorar la verificación de datos y la inclusión de fuentes más diversas.",
       "error": null
+    },
+    {
+      "at": "2026-08-26T10:41:00.790010+00:00",
+      "title": "Última hora de la entrada de  inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de se",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
