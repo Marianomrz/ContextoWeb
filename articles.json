@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-04T14:40:46.616982+00:00",
+  "generated_at": "2026-09-04T15:01:02.827962+00:00",
   "articles": [
+    {
+      "id": "ea40651ed958",
+      "title": "Cuando la porcelana se quiebra: la voz fracturada de Clarice Lispector",
+      "summary": "Una muñeca de porcelana, con una grieta que atraviesa su cuello, se queda inmóvil sobre el alféizar mientras la lluvia dibuja ríos sobre la ciudad. Cada línea de Clarice Lispector parece una pieza de ese jarrón roto, reflejando la vida en fragmentos que, aun dispersos, forman una luz inesperada.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-09-04T15:00:43.383782+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy, al cerrar el mes de septiembre, la exposición virtual de escritoras latinoamericanas revive la urgencia de voces que desmantelan lo cotidiano. Lispector, con su estilo que desmenuza la realidad como un espejo agrietado, nos recuerda que la fragilidad es también fuente de claridad. Elegí su obra porque sus fragmentos resonan con la atmósfera de incertidumbre que marca nuestro tiempo.",
+      "focus_tags": [
+        "Ficción",
+        "Siglo XX",
+        "Brasil"
+      ],
+      "context": [
+        {
+          "label": "Primer paso",
+          "text": "Comienza con 'La hora de la estrella', una novela corta que destila la intensidad de la voz de Lispector, donde la protagonista, Macabéa, vive en la periferia de Río de Janeiro y su existencia se vuelve un espejo de la marginalidad."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Si buscas resonancia, lee 'La pasión según G.H.' y 'Água viva', dos novelas que exploran la interioridad con un estilo que se asemeja a una corriente subterránea, una corriente que arrastra recuerdos y sensaciones."
+        },
+        {
+          "label": "Contexto",
+          "text": "Lispector, nacida en Ucrania y criada en Brasil, escribe en la década de 1940‑60, periodo en que la literatura latinoamericana buscaba nuevas formas de narrar, rompiendo la linealidad y abrazando la fragmentación."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true
+    },
     {
       "id": "a6981584cd5e",
       "title": "Graciela Domínguez afirma que llegó para servir y trabajar con la gente; asegura que se cumplimentaran todos los compromisos",
@@ -974,41 +1007,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "2f3294a8f7f8",
-      "title": "El Gobierno español planea introducir normas más estrictas a los centros de datos tras la avalancha que se avecina",
-      "summary": "El Gobierno de España ha preparado un borrador de decreto que endurecerá los requisitos de consumo de agua, energía eléctrica, ciberseguridad y uso de energías renovables en los centros de datos, con el objetivo de garantizar la sostenibilidad y la soberanía de los datos mientras el país se consolida como destino atractivo para la infraestructura de IA.",
-      "category": "tecnologia",
-      "source_name": "Xataka",
-      "source_url": "https://www.xataka.com/empresas-y-economia/gobierno-espanol-planea-introducir-normas-estrictas-a-centros-datos-avalancha-que-se-avecina",
-      "published_at": "2026-08-26T09:43:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono mayormente descriptivo y cita fuentes como Reuters sin usar calificativos cargados ni favorecer a ningún partido político, centrado en los aspectos técnicos y regulatorios.",
-      "focus_analysis": "El medio se enfoca en la dimensión económica‑tecnológica de la normativa, resaltando sostenibilidad, eficiencia energética y seguridad de datos, mientras omite la discusión política interna y el impacto social o laboral de las medidas.",
-      "focus_tags": [
-        "sostenibilidad energética",
-        "regulación de IA",
-        "infraestructura de datos"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "España se ha posicionado como uno de los principales destinos europeos para centros de datos de IA gracias a su abundante energía renovable y disponibilidad de terrenos, lo que ha atraído a múltiples compañías tecnológicas."
-        },
-        {
-          "label": "normativa UE",
-          "text": "La Unión Europea está elaborando una etiqueta de sostenibilidad para centros de datos que exige altos niveles de eficiencia en consumo de agua y electricidad, marco al que la propuesta española pretende alinearse."
-        },
-        {
-          "label": "reacción de la industria",
-          "text": "Algunos operadores de centros de datos han expresado preocupación de que normas demasiado restrictivas podrían motivar la reubicación de proyectos a otras jurisdicciones con regulaciones menos exigentes."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
-      }
     }
   ]
 }
