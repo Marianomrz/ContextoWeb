@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-09-06T11:40:46.389481+00:00",
+  "generated_at": "2026-09-06T12:01:04.046329+00:00",
   "articles": [
+    {
+      "id": "ac45fae7a4b6",
+      "title": "Saltos entre las páginas: descubriendo a Julio Cortázar",
+      "summary": "Una bicicleta oxidada se apoya contra la pared de un café de Buenos Aires, su cadena suelta susurrando historias que saltan entre los adoquines. Cada pedalada es un salto de página, un ritmo que rompe la linealidad y arrastra al lector a la danza de lo inesperado. Así, Cortázar convierte la rutina urbana en un juego de espejos donde el tiempo se pliega y vuelve a abrirse.",
+      "category": "literatura",
+      "source_name": "Contexto · redacción propia",
+      "source_url": "",
+      "published_at": "2026-09-06T12:00:47.580067+00:00",
+      "bias_score": 0,
+      "bias_reason": "",
+      "focus_analysis": "Hoy la ciudad se siente fragmentada, y la idea de recorrerla en saltos cortos resuena con la forma en que Cortázar escribe, fragmentando la narrativa para revelar nuevas dimensiones. Elegí este ángulo porque la metáfora de la bicicleta oxidada captura la energía de sus obras, que, aunque gastadas por el tiempo, siguen rodando con fuerza en la imaginación.",
+      "focus_tags": [
+        "Narrativa experimental",
+        "Argentina",
+        "Siglo XX"
+      ],
+      "context": [
+        {
+          "label": "Introducción",
+          "text": "Empieza por leer “Bestiario”, la colección de cuentos que marcó el debut de Cortázar en 1951; sus relatos breves son como destellos de luz que anticipan la revolución estructural de su obra mayor."
+        },
+        {
+          "label": "Obras afines",
+          "text": "Continúa con “Rayuela”, la novela que invita a saltar de capítulo en capítulo según la propia voluntad del lector, una experiencia que recuerda a los recorridos sin mapa de una ciudad desconocida."
+        },
+        {
+          "label": "Trasfondo",
+          "text": "Explora la vida del autor: su infancia en Bruselas, su exilio en Francia y su regreso a Argentina, momentos que alimentaron su visión de la literatura como un espacio transfronterizo y atemporal."
+        }
+      ],
+      "confidence": "alta",
+      "editorial_pick": true
+    },
     {
       "id": "5047aeb5d1ac",
       "title": "Argentina vs. Reino Unido: lo que hay que saber de las Malvinas y qué puede pasar tras el reclamo de Milei",
@@ -972,41 +1005,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "84ad2313ab71",
-      "title": "Última hora de la entrada de  inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
-      "summary": "El ministerio de Inclusión, Seguridad Social y Migración, encabezado por Elma Saiz, volvió a Ceuta para reforzar los recursos de acogida mientras el presidente de la oposición, Alberto Núñez Feijóo, exigió al CNI que aclare las supuestas versiones del Gobierno sobre la crisis migratoria.",
-      "category": "politica",
-      "source_name": "El País América",
-      "source_url": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "published_at": "2026-08-26T10:18:32+00:00",
-      "bias_score": 5,
-      "bias_reason": "El texto presenta tanto la acción gubernamental como la crítica de la oposición sin usar un lenguaje cargado, lo que indica un enfoque mayormente neutral con una ligera tendencia hacia la perspectiva del gobierno.",
-      "focus_analysis": "El medio prioriza la dimensión política e institucional de la crisis, resaltando decisiones y demandas de autoridades, mientras omite la perspectiva humana y el impacto económico en la población de Ceuta.",
-      "focus_tags": [
-        "crisis migratoria",
-        "política española",
-        "Ceuta"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes migratorios",
-          "text": "A finales de julio de 2026, entre 70 000 y 80 000 migrantes cruzaron la frontera desde Marruecos a Ceuta, generando una presión sin precedentes sobre los servicios de acogida y la infraestructura de la ciudad autónoma."
-        },
-        {
-          "label": "Reformas legislativas",
-          "text": "El Gobierno español aprobó dos anteproyectos de ley el 25 de agosto de 2026 para reformar el marco de asilo y extranjería, alineando la normativa nacional con el Pacto Europeo de Migración y Asilo."
-        },
-        {
-          "label": "Reacción de la oposición",
-          "text": "El líder del Partido Popular, Alberto Núñez Feijóo, solicitó al Comité de Inteligencia Nacional que esclarezca supuestas versiones oficiales sobre la gestión de la crisis, demandando mayor transparencia y control."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.0
-      }
     }
   ]
 }
