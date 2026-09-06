@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T20:20:46.551858+00:00",
-      "title": "Peso mexicano cae marginalmente frente al dólar tras anotar nuevo mejor nivel del año",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": 9.2,
-      "scores": {
-        "veracidad_precision": 8,
-        "contraste_fuentes": 9,
-        "objetividad_imparcialidad": 9,
-        "actualidad": 10,
-        "estructura_piramide": 10
-      },
-      "observacion": "El paquete cumple con los estándares de calidad editorial, presentando información veraz, objetiva y actual, pese a un pequeño error numérico en el campo de sesgo.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T20:20:49.821066+00:00",
       "title": "\"Mi hijo probara su inocencia\", asegura padre de Fausto Corrales; testigo del secuestro de \"El Mayo\"",
       "kind": "noticia",
@@ -2685,6 +2668,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-09-06T15:20:46.530368+00:00",
+      "title": "Valencia - Barcelona en directo | El Barça gana al descanso en Mestalla",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 7,
+        "contraste_fuentes": 9,
+        "objetividad_imparcialidad": 10,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere incluir la puntuación final y fuentes específicas para reforzar la veracidad.",
+      "error": null
     }
   ]
 }
