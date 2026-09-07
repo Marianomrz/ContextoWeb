@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T20:20:49.821066+00:00",
-      "title": "\"Mi hijo probara su inocencia\", asegura padre de Fausto Corrales; testigo del secuestro de \"El Mayo\"",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-20T20:39:01.375455+00:00",
       "title": "Ríos de memoria: la genealogía de los ecos en la obra de Yaa Gyasi",
       "kind": "literatura",
@@ -2685,6 +2674,17 @@
       },
       "observacion": "El paquete cumple en gran medida con los estándares de calidad editorial; solo se sugiere incluir la puntuación final y fuentes específicas para reforzar la veracidad.",
       "error": null
+    },
+    {
+      "at": "2026-09-07T07:20:41.833992+00:00",
+      "title": "Cartas que susurran: la fuerza silente de Mariama Bâ",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
