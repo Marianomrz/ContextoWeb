@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-07T15:20:48.793637+00:00",
+  "generated_at": "2026-09-07T15:40:45.596809+00:00",
   "articles": [
+    {
+      "id": "180426ea7486",
+      "title": "Producción automotriz cae un 1,43%; exportaciones suben un 1,26% en agosto",
+      "summary": "En agosto de 2026 la producción de vehículos ligeros en México disminuyó un 1,43% interanual, mientras que las exportaciones crecieron un 1,26%, según datos del INEGI.",
+      "category": "economia",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/cartera/produccion-automotriz-cae-un-143-exportaciones-suben-un-126-en-agosto/",
+      "published_at": "2026-09-07T15:36:42+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se limita a presentar cifras oficiales y comparaciones mensuales sin usar vocabulario cargado ni incluir opiniones, lo que indica una cobertura neutral.",
+      "focus_analysis": "El medio se centra en el desempeño económico del sector automotriz, resaltando los indicadores de producción y exportación; deja de lado el impacto social o laboral y los debates políticos sobre aranceles.",
+      "focus_tags": [
+        "producción automotriz",
+        "exportaciones",
+        "economía mexicana"
+      ],
+      "context": [
+        {
+          "label": "peso del sector",
+          "text": "La industria automotriz es la mayor de México, representando cerca del 4 % del PIB nacional y alrededor del 20,5 % del PIB manufacturero."
+        },
+        {
+          "label": "presión arancelaria",
+          "text": "En 2025 Estados Unidos impuso aranceles del 25 % a la importación de vehículos y a componentes que no cumplían con las reglas de origen, lo que afectó la producción del sector."
+        },
+        {
+          "label": "comparación mensual",
+          "text": "A diferencia de julio, cuando la producción cayó un 2,19 % y las exportaciones un 9,69 %, en agosto la caída de la producción fue menor y las exportaciones mostraron crecimiento."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "bc3e093103b6",
       "title": "Sheinbaum atribuye al INE la definición de reglas ante posible ataque de bots como en Colombia",
@@ -977,41 +1009,6 @@
         }
       ],
       "confidence": "alta"
-    },
-    {
-      "id": "b5bb7c38a8b1",
-      "title": "Cientos de personas desaparecidos tras riadas e inundaciones en Nepal: lo que sabemos de la catástrofe",
-      "summary": "Una súbita inundación provocada por el desbordamiento del río Bhotekoshi en la frontera entre Nepal y el Tíbet dejó al menos 22 muertos y 384 desaparecidos, entre ellos numerosos turistas de países como India, Reino Unido y Corea del Sur, y ha generado una operación de rescate coordinada por Nepal, India y China.",
-      "category": "internacional",
-      "source_name": "France24 Español",
-      "source_url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260826-cientos-de-personas-desaparecidos-tras-riadas-e-inundaciones-en-nepal-lo-que-sabemos-de-la-cat%C3%A1strofe",
-      "published_at": "2026-08-26T13:19:39+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto se mantiene objetivo, usando lenguaje descriptivo sin adjetivos cargados y citando fuentes oficiales y expertos, lo que indica una cobertura neutra.",
-      "focus_analysis": "El medio se centra en la dimensión humanitaria del desastre y la cooperación internacional para el rescate, dejando de lado el impacto económico y la discusión sobre el cambio climático.",
-      "focus_tags": [
-        "desastre natural",
-        "coordinación internacional",
-        "turismo afectado"
-      ],
-      "context": [
-        {
-          "label": "antecedentes",
-          "text": "En agosto de 2025, una ruptura de lago glaciar en el Tíbet provocó inundaciones similares en la zona fronteriza con Nepal, mostrando la recurrencia de desastres hidrológicos en el Himalaya."
-        },
-        {
-          "label": "vulnerabilidad climática",
-          "text": "Los expertos atribuyen la reciente riada a un alud de hielo y rocas desprendido de un glaciar, un fenómeno cada vez más frecuente por el rápido retroceso de los hielos del Himalaya."
-        },
-        {
-          "label": "respuesta internacional",
-          "text": "India y China enviaron equipos de rescate y recursos a Nepal, una cooperación que se ha repetido en eventos anteriores y que también fue destacada por medios como El País América y Euronews al señalar la coordinación transfronteriza."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }

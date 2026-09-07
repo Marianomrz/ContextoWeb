@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T21:20:41.684334+00:00",
-      "title": "La Suprema Corte niega a los estados hacer leyes sobre la extorsión",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-20T21:37:06.031990+00:00",
       "title": "Brian Hickerson reacciona a la muerte de Hayden Panettiere en medio de la investigación",
       "kind": "noticia",
@@ -2685,6 +2674,17 @@
       },
       "observacion": "En general el paquete cumple con la mayoría de los estándares periodísticos, aunque podría mejorar la inclusión de perspectivas contrastantes para reforzar la cobertura equilibrada.",
       "error": null
+    },
+    {
+      "at": "2026-09-07T15:40:37.131206+00:00",
+      "title": "Producción automotriz cae un 1,43%; exportaciones suben un 1,26% en agosto",
+      "kind": "noticia",
+      "category": "economia",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
     }
   ]
 }
