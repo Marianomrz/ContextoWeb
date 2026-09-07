@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-07T14:20:44.676356+00:00",
+  "generated_at": "2026-09-07T14:41:21.309158+00:00",
   "articles": [
+    {
+      "id": "c793f6d078a8",
+      "title": "Cuatro de cada 10 inversionistas de startups mexicanas de IA están en Estados Unidos",
+      "summary": "Según un estudio del Centre for International Governance Innovation, el 41,4 % de los inversionistas activos en startups mexicanas de inteligencia artificial se encuentran en Estados Unidos, lo que muestra que la mayoría de los 215 inversionistas identificados son extranjeros, con el venture capital como la forma de financiamiento predominante.",
+      "category": "economia",
+      "source_name": "El Economista",
+      "source_url": "https://www.eleconomista.com.mx/tecnologia/cuatro-10-inversionistas-startups-mexicanas-ia-estados-unidos-20260907-832223.html",
+      "published_at": "2026-09-07T14:39:24+00:00",
+      "bias_score": 10,
+      "bias_reason": "El texto emplea un lenguaje mayormente neutral y se basa en datos del estudio CIGI, sin usar adjetivos cargados ni fuentes con sesgo evidente; la ligera inclinación a la derecha proviene de la énfasis en la presencia dominante de EE. UU. como positiva implícita.",
+      "focus_analysis": "El medio se centra en el ángulo económico‑financiero, resaltando la procedencia extranjera de los inversores y el papel del venture capital, mientras deja de lado el impacto tecnológico o las políticas públicas relacionadas con la IA en México.",
+      "focus_tags": [
+        "inversión extranjera",
+        "startup IA México",
+        "venture capital"
+      ],
+      "context": [
+        {
+          "label": "antecedentes",
+          "text": "México ha dependido históricamente de capital de riesgo extranjero para financiar sus startups, con EE. UU. como principal fuente de inversión en sectores tecnológicos."
+        },
+        {
+          "label": "datos comparables",
+          "text": "En el estudio del CIGI, EE. UU. representa 41.4 % de los inversionistas en startups mexicanas de IA, mientras que en Brasil la participación extranjera es del 24.2 % y en Tailandia solo del 10.2 %."
+        },
+        {
+          "label": "postura de otros actores",
+          "text": "El sector de aceleradoras estadounidenses, como MassChallenge y 500 Global, lidera el número de colocaciones en México, evidenciando la influencia de la infraestructura de apoyo de EE. UU. en el ecosistema emprendedor local."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "4587d1fe5559",
       "title": "Cartas que susurran: la fuerza silente de Mariama Bâ",
@@ -974,38 +1006,6 @@
         {
           "label": "Retos de las pymes en México",
           "text": "En México, las pequeñas y medianas empresas suelen enfrentar dificultades para retener talento, lo que se traduce en mayores gastos operativos y menor competitividad."
-        }
-      ],
-      "confidence": "alta"
-    },
-    {
-      "id": "30edd51d9350",
-      "title": "Suiza votará referéndum para reforzar su neutralidad o cooperar con la OTAN",
-      "summary": "Los votantes suizos decidirán en septiembre si aprueban una reforma constitucional que reforzará la neutralidad del país y prohibirá sanciones económicas o la cooperación con la OTAN, una propuesta respaldada por sectores de la derecha y que ha recibido apoyo del Kremlin.",
-      "category": "politica",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/internacionales/suiza-votara-referendum-reforzar-neutralidad-cooperar-otan-20260826-830273.html",
-      "published_at": "2026-08-26T12:19:17+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto presenta hechos y opiniones de distintas partes (gobierno suizo, político de derecha, portavoz ruso) sin usar un cargada ni favorecer a un lado, manteniendo un tono informativo.",
-      "focus_analysis": "El artículo se centra en el debate político‑constitucional y las ram geopolíticas del referéndum suizo, dejando de lado aspectos económicos o de seguridad interna más detallados.",
-      "focus_tags": [
-        "neutralidad suiza",
-        "referéndum",
-        "OTAN"
-      ],
-      "context": [
-        {
-          "label": "historia de la neutralidad",
-          "text": "Suiza ha mantenido una política de neutralidad permanente desde el Congreso de Viena en 1815, consagrada en su Constitución desde 1848, lo que la mantuvo al margen de los dos conflictos mundiales."
-        },
-        {
-          "label": "sanciones a Rusia",
-          "text": "En 2022 Suiza aplicó sanciones contra Rusia por su invasión a Ucrania, lo que generó críticas de Moscú y alimentó el debate interno sobre la flexibilidad de la neutralidad suiza."
-        },
-        {
-          "label": "precedentes de referéndums",
-          "text": "En años recientes Suiza ha celebrado referéndums sobre su relación con la Unión Europea, como el rechazo a la adhesión a la UE en 1992, lo que muestra una tradición de decidir su política externa mediante votación popular."
         }
       ],
       "confidence": "alta"

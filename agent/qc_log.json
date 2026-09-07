@@ -1,23 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T20:39:01.375455+00:00",
-      "title": "Ríos de memoria: la genealogía de los ecos en la obra de Yaa Gyasi",
-      "kind": "literatura",
-      "category": "literatura",
-      "approved": true,
-      "overall": 7.6,
-      "scores": {
-        "originalidad_creatividad": 7,
-        "riqueza_estilo": 7,
-        "estructura_narrativa": 8,
-        "voz_autor": 8,
-        "profundidad_tematica": 8
-      },
-      "observacion": "El texto cumple con los estándares editoriales, ofreciendo una pieza literaria bien estructurada y con suficiente profundidad temática.",
-      "error": null
-    },
-    {
       "at": "2026-08-20T20:58:45.665739+00:00",
       "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 20 de agosto: continúa el bloqueo",
       "kind": "noticia",
@@ -2680,6 +2663,17 @@
       "title": "Cartas que susurran: la fuerza silente de Mariama Bâ",
       "kind": "literatura",
       "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-09-07T14:41:11.564146+00:00",
+      "title": "Cuatro de cada 10 inversionistas de startups mexicanas de IA están en Estados Unidos",
+      "kind": "noticia",
+      "category": "economia",
       "approved": true,
       "overall": null,
       "scores": {},
