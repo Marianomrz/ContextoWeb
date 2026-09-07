@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-09-07T15:01:05.780551+00:00",
+  "generated_at": "2026-09-07T15:20:48.793637+00:00",
   "articles": [
+    {
+      "id": "bc3e093103b6",
+      "title": "Sheinbaum atribuye al INE la definición de reglas ante posible ataque de bots como en Colombia",
+      "summary": "Claudia Sheinbaum, presidenta de México, declaró que corresponde al Instituto Nacional Electoral (INE) definir las normas para enfrentar un posible ataque de bots en la propaganda digital, similar al caso que ocurrió en Colombia.",
+      "category": "politica",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/09/07/sheinbaum-atribuye-al-ine-la-definicion-de-reglas-ante-posible-ataque-de-bots-como-en-colombia/",
+      "published_at": "2026-09-07T15:18:57+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y neutro, citando solo declaraciones oficiales sin emplear adjetivos cargados ni favorecer a ningún partido político.",
+      "focus_analysis": "El artículo se centra en el encuadre institucional y de seguridad electoral, destacando la responsabilidad del INE y del Tribunal Electoral, mientras deja de lado el impacto directo en los ciudadanos y la dimensión humana del fenómeno.",
+      "focus_tags": [
+        "electoral",
+        "seguridad digital",
+        "institucional"
+      ],
+      "context": [
+        {
+          "label": "Caso de bots en Colombia",
+          "text": "Durante las elecciones colombianas, el expresidente Gustavo Petro informó sobre el uso de bots para manipular la propaganda digital, lo que generó preocupación en la región sobre la integridad de los procesos electorales."
+        },
+        {
+          "label": "Competencias del INE en México",
+          "text": "El Instituto Nacional Electoral es una entidad autónoma encargada de organizar y supervisar las elecciones en México; previamente intentó incluir la regulación de la propaganda en redes sociales en la ley electoral, pero la propuesta no fue aprobada."
+        },
+        {
+          "label": "Desinformación digital en América Latina",
+          "text": "Varios países latinoamericanos, como Brasil y Argentina, han enfrentado campañas de desinformación en línea que han influido en la opinión pública, lo que ha impulsado debates sobre la necesidad de marcos regulatorios más estrictos."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.2
+      }
+    },
     {
       "id": "c793f6d078a8",
       "title": "Cuatro de cada 10 inversionistas de startups mexicanas de IA están en Estados Unidos",
@@ -977,38 +1012,6 @@
       "qc": {
         "overall": 8.6
       }
-    },
-    {
-      "id": "7eae9e5a500c",
-      "title": "Cómo desarrollar al talento y evitar la rotación de los colaboradores",
-      "summary": "El Economista indica que las empresas pueden reducir la rotación de personal al impulsar el desarrollo de habilidades mediante mentorías internas, retos de 90 días y programas de sombra, acciones que requieren tiempo y compromiso de los líderes más que grandes inversiones.",
-      "category": "economia",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/el-empresario/desarrollar-talento-evitar-rotacion-colaboradores-20260826-830196.html",
-      "published_at": "2026-08-26T13:00:00+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto utiliza un tono informativo y neutral, sin vocabulario cargado ni referencias políticas, centrándose en recomendaciones de gestión de recursos humanos.",
-      "focus_analysis": "El medio elige el ángulo de recursos humanos y gestión organizacional, resaltando estrategias de desarrollo de talento y sus beneficios económicos, dejando de lado análisis macroeconómicos o políticos sobre el mercado laboral.",
-      "focus_tags": [
-        "desarrollo de talento",
-        "retención de empleados",
-        "programas de mentoría"
-      ],
-      "context": [
-        {
-          "label": "Datos globales de compromiso",
-          "text": "Según Gallup, alrededor del 59 % de los trabajadores a nivel mundial están en una situación de \"renuncia silenciosa\" y solo el 23 % se declara comprometido con su empresa."
-        },
-        {
-          "label": "Costo de la rotación",
-          "text": "Wellhub estima que reemplazar a un colaborador puede costar entre la mitad y cuatro veces su salario anual, considerando reclutamiento, capacitación y pérdida de productividad."
-        },
-        {
-          "label": "Retos de las pymes en México",
-          "text": "En México, las pequeñas y medianas empresas suelen enfrentar dificultades para retener talento, lo que se traduce en mayores gastos operativos y menor competitividad."
-        }
-      ],
-      "confidence": "alta"
     }
   ]
 }

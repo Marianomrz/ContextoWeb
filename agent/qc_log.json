@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-20T20:58:45.665739+00:00",
-      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 20 de agosto: continúa el bloqueo",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-20T21:20:41.684334+00:00",
       "title": "La Suprema Corte niega a los estados hacer leyes sobre la extorsión",
       "kind": "noticia",
@@ -2679,6 +2668,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-09-07T15:20:40.198856+00:00",
+      "title": "Sheinbaum atribuye al INE la definición de reglas ante posible ataque de bots como en Colombia",
+      "kind": "noticia",
+      "category": "politica",
+      "approved": true,
+      "overall": 8.2,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 5,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "En general el paquete cumple con la mayoría de los estándares periodísticos, aunque podría mejorar la inclusión de perspectivas contrastantes para reforzar la cobertura equilibrada.",
+      "error": null
     }
   ]
 }
