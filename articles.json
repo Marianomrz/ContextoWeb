@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-07T22:00:48.001521+00:00",
+  "generated_at": "2026-09-07T22:20:53.785213+00:00",
   "articles": [
+    {
+      "id": "43a2505a87b9",
+      "title": "Estudiante de Tamaulipas crea extintor que apaga fuego con sonido; ¿cómo funciona el artefacto?",
+      "summary": "Ángela Karime Venegas Hernández, estudiante mexicana de 16 años originaria de Altamira, Tamaulipas, creó el dispositivo Vortex Tech, un extintor portátil que apaga pequeñas llamas mediante ondas sonoras de baja frecuencia, sin usar agua ni químicos.",
+      "category": "politica",
+      "source_name": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx/tendencias/estudiante-de-tamaulipas-crea-extintor-que-apaga-fuego-con-sonido-como-funciona-el-artefacto/",
+      "published_at": "2026-09-07T22:14:19+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto emplea un tono entusiasta y patriótico, pero se centra en la innovación tecnológica sin abordar temas políticos ni presentar una agenda ideológica.",
+      "focus_analysis": "El medio destaca el aspecto científico‑tecnológico y el orgullo nacional del invento juvenil, dejando de lado análisis sobre su viabilidad comercial o impacto económico.",
+      "focus_tags": [
+        "tecnología",
+        "innovación juvenil",
+        "ciencia"
+      ],
+      "context": [
+        {
+          "label": "Antecedente internacional",
+          "text": "El concepto de extintor acústico fue introducido en 2015 por estudiantes de la George Mason University en Estados Unidos, quienes demostraron que ondas sonoras de baja frecuencia pueden extinguir pequeñas llamas."
+        },
+        {
+          "label": "Investigación acústica en incendios",
+          "text": "Estudios en física de ondas acústicas han mostrado que vibraciones sonoras pueden desestabilizar la combustión al desplazar moléculas de oxígeno, una base teórica que sustenta el prototipo de la estudiante mexicana."
+        },
+        {
+          "label": "Apoyo a la ciencia estudiantil en México",
+          "text": "Los Centros de Estudios Tecnológicos Industriales y de Servicios (CETIS) fomentan proyectos de innovación; la medalla de plata obtenida por la estudiante en un certamen nacional refleja el énfasis del país en la formación de jóvenes científicos."
+        }
+      ],
+      "confidence": "alta"
+    },
     {
       "id": "94a97ff8c2b5",
       "title": "Donald Trump publica mapa donde México aparece cubierto por la bandera de EEUU",
@@ -974,41 +1006,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "72b432ecbae5",
-      "title": "¿Qué tan pobre de tiempo eres?",
-      "summary": "El artículo de El Economista explica que la pobreza de tiempo en México, provocada por largas jornadas laborales, desplazamientos y brechas de género en tareas domésticas, afecta a millones de personas y se está abordando mediante una propuesta de ley presentada por el diputado José Braña Mojica.",
-      "category": "sociedad",
-      "source_name": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx/capital-humano/pobre-20260826-830211.html",
-      "published_at": "2026-08-26T14:00:00+00:00",
-      "bias_score": -10,
-      "bias_reason": "El texto enfatiza desigualdades de género y sociales, utiliza datos oficiales y presenta la iniciativa legislativa sin favorecer a ningún partido, lo que indica una ligera inclinación progresista pero en general neutral.",
-      "focus_analysis": "El medio se centra en el ángulo socioeconómico y de igualdad de género al describir la pobreza de tiempo, dejando de lado el debate político partidista o la perspectiva empresarial.",
-      "focus_tags": [
-        "pobreza de tiempo",
-        "igualdad de género",
-        "política laboral"
-      ],
-      "context": [
-        {
-          "label": "Datos de trabajo",
-          "text": "Según la Encuesta Nacional sobre Uso del Tiempo, los mexicanos trabajan en promedio 59.6 horas semanales, con mujeres dedicando 61.1 horas y hombres 58 horas, superando la media de la OCDE de 1,736 horas anuales."
-        },
-        {
-          "label": "Propuesta legislativa",
-          "text": "El diputado José Braña Mojica presentó la Ley General para la Prevención y Erradicación de la Pobreza de Tiempo, que busca reconocer legalmente este fenómeno y establecer medidas de desconexión digital y reducción de jornadas extensas."
-        },
-        {
-          "label": "Posición de México en la OCDE",
-          "text": "México se ubica al final de la tabla de Balance Vida‑Trabajo de la OCDE, reflejando que sus ciudadanos disponen de menos tiempo libre que la media de los países miembros."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 7.6
-      }
     }
   ]
 }
