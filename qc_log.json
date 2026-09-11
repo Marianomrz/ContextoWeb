@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-21T00:20:42.702058+00:00",
-      "title": "AMPI Guadalajara activa \"Cita Segura\" tras desaparición de agentes inmobiliarios",
-      "kind": "noticia",
-      "category": "economia",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-21T06:45:15.619486+00:00",
       "title": "Bajo la luz de una lámpara de aceite: la voz de Clarice Lispector",
       "kind": "literatura",
@@ -2684,6 +2673,17 @@
     {
       "at": "2026-09-09T16:40:41.751995+00:00",
       "title": "Bajo la linterna del monzón: la rebelión silenciosa de Lu Xun",
+      "kind": "literatura",
+      "category": "literatura",
+      "approved": true,
+      "overall": null,
+      "scores": {},
+      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
+      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-09-11T07:01:10.907478+00:00",
+      "title": "El lotus marchito: la rebelión silenciosa de Han Kang",
       "kind": "literatura",
       "category": "literatura",
       "approved": true,
