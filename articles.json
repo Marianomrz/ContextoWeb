@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-09-13T20:40:53.166424+00:00",
+  "generated_at": "2026-09-13T21:01:09.538579+00:00",
   "articles": [
+    {
+      "id": "b148002924db",
+      "title": "La historia del comisario deportivo argentino que le entregó la bandera a Franco Colapinto: “Ni en una película soñaba esto”",
+      "summary": "Gabriel Andrijciw, un comisario deportivo argentino residente en España, entregó la bandera nacional a Franco Colapinto durante la vuelta de honor del Gran Premio de España de Fórmula 1, gesto que el piloto agradeció en sus redes sociales.",
+      "category": "deportes",
+      "source_name": "Infobae Deportes",
+      "source_url": "https://www.infobae.com/deportes/2026/09/13/la-historia-del-comisario-deportivo-argentino-que-le-entrego-la-bandera-a-franco-colapinto-ni-en-una-pelicula-sonaba-esto/",
+      "published_at": "2026-09-13T20:57:05+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto se centra en una anécdota deportiva y personal, sin uso de vocabulario cargado ni selección de fuentes con sesgo político evidente.",
+      "focus_analysis": "El medio optó por un ángulo humano y emotivo, resaltando la historia del comisario y el orgullo nacional, dejando de lado el análisis técnico de la carrera o la evaluación del desempeño del piloto.",
+      "focus_tags": [
+        "human interest",
+        "motorsport",
+        "national pride"
+      ],
+      "context": [
+        {
+          "label": "Rol de los comisarios deportivos",
+          "text": "En la Fórmula 1, los comisarios deportivos, también llamados marshalls, vigilan la pista, controlan la seguridad y aplican sanciones, funcionando como el árbitro y el VAR del automovilismo."
+        },
+        {
+          "label": "Franco Colapinto",
+          "text": "Franco Colapinto es un joven piloto argentino que ha destacado en la Fórmula 2 y recientemente debutó en la Fórmula 1, convirtiéndose en uno de los pocos representantes de Argentina en la categoría máxima."
+        },
+        {
+          "label": "Migración argentina a España",
+          "text": "Tras la crisis económica de 2001, muchos argentinos, como Gabriel Andrijciw, emigraron a España en busca de mejores oportunidades laborales, manteniendo vínculos con su país de origen."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 8.6
+      }
+    },
     {
       "id": "f2708475ecac",
       "title": "EN VIVO | Clima CDMX y resto de México hoy 13 de septiembre: activan contingencia ambiental en el Valle de México",
@@ -970,41 +1005,6 @@
         }
       ],
       "confidence": "media"
-    },
-    {
-      "id": "09b7b47962c7",
-      "title": "Inundaciones y deslizamientos de tierra en Nepal: SRE no reporta mexicanos afectados; pide atender indicaciones locales",
-      "summary": "La Secretaría de Relaciones Exteriores de México, encabezada por el canciller Roberto Velasco, informó que no se han registrado mexicanos afectados por las inundaciones y deslizamientos de tierra en la zona fronteriza de Nepal con China, y pidió a los ciudadanos seguir las indicaciones de las autoridades locales.",
-      "category": "politica",
-      "source_name": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx/nacion/inundaciones-y-deslizamientos-de-tierra-en-nepal-sre-no-reporta-mexicanos-afectados-pide-atender-indicaciones-locales/",
-      "published_at": "2026-08-26T16:39:38+00:00",
-      "bias_score": 10,
-      "bias_reason": "El texto se limita a citar declaraciones oficiales sin usar un emotivo ni presentar opiniones, manteniendo un tono informativo y neutro.",
-      "focus_analysis": "El medio se centra en la perspectiva institucional del gobierno mexicano y la seguridad consular, dejando de lado la magnitud del desastre y el sufrimiento de la población local.",
-      "focus_tags": [
-        "gobierno México",
-        "seguridad consular",
-        "desastres naturales"
-      ],
-      "context": [
-        {
-          "label": "Antecedentes del desastre en Nepal",
-          "text": "Las inundaciones y deslizamientos de tierra en la zona fronteriza entre Nepal y China han dejado decenas de muertos y cientos de desaparecidos, según reportes de medios internacionales."
-        },
-        {
-          "label": "Respuesta institucional de México",
-          "text": "La Secretaría de Relaciones Exteriores, bajo la dirección del canciller Roberto Velasco, ha declarado que no hay mexicanos afectados y ha solicitado a los ciudadanos en Nepal seguir las indicaciones de las autoridades locales."
-        },
-        {
-          "label": "Procedimientos consulares habituales",
-          "text": "En situaciones de emergencias en el extranjero, la SRE suele aconsejar a los connacionales contactar a la embajada o consulado correspondiente y proporcionar números de emergencia, como el de la embajada mexicana en India."
-        }
-      ],
-      "confidence": "media",
-      "qc": {
-        "overall": 8.6
-      }
     }
   ]
 }

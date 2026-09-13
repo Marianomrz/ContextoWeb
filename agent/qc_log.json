@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-21T09:25:10.653281+00:00",
-      "title": "Llega a México Fernando Farías Laguna, excontralmirante de la Marina acusado de liderar red de huach",
-      "kind": "noticia",
-      "category": "politica",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-21T09:40:50.166489+00:00",
       "title": "Bilbao se ha marcado un Alemania: prohibido pagar con Bizum o tarjeta en la Aste Nagusia",
       "kind": "noticia",
@@ -2690,6 +2679,23 @@
         "estructura_piramide": 9
       },
       "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y contrastada.",
+      "error": null
+    },
+    {
+      "at": "2026-09-13T21:00:58.112617+00:00",
+      "title": "La historia del comisario deportivo argentino que le entregó la bandera a Franco Colapinto: “Ni en u",
+      "kind": "noticia",
+      "category": "deportes",
+      "approved": true,
+      "overall": 8.6,
+      "scores": {
+        "veracidad_precision": 8,
+        "contraste_fuentes": 7,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de calidad editorial, ofreciendo una información veraz, actual y estructurada de manera adecuada, aunque podría reforzarse con fuentes complementarias.",
       "error": null
     }
   ]
