@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-09-13T20:20:51.782290+00:00",
+  "generated_at": "2026-09-13T20:40:53.166424+00:00",
   "articles": [
+    {
+      "id": "f2708475ecac",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 13 de septiembre: activan contingencia ambiental en el Valle de México",
+      "summary": "El Servicio Meteorológico Nacional y la Comisión Ambiental de la Megalópolis anunciaron la activación de la fase I de la contingencia ambiental por ozono en la zona metropolitana del Valle de México para el domingo 13 de septiembre, con pronóstico de lluvias intensas y recomendaciones de limitar actividades al aire libre.",
+      "category": "sociedad",
+      "source_name": "Infobae México",
+      "source_url": "https://www.infobae.com/mexico/2026/09/13/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-13-de-septiembre/",
+      "published_at": "2026-09-13T20:35:39+00:00",
+      "bias_score": 0,
+      "bias_reason": "El texto utiliza un lenguaje descriptivo y factual, sin adjetivos cargados ni opiniones; se limita a presentar datos meteorológicos y avisos oficiales, sin citar fuentes con sesgo ni enfatizar posiciones políticas.",
+      "focus_analysis": "El medio se centró en el pronóstico del tiempo y la alerta ambiental, ofreciendo datos concretos y consejos prácticos para la población; no profundiza en las causas subyacentes de la contaminación ni en la evaluación de la política ambiental.",
+      "focus_tags": [
+        "contingencia ambiental",
+        "clima",
+        "valle de méxico"
+      ],
+      "context": [
+        {
+          "label": "Antecedente",
+          "text": "En México, la Comisión Ambiental de la Megalópolis (CaMe) regula la calidad del aire en la zona metropolitana del Valle de México y activa fases de contingencia cuando los niveles de ozono superan los límites establecidos por la normativa nacional."
+        },
+        {
+          "label": "Dato comparativo",
+          "text": "Históricamente, la Ciudad de México ha enfrentado episodios recurrentes de alta contaminación atmosférica, especialmente en invierno, lo que ha llevado a la implementación de restricciones vehiculares y campañas de concienciación."
+        },
+        {
+          "label": "Postura de otros medios",
+          "text": "Otros periódicos como El Economista, Informador y Reforma también reportaron la misma alerta, pero destacaron horarios específicos de la CaMe y los vehículos exentos, subrayando la dimensión operativa de la medida."
+        }
+      ],
+      "confidence": "alta",
+      "qc": {
+        "overall": 9.0
+      }
+    },
     {
       "id": "0b36f991420a",
       "title": "Café bajo la lluvia: la introspección de Fernando Pessoa",
@@ -969,41 +1004,6 @@
       "confidence": "media",
       "qc": {
         "overall": 8.6
-      }
-    },
-    {
-      "id": "bdd98c3c6bf9",
-      "title": "Cae producción de vivienda social en León; anuncian la Feria de la Vivienda 2026",
-      "summary": "La construcción de vivienda de interés social en León, México, ha caído de alrededor de 8 mil unidades anuales a cerca de 2 mil, según los dirigentes de Canadevi y Concamin, y en respuesta se organizará la Feria de la Vivienda 2026 para ofrecer distintas opciones de compra y financiamiento.",
-      "category": "sociedad",
-      "source_name": "Periódico AM (León)",
-      "source_url": "https://www.am.com.mx/leon/2026/08/26/cae-produccion-de-vivienda-social-en-leon-anuncian-la-feria-de-la-vivienda-2026-1836780.html",
-      "published_at": "2026-08-26T16:19:57+00:00",
-      "bias_score": 0,
-      "bias_reason": "El texto emplea un tono informativo, cite a fuentes oficiales y evita lenguaje cargado o juicios de valor, presentando tanto la caída de la producción como la iniciativa de la feria sin favorecer a ningún sector político.",
-      "focus_analysis": "El medio se centra en el aspecto económico y estructural del mercado de vivienda social, resaltando la disminución de la producción y la feria como solución, mientras deja de lado la perspectiva de los familias afectadas y el impacto social de los asentamientos irregulares.",
-      "focus_tags": [
-        "vivienda social",
-        "desarrollo urbano",
-        "feria inmobiliaria"
-      ],
-      "context": [
-        {
-          "label": "national_housing_policy",
-          "text": "El Programa Nacional de Vivienda para el Bienestar, impulsado por el gobierno federal, busca ampliar el acceso a vivienda digna, pero varios estados, incluido Guanajuato, reportan retrasos en cumplir sus metas por falta de terrenos y recursos."
-        },
-        {
-          "label": "economic_factor",
-          "text": "El alto costo de la tierra en zonas céntricas de León ha incentivado la proliferación de asentamientos irregulares, ya que familias sin acceso a vivienda formal recurren a terrenos sin servicios ni certeza jurídica."
-        },
-        {
-          "label": "regional_comparison",
-          "text": "En otras ciudades de México, como Puebla y Monterrey, la oferta de vivienda social también ha experimentado reducciones, aunque han implementado incentivos fiscales y alianzas público‑privadas para reactivar la construcción."
-        }
-      ],
-      "confidence": "alta",
-      "qc": {
-        "overall": 8.2
       }
     }
   ]

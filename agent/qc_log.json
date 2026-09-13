@@ -1,17 +1,6 @@
 {
   "verdicts": [
     {
-      "at": "2026-08-21T08:52:12.757827+00:00",
-      "title": "Las 'batallas de aura' saltan de TikTok a las calles de México",
-      "kind": "noticia",
-      "category": "sociedad",
-      "approved": true,
-      "overall": null,
-      "scores": {},
-      "observacion": "QC no disponible por error técnico; publicada con advertencia.",
-      "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
-    },
-    {
       "at": "2026-08-21T09:25:10.653281+00:00",
       "title": "Llega a México Fernando Farías Laguna, excontralmirante de la Marina acusado de liderar red de huach",
       "kind": "noticia",
@@ -2685,6 +2674,23 @@
       "scores": {},
       "observacion": "QC no disponible por error técnico; publicada con advertencia.",
       "error": "402 Client Error: Payment Required for url: https://api.inceptionlabs.ai/v1/chat/completions"
+    },
+    {
+      "at": "2026-09-13T20:40:42.979395+00:00",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 13 de septiembre: activan contingencia ambiental en el Va",
+      "kind": "noticia",
+      "category": "sociedad",
+      "approved": true,
+      "overall": 9.0,
+      "scores": {
+        "veracidad_precision": 9,
+        "contraste_fuentes": 8,
+        "objetividad_imparcialidad": 9,
+        "actualidad": 10,
+        "estructura_piramide": 9
+      },
+      "observacion": "El paquete cumple con los estándares de precisión, objetividad y actualidad, presentando la información de forma clara y contrastada.",
+      "error": null
     }
   ]
 }
